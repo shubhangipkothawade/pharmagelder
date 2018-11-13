@@ -1,10 +1,8 @@
 ## Formatierungsregeln
-* **Keine** Tausendertrenner
 * Name: `Vorname Nachname`
 * Land: `Switzerland`
 * Type: `hcp` oder `hco`
-* Zahlen: `
-
+* Zahlen: Tausendertrenner. Dezimaltrenner = Punkt
 
 ## Nützliche Funktionen
 
