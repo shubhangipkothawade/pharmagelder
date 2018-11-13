@@ -36,3 +36,7 @@ Entfernt alle Umbrüche (\r) in **allen** Columns
 **add_uci**  
 `df_export = add_uci()`  
 Fügt die UCI an entsprechender Stelle ein
+
+**add_type_by_index**  
+`add_type_by_index(df_export, 220, [type_before = 'hcp', type_after = 'hco'])`  
+Fügt allen Zellen mit Index kleiner als 220 den Typ "hcp" hinzu. Den anderen "hco"

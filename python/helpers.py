@@ -3,6 +3,8 @@ import pandas as pd
 import openpyxl
 import numpy as np
 
+number_fields = ["donations_grants", "sponsorship", "registration_fees", "travel_accommodation", "fees", "related_expenses", "total"]
+
 # Shift all entries in a row one cell to the left
 def shift_left(dataframe, index):
     dataframe[index: index + 1] = dataframe[index: index + 1].shift(-1, axis='columns')
@@ -17,7 +19,14 @@ def shift_left(dataframe, index):
     Es wird nur jeweils das erste Wort (bei Doppelnamen) verglichen, da
     unterschiedliche Sortierungen (bei -, " ", ', etc.) vorkommen
 """
-def format_for_stringcompare(x):
+def format_for_stringcompare(x, lastname_before_name = True):
+
+    #Name is at the end: Swap!
+    if not lastname_before_name:
+        tmp = x.split(" ")
+        tmp.reverse()
+        x = " ".join(tmp)
+    
     x = unidecode.unidecode(x)
     x = x.replace("'", "")
     x = x.split(" ")[0]
@@ -26,7 +35,7 @@ def format_for_stringcompare(x):
     x = x.lower()
     return x
 
-def set_type_by_alphabetical_order(dataset, hcp_before_hco = True):
+def set_type_by_alphabetical_order(dataset, hcp_before_hco = True, lastname_before_name = True):
 
     #Define Type-Order
     if hcp_before_hco:
@@ -49,9 +58,10 @@ def set_type_by_alphabetical_order(dataset, hcp_before_hco = True):
 
     #Iter rows
     for i, row in dataset.iterrows():
-        if format_for_stringcompare(row['name']) >= format_for_stringcompare(row['_name_shift']) and (not alphabet_changed):
+        if format_for_stringcompare(row['name'], lastname_before_name) >= format_for_stringcompare(row['_name_shift'], lastname_before_name) and (not alphabet_changed):
             dataset.loc[i, 'type'] = val_first
         else:
+            #print(format_for_stringcompare(row['name'], lastname_before_name) + ' -> ' + format_for_stringcompare(row['_name_shift'], lastname_before_name))
             dataset.loc[i, 'type'] = val_second
             alphabet_changed = True
 
@@ -66,14 +76,9 @@ def set_type_by_alphabetical_order(dataset, hcp_before_hco = True):
 
 """
 def amounts_to_number(dataset):
-#Change Dataypes
-    dataset["donations_grants"] = pd.to_numeric(dataset["donations_grants"])
-    dataset["sponsorship"] = pd.to_numeric(dataset["sponsorship"])
-    dataset["registration_fees"] = pd.to_numeric(dataset["registration_fees"])
-    dataset["travel_accommodation"] = pd.to_numeric(dataset["travel_accommodation"])
-    dataset["fees"] = pd.to_numeric(dataset["fees"])
-    dataset["related_expenses"] = pd.to_numeric(dataset["related_expenses"])
-    dataset["total"] = pd.to_numeric(dataset["total"])
+    for field in number_fields:
+        dataset[field] = pd.to_numeric(dataset[field])
+
     return dataset
 
 """
@@ -83,13 +88,8 @@ def amounts_to_number(dataset):
 """
 #Replace apostrophe
 def replace_apostrophe(dataset):
-    dataset["donations_grants"] = dataset["donations_grants"].str.replace("'", '')
-    dataset["sponsorship"] = dataset["sponsorship"].str.replace("'", '')
-    dataset["registration_fees"] = dataset["registration_fees"].str.replace("'", '')
-    dataset["travel_accommodation"] = dataset["travel_accommodation"].str.replace("'", '')
-    dataset["fees"] = dataset["fees"].str.replace("'", '')
-    dataset["related_expenses"] = dataset["related_expenses"].str.replace("'", '')
-    dataset["total"] = dataset["total"].str.replace("'", '')
+    for field in number_fields:
+        dataset[field] = dataset[field].str.replace("'", '')
     
     return dataset
 
@@ -99,16 +99,11 @@ def replace_apostrophe(dataset):
 
 """
 def remove_dots(dataset):
-    dataset["donations_grants"] = dataset["donations_grants"].str.replace(".", '')
-    dataset["sponsorship"] = dataset["sponsorship"].str.replace(".", '')
-    dataset["registration_fees"] = dataset["registration_fees"].str.replace(".", '')
-    dataset["travel_accommodation"] = dataset["travel_accommodation"].str.replace(".", '')
-    dataset["fees"] = dataset["fees"].str.replace(".", '')
-    dataset["related_expenses"] = dataset["related_expenses"].str.replace(".", '')
-    dataset["total"] = dataset["total"].str.replace(".", '')
-    
-    return dataset
 
+    for field in number_fields:
+        dataset[field] = dataset[field].str.replace(".", '')
+
+    return dataset
 
 """
 
@@ -116,14 +111,42 @@ def remove_dots(dataset):
 
 """
 def replace_comma_to_dot(dataset):
-    dataset["donations_grants"] = dataset["donations_grants"].str.replace(",", '.')
-    dataset["sponsorship"] = dataset["sponsorship"].str.replace(",", '.')
-    dataset["registration_fees"] = dataset["registration_fees"].str.replace(",", '.')
-    dataset["travel_accommodation"] = dataset["travel_accommodation"].str.replace(",", '.')
-    dataset["fees"] = dataset["fees"].str.replace(",", '.')
-    dataset["related_expenses"] = dataset["related_expenses"].str.replace(",", '.')
-    dataset["total"] = dataset["total"].str.replace(",", '.')
+    for field in number_fields:
+        dataset[field] = dataset[field].str.replace(",", '.')
     
+    return dataset
+
+"""
+
+    Entfernt CHF
+
+"""
+def remove_chf(dataset):
+    for field in number_fields:
+        dataset[field] = dataset[field].str.replace("CHF", '')
+    
+    return dataset
+
+"""
+
+    Entferne spaces in Zahlen
+
+"""
+def remove_spaces(dataset):
+    for field in number_fields:
+        dataset[field] = dataset[field].str.replace(" ", '')
+    
+    return dataset
+
+"""
+
+    Bereinigen von Zahlen
+
+"""
+def cleanup_number(dataset):
+    dataset = replace_apostrophe(dataset)
+    dataset = remove_chf(dataset)
+    dataset = remove_spaces(dataset)
     return dataset
 
 """
@@ -179,7 +202,8 @@ def write_to_excel(dataset, path):
 """
 def remove_carination(dataset):
     for column in dataset:
-        dataset[column] = dataset[column].str.replace('\\r', '')
+        if not np.issubdtype(dataset[column].dtype, np.number):
+            dataset[column] = dataset[column].str.replace('\\r', '')
     return dataset
 
 
@@ -252,7 +276,19 @@ def check_dataframe(ds):
             print("Total nicht Summe der Werte")
         ds = ds.drop(columns=['_total'], inplace=True)
 
+"""
 
+    Fügt UCI an der entsprechenden Stelle ein
+
+"""
 def add_uci(dataframe):
     dataframe.insert(4, 'uci', np.nan)
     return dataframe
+
+"""
+
+    Fügt den Type mittels index ein. Achtung: index zuvor reseten!
+
+"""
+def add_type_by_index(df, index, type_before = 'hcp', type_after = 'hco'):
+    df['type'] = np.where(df.index < index, type_before, type_after)
