@@ -66,7 +66,7 @@ Fügt allen Zellen mit Index kleiner als 220 den Typ "hcp" hinzu. Den anderen "h
 
 **sum_amounts**  
 `df_export = sum_amounts(df_export)`  
-Summiert die entsprechenden Werte und schreibt sie ins Total
+Summiert alle Zahlenfelder und schreibt sie ins Total
 
 **remove_carination**  
 `df_export = remove_carination(df_export)`  
