@@ -95,6 +95,39 @@ def replace_apostrophe(dataset):
 
 """
 
+    Entfernt Punkte (1.500)
+
+"""
+def remove_dots(dataset):
+    dataset["donations_grants"] = dataset["donations_grants"].str.replace(".", '')
+    dataset["sponsorship"] = dataset["sponsorship"].str.replace(".", '')
+    dataset["registration_fees"] = dataset["registration_fees"].str.replace(".", '')
+    dataset["travel_accommodation"] = dataset["travel_accommodation"].str.replace(".", '')
+    dataset["fees"] = dataset["fees"].str.replace(".", '')
+    dataset["related_expenses"] = dataset["related_expenses"].str.replace(".", '')
+    dataset["total"] = dataset["total"].str.replace(".", '')
+    
+    return dataset
+
+
+"""
+
+    Ersetzt Kommas durch Punkte
+
+"""
+def replace_comma_to_dot(dataset):
+    dataset["donations_grants"] = dataset["donations_grants"].str.replace(",", '.')
+    dataset["sponsorship"] = dataset["sponsorship"].str.replace(",", '.')
+    dataset["registration_fees"] = dataset["registration_fees"].str.replace(",", '.')
+    dataset["travel_accommodation"] = dataset["travel_accommodation"].str.replace(",", '.')
+    dataset["fees"] = dataset["fees"].str.replace(",", '.')
+    dataset["related_expenses"] = dataset["related_expenses"].str.replace(",", '.')
+    dataset["total"] = dataset["total"].str.replace(",", '.')
+    
+    return dataset
+
+"""
+
     Diese Funktion summiert alle Beträge
 
 """
@@ -212,10 +245,12 @@ def check_dataframe(ds):
     if len(ds[~ds['type'].isin(['hcp', 'hco'])]) > 0:
         print("type not always hcp/hco")
         
-    ds['_total'] = ds[["donations_grants", "sponsorship", 'registration_fees', 'travel_accommodation', 'fees', 'related_expenses']].sum(axis=1, skipna=True)
-    if len(ds[ds.total.round(2) != ds._total.round(2)]) > 0:
-        print("Total nicht Summe der Werte")
-    ds = ds.drop(columns=['_total'], inplace=True)
+    #Check if Sum = total
+    if np.issubdtype(ds['total'].dtype, np.number):
+        ds['_total'] = ds[["donations_grants", "sponsorship", 'registration_fees', 'travel_accommodation', 'fees', 'related_expenses']].sum(axis=1, skipna=True)
+        if len(ds[ds.total.round(2) != ds._total.round(2)]) > 0:
+            print("Total nicht Summe der Werte")
+        ds = ds.drop(columns=['_total'], inplace=True)
 
 
 def add_uci(dataframe):
