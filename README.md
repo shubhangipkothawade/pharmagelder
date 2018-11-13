@@ -32,3 +32,7 @@ Nimmt die gängisten Umformungen vor wie:
 **remove_carination**  
 `df_export = remove_carination(df_export)`  
 Entfernt alle Umbrüche (\r) in **allen** Columns
+
+**add_uci**  
+`df_export = add_uci()`  
+Fügt die UCI an entsprechender Stelle ein
