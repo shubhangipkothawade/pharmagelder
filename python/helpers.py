@@ -19,6 +19,8 @@ def shift_left(dataframe, index):
     Es wird nur jeweils das erste Wort (bei Doppelnamen) verglichen, da
     unterschiedliche Sortierungen (bei -, " ", ', etc.) vorkommen
 """
+
+"""
 def format_for_stringcompare(x, lastname_before_name = True):
 
     #Name is at the end: Swap!
@@ -32,6 +34,20 @@ def format_for_stringcompare(x, lastname_before_name = True):
     x = x.split(" ")[0]
     #x = x.replace(" ", "aaa")
     #x = x.replace("-", "aaa")
+    x = x.lower()
+    return x
+"""
+
+def format_for_stringcompare(x, lastname_before_name = True):
+
+    #Name is at the end: Swap!
+    x = unidecode.unidecode(x)
+    if not lastname_before_name:
+        tmp = x.split(" ")
+        tmp.reverse()
+        x = " ".join(tmp)
+    
+    x = x[0]
     x = x.lower()
     return x
 
@@ -105,6 +121,12 @@ def remove_dots(dataset):
 
     return dataset
 
+
+def remove_brackets(dataset):
+    for field in number_fields:
+        dataset[field] = dataset[field].str.replace("(", '').str.replace(")", '')
+
+    return dataset
 """
 
     Ersetzt Kommas durch Punkte
@@ -164,7 +186,8 @@ def sum_amounts(dataset):
 
 """
 def revert_name(dataset):
-    return [" ".join(n.split(", ")[::-1]) for n in dataset]
+    dataset = dataset.apply(lambda s: (' '.join(s.split(',')[::-1])).strip())
+    return dataset
 
 """
 
