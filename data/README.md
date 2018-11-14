@@ -14,7 +14,7 @@ Nimmt die gängisten Umformungen vor wie:
 * `Switzerland` zu `CH`
 
 **write_to_excel**  
-`df_export = write_to_excel(df_export, 'export.xlsx)`  
+`df_export = write_to_excel(df_export, 'novartis')`  
 Speichert das Dataframe als Excel. Überprüft zusätzlich das Dataframe
 
 ### Zahlen formatieren

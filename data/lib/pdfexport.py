@@ -204,17 +204,37 @@ def basic_string_conversion(dataframe):
     Export to Excel
 
 """
-def write_to_excel(dataset, path):
+def write_to_excel(dataset, organisation):
+    #Add Organisation to dataset
+    dataset['source'] = organisation
+
     #Check Dataset
     check_dataframe(dataset)
 
     #select writer
-    writer = pd.ExcelWriter(path, options={'encoding':'utf-8'})
+    writer = pd.ExcelWriter('../../export/' + organisation + '.xlsx', options={'encoding':'utf-8'})
 
     # Write the frame to excel
     dataset.to_excel(writer, 'daten', index=False) 
     
     writer.save()
+
+    print("saved")
+
+"""
+
+    Export to CSV
+
+"""
+def write_to_csv(dataset, organisation, index = False):
+    #Add Organisation to dataset
+    dataset['source'] = organisation
+
+    #Check Dataset
+    check_dataframe(dataset)
+
+    #write
+    dataset.to_csv('../../export/' + organisation + '.csv', sep=";", index=index)
 
     print("saved")
 
@@ -254,7 +274,7 @@ def remove_empty_columns(df):
 """
 def check_dataframe(ds):
     
-    fix_columns = ['name', 'location', 'country', 'address', 'uci', 'donations_grants', 'sponsorship', 'registration_fees', 'travel_accommodation', 'fees', 'related_expenses', 'total', 'type']
+    fix_columns = ['name', 'location', 'country', 'address', 'uci', 'donations_grants', 'sponsorship', 'registration_fees', 'travel_accommodation', 'fees', 'related_expenses', 'total', 'type', 'source']
     
     #Check to many columns
     for column in ds.columns:
