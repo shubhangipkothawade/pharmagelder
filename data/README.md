@@ -13,9 +13,21 @@
 Nimmt die gängisten Umformungen vor wie:  
 * `Switzerland` zu `CH`
 
+**export_file**
+`export_file(df_export, 'astrazeneca')`  
+Exportiert das Dataframe. Am Schluss diese Funktion benutzten, damit - bei Exportänderungen - nur die Funktion und nicht jedes Jupyter-Notebook angepasst werden muss.
+
+### Export-Funktionen
+`export_file(df_export, 'astrazeneca')`  
+Exportiert das Dataframe. Am Schluss diese Funktion benutzten, damit - bei Exportänderungen - nur die Funktion und nicht jedes Jupyter-Notebook angepasst werden muss.
+
 **write_to_excel**  
 `df_export = write_to_excel(df_export, 'novartis')`  
 Speichert das Dataframe als Excel. Überprüft zusätzlich das Dataframe
+
+**write_to_csv**  
+`df_export = write_to_excel(df_export, 'novartis'[, index=False])`  
+Speichert das Dataframe als als CSV. Index werden nicht exportiert, können aber zugeschaltet werden
 
 ### Zahlen formatieren
 
