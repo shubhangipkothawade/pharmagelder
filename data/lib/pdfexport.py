@@ -3,7 +3,7 @@
 import datacheck
 import exports
 import formatstrings
-import typefield
+import fields
 import formatnumbers
 
 
@@ -11,13 +11,13 @@ import importlib
 importlib.reload(datacheck)
 importlib.reload(exports)
 importlib.reload(formatstrings)
-importlib.reload(typefield)
+importlib.reload(fields)
 importlib.reload(formatnumbers)
 
 from datacheck import *
 from exports import *
 from formatstrings import *
-from typefield import *
+from fields import *
 from formatnumbers import *
 
 # Import global
@@ -54,14 +54,3 @@ def remove_empty_columns(df):
             df = df.drop(columns=column)
 
     return df
-
-
-"""
-
-    Fügt UCI an der entsprechenden Stelle ein
-
-"""
-def add_uci(dataframe):
-    dataframe.insert(4, 'uci', np.nan)
-    return dataframe
-
