@@ -18,6 +18,7 @@ Nimmt die gängisten Umformungen vor wie:
 Exportiert das Dataframe. Am Schluss diese Funktion benutzten, damit - bei Exportänderungen - nur die Funktion und nicht jedes Jupyter-Notebook angepasst werden muss.
 
 ### Export-Funktionen
+**export_file**  
 `export_file(df_export, 'astrazeneca')`  
 Ruft momentan `write_to_excel` auf
 
