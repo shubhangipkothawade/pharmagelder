@@ -1,3 +1,4 @@
+from consts import *
 import numpy as np
 
 """
@@ -6,8 +7,6 @@ import numpy as np
 
 """
 def check_dataframe(ds):
-    
-    fix_columns = ['name', 'location', 'country', 'address', 'uci', 'donations_grants', 'sponsorship', 'registration_fees', 'travel_accommodation', 'fees', 'related_expenses', 'total', 'type', 'source']
     
     #Check to many columns
     for column in ds.columns:

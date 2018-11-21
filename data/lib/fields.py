@@ -91,6 +91,16 @@ def add_type_by_index(df, index, type_before = 'hcp', type_after = 'hco'):
 
 """
 def add_uci(dataframe):
-    dataframe.insert(4, 'uci', np.nan)
+    dataframe.insert(5, 'uci', np.nan)
+    return dataframe
+
+
+"""
+
+    Fügt PLZ an der entsprechenden Stelle ein
+
+"""
+def add_plz(dataframe):
+    dataframe.insert(4, 'plz', np.nan)
     return dataframe
 

@@ -1,4 +1,5 @@
 import numpy as np
+from consts import *
 
 """
 
@@ -16,7 +17,15 @@ def revert_name(dataset):
 
 """
 def basic_string_conversion(dataframe):
+
+    #Format Country
     dataframe['country'] = dataframe['country'].str.replace('Switzerland', 'CH')
+
+    #clear field which contains only "."
+    for column in dataframe.columns:
+        if not np.issubdtype(dataframe[column].dtype, np.number):
+            dataframe.loc[dataframe[column] == '.', column] = ""
+
     return dataframe
 
 """
