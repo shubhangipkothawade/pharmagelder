@@ -19,7 +19,7 @@ Exportiert das Dataframe. Am Schluss diese Funktion benutzten, damit - bei Expor
 
 ### Export-Funktionen
 `export_file(df_export, 'astrazeneca')`  
-Exportiert das Dataframe. Am Schluss diese Funktion benutzten, damit - bei Exportänderungen - nur die Funktion und nicht jedes Jupyter-Notebook angepasst werden muss.
+Ruft momentan `write_to_excel` auf
 
 **write_to_excel**  
 `df_export = write_to_excel(df_export, 'novartis')`  
