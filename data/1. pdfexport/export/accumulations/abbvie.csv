@@ -1,5 +1,6 @@
 type;donations_grants;sponsorship;registration_fees;travel_accommodation;fees;related_expenses;total;source
-hcp_amount;;;0;0;2400;0;2400.0;abbvie
-hco_amount;0.0;109439.0;0;0;0;0;109439.0;abbvie
-hcp_count;;;0;0;2;0;2.0;abbvie
-hco_count;0.0;3.0;0;0;0;0;3.0;abbvie
+hcp_amount;;;0.0;0.0;2400.0;0.0;2400.0;abbvie
+hco_amount;0.0;109439.0;0.0;0.0;0.0;0.0;109439.0;abbvie
+hcp_count;;;0.0;0.0;2.0;0.0;2.0;abbvie
+hco_count;0.0;3.0;0.0;0.0;0.0;0.0;3.0;abbvie
+rnd;;;;;;;1761943.0;abbvie
