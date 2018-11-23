@@ -8,15 +8,9 @@ import openpyxl
     Export to Excel
 
 """
-def write_to_excel(dataset, organisation):
-    #Add Organisation to dataset
-    dataset['source'] = organisation
-
-    #Check Dataset
-    check_dataframe(dataset)
-
+def write_to_excel(dataset, exportfile):
     #select writer
-    writer = pd.ExcelWriter('../../export/' + organisation + '.xlsx', options={'encoding':'utf-8'})
+    writer = pd.ExcelWriter(exportfile, options={'encoding':'utf-8'})
 
     # Write the frame to excel
     dataset.to_excel(writer, 'daten', index=False) 
@@ -35,7 +29,7 @@ def write_to_csv(dataset, organisation, index = False):
     dataset['source'] = organisation
 
     #Check Dataset
-    check_dataframe(dataset)
+    check_dataframe_list(dataset)
 
     #write
     dataset.to_csv('../../export/' + organisation + '.csv', sep=";", index=index)
@@ -47,5 +41,21 @@ def write_to_csv(dataset, organisation, index = False):
     Main Export function
 
 """
-def export_file(dataset, organisation):
-    write_to_excel(dataset, organisation)
+def export_list(dataset, organisation):
+    #Add Organisation to dataset
+    dataset['source'] = organisation
+
+    #Check Dataset
+    check_dataframe_list(dataset)
+
+    #Export
+    write_to_excel(dataset, '../../export/lists/' + organisation + '.xlsx' )
+
+def export_acumulations(dataset, organisation):
+    #Add Organisation to dataset
+    dataset['source'] = organisation
+
+    #Check Dataset
+    check_dataframe_accumulations(dataset)
+
+    write_to_excel(dataset, '../../export/accumulations/' + organisation + '.xlsx' )
