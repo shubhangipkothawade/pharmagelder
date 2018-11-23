@@ -17,8 +17,6 @@ def write_to_excel(dataset, exportfile):
     
     writer.save()
 
-    print("saved")
-
 """
 
     Export to CSV
@@ -34,8 +32,6 @@ def write_to_csv(dataset, organisation, index = False):
     #write
     dataset.to_csv('../../export/' + organisation + '.csv', sep=";", index=index)
 
-    print("saved")
-
 """
 
     Main Export function
@@ -49,7 +45,10 @@ def export_list(dataset, organisation):
     check_dataframe_list(dataset)
 
     #Export
-    write_to_excel(dataset, '../../export/lists/' + organisation + '.xlsx' )
+    #write_to_excel(dataset, '../../export/lists/' + organisation + '.xlsx' )
+    dataset.to_csv('../../export/lists/' + organisation + '.csv', sep=";", index=False)
+
+    print("saved")
 
 def export_acumulations(dataset, organisation):
     #Add Organisation to dataset
@@ -58,4 +57,7 @@ def export_acumulations(dataset, organisation):
     #Check Dataset
     check_dataframe_accumulations(dataset)
 
-    write_to_excel(dataset, '../../export/accumulations/' + organisation + '.xlsx' )
+    #write_to_excel(dataset, '../../export/accumulations/' + organisation + '.xlsx' )
+    dataset.to_csv('../../export/accumulations/' + organisation + '.csv', sep=";", index=False)
+
+    print("saved")

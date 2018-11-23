@@ -26,6 +26,10 @@ def basic_string_conversion(dataframe):
         if not np.issubdtype(dataframe[column].dtype, np.number):
             dataframe.loc[dataframe[column] == '.', column] = ""
 
+    #Remove titles
+    dataframe.loc[dataframe.type == 'hcp', 'name'] = dataframe.loc[dataframe.type == 'hcp', 'name'].str.replace(r'\b(Dr|med|prof|prakt|pd)[\s[.]]*', '', regex=True, case=False)
+    dataframe.name = dataframe.name.str.strip()
+
     return dataframe
 
 """
