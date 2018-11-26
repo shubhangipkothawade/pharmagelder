@@ -104,3 +104,12 @@ def add_plz(dataframe):
     dataframe.insert(4, 'plz', np.nan)
     return dataframe
 
+"""
+
+    Fügt Country an der entsprechenden Stelle ein
+
+"""
+def add_country(dataframe):
+    dataframe.insert(3, 'country', 'CH')
+    return dataframe
+
