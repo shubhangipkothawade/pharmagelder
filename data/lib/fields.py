@@ -84,6 +84,7 @@ def set_type_by_alphabetical_order(dataset, hcp_before_hco = True, lastname_befo
 """
 def add_type_by_index(df, index, type_before = 'hcp', type_after = 'hco'):
     df['type'] = np.where(df.index < index, type_before, type_after)
+    return df
 
 """
 

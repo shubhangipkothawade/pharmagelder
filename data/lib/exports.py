@@ -27,10 +27,10 @@ def write_to_csv(dataset, organisation, index = False):
     dataset['source'] = organisation
 
     #Check Dataset
-    check_dataframe_list(dataset)
+    #check_dataframe_list(dataset)
 
     #write
-    dataset.to_csv('../../export/' + organisation + '.csv', sep=";", index=index)
+    dataset.to_csv(organisation, sep=";", index=index)
 
 """
 
