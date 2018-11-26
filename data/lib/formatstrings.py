@@ -20,6 +20,7 @@ def basic_string_conversion(dataframe):
 
     #Format Country
     dataframe['country'] = dataframe['country'].str.replace('Switzerland', 'CH')
+    dataframe['country'] = dataframe['country'].str.replace('Schweiz', 'CH')
 
     #clear field which contains only "."
     for column in dataframe.columns:

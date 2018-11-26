@@ -5,6 +5,7 @@ import exports
 import formatstrings
 import fields
 import formatnumbers
+import messages
 
 
 import importlib
@@ -13,12 +14,14 @@ importlib.reload(exports)
 importlib.reload(formatstrings)
 importlib.reload(fields)
 importlib.reload(formatnumbers)
+importlib.reload(messages)
 
 from datacheck import *
 from exports import *
 from formatstrings import *
 from fields import *
 from formatnumbers import *
+from messages import *
 
 # Import global
 import numpy as np

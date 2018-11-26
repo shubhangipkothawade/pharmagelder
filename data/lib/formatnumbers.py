@@ -49,6 +49,18 @@ def remove_dots(dataset):
 
 """
 
+    Entfernt Kommas (1,500)
+
+"""
+def remove_comma(dataset):
+
+    for field in number_fields:
+        dataset[field] = dataset[field].str.replace(",", '')
+
+    return dataset
+
+"""
+
     Remove Brackets
 
 """
