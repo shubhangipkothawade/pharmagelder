@@ -6,8 +6,8 @@ from consts import *
     Diese Funktion setzt Vorname vor Nachname, getrennt mit Komma
 
 """
-def revert_name(dataset):
-    dataset = dataset.apply(lambda s: (' '.join(s.split(',')[::-1])).strip())
+def revert_name(dataset, sep=','):
+    dataset = dataset.apply(lambda s: (' '.join(s.split(sep)[::-1])).strip())
     return dataset
 
 """
@@ -38,9 +38,9 @@ def basic_string_conversion(dataframe):
     Entfernt Umbrüche in allen Spalten
 
 """
-def remove_carination(dataset):
+def remove_carination(dataset, substr = ""):
     for column in dataset:
         if not np.issubdtype(dataset[column].dtype, np.number):
-            dataset[column] = dataset[column].str.replace('\\r', '')
+            dataset[column] = dataset[column].str.replace('\\r', substr)
     return dataset
 
