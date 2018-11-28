@@ -89,6 +89,7 @@ def remove_chf(dataset):
     for field in number_fields:
         dataset[field] = dataset[field].str.replace("CHF", '')
         dataset[field] = dataset[field].str.replace("Fr.", '')
+        dataset[field] = dataset[field].str.replace("fr.", '')
     
     return dataset
 

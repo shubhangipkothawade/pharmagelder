@@ -7,6 +7,7 @@ from consts import *
 
 """
 def revert_name(dataset, sep=','):
+    print("revert_name: Be sure: Only revert hcp, not hco!")
     dataset = dataset.apply(lambda s: (' '.join(s.split(sep)[::-1])).strip())
     return dataset
 
@@ -28,7 +29,7 @@ def basic_string_conversion(dataframe):
             dataframe.loc[dataframe[column] == '.', column] = ""
 
     #Remove titles
-    dataframe.loc[dataframe.type == 'hcp', 'name'] = dataframe.loc[dataframe.type == 'hcp', 'name'].str.replace(r'\b(Dr|med|prof|prakt|pd)[\s[.]]*', '', regex=True, case=False)
+    dataframe.loc[dataframe.type == 'hcp', 'name'] = dataframe.loc[dataframe.type == 'hcp', 'name'].str.replace(regex_title, '', regex=True, case=False)
     dataframe.name = dataframe.name.str.strip()
 
     return dataframe
