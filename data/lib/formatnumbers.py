@@ -88,6 +88,7 @@ def replace_comma_to_dot(dataset):
 def remove_chf(dataset):
     for field in number_fields:
         dataset[field] = dataset[field].str.replace("CHF", '')
+        dataset[field] = dataset[field].str.replace("Fr.", '')
     
     return dataset
 
