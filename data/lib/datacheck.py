@@ -22,33 +22,14 @@ def check_dataframe_list(ds):
     for column in number_fields:
         if not np.issubdtype(ds[column].dtype, np.number):
                 print(column + " not a number")
-
-    """
-    if not np.issubdtype(ds['donations_grants'].dtype, np.number):
-        print("donations_grants not a number")
-        
-    if not np.issubdtype(ds['sponsorship'].dtype, np.number):
-        print("sponsorship not a number")
-        
-    if not np.issubdtype(ds['registration_fees'].dtype, np.number):
-        print("registration_fees not a number")
-        
-    if not np.issubdtype(ds['travel_accommodation'].dtype, np.number):
-        print("travel_accommodation not a number")
-        
-    if not np.issubdtype(ds['fees'].dtype, np.number):
-        print("fees not a number")
-        
-    if not np.issubdtype(ds['related_expenses'].dtype, np.number):
-        print("related_expenses not a number")
-        
-    if not np.issubdtype(ds['total'].dtype, np.number):
-        print("total not a number")
-    """
         
     # Check type
     if len(ds[~ds['type'].isin(['hcp', 'hco'])]) > 0:
         print("type not always hcp/hco")
+
+    #Check if \n
+    if len(ds[ds['name'].str.contains('\\r')]) > 0:
+        print("Name contains carrination (\\r)! Use remove_carination()")
         
     #Check if Sum = total
     if np.issubdtype(ds['total'].dtype, np.number):

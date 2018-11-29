@@ -82,7 +82,7 @@ Fügt allen Zellen mit Index kleiner als 220 den Typ "hcp" hinzu. Den anderen "h
 Summiert alle Zahlenfelder und schreibt sie ins Total
 
 **remove_carination**  
-`df_export = remove_carination(df_export)`  
+`df_export = remove_carination(df_export[, substr=""])`  
 Entfernt alle Umbrüche (\r) in **allen** Columns
 
 **add_uci**  
