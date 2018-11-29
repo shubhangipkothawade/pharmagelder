@@ -92,3 +92,10 @@ Fügt die UCI an entsprechender Stelle ein
 **remove_empty_columns**  
 `df_export = remove_empty_columns(df_export)`  
 Entfernt alle Collumns, die leer sind
+
+# Often used code snippets
+**Remove empty rows**  
+`df_export = df_export.dropna(subset=['donations_grants', 'sponsorship', 'registration_fees', 'travel_accommodation', 'fees', 'related_expenses', 'total'], how='all')`  
+
+**Shift rows**  
+`df_export[df_export.name.notna()] = df_export[df_export.name.notna()].shift(1, axis='columns')`
