@@ -98,4 +98,4 @@ Entfernt alle Collumns, die leer sind
 `df_export = df_export.dropna(subset=['donations_grants', 'sponsorship', 'registration_fees', 'travel_accommodation', 'fees', 'related_expenses', 'total'], how='all')`  
 
 **Shift rows**  
-`df_export[df_export.name.notna()] = df_export[df_export.name.notna()].shift(1, axis='columns')`
+`df_export[df_export['name'].notna()] = df_export[df_export['name'].notna()].shift(1, axis='columns')`
