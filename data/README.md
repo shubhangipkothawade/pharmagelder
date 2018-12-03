@@ -80,6 +80,9 @@ Fügt allen Zellen mit Index kleiner als 220 den Typ "hcp" hinzu. Den anderen "h
 **sum_amounts**  
 `df_export = sum_amounts(df_export)`  
 Summiert alle Zahlenfelder und schreibt sie ins Total
+**revert_name**  
+`revert_name(dataset[, sep=','])` 
+Name, Vorname tauschen  
 
 **remove_carination**  
 `df_export = remove_carination(df_export[, substr=""])`  
