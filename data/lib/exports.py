@@ -44,6 +44,9 @@ def export_list(dataset, organisation):
     #Check Dataset
     check_dataframe_list(dataset)
 
+    #Reorder Dataframe
+    dataset = dataset[fix_columns]
+
     #Export
     #write_to_excel(dataset, '../../export/lists/' + organisation + '.xlsx' )
     dataset.to_csv('../../export/lists/' + organisation + '.csv', sep=";", index=False)
