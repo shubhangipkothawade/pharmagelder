@@ -105,3 +105,6 @@ Entfernt alle Collumns, die leer sind
 
 **Shift rows**  
 `df_export[df_export['name'].notna()] = df_export[df_export['name'].notna()].shift(1, axis='columns')`
+
+## Fälle
+* Duplikate: [GlaxoSmithKline](http://localhost:8888/notebooks/data/1.%20pdfexport/files/GlaxoSmithKline/0.%20Lists.ipynb)
