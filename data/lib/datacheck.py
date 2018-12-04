@@ -30,6 +30,10 @@ def check_dataframe_list(ds):
     #Check if \n
     if len(ds[ds['name'].str.contains('\\r')]) > 0:
         print("Name contains carrination (\\r)! Use remove_carination()")
+
+    #Check Duplicates
+    if len(ds[ds.duplicated()]) > 0:
+        print("Duplicates found. Please check for duplicates: df_export[df_export.duplicated()]")
         
     #Check if Sum = total
     if np.issubdtype(ds['total'].dtype, np.number):
