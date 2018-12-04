@@ -83,6 +83,8 @@ Summiert alle Zahlenfelder und schreibt sie ins Total
 
 **revert_name**  
 `revert_name(dataset[, sep=','])` 
+Beispiel  
+`df_export.loc[df_export.type == 'hcp', 'name'] = revert_name(df_export[df_export.type == 'hcp']['name'])`  
 Name, Vorname tauschen  
 
 **remove_carination**  
