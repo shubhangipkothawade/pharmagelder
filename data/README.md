@@ -104,7 +104,11 @@ Entfernt alle Collumns, die leer sind
 `df_export = df_export.dropna(subset=['donations_grants', 'sponsorship', 'registration_fees', 'travel_accommodation', 'fees', 'related_expenses', 'total'], how='all')`  
 
 **Shift rows**  
-`df_export[df_export['name'].notna()] = df_export[df_export['name'].notna()].shift(1, axis='columns')`
+`df_export[df_export['name'].notna()] = df_export[df_export['name'].notna()].shift(1, axis='columns')`  
+  
+**Reorder Columns**  
+`df_export = df_export[fix_columns[:-1]]`  
 
 ## Fälle
 * Duplikate: [GlaxoSmithKline](http://localhost:8888/notebooks/data/1.%20pdfexport/files/GlaxoSmithKline/0.%20Lists.ipynb)
+* Beautiful Soup: [Lundbeck](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Lundbeck/0.%20Lists.ipynb)
