@@ -28,8 +28,10 @@ def check_dataframe_list(ds):
         print("type not always hcp/hco")
 
     #Check if \n
-    if len(ds[ds['name'].str.contains('\\r')]) > 0:
-        print("Name contains carrination (\\r)! Use remove_carination()")
+    for column in ds.columns:
+        if not np.issubdtype(ds[column].dtype, np.number):
+            if len(ds[ds[column].str.contains('\\r', na=False)]) > 0:
+                print("'" + column + "' contains carrination (\\r)! Use remove_carination()")
 
     #Check Duplicates
     if len(ds[ds.duplicated()]) > 0:
