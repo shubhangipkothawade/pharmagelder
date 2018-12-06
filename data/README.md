@@ -109,6 +109,14 @@ Entfernt alle Collumns, die leer sind
 **Reorder Columns**  
 `df_export = df_export[fix_columns[:-1]]`  
 
+**Unlock PDF**
+```python
+import pikepdf
+pdf = pikepdf.open('pkk-erfassungmepha-pharma-ag20180427_eng_final.pdf')
+pdf.save('unlocked.pdf')
+```   
+
 ## Fälle
 * Duplikate: [GlaxoSmithKline](http://localhost:8888/notebooks/data/1.%20pdfexport/files/GlaxoSmithKline/0.%20Lists.ipynb)
 * Beautiful Soup: [Lundbeck](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Lundbeck/0.%20Lists.ipynb)
+* PDF Unlock: [Mepha](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Mepha/0.%20Lists.ipynb)
