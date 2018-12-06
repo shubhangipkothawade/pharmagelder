@@ -6,4 +6,4 @@
 ![Merck](img/merk.jpg "Merck")
 
 ## [Fancy Small - Mundipharma](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Mundipharma/0.%20Lists.ipynb)
-![Mundi](fancy_small.jpg "Mundi")
+![Mundi](img/fancy_small.jpg "Mundi")
