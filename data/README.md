@@ -120,10 +120,9 @@ pdf = pikepdf.open('pkk-erfassungmepha-pharma-ag20180427_eng_final.pdf')
 pdf.save('unlocked.pdf')
 ```   
 
-##Type by Textstring**  
+**Type by Textstring**  
 ```python
 #Add Type
-index_hcp = df_export[df_export['name'].str.contains("INDIVIDUAL NAMED DISCLOSURE", na=False)].index[0]
 index_hco = df_export[df_export['name'].str.contains("INDIVIDUAL NAMED DISCLOSURE", na=False)].index[1]
 df_export['type'] = np.where(df_export.index < index_hco, 'hcp', 'hco')
 ```  
