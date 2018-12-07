@@ -63,6 +63,10 @@ Entfernt alle Punkte in allen Zahlenfeldern
 `df_export = amounts_to_number(df_export)`  
 Wandelt String-Kolumnen in Zahlen um. Bedingt, dass die entsprechenden Kolumnen bereits korrekt heissen
 
+**add_empty_accumulation**  
+`df_export = add_empty_accumulation(df_export, "rnd")`  
+Fügt leere Accumulation hinzu  
+
 ### Type hinzufügen
 
 **set_type_by_alphabetical_order**  
