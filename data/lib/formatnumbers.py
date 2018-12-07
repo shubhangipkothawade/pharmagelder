@@ -103,3 +103,20 @@ def remove_spaces(dataset):
         dataset[field] = dataset[field].str.replace(" ", '')
     
     return dataset
+
+"""
+
+    Fügt eine leere Accumulation hinzu
+
+"""
+def add_empty_accumulation(dataframe, type_):
+    r = {"type": type_,
+           "donations_grants": 0,
+           "sponsorship": 0,
+           "registration_fees": 0,
+           "travel_accommodation": 0,
+           "fees": 0,
+           "related_expenses": 0,
+           "total": 0
+           }
+    return dataframe.append(r, ignore_index=True)
