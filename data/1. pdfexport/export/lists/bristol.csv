@@ -123,6 +123,7 @@ Laurent Dukas;Basel;CH;Wiesendamm 22;;;;;600.0;;;;600;hcp;bristol
 Alexander Breitenstein;Zürich;CH;Rämistrasse 100;;;;;;323.0;5863.0;152.0;6338;hcp;bristol
 Roman Lehner;Buchs AG;CH;Schulweg 17;;;;;688.0;;;;688;hcp;bristol
 Raphael Stolz;St. Gallen;CH;Rorschacherstrasse 155;;;;;688.0;;;;688;hcp;bristol
+Mario Bargetzi;Aarau;CH;Tellstrasse 25;;;;;;;1500.0;;1500;hcp;bristol
 Beat Flückiger;Wädenswil;CH;Bahnhofstrasse 4;;;;;590.0;718.0;;;1308;hcp;bristol
 Rolf Bicher;Basel;CH;Rümmingerstrasse 17;;;;;600.0;;;;600;hcp;bristol
 Arnaud Roth;Genève;CH;Rue Gabrielle Perret-Gentil 4;;;;;;;3125.0;186.0;3311;hcp;bristol
@@ -180,3 +181,15 @@ Bürgerspital Solothurn;Solothurn;CH;Schöngrünstrasse 42;;;;2000.0;;;;;2000;hc
 Stiftung für Herz- und Kreislauf;Zürich;CH;Hottingerstrasse 14;;;;4320.0;;;;;4320;hco;bristol
 Société Neuchâteloise SNM;Couvet;CH;Grand'Rue 36B;;;;2500.0;;;;;2500;hco;bristol
 Hôpital La Tour Réseau de Soins;Meyrin;CH;Avenue Jean-Daniel Maillard 3;;;;1500.0;;;;;1500;hco;bristol
+Repubblica e Cantone Ticino;Bellinzona;CH;Piazza Governo 7;;;;2000.0;;;;;2000;hco;bristol
+EASL;Genève;CH;Rue Daubin 7;;;107245.0;403960.0;;;;;511205;hco;bristol
+Spitalzentrum Biel AG;Biel/Bienne;CH;Vogelsang 84;;;;2000.0;;;;;2000;hco;bristol
+Hôpital de Nyon - GHOL;Nyon;CH;Chemin Monastier 10;;;;1400.0;;;;;1400;hco;bristol
+Krankenhausgesellschaft Schwyz;Schwyz;CH;Waldeggstrasse 10;;;;1080.0;;;;;1080;hco;bristol
+Mediscience GmbH;Küssnacht am Rigi;CH;Bahnhofstrasse 17;;;;10000.0;;;;;10000;hco;bristol
+Kantonsspital Baselland;Liestal;CH;Rheinstrasse 26;;;;;;;900.0;;900;hco;bristol
+Kantonsspital St. Gallen;St. Gallen;CH;Rorschacher Strasse 95;;;;31280.0;;;7336.0;47.0;38663;hco;bristol
+Kantonsspital Winterthur;Winterthur;CH;Brauerstrasse 15;;;;12504.0;;;;;12504;hco;bristol
+Swiss Experts in Viral Hepatitis;Zürich;CH;Konradstrasse 32;;;;1000.0;;;;;1000;hco;bristol
+Stadtspital Triemli;Zürich;CH;Birmensdorferstrasse 497;;;;8420.0;3500.0;;;;11920;hco;bristol
+Rheumaliga Schweiz;Zürich;CH;Josefstrasse 92;;;;7400.0;;;;;7400;hco;bristol
