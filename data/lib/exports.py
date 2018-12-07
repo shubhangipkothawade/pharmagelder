@@ -60,6 +60,9 @@ def export_acumulations(dataset, organisation):
     #Check Dataset
     check_dataframe_accumulations(dataset)
 
+    #Reorder Dataframe
+    dataset = dataset[fix_columns_accumulations]
+
     #write_to_excel(dataset, '../../export/accumulations/' + organisation + '.xlsx' )
     dataset.to_csv('../../export/accumulations/' + organisation + '.csv', sep=";", index=False)
 
