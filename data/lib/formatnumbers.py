@@ -37,15 +37,23 @@ def replace_apostrophe(dataset):
 
 """
 
+    Remove char in number field
+
+"""
+
+def remove_in_numbers(dataset, char):
+    for field in number_fields:
+        dataset[field] = dataset[field].str.replace(char, '')
+
+    return dataset
+
+"""
+
     Entfernt Punkte (1.500)
 
 """
 def remove_dots(dataset):
-
-    for field in number_fields:
-        dataset[field] = dataset[field].str.replace(".", '')
-
-    return dataset
+    return remove_in_numbers(dataset, ".")
 
 """
 
@@ -53,11 +61,7 @@ def remove_dots(dataset):
 
 """
 def remove_comma(dataset):
-
-    for field in number_fields:
-        dataset[field] = dataset[field].str.replace(",", '')
-
-    return dataset
+    return remove_in_numbers(dataset, ",")
 
 """
 

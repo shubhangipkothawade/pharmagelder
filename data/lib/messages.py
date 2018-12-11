@@ -1,4 +1,4 @@
 def add_warning(manually=True):
     if manually:
-        print("WARNING: Have you set HCP, HCP and RnD manually?")
+        print("WARNING: Remember to set HCP, HCO and RnD manually!")
 
