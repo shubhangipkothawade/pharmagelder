@@ -125,6 +125,7 @@ pdf.save('unlocked.pdf')
 #Add Type
 index_hco = df_export[df_export['name'].str.contains("INDIVIDUAL NAMED DISCLOSURE", na=False)].index[1]
 df_export['type'] = np.where(df_export.index < index_hco, 'hcp', 'hco')
+add_warning(manually=True)
 ```  
 
 ## Fälle
