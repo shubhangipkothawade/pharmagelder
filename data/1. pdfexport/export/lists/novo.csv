@@ -1,0 +1,335 @@
+name;location;country;address;plz;uci;donations_grants;sponsorship;registration_fees;travel_accommodation;fees;related_expenses;total;type;source
+Achermann Frank;Luzern;CH;Weggisgasse 40;;;;;;;500.0;;500;hcp;novo
+Aczél Stefan;St. Gallen;CH;Rorschacherstrasse 95;;;;;381.0;826.0;1000.0;;2207;hcp;novo
+Ahmad Farhad;Goldach;CH;Eschenstrasse 11;;;;;;507.0;;;507;hcp;novo
+Althaus Beat Urs;Reinach;CH;Angensteinerstrasse 5;;;;;456.0;1061.0;;;1517;hcp;novo
+Andreani Safwan Elisabetta;Bellinzona;CH;Viale Stazione 30;;;;;736.0;1804.0;900.0;;3440;hcp;novo
+Arici Birsen;Rheinfelden;CH;Riburgerstrasse 12;;;;;545.0;634.0;1000.0;;2179;hcp;novo
+Bachmann Sara;Basel;CH;Spitalstrasse 33;;;;;472.0;871.0;;;1343;hcp;novo
+Baerlocher Andrea;Zurich;CH;Rötelstrasse 122;;;;;71.0;288.0;420.0;;779;hcp;novo
+Balice Piero;Bellinzona;CH;Viale Portone 1;;;;;1269.0;7724.0;;;8993;hcp;novo
+Baumgartner Annic Catherine;Aarau;CH;Tellstrasse 25;;;;;976.0;2255.0;;;3231;hcp;novo
+Beer Sandra;Lausanne;CH;Avenue de la Gare 11;;;;;140.0;123.0;;;263;hcp;novo
+Beglinger Svetlana;Zürich;CH;Steinwiesstrasse 75;;;;;546.0;;;223.0;769;hcp;novo
+Bernasconi Augusto;Lugano;CH;Via Serafino Balestra 27;;;;;140.0;428.0;;;568;hcp;novo
+Bieri Andreas;Aarau;CH;Tellstrasse 25;;;;;702.0;5323.0;;;6025;hcp;novo
+Bily Marielle;La Chaux-de-Fonds;CH;Rue de Chasseral 20;;;;;140.0;569.0;;;709;hcp;novo
+Binz Katharina;Zürich;CH;Stockerstrasse 42;;;;;327.0;232.0;;;559;hcp;novo
+Bischof Andrea;Zürich;CH;Möhrlistrasse 69;;;;;156.0;56.0;;;212;hcp;novo
+Bizer Christian;Klosters;CH;Monbielerstrasse 14;;;;;;160.0;;;160;hcp;novo
+Blanc Jacques-Philippe;Ponte Capriasca;CH;Via alle Scuole 26;;;;;323.0;4024.0;;;4347;hcp;novo
+Blickenstorfer Daniel;Wädenswil;CH;Fuhrstrasse 15;;;;;;507.0;;;507;hcp;novo
+Boos Noemi;Basel;CH;Hardstrasse 111;;;;;976.0;70.0;;;1046;hcp;novo
+Brand-Bernhart Karoline;Schneisingen;CH;Dorfstrasse 37;;;;;;160.0;;;160;hcp;novo
+Braun Doris;Winterthur;CH;Brungasse 6;;;;;125.0;248.0;;;373;hcp;novo
+Bria Alexandre;Nyon;CH;Rue Neuve 6;;;;;;;1000.0;;1000;hcp;novo
+Brunner Andreas;Thun;CH;Krankenhausstrasse 12;;;;;545.0;634.0;;;1179;hcp;novo
+Brunner Peter;Thun;CH;Thierachernweg 2;;;;;;160.0;;;160;hcp;novo
+Bucher Birgit Gerda;Aarau;CH;Tellstrasse 25;;;;;545.0;634.0;;;1179;hcp;novo
+Bühler-Christen Annette;Embrach;CH;Römerweg 51;;;;;545.0;634.0;;;1179;hcp;novo
+Bulliard Charly;Estavayer-le-Lac;CH;Rue de la Rochette;;;;;1083.0;6996.0;400.0;;8479;hcp;novo
+Burgherr Jürg;Horw;CH;Gemeindehausplatz 6;;;;;;;1600.0;;1600;hcp;novo
+But Ludmilla;Aarau;CH;Bahnhofplatz 3C;;;;;693.0;2202.0;;;2895;hcp;novo
+Camenzind Esther;Buochs;CH;Beckenriederstrasse 9;;;;;;160.0;;;160;hcp;novo
+Capraro Joël;Aarau;CH;Tellstrasse 25;;;;;327.0;580.0;;;907;hcp;novo
+Casini Alessandro;Genève;CH;Rue Gabrielle-Perret-Gentil 4;;;;;510.0;1466.0;;;1976;hcp;novo
+Cattaneo Fabio;Lugano;CH;Via Soldino 7;;;;;367.0;535.0;;;902;hcp;novo
+Cattin Pierre-Olivier;Porrentruy;CH;Rue de Tarascon 14;;;;;220.0;336.0;;;556;hcp;novo
+Cauderay Michel;Vevey;CH;Boulevard Paderewski 3;;;;;401.0;4886.0;;;5287;hcp;novo
+Cavallini Mario;Lugano;CH;Piazza Molino Nuovo 8;;;;;140.0;595.0;;;735;hcp;novo
+Censi Quinto;Mendrisio;CH;Via Luigi Lavizzari 15;;;;;140.0;637.0;;;777;hcp;novo
+Chanda Robin;Bellinzona;CH;Viale Stazione 30;;;;;823.0;1996.0;400.0;;3219;hcp;novo
+Chatton Chambaz Isabelle;Genève;CH;Boulevard des Philosophes 5;;;;;685.0;1098.0;1000.0;;2783;hcp;novo
+Christ Emanuel;Basel;CH;Petersgraben 4;;;;;1062.0;3952.0;;;5014;hcp;novo
+Christ-Crain Mirjam;Basel;CH;Petersgraben 4;;;;;327.0;4688.0;;;5015;hcp;novo
+Constam Elisabeth;Nürensdorf;CH;Haldenweidstrasse 5;;;;;369.0;1427.0;500.0;;2296;hcp;novo
+Crestani Silvio;Stabio;CH;Via Giulia 43;;;;;261.0;957.0;;;1218;hcp;novo
+Daneva Tatiana;Carouge GE;CH;Avenue Cardinal-Mermillod 5;;;;;140.0;600.0;;;740;hcp;novo
+de Marco Stalder Doris;Bern;CH;Seilerstrasse 8;;;;;545.0;634.0;;;1179;hcp;novo
+De Micheli Franco;Chiasso;CH;Corso San Gottardo 54B;;;;;367.0;546.0;;;913;hcp;novo
+De Moustier Béatrice;Petit-Lancy;CH;Chemin des Esserts 11B;;;;;140.0;233.0;;;373;hcp;novo
+Dehos Barbara;St. Gallen;CH;Rorschacher Strasse 95;;;;;547.0;1712.0;;;2259;hcp;novo
+Delgado Humberto;Gland;CH;La Lignière 5;;;;;;;400.0;;400;hcp;novo
+Di Carlo Giampaolo;Bellinzona;CH;Via San Gottardo 99;;;;;367.0;523.0;;;890;hcp;novo
+Dirlewanger Mirjam;Genève;CH;Rue Willy-donzé 6;;;;;401.0;1319.0;;;1720;hcp;novo
+Ditrych Hlavova Eva;Bern;CH;Zähringerstrasse 28;;;;;;160.0;;;160;hcp;novo
+Donath Marc;Basel;CH;Petersgraben 4;;;;;;;1250.0;;1250;hcp;novo
+Dubuis Jean-Michel;Grand-Lancy;CH;Av. des Communes-Réunies 16;;;;;220.0;;;;220;hcp;novo
+Eddé Philippe;Lausanne;CH;Rue de la Barre 7;;;;;;;1600.0;;1600;hcp;novo
+Egermann Ulrich;Winterthur;CH;Lagerhausstrasse 9;;;;;421.0;809.0;1000.0;;2230;hcp;novo
+Egli Marc;Epalinges;CH;Route de la Corniche 1;;;;;140.0;581.0;2200.0;;2921;hcp;novo
+Egloff Michael;Baden;CH;Im Ergel 1;;;;;545.0;634.0;;;1179;hcp;novo
+Eiholzer Urs;Zürich;CH;Möhrlistrasse 69;;;;;125.0;290.0;;;415;hcp;novo
+El-Haschimi Karim;Baden;CH;Bahnhofplatz 1;;;;;;;800.0;;800;hcp;novo
+Erlic Zoran;Luzern;CH;Spitalstrasse;;;;;654.0;761.0;;;1415;hcp;novo
+Faeli Mehran;Lugano;CH;Via Alessandro Volta 1;;;;;140.0;595.0;;;735;hcp;novo
+Fasol Ernst;Linthal;CH;Bahnhofstrasse 1;;;;;;160.0;;;160;hcp;novo
+Ferrara Jean-Marc;Yverdon-les-Bains;CH;Rue du Curtil-Maillet 29;;;;;685.0;1220.0;;;1905;hcp;novo
+Ferrari Serge;Genève;CH;Rue Gabrielle Peret-Gentil 4;;;;;;;1500.0;;1500;hcp;novo
+Ferrario Chiara;Prilly;CH;Route de Renens 24;;;;;;;3000.0;;3000;hcp;novo
+Ferrario Giorgio;Riva San Vitale;CH;Via Mons.Sesti 22;;;;;140.0;595.0;;;735;hcp;novo
+Fontana Enzo;Fribourg;CH;Chemin des Pensionnats 2;;;;;140.0;593.0;;;733;hcp;novo
+Fontana Pierre;Genève;CH;Rue Gabrielle-Perret-Gentil 4;;;;;364.0;272.0;;;636;hcp;novo
+Franscella Sebastiano;Viganello;CH;Via Pietro Capelli 9;;;;;367.0;535.0;1000.0;;1902;hcp;novo
+Frenes Katharina;Uster;CH;Brunnenstrasse 42;;;;;;160.0;;;160;hcp;novo
+Gaillard Stéphanie;Genève;CH;Boulevard des Philosophes 5;;;;;685.0;1265.0;1000.0;;2950;hcp;novo
+Gaisl Odile Christin;Zürich;CH;Steinwiesstrasse 75;;;;;566.0;1010.0;;;1576;hcp;novo
+Gastaldi Giacomo;Genève;CH;Rue Gabrielle-Perret-Gentil 4;;;;;;;1000.0;;1000;hcp;novo
+Gerber Pietro;Lugano;CH;Via Massagno 20;;;;;1077.0;2437.0;;;3514;hcp;novo
+Gerster Karine;Zürich;CH;Steinwiesstrasse 75;;;;;472.0;800.0;;;1272;hcp;novo
+Ghilardi Giuseppe;Onex;CH;Bois-de-la-Chapelle 95;;;;;;;1300.0;;1300;hcp;novo
+Giovannini Marc;La Chaux-de-Fonds;CH;Avenue Léopold Robert 47-49;;;;;261.0;720.0;;;981;hcp;novo
+Girardin Céline Michèle;Genève;CH;Rue Willy-Donzé 6;;;;;472.0;926.0;;;1398;hcp;novo
+Glarner Adrian;Zürich;CH;Zelglistrasse 47;;;;;;160.0;;;160;hcp;novo
+Golay Alain;Genève;CH;Chemin Venel 7;;;;;421.0;1706.0;1500.0;;3627;hcp;novo
+Golay-Petersen Marija;Genève;CH;Ruelle de la Vianigrerie 5;;;;;401.0;1227.0;;;1628;hcp;novo
+Goumaz Michel Olivier;Genève;CH;Chemin de Beau-Soleil 20;;;;;327.0;544.0;;;871;hcp;novo
+Gozzi Graf Tiziana;St. Gallen;CH;Claudiusstrasse 6;;;;;125.0;315.0;1000.0;;1440;hcp;novo
+Graf Lukas;St. Gallen;CH;Frohbergstrasse 3;;;;;;;1000.0;;1000;hcp;novo
+Graf Stefanie;Bern;CH;Freiburgstrasse 18;;;;;;;1000.0;;1000;hcp;novo
+Grimm Jean-Jacques;Delémont;CH;Rue du Temple 45;;;;;;;500.0;;500;hcp;novo
+Gröflin Urs Beat;Binningen;CH;Hauptstrasse 3;;;;;;227.0;1600.0;;1827;hcp;novo
+Gschwend Sylvia;Zug;CH;Baarerstrasse 12;;;;;577.0;863.0;;;1440;hcp;novo
+Habicht Frank;Les Acacias;CH;Route des Acacias 45A;;;;;;495.0;;;495;hcp;novo
+Hagemann Gysling Kerstin;Bern;CH;Freiburgstrasse 18;;;;;;545.0;1500.0;;2045;hcp;novo
+Hagmann Michaël;Pully;CH;Ch. Pré-de-la-Tour 12;;;;;;;800.0;;800;hcp;novo
+Haldemann René;Richterswil;CH;Chrummbächliweg 2;;;;;;;800.0;;800;hcp;novo
+Hauri-Hohl Annik;Zürich;CH;Möhrlistrasse 69;;;;;125.0;290.0;;;415;hcp;novo
+Haw-Tzer Chen;Genève;CH;Av. Wendt 28;;;;;;;1600.0;;1600;hcp;novo
+Hegemann Inga;Zürich;CH;Rämistrasse 100;;;;;;470.0;1000.0;;1470;hcp;novo
+Heldt Katrin;St. Gallen;CH;Claudiusstrasse 6;;;;;597.0;1141.0;;;1738;hcp;novo
+Hengartner Heinz;St. Gallen;CH;Claudiusstrasse 6;;;;;;468.0;1500.0;;1968;hcp;novo
+Hepprich Matthias;Basel;CH;Petersgraben 4;;;;;547.0;2005.0;;;2552;hcp;novo
+Herkommer Christoph;Ringgenberg;CH;Hagenstrasse 22;;;;;;;1600.0;;1600;hcp;novo
+Hess Melanie;Basel;CH;Spitalstrasse 33;;;;;577.0;1836.0;;;2413;hcp;novo
+Hochuli Michel;Zürich;CH;Rämistrasse 100;;;;;545.0;412.0;;;957;hcp;novo
+Honegger Regula;Horgen;CH;Seestrasse 117;;;;;369.0;1427.0;1000.0;;2796;hcp;novo
+Hyde Alexis;Genève;CH;Rue de Contamines 26;;;;;;;800.0;;800;hcp;novo
+Iff Ernst;Solothurn;CH;Schänzlistrasse 6;;;;;;;500.0;;500;hcp;novo
+Infanger David;Zürich;CH;Witellikerstrasse 40;;;;;421.0;871.0;;;1292;hcp;novo
+Isoz Bonadei Corinne;Genève;CH;Rue Baudit 6;;;;;327.0;642.0;;;969;hcp;novo
+Jacot Des Combes Bertrand;Genève;CH;Avenue de la Roseraie 76;;;;;327.0;659.0;;;986;hcp;novo
+Janner Marco;Bern;CH;Falkenhöhenweg 3;;;;;345.0;193.0;;;538;hcp;novo
+Jung Harald;Alvaneu Dorf;CH;Haus Ramoz;;;;;;160.0;;;160;hcp;novo
+Kamm Renato;Schwanden GL;CH;Hauptstrasse 42;;;;;;;1600.0;;1600;hcp;novo
+Karsegard Joachim Waldemar;Grand-Lancy;CH;Av. des Communes-Réunies 16;;;;;596.0;1934.0;1000.0;;3530;hcp;novo
+Katschnig Claudia;Zürich;CH;Möhrlistrasse 69;;;;;150.0;319.0;;;469;hcp;novo
+Keller Urs;Sargans;CH;Bahnhofpark 2a;;;;;;507.0;;;507;hcp;novo
+Khalil Mohammed;Thalwil;CH;Tödistrasse 115;;;;;;160.0;;;160;hcp;novo
+Klar Joachim;Olten;CH;Hauptgasse 18;;;;;;474.0;500.0;;974;hcp;novo
+Klee Philippe;Genève;CH;Rue Willy-donzé 6;;;;;401.0;1319.0;;;1720;hcp;novo
+Koehler-Ballan Bettina;Genève;CH;Chemin de Beau-Soleil 22;;;;;140.0;599.0;;;739;hcp;novo
+Konfino Sally Orly;Genève;CH;Avenue de Champel 6;;;;;401.0;1274.0;;;1675;hcp;novo
+Konrad Daniel;Zürich;CH;Steinwiesstrasse 75;;;;;1253.0;9069.0;1000.0;;11322;hcp;novo
+Krull Ina;St. Gallen;CH;Rorschacher Strasse 95;;;;;456.0;1427.0;;;1883;hcp;novo
+Kuhlmann Siegenthaler Beatrice;Basel;CH;Hirzbodenweg 48;;;;;746.0;5652.0;;;6398;hcp;novo
+Kühn Felix;Luzern;CH;Weggisgasse 40;;;;;;;1250.0;;1250;hcp;novo
+Kühne Thomas;Basel;CH;Spitalstrasse 33;;;;;;468.0;1500.0;;1968;hcp;novo
+Kutz Alexander;Aarau;CH;Tellstrasse 25;;;;;654.0;829.0;;;1483;hcp;novo
+Laederach Kurt;Niederscherli;CH;Halteneggweg 3;;;;;;;1000.0;;1000;hcp;novo
+l'Allemand Dagmar;St. Gallen;CH;Claudiusstrasse 6;;;;;39.0;205.0;;;244;hcp;novo
+Lang Steffen;Landschlacht;CH;Vorderdorfstrasse 28;;;;;;160.0;;;160;hcp;novo
+Lang-Muritano Mariarosaria;Zürich;CH;Steinwiesstrasse 75;;;;;401.0;1836.0;;;2237;hcp;novo
+Lanker Andrea;Bern;CH;Seilerstrasse 8;;;;;545.0;634.0;;;1179;hcp;novo
+Lareida Jürg;Aarau;CH;Vordere Vorstadt 16;;;;;;;500.0;;500;hcp;novo
+Lauber Biason Anna;Fribourg;CH;Chemin du Musée 5-9;;;;;401.0;5050.0;;;5451;hcp;novo
+Lehmann Thomas;St. Gallen;CH;Frohbergstrasse 3;;;;;137.0;540.0;;;677;hcp;novo
+Lenherr Nina;Basel;CH;Spitalstrasse 33;;;;;546.0;;;223.0;769;hcp;novo
+Loher Alfons;St. Gallen;CH;Vadianstrasse 59;;;;;;;800.0;;800;hcp;novo
+Loireau Aurélie;Lausanne;CH;Route de Chavannes 11a;;;;;140.0;583.0;;;723;hcp;novo
+Lovis Christian Michaël;Genève;CH;Rue Gabrielle Perret-Gentil 4;;;;;;;750.0;;750;hcp;novo
+Lucchini Barbara;Locarno;CH;Via all'Ospedale 1;;;;;694.0;1179.0;2500.0;180.6;4554;hcp;novo
+Malacarne Sarah;Meyrin;CH;Ave. Jean-Daniel Maillard 3;;;;;;;400.0;;400;hcp;novo
+Maric Dejan;Brugg AG;CH;Fröhlichstrasse 51;;;;;;507.0;;;507;hcp;novo
+Marini Marino;Clarens;CH;Avenue J.-Jacques Rousseau 2;;;;;140.0;589.0;;;729;hcp;novo
+Marti Dominik;Basel;CH;Rütimeyerplatz 9;;;;;;507.0;;;507;hcp;novo
+Martin Gabriele;Collex;CH;Route de l'Etraz 23;;;;;323.0;540.0;;;863;hcp;novo
+Martinez Maria Trinidad;Basel;CH;Petersgraben 4;;;;;364.0;535.0;1000.0;;1899;hcp;novo
+Mattiello Veneranda;Genève;CH;Rue Willy-Donzé 6;;;;;657.0;1478.0;;;2135;hcp;novo
+Maushart Claudia;Basel;CH;Petersgraben 4;;;;;547.0;1511.0;;;2058;hcp;novo
+Meienberg Fabian;Liestal;CH;Rheinstrasse 26;;;;;421.0;485.0;;;906;hcp;novo
+Molto Alberto;Lugano;CH;Via delle Scuole 34;;;;;367.0;515.0;;;882;hcp;novo
+Morattel Jean-Paul;Chexbres;CH;Chemin du Chauderon 1;;;;;261.0;715.0;;;976;hcp;novo
+Moser Catherine;Winterthur;CH;Johannes Beugger-Strasse 109;;;;;;160.0;;;160;hcp;novo
+Müller Beat;Aarau;CH;Tellstrasse 25;;;;;545.0;595.0;;;1140;hcp;novo
+Münchbach Johanna;Wollerau;CH;Hauptstrasse 38;;;;;;160.0;;;160;hcp;novo
+Natowicz André;Yverdon-les-Bains;CH;Rue du Curtil-Maillet 29;;;;;140.0;;;;140;hcp;novo
+Neuffer Bajetta Beatrice;Chiasso;CH;Piazza Indipendenza 4;;;;;628.0;1340.0;;;1968;hcp;novo
+Nguyen Howles Maï;Petit-Lancy;CH;Chemin des Esserts 11B;;;;;140.0;606.0;;;746;hcp;novo
+Niedermann Enrique;Wallisellen;CH;Zentralstrasse 6;;;;;;160.0;;;160;hcp;novo
+Nobel Monika;La Chaux-de-Fonds;CH;Av. Léopold Robert 7;;;;;456.0;1047.0;400.0;;1903;hcp;novo
+Noth Daniel;Unterseen;CH;Spitalweg 1;;;;;;;2500.0;;2500;hcp;novo
+Oser Monika;Basel;CH;Spitalstrasse 33;;;;;234.0;304.0;;;538;hcp;novo
+Pataky Zoltan;Genève;CH;Chemin Venel 7;;;;;456.0;1047.0;;;1503;hcp;novo
+Peter Yvonne;Luzern;CH;Zürichstrasse 9;;;;;;160.0;;;160;hcp;novo
+Peter Bettina;Vésenaz;CH;Chemin des Rayes 33;;;;;1161.0;5285.0;400.0;;6846;hcp;novo
+Petrus Maria;Zürich;CH;Höschgasse 50;;;;;;160.0;;;160;hcp;novo
+Pinizzotto Marisa;Lausanne;CH;Avenue de la Gare 1;;;;;140.0;601.0;;;741;hcp;novo
+Pinzello Alexander;Bülach;CH;Grabengasse 12;;;;;;398.0;1000.0;;1398;hcp;novo
+Pitarch Demetrio;Boncourt;CH;La Ruatte 4A;;;;;;;800.0;;800;hcp;novo
+Prencipe Matteo;Osogna;CH;In Gerascia da Sora 3;;;;;628.0;1526.0;;;2154;hcp;novo
+Probst-Scheidegger Ursina;Winterthur;CH;Brauerstrasse 15;;;;;401.0;1836.0;1000.0;;3237;hcp;novo
+Pugnale-Verillotte Nathalie;Fribourg;CH;Rue Saint-Pierre 1;;;;;140.0;615.0;;;755;hcp;novo
+Pusterla Carlo-Enrico;Ligornetto;CH;Via Lorenzo Vela;;;;;367.0;615.0;;;982;hcp;novo
+Quast Thomas;Langenthal;CH;St. Urbanstrasse 67;;;;;456.0;1427.0;;;1883;hcp;novo
+Queirolo Sara;Lugano;CH;Via Tesserete 46;;;;;577.0;1836.0;;;2413;hcp;novo
+Raguso Comasia;Genève;CH;Chemin Henri de Buren 26;;;;;507.0;1110.0;;;1617;hcp;novo
+Ramelli Fabio;Locarno;CH;Via Pioda 15;;;;;367.0;;;;367;hcp;novo
+Randin Jean-Pierre;Lausanne;CH;Avenue de Rumine 35;;;;;140.0;628.0;1000.0;;1768;hcp;novo
+Rassam-Hasso Yasmine;Genolier;CH;Route du Muids 3 28;;;;;261.0;715.0;;;976;hcp;novo
+Reber Michael;Orpund;CH;Hauptstrasse 201;;;;;;160.0;;;160;hcp;novo
+Refardt Julie;Basel;CH;Petersgraben 4;;;;;327.0;658.0;;;985;hcp;novo
+Rey Alexandre;Lausanne;CH;Rue Bellefontaine 2;;;;;813.0;4196.0;;;5009;hcp;novo
+Righetti Nedir Anne;Clarens;CH;Rue du Lac 142;;;;;;;400.0;;400;hcp;novo
+Rohrer-Theus Andreas;Chur;CH;Bahnhofstrasse 14;;;;;545.0;634.0;500.0;;1679;hcp;novo
+Rollero Maurizio;Lavorgo;CH;Via Moncucco;;;;;367.0;540.0;;;907;hcp;novo
+Rosselet Patrick-Olivier;Lausanne;CH;Rue Bellefontaine 2;;;;;327.0;634.0;;;961;hcp;novo
+Rothenbühler Andreas;Lyss;CH;Bahnhofstrasse 15a;;;;;;;750.0;;750;hcp;novo
+Roulin Dana;Lausanne;CH;Av. de Rumine 35;;;;;;;1600.0;;1600;hcp;novo
+Rubarth Jürgen;Rubigen;CH;Bahnhofmatte 5;;;;;;160.0;;;160;hcp;novo
+Rudovich Natalia;Bülach;CH;Spitalstrasse 24;;;;;369.0;1427.0;;;1796;hcp;novo
+Ruffieux Roger;Matzingen;CH;Alte Poststrasse 15;;;;;;160.0;;;160;hcp;novo
+Sanduloviciu Maria;Genève;CH;Avenue de la Roseraie 76;;;;;140.0;581.0;;;721;hcp;novo
+Savcic Milos;Lausanne;CH;Av. de Savoie 10;;;;;;;1000.0;;1000;hcp;novo
+Scerri Mike;Lausanne;CH;Chemin des Croix-Rouges 2;;;;;;;1600.0;;1600;hcp;novo
+Scheinemann Katrin;Aarau;CH;Tellstrasse 25;;;;;;468.0;1500.0;;1968;hcp;novo
+Schneiter Roger;Zürich;CH;Rämistrasse 100;;;;;;377.0;;;377;hcp;novo
+Schoenenweid Claude;Fribourg;CH;Place de la Gare 15;;;;;456.0;1238.0;;;1694;hcp;novo
+Schultes Bernd;St. Gallen;CH;Brauerstrasse 95;;;;;;;;1005.0;1005;hcp;novo
+Schwanda Stefanie;Schlieren;CH;Spital Limmatttal;;;;;545.0;634.0;;;1179;hcp;novo
+Schwarz-Glocker Michael;Basel;CH;Wiesendamm 22;;;;;;;2400.0;132.0;2532;hcp;novo
+Schwegler Beat;Baar;CH;Landhausstrasse 11;;;;;533.0;4024.0;1000.0;;5557;hcp;novo
+Simic Tomislav;Solothurn;CH;Bielstrasse 109;;;;;;;800.0;;800;hcp;novo
+Simon-Vermot Isabelle;Luzern;CH;Schwanenplatz 7;;;;;456.0;1269.0;;;1725;hcp;novo
+Slongo Rodolfo;Niederurnen;CH;Wiesenstrasse 10;;;;;;507.0;;;507;hcp;novo
+Sofra Daniela;Lausanne;CH;Avenue de la Gare 11;;;;;;;1400.0;;1400;hcp;novo
+Sorgesa Lyana;Lugano;CH;Via Serafino Balestra 27;;;;;140.0;601.0;;;741;hcp;novo
+Spada Alessandra;Carouge GE;CH;Avenue Cardinal-Mermillod 1;;;;;367.0;501.0;;;868;hcp;novo
+Spyrou Maria;Luzern;CH;Fanghöfli 14;;;;;;160.0;;;160;hcp;novo
+Stalder-Gaillard Michèle;Sierre;CH;Route de Sion 31;;;;;657.0;;1000.0;;1657;hcp;novo
+Stefanidou Kyriaki;Winterthur;CH;Hegistrasse 14;;;;;;160.0;;;160;hcp;novo
+Streuli Regina;Lachen SZ;CH;Oberdorfstrasse 41;;;;;327.0;634.0;;;961;hcp;novo
+Strey Christopher;St. Gallen;CH;Brauerstrasse 95;;;;;389.0;1880.0;;;2269;hcp;novo
+Strunz Michael;Zürich;CH;Zürichbergstrasse 70;;;;;456.0;1276.0;;;1732;hcp;novo
+Suter Stephan;Männedorf;CH;Bahnhofstrasse 14;;;;;570.0;1185.0;500.0;;2255;hcp;novo
+Szinnai Gabor;Basel;CH;Spitalstrasse 33;;;;;;1836.0;;;1836;hcp;novo
+Thalmann Sébastien-Pierre;Zürich;CH;Kalanderplatz 1;;;;;;377.0;;;377;hcp;novo
+Theintz Gérald;Lausanne;CH;Avenue de Sévelin 18;;;;;220.0;354.0;;;574;hcp;novo
+Thurneysen Thomas;Blonay;CH;Chemin du Lacuez 8;;;;;261.0;715.0;;;976;hcp;novo
+Troendle Amineh;Bern;CH;Bremgartenstrasse 119;;;;;140.0;617.0;;;757;hcp;novo
+Tschopp Oliver;Zürich;CH;Rämistrasse 100;;;;;456.0;1427.0;;;1883;hcp;novo
+Turello Rita Eugenia;Lausanne;CH;Rue de l'Ale 25;;;;;;;1000.0;;1000;hcp;novo
+Vavanikunnel Janina;Basel;CH;Petersgraben 4;;;;;547.0;1584.0;;;2131;hcp;novo
+Vidovic Mile;St. Gallen;CH;Rorschacher Strasse 95;;;;;547.0;1843.0;;;2390;hcp;novo
+Vogel Danièle;Buochs;CH;Beckenriederstrasse 9;;;;;;160.0;;;160;hcp;novo
+von der Weid Nicolas;Genève;CH;Chemin Beau-Soleil 12;;;;;261.0;715.0;2400.0;;3376;hcp;novo
+Vuille Jean-Claude;Lausanne;CH;Rue Marterey 56;;;;;529.0;2396.0;;;2925;hcp;novo
+Wasem Yves-Marie;Morges;CH;Rue Centrale 24;;;;;;;1600.0;;1600;hcp;novo
+Weber Moser Markus;Winterthur;CH;Johannes Beugger-Strasse 109;;;;;;160.0;;;160;hcp;novo
+Weissenberger Benno;Basel;CH;Hardstrasse 111;;;;;389.0;1058.0;;;1447;hcp;novo
+Westphal Jens Uwe;Geuensee;CH;Postmatte 4;;;;;;160.0;;;160;hcp;novo
+Wiesli Peter;Frauenfeld;CH;Pfaffenholzstrasse 4;;;;;323.0;4024.0;5000.0;480.0;9827;hcp;novo
+Wildi-Runge Stefanie;Zürich;CH;Möhrlistrasse 69;;;;;144.0;290.0;;;434;hcp;novo
+Winzeler Bettina;Basel;CH;Petersgraben 4;;;;;545.0;562.0;;480.0;1587;hcp;novo
+Zahnd Romain Alexander;Bern;CH;Seilerstrasse 8;;;;;;;400.0;;400;hcp;novo
+Zaugg Bruno;Malters;CH;Luzernstrasse 45;;;;;;160.0;;;160;hcp;novo
+Zimmermann Daniel;Affoltern am Albis;CH;Zürichstrasse 67;;;;;;;500.0;;500;hcp;novo
+Zumsteg Urs;Basel;CH;Spitalstrasse 33;;;;;692.0;693.0;1000.0;;2385;hcp;novo
+Zürcher Beat;Elgg;CH;Bergstrasse 8;;;;;;507.0;;;507;hcp;novo
+AGS- Eltern- und Patienteninitiative Schweiz;Bülach;CH;Solibodenstrasse 21;;;2000.0;;;;;;2000;hco;novo
+Arnold endocrinologie et neurologie SA;Sion;CH;Rue de Lausanne 35;;;;;;;400.0;;400;hco;novo
+Ärztegesellschaft d. Kantons Luzern Sektion Gäu;Luzern;CH;Schwanenplatz 7;;;;1000.0;;;;;1000;hco;novo
+Ärzte-Netzwerk Berner Oberland beodocs;Interlaken;CH;Kammistrasse 5;;;;3000.0;;;;;3000;hco;novo
+Ärztenetzwerk Grauholz;Ittigen;CH;Worblentalstrasse 99;;;;800.0;;;;;800;hco;novo
+Ärztenetzwerk IGOMED Thun;Thun;CH;Höheweg 26a;;;;2000.0;;;;;2000;hco;novo
+Association COALAT;Lausanne;CH;Rue du Bugnon;;;;5000.0;;;;;5000;hco;novo
+Association fribourgeoise du diabète Freiburger Diabetes-Gesellschaft;Fribourg;CH;Rte Saint-Nicolas-de-Flüe 2;;;;800.0;;;;;800;hco;novo
+Association Valaisanne du Diabète;Sion;CH;Rue de Condémines 16;;;800.0;550.0;;;;;1350;hco;novo
+Associazione Ticinese per i Diabetici;Bellinzona;CH;Via Motto di Mornera 4;;;2300.0;;;;;;2300;hco;novo
+Beratungssektion der SDG;Baden;CH;Rütistrasse 3A;;;;800.0;;;;;800;hco;novo
+Bethesda Spital AG;Basel;CH;Gellertstrasse 144;;;1000.0;;;;;;1000;hco;novo
+Bündneroberländer Aerzteverein;Vella;CH;Arzthaus;;;;2000.0;;;;;2000;hco;novo
+Centre Hospitalier Universitaire Vaudois CHUV;Lausanne;CH;Rue du Bugnon 21;;;66000.0;6963.0;5592.0;17800.0;1926.0;;98281;hco;novo
+Centre médical de la Côte SA;Corcelles (NE);CH;Rue du Petit-Beme 14;;;;2000.0;;;;;2000;hco;novo
+Centre Médico-Chirurgical de la Broye SA;Payerne;CH;Rue de Guillermaux 8;;;;2000.0;;;;;2000;hco;novo
+Circolo Medico del Bellinzonese;Bellinzona;CH;Via Caminnata 6;;;;1000.0;;;;;1000;hco;novo
+Clinique de Carouge;Carouge;CH;Avenue Cardinal-Mermillod 1;;;;1500.0;;;;;1500;hco;novo
+Clinique Le Noirmont;Le Noirmont;CH;Chemin Roc-Montès 20;;;;1000.0;;;;;1000;hco;novo
+DOXnet Aerztenetzwerk Bern Nord-West;Hinterkappelen;CH;Kappelenring 6;;;;1000.0;;;;;1000;hco;novo
+Drug Information Association;Basel;CH;Kuechengasse 16;;;;;9297.0;;181.0;;9478;hco;novo
+EndoDia Sàrl;Biel;CH;Bahnhofstrasse 7;;;;;;;400.0;;400;hco;novo
+eSwiss Medical & Surgical Center AG;St. Gallen;CH;Brauerstrasse 97;;;;4352.0;;;1926.0;;6278;hco;novo
+European Health Care Foundation;Zürich;CH;Räffelstrasse 26;;;50114.0;;;;;;50114;hco;novo
+European Menopause and Andropause Society;Genève;CH;Rue du Rhône 118;;;;17471.0;;;;;17471;hco;novo
+Fondation Uscade;Pully;CH;Av. Chantemerle 10;;;9000.0;;;;;;9000;hco;novo
+Foodteam Ernährungspraxen;Dielsdorf;CH;Breitestrasse 11;;;;2000.0;;;;;2000;hco;novo
+Fortbildungspool Ärzte c/o Kantonsspital Uri;Altdorf UR;CH;Spitalstrasse 1;;;;2000.0;;;;;2000;hco;novo
+Gäuer Ärzte Fortbildungspool;Kestenholz;CH;Bachmattstrasse 1;;;;500.0;;;;;500;hco;novo
+GHOL SA c/o Hôpital de Nyon;Nyon;CH;Chemin Monastier 10;;;;400.0;;;;;400;hco;novo
+Groupe d'intérêts communs suisse d'infirmières/iers-conseil en diabétologie;Prangins;CH;Chemin de la Clé des Champs 5;;;;1000.0;;;;;1000;hco;novo
+Groupement des Médecins des Franches-Montagnes;Saignelégier;CH;Place du 23 Juin 2;;;;800.0;;;;;800;hco;novo
+GSMN Privatklinik Obach AG;Solothurn;CH;Leopoldstrasse 5;;;;2160.0;;;;;2160;hco;novo
+Hausärzteverein Bremgarten;Widen;CH;Neumattstrasse 16;;;;2000.0;;;;;2000;hco;novo
+Hausärztlicher Qualitätszirkel Oberthurgau West;Amriswil;CH;Hölzlistrasse 15;;;;3500.0;;;;;3500;hco;novo
+Hôpital du Jura Bernois S.A.;St-Imier;CH;Les Fontenayes 17;;;;2500.0;;;;;2500;hco;novo
+Hôpital du Jura Delémont und Porrentruy;Porrentruy;CH;Chemin de l'Hôpital 9;;;;2500.0;;;;;2500;hco;novo
+Hôpital Fribourgeois Freiburger Spital;Fribourg;CH;Chemin des Pensionnats 2;;;15000.0;;;;800.0;;15800;hco;novo
+Hôpital Intercantonal de la Broye;Estavayer-le-Lac;CH;Rue de la Rochette;;;;2000.0;;;;;2000;hco;novo
+Hôpitaux Universitaires de Genève (HUG);Gèneve;CH;Rue Gabrielle Perret-Gentil 4;;;29778.0;13611.0;;;926.0;;44315;hco;novo
+Hormon Zentrum Zürich AG;Zürich;CH;Witellikerstrasse 40;;;;1000.0;;;;;1000;hco;novo
+Insel Gruppe AG Stiftungen und Fonds;Bern;CH;Freiburgstrasse 18;;;91500.0;14072.0;4146.0;7426.0;7500.0;308.0;124952;hco;novo
+Journée Jurassienne de Medecine;Delémont;CH;Préfecture 1;;;;1600.0;;;;;1600;hco;novo
+Kantonspital Baden AG;Baden;CH;Im Ergel 1;;;;;;;1000.0;;1000;hco;novo
+Kantonsspital Baselland;Liestal;CH;Mühlemattstrasse 26;;;;2000.0;545.0;634.0;3000.0;;6179;hco;novo
+Kantonsspital Graubünden;Chur;CH;Loëstrasse 170;;;;;2940.0;13874.0;5000.0;580.0;22394;hco;novo
+Kantonsspital Münsterlingen;Münsterlingen;CH;Spitalcampus 1;;;500.0;;;;;;500;hco;novo
+Kantonsspital Nidwalden;Stans;CH;Ennetmooserstrasse 19;;;;9500.0;;;;;9500;hco;novo
+Kantonsspital Olten;Olten;CH;Baslerstr. 150;;;;800.0;;;1000.0;;1800;hco;novo
+Kantonsspital St. Gallen;St. Gallen;CH;Rorschacherstrasse 95;;;926.0;7778.0;;;;;8704;hco;novo
+Kinderspital Zürich;Zürich;CH;Steinwiesstrasse 75;;;81503.0;;;;;;81503;hco;novo
+La Tour Réseau de Soins SA;Meyrin;CH;Avenue J.-D. Maillard 3;;;2000.0;;;;;;2000;hco;novo
+Luzerner Kantonsspital;Luzern;CH;Spitalstrasse 31;;;3500.0;4389.0;1381.0;1270.0;5000.0;240.0;15780;hco;novo
+Médecins de Famille Genève;Genève;CH;Rue du Conseil-Général 11;;;;2000.0;;;;;2000;hco;novo
+Medical AdiNetwork GmbH;Winterthur;CH;Lagerhausstrasse 9;;;;1500.0;;;;;1500;hco;novo
+Nomad - Neuchâtel Organise Le Maintien A Domicile;La Chaux-de-Fonds;CH;Rue du Pont 25;;;;500.0;;;;;500;hco;novo
+Ospedale Regionale di Mendrisio;Mendrisio;CH;Via Alfonso Turconi 23;;;;600.0;;;;;600;hco;novo
+Ostschweizerische Diabetes-Gesellschaft;St.Gallen;CH;Neugasse 55;;;;540.0;;;;;540;hco;novo
+pa.or.med.ag;Allschwil;CH;Hegenheimermattweg 183;;;;3000.0;;;;;3000;hco;novo
+PEZZ Pädiatrisch-Endokrinologisches Zentrum Zürich AG;Zürich;CH;Möhrlistrasse 69;;;1048.0;;;;1000.0;;2048;hco;novo
+PizolCare AG;Mels;CH;Flurstrasse 12;;;;2352.0;;;;;2352;hco;novo
+Praxis Villiger & DiaMon AG;Baden;CH;Mellingerstrasse 207;;;;2550.0;;;;;2550;hco;novo
+"Pro Medicus GmbH, Projekt ""in a nutshell""";Zürich;CH;Bahnhofplatz 4;;;95000.0;;;;;;95000;hco;novo
+Regionalspital Emmental AG;Langnau im Emmental;CH;Dorfbergstrasse 10;;;;1000.0;;;;;1000;hco;novo
+Réseau Santé du Balcon du Jura vd.;Sainte-Croix;CH;Rue des Rasiers 29;;;;2000.0;;;;;2000;hco;novo
+Schweizerische Adipositas-Stiftung SAPS;Zürich;CH;Baumackerstrasse 42;;;6000.0;;;;;;6000;hco;novo
+Schweizerische Diabetes-Gesellschaft SDG ASD;Baden;CH;Rütistrasse 3A;;;1200.0;;;;;;1200;hco;novo
+Schweizerische Diabetes-Stiftung;Baden;CH;Rütistrasse 3A;;;5000.0;;;;;;5000;hco;novo
+Schweizerische Gesellschaft für Endokrinologie und Diabetologie;Baden;CH;Rütistrasse 3A;;;55000.0;;;;;;55000;hco;novo
+Schweizerische Gesellschaft für pädiatrische Endokrinologie und Diabetologie SGPED /SSEDP;Baden;CH;Rütistrasse 3A;;;;4000.0;;;;;4000;hco;novo
+Schweizerische Hämophilie-Gesellschaft SHG;Altstätten;CH;Mühlibachstrasse 5;;;;;;2500.0;;;2500;hco;novo
+Schweizerische Interessensgruppe für Diabetesfachberatung SIDB;Uzwil;CH;Moosweg 13;;;;3000.0;;;;;3000;hco;novo
+Schweizerische MD-PhD Gesellschaft;Basel;CH;Hebelstrasse 21;;;2000.0;;;;;;2000;hco;novo
+Schweizerische Menopausengesellschaft SMG;Lausanne;CH;Rue de la Vigie 5;;;5000.0;;;;;;5000;hco;novo
+Schweizerische Vereinigung für Transfusionsmedizin SVTM;Bern;CH;Laupenstrasse 37;;;;400.0;;;;;400;hco;novo
+Schweizerischer Fachverband Adipositas im Kindes- und Jugendalter AKJ;Aarau;CH;Herzogstrasse 1;;;1000.0;;;;;;1000;hco;novo
+Schweizerischer Verband Medizinischer PraxisAssistentinnen;Bern;CH;Monbijoustrasse 35;;;2000.0;;;;;;2000;hco;novo
+SeelandNet Solution GmbH Ärztenetzwerk des Bieler Seelands;Lyss;CH;Bahnhofstrasse 15a;;;;1000.0;;;;;1000;hco;novo
+Sektion Praktizierende Endokrinologen;Nürensdorf;CH;Haldenweidstrasse 5;;;;5000.0;;;;;5000;hco;novo
+Selbsthilfegruppe Turner-Syndrom Schweiz;Wädenswil;CH;Neudorfstrasse 32;;;3000.0;;;;;;3000;hco;novo
+Spital Limmattal;Schlieren;CH;Urdorferstrasse 100;;;;1750.0;;;;;1750;hco;novo
+Spital Thurgau AG;Frauenfeld;CH;Pfaffenholzstrasse 4;;;;2300.0;;;;;2300;hco;novo
+SRO AG Spital Langenthal;Langenthal;CH;St. Urbanstrasse 67;;;;1000.0;;;;;1000;hco;novo
+SSH SGH SSE;Zürich;CH;Bahnhofplatz 4;;;;3000.0;;;;;3000;hco;novo
+Stiftung für Herz-/Kreislaufforschung;Zürich;CH;Moussonstrasse 4;;;;6000.0;;;;;6000;hco;novo
+Stiftung für wissenschaftliche Forschung am Stadtspital Triemli;Zürich;CH;Birmensdorferstrasse 497;;;;2000.0;;;;;2000;hco;novo
+Stoffwechselzentrum STEPS AG;Biel;CH;Mühlebrücke 2;;;;;;;1000.0;;1000;hco;novo
+SWISSDIAB Inselspital;Bern;CH;Freiburgstrasse;;;15000.0;;;;;;15000;hco;novo
+Tidonne;Bellinzona;CH;Viale Stazione 16;;;700.0;;;;;;700;hco;novo
+Universitätskinderspital beider Basel UKBB;Basel;CH;Spitalstrasse 33;;;;;;;1500.0;;1500;hco;novo
+Universitätsspital Basel Fonds;Basel;CH;Hebelstrasse 36;;;260000.0;4200.0;;;7000.0;;271200;hco;novo
+UniversitätsSpital Zürich;Zürich;CH;Rämistrasse 100;;;22000.0;6852.0;;;5250.0;;34102;hco;novo
+Université de Genève Faculté de Médecine;Genève;CH;Rue Michel-Servet 1;;;31000.0;;;;;;31000;hco;novo
+Verein DIAfit;Baden;CH;Rütistrasse 3a;;;15000.0;;;;;;15000;hco;novo
+Verein PAPE c/o Doris Fischer-Taeschler;Seengen;CH;Riedweg 16;;;;4000.0;;;;;4000;hco;novo
+ZGN - Zürcher Gesundheitsnetz;Zürich;CH;Birmensdorferstrasse 467;;;;5000.0;;;;;5000;hco;novo
+Zürcher RehaZentrum Wald;Wald;CH;Faltigbergstrasse 7;;;;1000.0;;;240.0;;1240;hco;novo
