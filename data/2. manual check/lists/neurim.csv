@@ -1,0 +1,6 @@
+name;location;country;address;plz;uci;donations_grants;sponsorship;registration_fees;travel_accommodation;fees;related_expenses;total;type;source
+University Hospital Berne;Zürich;CH;Frauenklinikstrasse 26;8091;;;4000.0;;;;;4000.0;hco;neurim
+University Hospital;Bern;CH;Freiburgstrasse 8;3010;;;3000.0;;;;;3000.0;hco;neurim
+Schweizerischen Gesellschaft für Schlafforschung;;CH;;;;;4000.0;;;;;4000.0;hco;neurim
+Dagmar Schmid,;St. Gallen;CH;Kantonsspital St. Gallen,;;;;;;;900.0;;900.0;hcp;neurim
+Kantonsspital Olten;Olten;CH;Baslerstrasse 150;4600;;;800.0;;;;;800.0;hco;neurim
