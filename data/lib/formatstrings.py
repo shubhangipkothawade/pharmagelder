@@ -46,3 +46,15 @@ def remove_carination(dataset, substr = ""):
             dataset[column] = dataset[column].str.replace('\\r', substr)
     return dataset
 
+"""
+
+    Wandelt alle Columns in Strings um. Benutzen, bevor geshiftet wird.
+
+"""
+def columns_to_string(_df):
+    #fill na
+
+    #transform columns
+    for column in _df:
+        _df[column] = _df[column].astype(str)
+    return _df

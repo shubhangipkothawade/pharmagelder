@@ -103,12 +103,17 @@ Fügt die UCI an entsprechender Stelle ein
 `df_export = remove_empty_columns(df_export)`  
 Entfernt alle Collumns, die leer sind
 
+**columns_to_string**  
+`df_export = columns_to_string(df_export)`  
+Konvertiert alle Columns zu strings. Vor shiften verwenden, da float-Column nicht in string-column geshiftet werden kann  
+
 # Often used code snippets
 **Remove empty rows**  
 `df_export = df_export.dropna(subset=['donations_grants', 'sponsorship', 'registration_fees', 'travel_accommodation', 'fees', 'related_expenses', 'total'], how='all')`  
 
 **Shift rows**  
 `df_export[df_export['name'].notna()] = df_export[df_export['name'].notna()].shift(1, axis='columns')`  
+WICHTIG: Manchmal muss in einer Columne NaNs entfernt werden, da sonst Daten verloren gehen. Siehe `Celgene`  
   
 **Reorder Columns**  
 `df_export = df_export[fix_columns[:-1]]`  
