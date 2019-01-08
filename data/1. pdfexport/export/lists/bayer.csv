@@ -1,575 +1,575 @@
-name;location;country;address;plz;uci;donations_grants;sponsorship;registration_fees;travel_accommodation;fees;related_expenses;total;type;source
-AarReha Schinznach;Schinznach Bad;CH;Badstrasse 55;5116;40529319;0.0;1500.0;0.0;0.0;0.0;0.0;1500.0;hco;bayer
-Advisis AG;Bern;CH;Effingerstrasse 55;3008;1051547182;0.0;52000.0;0.0;0.0;0.0;0.0;52000.0;hco;bayer
-Aerztegesellschaft des Kantons Bern;Bern;CH;Postgasse 19;3000;40702884;0.0;300.0;0.0;0.0;0.0;0.0;300.0;hco;bayer
-Affidea Cimed;Fribourg;CH;Rue de Romont 24;1700;1066345153;0.0;92181.02;0.0;0.0;16673.57;0.0;108854.59;hco;bayer
-AGFAM;Hettlingen;CH;Herenbäumenweg 9b;8442;1055451634;0.0;3000.0;0.0;0.0;0.0;0.0;3000.0;hco;bayer
-AMIS Plus Stiftung;Zürich;CH;Hirschengraben 84;8001;40529773;0.0;20000.0;0.0;0.0;0.0;0.0;20000.0;hco;bayer
-AOCT Associazione Oculisti Canton Ticino;Bellinzona;CH;Piazza del Sole 5;6500;40528924;0.0;1500.0;0.0;0.0;0.0;0.0;1500.0;hco;bayer
-Arbeitsgruppe für Kardiovaskuläre Pflege und Therapien;Bern;CH;Dufourstrasse 30;3005;40532540;0.0;500.0;0.0;0.0;0.0;0.0;500.0;hco;bayer
-Arbeitsgruppe Lipide und Atherosklerose;Diessenhofen;CH;Hintergasse 65;8253;1051562846;0.0;5000.0;0.0;0.0;0.0;0.0;5000.0;hco;bayer
-Ärztegesellschaft des Kantons Luzern;Luzern;CH;Schwanenplatz 7;6004;40665419;0.0;1080.0;0.0;0.0;0.0;0.0;1080.0;hco;bayer
-Ärztekongress Arosa;Arosa;CH;;7050;40529612;0.0;3510.0;0.0;0.0;0.0;0.0;3510.0;hco;bayer
-Ärztenetzwerk Bern Geschäftsstelle;Zürich;CH;Bahnhofplatz 4;8001;40701493;0.0;6000.0;0.0;0.0;0.0;0.0;6000.0;hco;bayer
-Ärztenetzwerk Grauholz;Ittigen;CH;Worblentalstrasse 99;3063;40699977;0.0;2800.0;0.0;0.0;0.0;0.0;2800.0;hco;bayer
-Ärzteverein Davos;Davos Platz;CH;Promenade 33a;7270;1053070710;0.0;1500.0;0.0;0.0;0.0;0.0;1500.0;hco;bayer
-Ärzteverein Werdenberg/Sarganserland;Bad Ragaz;CH;Hans Albrecht-Strasse 1;7310;40534610;0.0;3000.0;0.0;0.0;0.0;0.0;3000.0;hco;bayer
-Association d'Aesculape en Lavaux (ADEL);Lutry;CH;Rue Verdaine 8a;1095;1052796303;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Association Journée Jurasienne de Médecine;Delémont;CH;Rue de la Préfecture 1;2800;1053109088;0.0;1600.0;0.0;0.0;0.0;0.0;1600.0;hco;bayer
-Association Les Journées de Gériatrie de La T'chaux;La Chaux-de-Fonds;CH;Rue de la Serre 7;2300;1060071678;0.0;7500.0;0.0;0.0;0.0;0.0;7500.0;hco;bayer
-Association Périnatalité Valais;Siviriez;CH;Route de Brenles 43;1678;1053030670;0.0;500.0;0.0;0.0;0.0;0.0;500.0;hco;bayer
-Association Rencontres cardiologiques annuelles;Genève;CH;Rue Marignac 13;1206;1052313543;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Associazione MMM Mendrisio Medical Meeting;Minusio;CH;Via Cadogno 1;6648;1051680388;0.0;3000.0;0.0;0.0;0.0;0.0;3000.0;hco;bayer
-ATLS Advanced Trauma Life Support;Aarau;CH;Bahnhofstrasse 55;5001;1060352934;0.0;500.0;0.0;0.0;0.0;0.0;500.0;hco;bayer
-Augenzentrum Bahnhof Basel AG;Basel;CH;Centralbahnstrasse 20;4051;40537051;0.0;5000.0;0.0;0.0;0.0;0.0;5000.0;hco;bayer
-Bethesda Spital AG;Basel;CH;Gellertstrasse 144;4002;40531646;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Blueye Vision Tech GmbH;Meggen;CH;Huobmattstrasse 9;6045;1052627719;0.0;4400.0;0.0;0.0;0.0;0.0;4400.0;hco;bayer
-Centre d'Imagerie de la Servette;Genève;CH;Avenue de Luserna 17;1203;40519727;0.0;0.0;610.7;545.3;0.0;0.0;1156.0;hco;bayer
-Centre Médical de la Côte SA;Corcelles NE;CH;Rue du Petit-Berne 14;2035;40519611;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Centre Neuchâtelois d'Ophtalmologie SA;Neuchâtel;CH;Rue des Poteaux 8;2000;40525620;0.0;2200.0;0.0;0.0;0.0;0.0;2200.0;hco;bayer
-CHUV Centre Hospitalier Universitaire Vaudois;Lausanne;CH;Rue Du Bugnon 21;1011;40523932;0.0;54703.7;4028.05;8743.94;17285.0;776.91;85537.59;hco;bayer
-Circolo medico del Bellinzonese;Arbedo;CH;Via Orbello 22;6517;1051739729;0.0;1000.0;0.0;0.0;0.0;0.0;1000.0;hco;bayer
-Circolo medico di Locarno;Ascona;CH;Via al Lido 27;6612;40529109;0.0;1500.0;0.0;0.0;0.0;0.0;1500.0;hco;bayer
-Circolo medico tre Valli;Dongio;CH;Via Cantonale;6715;1051384597;0.0;2600.0;0.0;0.0;0.0;0.0;2600.0;hco;bayer
-Clinica Luganese Moncucco SA;Lugano;CH;Via Moncucco 10;6900;40535174;0.0;1000.0;0.0;0.0;0.0;0.0;1000.0;hco;bayer
-Clinica Santa Chiara SA;Locarno;CH;Via Stefano Franscini 4;6600;40534865;0.0;1000.0;0.0;0.0;0.0;0.0;1000.0;hco;bayer
-Clinique de Carouge SA;Carouge GE;CH;Avenue Cardinal-Mermillod 1;1227;40699347;0.0;1500.0;0.0;0.0;0.0;0.0;1500.0;hco;bayer
-COALAT / Anesthesiology CHUV;Lausanne;CH;Rue Du Bugnon 46;1011;40535421;0.0;3000.0;0.0;0.0;0.0;0.0;3000.0;hco;bayer
-COR2ED;Bottmingen;CH;Bodenackerstrasse 17;4103;40537070;0.0;405325.22;0.0;0.0;193373.49;0.0;598698.71;hco;bayer
-Council for International Organizations of Medical Sciences (CIOMS);Le Grand-Saconnex;CH;Route des Morillons 1-5;1218;1065559018;0.0;30442.21;0.0;0.0;0.0;0.0;30442.21;hco;bayer
-DOXnet - Ärztenetzwerk Bern Nord / West;Laupen BE;CH;Bösingenstrasse 16;3177;40519916;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Ente Ospedaliero Cantonale - EOC;Bellinzona;CH;Viale Officina 3;6500;40702764;0.0;26955.55;0.0;0.0;0.0;0.0;26955.55;hco;bayer
-eSwiss Medical & Surgical Center AG;St. Gallen;CH;Brauerstrasse 95;9016;1055040521;0.0;2500.0;0.0;0.0;1875.0;0.0;4375.0;hco;bayer
-European Respiratory Society;Lausanne;CH;Avenue Sainte-Luce 4;1003;40523949;0.0;67359.69;0.0;0.0;0.0;0.0;67359.69;hco;bayer
-European School for Advanced Studies in Ophthalmology;Lugano;CH;Viale Stefano Franscini 9;6901;1066195842;0.0;10473.21;0.0;0.0;0.0;0.0;10473.21;hco;bayer
-European Society for Medical Oncology;Viganello;CH;via Luigi Taddei 4;6962;40523577;0.0;833994.52;0.0;0.0;0.0;0.0;833994.52;hco;bayer
-European Society of Clinical Microbiology and Infectious Diseases;Basel;CH;;4010;1052941986;0.0;38573.72;0.0;0.0;0.0;0.0;38573.72;hco;bayer
-European Society of Neuroradiology - Diagnostic and Interventional;Zürich;CH;Bahnhofstrasse 108;8001;40529046;0.0;27531.55;0.0;0.0;0.0;0.0;27531.55;hco;bayer
-European Stroke Organisation;Basel;CH;Peter Merian-Strasse 80;4002;40521749;0.0;90451.39;0.0;0.0;0.0;0.0;90451.39;hco;bayer
-Felix Platter-Spital;Basel;CH;Burgfelderstrasse 101;4055;40526764;0.0;3000.0;0.0;0.0;1530.0;0.0;4530.0;hco;bayer
-FMH Consulting Services AG;Oberkirch LU;CH;Burghöhe 1;6208;1056543093;0.0;13500.0;0.0;0.0;0.0;0.0;13500.0;hco;bayer
-Fokus Herz Bern;Bern;CH;Freiburgstrasse 10;3010;1059824440;0.0;10000.0;0.0;0.0;0.0;0.0;10000.0;hco;bayer
-Fondation Asile des Aveugles;Lausanne;CH;Avenue de France 15;1004;40535377;0.0;8640.0;0.0;0.0;0.0;0.0;8640.0;hco;bayer
-Fondation du Centre de Chimiothérapie Anti-Cancéreuse;Lausanne;CH;Avenue Alexandre-Vinet 19B;1004;1052956696;0.0;1000.0;0.0;0.0;0.0;0.0;1000.0;hco;bayer
-Fondation pour la recherche de la cardiologie universitaire de Genève;Genève;CH;Rue Micheli-du-Crest 24;1211;40524306;0.0;27250.0;0.0;0.0;6200.0;0.0;33450.0;hco;bayer
-Fondation Suisse Contre le Cancer du Foie;Delémont;CH;Rue De L'église 13;2800;1056522213;0.0;5000.0;0.0;0.0;0.0;0.0;5000.0;hco;bayer
-Fondazione Cardiocentro Ticino;Lugano;CH;Via Tesserete 48;6900;40535235;0.0;2500.0;0.0;0.0;0.0;0.0;2500.0;hco;bayer
-Fondazione Epatocentro Ticino;Lugano;CH;Via Soldino 5;6900;40535213;0.0;3000.0;0.0;0.0;0.0;0.0;3000.0;hco;bayer
-Fortbildungsgruppe Adler;Steckborn;CH;Storchengässli 2;8266;1059748180;0.0;1000.0;0.0;0.0;0.0;0.0;1000.0;hco;bayer
-Forum für medizinische Fortbildung - FomF GmbH;Zug;CH;Ahornstrasse 2;6300;40534246;0.0;14000.0;0.0;0.0;0.0;0.0;14000.0;hco;bayer
-Foundation SAoO;Berneck;CH;Schüllenstrasse 19;9442;1055501532;0.0;20000.0;0.0;0.0;0.0;0.0;20000.0;hco;bayer
-Frauenarztpraxis Luzern AG;Luzern;CH;Weggisgasse 1;6004;40523477;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hco;bayer
-Frauengesundheitszentrum Rämistrasse;Zürich;CH;Rämistrasse 35;8001;1059956495;0.0;800.0;0.0;0.0;0.0;0.0;800.0;hco;bayer
-Frauenpraxis Buchenhof AG;Sursee;CH;Buchenstrasse 8;6210;1051547142;0.0;0.0;0.0;0.0;3425.0;0.0;3425.0;hco;bayer
-Frauenpraxis Stäfa;Stäfa;CH;Häldelistrasse 9;8712;40527726;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hco;bayer
-Groupement des Médecins des Franches-Montagnes;Saignelégier;CH;Place Du Vingt-trois Juin 2;2350;40530980;0.0;1000.0;0.0;0.0;0.0;0.0;1000.0;hco;bayer
-Groupement Romand de la Société Suisse de Gynécologie et Obstétrique;Cheseaux-sur-Lausanne;CH;Rue des Pâquis 1;1033;1052346094;0.0;26745.0;0.0;0.0;0.0;0.0;26745.0;hco;bayer
-Gruppo Medico Formazione;Roveredo GR;CH;San Fedele;6535;40529498;0.0;1500.0;0.0;0.0;0.0;0.0;1500.0;hco;bayer
-Gruppo Pochi ma buoni (PMB);Lugano;CH;Via delle Scuole 34;6900;40529869;0.0;700.0;0.0;0.0;0.0;0.0;700.0;hco;bayer
-GSASA Schweizerischer Verein der Amts- und Spitalapotheker;Bern;CH;;3000;40523153;0.0;800.0;0.0;0.0;0.0;0.0;800.0;hco;bayer
-GZO Spital Wetzikon;Wetzikon ZH;CH;Spitalstrasse 66;8620;40533324;0.0;1851.85;0.0;0.0;0.0;0.0;1851.85;hco;bayer
-Hareso AG - Hausärzte Region Solothurn AG;Solothurn;CH;Niklaus-Konrad-Strasse 11;4500;40528509;0.0;10000.0;0.0;0.0;0.0;0.0;10000.0;hco;bayer
-Hausarztverein Gossau;Gossau SG;CH;Lerchenstrasse 32;9200;40533280;0.0;1500.0;0.0;0.0;0.0;0.0;1500.0;hco;bayer
-HerzGefässStiftung;Zürich;CH;Seestrasse 220;8002;40536128;0.0;22500.0;0.0;0.0;0.0;0.0;22500.0;hco;bayer
-Herzpraxis Warteckhof;Basel;CH;Grenzacherstrasse 62;4058;40683350;0.0;1500.0;0.0;0.0;0.0;0.0;1500.0;hco;bayer
-HFR Fribourg-Hôpital Cantonal;Fribourg;CH;Chemin des Pensionnats 2;1708;1052325881;0.0;8000.0;0.0;0.0;0.0;0.0;8000.0;hco;bayer
-Hirslanden Klinik St. Anna;Luzern;CH;Sankt Annastrasse 32;6006;40517562;0.0;6388.89;0.0;0.0;0.0;0.0;6388.89;hco;bayer
-Hôpital de Zone de Nyon - GHOL;Nyon;CH;Chemin Monastier 10;1260;40518918;0.0;800.0;133.35;0.0;0.0;0.0;933.35;hco;bayer
-Hôpital du Chablais;Aigle;CH;Chemin du Grand-Chêne;1860;40536207;0.0;4000.0;0.0;0.0;0.0;0.0;4000.0;hco;bayer
-Hôpital du Jura Bernois, Moutier;Moutier;CH;Rue de Beausite 49;2740;40537201;0.0;2500.0;0.0;0.0;0.0;0.0;2500.0;hco;bayer
-Hôpital du Jura, Site de Porrentruy (H-JU);Porrentruy;CH;Chemin de l'Hôpital 9;2900;40538227;0.0;1800.0;0.0;0.0;0.0;0.0;1800.0;hco;bayer
-Hôpital du Valais - Hôpital de Sion;Sion;CH;Avenue Grand-Champsec 80;1951;40520335;0.0;6800.0;3266.05;9474.85;0.0;0.0;19540.9;hco;bayer
-Hôpital Intercantonal de la Broye, HIB Site de Payerne;Payerne;CH;Avenue de la Colline 3;1530;40699479;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Hôpital neuchâtelois La Chaux-de-Fonds;La Chaux-de-Fonds;CH;Rue de Chasseral 20;2300;40519124;0.0;11000.0;0.0;0.0;0.0;0.0;11000.0;hco;bayer
-Hôpitaux Universitaires de Genève (HUG);Genève;CH;Rue Gabrielle-Perret-Gentil 4;1205;40518666;0.0;53200.0;4200.0;0.0;7184.4;0.0;64584.4;hco;bayer
-IGOMED Ärztenetzwerk Raum Thun;Thun;CH;Höheweg 26a;3600;40700119;0.0;5000.0;0.0;0.0;0.0;0.0;5000.0;hco;bayer
-Insel Gruppe AG;Bern;CH;Freiburgstrasse 18;3010;1066372371;0.0;446576.3;0.0;0.0;27774.38;984.8;475335.48;hco;bayer
-Institut für Forschung und Fortbildung in der Medizin GmbH;Langenthal;CH;Jurastrasse 15;4900;1051772183;0.0;1500.0;0.0;0.0;0.0;0.0;1500.0;hco;bayer
-Institut für Hausarztmedizin & Community Care Luzern;Luzern;CH;Schwanenplatz 7;6004;1053309391;0.0;5000.0;0.0;0.0;0.0;0.0;5000.0;hco;bayer
-Kantonale Ärztegesellschaft Schaffhausen;Schaffhausen;CH;Finsterwaldstrasse 91;8200;1052625370;0.0;5000.0;0.0;0.0;0.0;0.0;5000.0;hco;bayer
-Kantonsspital Aarau AG;Aarau;CH;Tellstrasse 25;5001;40522809;0.0;50018.51;7707.1;13964.91;6059.78;607.82;78358.11;hco;bayer
-Kantonsspital Baselland;Liestal;CH;Mühlemattstrasse 26;4410;40522657;0.0;18500.0;3162.22;2073.26;1250.0;0.0;24985.49;hco;bayer
-Kantonsspital Graubünden;Chur;CH;Loestrasse 170;7000;40535054;0.0;8500.0;0.0;0.0;3437.0;0.0;11937.0;hco;bayer
-Kantonsspital Schaffhausen;Schaffhausen;CH;Geissbergstrasse 81;8208;40521557;0.0;0.0;0.0;0.0;1000.0;0.0;1000.0;hco;bayer
-Kantonsspital St. Gallen;St. Gallen;CH;Rorschacher Strasse 95;9007;40538716;0.0;77800.0;262.4;903.2;7875.0;0.0;86840.6;hco;bayer
-Kantonsspital Uri;Altdorf UR;CH;Spitalstrasse 1;6460;40535159;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Kantonsspital Winterthur;Winterthur;CH;Brauerstrasse 15;8400;40516032;0.0;31821.75;2500.0;0.0;0.0;0.0;34321.75;hco;bayer
-KGP Kardiologische Gemeinschaftspraxis AG;Bern;CH;Schänzlistrasse 33;3013;40526445;0.0;6000.0;0.0;0.0;0.0;0.0;6000.0;hco;bayer
-Kinderspital Zürich Universitäts-Kinderklinik;Zürich;CH;Steinwiesstrasse 75;8032;40532536;0.0;55000.0;458.0;6532.7;0.0;394.04;62384.74;hco;bayer
-Klinik Bethesda / Neurorehabilitation Parkinson-Zentrum Epileptologie;Tschugg;CH;Oberdorf;3233;40703101;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Klinik Schützen Rheinfelden;Rheinfelden;CH;Bahnhofstrasse 19;4310;40532268;0.0;500.0;0.0;0.0;0.0;0.0;500.0;hco;bayer
-Luzerner Kantonsspital Luzern;Luzern;CH;Spitalstrasse;6000;1051697737;0.0;23000.0;0.0;0.0;8312.3;0.0;31312.3;hco;bayer
-Médecins de Famille Genève;Genève;CH;Rue du Conseil-Général 11;1205;1051545544;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Medical AdiNetwork GmbH;Winterthur;CH;Lagerhausstrasse 9;8400;1057409825;0.0;1500.0;0.0;0.0;3250.0;0.0;4750.0;hco;bayer
-Medicaments Pour Tous Switzerland;Basel;CH;Grosspeterstrasse 9;4052;1057410711;7040.0;0.0;0.0;0.0;0.0;0.0;7040.0;hco;bayer
-MEDICOL - Direction et recherches;Lausanne;CH;Chemin de Montolivet 19;1006;1055230876;0.0;3000.0;0.0;0.0;0.0;0.0;3000.0;hco;bayer
-medswiss.net Schweizer Dachverband der Ärztenetze;Gümligen;CH;Moosstrasse 2;3073;40702073;0.0;6000.0;0.0;0.0;0.0;0.0;6000.0;hco;bayer
-Mekelleche GmbH;Luzern;CH;Moostrasse 2;6003;40517481;0.0;0.0;0.0;0.0;122758.59;0.0;122758.59;hco;bayer
-Oberwalliser Ärztegesellschaft OWAEG;Brig;CH;Sandmattenstrasse 6;3900;1056546365;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Onkologie Bellevue Dr. Bättig Basil;Zürich;CH;Stadelhoferstrasse 42;8001;40680196;0.0;0.0;0.0;0.0;500.0;0.0;500.0;hco;bayer
-Onkologiepflege Schweiz;Kleinandelfingen;CH;Hirstigstrasse 13;8451;40526526;0.0;0.0;2750.0;0.0;0.0;0.0;2750.0;hco;bayer
-OnkoZentrum Zürich AG;Zürich;CH;Seestrasse 259;8038;1055038955;0.0;21200.0;0.0;0.0;0.0;0.0;21200.0;hco;bayer
-Ospedale Regionale di Lugano / Sede Civico;Lugano;CH;Via Tesserete 46;6900;40701231;0.0;4500.0;0.0;0.0;0.0;0.0;4500.0;hco;bayer
-Ospedale Regionale La Carità;Locarno;CH;Via all'Ospedale 1;6600;40534824;0.0;2129.63;0.0;0.0;0.0;0.0;2129.63;hco;bayer
-Pallas Kliniken AG;Olten;CH;;4600;40672283;0.0;18000.0;0.0;0.0;0.0;0.0;18000.0;hco;bayer
-pharmActuel Bern;Zollikofen;CH;Hübeliweg 14;3052;1067485359;0.0;2900.0;0.0;0.0;0.0;0.0;2900.0;hco;bayer
-pharmActuel Zürich;Zürich;CH;Hochstrasse 97;8044;1066839479;0.0;1800.0;0.0;0.0;0.0;0.0;1800.0;hco;bayer
-PizolCare AG;Mels;CH;Flurstrasse 12;8887;40702067;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Praxis Dr. Annen Noëlle / Dr. Annen Oliver;Root;CH;Bahnhofstrasse 24;6037;40673773;0.0;0.0;0.0;0.0;3000.0;0.0;3000.0;hco;bayer
-Praxis Dr. Grizelj Branko;Schaan;CH;Landstrasse 97;9494;40676762;0.0;0.0;926.7;884.7;0.0;0.0;1811.4;hco;bayer
-Praxis Dr. Uzeda Andrés Alvaro;Zürich;CH;Theaterstrasse 18;8001;1059738476;0.0;0.0;538.57;739.8;0.0;0.0;1278.37;hco;bayer
-Praxis Dr. Villiger Lukas;Baden-Dättwil;CH;Mellingerstrasse 207;5405;40528701;0.0;0.0;0.0;0.0;800.0;0.0;800.0;hco;bayer
-Praxis für Chiropraktik und Physiotherapie Zürich-Enge;Zürich;CH;Alfred Escher-Strasse 38;8002;40692066;0.0;0.0;0.0;0.0;1600.0;0.0;1600.0;hco;bayer
-Praxis für die Frau Spiez;Spiez;CH;Seestrasse 30;3700;40696409;0.0;800.0;0.0;0.0;0.0;0.0;800.0;hco;bayer
-Praxisklinik Binningen;Binningen;CH;Hauptstrasse 11;4102;40674998;0.0;3500.0;0.0;0.0;0.0;0.0;3500.0;hco;bayer
-Privatklinik Obach AG;Solothurn;CH;Leopoldstrasse 5;4500;40534475;0.0;4000.0;0.0;0.0;0.0;0.0;4000.0;hco;bayer
-Quadrimed;Crans-Montana;CH;;3963;40688596;0.0;13902.75;0.0;0.0;0.0;0.0;13902.75;hco;bayer
-Raluno AG;Baar;CH;Arbachstrasse 2;6340;1051599641;0.0;0.0;353.35;0.0;0.0;0.0;353.35;hco;bayer
-Regionalspital Surselva AG;Ilanz;CH;Spitalstrasse 6;7130;40701314;0.0;1000.0;0.0;0.0;0.0;0.0;1000.0;hco;bayer
-Reha Rheinfelden;Rheinfelden;CH;Salinenstrasse 98;4310;40532002;0.0;2500.0;0.0;0.0;0.0;0.0;2500.0;hco;bayer
-Reha Seewis;Seewis Dorf;CH;Schlossstrasse 1;7212;40702922;0.0;3000.0;0.0;0.0;0.0;0.0;3000.0;hco;bayer
-REMED Association des médecins travaillant en Réseau;Genève;CH;;1206;40703520;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Réseau de soins Delta;Onex;CH;Route de Chancy 98;1213;40703657;0.0;2500.0;0.0;0.0;7220.0;0.0;9720.0;hco;bayer
-Réseau Santé Balcon du Jura vaudois;Ste-Croix;CH;Rue des Rosiers 29;1450;40519475;0.0;1800.0;0.0;0.0;0.0;0.0;1800.0;hco;bayer
-S. Grasso Consulting Swiss Tumor Board;Lindau;CH;Fischeracherstrasse 17;8315;40521622;0.0;13243.0;0.0;0.0;0.0;0.0;13243.0;hco;bayer
-SAKK Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung;Bern;CH;Effingerstrasse 33;3008;1051509072;0.0;17000.0;0.0;0.0;0.0;0.0;17000.0;hco;bayer
-Salutomed AG;Zollikofen;CH;Kirchlindachstrasse 7;3052;40670972;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hco;bayer
-SAMO Swiss Academy of Multidisciplinary Oncology - Geschäftsstelle;Bern;CH;Effingerstrasse 40;3008;40524995;0.0;3000.0;0.0;0.0;0.0;0.0;3000.0;hco;bayer
-Schweiz. Verband Medizinischer Praxis-Fachpersonen SVA, Zentralsekretariat;Bern;CH;Elfenstrasse 19;3000;40536724;0.0;3200.0;0.0;0.0;0.0;0.0;3200.0;hco;bayer
-Schweizer Paraplegiker-Zentrum Nottwil AG;Nottwil;CH;Guido A. Zäch Strasse 1;6207;40517995;0.0;1000.0;333.3;1164.5;0.0;0.0;2497.8;hco;bayer
-Schweizerische Arbeitsgemeinschaft für Perinatale Pharmakologie;Zürich;CH;Schmelzbergstrasse 12;8091;40524048;0.0;750.0;0.0;0.0;0.0;0.0;750.0;hco;bayer
-Schweizerische Ärztegesellschaft für Manuelle Medizin;St. Gallen;CH;Kolumbanstrasse 2;9008;1051545282;0.0;18975.0;0.0;0.0;0.0;0.0;18975.0;hco;bayer
-Schweizerische Ges. für Gynäkologie und Geburtshilfe - gynécologie suisse;Bern;CH;Altenbergstrasse 29;3000;40526413;0.0;70258.0;0.0;0.0;0.0;0.0;70258.0;hco;bayer
-Schweizerische Gesellschaft für Allgemeine Innere Medizin;Bern;CH;Monbijoustrasse 43;3011;1057207285;0.0;71000.0;0.0;0.0;0.0;0.0;71000.0;hco;bayer
-Schweizerische Gesellschaft für Anästhesiologie und Reanimation;Bern;CH;Rabbentalstrasse 83;3013;40519842;0.0;36080.0;0.0;0.0;0.0;0.0;36080.0;hco;bayer
-Schweizerische Gesellschaft für Endokrinologie und Diabetologie;Baden;CH;Rütistrasse 3A;5400;40528710;0.0;1000.0;0.0;0.0;0.0;0.0;1000.0;hco;bayer
-Schweizerische Gesellschaft für Hämatologie;Münsingen;CH;Innerer Giessenweg 37;3110;40531250;0.0;9000.0;0.0;0.0;0.0;0.0;9000.0;hco;bayer
-Schweizerische Gesellschaft für Kardiologie - Société suisse de Cardiologie;Bern;CH;Dufourstrasse 30;3005;40674468;0.0;37605.0;0.0;0.0;0.0;0.0;37605.0;hco;bayer
-Schweizerische Gesellschaft für Neuroradiologie;Basel;CH;Münsterberg 1;4001;1060083151;0.0;0.0;0.0;0.0;11000.0;0.0;11000.0;hco;bayer
-Schweizerische Gesellschaft für Reproduktionsmedizin;Worb;CH;;3076;40519974;0.0;3260.0;0.0;0.0;0.0;0.0;3260.0;hco;bayer
-Schweizerische Gesellschaft für Urologie - Société Suisse d'Urologie;Montreux;CH;Avenue des Planches 15;1820;1051535312;0.0;12000.0;0.0;0.0;0.0;0.0;12000.0;hco;bayer
-Schweizerische Menopausengesellschaft - La Société suisse de ménopause;Worb;CH;;3076;40520266;0.0;500.0;0.0;0.0;0.0;0.0;500.0;hco;bayer
-Schweizerische Neurologische Gesellschaft - Société Suisse de Neurologie;Basel;CH;Münsterberg 1;4001;1051697731;0.0;53350.0;0.0;0.0;0.0;0.0;53350.0;hco;bayer
-Schweizerische Ophthalmologische Gesellschaft SOG;St. Margrethen SG;CH;Bahnhofplatz 12;9430;1051958839;0.0;220800.0;0.0;0.0;14000.0;0.0;234800.0;hco;bayer
-Schweizerische Vereinigung der Fachleute für med. technische Radiologie;Sursee;CH;Bahnhofstrasse 7b;6210;40517675;0.0;11600.0;0.0;0.0;0.0;0.0;11600.0;hco;bayer
-Schweizerischer Verband Medizinischer Praxisassistentinnen;Basel;CH;Jacob Burckhardt-strasse 12;4052;1051720016;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Schweizerischer Verband Medizinischer PraxisAssistentinnen Aargau;Aarau;CH;Erlinsbacherstrasse 21;5000;1052420839;0.0;2500.0;0.0;0.0;0.0;0.0;2500.0;hco;bayer
-Schweizerischer Verband Medizinischer PraxisAssistentinnen Thurgau;Aadorf;CH;Bohlstrasse 25;8355;1052418172;0.0;600.0;0.0;0.0;0.0;0.0;600.0;hco;bayer
-See-Spital Horgen;Horgen;CH;Asylstrasse 19;8810;40537920;0.0;1000.0;0.0;0.0;0.0;0.0;1000.0;hco;bayer
-SeelandNet Ärztenetzwerk des Bieler Seelandes;Lyss;CH;Bahnhofstrasse 15a;3250;40700054;0.0;5000.0;0.0;0.0;0.0;0.0;5000.0;hco;bayer
-SGR-SSR / Schweizerische Gesellschaft für Radiologie;Zürich;CH;Bellerivestrasse 11;8008;40519970;0.0;720.0;0.0;0.0;0.0;0.0;720.0;hco;bayer
-Société Neuchâteloise de Médecine SNM;Couvet;CH;Grand'Rue 36B;2108;40524659;0.0;5000.0;0.0;0.0;0.0;0.0;5000.0;hco;bayer
-Societe Suisse d'Orthopaedie et de Traumatologie;Grandvaux;CH;Chemin de la Bovarde 19;1091;40525295;0.0;24408.0;0.0;0.0;0.0;0.0;24408.0;hco;bayer
-Société Suisse de Sexologie;Lausanne;CH;Rue Caroline 3;1003;1060282325;0.0;1500.0;0.0;0.0;0.0;0.0;1500.0;hco;bayer
-Société Vaudoise de Médecine;Lausanne;CH;Chemin De Mornex 38;1002;40524135;0.0;3300.0;0.0;0.0;0.0;0.0;3300.0;hco;bayer
-Society for Ophthalmo-Immunoinfectivology in Europe;Lausanne;CH;Rue Charles-monnard 6;1003;1051972347;0.0;36880.75;0.0;0.0;0.0;0.0;36880.75;hco;bayer
-Solothurner Spitäler AG soH;Solothurn;CH;Schöngrünstrasse 42;4500;1066372380;0.0;2500.0;0.0;0.0;0.0;0.0;2500.0;hco;bayer
-Spital Emmental AG Burgdorf;Burgdorf;CH;Oberburgstrasse 54;3400;40526142;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Spital Lachen AG;Lachen SZ;CH;Oberdorfstrasse 41;8853;40527179;0.0;2350.0;0.0;0.0;0.0;0.0;2350.0;hco;bayer
-Spital Limmattal;Schlieren;CH;Urdorferstrasse 100;8952;40539605;0.0;1750.0;0.0;0.0;0.0;0.0;1750.0;hco;bayer
-Spital Schwyz;Schwyz;CH;Waldeggstrasse 10;6430;1059699590;0.0;3000.0;0.0;0.0;0.0;0.0;3000.0;hco;bayer
-Spital Thun - STS AG;Zweisimmen;CH;Bolgengasse 40;3770;40520686;0.0;1000.0;0.0;0.0;0.0;0.0;1000.0;hco;bayer
-Spital Thurgau AG - Geschäftsstelle;Frauenfeld;CH;Waldeggstrasse 8a;8501;40516137;0.0;7100.0;0.0;0.0;0.0;0.0;7100.0;hco;bayer
-Spital Walenstadt Spitalregion Rheintal Werdenberg Sarganserland;Walenstadt;CH;Spitalstrasse 5;8880;40669076;0.0;2925.95;0.0;0.0;0.0;0.0;2925.95;hco;bayer
-Spital Wil;Wil SG;CH;Fürstenlandstrasse 32;9500;40528361;0.0;3000.0;0.0;0.0;0.0;0.0;3000.0;hco;bayer
-Spitalregion Fürstenland-Toggenburg Spital Wattwil;Wattwil;CH;Steig;9630;40522370;0.0;1600.0;0.0;0.0;0.0;0.0;1600.0;hco;bayer
-Spitalverbund Appenzell Ausserrhoden;Herisau;CH;Krombach 3;9100;40516441;0.0;1000.0;0.0;0.0;0.0;0.0;1000.0;hco;bayer
-Spitalzentrum Biel AG;Biel/Bienne;CH;Vogelsang 84;2502;40524892;0.0;7500.0;0.0;0.0;0.0;0.0;7500.0;hco;bayer
-Stiftung für Gesundheit und kardio-/neurovaskuläre Forschung;Basel;CH;Elisabethenstrasse 30;4051;1059680189;0.0;5500.0;0.0;0.0;0.0;0.0;5500.0;hco;bayer
-Stiftung für Herz- und Kreislaufforschung- Zurich Heart House;Zürich;CH;Hottingerstrasse 14;8032;40526616;0.0;207921.55;0.0;0.0;0.0;0.0;207921.55;hco;bayer
-Stiftung für wissenschaftliche Forschung am Stadtspital Triemli;Zürich;CH;Birmensdorferstrasse 497;8063;40532684;0.0;18500.0;0.0;0.0;0.0;0.0;18500.0;hco;bayer
-Stiftung SONK;St. Gallen;CH;Rorschacher Strasse 150;9006;40533679;0.0;0.0;3888.89;0.0;0.0;0.0;3888.89;hco;bayer
-Stiftung zur Förderung der Ausbildung in medizinischer Radiologie;Wallisellen;CH;Hertistrasse 26;8304;1051391654;0.0;5500.0;0.0;0.0;0.0;0.0;5500.0;hco;bayer
-Studio Dr. Ziliotti Franco;Mendrisio;CH;Via Luigi Lavizzari 4;6850;40674141;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hco;bayer
-SVA Sektion Solothurn;Küttigkofen;CH;Dorfstrasse 48;4581;1051848220;0.0;1000.0;0.0;0.0;0.0;0.0;1000.0;hco;bayer
-Swiss Cardiovascular Foundation;Bern;CH;Waisenhausplatz 14;3011;1060352983;0.0;2500.0;0.0;0.0;0.0;0.0;2500.0;hco;bayer
-Swiss Eye Institute AG;Rotkreuz;CH;Luzernerstrasse 1;6343;40518147;0.0;0.0;0.0;0.0;8890.8;574.6;9465.4;hco;bayer
-Swiss Glaucoma Research Foundation;Lausanne;CH;Avenue de l'Elysée 40;1006;1060173682;0.0;5000.0;0.0;0.0;0.0;0.0;5000.0;hco;bayer
-TOPPHARM AG;Münchenstein;CH;Grabenackerstrasse 11;4142;40531910;0.0;30000.0;0.0;0.0;0.0;0.0;30000.0;hco;bayer
-Tox Info Suisse;Zürich;CH;Freiestrasse 16;8032;1052611519;0.0;0.0;0.0;0.0;6000.0;0.0;6000.0;hco;bayer
-Union Schweizerischer Gesellschaften für Gefässkrankheiten;Bruderholz;CH;;4101;40523131;0.0;23900.0;0.0;0.0;0.0;0.0;23900.0;hco;bayer
-Universität Basel;Basel;CH;Petersplatz 1;4051;40521752;0.0;6000.0;0.0;0.0;0.0;0.0;6000.0;hco;bayer
-Universität Zürich (UZH);Zürich;CH;Rämistrasse 71;8006;1065341032;0.0;11500.0;0.0;0.0;0.0;0.0;11500.0;hco;bayer
-Universitäts-Kinderspital beider Basel UKBB;Basel;CH;Spitalstrasse 33;4056;40531686;0.0;10000.0;0.0;0.0;0.0;0.0;10000.0;hco;bayer
-Universitätsklinik Balgrist;Zürich;CH;Forchstrasse 340;8008;40535508;0.0;17299.0;0.0;0.0;1500.0;0.0;18799.0;hco;bayer
-Universitätsspital Basel;Basel;CH;Spitalstrasse 21;4031;40536433;0.0;352628.89;3336.05;14573.4;31474.64;1038.11;403051.09;hco;bayer
-UniversitätsSpital Zürich;Zürich;CH;Rämistrasse 100;8091;40524010;0.0;217750.0;0.0;0.0;0.0;0.0;217750.0;hco;bayer
-Urozentrum Beo;Spiez;CH;Schoneggstrasse 21;3700;40531564;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hco;bayer
-Verein Forum Gesundheitswirtschaft;Basel;CH;Colmarerstrasse 14;4055;40536978;0.0;25000.0;0.0;0.0;0.0;0.0;25000.0;hco;bayer
-Verein Lunge Zürich;Zürich;CH;Pfingstweidstrasse 10;8005;40532369;0.0;25180.0;0.0;0.0;0.0;0.0;25180.0;hco;bayer
-Verein zur Förderung der Sportorthopädie;Bottmingen;CH;Birsigstrasse 3;4103;1051950312;0.0;1200.0;0.0;0.0;0.0;0.0;1200.0;hco;bayer
-Verein zur Förderung der Weiterbildung in Augenheilkunde;Basel;CH;Mittlere Strasse 91;4031;1067006733;0.0;7000.0;0.0;0.0;0.0;0.0;7000.0;hco;bayer
-Vista Klinik AG Binningen, Ophthalmologische Tagesklinik;Binningen;CH;Hauptstrasse 55;4102;40537137;0.0;2029.0;0.0;0.0;0.0;0.0;2029.0;hco;bayer
-Zentralschweizer Internistenwoche;Stans;CH;Ennetmooserstrasse 19;6370;1055566537;0.0;8000.0;0.0;0.0;0.0;0.0;8000.0;hco;bayer
-Zentrum für Gefässmedizin Mittelland AG;Aarau;CH;Aarenaustrasse 2b;5000;1053003002;0.0;1500.0;0.0;0.0;0.0;0.0;1500.0;hco;bayer
-ZIO AG - Zentrum für Intergrative Onkologie;Zürich;CH;Hardturmstrasse 133;8005;1053374037;0.0;2000.0;0.0;0.0;0.0;0.0;2000.0;hco;bayer
-Linda Abrecht;Langnau im Emmental;CH;Sägestrasse 37a;3550;40720858;0.0;0.0;740.65;1194.24;0.0;0.0;1934.89;hcp;bayer
-Rainer Adam;Bern;CH;Junkerngasse 61;3011;40742150;0.0;0.0;577.35;5853.35;0.0;0.0;6430.7;hcp;bayer
-Andreas Aebersold;Aarwangen;CH;Riedgasse 18;4912;40528619;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Jonathan Aebersold;Luzern;CH;Spitalstrasse;6004;1051656278;0.0;0.0;173.35;637.35;0.0;0.0;810.7;hcp;bayer
-Astrid Ahler;Basel;CH;Spitalstrasse 21;4056;40537226;0.0;0.0;0.0;811.06;0.0;0.0;811.06;hcp;bayer
-Mayss Al-Sheikh;Zürich;CH;Frauenklinikstrasse 24;8091;1059742865;0.0;0.0;353.35;1228.0;0.0;0.0;1581.35;hcp;bayer
-Jeroen Albers;Zürich;CH;Forchstrasse 340;8008;1057235934;0.0;0.0;114.0;471.7;0.0;0.0;585.7;hcp;bayer
-Marc-Henri Allemann;Vevey;CH;Rue de la Clergère 1;1800;40538229;0.0;0.0;538.57;700.15;0.0;0.0;1238.72;hcp;bayer
-Yves Allemann;Bulle;CH;Chemin de Pré-Vert 42;1630;40763365;0.0;0.0;0.0;0.0;3000.0;0.0;3000.0;hcp;bayer
-Beatrice Amann-Vesti;Zürich;CH;Seestrasse 220;8027;40706629;0.0;0.0;0.0;0.0;2480.0;0.0;2480.0;hcp;bayer
-Pachtun Amiri;Bern;CH;Freiburgstrasse 18;3010;1052160710;0.0;0.0;54.0;2122.75;0.0;0.0;2176.75;hcp;bayer
-Marie-Laure Amram-Benamram;Genève;CH;Rue Gabrielle-Perret-Gentil 4;1211;40540168;0.0;0.0;0.0;0.0;800.0;0.0;800.0;hcp;bayer
-Ruth Amstein;Zürich;CH;Hottingerstrasse 14;8032;40763535;0.0;0.0;0.0;1224.24;0.0;0.0;1224.24;hcp;bayer
-Christoph Amstutz;Luzern;CH;Spitalstrasse;6000;1051732646;0.0;0.0;500.65;3325.0;0.0;0.0;3825.65;hcp;bayer
-phil. Rainer Alois Andenmatten;Münsterlingen;CH;Spitalcampus 1;8596;40753112;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Matthias Anderegg;Ittigen;CH;Talgut-Zentrum 5;3063;40762511;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Anne Angelillo-Scherrer;Bern;CH;Freiburgstrasse 18;3010;40539811;0.0;0.0;533.35;6712.3;0.0;0.0;7245.65;hcp;bayer
-Lars Asmis;Zürich;CH;Seefeldstrasse 224;8008;40736091;0.0;0.0;0.0;0.0;5580.0;0.0;5580.0;hcp;bayer
-Myriam Aufdenblatten;Bern;CH;Bremgartenstrasse 119;3012;1052453471;0.0;0.0;54.65;705.85;1200.0;0.0;1960.5;hcp;bayer
-Edoardo Baglivo;Onex;CH;Avenue Bois-de-la-Chapelle 15;1213;40541391;0.0;0.0;600.7;1802.65;0.0;0.0;2403.35;hcp;bayer
-Sandor Balint;Binningen;CH;Hauptstrasse 129;4102;40537128;0.0;0.0;0.0;744.65;0.0;0.0;744.65;hcp;bayer
-Martina Bally;Basel;CH;Missionsstrasse 24;4055;1060275822;0.0;0.0;0.0;0.0;1000.0;0.0;1000.0;hcp;bayer
-Vanessa Banz;Bern;CH;Freiburgstrasse 4;3010;40743211;0.0;0.0;380.15;420.0;0.0;0.0;800.15;hcp;bayer
-Hanna Barmettler;Langenthal;CH;St. Urbanstrasse 67;4900;40759874;0.0;0.0;0.0;946.04;0.0;0.0;946.04;hcp;bayer
-Cindy Barreiro;Genève;CH;Chemin de Beau-Soleil 20;1206;1052332890;0.0;0.0;226.65;514.0;0.0;0.0;740.65;hcp;bayer
-Heather Marie Bartlett Casparis;Locarno;CH;Via Antonio Ciseri 13;6600;40705008;0.0;0.0;0.0;0.0;750.0;0.0;750.0;hcp;bayer
-Virginie Bays;Vevey;CH;Rue de la Clergère 1;1800;40538230;0.0;0.0;188.65;495.55;0.0;0.0;684.2;hcp;bayer
-Sima Behzad Imsand;Epalinges;CH;Route De La Corniche 1;1066;1052325894;0.0;0.0;226.65;486.35;0.0;0.0;713.0;hcp;bayer
-Friederike Jutta Bender;Zürich;CH;Höschgasse 50;8008;40717319;0.0;0.0;0.0;0.0;900.0;0.0;900.0;hcp;bayer
-Ulf Benecke;St. Gallen;CH;Rorschacher Strasse 95;9007;40728048;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Ismail Bennani;Meyrin;CH;Promenade des Artisans 24;1217;40540222;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Michael Bergner;Langenthal;CH;St. Urbanstrasse 67;4900;1051561213;0.0;0.0;396.65;1208.24;0.0;0.0;1604.89;hcp;bayer
-Artur Bernardo;Gais;CH;Gäbrisstrasse 1172;9056;40761115;0.0;0.0;0.0;0.0;1200.0;0.0;1200.0;hcp;bayer
-Kuno D P Bigger;Zürich;CH;Goethestrasse 22;8001;1052433531;0.0;0.0;410.0;626.0;0.0;0.0;1036.0;hcp;bayer
-Helmut Binder;Zürich;CH;Limmatquai 94;8001;1051661026;0.0;0.0;886.65;1705.35;0.0;0.0;2592.0;hcp;bayer
-Ulla Birk;Onex;CH;Avenue Bois-de-la-Chapelle 15;1213;40710008;0.0;0.0;351.35;938.65;0.0;0.0;1290.0;hcp;bayer
-Matteo Bistoletti;Zürich;CH;Birmensdorferstrasse 318;8055;40721797;0.0;0.0;350.0;1228.0;0.0;0.0;1578.0;hcp;bayer
-Johannes Bitzer;Basel;CH;Schützenmattstrasse 54;4051;40540358;0.0;0.0;0.0;800.77;23046.44;12245.42;36092.62;hcp;bayer
-Geneviève Bizzini Pezzetta;Montreux;CH;Avenue des Planches 27;1820;40748309;0.0;0.0;0.0;611.15;0.0;0.0;611.15;hcp;bayer
-Bernhard Blum;Olten;CH;Baslerstrasse 150;4600;1053035193;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Pierre Bohanes;Fribourg;CH;Route de Villars 37;1700;40540224;0.0;0.0;356.4;152.0;0.0;0.0;508.4;hcp;bayer
-Daniel Bolliger;Basel;CH;Spitalstrasse 21;4031;40743853;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Martien Bontekoe;Luzern;CH;Spitalstrasse;6004;40755014;0.0;0.0;169.35;478.0;0.0;0.0;647.35;hcp;bayer
-Diego Boschetti;Thun;CH;Krankenhausstrasse 12;3600;40539645;0.0;0.0;348.65;747.65;0.0;0.0;1096.3;hcp;bayer
-Henri Bounameaux;Genève;CH;Rue Gabrielle-Perret-Gentil 4;1211;40747768;0.0;0.0;0.0;0.0;4382.54;564.07;4946.61;hcp;bayer
-Fabrizio Branca;Basel;CH;Centralbahnstrasse 20;4051;40712869;0.0;0.0;276.65;7333.35;0.0;0.0;7610.0;hcp;bayer
-Alexander Breitenstein;Zürich;CH;Rämistrasse 100;8091;1052453470;0.0;0.0;0.0;0.0;5414.48;583.35;5997.83;hcp;bayer
-Katrin Breitling;Schaffhausen;CH;Geissbergstrasse 81;8208;40521562;0.0;0.0;252.0;634.85;0.0;0.0;886.85;hcp;bayer
-Albéric Jean Marie Bressoud;Lausanne;CH;Avenue d'Ouchy 31;1006;40539742;0.0;0.0;0.0;0.0;1000.0;0.0;1000.0;hcp;bayer
-Julia Brügger;Luzern;CH;Spitalstrasse;6004;1053195563;0.0;0.0;228.35;637.35;0.0;0.0;865.7;hcp;bayer
-Georg Brunner;Jegenstorf;CH;Bernstrasse 12;3303;40755621;0.0;0.0;0.0;0.0;585.0;0.0;585.0;hcp;bayer
-Irene Burger;Zürich;CH;Rämistrasse 100;8091;1051720142;0.0;0.0;477.35;831.1;400.0;0.0;1708.45;hcp;bayer
-Reto Canevascini;Viganello;CH;Viale Pietro Capelli 1;6962;40535241;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Joanna Capoferri;Chiasso;CH;Via Giuseppe Motta 12;6830;1052879622;0.0;0.0;53.65;859.95;0.0;0.0;913.6;hcp;bayer
-Stéphanie Carré;Genève;CH;Chemin de Beau-Soleil 20;1206;1060061213;0.0;0.0;594.05;1319.3;0.0;0.0;1913.35;hcp;bayer
-Bertrand Carrel;Villars-sur-Glâne;CH;Rue du Centre 10;1752;1051774782;0.0;0.0;453.35;750.7;0.0;0.0;1204.05;hcp;bayer
-Alessandro Casini;Genève;CH;Rue Gabrielle-Perret-Gentil 4;1211;40739609;0.0;0.0;277.35;575.3;0.0;0.0;852.65;hcp;bayer
-Sylvia Cayette;Genève;CH;Rue Pierre-Fatio 15;1204;40720055;0.0;0.0;326.65;502.65;0.0;0.0;829.3;hcp;bayer
-Carlo Cereda;Lugano;CH;Via Tesserete 46;6900;40541039;0.0;0.0;328.65;652.0;1255.0;0.0;2235.65;hcp;bayer
-Patrick Chabloz;Neuchâtel;CH;Rue De La Maladière 45;2000;40748569;0.0;0.0;0.0;0.0;750.0;0.0;750.0;hcp;bayer
-Pascal Chatelain;Genève;CH;Rue Emile-Yung 4;1205;40518631;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Claude-André Chételat;Bern;CH;Thunstrasse 2;3005;40758708;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Andreas Christe;Bern;CH;Freiburgstrasse 10;3010;1051647204;0.0;0.0;1266.7;10243.3;0.0;0.0;11510.0;hcp;bayer
-Gabrielle Cissé;Nyon;CH;Chemin Falconnier 5;1260;1053229405;0.0;0.0;188.65;495.55;0.0;0.0;684.2;hcp;bayer
-Rainer Claus;Wangen an der Aare;CH;Bifangstrasse 4b;3380;40539633;0.0;0.0;465.35;695.6;0.0;0.0;1160.95;hcp;bayer
-Christophe Constantin;Sion;CH;Avenue Grand-Champsec 80;1951;40539769;0.0;0.0;1200.0;2591.5;0.0;0.0;3791.5;hcp;bayer
-Philippe Cordey;Zollikofen;CH;Kirchlindachstrasse 7;3052;40525788;0.0;0.0;125.35;586.0;0.0;0.0;711.35;hcp;bayer
-Gabriela Cotarcea;Genève;CH;Rue de l'Athénée 22;1206;40539392;0.0;0.0;188.65;361.8;0.0;0.0;550.45;hcp;bayer
-Philippe Cottagnoud;Bern;CH;Schänzlihalde 11;3013;40711684;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Olivier Cottier;Aigle;CH;Chemin Du Grand-chêne;1860;40748339;0.0;0.0;188.65;495.55;0.0;0.0;684.2;hcp;bayer
-Séverine Crausaz Bonjour;Morges;CH;Place Dufour 3;1110;40539552;0.0;0.0;188.65;495.55;0.0;0.0;684.2;hcp;bayer
-Adrien Croquelois;Montreux;CH;Grand-rue 3;1820;1053139931;0.0;0.0;188.65;495.55;0.0;0.0;684.2;hcp;bayer
-Ekaterina Darman;Bassersdorf;CH;Rebhaldenstrasse 9;8303;40527047;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Christian De Pree;Genève;CH;Chemin de Beau Soleil 22;1206;40539412;0.0;0.0;271.35;783.25;0.0;0.0;1054.6;hcp;bayer
-Alain Delabays;Morges;CH;Chemin du Crêt 2;1110;40747652;0.0;0.0;394.65;612.65;0.0;0.0;1007.3;hcp;bayer
-Karima Delacombaz;Villars-sur-Glâne;CH;Rue du Centre 16;1752;1065304390;0.0;0.0;160.0;537.35;0.0;0.0;697.35;hcp;bayer
-Maria Rosza Dervaderics;Neuenhof;CH;Albertstrasse 4;5432;1051601514;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Tobias Dietrich;St. Gallen;CH;Rorschacher Strasse 95;9007;1051663886;0.0;0.0;0.0;206.7;0.0;0.0;206.7;hcp;bayer
-Irene Dingeldein;Murten;CH;Längmatt 32;3280;40541158;0.0;0.0;0.0;0.0;2000.0;0.0;2000.0;hcp;bayer
-Oliver Distler;Zürich;CH;Gloriastrasse 25;8091;40541300;0.0;0.0;0.0;0.0;1200.0;0.0;1200.0;hcp;bayer
-Guy Donati;Genève;CH;Avenue de la Roseraie 76B;1205;40541398;0.0;0.0;605.35;1651.95;0.0;0.0;2257.3;hcp;bayer
-Juliane Döpfner;Wil SG;CH;Obere Bahnhofstrasse 37;9500;40709080;0.0;0.0;350.0;1228.0;0.0;0.0;1578.0;hcp;bayer
-Janine Dörffler-Melly;Zürich;CH;Bellariastrasse 40;8038;40515410;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Michael Drepper;Genève;CH;Rue Gabrielle-Perret-Gentil 4;1205;40719392;0.0;0.0;378.0;1122.0;0.0;0.0;1500.0;hcp;bayer
-Clemens Drobig;Seewis Dorf;CH;Schlossstrasse 1;7212;1054957850;0.0;0.0;86.0;380.0;0.0;0.0;466.0;hcp;bayer
-Eric Dromzée;Confignon;CH;Route de Loëx 99;1232;1059713451;0.0;0.0;618.0;676.95;0.0;0.0;1294.95;hcp;bayer
-Adrian Dubs;Männedorf;CH;Asylstrasse 10;8708;40728212;0.0;0.0;401.35;1022.51;0.0;0.0;1423.86;hcp;bayer
-Jean-François Dufour;Bern;CH;Freiburgstrasse 4;3010;40541297;0.0;0.0;0.0;0.0;0.0;114.36;114.36;hcp;bayer
-Donat Dürr;Baar;CH;Landhausstrasse 11;6340;40717268;0.0;0.0;634.0;4975.25;0.0;0.0;5609.25;hcp;bayer
-Markus Eberhard;Schaffhausen;CH;Geissbergstrasse 81;8208;40540582;0.0;0.0;588.65;3193.5;0.0;0.0;3782.15;hcp;bayer
-Jens Eckstein;Basel;CH;Petersgraben 4;4031;40733722;0.0;0.0;0.0;1689.64;700.0;0.0;2389.64;hcp;bayer
-Jochen Eichler;Zürich;CH;Universitätstrasse 120;8006;40752420;0.0;0.0;252.0;634.85;0.0;0.0;886.85;hcp;bayer
-Nadja Engel;Wetzikon ZH;CH;Kirchgasse 4;8620;40755007;0.0;0.0;0.0;626.0;0.0;0.0;626.0;hcp;bayer
-Reto Engel;St. Gallen;CH;Schützengasse 2;9000;40539868;0.0;0.0;410.65;988.28;700.0;0.0;2098.93;hcp;bayer
-Rolf Engelberger;Fribourg;CH;Chemin des Pensionnats 2;1708;1051758257;0.0;0.0;0.0;0.0;0.0;1133.53;1133.53;hcp;bayer
-Carole Claude Eyholzer;Zürich;CH;Forchstrasse 340;8008;1063886761;0.0;0.0;320.0;1164.5;0.0;0.0;1484.5;hcp;bayer
-Anna Beata Falkenberg;Aarau;CH;Tellstrasse 25;5001;1051661039;0.0;0.0;0.0;1995.0;0.0;0.0;1995.0;hcp;bayer
-Adrien Faudot;Epalinges;CH;Route De La Corniche 1;1066;1060168328;0.0;0.0;174.65;771.3;0.0;0.0;945.95;hcp;bayer
-Olivier Favre;Genève;CH;Boulevard des Philosophes 14;1205;40540240;0.0;0.0;260.0;536.8;600.0;0.0;1396.8;hcp;bayer
-Léo Finci;Petit-Lancy;CH;Chemin de la Caroline 2;1213;40540220;0.0;0.0;396.65;711.3;0.0;0.0;1107.95;hcp;bayer
-Johannes Fleischhauer;Zürich;CH;Pelikanstrasse 18;8001;40541540;0.0;0.0;162.0;1111.35;0.0;0.0;1273.35;hcp;bayer
-Pierre Fontana;Genève;CH;Rue Gabrielle-Perret-Gentil 4;1211;40540166;0.0;0.0;516.65;-299.65;0.0;0.0;217.0;hcp;bayer
-Rudolf Frank;Bern;CH;Thunstrasse 2;3005;40712119;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Luzius Frei;Zürich;CH;Simmlersteig 14;8038;40759261;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Niclas Freund;Rheinfelden;CH;Habich-Dietschy-Strasse 18;4310;40757929;0.0;0.0;306.65;57.4;0.0;0.0;364.05;hcp;bayer
-Jean Louis Frossard;Genève;CH;Rue Gabrielle-Perret-Gentil 4;1211;40740284;0.0;0.0;390.0;1122.0;0.0;0.0;1512.0;hcp;bayer
-Sarah Fürling Uhl;Zürich;CH;Seidengasse 15;8001;40760415;0.0;0.0;-150.0;361.9;0.0;0.0;211.9;hcp;bayer
-Andrea Galli;Viganello;CH;Viale Pietro Capelli 1;6962;1051937629;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Augusto Franco Gallino;Bellinzona;CH;Via Ospedale;6500;40751362;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Narjisse Gama;Sion;CH;Rue de la Dixence 23;1950;1059625189;0.0;0.0;460.65;1245.3;0.0;0.0;1705.95;hcp;bayer
-Justus Garweg;Bern;CH;Bremgartenstrasse 119;3012;40540783;0.0;0.0;17.11;0.0;0.0;0.0;17.11;hcp;bayer
-Jean-Michel Gaspoz;Geneve;CH;Rue Gabrielle-Perret-Gentil 4;1205;40760111;0.0;0.0;0.0;0.0;2200.0;0.0;2200.0;hcp;bayer
-Uwe Genth;Frauenfeld;CH;Oberstadtstrasse 4;8500;40753056;0.0;0.0;353.35;804.0;0.0;0.0;1157.35;hcp;bayer
-Joachim Gerbitz;Brugg AG;CH;Bahnhofstrasse 25;5200;40529340;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Anita Gharibian;Kerns;CH;Sarnerstrasse 3;6064;40529449;0.0;0.0;-150.0;422.08;0.0;0.0;272.08;hcp;bayer
-Michele Ghielmini;Bellinzona;CH;Via Ospedale;6500;40715520;0.0;0.0;0.0;0.0;2717.88;0.0;2717.88;hcp;bayer
-Grégoire Girod;Sion;CH;Avenue Grand-Champsec 80;1951;40754386;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Ana Godinho Lourenço;Genève;CH;Rue Plantamour 19;1201;40540197;0.0;0.0;-150.0;387.98;1500.0;0.0;1737.98;hcp;bayer
-Vera Gojic;Zürich;CH;Lintheschergasse 3;8001;1053198622;0.0;0.0;-150.0;361.9;0.0;0.0;211.9;hcp;bayer
-Patrick Goumaz;Riaz;CH;Impasse des Terreaux 4;1632;40540703;0.0;1500.0;0.0;0.0;0.0;0.0;1500.0;hcp;bayer
-Mark Graber;Wetzikon ZH;CH;Bahnhofstrasse 137;8620;40527440;0.0;0.0;64.65;728.65;0.0;0.0;793.3;hcp;bayer
-Susanne Graf;Winterthur;CH;Lindstrasse 15;8400;40752843;0.0;0.0;538.57;739.8;0.0;0.0;1278.37;hcp;bayer
-Daniel Gremmelmaier;Basel;CH;St. Jakobs-Strasse 40;4052;40531719;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Sven Griesser;Burgdorf;CH;Poststrasse 9;3400;40764617;0.0;0.0;202.65;1521.65;0.0;0.0;1724.3;hcp;bayer
-Philippe Grisel;Collombey;CH;Chemin des Vergers 3;1868;40739578;0.0;0.0;395.35;607.3;0.0;0.0;1002.65;hcp;bayer
-Urs Beat Gröflin;Binningen;CH;Hauptstrasse 3;4102;40537114;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Raphael Guanella;Martigny;CH;Rue De Plaisance 7;1920;1051663645;0.0;0.0;0.0;513.8;0.0;0.0;513.8;hcp;bayer
-Salah Gueddi;Genève;CH;Rue du Nant 4-6;1207;40540236;0.0;0.0;276.65;0.0;0.0;0.0;276.65;hcp;bayer
-Christine Guilbert;Genève;CH;Avenue Louis-Casaï 18;1209;1051548459;0.0;0.0;538.57;713.45;0.0;0.0;1252.02;hcp;bayer
-Marc Gutmann;Liestal;CH;Rheinstrasse 26;4410;40747243;0.0;0.0;0.0;1359.24;0.0;0.0;1359.24;hcp;bayer
-Christoph Gwerder;Bern;CH;Monbijoustrasse 10;3011;40539249;0.0;0.0;562.65;951.09;0.0;0.0;1513.74;hcp;bayer
-Markus Halberstadt;Sargans;CH;Bahnhofstrasse 12;7320;40538232;0.0;0.0;350.0;986.65;0.0;0.0;1336.65;hcp;bayer
-Regina Haldemann Heusler;Zürich;CH;Witellikerstrasse 40;8032;40762682;0.0;0.0;0.0;305.2;0.0;0.0;305.2;hcp;bayer
-Stephan Harbarth;Genève;CH;Rue Gabrielle-Perret-Gentil 4;1205;40719713;0.0;0.0;0.0;0.0;2400.0;0.0;2400.0;hcp;bayer
-Katja Hatz;Binningen;CH;Hauptstrasse 55;4102;40745649;0.0;0.0;465.3;5580.65;4167.86;920.76;11134.56;hcp;bayer
-Rahel Hautle;St. Gallen;CH;Vadianstrasse 31;9000;40759253;0.0;0.0;254.65;428.05;0.0;0.0;682.7;hcp;bayer
-Inga Hegemann;Zürich;CH;Rämistrasse 100;8091;40716630;0.0;0.0;410.65;1017.06;0.0;0.0;1427.71;hcp;bayer
-Marc Heizmann;Aarau;CH;Tellstrasse;5000;40541428;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Paul Bernhard Henrich;Winterthur;CH;Brauerstrasse 15;8400;40723921;0.0;0.0;1652.65;921.75;650.0;0.0;3224.4;hcp;bayer
-Stefan Henzi;Bern;CH;Mühledorfstrasse 1;3018;40536729;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Gabriela Beatrice Herrmann;Luzern;CH;Winkelriedstrasse 35;6003;40540896;0.0;0.0;465.35;695.6;0.0;0.0;1160.95;hcp;bayer
-Kurt Hersberger;Basel;CH;Spalenberg 41;4051;40540349;0.0;0.0;0.0;0.0;1450.0;0.0;1450.0;hcp;bayer
-Bernhard Herzog;Luzern;CH;Sankt Annastrasse 32;6006;40753956;0.0;0.0;0.0;0.0;500.0;0.0;500.0;hcp;bayer
-Sven Hirsch-Hoffmann;Zürich;CH;Badenerstrasse 69-71;8004;40530140;0.0;0.0;263.35;986.65;0.0;0.0;1250.0;hcp;bayer
-Anita Hirschi-Blickenstorfer;Zürich;CH;Witellikerstrasse 40;8032;40759370;0.0;0.0;270.65;952.19;0.0;0.0;1222.84;hcp;bayer
-Evelyne Hitz;Basel;CH;Aeschengraben 18;4051;40537008;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Helge Hoffmann;Hergiswil NW;CH;Sonnenbergstrasse 9;6052;40541492;0.0;0.0;0.0;0.0;750.0;0.0;750.0;hcp;bayer
-Karin Hohloch;Chur;CH;Loëstrasse 170;7000;40725515;0.0;0.0;783.3;2994.05;0.0;0.0;3777.35;hcp;bayer
-Denise Holzer-Alt;Liestal;CH;Rheinstrasse 16;4410;40537546;0.0;0.0;-269.0;739.8;0.0;0.0;470.8;hcp;bayer
-Christoph Honegger;Baar;CH;Landhausstrasse 11;6340;40724820;0.0;0.0;252.0;634.85;0.0;0.0;886.85;hcp;bayer
-Evelyne Huber;Onex;CH;Route de Loëx 3;1213;40540217;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Hans Jürg Huber;Würenlos;CH;Juchstrasse 15;5436;40528765;0.0;0.0;124.65;1022.7;0.0;0.0;1147.35;hcp;bayer
-Katharina Huss-Mischler;Chur;CH;Loestrasse 170;7000;40541060;0.0;0.0;364.65;446.0;0.0;0.0;810.65;hcp;bayer
-Michel Hussenot;La Tour-de-Peilz;CH;Grand'rue 2;1814;1053198641;0.0;0.0;208.65;383.35;0.0;0.0;592.0;hcp;bayer
-Gérard Huther;Sion;CH;Avenue Grand-Champsec 80;1951;40526197;0.0;0.0;836.65;788.65;0.0;0.0;1625.3;hcp;bayer
-Sara Imboden;Bern;CH;Effingerstrasse 102;3010;40749041;0.0;0.0;0.0;446.71;0.0;0.0;446.71;hcp;bayer
-Patrick Imesch;Zürich;CH;Frauenklinikstrasse 10;8091;40706532;0.0;0.0;0.0;2519.35;2012.0;0.0;4531.35;hcp;bayer
-Peter Jäggi;Pfäffikon SZ;CH;Bahnhofstrasse 13;8808;40539943;0.0;0.0;64.0;638.65;0.0;0.0;702.65;hcp;bayer
-Lucas Jörg;St. Gallen;CH;Rorschacherstrasse 95;9007;40709082;0.0;0.0;740.0;963.08;0.0;0.0;1703.08;hcp;bayer
-Simon Jung;Bern;CH;Freiburgstrasse 18;3010;40713179;0.0;0.0;420.65;727.55;530.0;0.0;1678.2;hcp;bayer
-Jürg Jutzi;Bubendorf;CH;Gewerbestrasse 3;4416;40534318;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Daniela Iris Kaergel;Buchs SG;CH;Grünaustrasse 1;9470;40718495;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Barbara Kälin;Horgen;CH;Asylstrasse 19;8810;40753361;0.0;0.0;740.0;1205.44;0.0;0.0;1945.44;hcp;bayer
-Tanja Karambizi;Zürich;CH;Birmensdorferstrasse 497;8063;1060234544;0.0;0.0;360.0;199.75;0.0;0.0;559.75;hcp;bayer
-Rolf Kempf;Kerns;CH;Hobielstrasse 24;6064;40529435;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Barbara Kernen Baselice;Zürich;CH;Hottingerstrasse 16;8032;40532491;0.0;0.0;465.35;695.6;0.0;0.0;1160.95;hcp;bayer
-Andrey Kirschmeier;St. Gallen;CH;Rosenbergstrasse 89;9000;1053416041;0.0;0.0;0.0;570.0;0.0;0.0;570.0;hcp;bayer
-Joachim Klar;Olten;CH;Hauptgasse 18;4600;40539184;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Christiane Kluckert;St. Gallen;CH;St. Leonhard-Strasse 20;9000;40533543;0.0;0.0;-150.0;361.9;0.0;0.0;211.9;hcp;bayer
-Jörg-Thomas Kluckert;St. Gallen;CH;Rorschacher Strasse 95;9007;40729294;0.0;0.0;126.65;950.6;0.0;0.0;1077.25;hcp;bayer
-Ulrike Knödlstorfer;Schlieren;CH;Urdorferstrasse 100;8952;40528045;0.0;0.0;538.57;726.75;0.0;0.0;1265.32;hcp;bayer
-Marina Knöpfli;Bern;CH;Freiburgstrasse 18;3010;1051663808;0.0;0.0;1120.95;1674.0;0.0;0.0;2794.95;hcp;bayer
-Simone Kobler;Brugg AG;CH;Stapferstrasse 32;5200;40765843;0.0;0.0;538.57;739.8;0.0;0.0;1278.37;hcp;bayer
-Sarah Koch;Zürich;CH;Forchstrasse 340;8008;1057236398;0.0;0.0;116.65;456.65;0.0;0.0;573.3;hcp;bayer
-Nils Kucher;Zürich;CH;Rämistrasse 100;8091;40743572;0.0;0.0;0.0;0.0;6120.0;0.0;6120.0;hcp;bayer
-Thomas Kühne;Basel;CH;Spitalstrasse 33;4056;40763580;0.0;0.0;460.65;6462.3;0.0;0.0;6922.95;hcp;bayer
-Marco Kummer;Rheinfelden;CH;Habich-Dietschy-Strasse 18;4310;40761423;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Bernd Lackner;Altstätten SG;CH;Bahnhofstrasse 21a;9450;1055127851;0.0;0.0;151.35;484.0;0.0;0.0;635.35;hcp;bayer
-Jean-Francois Lambert;Nyon;CH;Chemin Monastier 10;1260;40759770;0.0;0.0;0.0;0.0;800.0;0.0;800.0;hcp;bayer
-Florent Landi;Morges;CH;Rue de la Gare 6;1110;1053216242;0.0;0.0;206.65;792.65;0.0;0.0;999.3;hcp;bayer
-Corina Lang;St. Gallen;CH;Rorschacher Strasse 95;9007;40738662;0.0;0.0;408.0;1226.65;0.0;0.0;1634.65;hcp;bayer
-Christoph Lanz;Ebnat-Kappel;CH;Ebnaterstrasse 18;9642;40541532;0.0;0.0;0.0;0.0;1200.0;0.0;1200.0;hcp;bayer
-Jonas Lanz;Bern;CH;Freiburgstrasse 18;3010;1051720453;0.0;0.0;854.0;1359.0;0.0;0.0;2213.0;hcp;bayer
-Cédric Lehner;Fribourg;CH;Rue De Locarno 1;1700;40758080;0.0;0.0;398.0;526.65;0.0;0.0;924.65;hcp;bayer
-Antoine Leimgruber;Vevey;CH;Avenue de la Prairie 3;1800;1059958804;0.0;0.0;482.0;548.2;0.0;0.0;1030.2;hcp;bayer
-Marc-Joseph Licker;Genève;CH;Rue Gabrielle-Perret-Gentil 4;1211;40720388;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Christoph A. Lienhard;Zürich;CH;Birmensdorferstrasse 497;8063;1059796466;0.0;0.0;348.65;747.65;0.0;0.0;1096.3;hcp;bayer
-Manuela Lötscher-Thalmann;Luzern;CH;Spitalstrasse;6004;1051872422;0.0;0.0;406.65;1140.0;0.0;0.0;1546.65;hcp;bayer
-Thomas Felix Lüscher;Zürich;CH;Hottingerstrasse 14;8032;40539830;0.0;0.0;0.0;0.0;1000.0;0.0;1000.0;hcp;bayer
-Jean-Marc Lüthi;Thun;CH;Krankenhausstr. 12;3600;40520690;0.0;0.0;398.0;1225.86;0.0;0.0;1623.86;hcp;bayer
-Markus Lüthi;Bern;CH;Jupiterstrasse 55;3015;40526405;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Seyed Madani;Le Sentier;CH;Grand-Rue 10;1347;40525403;0.0;0.0;499.85;926.65;0.0;0.0;1426.5;hcp;bayer
-Paul Mäder;Steffisburg;CH;Oberdorfstrasse 25;3612;40749566;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Folkert Maecker;Jegenstorf;CH;Bernstrasse 12;3303;40760220;0.0;0.0;0.0;0.0;585.0;0.0;585.0;hcp;bayer
-Ariane Malcles;Genève;CH;Rue Alcide-Jentzer 22;1205;1055247472;0.0;0.0;249.35;797.35;0.0;0.0;1046.7;hcp;bayer
-Christoph Mamot;Aarau;CH;Tellstrasse 25;5001;40724694;0.0;0.0;0.0;0.0;800.0;0.0;800.0;hcp;bayer
-Dipl. Arzt Concetta Manno;Lugano;CH;Via Tesserete 46;6900;1060133916;0.0;0.0;179.2;513.6;0.0;0.0;692.8;hcp;bayer
-Dipl. Arzt Sara Manzocchi;Genève;CH;Rue Gabrielle-Perret-Gentil 4;1211;40747726;0.0;0.0;0.0;724.64;0.0;0.0;724.64;hcp;bayer
-Daniel Marth;Bern;CH;Zeughausgasse 18;3011;40530921;0.0;0.0;0.0;788.2;0.0;0.0;788.2;hcp;bayer
-Dominik Marti;Basel;CH;Rütimeyerplatz 9;4054;40539253;0.0;0.0;124.65;960.0;0.0;0.0;1084.65;hcp;bayer
-Philipp Martin;Allschwil;CH;Baslerstrasse 96;4123;40539130;0.0;0.0;125.35;744.65;0.0;0.0;870.0;hcp;bayer
-Valérie Mathys;Chêne-Bougeries;CH;Chemin des Grangettes 7;1224;1059717120;0.0;0.0;413.35;347.75;0.0;0.0;761.1;hcp;bayer
-Michel Matter;Genève;CH;Rue Pierre-Fatio 15;1204;40540194;0.0;0.0;228.0;752.65;0.0;0.0;980.65;hcp;bayer
-Heinrich Mattle;Bern;CH;Freiburgstrasse 18;3010;40539815;0.0;0.0;0.0;0.0;1590.0;0.0;1590.0;hcp;bayer
-Maria Mavromati;Genève;CH;Rue Gabrielle-Perret-Gentil 4;1205;40740318;0.0;0.0;0.0;0.0;1700.0;0.0;1700.0;hcp;bayer
-Natalija Mayer;Luzern;CH;Zürichstrasse 5;6004;40704393;0.0;0.0;330.65;584.0;0.0;0.0;914.65;hcp;bayer
-Grégoire Mayor;Neuchâtel;CH;Rue de la Maladière 45;2000;40719451;0.0;0.0;470.65;950.95;0.0;0.0;1421.6;hcp;bayer
-Eric Meicher;Sion;CH;Rue du Scex 2;1950;1053085623;0.0;0.0;453.35;903.0;0.0;0.0;1356.35;hcp;bayer
-Bernhard Meier;Bern;CH;Freiburgstrasse 4;3010;40539800;0.0;0.0;0.0;0.0;4045.0;0.0;4045.0;hcp;bayer
-Niklaus Meier;Bern;CH;Freiburgstrasse 18;3010;1051601312;0.0;0.0;0.0;0.0;1800.0;0.0;1800.0;hcp;bayer
-Gesine Meili;Uster;CH;Uster West 32;8610;40758381;0.0;0.0;252.0;481.85;0.0;0.0;733.85;hcp;bayer
-Alexandre Meiltz;Estavayer-le-Lac;CH;Avenue de la Gare 111;1470;40540693;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Thierry Merminod;Nyon;CH;Avenue Viollier 8;1260;40710424;0.0;0.0;280.0;725.15;600.0;0.0;1605.15;hcp;bayer
-Sara Meyer;Basel;CH;Petersgraben 4;4031;1065527690;0.0;0.0;0.0;1535.0;0.0;0.0;1535.0;hcp;bayer
-Christine Meyer Egli;Neuchâtel;CH;Rue du Musée 9;2000;40539414;0.0;0.0;-150.0;387.98;0.0;0.0;237.98;hcp;bayer
-Fabrice Mezino;Bouveret;CH;Chemin Du Clous 21;1897;1051545714;0.0;0.0;0.0;681.8;600.0;0.0;1281.8;hcp;bayer
-Marlène Michel;Chêne-Bougeries;CH;Chemin des Grangettes 7;1224;1051948966;0.0;0.0;413.35;461.1;0.0;0.0;874.45;hcp;bayer
-Raymond Miralbell;Genève;CH;Avenue de la Roseraie 53;1205;40711202;0.0;0.0;0.0;0.0;1193.19;871.29;2064.48;hcp;bayer
-Stéphane Mock;Nyon;CH;La Levratte 26;1260;40540659;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Claudius Möckel;Schaffhausen;CH;Rietstrasse 30;8200;40755465;0.0;0.0;403.35;626.0;0.0;0.0;1029.35;hcp;bayer
-Christian Monnerat;Delémont;CH;Faubourg des Capucins 30;2800;40758088;0.0;0.0;0.0;888.89;0.0;0.0;888.89;hcp;bayer
-Vincent Morard;Buix;CH;Chemin du Mont-Renaud 12k;2925;40540741;0.0;0.0;72.0;573.3;0.0;0.0;645.3;hcp;bayer
-Laurent Morel;Bulle;CH;Avenue de la Gare 3;1630;40740938;0.0;0.0;0.0;0.0;800.0;0.0;800.0;hcp;bayer
-Giorgio Moschovitis;Lugano;CH;Via Tesserete 46;6900;40535234;0.0;0.0;498.0;988.43;0.0;0.0;1486.43;hcp;bayer
-Jiri Moucka;Basel;CH;Steinenvorstadt 26;4051;40540345;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Armand Movaffaghy;Lausanne;CH;Rue de Langallerie 11;1003;40525136;0.0;0.0;312.0;537.35;0.0;0.0;849.35;hcp;bayer
-Said Mroue;Genève;CH;Rue Des Glacis-de-rive 21;1207;40541422;0.0;0.0;-150.0;286.65;0.0;0.0;136.65;hcp;bayer
-Joachim Müller;St. Gallen;CH;Rorschacherstrasse 95;9007;1051392537;0.0;0.0;327.25;564.75;0.0;0.0;892.0;hcp;bayer
-Marion Munk;Bern;CH;Freiburgstrasse 18;3010;1051664154;0.0;0.0;533.35;2715.35;0.0;0.0;3248.7;hcp;bayer
-Claude-Alain Nacht;Gland;CH;La Lignière 5;1196;40747688;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Michael Nagler;Bern;CH;Freiburgstrasse 18;3010;40743559;0.0;0.0;410.0;1659.41;0.0;0.0;2069.41;hcp;bayer
-Veronika Nagy;Winterthur;CH;Brauerstrasse 15;8400;40755691;0.0;0.0;286.0;428.05;0.0;0.0;714.05;hcp;bayer
-Mehdi Namdar;Genève;CH;Rue Gabrielle-Perret-Gentil 4;1211;40719870;0.0;0.0;0.0;0.0;5500.0;425.8;5925.8;hcp;bayer
-Iris Neumann;Chur;CH;Alexanderstrasse 16;7000;40725771;0.0;0.0;176.0;571.6;0.0;0.0;747.6;hcp;bayer
-Lan Nguyen Brunschwiler;Lausanne;CH;Rue Du Maupas 6;1004;1052796093;0.0;0.0;538.57;700.15;0.0;0.0;1238.72;hcp;bayer
-Vessela Nikolaidis-Dimitrova;Sempach Station;CH;Bahnhofstrasse 19A;6203;40523442;0.0;0.0;1003.92;1435.4;0.0;0.0;2439.32;hcp;bayer
-Daniel Nobel;Wil SG;CH;Fürstenlandstrasse 32;9500;40539918;0.0;0.0;740.0;1222.24;700.0;0.0;2662.24;hcp;bayer
-Florian Otto;St. Gallen;CH;Rorschacherstrasse 150;9006;40709420;0.0;0.0;400.65;1039.21;0.0;0.0;1439.86;hcp;bayer
-Gaetano Paone;Bellinzona;CH;Via Ospedale;6500;1051688815;0.0;0.0;384.65;453.1;0.0;0.0;837.75;hcp;bayer
-Ulrike Pape;Baden;CH;Bahnhofstrasse 40;5400;40540837;0.0;0.0;0.0;460.0;0.0;0.0;460.0;hcp;bayer
-Céline Pasche;Onex;CH;Route de Chancy 98;1213;1063895247;0.0;0.0;340.0;681.35;0.0;0.0;1021.35;hcp;bayer
-Tobias Pauli;Basel;CH;Centralbahnstrasse 20;4051;40749784;0.0;0.0;842.65;9629.7;0.0;0.0;10472.35;hcp;bayer
-Florian Pederiva;Zürich;CH;Birmensdorferstrasse 497;8063;1060322875;0.0;0.0;1253.3;1164.5;0.0;0.0;2417.8;hcp;bayer
-Giovanni Battista Pedrazzini;Lugano;CH;Via Tesserete 48;6900;1051415245;0.0;0.0;0.0;0.0;1200.0;0.0;1200.0;hcp;bayer
-Cyril Pellaton;Neuchâtel;CH;Rue de la Maladière 45;2000;40762837;0.0;0.0;568.65;862.68;0.0;0.0;1431.33;hcp;bayer
-Daniel Périat;Basel;CH;Kleinriehenstrasse 30;4058;40763331;0.0;0.0;0.0;573.05;0.0;0.0;573.05;hcp;bayer
-Heike Petersen;Frauenfeld;CH;Oberstadtstrasse 4;8500;40753057;0.0;0.0;351.35;804.0;0.0;0.0;1155.35;hcp;bayer
-Ioannis Petropoulos;Genève;CH;Rue Pierre-Fatio 15;1204;40540196;0.0;0.0;934.65;7090.65;0.0;0.0;8025.3;hcp;bayer
-Maria Petrus;Zürich;CH;Höschgasse 50;8008;40706312;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Annette Peyer Kuhn;Luzern;CH;Sankt Annastrasse 32;6006;40757394;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Christina Pfefferkorn;Basel;CH;Pfluggässlein 1;4001;40743441;0.0;0.0;-150.0;300.6;0.0;0.0;150.6;hcp;bayer
-Riccardo Pin;Lugano;CH;Via Moncucco 10;6900;40759026;0.0;0.0;390.65;1233.59;0.0;0.0;1624.24;hcp;bayer
-Leonidas Politoff;Vevey;CH;Rue du Collège 3;1800;40536043;0.0;0.0;188.65;495.55;0.0;0.0;684.2;hcp;bayer
-Christian Polli;Lugano;CH;Via Tesserete 46;6900;40705295;0.0;0.0;252.0;634.85;1375.0;0.0;2261.85;hcp;bayer
-Daniel Preisig;Subingen;CH;Luzernstrasse 30;4553;1063895226;0.0;0.0;0.0;0.0;550.0;0.0;550.0;hcp;bayer
-Jérôme Pugin;Genève;CH;Rue Gabrielle-Perret-Gentil 4;1205;40720391;0.0;0.0;0.0;0.0;267.63;0.0;267.63;hcp;bayer
-Sven Reek;Aarau;CH;Rain 34;5000;40540520;0.0;3000.0;0.0;0.0;0.0;0.0;3000.0;hcp;bayer
-François Régoli;Lugano;CH;Via Tesserete 48;6900;40735679;0.0;0.0;0.0;0.0;1200.0;0.0;1200.0;hcp;bayer
-Susanne Reichert;Bülach;CH;Zürichstrasse 5;8180;40538972;0.0;0.0;408.65;626.0;0.0;0.0;1034.65;hcp;bayer
-Charles-Alphonse Reynard;Sion;CH;Avenue de la Gare 25;1950;40539774;0.0;0.0;0.0;0.0;4000.0;0.0;4000.0;hcp;bayer
-Michael Richter;Pfäffikon SZ;CH;Bahnhofstrasse 13;8808;40540041;0.0;0.0;85.35;472.0;700.0;0.0;1257.35;hcp;bayer
-Felix Riether;Riggisberg;CH;Eyweg 2;3132;1051937631;0.0;0.0;142.65;624.2;0.0;0.0;766.85;hcp;bayer
-Michel Romanens;Olten;CH;Ziegelfeldstrasse 1;4600;40745276;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Corina Röscheisen-Weich;Zürich;CH;Beethovenstrasse 43;8002;40726024;0.0;0.0;642.7;1738.0;0.0;0.0;2380.7;hcp;bayer
-Daniel Martin Rüegg;Bern;CH;Bottigenstrasse 6;3018;40745236;0.0;0.0;853.35;1032.65;0.0;0.0;1886.0;hcp;bayer
-Ilka Rüsges-Wolter;Bern;CH;Bremgartenstrasse 117;3012;40540789;0.0;0.0;213.35;432.65;0.0;0.0;646.0;hcp;bayer
-Mathis Rutsch;Pfäffikon ZH;CH;Frohwiesstrasse 24;8330;40752773;0.0;0.0;538.57;739.8;0.0;0.0;1278.37;hcp;bayer
-Mehmet Ates Sahin;Onex;CH;Route de Chancy 98;1213;1060442419;0.0;0.0;583.35;1036.65;0.0;0.0;1620.0;hcp;bayer
-Irène Sandmeier;St. Moritz;CH;Plazza Paracelsus 2;7500;40530074;0.0;0.0;538.57;739.8;0.0;0.0;1278.37;hcp;bayer
-Gian-Marco Sarra;Burgdorf;CH;Poststrasse 9;3400;40760071;0.0;0.0;620.7;3325.0;0.0;0.0;3945.7;hcp;bayer
-Verena Sattinger;Lugano;CH;Via Trevano 38;6900;40705694;0.0;0.0;128.65;692.55;750.0;0.0;1571.2;hcp;bayer
-Thomas Sauter;Bern;CH;Waisenhausplatz 21;3011;40530890;0.0;0.0;0.0;151.65;0.0;0.0;151.65;hcp;bayer
-Milos Savcic;Lausanne;CH;Avenue de Savoie 10;1003;40540148;0.0;0.0;394.65;688.0;700.0;0.0;1782.65;hcp;bayer
-Erika Schäfer;Waltenschwil;CH;Bremgarterstrasse 15;5622;40734313;0.0;0.0;86.0;261.0;0.0;0.0;347.0;hcp;bayer
-Stefan Schäfer;Waltenschwil;CH;Bremgarterstrasse 15;5622;40734308;0.0;0.0;0.0;261.0;0.0;0.0;261.0;hcp;bayer
-Uta Schär;Kreuzlingen;CH;Klosterhofstrasse 1;8280;40532784;0.0;0.0;465.35;695.6;0.0;0.0;1160.95;hcp;bayer
-Hubert Schefer;Luzern;CH;Sankt Annastrasse 32;6006;40540891;0.0;0.0;399.35;853.21;0.0;0.0;1252.56;hcp;bayer
-Bettina Schmid;Zürich;CH;Forchstrasse 340;8008;1053178746;0.0;0.0;228.0;628.0;0.0;0.0;856.0;hcp;bayer
-Hans-Peter Schmid;Frauenfeld;CH;Bahnhofstrasse 61;8500;40758498;0.0;0.0;64.0;743.35;0.0;0.0;807.35;hcp;bayer
-Petra Schmid;Rheinfelden;CH;Kaiserstrasse 8;4310;40540438;0.0;0.0;397.35;904.54;0.0;0.0;1301.89;hcp;bayer
-Christian Marc Schmied;Zürich;CH;Rämistrasse 100;8091;40736202;0.0;0.0;0.0;211.35;2400.0;372.0;2983.35;hcp;bayer
-Silvia Schnabler;Zürich;CH;Forchstrasse 340;8008;1053198511;0.0;0.0;228.0;628.0;0.0;0.0;856.0;hcp;bayer
-Ingrid Schneider;Luzern;CH;Winkelriedstrasse 35;6003;40523479;0.0;0.0;538.57;538.4;0.0;0.0;1076.97;hcp;bayer
-Robert Schneider;Thun;CH;Bahnhofstrasse 1;3600;40541166;0.0;0.0;173.35;840.6;700.0;0.0;1713.95;hcp;bayer
-Carmen Schneiders;Bellinzona;CH;Via Ospedale;6500;1057314628;0.0;0.0;784.0;735.7;0.0;0.0;1519.7;hcp;bayer
-Arnaud Schnitzler;Morges;CH;Rue de la Gare 6;1110;1060122073;0.0;0.0;208.65;236.0;0.0;0.0;444.65;hcp;bayer
-Franziska Schober;Uster;CH;Brunnenstrasse 42;8610;40760677;0.0;0.0;527.2;1477.09;0.0;0.0;2004.29;hcp;bayer
-Peter Philipp Schöneborn;Zürich;CH;Holbeinstrasse 25;8008;40751925;0.0;0.0;1591.35;11657.75;0.0;0.0;13249.1;hcp;bayer
-Marcus Klaus Charles Schories;Basel;CH;Gellertstrasse 142;4052;40541204;0.0;0.0;0.0;0.0;800.0;0.0;800.0;hcp;bayer
-Alexander Schreiber;Aarau;CH;Tellstrasse 25;5001;40724155;0.0;0.0;0.0;788.37;0.0;0.0;788.37;hcp;bayer
-Sarah Schuler;Winterthur;CH;Brauerstrasse 15;8400;1051547767;0.0;0.0;113.35;2108.35;0.0;0.0;2221.7;hcp;bayer
-Anette Schumacher;Schaffhausen;CH;Geissbergstrasse 81;8208;40763193;0.0;0.0;0.0;0.0;1400.0;0.0;1400.0;hcp;bayer
-Natalie Schüpbach;Bern;CH;Schönburgstrasse 19;3013;40754882;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Roger Schwab;Biel/Bienne;CH;Unterer Quai 92;2502;40539243;0.0;0.0;0.0;151.65;0.0;0.0;151.65;hcp;bayer
-Birgit Schwacha-Eipper;Bern;CH;Freiburgstrasse 4;3010;1055457063;0.0;0.0;0.0;1101.55;0.0;0.0;1101.55;hcp;bayer
-Markus Schwendinger;Baden;CH;Im Ergel 1;5404;40703983;0.0;0.0;412.65;1233.24;0.0;0.0;1645.89;hcp;bayer
-Ann-Katrin Cynthia Seidel;Winterthur;CH;Brauerstrasse 15;8400;1052327618;0.0;0.0;307.2;1253.46;0.0;0.0;1560.66;hcp;bayer
-Flavio Sepulcri;Luzern;CH;Fanghöfli 14;6014;40523169;0.0;0.0;0.0;626.0;0.0;0.0;626.0;hcp;bayer
-Guillaume Sérafini;Morges;CH;Rue de la Gare 6;1110;1053216243;0.0;0.0;208.65;236.0;0.0;0.0;444.65;hcp;bayer
-Jacques Seydoux;Delémont;CH;Rue de L'Avenir 2;2800;40537236;0.0;0.0;0.0;0.0;500.0;0.0;500.0;hcp;bayer
-Stefan Siebert;Zürich;CH;Seestrasse 220;8027;1053055062;0.0;0.0;996.65;1093.15;0.0;0.0;2089.8;hcp;bayer
-Jan Signorell;Chur;CH;Gürtelstrasse 46;7000;40761487;0.0;0.0;403.35;977.08;0.0;0.0;1380.43;hcp;bayer
-Hans-Peter Simmen;Zürich;CH;Rämisstr. 100;8091;40539836;0.0;0.0;0.0;0.0;1500.0;0.0;1500.0;hcp;bayer
-Filippo Simona;Muralto;CH;Via della Stazione 9;6600;40725367;0.0;0.0;0.0;0.0;850.0;0.0;850.0;hcp;bayer
-Ajit Andreas Singh;Zürich;CH;Stadelhoferstrasse 8;8001;40764086;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Gabor Mark Somfai;Olten;CH;Louis Giroud-Strasse 20;4600;1053073461;0.0;0.0;200.65;1546.65;0.0;0.0;1747.3;hcp;bayer
-Marc Stahel;Zürich;CH;Frauenklinikstrasse 24;8091;40541317;0.0;0.0;351.35;845.35;0.0;0.0;1196.7;hcp;bayer
-Rolf A. Stahel;Zürich;CH;Rämistrasse 100;8091;40757706;0.0;0.0;0.0;0.0;600.69;0.0;600.69;hcp;bayer
-Nicolas Stalder;Sion;CH;Avenue de Tourbillon 36c;1950;40539777;0.0;0.0;464.65;708.0;0.0;0.0;1172.65;hcp;bayer
-Simon Fabian Stämpfli;Zürich;CH;Rämistrasse 100;8091;40706596;0.0;0.0;387.35;1080.59;0.0;0.0;1467.94;hcp;bayer
-Jan Steffel;Zürich;CH;Rämistrasse 100;8091;40539850;0.0;0.0;0.0;0.0;7042.1;0.0;7042.1;hcp;bayer
-Christian Steffen;Lachen SZ;CH;Oberdorfstrasse 41;8853;40728441;0.0;0.0;0.0;613.05;0.0;0.0;613.05;hcp;bayer
-Andreas Steiner;Küsnacht ZH;CH;Alte Landstrasse 158;8700;40522175;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Marco Steiner;Luzern;CH;Mühlenplatz 6;6004;40517502;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Georg Steinfurth;Schleitheim;CH;Im Morgen 1;8226;1059643645;0.0;0.0;0.0;0.0;2307.35;179.97;2487.33;hcp;bayer
-Jean-Marc Steity;La Tour-de-Peilz;CH;Grand-Rue 2;1814;40741100;0.0;0.0;592.0;869.0;0.0;0.0;1461.0;hcp;bayer
-Chryssoula Stelios;Bulle;CH;Chemin Des Préalpes 16;1630;1051546714;0.0;0.0;72.0;504.0;0.0;0.0;576.0;hcp;bayer
-Ulrich Sternkopf;Heimberg;CH;Stationsweg 7;3627;1052874500;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Christian Sticherling;Basel;CH;Petersgraben 4;4031;40723363;0.0;0.0;0.0;1019.43;0.0;0.0;1019.43;hcp;bayer
-Brigitte Stieger;Olten;CH;Baslerstrasse 150;4600;40733640;0.0;0.0;360.0;159.2;0.0;0.0;519.2;hcp;bayer
-Bernhard Stolz;Düdingen;CH;Bahnhofplatz 2A;3186;40732696;0.0;0.0;400.0;1164.5;0.0;0.0;1564.5;hcp;bayer
-Markus Streich;Ortschwaben;CH;Olympiaweg 1;3042;40519933;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Alfons Studer;Riedholz;CH;Sonnenrainstrasse 1;4533;40534469;0.0;0.0;0.0;307.4;0.0;0.0;307.4;hcp;bayer
-Martin Sykora;Stans;CH;Ennetmooserstrasse 19;6370;40760641;0.0;0.0;0.0;0.0;1000.0;0.0;1000.0;hcp;bayer
-Jürg Alex Taeschler;Chur;CH;Grabenstrasse 9;7000;40535033;0.0;0.0;0.0;582.4;0.0;0.0;582.4;hcp;bayer
-Elisabeth Tanner;Glarus;CH;Bärengasse 1;8750;40516702;0.0;0.0;538.57;668.8;0.0;0.0;1207.37;hcp;bayer
-Marianne Terrettaz;Martigny;CH;Avenue de la Gare 17;1920;40710763;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Reto Thalmann;Bern;CH;Buchserstrasse 26;3006;40759220;0.0;0.0;675.35;504.0;0.0;0.0;1179.35;hcp;bayer
-Antonia Thieme;St. Gallen;CH;Rorschacher Strasse 95;9007;1053044482;0.0;0.0;235.35;252.65;0.0;0.0;488.0;hcp;bayer
-Daniel Tobler;Basel;CH;Lange Gasse 78;4052;40539924;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Christian Toso;Genève;CH;Rue Gabrielle Perret-Gentil 4;1211;40739583;0.0;0.0;373.35;0.0;0.0;0.0;373.35;hcp;bayer
-Oliver Tschopp;Zürich;CH;Rämistrasse 100;8091;40752190;0.0;0.0;0.0;0.0;800.0;0.0;800.0;hcp;bayer
-Birgit Tylla;Niederuzwil;CH;Raiffeisenplatz 2;9244;40533667;0.0;0.0;-150.0;361.9;0.0;0.0;211.9;hcp;bayer
-Kiril Tzvetanov;Sierre;CH;Avenue du Général-Guisan 12;3960;40759545;0.0;0.0;315.35;457.3;600.0;0.0;1372.65;hcp;bayer
-Mark Uhlmann;Köniz;CH;Schwarzenburgstrasse 293;3098;40757247;0.0;0.0;0.0;0.0;700.0;0.0;700.0;hcp;bayer
-Matthias Umbricht;Winterthur;CH;Stadthausstrasse 45;8400;40537945;0.0;0.0;306.0;428.05;0.0;0.0;734.05;hcp;bayer
-Julius Unrau;Rorschach;CH;Marktplatz 9;9400;40708849;0.0;0.0;404.65;604.0;0.0;0.0;1008.65;hcp;bayer
-Kornel Varga;Liestal;CH;Oristalstrasse 47;4410;40540447;0.0;0.0;538.57;154.65;0.0;0.0;693.22;hcp;bayer
-Serap Vatandaslar;Baden;CH;Im Ergel 1;5404;1055271878;0.0;0.0;400.0;323.9;0.0;0.0;723.9;hcp;bayer
-Massimo Vignanelli;Lugano;CH;Via Trevano 38;6900;40541034;0.0;0.0;566.65;5853.35;750.0;0.0;7170.0;hcp;bayer
-Peter Villiger;Chur;CH;Loestrasse 170;7000;40535056;0.0;0.0;380.15;360.0;0.0;0.0;740.15;hcp;bayer
-Jean Joseph Vogel;Sierre;CH;Avenue de la Gare 3;3960;40539650;0.0;0.0;0.0;0.0;1200.0;0.0;1200.0;hcp;bayer
-Nicolas Xavier Von Der Weid;Basel;CH;Spitalstrasse 33;4056;40758753;0.0;0.0;448.65;5395.65;0.0;0.0;5844.3;hcp;bayer
-Stephanie Von Weydlich;Winterthur;CH;Brauerstrasse 15;8400;1056568211;0.0;0.0;394.4;513.6;0.0;0.0;908.0;hcp;bayer
-Frank Vonmoos;Basel;CH;Centralbahnstrasse 20;4051;40525537;0.0;0.0;130.0;497.05;0.0;0.0;627.05;hcp;bayer
-Pierre Vulliemin;Monthey;CH;Avenue de la Gare 24;1870;40763927;0.0;0.0;394.65;703.3;0.0;0.0;1097.95;hcp;bayer
-Peter Wälchli;Meiringen;CH;Spitalstrasse 13;3860;40749687;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Dieter Wallmann;Burgdorf;CH;Oberburgstrasse 54;3400;40763114;0.0;0.0;384.65;1232.24;0.0;0.0;1616.89;hcp;bayer
-Daniel Walser;Münsterlingen;CH;Spitalcampus 1;8596;40757634;0.0;0.0;0.0;0.0;1000.0;0.0;1000.0;hcp;bayer
-Frank Walther;Bern;CH;Schänzlihalde 11;3013;40540812;0.0;0.0;656.65;894.05;0.0;0.0;1550.7;hcp;bayer
-Julian Wampfler;Bern;CH;Freiburgstrasse 18;3010;1060197219;0.0;0.0;52.8;1221.84;0.0;0.0;1274.64;hcp;bayer
-Marco Waser;Luzern;CH;Obergrundstrasse 88;6005;40517509;0.0;0.0;0.0;257.15;0.0;0.0;257.15;hcp;bayer
-Helmut Wehr;Degersheim;CH;Hauptstrasse 69;9113;1052897945;0.0;0.0;142.0;1046.0;0.0;0.0;1188.0;hcp;bayer
-Andrea Wenkstern;Uzwil;CH;Bahnhofstrasse 83b;9240;40533705;0.0;0.0;263.35;1228.0;0.0;0.0;1491.35;hcp;bayer
-Jens Uwe Westphal;Geuensee;CH;Postmatte 4;6232;40517773;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Tobias Wettstein;Zürich;CH;Birmensdorferstrasse 467;8055;40752708;0.0;0.0;393.35;1204.24;0.0;0.0;1597.59;hcp;bayer
-Samuel Widmer;Luzern;CH;Spitalstrasse;6000;1059926408;0.0;0.0;92.65;845.0;0.0;0.0;937.65;hcp;bayer
-Torsten Willenberg;Bern;CH;Kramgasse 16;3011;1052330025;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Angela Wolf;Basel;CH;Kleinriehenstrasse 30;4058;40757577;0.0;0.0;304.0;296.9;0.0;0.0;600.9;hcp;bayer
-Sibylle Wolleb;Uster;CH;Brunnenstrasse 42;8610;40759684;0.0;0.0;201.35;653.3;0.0;0.0;854.65;hcp;bayer
-Antje Wollenberg;Bülach;CH;Spitalstrasse 24;8180;1051547422;0.0;0.0;465.35;695.6;0.0;0.0;1160.95;hcp;bayer
-Anja Ursula Wyss;Sursee;CH;Spitalstrasse 16a;6210;1057304956;0.0;0.0;239.0;328.0;0.0;0.0;567.0;hcp;bayer
-Andreas Z'brun;Bern;CH;Bubenbergplatz 11;3011;40540797;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Chiara Zecca;Lugano;CH;Via Tesserete 46;6900;40705472;0.0;0.0;0.0;0.0;2244.02;593.25;2837.27;hcp;bayer
-Thomas Zehnder;Thun;CH;Krankenhausstrasse 12;3600;40539644;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Jakob Zeller;Reinach AG;CH;Floraweg 3;5734;40523096;0.0;0.0;0.0;405.0;0.0;0.0;405.0;hcp;bayer
-Matthias Zimmermann;Zürich;CH;Birmensdorferstrasse 497;8063;40761195;0.0;0.0;0.0;0.0;600.0;0.0;600.0;hcp;bayer
-Katja Zirlik;Chur;CH;Masanserstrasse 2;7000;1053409242;0.0;0.0;130.0;400.0;0.0;0.0;530.0;hcp;bayer
-Irena Zivanovic;Baar;CH;Landhausstrasse 11;6340;40763887;0.0;0.0;-150.0;361.9;0.0;0.0;211.9;hcp;bayer
-Michael Alois Zoller;Chur;CH;Loestrasse 170;7000;40705706;0.0;0.0;329.35;899.1;0.0;0.0;1228.45;hcp;bayer
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+AarReha Schinznach,Schinznach Bad,CH,Badstrasse 55,5116,40529319,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer
+Advisis AG,Bern,CH,Effingerstrasse 55,3008,1051547182,0.0,52000.0,0.0,0.0,0.0,0.0,52000.0,hco,bayer
+Aerztegesellschaft des Kantons Bern,Bern,CH,Postgasse 19,3000,40702884,0.0,300.0,0.0,0.0,0.0,0.0,300.0,hco,bayer
+Affidea Cimed,Fribourg,CH,Rue de Romont 24,1700,1066345153,0.0,92181.02,0.0,0.0,16673.57,0.0,108854.59,hco,bayer
+AGFAM,Hettlingen,CH,Herenbäumenweg 9b,8442,1055451634,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,bayer
+AMIS Plus Stiftung,Zürich,CH,Hirschengraben 84,8001,40529773,0.0,20000.0,0.0,0.0,0.0,0.0,20000.0,hco,bayer
+AOCT Associazione Oculisti Canton Ticino,Bellinzona,CH,Piazza del Sole 5,6500,40528924,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer
+Arbeitsgruppe für Kardiovaskuläre Pflege und Therapien,Bern,CH,Dufourstrasse 30,3005,40532540,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,bayer
+Arbeitsgruppe Lipide und Atherosklerose,Diessenhofen,CH,Hintergasse 65,8253,1051562846,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,bayer
+Ärztegesellschaft des Kantons Luzern,Luzern,CH,Schwanenplatz 7,6004,40665419,0.0,1080.0,0.0,0.0,0.0,0.0,1080.0,hco,bayer
+Ärztekongress Arosa,Arosa,CH,,7050,40529612,0.0,3510.0,0.0,0.0,0.0,0.0,3510.0,hco,bayer
+Ärztenetzwerk Bern Geschäftsstelle,Zürich,CH,Bahnhofplatz 4,8001,40701493,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0,hco,bayer
+Ärztenetzwerk Grauholz,Ittigen,CH,Worblentalstrasse 99,3063,40699977,0.0,2800.0,0.0,0.0,0.0,0.0,2800.0,hco,bayer
+Ärzteverein Davos,Davos Platz,CH,Promenade 33a,7270,1053070710,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer
+Ärzteverein Werdenberg/Sarganserland,Bad Ragaz,CH,Hans Albrecht-Strasse 1,7310,40534610,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,bayer
+Association d'Aesculape en Lavaux (ADEL),Lutry,CH,Rue Verdaine 8a,1095,1052796303,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Association Journée Jurasienne de Médecine,Delémont,CH,Rue de la Préfecture 1,2800,1053109088,0.0,1600.0,0.0,0.0,0.0,0.0,1600.0,hco,bayer
+Association Les Journées de Gériatrie de La T'chaux,La Chaux-de-Fonds,CH,Rue de la Serre 7,2300,1060071678,0.0,7500.0,0.0,0.0,0.0,0.0,7500.0,hco,bayer
+Association Périnatalité Valais,Siviriez,CH,Route de Brenles 43,1678,1053030670,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,bayer
+Association Rencontres cardiologiques annuelles,Genève,CH,Rue Marignac 13,1206,1052313543,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Associazione MMM Mendrisio Medical Meeting,Minusio,CH,Via Cadogno 1,6648,1051680388,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,bayer
+ATLS Advanced Trauma Life Support,Aarau,CH,Bahnhofstrasse 55,5001,1060352934,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,bayer
+Augenzentrum Bahnhof Basel AG,Basel,CH,Centralbahnstrasse 20,4051,40537051,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,bayer
+Bethesda Spital AG,Basel,CH,Gellertstrasse 144,4002,40531646,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Blueye Vision Tech GmbH,Meggen,CH,Huobmattstrasse 9,6045,1052627719,0.0,4400.0,0.0,0.0,0.0,0.0,4400.0,hco,bayer
+Centre d'Imagerie de la Servette,Genève,CH,Avenue de Luserna 17,1203,40519727,0.0,0.0,610.7,545.3,0.0,0.0,1156.0,hco,bayer
+Centre Médical de la Côte SA,Corcelles NE,CH,Rue du Petit-Berne 14,2035,40519611,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Centre Neuchâtelois d'Ophtalmologie SA,Neuchâtel,CH,Rue des Poteaux 8,2000,40525620,0.0,2200.0,0.0,0.0,0.0,0.0,2200.0,hco,bayer
+CHUV Centre Hospitalier Universitaire Vaudois,Lausanne,CH,Rue Du Bugnon 21,1011,40523932,0.0,54703.7,4028.05,8743.94,17285.0,776.91,85537.59,hco,bayer
+Circolo medico del Bellinzonese,Arbedo,CH,Via Orbello 22,6517,1051739729,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer
+Circolo medico di Locarno,Ascona,CH,Via al Lido 27,6612,40529109,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer
+Circolo medico tre Valli,Dongio,CH,Via Cantonale,6715,1051384597,0.0,2600.0,0.0,0.0,0.0,0.0,2600.0,hco,bayer
+Clinica Luganese Moncucco SA,Lugano,CH,Via Moncucco 10,6900,40535174,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer
+Clinica Santa Chiara SA,Locarno,CH,Via Stefano Franscini 4,6600,40534865,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer
+Clinique de Carouge SA,Carouge GE,CH,Avenue Cardinal-Mermillod 1,1227,40699347,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer
+COALAT / Anesthesiology CHUV,Lausanne,CH,Rue Du Bugnon 46,1011,40535421,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,bayer
+COR2ED,Bottmingen,CH,Bodenackerstrasse 17,4103,40537070,0.0,405325.22,0.0,0.0,193373.49,0.0,598698.71,hco,bayer
+Council for International Organizations of Medical Sciences (CIOMS),Le Grand-Saconnex,CH,Route des Morillons 1-5,1218,1065559018,0.0,30442.21,0.0,0.0,0.0,0.0,30442.21,hco,bayer
+DOXnet - Ärztenetzwerk Bern Nord / West,Laupen BE,CH,Bösingenstrasse 16,3177,40519916,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Ente Ospedaliero Cantonale - EOC,Bellinzona,CH,Viale Officina 3,6500,40702764,0.0,26955.55,0.0,0.0,0.0,0.0,26955.55,hco,bayer
+eSwiss Medical & Surgical Center AG,St. Gallen,CH,Brauerstrasse 95,9016,1055040521,0.0,2500.0,0.0,0.0,1875.0,0.0,4375.0,hco,bayer
+European Respiratory Society,Lausanne,CH,Avenue Sainte-Luce 4,1003,40523949,0.0,67359.69,0.0,0.0,0.0,0.0,67359.69,hco,bayer
+European School for Advanced Studies in Ophthalmology,Lugano,CH,Viale Stefano Franscini 9,6901,1066195842,0.0,10473.21,0.0,0.0,0.0,0.0,10473.21,hco,bayer
+European Society for Medical Oncology,Viganello,CH,via Luigi Taddei 4,6962,40523577,0.0,833994.52,0.0,0.0,0.0,0.0,833994.52,hco,bayer
+European Society of Clinical Microbiology and Infectious Diseases,Basel,CH,,4010,1052941986,0.0,38573.72,0.0,0.0,0.0,0.0,38573.72,hco,bayer
+European Society of Neuroradiology - Diagnostic and Interventional,Zürich,CH,Bahnhofstrasse 108,8001,40529046,0.0,27531.55,0.0,0.0,0.0,0.0,27531.55,hco,bayer
+European Stroke Organisation,Basel,CH,Peter Merian-Strasse 80,4002,40521749,0.0,90451.39,0.0,0.0,0.0,0.0,90451.39,hco,bayer
+Felix Platter-Spital,Basel,CH,Burgfelderstrasse 101,4055,40526764,0.0,3000.0,0.0,0.0,1530.0,0.0,4530.0,hco,bayer
+FMH Consulting Services AG,Oberkirch LU,CH,Burghöhe 1,6208,1056543093,0.0,13500.0,0.0,0.0,0.0,0.0,13500.0,hco,bayer
+Fokus Herz Bern,Bern,CH,Freiburgstrasse 10,3010,1059824440,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,bayer
+Fondation Asile des Aveugles,Lausanne,CH,Avenue de France 15,1004,40535377,0.0,8640.0,0.0,0.0,0.0,0.0,8640.0,hco,bayer
+Fondation du Centre de Chimiothérapie Anti-Cancéreuse,Lausanne,CH,Avenue Alexandre-Vinet 19B,1004,1052956696,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer
+Fondation pour la recherche de la cardiologie universitaire de Genève,Genève,CH,Rue Micheli-du-Crest 24,1211,40524306,0.0,27250.0,0.0,0.0,6200.0,0.0,33450.0,hco,bayer
+Fondation Suisse Contre le Cancer du Foie,Delémont,CH,Rue De L'église 13,2800,1056522213,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,bayer
+Fondazione Cardiocentro Ticino,Lugano,CH,Via Tesserete 48,6900,40535235,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,bayer
+Fondazione Epatocentro Ticino,Lugano,CH,Via Soldino 5,6900,40535213,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,bayer
+Fortbildungsgruppe Adler,Steckborn,CH,Storchengässli 2,8266,1059748180,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer
+Forum für medizinische Fortbildung - FomF GmbH,Zug,CH,Ahornstrasse 2,6300,40534246,0.0,14000.0,0.0,0.0,0.0,0.0,14000.0,hco,bayer
+Foundation SAoO,Berneck,CH,Schüllenstrasse 19,9442,1055501532,0.0,20000.0,0.0,0.0,0.0,0.0,20000.0,hco,bayer
+Frauenarztpraxis Luzern AG,Luzern,CH,Weggisgasse 1,6004,40523477,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hco,bayer
+Frauengesundheitszentrum Rämistrasse,Zürich,CH,Rämistrasse 35,8001,1059956495,0.0,800.0,0.0,0.0,0.0,0.0,800.0,hco,bayer
+Frauenpraxis Buchenhof AG,Sursee,CH,Buchenstrasse 8,6210,1051547142,0.0,0.0,0.0,0.0,3425.0,0.0,3425.0,hco,bayer
+Frauenpraxis Stäfa,Stäfa,CH,Häldelistrasse 9,8712,40527726,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hco,bayer
+Groupement des Médecins des Franches-Montagnes,Saignelégier,CH,Place Du Vingt-trois Juin 2,2350,40530980,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer
+Groupement Romand de la Société Suisse de Gynécologie et Obstétrique,Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,1033,1052346094,0.0,26745.0,0.0,0.0,0.0,0.0,26745.0,hco,bayer
+Gruppo Medico Formazione,Roveredo GR,CH,San Fedele,6535,40529498,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer
+Gruppo Pochi ma buoni (PMB),Lugano,CH,Via delle Scuole 34,6900,40529869,0.0,700.0,0.0,0.0,0.0,0.0,700.0,hco,bayer
+GSASA Schweizerischer Verein der Amts- und Spitalapotheker,Bern,CH,,3000,40523153,0.0,800.0,0.0,0.0,0.0,0.0,800.0,hco,bayer
+GZO Spital Wetzikon,Wetzikon ZH,CH,Spitalstrasse 66,8620,40533324,0.0,1851.85,0.0,0.0,0.0,0.0,1851.85,hco,bayer
+Hareso AG - Hausärzte Region Solothurn AG,Solothurn,CH,Niklaus-Konrad-Strasse 11,4500,40528509,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,bayer
+Hausarztverein Gossau,Gossau SG,CH,Lerchenstrasse 32,9200,40533280,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer
+HerzGefässStiftung,Zürich,CH,Seestrasse 220,8002,40536128,0.0,22500.0,0.0,0.0,0.0,0.0,22500.0,hco,bayer
+Herzpraxis Warteckhof,Basel,CH,Grenzacherstrasse 62,4058,40683350,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer
+HFR Fribourg-Hôpital Cantonal,Fribourg,CH,Chemin des Pensionnats 2,1708,1052325881,0.0,8000.0,0.0,0.0,0.0,0.0,8000.0,hco,bayer
+Hirslanden Klinik St. Anna,Luzern,CH,Sankt Annastrasse 32,6006,40517562,0.0,6388.89,0.0,0.0,0.0,0.0,6388.89,hco,bayer
+Hôpital de Zone de Nyon - GHOL,Nyon,CH,Chemin Monastier 10,1260,40518918,0.0,800.0,133.35,0.0,0.0,0.0,933.35,hco,bayer
+Hôpital du Chablais,Aigle,CH,Chemin du Grand-Chêne,1860,40536207,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,bayer
+"Hôpital du Jura Bernois, Moutier",Moutier,CH,Rue de Beausite 49,2740,40537201,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,bayer
+"Hôpital du Jura, Site de Porrentruy (H-JU)",Porrentruy,CH,Chemin de l'Hôpital 9,2900,40538227,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0,hco,bayer
+Hôpital du Valais - Hôpital de Sion,Sion,CH,Avenue Grand-Champsec 80,1951,40520335,0.0,6800.0,3266.05,9474.85,0.0,0.0,19540.9,hco,bayer
+"Hôpital Intercantonal de la Broye, HIB Site de Payerne",Payerne,CH,Avenue de la Colline 3,1530,40699479,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Hôpital neuchâtelois La Chaux-de-Fonds,La Chaux-de-Fonds,CH,Rue de Chasseral 20,2300,40519124,0.0,11000.0,0.0,0.0,0.0,0.0,11000.0,hco,bayer
+Hôpitaux Universitaires de Genève (HUG),Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,40518666,0.0,53200.0,4200.0,0.0,7184.4,0.0,64584.4,hco,bayer
+IGOMED Ärztenetzwerk Raum Thun,Thun,CH,Höheweg 26a,3600,40700119,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,bayer
+Insel Gruppe AG,Bern,CH,Freiburgstrasse 18,3010,1066372371,0.0,446576.3,0.0,0.0,27774.38,984.8,475335.48,hco,bayer
+Institut für Forschung und Fortbildung in der Medizin GmbH,Langenthal,CH,Jurastrasse 15,4900,1051772183,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer
+Institut für Hausarztmedizin & Community Care Luzern,Luzern,CH,Schwanenplatz 7,6004,1053309391,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,bayer
+Kantonale Ärztegesellschaft Schaffhausen,Schaffhausen,CH,Finsterwaldstrasse 91,8200,1052625370,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,bayer
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,5001,40522809,0.0,50018.51,7707.1,13964.91,6059.78,607.82,78358.11,hco,bayer
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,4410,40522657,0.0,18500.0,3162.22,2073.26,1250.0,0.0,24985.49,hco,bayer
+Kantonsspital Graubünden,Chur,CH,Loestrasse 170,7000,40535054,0.0,8500.0,0.0,0.0,3437.0,0.0,11937.0,hco,bayer
+Kantonsspital Schaffhausen,Schaffhausen,CH,Geissbergstrasse 81,8208,40521557,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,bayer
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,9007,40538716,0.0,77800.0,262.4,903.2,7875.0,0.0,86840.6,hco,bayer
+Kantonsspital Uri,Altdorf UR,CH,Spitalstrasse 1,6460,40535159,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,8400,40516032,0.0,31821.75,2500.0,0.0,0.0,0.0,34321.75,hco,bayer
+KGP Kardiologische Gemeinschaftspraxis AG,Bern,CH,Schänzlistrasse 33,3013,40526445,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0,hco,bayer
+Kinderspital Zürich Universitäts-Kinderklinik,Zürich,CH,Steinwiesstrasse 75,8032,40532536,0.0,55000.0,458.0,6532.7,0.0,394.04,62384.74,hco,bayer
+Klinik Bethesda / Neurorehabilitation Parkinson-Zentrum Epileptologie,Tschugg,CH,Oberdorf,3233,40703101,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Klinik Schützen Rheinfelden,Rheinfelden,CH,Bahnhofstrasse 19,4310,40532268,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,bayer
+Luzerner Kantonsspital Luzern,Luzern,CH,Spitalstrasse,6000,1051697737,0.0,23000.0,0.0,0.0,8312.3,0.0,31312.3,hco,bayer
+Médecins de Famille Genève,Genève,CH,Rue du Conseil-Général 11,1205,1051545544,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Medical AdiNetwork GmbH,Winterthur,CH,Lagerhausstrasse 9,8400,1057409825,0.0,1500.0,0.0,0.0,3250.0,0.0,4750.0,hco,bayer
+Medicaments Pour Tous Switzerland,Basel,CH,Grosspeterstrasse 9,4052,1057410711,7040.0,0.0,0.0,0.0,0.0,0.0,7040.0,hco,bayer
+MEDICOL - Direction et recherches,Lausanne,CH,Chemin de Montolivet 19,1006,1055230876,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,bayer
+medswiss.net Schweizer Dachverband der Ärztenetze,Gümligen,CH,Moosstrasse 2,3073,40702073,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0,hco,bayer
+Mekelleche GmbH,Luzern,CH,Moostrasse 2,6003,40517481,0.0,0.0,0.0,0.0,122758.59,0.0,122758.59,hco,bayer
+Oberwalliser Ärztegesellschaft OWAEG,Brig,CH,Sandmattenstrasse 6,3900,1056546365,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Onkologie Bellevue Dr. Bättig Basil,Zürich,CH,Stadelhoferstrasse 42,8001,40680196,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,bayer
+Onkologiepflege Schweiz,Kleinandelfingen,CH,Hirstigstrasse 13,8451,40526526,0.0,0.0,2750.0,0.0,0.0,0.0,2750.0,hco,bayer
+OnkoZentrum Zürich AG,Zürich,CH,Seestrasse 259,8038,1055038955,0.0,21200.0,0.0,0.0,0.0,0.0,21200.0,hco,bayer
+Ospedale Regionale di Lugano / Sede Civico,Lugano,CH,Via Tesserete 46,6900,40701231,0.0,4500.0,0.0,0.0,0.0,0.0,4500.0,hco,bayer
+Ospedale Regionale La Carità,Locarno,CH,Via all'Ospedale 1,6600,40534824,0.0,2129.63,0.0,0.0,0.0,0.0,2129.63,hco,bayer
+Pallas Kliniken AG,Olten,CH,,4600,40672283,0.0,18000.0,0.0,0.0,0.0,0.0,18000.0,hco,bayer
+pharmActuel Bern,Zollikofen,CH,Hübeliweg 14,3052,1067485359,0.0,2900.0,0.0,0.0,0.0,0.0,2900.0,hco,bayer
+pharmActuel Zürich,Zürich,CH,Hochstrasse 97,8044,1066839479,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0,hco,bayer
+PizolCare AG,Mels,CH,Flurstrasse 12,8887,40702067,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Praxis Dr. Annen Noëlle / Dr. Annen Oliver,Root,CH,Bahnhofstrasse 24,6037,40673773,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0,hco,bayer
+Praxis Dr. Grizelj Branko,Schaan,CH,Landstrasse 97,9494,40676762,0.0,0.0,926.7,884.7,0.0,0.0,1811.4,hco,bayer
+Praxis Dr. Uzeda Andrés Alvaro,Zürich,CH,Theaterstrasse 18,8001,1059738476,0.0,0.0,538.57,739.8,0.0,0.0,1278.37,hco,bayer
+Praxis Dr. Villiger Lukas,Baden-Dättwil,CH,Mellingerstrasse 207,5405,40528701,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hco,bayer
+Praxis für Chiropraktik und Physiotherapie Zürich-Enge,Zürich,CH,Alfred Escher-Strasse 38,8002,40692066,0.0,0.0,0.0,0.0,1600.0,0.0,1600.0,hco,bayer
+Praxis für die Frau Spiez,Spiez,CH,Seestrasse 30,3700,40696409,0.0,800.0,0.0,0.0,0.0,0.0,800.0,hco,bayer
+Praxisklinik Binningen,Binningen,CH,Hauptstrasse 11,4102,40674998,0.0,3500.0,0.0,0.0,0.0,0.0,3500.0,hco,bayer
+Privatklinik Obach AG,Solothurn,CH,Leopoldstrasse 5,4500,40534475,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,bayer
+Quadrimed,Crans-Montana,CH,,3963,40688596,0.0,13902.75,0.0,0.0,0.0,0.0,13902.75,hco,bayer
+Raluno AG,Baar,CH,Arbachstrasse 2,6340,1051599641,0.0,0.0,353.35,0.0,0.0,0.0,353.35,hco,bayer
+Regionalspital Surselva AG,Ilanz,CH,Spitalstrasse 6,7130,40701314,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer
+Reha Rheinfelden,Rheinfelden,CH,Salinenstrasse 98,4310,40532002,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,bayer
+Reha Seewis,Seewis Dorf,CH,Schlossstrasse 1,7212,40702922,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,bayer
+REMED Association des médecins travaillant en Réseau,Genève,CH,,1206,40703520,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Réseau de soins Delta,Onex,CH,Route de Chancy 98,1213,40703657,0.0,2500.0,0.0,0.0,7220.0,0.0,9720.0,hco,bayer
+Réseau Santé Balcon du Jura vaudois,Ste-Croix,CH,Rue des Rosiers 29,1450,40519475,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0,hco,bayer
+S. Grasso Consulting Swiss Tumor Board,Lindau,CH,Fischeracherstrasse 17,8315,40521622,0.0,13243.0,0.0,0.0,0.0,0.0,13243.0,hco,bayer
+SAKK Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung,Bern,CH,Effingerstrasse 33,3008,1051509072,0.0,17000.0,0.0,0.0,0.0,0.0,17000.0,hco,bayer
+Salutomed AG,Zollikofen,CH,Kirchlindachstrasse 7,3052,40670972,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hco,bayer
+SAMO Swiss Academy of Multidisciplinary Oncology - Geschäftsstelle,Bern,CH,Effingerstrasse 40,3008,40524995,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,bayer
+"Schweiz. Verband Medizinischer Praxis-Fachpersonen SVA, Zentralsekretariat",Bern,CH,Elfenstrasse 19,3000,40536724,0.0,3200.0,0.0,0.0,0.0,0.0,3200.0,hco,bayer
+Schweizer Paraplegiker-Zentrum Nottwil AG,Nottwil,CH,Guido A. Zäch Strasse 1,6207,40517995,0.0,1000.0,333.3,1164.5,0.0,0.0,2497.8,hco,bayer
+Schweizerische Arbeitsgemeinschaft für Perinatale Pharmakologie,Zürich,CH,Schmelzbergstrasse 12,8091,40524048,0.0,750.0,0.0,0.0,0.0,0.0,750.0,hco,bayer
+Schweizerische Ärztegesellschaft für Manuelle Medizin,St. Gallen,CH,Kolumbanstrasse 2,9008,1051545282,0.0,18975.0,0.0,0.0,0.0,0.0,18975.0,hco,bayer
+Schweizerische Ges. für Gynäkologie und Geburtshilfe - gynécologie suisse,Bern,CH,Altenbergstrasse 29,3000,40526413,0.0,70258.0,0.0,0.0,0.0,0.0,70258.0,hco,bayer
+Schweizerische Gesellschaft für Allgemeine Innere Medizin,Bern,CH,Monbijoustrasse 43,3011,1057207285,0.0,71000.0,0.0,0.0,0.0,0.0,71000.0,hco,bayer
+Schweizerische Gesellschaft für Anästhesiologie und Reanimation,Bern,CH,Rabbentalstrasse 83,3013,40519842,0.0,36080.0,0.0,0.0,0.0,0.0,36080.0,hco,bayer
+Schweizerische Gesellschaft für Endokrinologie und Diabetologie,Baden,CH,Rütistrasse 3A,5400,40528710,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer
+Schweizerische Gesellschaft für Hämatologie,Münsingen,CH,Innerer Giessenweg 37,3110,40531250,0.0,9000.0,0.0,0.0,0.0,0.0,9000.0,hco,bayer
+Schweizerische Gesellschaft für Kardiologie - Société suisse de Cardiologie,Bern,CH,Dufourstrasse 30,3005,40674468,0.0,37605.0,0.0,0.0,0.0,0.0,37605.0,hco,bayer
+Schweizerische Gesellschaft für Neuroradiologie,Basel,CH,Münsterberg 1,4001,1060083151,0.0,0.0,0.0,0.0,11000.0,0.0,11000.0,hco,bayer
+Schweizerische Gesellschaft für Reproduktionsmedizin,Worb,CH,,3076,40519974,0.0,3260.0,0.0,0.0,0.0,0.0,3260.0,hco,bayer
+Schweizerische Gesellschaft für Urologie - Société Suisse d'Urologie,Montreux,CH,Avenue des Planches 15,1820,1051535312,0.0,12000.0,0.0,0.0,0.0,0.0,12000.0,hco,bayer
+Schweizerische Menopausengesellschaft - La Société suisse de ménopause,Worb,CH,,3076,40520266,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,bayer
+Schweizerische Neurologische Gesellschaft - Société Suisse de Neurologie,Basel,CH,Münsterberg 1,4001,1051697731,0.0,53350.0,0.0,0.0,0.0,0.0,53350.0,hco,bayer
+Schweizerische Ophthalmologische Gesellschaft SOG,St. Margrethen SG,CH,Bahnhofplatz 12,9430,1051958839,0.0,220800.0,0.0,0.0,14000.0,0.0,234800.0,hco,bayer
+Schweizerische Vereinigung der Fachleute für med. technische Radiologie,Sursee,CH,Bahnhofstrasse 7b,6210,40517675,0.0,11600.0,0.0,0.0,0.0,0.0,11600.0,hco,bayer
+Schweizerischer Verband Medizinischer Praxisassistentinnen,Basel,CH,Jacob Burckhardt-strasse 12,4052,1051720016,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Schweizerischer Verband Medizinischer PraxisAssistentinnen Aargau,Aarau,CH,Erlinsbacherstrasse 21,5000,1052420839,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,bayer
+Schweizerischer Verband Medizinischer PraxisAssistentinnen Thurgau,Aadorf,CH,Bohlstrasse 25,8355,1052418172,0.0,600.0,0.0,0.0,0.0,0.0,600.0,hco,bayer
+See-Spital Horgen,Horgen,CH,Asylstrasse 19,8810,40537920,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer
+SeelandNet Ärztenetzwerk des Bieler Seelandes,Lyss,CH,Bahnhofstrasse 15a,3250,40700054,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,bayer
+SGR-SSR / Schweizerische Gesellschaft für Radiologie,Zürich,CH,Bellerivestrasse 11,8008,40519970,0.0,720.0,0.0,0.0,0.0,0.0,720.0,hco,bayer
+Société Neuchâteloise de Médecine SNM,Couvet,CH,Grand'Rue 36B,2108,40524659,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,bayer
+Societe Suisse d'Orthopaedie et de Traumatologie,Grandvaux,CH,Chemin de la Bovarde 19,1091,40525295,0.0,24408.0,0.0,0.0,0.0,0.0,24408.0,hco,bayer
+Société Suisse de Sexologie,Lausanne,CH,Rue Caroline 3,1003,1060282325,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer
+Société Vaudoise de Médecine,Lausanne,CH,Chemin De Mornex 38,1002,40524135,0.0,3300.0,0.0,0.0,0.0,0.0,3300.0,hco,bayer
+Society for Ophthalmo-Immunoinfectivology in Europe,Lausanne,CH,Rue Charles-monnard 6,1003,1051972347,0.0,36880.75,0.0,0.0,0.0,0.0,36880.75,hco,bayer
+Solothurner Spitäler AG soH,Solothurn,CH,Schöngrünstrasse 42,4500,1066372380,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,bayer
+Spital Emmental AG Burgdorf,Burgdorf,CH,Oberburgstrasse 54,3400,40526142,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Spital Lachen AG,Lachen SZ,CH,Oberdorfstrasse 41,8853,40527179,0.0,2350.0,0.0,0.0,0.0,0.0,2350.0,hco,bayer
+Spital Limmattal,Schlieren,CH,Urdorferstrasse 100,8952,40539605,0.0,1750.0,0.0,0.0,0.0,0.0,1750.0,hco,bayer
+Spital Schwyz,Schwyz,CH,Waldeggstrasse 10,6430,1059699590,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,bayer
+Spital Thun - STS AG,Zweisimmen,CH,Bolgengasse 40,3770,40520686,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer
+Spital Thurgau AG - Geschäftsstelle,Frauenfeld,CH,Waldeggstrasse 8a,8501,40516137,0.0,7100.0,0.0,0.0,0.0,0.0,7100.0,hco,bayer
+Spital Walenstadt Spitalregion Rheintal Werdenberg Sarganserland,Walenstadt,CH,Spitalstrasse 5,8880,40669076,0.0,2925.95,0.0,0.0,0.0,0.0,2925.95,hco,bayer
+Spital Wil,Wil SG,CH,Fürstenlandstrasse 32,9500,40528361,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,bayer
+Spitalregion Fürstenland-Toggenburg Spital Wattwil,Wattwil,CH,Steig,9630,40522370,0.0,1600.0,0.0,0.0,0.0,0.0,1600.0,hco,bayer
+Spitalverbund Appenzell Ausserrhoden,Herisau,CH,Krombach 3,9100,40516441,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer
+Spitalzentrum Biel AG,Biel/Bienne,CH,Vogelsang 84,2502,40524892,0.0,7500.0,0.0,0.0,0.0,0.0,7500.0,hco,bayer
+Stiftung für Gesundheit und kardio-/neurovaskuläre Forschung,Basel,CH,Elisabethenstrasse 30,4051,1059680189,0.0,5500.0,0.0,0.0,0.0,0.0,5500.0,hco,bayer
+Stiftung für Herz- und Kreislaufforschung- Zurich Heart House,Zürich,CH,Hottingerstrasse 14,8032,40526616,0.0,207921.55,0.0,0.0,0.0,0.0,207921.55,hco,bayer
+Stiftung für wissenschaftliche Forschung am Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,8063,40532684,0.0,18500.0,0.0,0.0,0.0,0.0,18500.0,hco,bayer
+Stiftung SONK,St. Gallen,CH,Rorschacher Strasse 150,9006,40533679,0.0,0.0,3888.89,0.0,0.0,0.0,3888.89,hco,bayer
+Stiftung zur Förderung der Ausbildung in medizinischer Radiologie,Wallisellen,CH,Hertistrasse 26,8304,1051391654,0.0,5500.0,0.0,0.0,0.0,0.0,5500.0,hco,bayer
+Studio Dr. Ziliotti Franco,Mendrisio,CH,Via Luigi Lavizzari 4,6850,40674141,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hco,bayer
+SVA Sektion Solothurn,Küttigkofen,CH,Dorfstrasse 48,4581,1051848220,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer
+Swiss Cardiovascular Foundation,Bern,CH,Waisenhausplatz 14,3011,1060352983,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,bayer
+Swiss Eye Institute AG,Rotkreuz,CH,Luzernerstrasse 1,6343,40518147,0.0,0.0,0.0,0.0,8890.8,574.6,9465.4,hco,bayer
+Swiss Glaucoma Research Foundation,Lausanne,CH,Avenue de l'Elysée 40,1006,1060173682,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,bayer
+TOPPHARM AG,Münchenstein,CH,Grabenackerstrasse 11,4142,40531910,0.0,30000.0,0.0,0.0,0.0,0.0,30000.0,hco,bayer
+Tox Info Suisse,Zürich,CH,Freiestrasse 16,8032,1052611519,0.0,0.0,0.0,0.0,6000.0,0.0,6000.0,hco,bayer
+Union Schweizerischer Gesellschaften für Gefässkrankheiten,Bruderholz,CH,,4101,40523131,0.0,23900.0,0.0,0.0,0.0,0.0,23900.0,hco,bayer
+Universität Basel,Basel,CH,Petersplatz 1,4051,40521752,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0,hco,bayer
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,8006,1065341032,0.0,11500.0,0.0,0.0,0.0,0.0,11500.0,hco,bayer
+Universitäts-Kinderspital beider Basel UKBB,Basel,CH,Spitalstrasse 33,4056,40531686,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,bayer
+Universitätsklinik Balgrist,Zürich,CH,Forchstrasse 340,8008,40535508,0.0,17299.0,0.0,0.0,1500.0,0.0,18799.0,hco,bayer
+Universitätsspital Basel,Basel,CH,Spitalstrasse 21,4031,40536433,0.0,352628.89,3336.05,14573.4,31474.64,1038.11,403051.09,hco,bayer
+UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,8091,40524010,0.0,217750.0,0.0,0.0,0.0,0.0,217750.0,hco,bayer
+Urozentrum Beo,Spiez,CH,Schoneggstrasse 21,3700,40531564,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hco,bayer
+Verein Forum Gesundheitswirtschaft,Basel,CH,Colmarerstrasse 14,4055,40536978,0.0,25000.0,0.0,0.0,0.0,0.0,25000.0,hco,bayer
+Verein Lunge Zürich,Zürich,CH,Pfingstweidstrasse 10,8005,40532369,0.0,25180.0,0.0,0.0,0.0,0.0,25180.0,hco,bayer
+Verein zur Förderung der Sportorthopädie,Bottmingen,CH,Birsigstrasse 3,4103,1051950312,0.0,1200.0,0.0,0.0,0.0,0.0,1200.0,hco,bayer
+Verein zur Förderung der Weiterbildung in Augenheilkunde,Basel,CH,Mittlere Strasse 91,4031,1067006733,0.0,7000.0,0.0,0.0,0.0,0.0,7000.0,hco,bayer
+"Vista Klinik AG Binningen, Ophthalmologische Tagesklinik",Binningen,CH,Hauptstrasse 55,4102,40537137,0.0,2029.0,0.0,0.0,0.0,0.0,2029.0,hco,bayer
+Zentralschweizer Internistenwoche,Stans,CH,Ennetmooserstrasse 19,6370,1055566537,0.0,8000.0,0.0,0.0,0.0,0.0,8000.0,hco,bayer
+Zentrum für Gefässmedizin Mittelland AG,Aarau,CH,Aarenaustrasse 2b,5000,1053003002,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer
+ZIO AG - Zentrum für Intergrative Onkologie,Zürich,CH,Hardturmstrasse 133,8005,1053374037,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer
+Linda Abrecht,Langnau im Emmental,CH,Sägestrasse 37a,3550,40720858,0.0,0.0,740.65,1194.24,0.0,0.0,1934.89,hcp,bayer
+Rainer Adam,Bern,CH,Junkerngasse 61,3011,40742150,0.0,0.0,577.35,5853.35,0.0,0.0,6430.7,hcp,bayer
+Andreas Aebersold,Aarwangen,CH,Riedgasse 18,4912,40528619,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Jonathan Aebersold,Luzern,CH,Spitalstrasse,6004,1051656278,0.0,0.0,173.35,637.35,0.0,0.0,810.7,hcp,bayer
+Astrid Ahler,Basel,CH,Spitalstrasse 21,4056,40537226,0.0,0.0,0.0,811.06,0.0,0.0,811.06,hcp,bayer
+Mayss Al-Sheikh,Zürich,CH,Frauenklinikstrasse 24,8091,1059742865,0.0,0.0,353.35,1228.0,0.0,0.0,1581.35,hcp,bayer
+Jeroen Albers,Zürich,CH,Forchstrasse 340,8008,1057235934,0.0,0.0,114.0,471.7,0.0,0.0,585.7,hcp,bayer
+Marc-Henri Allemann,Vevey,CH,Rue de la Clergère 1,1800,40538229,0.0,0.0,538.57,700.15,0.0,0.0,1238.72,hcp,bayer
+Yves Allemann,Bulle,CH,Chemin de Pré-Vert 42,1630,40763365,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0,hcp,bayer
+Beatrice Amann-Vesti,Zürich,CH,Seestrasse 220,8027,40706629,0.0,0.0,0.0,0.0,2480.0,0.0,2480.0,hcp,bayer
+Pachtun Amiri,Bern,CH,Freiburgstrasse 18,3010,1052160710,0.0,0.0,54.0,2122.75,0.0,0.0,2176.75,hcp,bayer
+Marie-Laure Amram-Benamram,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1211,40540168,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,bayer
+Ruth Amstein,Zürich,CH,Hottingerstrasse 14,8032,40763535,0.0,0.0,0.0,1224.24,0.0,0.0,1224.24,hcp,bayer
+Christoph Amstutz,Luzern,CH,Spitalstrasse,6000,1051732646,0.0,0.0,500.65,3325.0,0.0,0.0,3825.65,hcp,bayer
+phil. Rainer Alois Andenmatten,Münsterlingen,CH,Spitalcampus 1,8596,40753112,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Matthias Anderegg,Ittigen,CH,Talgut-Zentrum 5,3063,40762511,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Anne Angelillo-Scherrer,Bern,CH,Freiburgstrasse 18,3010,40539811,0.0,0.0,533.35,6712.3,0.0,0.0,7245.65,hcp,bayer
+Lars Asmis,Zürich,CH,Seefeldstrasse 224,8008,40736091,0.0,0.0,0.0,0.0,5580.0,0.0,5580.0,hcp,bayer
+Myriam Aufdenblatten,Bern,CH,Bremgartenstrasse 119,3012,1052453471,0.0,0.0,54.65,705.85,1200.0,0.0,1960.5,hcp,bayer
+Edoardo Baglivo,Onex,CH,Avenue Bois-de-la-Chapelle 15,1213,40541391,0.0,0.0,600.7,1802.65,0.0,0.0,2403.35,hcp,bayer
+Sandor Balint,Binningen,CH,Hauptstrasse 129,4102,40537128,0.0,0.0,0.0,744.65,0.0,0.0,744.65,hcp,bayer
+Martina Bally,Basel,CH,Missionsstrasse 24,4055,1060275822,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,bayer
+Vanessa Banz,Bern,CH,Freiburgstrasse 4,3010,40743211,0.0,0.0,380.15,420.0,0.0,0.0,800.15,hcp,bayer
+Hanna Barmettler,Langenthal,CH,St. Urbanstrasse 67,4900,40759874,0.0,0.0,0.0,946.04,0.0,0.0,946.04,hcp,bayer
+Cindy Barreiro,Genève,CH,Chemin de Beau-Soleil 20,1206,1052332890,0.0,0.0,226.65,514.0,0.0,0.0,740.65,hcp,bayer
+Heather Marie Bartlett Casparis,Locarno,CH,Via Antonio Ciseri 13,6600,40705008,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,bayer
+Virginie Bays,Vevey,CH,Rue de la Clergère 1,1800,40538230,0.0,0.0,188.65,495.55,0.0,0.0,684.2,hcp,bayer
+Sima Behzad Imsand,Epalinges,CH,Route De La Corniche 1,1066,1052325894,0.0,0.0,226.65,486.35,0.0,0.0,713.0,hcp,bayer
+Friederike Jutta Bender,Zürich,CH,Höschgasse 50,8008,40717319,0.0,0.0,0.0,0.0,900.0,0.0,900.0,hcp,bayer
+Ulf Benecke,St. Gallen,CH,Rorschacher Strasse 95,9007,40728048,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Ismail Bennani,Meyrin,CH,Promenade des Artisans 24,1217,40540222,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Michael Bergner,Langenthal,CH,St. Urbanstrasse 67,4900,1051561213,0.0,0.0,396.65,1208.24,0.0,0.0,1604.89,hcp,bayer
+Artur Bernardo,Gais,CH,Gäbrisstrasse 1172,9056,40761115,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,bayer
+Kuno D P Bigger,Zürich,CH,Goethestrasse 22,8001,1052433531,0.0,0.0,410.0,626.0,0.0,0.0,1036.0,hcp,bayer
+Helmut Binder,Zürich,CH,Limmatquai 94,8001,1051661026,0.0,0.0,886.65,1705.35,0.0,0.0,2592.0,hcp,bayer
+Ulla Birk,Onex,CH,Avenue Bois-de-la-Chapelle 15,1213,40710008,0.0,0.0,351.35,938.65,0.0,0.0,1290.0,hcp,bayer
+Matteo Bistoletti,Zürich,CH,Birmensdorferstrasse 318,8055,40721797,0.0,0.0,350.0,1228.0,0.0,0.0,1578.0,hcp,bayer
+Johannes Bitzer,Basel,CH,Schützenmattstrasse 54,4051,40540358,0.0,0.0,0.0,800.77,23046.44,12245.42,36092.62,hcp,bayer
+Geneviève Bizzini Pezzetta,Montreux,CH,Avenue des Planches 27,1820,40748309,0.0,0.0,0.0,611.15,0.0,0.0,611.15,hcp,bayer
+Bernhard Blum,Olten,CH,Baslerstrasse 150,4600,1053035193,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Pierre Bohanes,Fribourg,CH,Route de Villars 37,1700,40540224,0.0,0.0,356.4,152.0,0.0,0.0,508.4,hcp,bayer
+Daniel Bolliger,Basel,CH,Spitalstrasse 21,4031,40743853,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Martien Bontekoe,Luzern,CH,Spitalstrasse,6004,40755014,0.0,0.0,169.35,478.0,0.0,0.0,647.35,hcp,bayer
+Diego Boschetti,Thun,CH,Krankenhausstrasse 12,3600,40539645,0.0,0.0,348.65,747.65,0.0,0.0,1096.3,hcp,bayer
+Henri Bounameaux,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1211,40747768,0.0,0.0,0.0,0.0,4382.54,564.07,4946.61,hcp,bayer
+Fabrizio Branca,Basel,CH,Centralbahnstrasse 20,4051,40712869,0.0,0.0,276.65,7333.35,0.0,0.0,7610.0,hcp,bayer
+Alexander Breitenstein,Zürich,CH,Rämistrasse 100,8091,1052453470,0.0,0.0,0.0,0.0,5414.48,583.35,5997.83,hcp,bayer
+Katrin Breitling,Schaffhausen,CH,Geissbergstrasse 81,8208,40521562,0.0,0.0,252.0,634.85,0.0,0.0,886.85,hcp,bayer
+Albéric Jean Marie Bressoud,Lausanne,CH,Avenue d'Ouchy 31,1006,40539742,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,bayer
+Julia Brügger,Luzern,CH,Spitalstrasse,6004,1053195563,0.0,0.0,228.35,637.35,0.0,0.0,865.7,hcp,bayer
+Georg Brunner,Jegenstorf,CH,Bernstrasse 12,3303,40755621,0.0,0.0,0.0,0.0,585.0,0.0,585.0,hcp,bayer
+Irene Burger,Zürich,CH,Rämistrasse 100,8091,1051720142,0.0,0.0,477.35,831.1,400.0,0.0,1708.45,hcp,bayer
+Reto Canevascini,Viganello,CH,Viale Pietro Capelli 1,6962,40535241,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Joanna Capoferri,Chiasso,CH,Via Giuseppe Motta 12,6830,1052879622,0.0,0.0,53.65,859.95,0.0,0.0,913.6,hcp,bayer
+Stéphanie Carré,Genève,CH,Chemin de Beau-Soleil 20,1206,1060061213,0.0,0.0,594.05,1319.3,0.0,0.0,1913.35,hcp,bayer
+Bertrand Carrel,Villars-sur-Glâne,CH,Rue du Centre 10,1752,1051774782,0.0,0.0,453.35,750.7,0.0,0.0,1204.05,hcp,bayer
+Alessandro Casini,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1211,40739609,0.0,0.0,277.35,575.3,0.0,0.0,852.65,hcp,bayer
+Sylvia Cayette,Genève,CH,Rue Pierre-Fatio 15,1204,40720055,0.0,0.0,326.65,502.65,0.0,0.0,829.3,hcp,bayer
+Carlo Cereda,Lugano,CH,Via Tesserete 46,6900,40541039,0.0,0.0,328.65,652.0,1255.0,0.0,2235.65,hcp,bayer
+Patrick Chabloz,Neuchâtel,CH,Rue De La Maladière 45,2000,40748569,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,bayer
+Pascal Chatelain,Genève,CH,Rue Emile-Yung 4,1205,40518631,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Claude-André Chételat,Bern,CH,Thunstrasse 2,3005,40758708,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Andreas Christe,Bern,CH,Freiburgstrasse 10,3010,1051647204,0.0,0.0,1266.7,10243.3,0.0,0.0,11510.0,hcp,bayer
+Gabrielle Cissé,Nyon,CH,Chemin Falconnier 5,1260,1053229405,0.0,0.0,188.65,495.55,0.0,0.0,684.2,hcp,bayer
+Rainer Claus,Wangen an der Aare,CH,Bifangstrasse 4b,3380,40539633,0.0,0.0,465.35,695.6,0.0,0.0,1160.95,hcp,bayer
+Christophe Constantin,Sion,CH,Avenue Grand-Champsec 80,1951,40539769,0.0,0.0,1200.0,2591.5,0.0,0.0,3791.5,hcp,bayer
+Philippe Cordey,Zollikofen,CH,Kirchlindachstrasse 7,3052,40525788,0.0,0.0,125.35,586.0,0.0,0.0,711.35,hcp,bayer
+Gabriela Cotarcea,Genève,CH,Rue de l'Athénée 22,1206,40539392,0.0,0.0,188.65,361.8,0.0,0.0,550.45,hcp,bayer
+Philippe Cottagnoud,Bern,CH,Schänzlihalde 11,3013,40711684,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Olivier Cottier,Aigle,CH,Chemin Du Grand-chêne,1860,40748339,0.0,0.0,188.65,495.55,0.0,0.0,684.2,hcp,bayer
+Séverine Crausaz Bonjour,Morges,CH,Place Dufour 3,1110,40539552,0.0,0.0,188.65,495.55,0.0,0.0,684.2,hcp,bayer
+Adrien Croquelois,Montreux,CH,Grand-rue 3,1820,1053139931,0.0,0.0,188.65,495.55,0.0,0.0,684.2,hcp,bayer
+Ekaterina Darman,Bassersdorf,CH,Rebhaldenstrasse 9,8303,40527047,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Christian De Pree,Genève,CH,Chemin de Beau Soleil 22,1206,40539412,0.0,0.0,271.35,783.25,0.0,0.0,1054.6,hcp,bayer
+Alain Delabays,Morges,CH,Chemin du Crêt 2,1110,40747652,0.0,0.0,394.65,612.65,0.0,0.0,1007.3,hcp,bayer
+Karima Delacombaz,Villars-sur-Glâne,CH,Rue du Centre 16,1752,1065304390,0.0,0.0,160.0,537.35,0.0,0.0,697.35,hcp,bayer
+Maria Rosza Dervaderics,Neuenhof,CH,Albertstrasse 4,5432,1051601514,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Tobias Dietrich,St. Gallen,CH,Rorschacher Strasse 95,9007,1051663886,0.0,0.0,0.0,206.7,0.0,0.0,206.7,hcp,bayer
+Irene Dingeldein,Murten,CH,Längmatt 32,3280,40541158,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,hcp,bayer
+Oliver Distler,Zürich,CH,Gloriastrasse 25,8091,40541300,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,bayer
+Guy Donati,Genève,CH,Avenue de la Roseraie 76B,1205,40541398,0.0,0.0,605.35,1651.95,0.0,0.0,2257.3,hcp,bayer
+Juliane Döpfner,Wil SG,CH,Obere Bahnhofstrasse 37,9500,40709080,0.0,0.0,350.0,1228.0,0.0,0.0,1578.0,hcp,bayer
+Janine Dörffler-Melly,Zürich,CH,Bellariastrasse 40,8038,40515410,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Michael Drepper,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,40719392,0.0,0.0,378.0,1122.0,0.0,0.0,1500.0,hcp,bayer
+Clemens Drobig,Seewis Dorf,CH,Schlossstrasse 1,7212,1054957850,0.0,0.0,86.0,380.0,0.0,0.0,466.0,hcp,bayer
+Eric Dromzée,Confignon,CH,Route de Loëx 99,1232,1059713451,0.0,0.0,618.0,676.95,0.0,0.0,1294.95,hcp,bayer
+Adrian Dubs,Männedorf,CH,Asylstrasse 10,8708,40728212,0.0,0.0,401.35,1022.51,0.0,0.0,1423.86,hcp,bayer
+Jean-François Dufour,Bern,CH,Freiburgstrasse 4,3010,40541297,0.0,0.0,0.0,0.0,0.0,114.36,114.36,hcp,bayer
+Donat Dürr,Baar,CH,Landhausstrasse 11,6340,40717268,0.0,0.0,634.0,4975.25,0.0,0.0,5609.25,hcp,bayer
+Markus Eberhard,Schaffhausen,CH,Geissbergstrasse 81,8208,40540582,0.0,0.0,588.65,3193.5,0.0,0.0,3782.15,hcp,bayer
+Jens Eckstein,Basel,CH,Petersgraben 4,4031,40733722,0.0,0.0,0.0,1689.64,700.0,0.0,2389.64,hcp,bayer
+Jochen Eichler,Zürich,CH,Universitätstrasse 120,8006,40752420,0.0,0.0,252.0,634.85,0.0,0.0,886.85,hcp,bayer
+Nadja Engel,Wetzikon ZH,CH,Kirchgasse 4,8620,40755007,0.0,0.0,0.0,626.0,0.0,0.0,626.0,hcp,bayer
+Reto Engel,St. Gallen,CH,Schützengasse 2,9000,40539868,0.0,0.0,410.65,988.28,700.0,0.0,2098.93,hcp,bayer
+Rolf Engelberger,Fribourg,CH,Chemin des Pensionnats 2,1708,1051758257,0.0,0.0,0.0,0.0,0.0,1133.53,1133.53,hcp,bayer
+Carole Claude Eyholzer,Zürich,CH,Forchstrasse 340,8008,1063886761,0.0,0.0,320.0,1164.5,0.0,0.0,1484.5,hcp,bayer
+Anna Beata Falkenberg,Aarau,CH,Tellstrasse 25,5001,1051661039,0.0,0.0,0.0,1995.0,0.0,0.0,1995.0,hcp,bayer
+Adrien Faudot,Epalinges,CH,Route De La Corniche 1,1066,1060168328,0.0,0.0,174.65,771.3,0.0,0.0,945.95,hcp,bayer
+Olivier Favre,Genève,CH,Boulevard des Philosophes 14,1205,40540240,0.0,0.0,260.0,536.8,600.0,0.0,1396.8,hcp,bayer
+Léo Finci,Petit-Lancy,CH,Chemin de la Caroline 2,1213,40540220,0.0,0.0,396.65,711.3,0.0,0.0,1107.95,hcp,bayer
+Johannes Fleischhauer,Zürich,CH,Pelikanstrasse 18,8001,40541540,0.0,0.0,162.0,1111.35,0.0,0.0,1273.35,hcp,bayer
+Pierre Fontana,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1211,40540166,0.0,0.0,516.65,-299.65,0.0,0.0,217.0,hcp,bayer
+Rudolf Frank,Bern,CH,Thunstrasse 2,3005,40712119,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Luzius Frei,Zürich,CH,Simmlersteig 14,8038,40759261,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Niclas Freund,Rheinfelden,CH,Habich-Dietschy-Strasse 18,4310,40757929,0.0,0.0,306.65,57.4,0.0,0.0,364.05,hcp,bayer
+Jean Louis Frossard,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1211,40740284,0.0,0.0,390.0,1122.0,0.0,0.0,1512.0,hcp,bayer
+Sarah Fürling Uhl,Zürich,CH,Seidengasse 15,8001,40760415,0.0,0.0,-150.0,361.9,0.0,0.0,211.9,hcp,bayer
+Andrea Galli,Viganello,CH,Viale Pietro Capelli 1,6962,1051937629,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Augusto Franco Gallino,Bellinzona,CH,Via Ospedale,6500,40751362,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Narjisse Gama,Sion,CH,Rue de la Dixence 23,1950,1059625189,0.0,0.0,460.65,1245.3,0.0,0.0,1705.95,hcp,bayer
+Justus Garweg,Bern,CH,Bremgartenstrasse 119,3012,40540783,0.0,0.0,17.11,0.0,0.0,0.0,17.11,hcp,bayer
+Jean-Michel Gaspoz,Geneve,CH,Rue Gabrielle-Perret-Gentil 4,1205,40760111,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0,hcp,bayer
+Uwe Genth,Frauenfeld,CH,Oberstadtstrasse 4,8500,40753056,0.0,0.0,353.35,804.0,0.0,0.0,1157.35,hcp,bayer
+Joachim Gerbitz,Brugg AG,CH,Bahnhofstrasse 25,5200,40529340,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Anita Gharibian,Kerns,CH,Sarnerstrasse 3,6064,40529449,0.0,0.0,-150.0,422.08,0.0,0.0,272.08,hcp,bayer
+Michele Ghielmini,Bellinzona,CH,Via Ospedale,6500,40715520,0.0,0.0,0.0,0.0,2717.88,0.0,2717.88,hcp,bayer
+Grégoire Girod,Sion,CH,Avenue Grand-Champsec 80,1951,40754386,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Ana Godinho Lourenço,Genève,CH,Rue Plantamour 19,1201,40540197,0.0,0.0,-150.0,387.98,1500.0,0.0,1737.98,hcp,bayer
+Vera Gojic,Zürich,CH,Lintheschergasse 3,8001,1053198622,0.0,0.0,-150.0,361.9,0.0,0.0,211.9,hcp,bayer
+Patrick Goumaz,Riaz,CH,Impasse des Terreaux 4,1632,40540703,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hcp,bayer
+Mark Graber,Wetzikon ZH,CH,Bahnhofstrasse 137,8620,40527440,0.0,0.0,64.65,728.65,0.0,0.0,793.3,hcp,bayer
+Susanne Graf,Winterthur,CH,Lindstrasse 15,8400,40752843,0.0,0.0,538.57,739.8,0.0,0.0,1278.37,hcp,bayer
+Daniel Gremmelmaier,Basel,CH,St. Jakobs-Strasse 40,4052,40531719,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Sven Griesser,Burgdorf,CH,Poststrasse 9,3400,40764617,0.0,0.0,202.65,1521.65,0.0,0.0,1724.3,hcp,bayer
+Philippe Grisel,Collombey,CH,Chemin des Vergers 3,1868,40739578,0.0,0.0,395.35,607.3,0.0,0.0,1002.65,hcp,bayer
+Urs Beat Gröflin,Binningen,CH,Hauptstrasse 3,4102,40537114,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Raphael Guanella,Martigny,CH,Rue De Plaisance 7,1920,1051663645,0.0,0.0,0.0,513.8,0.0,0.0,513.8,hcp,bayer
+Salah Gueddi,Genève,CH,Rue du Nant 4-6,1207,40540236,0.0,0.0,276.65,0.0,0.0,0.0,276.65,hcp,bayer
+Christine Guilbert,Genève,CH,Avenue Louis-Casaï 18,1209,1051548459,0.0,0.0,538.57,713.45,0.0,0.0,1252.02,hcp,bayer
+Marc Gutmann,Liestal,CH,Rheinstrasse 26,4410,40747243,0.0,0.0,0.0,1359.24,0.0,0.0,1359.24,hcp,bayer
+Christoph Gwerder,Bern,CH,Monbijoustrasse 10,3011,40539249,0.0,0.0,562.65,951.09,0.0,0.0,1513.74,hcp,bayer
+Markus Halberstadt,Sargans,CH,Bahnhofstrasse 12,7320,40538232,0.0,0.0,350.0,986.65,0.0,0.0,1336.65,hcp,bayer
+Regina Haldemann Heusler,Zürich,CH,Witellikerstrasse 40,8032,40762682,0.0,0.0,0.0,305.2,0.0,0.0,305.2,hcp,bayer
+Stephan Harbarth,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,40719713,0.0,0.0,0.0,0.0,2400.0,0.0,2400.0,hcp,bayer
+Katja Hatz,Binningen,CH,Hauptstrasse 55,4102,40745649,0.0,0.0,465.3,5580.65,4167.86,920.76,11134.56,hcp,bayer
+Rahel Hautle,St. Gallen,CH,Vadianstrasse 31,9000,40759253,0.0,0.0,254.65,428.05,0.0,0.0,682.7,hcp,bayer
+Inga Hegemann,Zürich,CH,Rämistrasse 100,8091,40716630,0.0,0.0,410.65,1017.06,0.0,0.0,1427.71,hcp,bayer
+Marc Heizmann,Aarau,CH,Tellstrasse,5000,40541428,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Paul Bernhard Henrich,Winterthur,CH,Brauerstrasse 15,8400,40723921,0.0,0.0,1652.65,921.75,650.0,0.0,3224.4,hcp,bayer
+Stefan Henzi,Bern,CH,Mühledorfstrasse 1,3018,40536729,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Gabriela Beatrice Herrmann,Luzern,CH,Winkelriedstrasse 35,6003,40540896,0.0,0.0,465.35,695.6,0.0,0.0,1160.95,hcp,bayer
+Kurt Hersberger,Basel,CH,Spalenberg 41,4051,40540349,0.0,0.0,0.0,0.0,1450.0,0.0,1450.0,hcp,bayer
+Bernhard Herzog,Luzern,CH,Sankt Annastrasse 32,6006,40753956,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,bayer
+Sven Hirsch-Hoffmann,Zürich,CH,Badenerstrasse 69-71,8004,40530140,0.0,0.0,263.35,986.65,0.0,0.0,1250.0,hcp,bayer
+Anita Hirschi-Blickenstorfer,Zürich,CH,Witellikerstrasse 40,8032,40759370,0.0,0.0,270.65,952.19,0.0,0.0,1222.84,hcp,bayer
+Evelyne Hitz,Basel,CH,Aeschengraben 18,4051,40537008,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Helge Hoffmann,Hergiswil NW,CH,Sonnenbergstrasse 9,6052,40541492,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,bayer
+Karin Hohloch,Chur,CH,Loëstrasse 170,7000,40725515,0.0,0.0,783.3,2994.05,0.0,0.0,3777.35,hcp,bayer
+Denise Holzer-Alt,Liestal,CH,Rheinstrasse 16,4410,40537546,0.0,0.0,-269.0,739.8,0.0,0.0,470.8,hcp,bayer
+Christoph Honegger,Baar,CH,Landhausstrasse 11,6340,40724820,0.0,0.0,252.0,634.85,0.0,0.0,886.85,hcp,bayer
+Evelyne Huber,Onex,CH,Route de Loëx 3,1213,40540217,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Hans Jürg Huber,Würenlos,CH,Juchstrasse 15,5436,40528765,0.0,0.0,124.65,1022.7,0.0,0.0,1147.35,hcp,bayer
+Katharina Huss-Mischler,Chur,CH,Loestrasse 170,7000,40541060,0.0,0.0,364.65,446.0,0.0,0.0,810.65,hcp,bayer
+Michel Hussenot,La Tour-de-Peilz,CH,Grand'rue 2,1814,1053198641,0.0,0.0,208.65,383.35,0.0,0.0,592.0,hcp,bayer
+Gérard Huther,Sion,CH,Avenue Grand-Champsec 80,1951,40526197,0.0,0.0,836.65,788.65,0.0,0.0,1625.3,hcp,bayer
+Sara Imboden,Bern,CH,Effingerstrasse 102,3010,40749041,0.0,0.0,0.0,446.71,0.0,0.0,446.71,hcp,bayer
+Patrick Imesch,Zürich,CH,Frauenklinikstrasse 10,8091,40706532,0.0,0.0,0.0,2519.35,2012.0,0.0,4531.35,hcp,bayer
+Peter Jäggi,Pfäffikon SZ,CH,Bahnhofstrasse 13,8808,40539943,0.0,0.0,64.0,638.65,0.0,0.0,702.65,hcp,bayer
+Lucas Jörg,St. Gallen,CH,Rorschacherstrasse 95,9007,40709082,0.0,0.0,740.0,963.08,0.0,0.0,1703.08,hcp,bayer
+Simon Jung,Bern,CH,Freiburgstrasse 18,3010,40713179,0.0,0.0,420.65,727.55,530.0,0.0,1678.2,hcp,bayer
+Jürg Jutzi,Bubendorf,CH,Gewerbestrasse 3,4416,40534318,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Daniela Iris Kaergel,Buchs SG,CH,Grünaustrasse 1,9470,40718495,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Barbara Kälin,Horgen,CH,Asylstrasse 19,8810,40753361,0.0,0.0,740.0,1205.44,0.0,0.0,1945.44,hcp,bayer
+Tanja Karambizi,Zürich,CH,Birmensdorferstrasse 497,8063,1060234544,0.0,0.0,360.0,199.75,0.0,0.0,559.75,hcp,bayer
+Rolf Kempf,Kerns,CH,Hobielstrasse 24,6064,40529435,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Barbara Kernen Baselice,Zürich,CH,Hottingerstrasse 16,8032,40532491,0.0,0.0,465.35,695.6,0.0,0.0,1160.95,hcp,bayer
+Andrey Kirschmeier,St. Gallen,CH,Rosenbergstrasse 89,9000,1053416041,0.0,0.0,0.0,570.0,0.0,0.0,570.0,hcp,bayer
+Joachim Klar,Olten,CH,Hauptgasse 18,4600,40539184,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Christiane Kluckert,St. Gallen,CH,St. Leonhard-Strasse 20,9000,40533543,0.0,0.0,-150.0,361.9,0.0,0.0,211.9,hcp,bayer
+Jörg-Thomas Kluckert,St. Gallen,CH,Rorschacher Strasse 95,9007,40729294,0.0,0.0,126.65,950.6,0.0,0.0,1077.25,hcp,bayer
+Ulrike Knödlstorfer,Schlieren,CH,Urdorferstrasse 100,8952,40528045,0.0,0.0,538.57,726.75,0.0,0.0,1265.32,hcp,bayer
+Marina Knöpfli,Bern,CH,Freiburgstrasse 18,3010,1051663808,0.0,0.0,1120.95,1674.0,0.0,0.0,2794.95,hcp,bayer
+Simone Kobler,Brugg AG,CH,Stapferstrasse 32,5200,40765843,0.0,0.0,538.57,739.8,0.0,0.0,1278.37,hcp,bayer
+Sarah Koch,Zürich,CH,Forchstrasse 340,8008,1057236398,0.0,0.0,116.65,456.65,0.0,0.0,573.3,hcp,bayer
+Nils Kucher,Zürich,CH,Rämistrasse 100,8091,40743572,0.0,0.0,0.0,0.0,6120.0,0.0,6120.0,hcp,bayer
+Thomas Kühne,Basel,CH,Spitalstrasse 33,4056,40763580,0.0,0.0,460.65,6462.3,0.0,0.0,6922.95,hcp,bayer
+Marco Kummer,Rheinfelden,CH,Habich-Dietschy-Strasse 18,4310,40761423,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Bernd Lackner,Altstätten SG,CH,Bahnhofstrasse 21a,9450,1055127851,0.0,0.0,151.35,484.0,0.0,0.0,635.35,hcp,bayer
+Jean-Francois Lambert,Nyon,CH,Chemin Monastier 10,1260,40759770,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,bayer
+Florent Landi,Morges,CH,Rue de la Gare 6,1110,1053216242,0.0,0.0,206.65,792.65,0.0,0.0,999.3,hcp,bayer
+Corina Lang,St. Gallen,CH,Rorschacher Strasse 95,9007,40738662,0.0,0.0,408.0,1226.65,0.0,0.0,1634.65,hcp,bayer
+Christoph Lanz,Ebnat-Kappel,CH,Ebnaterstrasse 18,9642,40541532,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,bayer
+Jonas Lanz,Bern,CH,Freiburgstrasse 18,3010,1051720453,0.0,0.0,854.0,1359.0,0.0,0.0,2213.0,hcp,bayer
+Cédric Lehner,Fribourg,CH,Rue De Locarno 1,1700,40758080,0.0,0.0,398.0,526.65,0.0,0.0,924.65,hcp,bayer
+Antoine Leimgruber,Vevey,CH,Avenue de la Prairie 3,1800,1059958804,0.0,0.0,482.0,548.2,0.0,0.0,1030.2,hcp,bayer
+Marc-Joseph Licker,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1211,40720388,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Christoph A. Lienhard,Zürich,CH,Birmensdorferstrasse 497,8063,1059796466,0.0,0.0,348.65,747.65,0.0,0.0,1096.3,hcp,bayer
+Manuela Lötscher-Thalmann,Luzern,CH,Spitalstrasse,6004,1051872422,0.0,0.0,406.65,1140.0,0.0,0.0,1546.65,hcp,bayer
+Thomas Felix Lüscher,Zürich,CH,Hottingerstrasse 14,8032,40539830,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,bayer
+Jean-Marc Lüthi,Thun,CH,Krankenhausstr. 12,3600,40520690,0.0,0.0,398.0,1225.86,0.0,0.0,1623.86,hcp,bayer
+Markus Lüthi,Bern,CH,Jupiterstrasse 55,3015,40526405,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Seyed Madani,Le Sentier,CH,Grand-Rue 10,1347,40525403,0.0,0.0,499.85,926.65,0.0,0.0,1426.5,hcp,bayer
+Paul Mäder,Steffisburg,CH,Oberdorfstrasse 25,3612,40749566,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Folkert Maecker,Jegenstorf,CH,Bernstrasse 12,3303,40760220,0.0,0.0,0.0,0.0,585.0,0.0,585.0,hcp,bayer
+Ariane Malcles,Genève,CH,Rue Alcide-Jentzer 22,1205,1055247472,0.0,0.0,249.35,797.35,0.0,0.0,1046.7,hcp,bayer
+Christoph Mamot,Aarau,CH,Tellstrasse 25,5001,40724694,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,bayer
+Concetta Manno,Lugano,CH,Via Tesserete 46,6900,1060133916,0.0,0.0,179.2,513.6,0.0,0.0,692.8,hcp,bayer
+Sara Manzocchi,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1211,40747726,0.0,0.0,0.0,724.64,0.0,0.0,724.64,hcp,bayer
+Daniel Marth,Bern,CH,Zeughausgasse 18,3011,40530921,0.0,0.0,0.0,788.2,0.0,0.0,788.2,hcp,bayer
+Dominik Marti,Basel,CH,Rütimeyerplatz 9,4054,40539253,0.0,0.0,124.65,960.0,0.0,0.0,1084.65,hcp,bayer
+Philipp Martin,Allschwil,CH,Baslerstrasse 96,4123,40539130,0.0,0.0,125.35,744.65,0.0,0.0,870.0,hcp,bayer
+Valérie Mathys,Chêne-Bougeries,CH,Chemin des Grangettes 7,1224,1059717120,0.0,0.0,413.35,347.75,0.0,0.0,761.1,hcp,bayer
+Michel Matter,Genève,CH,Rue Pierre-Fatio 15,1204,40540194,0.0,0.0,228.0,752.65,0.0,0.0,980.65,hcp,bayer
+Heinrich Mattle,Bern,CH,Freiburgstrasse 18,3010,40539815,0.0,0.0,0.0,0.0,1590.0,0.0,1590.0,hcp,bayer
+Maria Mavromati,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,40740318,0.0,0.0,0.0,0.0,1700.0,0.0,1700.0,hcp,bayer
+Natalija Mayer,Luzern,CH,Zürichstrasse 5,6004,40704393,0.0,0.0,330.65,584.0,0.0,0.0,914.65,hcp,bayer
+Grégoire Mayor,Neuchâtel,CH,Rue de la Maladière 45,2000,40719451,0.0,0.0,470.65,950.95,0.0,0.0,1421.6,hcp,bayer
+Eric Meicher,Sion,CH,Rue du Scex 2,1950,1053085623,0.0,0.0,453.35,903.0,0.0,0.0,1356.35,hcp,bayer
+Bernhard Meier,Bern,CH,Freiburgstrasse 4,3010,40539800,0.0,0.0,0.0,0.0,4045.0,0.0,4045.0,hcp,bayer
+Niklaus Meier,Bern,CH,Freiburgstrasse 18,3010,1051601312,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0,hcp,bayer
+Gesine Meili,Uster,CH,Uster West 32,8610,40758381,0.0,0.0,252.0,481.85,0.0,0.0,733.85,hcp,bayer
+Alexandre Meiltz,Estavayer-le-Lac,CH,Avenue de la Gare 111,1470,40540693,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Thierry Merminod,Nyon,CH,Avenue Viollier 8,1260,40710424,0.0,0.0,280.0,725.15,600.0,0.0,1605.15,hcp,bayer
+Sara Meyer,Basel,CH,Petersgraben 4,4031,1065527690,0.0,0.0,0.0,1535.0,0.0,0.0,1535.0,hcp,bayer
+Christine Meyer Egli,Neuchâtel,CH,Rue du Musée 9,2000,40539414,0.0,0.0,-150.0,387.98,0.0,0.0,237.98,hcp,bayer
+Fabrice Mezino,Bouveret,CH,Chemin Du Clous 21,1897,1051545714,0.0,0.0,0.0,681.8,600.0,0.0,1281.8,hcp,bayer
+Marlène Michel,Chêne-Bougeries,CH,Chemin des Grangettes 7,1224,1051948966,0.0,0.0,413.35,461.1,0.0,0.0,874.45,hcp,bayer
+Raymond Miralbell,Genève,CH,Avenue de la Roseraie 53,1205,40711202,0.0,0.0,0.0,0.0,1193.19,871.29,2064.48,hcp,bayer
+Stéphane Mock,Nyon,CH,La Levratte 26,1260,40540659,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Claudius Möckel,Schaffhausen,CH,Rietstrasse 30,8200,40755465,0.0,0.0,403.35,626.0,0.0,0.0,1029.35,hcp,bayer
+Christian Monnerat,Delémont,CH,Faubourg des Capucins 30,2800,40758088,0.0,0.0,0.0,888.89,0.0,0.0,888.89,hcp,bayer
+Vincent Morard,Buix,CH,Chemin du Mont-Renaud 12k,2925,40540741,0.0,0.0,72.0,573.3,0.0,0.0,645.3,hcp,bayer
+Laurent Morel,Bulle,CH,Avenue de la Gare 3,1630,40740938,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,bayer
+Giorgio Moschovitis,Lugano,CH,Via Tesserete 46,6900,40535234,0.0,0.0,498.0,988.43,0.0,0.0,1486.43,hcp,bayer
+Jiri Moucka,Basel,CH,Steinenvorstadt 26,4051,40540345,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Armand Movaffaghy,Lausanne,CH,Rue de Langallerie 11,1003,40525136,0.0,0.0,312.0,537.35,0.0,0.0,849.35,hcp,bayer
+Said Mroue,Genève,CH,Rue Des Glacis-de-rive 21,1207,40541422,0.0,0.0,-150.0,286.65,0.0,0.0,136.65,hcp,bayer
+Joachim Müller,St. Gallen,CH,Rorschacherstrasse 95,9007,1051392537,0.0,0.0,327.25,564.75,0.0,0.0,892.0,hcp,bayer
+Marion Munk,Bern,CH,Freiburgstrasse 18,3010,1051664154,0.0,0.0,533.35,2715.35,0.0,0.0,3248.7,hcp,bayer
+Claude-Alain Nacht,Gland,CH,La Lignière 5,1196,40747688,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Michael Nagler,Bern,CH,Freiburgstrasse 18,3010,40743559,0.0,0.0,410.0,1659.41,0.0,0.0,2069.41,hcp,bayer
+Veronika Nagy,Winterthur,CH,Brauerstrasse 15,8400,40755691,0.0,0.0,286.0,428.05,0.0,0.0,714.05,hcp,bayer
+Mehdi Namdar,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1211,40719870,0.0,0.0,0.0,0.0,5500.0,425.8,5925.8,hcp,bayer
+Iris Neumann,Chur,CH,Alexanderstrasse 16,7000,40725771,0.0,0.0,176.0,571.6,0.0,0.0,747.6,hcp,bayer
+Lan Nguyen Brunschwiler,Lausanne,CH,Rue Du Maupas 6,1004,1052796093,0.0,0.0,538.57,700.15,0.0,0.0,1238.72,hcp,bayer
+Vessela Nikolaidis-Dimitrova,Sempach Station,CH,Bahnhofstrasse 19A,6203,40523442,0.0,0.0,1003.92,1435.4,0.0,0.0,2439.32,hcp,bayer
+Daniel Nobel,Wil SG,CH,Fürstenlandstrasse 32,9500,40539918,0.0,0.0,740.0,1222.24,700.0,0.0,2662.24,hcp,bayer
+Florian Otto,St. Gallen,CH,Rorschacherstrasse 150,9006,40709420,0.0,0.0,400.65,1039.21,0.0,0.0,1439.86,hcp,bayer
+Gaetano Paone,Bellinzona,CH,Via Ospedale,6500,1051688815,0.0,0.0,384.65,453.1,0.0,0.0,837.75,hcp,bayer
+Ulrike Pape,Baden,CH,Bahnhofstrasse 40,5400,40540837,0.0,0.0,0.0,460.0,0.0,0.0,460.0,hcp,bayer
+Céline Pasche,Onex,CH,Route de Chancy 98,1213,1063895247,0.0,0.0,340.0,681.35,0.0,0.0,1021.35,hcp,bayer
+Tobias Pauli,Basel,CH,Centralbahnstrasse 20,4051,40749784,0.0,0.0,842.65,9629.7,0.0,0.0,10472.35,hcp,bayer
+Florian Pederiva,Zürich,CH,Birmensdorferstrasse 497,8063,1060322875,0.0,0.0,1253.3,1164.5,0.0,0.0,2417.8,hcp,bayer
+Giovanni Battista Pedrazzini,Lugano,CH,Via Tesserete 48,6900,1051415245,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,bayer
+Cyril Pellaton,Neuchâtel,CH,Rue de la Maladière 45,2000,40762837,0.0,0.0,568.65,862.68,0.0,0.0,1431.33,hcp,bayer
+Daniel Périat,Basel,CH,Kleinriehenstrasse 30,4058,40763331,0.0,0.0,0.0,573.05,0.0,0.0,573.05,hcp,bayer
+Heike Petersen,Frauenfeld,CH,Oberstadtstrasse 4,8500,40753057,0.0,0.0,351.35,804.0,0.0,0.0,1155.35,hcp,bayer
+Ioannis Petropoulos,Genève,CH,Rue Pierre-Fatio 15,1204,40540196,0.0,0.0,934.65,7090.65,0.0,0.0,8025.3,hcp,bayer
+Maria Petrus,Zürich,CH,Höschgasse 50,8008,40706312,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Annette Peyer Kuhn,Luzern,CH,Sankt Annastrasse 32,6006,40757394,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Christina Pfefferkorn,Basel,CH,Pfluggässlein 1,4001,40743441,0.0,0.0,-150.0,300.6,0.0,0.0,150.6,hcp,bayer
+Riccardo Pin,Lugano,CH,Via Moncucco 10,6900,40759026,0.0,0.0,390.65,1233.59,0.0,0.0,1624.24,hcp,bayer
+Leonidas Politoff,Vevey,CH,Rue du Collège 3,1800,40536043,0.0,0.0,188.65,495.55,0.0,0.0,684.2,hcp,bayer
+Christian Polli,Lugano,CH,Via Tesserete 46,6900,40705295,0.0,0.0,252.0,634.85,1375.0,0.0,2261.85,hcp,bayer
+Daniel Preisig,Subingen,CH,Luzernstrasse 30,4553,1063895226,0.0,0.0,0.0,0.0,550.0,0.0,550.0,hcp,bayer
+Jérôme Pugin,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,40720391,0.0,0.0,0.0,0.0,267.63,0.0,267.63,hcp,bayer
+Sven Reek,Aarau,CH,Rain 34,5000,40540520,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hcp,bayer
+François Régoli,Lugano,CH,Via Tesserete 48,6900,40735679,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,bayer
+Susanne Reichert,Bülach,CH,Zürichstrasse 5,8180,40538972,0.0,0.0,408.65,626.0,0.0,0.0,1034.65,hcp,bayer
+Charles-Alphonse Reynard,Sion,CH,Avenue de la Gare 25,1950,40539774,0.0,0.0,0.0,0.0,4000.0,0.0,4000.0,hcp,bayer
+Michael Richter,Pfäffikon SZ,CH,Bahnhofstrasse 13,8808,40540041,0.0,0.0,85.35,472.0,700.0,0.0,1257.35,hcp,bayer
+Felix Riether,Riggisberg,CH,Eyweg 2,3132,1051937631,0.0,0.0,142.65,624.2,0.0,0.0,766.85,hcp,bayer
+Michel Romanens,Olten,CH,Ziegelfeldstrasse 1,4600,40745276,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Corina Röscheisen-Weich,Zürich,CH,Beethovenstrasse 43,8002,40726024,0.0,0.0,642.7,1738.0,0.0,0.0,2380.7,hcp,bayer
+Daniel Martin Rüegg,Bern,CH,Bottigenstrasse 6,3018,40745236,0.0,0.0,853.35,1032.65,0.0,0.0,1886.0,hcp,bayer
+Ilka Rüsges-Wolter,Bern,CH,Bremgartenstrasse 117,3012,40540789,0.0,0.0,213.35,432.65,0.0,0.0,646.0,hcp,bayer
+Mathis Rutsch,Pfäffikon ZH,CH,Frohwiesstrasse 24,8330,40752773,0.0,0.0,538.57,739.8,0.0,0.0,1278.37,hcp,bayer
+Mehmet Ates Sahin,Onex,CH,Route de Chancy 98,1213,1060442419,0.0,0.0,583.35,1036.65,0.0,0.0,1620.0,hcp,bayer
+Irène Sandmeier,St. Moritz,CH,Plazza Paracelsus 2,7500,40530074,0.0,0.0,538.57,739.8,0.0,0.0,1278.37,hcp,bayer
+Gian-Marco Sarra,Burgdorf,CH,Poststrasse 9,3400,40760071,0.0,0.0,620.7,3325.0,0.0,0.0,3945.7,hcp,bayer
+Verena Sattinger,Lugano,CH,Via Trevano 38,6900,40705694,0.0,0.0,128.65,692.55,750.0,0.0,1571.2,hcp,bayer
+Thomas Sauter,Bern,CH,Waisenhausplatz 21,3011,40530890,0.0,0.0,0.0,151.65,0.0,0.0,151.65,hcp,bayer
+Milos Savcic,Lausanne,CH,Avenue de Savoie 10,1003,40540148,0.0,0.0,394.65,688.0,700.0,0.0,1782.65,hcp,bayer
+Erika Schäfer,Waltenschwil,CH,Bremgarterstrasse 15,5622,40734313,0.0,0.0,86.0,261.0,0.0,0.0,347.0,hcp,bayer
+Stefan Schäfer,Waltenschwil,CH,Bremgarterstrasse 15,5622,40734308,0.0,0.0,0.0,261.0,0.0,0.0,261.0,hcp,bayer
+Uta Schär,Kreuzlingen,CH,Klosterhofstrasse 1,8280,40532784,0.0,0.0,465.35,695.6,0.0,0.0,1160.95,hcp,bayer
+Hubert Schefer,Luzern,CH,Sankt Annastrasse 32,6006,40540891,0.0,0.0,399.35,853.21,0.0,0.0,1252.56,hcp,bayer
+Bettina Schmid,Zürich,CH,Forchstrasse 340,8008,1053178746,0.0,0.0,228.0,628.0,0.0,0.0,856.0,hcp,bayer
+Hans-Peter Schmid,Frauenfeld,CH,Bahnhofstrasse 61,8500,40758498,0.0,0.0,64.0,743.35,0.0,0.0,807.35,hcp,bayer
+Petra Schmid,Rheinfelden,CH,Kaiserstrasse 8,4310,40540438,0.0,0.0,397.35,904.54,0.0,0.0,1301.89,hcp,bayer
+Christian Marc Schmied,Zürich,CH,Rämistrasse 100,8091,40736202,0.0,0.0,0.0,211.35,2400.0,372.0,2983.35,hcp,bayer
+Silvia Schnabler,Zürich,CH,Forchstrasse 340,8008,1053198511,0.0,0.0,228.0,628.0,0.0,0.0,856.0,hcp,bayer
+Ingrid Schneider,Luzern,CH,Winkelriedstrasse 35,6003,40523479,0.0,0.0,538.57,538.4,0.0,0.0,1076.97,hcp,bayer
+Robert Schneider,Thun,CH,Bahnhofstrasse 1,3600,40541166,0.0,0.0,173.35,840.6,700.0,0.0,1713.95,hcp,bayer
+Carmen Schneiders,Bellinzona,CH,Via Ospedale,6500,1057314628,0.0,0.0,784.0,735.7,0.0,0.0,1519.7,hcp,bayer
+Arnaud Schnitzler,Morges,CH,Rue de la Gare 6,1110,1060122073,0.0,0.0,208.65,236.0,0.0,0.0,444.65,hcp,bayer
+Franziska Schober,Uster,CH,Brunnenstrasse 42,8610,40760677,0.0,0.0,527.2,1477.09,0.0,0.0,2004.29,hcp,bayer
+Peter Philipp Schöneborn,Zürich,CH,Holbeinstrasse 25,8008,40751925,0.0,0.0,1591.35,11657.75,0.0,0.0,13249.1,hcp,bayer
+Marcus Klaus Charles Schories,Basel,CH,Gellertstrasse 142,4052,40541204,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,bayer
+Alexander Schreiber,Aarau,CH,Tellstrasse 25,5001,40724155,0.0,0.0,0.0,788.37,0.0,0.0,788.37,hcp,bayer
+Sarah Schuler,Winterthur,CH,Brauerstrasse 15,8400,1051547767,0.0,0.0,113.35,2108.35,0.0,0.0,2221.7,hcp,bayer
+Anette Schumacher,Schaffhausen,CH,Geissbergstrasse 81,8208,40763193,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0,hcp,bayer
+Natalie Schüpbach,Bern,CH,Schönburgstrasse 19,3013,40754882,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Roger Schwab,Biel/Bienne,CH,Unterer Quai 92,2502,40539243,0.0,0.0,0.0,151.65,0.0,0.0,151.65,hcp,bayer
+Birgit Schwacha-Eipper,Bern,CH,Freiburgstrasse 4,3010,1055457063,0.0,0.0,0.0,1101.55,0.0,0.0,1101.55,hcp,bayer
+Markus Schwendinger,Baden,CH,Im Ergel 1,5404,40703983,0.0,0.0,412.65,1233.24,0.0,0.0,1645.89,hcp,bayer
+Ann-Katrin Cynthia Seidel,Winterthur,CH,Brauerstrasse 15,8400,1052327618,0.0,0.0,307.2,1253.46,0.0,0.0,1560.66,hcp,bayer
+Flavio Sepulcri,Luzern,CH,Fanghöfli 14,6014,40523169,0.0,0.0,0.0,626.0,0.0,0.0,626.0,hcp,bayer
+Guillaume Sérafini,Morges,CH,Rue de la Gare 6,1110,1053216243,0.0,0.0,208.65,236.0,0.0,0.0,444.65,hcp,bayer
+Jacques Seydoux,Delémont,CH,Rue de L'Avenir 2,2800,40537236,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,bayer
+Stefan Siebert,Zürich,CH,Seestrasse 220,8027,1053055062,0.0,0.0,996.65,1093.15,0.0,0.0,2089.8,hcp,bayer
+Jan Signorell,Chur,CH,Gürtelstrasse 46,7000,40761487,0.0,0.0,403.35,977.08,0.0,0.0,1380.43,hcp,bayer
+Hans-Peter Simmen,Zürich,CH,Rämisstr. 100,8091,40539836,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,bayer
+Filippo Simona,Muralto,CH,Via della Stazione 9,6600,40725367,0.0,0.0,0.0,0.0,850.0,0.0,850.0,hcp,bayer
+Ajit Andreas Singh,Zürich,CH,Stadelhoferstrasse 8,8001,40764086,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Gabor Mark Somfai,Olten,CH,Louis Giroud-Strasse 20,4600,1053073461,0.0,0.0,200.65,1546.65,0.0,0.0,1747.3,hcp,bayer
+Marc Stahel,Zürich,CH,Frauenklinikstrasse 24,8091,40541317,0.0,0.0,351.35,845.35,0.0,0.0,1196.7,hcp,bayer
+Rolf A. Stahel,Zürich,CH,Rämistrasse 100,8091,40757706,0.0,0.0,0.0,0.0,600.69,0.0,600.69,hcp,bayer
+Nicolas Stalder,Sion,CH,Avenue de Tourbillon 36c,1950,40539777,0.0,0.0,464.65,708.0,0.0,0.0,1172.65,hcp,bayer
+Simon Fabian Stämpfli,Zürich,CH,Rämistrasse 100,8091,40706596,0.0,0.0,387.35,1080.59,0.0,0.0,1467.94,hcp,bayer
+Jan Steffel,Zürich,CH,Rämistrasse 100,8091,40539850,0.0,0.0,0.0,0.0,7042.1,0.0,7042.1,hcp,bayer
+Christian Steffen,Lachen SZ,CH,Oberdorfstrasse 41,8853,40728441,0.0,0.0,0.0,613.05,0.0,0.0,613.05,hcp,bayer
+Andreas Steiner,Küsnacht ZH,CH,Alte Landstrasse 158,8700,40522175,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Marco Steiner,Luzern,CH,Mühlenplatz 6,6004,40517502,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Georg Steinfurth,Schleitheim,CH,Im Morgen 1,8226,1059643645,0.0,0.0,0.0,0.0,2307.35,179.97,2487.33,hcp,bayer
+Jean-Marc Steity,La Tour-de-Peilz,CH,Grand-Rue 2,1814,40741100,0.0,0.0,592.0,869.0,0.0,0.0,1461.0,hcp,bayer
+Chryssoula Stelios,Bulle,CH,Chemin Des Préalpes 16,1630,1051546714,0.0,0.0,72.0,504.0,0.0,0.0,576.0,hcp,bayer
+Ulrich Sternkopf,Heimberg,CH,Stationsweg 7,3627,1052874500,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Christian Sticherling,Basel,CH,Petersgraben 4,4031,40723363,0.0,0.0,0.0,1019.43,0.0,0.0,1019.43,hcp,bayer
+Brigitte Stieger,Olten,CH,Baslerstrasse 150,4600,40733640,0.0,0.0,360.0,159.2,0.0,0.0,519.2,hcp,bayer
+Bernhard Stolz,Düdingen,CH,Bahnhofplatz 2A,3186,40732696,0.0,0.0,400.0,1164.5,0.0,0.0,1564.5,hcp,bayer
+Markus Streich,Ortschwaben,CH,Olympiaweg 1,3042,40519933,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Alfons Studer,Riedholz,CH,Sonnenrainstrasse 1,4533,40534469,0.0,0.0,0.0,307.4,0.0,0.0,307.4,hcp,bayer
+Martin Sykora,Stans,CH,Ennetmooserstrasse 19,6370,40760641,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,bayer
+Jürg Alex Taeschler,Chur,CH,Grabenstrasse 9,7000,40535033,0.0,0.0,0.0,582.4,0.0,0.0,582.4,hcp,bayer
+Elisabeth Tanner,Glarus,CH,Bärengasse 1,8750,40516702,0.0,0.0,538.57,668.8,0.0,0.0,1207.37,hcp,bayer
+Marianne Terrettaz,Martigny,CH,Avenue de la Gare 17,1920,40710763,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Reto Thalmann,Bern,CH,Buchserstrasse 26,3006,40759220,0.0,0.0,675.35,504.0,0.0,0.0,1179.35,hcp,bayer
+Antonia Thieme,St. Gallen,CH,Rorschacher Strasse 95,9007,1053044482,0.0,0.0,235.35,252.65,0.0,0.0,488.0,hcp,bayer
+Daniel Tobler,Basel,CH,Lange Gasse 78,4052,40539924,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Christian Toso,Genève,CH,Rue Gabrielle Perret-Gentil 4,1211,40739583,0.0,0.0,373.35,0.0,0.0,0.0,373.35,hcp,bayer
+Oliver Tschopp,Zürich,CH,Rämistrasse 100,8091,40752190,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,bayer
+Birgit Tylla,Niederuzwil,CH,Raiffeisenplatz 2,9244,40533667,0.0,0.0,-150.0,361.9,0.0,0.0,211.9,hcp,bayer
+Kiril Tzvetanov,Sierre,CH,Avenue du Général-Guisan 12,3960,40759545,0.0,0.0,315.35,457.3,600.0,0.0,1372.65,hcp,bayer
+Mark Uhlmann,Köniz,CH,Schwarzenburgstrasse 293,3098,40757247,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer
+Matthias Umbricht,Winterthur,CH,Stadthausstrasse 45,8400,40537945,0.0,0.0,306.0,428.05,0.0,0.0,734.05,hcp,bayer
+Julius Unrau,Rorschach,CH,Marktplatz 9,9400,40708849,0.0,0.0,404.65,604.0,0.0,0.0,1008.65,hcp,bayer
+Kornel Varga,Liestal,CH,Oristalstrasse 47,4410,40540447,0.0,0.0,538.57,154.65,0.0,0.0,693.22,hcp,bayer
+Serap Vatandaslar,Baden,CH,Im Ergel 1,5404,1055271878,0.0,0.0,400.0,323.9,0.0,0.0,723.9,hcp,bayer
+Massimo Vignanelli,Lugano,CH,Via Trevano 38,6900,40541034,0.0,0.0,566.65,5853.35,750.0,0.0,7170.0,hcp,bayer
+Peter Villiger,Chur,CH,Loestrasse 170,7000,40535056,0.0,0.0,380.15,360.0,0.0,0.0,740.15,hcp,bayer
+Jean Joseph Vogel,Sierre,CH,Avenue de la Gare 3,3960,40539650,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,bayer
+Nicolas Xavier Von Der Weid,Basel,CH,Spitalstrasse 33,4056,40758753,0.0,0.0,448.65,5395.65,0.0,0.0,5844.3,hcp,bayer
+Stephanie Von Weydlich,Winterthur,CH,Brauerstrasse 15,8400,1056568211,0.0,0.0,394.4,513.6,0.0,0.0,908.0,hcp,bayer
+Frank Vonmoos,Basel,CH,Centralbahnstrasse 20,4051,40525537,0.0,0.0,130.0,497.05,0.0,0.0,627.05,hcp,bayer
+Pierre Vulliemin,Monthey,CH,Avenue de la Gare 24,1870,40763927,0.0,0.0,394.65,703.3,0.0,0.0,1097.95,hcp,bayer
+Peter Wälchli,Meiringen,CH,Spitalstrasse 13,3860,40749687,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Dieter Wallmann,Burgdorf,CH,Oberburgstrasse 54,3400,40763114,0.0,0.0,384.65,1232.24,0.0,0.0,1616.89,hcp,bayer
+Daniel Walser,Münsterlingen,CH,Spitalcampus 1,8596,40757634,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,bayer
+Frank Walther,Bern,CH,Schänzlihalde 11,3013,40540812,0.0,0.0,656.65,894.05,0.0,0.0,1550.7,hcp,bayer
+Julian Wampfler,Bern,CH,Freiburgstrasse 18,3010,1060197219,0.0,0.0,52.8,1221.84,0.0,0.0,1274.64,hcp,bayer
+Marco Waser,Luzern,CH,Obergrundstrasse 88,6005,40517509,0.0,0.0,0.0,257.15,0.0,0.0,257.15,hcp,bayer
+Helmut Wehr,Degersheim,CH,Hauptstrasse 69,9113,1052897945,0.0,0.0,142.0,1046.0,0.0,0.0,1188.0,hcp,bayer
+Andrea Wenkstern,Uzwil,CH,Bahnhofstrasse 83b,9240,40533705,0.0,0.0,263.35,1228.0,0.0,0.0,1491.35,hcp,bayer
+Jens Uwe Westphal,Geuensee,CH,Postmatte 4,6232,40517773,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Tobias Wettstein,Zürich,CH,Birmensdorferstrasse 467,8055,40752708,0.0,0.0,393.35,1204.24,0.0,0.0,1597.59,hcp,bayer
+Samuel Widmer,Luzern,CH,Spitalstrasse,6000,1059926408,0.0,0.0,92.65,845.0,0.0,0.0,937.65,hcp,bayer
+Torsten Willenberg,Bern,CH,Kramgasse 16,3011,1052330025,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Angela Wolf,Basel,CH,Kleinriehenstrasse 30,4058,40757577,0.0,0.0,304.0,296.9,0.0,0.0,600.9,hcp,bayer
+Sibylle Wolleb,Uster,CH,Brunnenstrasse 42,8610,40759684,0.0,0.0,201.35,653.3,0.0,0.0,854.65,hcp,bayer
+Antje Wollenberg,Bülach,CH,Spitalstrasse 24,8180,1051547422,0.0,0.0,465.35,695.6,0.0,0.0,1160.95,hcp,bayer
+Anja Ursula Wyss,Sursee,CH,Spitalstrasse 16a,6210,1057304956,0.0,0.0,239.0,328.0,0.0,0.0,567.0,hcp,bayer
+Andreas Z'brun,Bern,CH,Bubenbergplatz 11,3011,40540797,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Chiara Zecca,Lugano,CH,Via Tesserete 46,6900,40705472,0.0,0.0,0.0,0.0,2244.02,593.25,2837.27,hcp,bayer
+Thomas Zehnder,Thun,CH,Krankenhausstrasse 12,3600,40539644,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Jakob Zeller,Reinach AG,CH,Floraweg 3,5734,40523096,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer
+Matthias Zimmermann,Zürich,CH,Birmensdorferstrasse 497,8063,40761195,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer
+Katja Zirlik,Chur,CH,Masanserstrasse 2,7000,1053409242,0.0,0.0,130.0,400.0,0.0,0.0,530.0,hcp,bayer
+Irena Zivanovic,Baar,CH,Landhausstrasse 11,6340,40763887,0.0,0.0,-150.0,361.9,0.0,0.0,211.9,hcp,bayer
+Michael Alois Zoller,Chur,CH,Loestrasse 170,7000,40705706,0.0,0.0,329.35,899.1,0.0,0.0,1228.45,hcp,bayer

@@ -1,6 +1,6 @@
-type;donations_grants;sponsorship;registration_fees;travel_accommodation;fees;related_expenses;total;source
-hcp_amount;;;8988.21;87.12;22454.48;1451.96;32981.77;celgene
-hco_amount;0.0;0.0;0.0;0.0;0.0;0.0;0.0;celgene
-hcp_count;;;11.0;11.0;13.0;4.0;20.0;celgene
-hco_count;0.0;0.0;0.0;0.0;0.0;0.0;0.0;celgene
-rnd;;;;;;;1275895.49;celgene
+type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
+hcp_amount,,,8988.21,87.12,22454.48,1451.96,32981.77,celgene
+hco_amount,0.0,0.0,0.0,0.0,0.0,0.0,0.0,celgene
+hcp_count,,,11.0,11.0,13.0,4.0,20.0,celgene
+hco_count,0.0,0.0,0.0,0.0,0.0,0.0,0.0,celgene
+rnd,,,,,,,1275895.49,celgene

@@ -1,2195 +1,2195 @@
-name;location;country;address;plz;uci;donations_grants;sponsorship;registration_fees;travel_accommodation;fees;related_expenses;total;type;source
-Aapro Matti;Genolier;CH;"Clinique de
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Aapro Matti,Genolier,CH,"Clinique de
 Genolier Medizin
 Onkologie,
-Route du Muids 3";;;0;0;0;0;10815.07;1271.39;12086.46;hcp;novartis
-Abeidi Hamdi;Sierre;CH;"Centre Medical
+Route du Muids 3",,,0,0,0,0,10815.07,1271.39,12086.46,hcp,novartis
+Abeidi Hamdi,Sierre,CH,"Centre Medical
 illhorn, Route
-de Sion 31";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Albert Monika;Baden;CH;"Kantonsspital
+de Sion 31",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Albert Monika,Baden,CH,"Kantonsspital
 Baden AG Medizin
 Neurologie, Im
-Ergel 1";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Alfare Christian;Uster;CH;"Spital Uster
+Ergel 1",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Alfare Christian,Uster,CH,"Spital Uster
 Medizin
 Pneumologie,
 Brunnenstrasse
-42";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Allaf Bachir;Court;CH;"Cabinet Bachir
+42",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Allaf Bachir,Court,CH,"Cabinet Bachir
 Allaf, Rue des
-Gorges 1";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Ammon Michael;Liestal;CH;"Praxis Michael
+Gorges 1",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Ammon Michael,Liestal,CH,"Praxis Michael
 Ammon,
 Kasernenstrasse
-22a";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+22a",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Am ram
-Marie-Laure";Onex;CH;"Clinique et
+Marie-Laure",Onex,CH,"Clinique et
 Permanence
 d'Onex SA,
 Route de Chancy
-98";;;0;0;0;0;500.00;0;500.00;hcp;novartis
-Anastasi Stefano;Bern;CH;"Praxis Stefano
+98",,,0,0,0,0,500.00,0,500.00,hcp,novartis
+Anastasi Stefano,Bern,CH,"Praxis Stefano
 Anastasi,
 Bremgartenstrass
-e 119";;;0;0;0;0;250.0;0;250.00;hcp;novartis
-Anrig Marcel;Balgach;CH;"Praxis Marcel
+e 119",,,0,0,0,0,250.0,0,250.00,hcp,novartis
+Anrig Marcel,Balgach,CH,"Praxis Marcel
 Anrig,
-Hauptstrasse 47";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Asmis Lars;Zürich;CH;"Praxis Lars
+Hauptstrasse 47",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Asmis Lars,Zürich,CH,"Praxis Lars
 Asmis,
 Seefeldstrasse
-224";;;0;0;0;0;1700.00;0;1700.00;hcp;novartis
+224",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
 "Aufdenblatten
-Myriam";Bern;CH;"Praxis Myriam
+Myriam",Bern,CH,"Praxis Myriam
 Aufdenblatten,
 Bremgartenstrass
-e 119";;;0;0;0;0;1050.00;0;1050.00;hcp;novartis
+e 119",,,0,0,0,0,1050.00,0,1050.00,hcp,novartis
 "Bacchetto
-Alfredo";Bern;CH;Postfach 515;;;0;0;0;0;1500.00;0;1500.00;hcp;novartis
-Bachmann Stefano;Endingen;CH;"Praxis Stefano
+Alfredo",Bern,CH,Postfach 515,,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
+Bachmann Stefano,Endingen,CH,"Praxis Stefano
 Bachmann,
-Semlistrasse 10";;;0;0;0;0;600.00;0;600.00;hcp;novartis
+Semlistrasse 10",,,0,0,0,0,600.00,0,600.00,hcp,novartis
 "Bagattini
-Michael";"Glattpark
-(Opfikon)";CH;"Arztpraxis
+Michael","Glattpark
+(Opfikon)",CH,"Arztpraxis
 Glattpark GmbH,
 Thurgauerstrasse
-106";;;0;0;0;0;625.00;0;625.00;hcp;novartis
-Balabanov Stefan;Zürich;CH;"Universitätsspit
+106",,,0,0,0,0,625.00,0,625.00,hcp,novartis
+Balabanov Stefan,Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Hämatologie,
-Rämistrasse 10O";;;0;0;0;0;4200.00;0;4200.00;hcp;novartis
+Rämistrasse 10O",,,0,0,0,0,4200.00,0,4200.00,hcp,novartis
 "Ballmer-Weber
-Barbara";St. Gallen;CH;"Kantonsspital
+Barbara",St. Gallen,CH,"Kantonsspital
 St. Gallen,
 Rorschacher
-Strasse 95";;;0;0;0;0;750.00;0;750.00;hcp;novartis
+Strasse 95",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 "Bandi-Ott
-Elisabeth";Zürich;CH;"Gruppenpraxis,
+Elisabeth",Zürich,CH,"Gruppenpraxis,
 Universitätstras
-se 100";;;0;0;170.00;398.00;0;0;568.00;hcp;novartis
+se 100",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
 "Barazzone
-Constance";Genfeve;CH;"Höpitaux
+Constance",Genfeve,CH,"Höpitaux
 Universitaires
 de Genfcve
 Kinderklinik,
 Rue Willy-Donz6
-6";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Bargetzi Mario;Aarau;CH;"Kantonsspital
+6",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Bargetzi Mario,Aarau,CH,"Kantonsspital
 Aarau AG Medizin
 Onkologie,
-Teilstrasse 25";;;0;0;0;0;1600.00;0;1600.00;hcp;novartis
-Barta Franziska;Zuoz;CH;"Praxis Franziska
+Teilstrasse 25",,,0,0,0,0,1600.00,0,1600.00,hcp,novartis
+Barta Franziska,Zuoz,CH,"Praxis Franziska
 Barta, Via
-Staziun 62A";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
-Basrai Daniel;Schaffhausen;CH;"Gruppenpraxis,
-Nordstrasse 30";;;0;0;0;0;400.00;0;400.00;hcp;novartis
-Battegay Edouard;Zürich;CH;"Universitätsspit
+Staziun 62A",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
+Basrai Daniel,Schaffhausen,CH,"Gruppenpraxis,
+Nordstrasse 30",,,0,0,0,0,400.00,0,400.00,hcp,novartis
+Battegay Edouard,Zürich,CH,"Universitätsspit
 al Zürich Innere
 Medizin,
-Rämistrasse 100";;;0;0;0;0;1500.00;0;1500.00;hcp;novartis
+Rämistrasse 100",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
 "Bättig Basil
-Albert";Zürich;CH;"Onkologiepraxis
+Albert",Zürich,CH,"Onkologiepraxis
 Bellevue,
 Stadelhoferstras
-se 42";;;0;0;0;0;1800.00;0;1800.00;hcp;novartis
-Baumann Christa;Bern;CH;"Prolindo
+se 42",,,0,0,0,0,1800.00,0,1800.00,hcp,novartis
+Baumann Christa,Bern,CH,"Prolindo
 Onkologie- und
 Hämatologie-Team
 t
 Bremgartenstrass
-e 117";;;0;0;666.67;480.00;0;0;1146.67;hcp;novartis
-Baumann Michael;St. Gallen;CH;"Zentrum für
+e 117",,,0,0,666.67,480.00,0,0,1146.67,hcp,novartis
+Baumann Michael,St. Gallen,CH,"Zentrum für
 Labormedizin
 Ambulatorium,
 Frohbergstrasse
-3";;;0;0;0;0;1700.00;0;1700.00;hcp;novartis
+3",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
 "Baumann Conzett
-Katrin";Luzern;CH;"Hautpraxis
+Katrin",Luzern,CH,"Hautpraxis
 Baumann und
 Steinmann,
-Kapellplatz 10";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
-Beauverd Yan;Genfcve;CH;"Höpitaux
+Kapellplatz 10",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
+Beauverd Yan,Genfcve,CH,"Höpitaux
 Universitaires
 de Genfeve
 Medizin
 Hämatologie,
 Rue
 Gabrielle-Perret
--Gentil 4";;;0;0;0;0;850.00;0;850.00;hcp;novartis
-Beer Karsten;Wil SG;CH;"Praxis Karsten
+-Gentil 4",,,0,0,0,0,850.00,0,850.00,hcp,novartis
+Beer Karsten,Wil SG,CH,"Praxis Karsten
 Beer, Obere
 Bahnhofstrasse
-49";;;0;0;0;0;1200.00;0;1200.00;hcp;novartis
-Bergner Michael;Langenthal;CH;"Praxis Michael
+49",,,0,0,0,0,1200.00,0,1200.00,hcp,novartis
+Bergner Michael,Langenthal,CH,"Praxis Michael
 Bergner,
 St.Urbanstrasse
-67";;;0;0;0;0;750.00;0;750.00;hcp;novartis
-Berkmann Sven;Aarau;CH;"Kantonsspital
+67",,,0,0,0,0,750.00,0,750.00,hcp,novartis
+Berkmann Sven,Aarau,CH,"Kantonsspital
 Aarau AG
 Chirurgie Neuro,
-Tellstrasse 25";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Berney 3ean-Yves;Genfcve;CH;"Cabinet de
+Tellstrasse 25",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Berney 3ean-Yves,Genfcve,CH,"Cabinet de
 groupe, Rue
 Henri-Christinö
-5";;;0;0;0;0;600.00;0;600.00;hcp;novartis
+5",,,0,0,0,0,600.00,0,600.00,hcp,novartis
 "Bernimoulin
-Michael";Carouge GE;CH;"Cabinet Michael
+Michael",Carouge GE,CH,"Cabinet Michael
 Bernimoulin,
 Avenue
 Cardinal-Mermill
-od l";;;0;0;0;0;1700.00;0;1700.00;hcp;novartis
-B6rub6 lean;Lugano;CH;"Studio medico.
-Via Maggio 13";;;0;0;610.00;686.00;0;0;1296.00;hcp;novartis
+od l",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
+B6rub6 lean,Lugano,CH,"Studio medico.
+Via Maggio 13",,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis
 "Bettschart
-Robert Walter";Aarau;CH;"Lungenpraxis
+Robert Walter",Aarau,CH,"Lungenpraxis
 Aarau,
-Schanzweg 7";;;0;0;0;0;750.00;0;750.00;hcp;novartis
+Schanzweg 7",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 "Betz Till
-Patrick";Münsterlingen;CH;"Kantonsspital
+Patrick",Münsterlingen,CH,"Kantonsspital
 Münsterlingen
 Medizin
 Neurologie,
-Spitalcampus 1";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Beyer lörg;Bern;CH;"Inselspital
+Spitalcampus 1",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Beyer lörg,Bern,CH,"Inselspital
 Bern,
 Insei-Gruppe AG
 Medizin
 Onkologie,
 Freiburgstrasse
-18";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+18",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Bifrare Tarin
-Delphine";Lutry;CH;"Cabinet Delphine
+Delphine",Lutry,CH,"Cabinet Delphine
 Bifrare Tarin,
-Grand-Rue 47";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Binder Thomas;Wettingen;CH;"Praxis Thomas
+Grand-Rue 47",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Binder Thomas,Wettingen,CH,"Praxis Thomas
 Binder,
-Etzelmatt 1";;;0;0;610.00;686.00;0;0;1296.00;hcp;novartis
-Blatter Annett;Ebnat-Kappel;CH;"Praxis Annett
+Etzelmatt 1",,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis
+Blatter Annett,Ebnat-Kappel,CH,"Praxis Annett
 Blatter,
 Kapplerstrasse
-32";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
+32",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
 "Blickenstorfer
-Daniel";Wädenswil;CH;"Gruppenpraxis,
-Fuhrstrasse 15";;;0;0;0;0;600.00;0;600.00;hcp;novartis
+Daniel",Wädenswil,CH,"Gruppenpraxis,
+Fuhrstrasse 15",,,0,0,0,0,600.00,0,600.00,hcp,novartis
 "Blickenstorfer
-Heinz";Dübendorf;CH;"Praxis Heinz
+Heinz",Dübendorf,CH,"Praxis Heinz
 Blickenstorfer,
-Adlerstrasse 1";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Bodmer Alexandre;Genfeve;CH;"Höpitaux
+Adlerstrasse 1",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Bodmer Alexandre,Genfeve,CH,"Höpitaux
 Universitaires
 de Genfeve
 Chirurgie
 Onko-Gynäkologie
 , Boulevard de
-la Cluse 30";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+la Cluse 30",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Boehncke
-Wolf-Henning";Geneve;CH;"Höpitaux
+Wolf-Henning",Geneve,CH,"Höpitaux
 Universitaires
 de Genfcve
 Dermatologische
 Klinik, Rue
 Gabrielle-Perret
--Gentil 4";;;0;0;0;0;9413.49;7397.61;16811.10;hcp;novartis
-Bolliger Barbara;St. Gallen;CH;"Tumor- und
+-Gentil 4",,,0,0,0,0,9413.49,7397.61,16811.10,hcp,novartis
+Bolliger Barbara,St. Gallen,CH,"Tumor- und
 Brustzentrum
 ZeTuP AG,
 Rorschacher
-Strasse 150";;;0;0;0;0;850.00;0;850.00;hcp;novartis
-Bomio Fulvio;Massagno;CH;"Studio medico.
+Strasse 150",,,0,0,0,0,850.00,0,850.00,hcp,novartis
+Bomio Fulvio,Massagno,CH,"Studio medico.
 Via Cabione la
 /via Madonna
-della Salute";;;0;0;0;0;1100.00;0;1100.00;hcp;novartis
-BÖnig Lutz;Frauenfeld;CH;"Neurologie am
+della Salute",,,0,0,0,0,1100.00,0,1100.00,hcp,novartis
+BÖnig Lutz,Frauenfeld,CH,"Neurologie am
 Rosenberg,
 Thundorferstrass
-e 120";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Bont Adriano;Winterthur;CH;"Neurowinterthur,
-Brunngasse 6";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+e 120",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Bont Adriano,Winterthur,CH,"Neurowinterthur,
+Brunngasse 6",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Both-Skalsky
-Jeannine";Stäfa;CH;"Praxis Deannine
+Jeannine",Stäfa,CH,"Praxis Deannine
 Both-Skalsky,
 Bahnhofstrasse
-22";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
-Bräutigam Andrea;Olten;CH;"Pallas Klinik
+22",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
+Bräutigam Andrea,Olten,CH,"Pallas Klinik
 Ophthalmologisch
 e Klinik, Louis
 Giroud-Strasse
-20";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+20",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Brazzola
-Pierluigi";Bellinzona;CH;"Ospedale
+Pierluigi",Bellinzona,CH,"Ospedale
 Regionale di
 Bellinzona e
 Valli
 Kinderklinik,
-Via Ospedale";;;0;0;0;0;250.00;0;250.00;hcp;novartis
+Via Ospedale",,,0,0,0,0,250.00,0,250.00,hcp,novartis
 "Breitenstein
-Alexander";Zürich;CH;"Universitätsspit
+Alexander",Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Kardiologie,
-Rämistrasse 100";;;0;0;0;0;1500.00;0;1500.00;hcp;novartis
-Brun Patrick;Heiligenschwendi;CH;"Berner Reha
+Rämistrasse 100",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
+Brun Patrick,Heiligenschwendi,CH,"Berner Reha
 Zentrum Medizin
 Pneumologie,
-Schwendi 299";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+Schwendi 299",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Brunckhorst
-Corinna";Zürich;CH;"Universitätsspit
+Corinna",Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Kardiologie,
-Rämistrasse 100";;;0;0;0;0;1500.00;0;1500.00;hcp;novartis
-Bühler Adrian;Spiez;CH;"Gruppenpraxis,
+Rämistrasse 100",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
+Bühler Adrian,Spiez,CH,"Gruppenpraxis,
 Oberlandstrasse
-7";;;0;0;0;0;1500.00;0;1500.00;hcp;novartis
-Bürdet Luc;Payerne;CH;"Höpital
+7",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
+Bürdet Luc,Payerne,CH,"Höpital
 intercantonal de
 la Broye (HIB)
 Medizin
 Pneumologie,
 Avenue de la
-Colline 3";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Burgan Saed;Genfeve;CH;"Cabinet de
+Colline 3",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Burgan Saed,Genfeve,CH,"Cabinet de
 groupe, Rue de
-Contamines 26";;;0;0;0;0;1550.00;0;1550.00;hcp;novartis
-Bürgin Stephan;Münchenstein;CH;"Praxis Stephan
+Contamines 26",,,0,0,0,0,1550.00,0,1550.00,hcp,novartis
+Bürgin Stephan,Münchenstein,CH,"Praxis Stephan
 Bürgin,
 Reinacherstrasse
-28";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Buser Marc;St. Gallen;CH;"Kantonsspital
+28",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Buser Marc,St. Gallen,CH,"Kantonsspital
 St. Gallen
 Medizin
 Kardiologie,
 Rorschacher
-Strasse 95";;;0;0;0;0;600.00;0;600.00;hcp;novartis
+Strasse 95",,,0,0,0,0,600.00,0,600.00,hcp,novartis
 "Busslinger
-Astrid";Schlieren;CH;"Gruppenpraxis,
-Zürcherstrasse 4";;;0;0;0;0;1200.00;0;1200.00;hcp;novartis
+Astrid",Schlieren,CH,"Gruppenpraxis,
+Zürcherstrasse 4",,,0,0,0,0,1200.00,0,1200.00,hcp,novartis
 "Calabrese
-Pasquale";Basel;CH;"University of
+Pasquale",Basel,CH,"University of
 Basel
-Birmannsgasse 8";;;0;0;0;0;2731.29;1120.78;3852.07;hcp;novartis
+Birmannsgasse 8",,,0,0,0,0,2731.29,1120.78,3852.07,hcp,novartis
 "Calderon!
-Antonello";Lugano;CH;"Oncologia, Via
-Fogazzaro 3";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Cantoni Nathan;Aarau;CH;"Kantonsspital
+Antonello",Lugano,CH,"Oncologia, Via
+Fogazzaro 3",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Cantoni Nathan,Aarau,CH,"Kantonsspital
 Aarau AG Medizin
 Onkologie,
-Teilstrasse 25";;;0;0;0;0;2975.00;0;2975.00;hcp;novartis
-Capraro Doel;Aarau;CH;"Kantonsspital
+Teilstrasse 25",,,0,0,0,0,2975.00,0,2975.00,hcp,novartis
+Capraro Doel,Aarau,CH,"Kantonsspital
 Aarau AG Medizin
 Endo/Diabetologi
 e, Tellstrasse
-25";;;0;0;0;0;1100.00;0;1100.00;hcp;novartis
+25",,,0,0,0,0,1100.00,0,1100.00,hcp,novartis
 "Cattin Yves
-Charles";B^vilard;CH;"Cabinet Yves
+Charles",B^vilard,CH,"Cabinet Yves
 Charles Cattin,
 Route de
-Champoz 9";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Champoz 9",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Chatsiproios
-Dimitrios";Kreuzlingen;CH;"Praxis Dimitrios
+Dimitrios",Kreuzlingen,CH,"Praxis Dimitrios
 Chatsiproios,
-Hauptstrasse 70";;;0;0.0;0;0;1600.00;0;1600.00;hcp;novartis
-Chauvet Sylvie;Meyrin;CH;"Centre Medical
+Hauptstrasse 70",,,0,0.0,0,0,1600.00,0,1600.00,hcp,novartis
+Chauvet Sylvie,Meyrin,CH,"Centre Medical
 de Meyrin CMM,
 Promenade des
-Artisans 24";;;0;0;0;0;1250.00;0;1250.00;hcp;novartis
+Artisans 24",,,0,0,0,0,1250.00,0,1250.00,hcp,novartis
 "Chätelat
-Claude-Andr£";Bern;CH;"Kardiologische
+Claude-Andr£",Bern,CH,"Kardiologische
 Praxis
 Kirchenfeld,
-Thunstrasse 2";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Thunstrasse 2",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Chevallier
-Stephane";"Yverdon-les-Bain
-s";CH;"Cabinet Stephane
+Stephane","Yverdon-les-Bain
+s",CH,"Cabinet Stephane
 Chevallier,
 Avenue Haldimand
-57";;;0;0;0;0;700.00;0;700.00;hcp;novartis
+57",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 "Choudja Ouabo
-Cäcile";Fribourg;CH;"HFR Fribourg -
+Cäcile",Fribourg,CH,"HFR Fribourg -
 Höpital cantonal
 Kinderklinik,
 Chemin des
-Pensionnats 2-6";;;0;0;0;0;2000.00;0;2000.00;hcp;novartis
-Cichon lacek;Bern;CH;"Praxis Dacek
+Pensionnats 2-6",,,0,0,0,0,2000.00,0,2000.00,hcp,novartis
+Cichon lacek,Bern,CH,"Praxis Dacek
 Cichon,
 Bubenbergplatz
-10";;;0;0;610.00;686.00;0;0;1296.00;hcp;novartis
-Ciurea Adrian;Zürich;CH;"Universitätsspit
+10",,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis
+Ciurea Adrian,Zürich,CH,"Universitätsspit
 al Zürich
 Rheumatologische
 Klinik,
-Gloriastrasse 25";;;0;0;0;0;1500.00;0;1500.00;hcp;novartis
+Gloriastrasse 25",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
 "Clarenbach
-Christian";Zürich;CH;"Universitätsspit
+Christian",Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Pneumologie,
-Rämistrasse 100";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+Rämistrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Compagnoni
-Sergio";Silvaplana;CH;"Xundheitszentrum
+Sergio",Silvaplana,CH,"Xundheitszentrum
 Silvaplana,
-Via Munterots 8";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
-Conrad Curdin;Pully;CH;Caudoz 48;;;0;0;0;0;7125.00;183.00;7308.00;hcp;novartis
+Via Munterots 8",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
+Conrad Curdin,Pully,CH,Caudoz 48,,,0,0,0,0,7125.00,183.00,7308.00,hcp,novartis
 "Conti
 Beltraminelli
-Marzia";Pregassona;CH;"Praxis Marzia
+Marzia",Pregassona,CH,"Praxis Marzia
 Conti
 Beltraminelli,
-Via alle Vigne 7";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Via alle Vigne 7",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Corne
-Dean-Claude";Genfeve;CH;"Centre
+Dean-Claude",Genfeve,CH,"Centre
 Ophtalmologique
 de Rive SA, Rue
-Pierre-Fatio 15";;;0;0;0;0;250.00;0;250.00;hcp;novartis
+Pierre-Fatio 15",,,0,0,0,0,250.00,0,250.00,hcp,novartis
 "Corti-Rezzonico
-Michela";Zürich;CH;"Hautpraxis,
-Gartenstrasse 23";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Cozzio Antonio;St. Gallen;CH;"Kantonsspital
+Michela",Zürich,CH,"Hautpraxis,
+Gartenstrasse 23",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Cozzio Antonio,St. Gallen,CH,"Kantonsspital
 St. Gallen
 Dermatologische
 Klinik,
 Rorschacher
-Strasse 95";;;0;0;0;0;2000.00;0;2000.00;hcp;novartis
+Strasse 95",,,0,0,0,0,2000.00,0,2000.00,hcp,novartis
 "Cunningham-Flory
-Elsbeth";Genfcve;CH;"Cabinet de
+Elsbeth",Genfcve,CH,"Cabinet de
 groupe, Quai
-Gustave-Ador 62";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Gustave-Ador 62",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Czell David
-Christopher";Uznach;CH;"Spital Linth
+Christopher",Uznach,CH,"Spital Linth
 Medizin
 Neurologie,
-Gasterstrasse 25";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Dame Jürgen;Kaltbrunn;CH;"Praxis Jürgen
+Gasterstrasse 25",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Dame Jürgen,Kaltbrunn,CH,"Praxis Jürgen
 Dame,
 Uznacherstrasse
-1";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
-Däppen Mark;Chur;CH;"Medizinisches
+1",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
+Däppen Mark,Chur,CH,"Medizinisches
 Zentrum gleis d,
 Gürtelstrasse
-46";;;0;0;0;0;1500.00;0;1500.00;hcp;novartis
-Dazzi Heidi;Dietikon;CH;"TUCARE Dietikon,
-Heimstrasse 1";;;0;0;0;0;850.00;0;850.00;hcp;novartis
-De Dosso Sara;Bellinzona;CH;"Ospedale
+46",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
+Dazzi Heidi,Dietikon,CH,"TUCARE Dietikon,
+Heimstrasse 1",,,0,0,0,0,850.00,0,850.00,hcp,novartis
+De Dosso Sara,Bellinzona,CH,"Ospedale
 Regionale di
 Bellinzona e
 Valli Medizin
 Onkologie, Via
-Ospedale";;;0;0;0;0;1400.00;0;1400.00;hcp;novartis
-Dedes Konstantin;Zürich;CH;"Universitätsspit
+Ospedale",,,0,0,0,0,1400.00,0,1400.00,hcp,novartis
+Dedes Konstantin,Zürich,CH,"Universitätsspit
 al Zürich
 Gynäkologische
 Klinik,
 Frauenklinikstra
-sse 10";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Delmore Geoffrey;Frauenfeld;CH;"Kantonsspital
+sse 10",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Delmore Geoffrey,Frauenfeld,CH,"Kantonsspital
 Frauenfeld
 Medizin
 Onkologie,
 Pfaffenholzstras
-se 4";;;0;0;0;0;850.00;0;850.00;hcp;novartis
-Delmotte Nuschin;Murten;CH;"Augenzentrum
+se 4",,,0,0,0,0,850.00,0,850.00,hcp,novartis
+Delmotte Nuschin,Murten,CH,"Augenzentrum
 MurtenSEH,
 Engelhardstrasse
-2a";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+2a",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Desmangles
-Philippe-Michel";Genfeve;CH;"Centre
+Philippe-Michel",Genfeve,CH,"Centre
 Ophtalmologique
 de Rive SA, Rue
-Pierre-Fatio 15";;;0;0;0;0;250.00;0;250.00;hcp;novartis
+Pierre-Fatio 15",,,0,0,0,0,250.00,0,250.00,hcp,novartis
 "Di Valentino
-Marcello";Bellinzona;CH;"Ospedale
+Marcello",Bellinzona,CH,"Ospedale
 Regionale di
 Bellinzona e
 Valli Medizin
 Kardiologie,
-Via Ospedale";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Via Ospedale",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Dieterle
-Alexander";Birsfelden;CH;"Praxis Alexander
+Alexander",Birsfelden,CH,"Praxis Alexander
 Dieterle,
-Hauptstrasse 70";;;0;0;0;0;850.00;0;850.00;hcp;novartis
-Dill Patricia;Basel;CH;"Universitäts-Kin
+Hauptstrasse 70",,,0,0,0,0,850.00,0,850.00,hcp,novartis
+Dill Patricia,Basel,CH,"Universitäts-Kin
 derspital (UKBB)
 Neuropädiatrie,
 Spitalstrasse
-33";;;0;0;0;0;1400.00;0;1400.00;hcp;novartis
+33",,,0,0,0,0,1400.00,0,1400.00,hcp,novartis
 "Dirnhofer
-Stephan";Basel;CH;"Universitätsspit
+Stephan",Basel,CH,"Universitätsspit
 al Basel
 Pathologie,
 Schönbeinstrasse
-40";;;0;0;0;0;1500.00;0;1500.00;hcp;novartis
+40",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
 "Doggweiler
-Regula Erna";Zürich;CH;"KontinenzZentrum
+Regula Erna",Zürich,CH,"KontinenzZentrum
 Hirslanden,
 Witellikerstrass
-e 46";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Donati Filippo;Biel/Bienne;CH;"Memory Clinic
+e 46",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Donati Filippo,Biel/Bienne,CH,"Memory Clinic
 Biel-Seeland,
-Unionsgasse 14";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Donati Guy;Genfeve;CH;"Cabinet Guy
+Unionsgasse 14",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Donati Guy,Genfeve,CH,"Cabinet Guy
 Donati, Avenue
 de la Roseraie
-76B";;;0;0;0;0;250.00;0;250.00;hcp;novartis
-Dörflinger Ti«;Freienbach;CH;"Praxis Tim
+76B",,,0,0,0,0,250.00,0,250.00,hcp,novartis
+Dörflinger Ti«,Freienbach,CH,"Praxis Tim
 Dörflinger,
-Wiesenstrasse 9a";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Dorn Thomas;Crans-Montana;CH;"Berner Klinik
+Wiesenstrasse 9a",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Dorn Thomas,Crans-Montana,CH,"Berner Klinik
 Montana Medizin
 Neurologie,
 Impasse Palace
-Bellevue 1";;;0;0;0;0;3074.05;0;3074.05;hcp;novartis
-Dozier Catherine;Carouge GE;CH;"Cabinet
+Bellevue 1",,,0,0,0,0,3074.05,0,3074.05,hcp,novartis
+Dozier Catherine,Carouge GE,CH,"Cabinet
 Catherine
 Dozier, Place
-du Temple 15";;;0;0;0;0;1700.00;0;1700.00;hcp;novartis
-Draganski Bogdan;Lausanne;CH;"CHJV Medizin
+du Temple 15",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
+Draganski Bogdan,Lausanne,CH,"CHJV Medizin
 Neurologie, Rue
-du Bugnon 46";;;0;0;0;0;465.56;810.32;1275.88;hcp;novartis
-Druschke Sabine;Amriswil;CH;"Praxis Sabine
+du Bugnon 46",,,0,0,0,0,465.56,810.32,1275.88,hcp,novartis
+Druschke Sabine,Amriswil,CH,"Praxis Sabine
 Druschke,
-Kirchstrasse 1";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
-Dudler lean;Fribourg;CH;"HFR Fribourg -
+Kirchstrasse 1",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
+Dudler lean,Fribourg,CH,"HFR Fribourg -
 Höpital cantonal
 Rheumatologische
 Klinik, Chemin
 des Pensionnats
-2-6";;;0;0;0;0;3250.00;0;3250.00;hcp;novartis
-Dummer Reinhard;Zürich;CH;"Universitätsspit
+2-6",,,0,0,0,0,3250.00,0,3250.00,hcp,novartis
+Dummer Reinhard,Zürich,CH,"Universitätsspit
 al Zürich
 Dermatologische
 Klinik,
-Gloriastrasse 31";;;0;0;0;0;7386.24;527.86;7914.10;hcp;novartis
-Dünki Mauro;Zollikerberg;CH;"Praxis Mauro
+Gloriastrasse 31",,,0,0,0,0,7386.24,527.86,7914.10,hcp,novartis
+Dünki Mauro,Zollikerberg,CH,"Praxis Mauro
 Dünki,
 Trichtenhauserst
-rasse 2";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Eimers Jörg;Gisikon;CH;"Jörg Eimers
+rasse 2",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Eimers Jörg,Gisikon,CH,"Jörg Eimers
 Consulting,
-Wissehrli lb";;;0;0;0;0;2250.00;0;2250.00;hcp;novartis
+Wissehrli lb",,,0,0,0,0,2250.00,0,2250.00,hcp,novartis
 "Emmenegger Mark
-J.";Agno;CH;"Praxis Mark J.
+J.",Agno,CH,"Praxis Mark J.
 Emnenegger,
 World Trade
 Center - Blocco
-1";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+1",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Enderlin Steiger
-Susanna";Zürich;CH;"Gruppenpraxis,
-Bederstrasse 51";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Enseleit Frank;Zürich;CH;"Universitätsspit
+Susanna",Zürich,CH,"Gruppenpraxis,
+Bederstrasse 51",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Enseleit Frank,Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Kardiologie,
-Ränistrasse 100";;;0;0;0;0;2300.00;4.00;2304.00;hcp;novartis
-Erfmann Daniel;Elgg;CH;"Gruppenpraxis,
-Vordergasse 9";;;0;0;170.00;398.00;0;0;568.00;hcp;novartis
-Facchini Marco;Muralto;CH;"Praxis Marco
+Ränistrasse 100",,,0,0,0,0,2300.00,4.00,2304.00,hcp,novartis
+Erfmann Daniel,Elgg,CH,"Gruppenpraxis,
+Vordergasse 9",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
+Facchini Marco,Muralto,CH,"Praxis Marco
 Facchini, Via
-della Stazione 9";;;0;0;0;0;750.00;0;750.00;hcp;novartis
+della Stazione 9",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 "Fankhauser
-Laurence";Onex;CH;"Groupe mldical
+Laurence",Onex,CH,"Groupe mldical
 d'Onex, Route
-de Loäx 3";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Ferrari Giovanni;Lugano;CH;"Studio medico,
+de Loäx 3",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Ferrari Giovanni,Lugano,CH,"Studio medico,
 Corso Pestalozzi
-11";;;0;0;0;0;1500.00;0;150000;hcp;novartis
-Ferrari Nicola;Locarno;CH;"Praxis Nicola
+11",,,0,0,0,0,1500.00,0,150000,hcp,novartis
+Ferrari Nicola,Locarno,CH,"Praxis Nicola
 Ferrari, Via
 Stefano
-Franscini 14B";;;0;0;0;0;300.00;0;300.00;hcp;novartis
-Fiechter Ren4;Wetzikon ZH;CH;"GZO Spital
+Franscini 14B",,,0,0,0,0,300.00,0,300.00,hcp,novartis
+Fiechter Ren4,Wetzikon ZH,CH,"GZO Spital
 Wetzikon Medizin
 Pneumologie,
-Spitalstrasse 66";;;0;0;0;0;1875.00;0;1875.00;hcp;novartis
-Findling Oliver;Aarau;CH;"Kantonsspital
+Spitalstrasse 66",,,0,0,0,0,1875.00,0,1875.00,hcp,novartis
+Findling Oliver,Aarau,CH,"Kantonsspital
 Aarau AG Medizin
 Neurologie,
-Teilstrasse 25";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Flammer Andreas;Zürich;CH;"Universitätsspit
+Teilstrasse 25",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Flammer Andreas,Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Kardiologie,
-Ränistrasse 100";;;0;0;0;0;3935.00;0;3935.00;hcp;novartis
-Flury Gian;Scuol;CH;"Ospidal Scuol
+Ränistrasse 100",,,0,0,0,0,3935.00,0,3935.00,hcp,novartis
+Flury Gian,Scuol,CH,"Ospidal Scuol
 Innere Medizin,
 Via da 1'
-Ospidal 286";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Frank Rudolf;Bern;CH;"Kardiologische
+Ospidal 286",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Frank Rudolf,Bern,CH,"Kardiologische
 Praxis
 Kirchenfeld,
-Thunstrasse 2";;;0;0;0;0;1300.00;0;1300.00;hcp;novartis
-Franke Dimitri;Münchenstein;CH;"Neurologie am
+Thunstrasse 2",,,0,0,0,0,1300.00,0,1300.00,hcp,novartis
+Franke Dimitri,Münchenstein,CH,"Neurologie am
 Schaulager,
 Emil
-Frey-Strasse 85";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Franzen Daniel;Zürich;CH;"Universitätsspit
+Frey-Strasse 85",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Franzen Daniel,Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Pneumologie,
-Räristrasse 100";;;0;0;0;0;1600.00;0;1600.00;hcp;novartis
+Räristrasse 100",,,0,0,0,0,1600.00,0,1600.00,hcp,novartis
 "Frey
-lean-Georges";Crans-Montana;CH;"Höpital du
+lean-Georges",Crans-Montana,CH,"Höpital du
 Valais, Route
-de la Moubra 87";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Fricker Michael;Mörigen;CH;"Gruppenpraxis,
-Schulstrasse 14a";;;0;0;0;0;1200.00;0;1200.00;hcp;novartis
-Früh Joseph;Breitenbach;CH;"Gruppenpraxis,
+de la Moubra 87",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Fricker Michael,Mörigen,CH,"Gruppenpraxis,
+Schulstrasse 14a",,,0,0,0,0,1200.00,0,1200.00,hcp,novartis
+Früh Joseph,Breitenbach,CH,"Gruppenpraxis,
 Passwangstrasse
-10";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Frühauf Bernhard;Walenstadt;CH;"Praxis Bernhard
+10",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Frühauf Bernhard,Walenstadt,CH,"Praxis Bernhard
 Frühauf,
-Stickereiweg 1";;;0;0;0;0;1500.00;0;150000;hcp;novartis
+Stickereiweg 1",,,0,0,0,0,1500.00,0,150000,hcp,novartis
 "Frumkin
-Alexander";Düdingen;CH;"Praxiszentrum
+Alexander",Düdingen,CH,"Praxiszentrum
 Düdingen,
-Bahnhofplatz 2A";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Füessl Kathrin;Zürich;CH;"Praxis Kathrin
+Bahnhofplatz 2A",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Füessl Kathrin,Zürich,CH,"Praxis Kathrin
 Füessl,
-Weststrasse 75";;;0;0;0;0;600.00;0;600.0;hcp;novartis
+Weststrasse 75",,,0,0,0,0,600.00,0,600.0,hcp,novartis
 "Gaggiotti
-Manuela";Rheinfelden;CH;"Praxis Manuela
+Manuela",Rheinfelden,CH,"Praxis Manuela
 Gaggiotti,
 Salinenstrasse
-98";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Gandjour Joubin;Lachen SZ;CH;"Spital Lachen AG
+98",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Gandjour Joubin,Lachen SZ,CH,"Spital Lachen AG
 Medizin
 Neurologie,
 Oberdorfstrasse
-41";;;0;0;0;0;700.00;0;700.00;hcp;novartis
+41",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 "Gantenbein
-Andreas";Bad Zurzach;CH;"RehaClinic Bad
+Andreas",Bad Zurzach,CH,"RehaClinic Bad
 Zurzach Medizin
 Neurologie,
 Quellenstrasse
-34";;;0;0;0;0;6625.00;2678.70;9303.70;hcp;novartis
+34",,,0,0,0,0,6625.00,2678.70,9303.70,hcp,novartis
 "Gaspoz
-Dean-Michel";Bernex;CH;"266, c Rue de
-Bernex";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Gebbers Narcisa;Sursee;CH;"Praxis Narcisa
+Dean-Michel",Bernex,CH,"266, c Rue de
+Bernex",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Gebbers Narcisa,Sursee,CH,"Praxis Narcisa
 Gebbers,
 Spitalstrasse
-16B";;;0;0;0;0;850.00;0;850.00;hcp;novartis
+16B",,,0,0,0,0,850.00,0,850.00,hcp,novartis
 "Gemeinden
-Cornelia";Schlieren;CH;"Spital Limmattal
+Cornelia",Schlieren,CH,"Spital Limmattal
 Medizin
 Onkologie,
 Urdorferstrasse
-100";;;0;0;0;0;1154.19;87.72;1241.91;hcp;novartis
+100",,,0,0,0,0,1154.19,87.72,1241.91,hcp,novartis
 "Gengenbacher
-Michael";Basel;CH;"Bethesda Spital
+Michael",Basel,CH,"Bethesda Spital
 Rheumatologische
 Klinik,
 Gellertstrasse
-144";;;0;0;0;0;700.00;0;700.00;hcp;novartis
+144",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 "Georgiou
-Georgios";Lausanne;CH;"Cabinet Georgios
+Georgios",Lausanne,CH,"Cabinet Georgios
 Georgiou, Rue
-de la vigie 5";;;0;0;0;0;2041.91;0;2041.91;hcp;novartis
-Gerber Fr6d*ric;Moutier;CH;"Cabinets mädical
+de la vigie 5",,,0,0,0,0,2041.91,0,2041.91,hcp,novartis
+Gerber Fr6d*ric,Moutier,CH,"Cabinets mädical
 Viaduc, Rue du
-Viaduc 34";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Gerding Heinrich;Olten;CH;"Pallas Klinik
+Viaduc 34",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Gerding Heinrich,Olten,CH,"Pallas Klinik
 Ophthalmologisch
 e Klinik, Louis
 Giroud-Strasse
-20";;;0;0;0;0;250.00;0;250.00;hcp;novartis
-Gerritsen Peter;Zug;CH;"Praxis Peter
+20",,,0,0,0,0,250.00,0,250.00,hcp,novartis
+Gerritsen Peter,Zug,CH,"Praxis Peter
 Gerritsen,
-Gubelstrasse 17";;;0;0;0;0;300.00;0;300.00;hcp;novartis
-Ghavami Anoosh;Genfeve;CH;"Cabinet de
+Gubelstrasse 17",,,0,0,0,0,300.00,0,300.00,hcp,novartis
+Ghavami Anoosh,Genfeve,CH,"Cabinet de
 groupe, Rue de
-Moillebeau 33";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Giger Michael;Rorschach;CH;"Spital Rorschach
+Moillebeau 33",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Giger Michael,Rorschach,CH,"Spital Rorschach
 Medizin
 Onkologie,
 Heidenerstrasse
-11";;;0;0;0;0;850.00;0;850.00;hcp;novartis
-Gleissner Beate;Bäch SZ;CH;"Ärzte Centrum
+11",,,0,0,0,0,850.00,0,850.00,hcp,novartis
+Gleissner Beate,Bäch SZ,CH,"Ärzte Centrum
 Bäch,
-Seestrasse 164";;;0;0;60.00;0;750.00;0;810.00;hcp;novartis
-Gnehm Peter;Bern;CH;"Herzpraxis Bern
+Seestrasse 164",,,0,0,60.00,0,750.00,0,810.00,hcp,novartis
+Gnehm Peter,Bern,CH,"Herzpraxis Bern
 West,
 Bottigenstrasse
-6";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
+6",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
 "Goede Jeroen
-Simon";Winterthur;CH;"Kantonsspital
+Simon",Winterthur,CH,"Kantonsspital
 Winterthur
 Medizin
 Onkologie,
-Brauerstrasse 15";;;0;0;0;0;7512.50;0;7512.50;hcp;novartis
+Brauerstrasse 15",,,0,0,0,0,7512.50,0,7512.50,hcp,novartis
 "Goumaz Michel
-Joseph";Genfcve;CH;"Cabinet Michel
+Joseph",Genfcve,CH,"Cabinet Michel
 Joseph Goumaz,
 Rue du
-Mont-Blanc 22";;;0;0;0;0;700.00;0;700.00;hcp;novartis
+Mont-Blanc 22",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 "Graf-Kirchbach
-Regina";Schlieren;CH;"Gruppenpraxis,
-Pflugstrasse 18";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Regina",Schlieren,CH,"Gruppenpraxis,
+Pflugstrasse 18",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Grandjean
-Ducommun Eduna";Onex;CH;"Cabinet Eduna
+Ducommun Eduna",Onex,CH,"Cabinet Eduna
 Grandjean
 Ducommun, Rue
-des Bossons 24";;;0;0;0;0;700.00;0;700.00;hcp;novartis
+des Bossons 24",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 "Grimm
-Jean-Jacques";Delömont;CH;"Cabinet
+Jean-Jacques",Delömont,CH,"Cabinet
 Jean-Jacques
 Grimm, Rue du
-Tenple 45";;;0;0;0;0;2000.00;0;2000.00;hcp;novartis
+Tenple 45",,,0,0,0,0,2000.00,0,2000.00,hcp,novartis
 "Grob-Blum
-Philipp";Spiez;CH;"Lungenpraxis
+Philipp",Spiez,CH,"Lungenpraxis
 Spiez AG,
 Oberlandstrasse
-9";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Gropp Kamelija;Bottighofen;CH;"Gruppenpraxis,
-Oberer Garten 1";;;0;0;150.00;351.00;0;0;501.00;hcp;novartis
+9",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Gropp Kamelija,Bottighofen,CH,"Gruppenpraxis,
+Oberer Garten 1",,,0,0,150.00,351.00,0,0,501.00,hcp,novartis
 "Gropp Thomas
-Alfred";Bottighofen;CH;"Gruppenpraxis,
-Oberer Garten 1";;;0;0;150.00;351.00;0;0;501.00;hcp;novartis
-Gross Patric;Effretikon;CH;"Gruppenpraxis,
-Dorfstrasse 11";;;0;0;0;0;500.00;0;500.00;hcp;novartis
+Alfred",Bottighofen,CH,"Gruppenpraxis,
+Oberer Garten 1",,,0,0,150.00,351.00,0,0,501.00,hcp,novartis
+Gross Patric,Effretikon,CH,"Gruppenpraxis,
+Dorfstrasse 11",,,0,0,0,0,500.00,0,500.00,hcp,novartis
 "Grossenbacher
-Urs";Zürich;CH;"Gruppenpraxis,
+Urs",Zürich,CH,"Gruppenpraxis,
 Limattalstrasse
-167";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Gschwend Andreas;Baar;CH;"Zuger
+167",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Gschwend Andreas,Baar,CH,"Zuger
 Kantonsspital AG
 Medizin
 Onkologie,
 Landhausstrasse
-11";;;0;0;0;0;850.00;0;850.00;hcp;novartis
+11",,,0,0,0,0,850.00,0,850.00,hcp,novartis
 "Guerne
-Pierre-Andrä";Genöve;CH;"Höpitaux
+Pierre-Andrä",Genöve,CH,"Höpitaux
 universitaires
 de Genfeve
 Rheumatologische
 Klinik, Avenue
 de Beau-Säjour
-26";;;0;0;0;0;3500.00;0;3500.00;hcp;novartis
+26",,,0,0,0,0,3500.00,0,3500.00,hcp,novartis
 "Gugleta
-Konstantin";Basel;CH;"Universitätsspit
+Konstantin",Basel,CH,"Universitätsspit
 al Basel
 Ophthalmologisch
 e Klinik,
 Mittlere Strasse
-91";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Gürtler Magdalen;Biel/Bienne;CH;"Praxis Magdalen
+91",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Gürtler Magdalen,Biel/Bienne,CH,"Praxis Magdalen
 Gürtler,
 Schüsspromenade
-16";;;0;0;0;0;3200.00;0;3200.00;hcp;novartis
+16",,,0,0,0,0,3200.00,0,3200.00,hcp,novartis
 "Gütling-Vozenile
-k Eva";Winterthur;CH;"Neuropraxis im
+k Eva",Winterthur,CH,"Neuropraxis im
 Haus zum
 Walfisch,
-Marktgasse 44";;;0;0;0;0;700.00;0;700.00;hcp;novartis
+Marktgasse 44",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 "Haberthür
-Raphael";Breitenbach;CH;"Praxis Raphael
+Raphael",Breitenbach,CH,"Praxis Raphael
 Haberthür,
 Alice
-Vogt-Strasse 2";;;0;0;0;0;1700.00;0;1700.00;hcp;novartis
-Häfner Franziska;Thalwil;CH;"Rheumapraxis und
+Vogt-Strasse 2",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
+Häfner Franziska,Thalwil,CH,"Rheumapraxis und
 Hausarztpraxis,
 Alte
-Landstrasse 130";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Hagemann Kerstin;Münsingen;CH;"Kinderarztpraxis
+Landstrasse 130",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Hagemann Kerstin,Münsingen,CH,"Kinderarztpraxis
 Münsingen,
-Bernstrasse 5";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Hagen Martin;Horgen;CH;"OHZ Zimmerberg,
-Seestrasse 80";;;0;0;0;0;850.00;0;850.00;hcp;novartis
-Hamacher Dürg;Bern;CH;"Praxis lürg
+Bernstrasse 5",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Hagen Martin,Horgen,CH,"OHZ Zimmerberg,
+Seestrasse 80",,,0,0,0,0,850.00,0,850.00,hcp,novartis
+Hamacher Dürg,Bern,CH,"Praxis lürg
 Hamacher,
 Bremgartenstrass
-e 119";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
-Hasse Hubertus;Seftigen;CH;"Praxis Hubertus
+e 119",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
+Hasse Hubertus,Seftigen,CH,"Praxis Hubertus
 Hasse, Dorfmatt
-7";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
+7",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
 "Hatz Katja
-Birgit";Binningen;CH;"Vista Klinik
+Birgit",Binningen,CH,"Vista Klinik
 Ophthalmologisch
 e Klinik,
-Hauptstrasse 55";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Heizmann Marc;Aarau;CH;"Kantonsspital
+Hauptstrasse 55",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Heizmann Marc,Aarau,CH,"Kantonsspital
 Aarau AG Medizin
 Onkologie,
-Teilstrasse 25";;;0;0;0;0;2100.00;0;2100.00;hcp;novartis
-Helg Claudine;Genfeve;CH;"Centre
+Teilstrasse 25",,,0,0,0,0,2100.00,0,2100.00,hcp,novartis
+Helg Claudine,Genfeve,CH,"Centre
 d'oncologie des
 Eaux-Vives, Rue
-Maunoir 26";;;0;0;0;0;850.00;0;850.00;hcp;novartis
+Maunoir 26",,,0,0,0,0,850.00,0,850.00,hcp,novartis
 "Hellermann lens
-Peter";Schiers;CH;"Spital Schiers,
+Peter",Schiers,CH,"Spital Schiers,
 Flury Stiftung
 Innere Medizin,
 Tersierstrasse
-7";;;0;0;0;0;1625.00;0;1625.00;hcp;novartis
-Hengartner Heinz;St. Gallen;CH;"Ostschweizer
+7",,,0,0,0,0,1625.00,0,1625.00,hcp,novartis
+Hengartner Heinz,St. Gallen,CH,"Ostschweizer
 Kinderspital
 Pädiatrie
 Onko-/Häaatologi
 Claudiusstrasse
-6";;;0;0;0;0;1050.00;0;1050.00;hcp;novartis
+6",,,0,0,0,0,1050.00,0,1050.00,hcp,novartis
 "Hentsch
-Christophe";Genfeve;CH;"Cabinet de
+Christophe",Genfeve,CH,"Cabinet de
 grcxipe, Rue de
-Moillebeau 33";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Moillebeau 33",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Henzen-Bücking
-Silke";Sevelen;CH;"Landarztpraxis
+Silke",Sevelen,CH,"Landarztpraxis
 Sevelen,
 Velturrietstrass
-e S";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
-Hess Urs;St. Gallen;CH;"Kantonsspital
+e S",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
+Hess Urs,St. Gallen,CH,"Kantonsspital
 St. Gallen
 Medizin
 Onkologie,
 Rorschacher
-Strasse 95";;;0;0;0;0;3200.00;0;3200.00;hcp;novartis
+Strasse 95",,,0,0,0,0,3200.00,0,3200.00,hcp,novartis
 "Hew-Winzeler
-Anna Marie";Zürich;CH;"Praxis Anna
+Anna Marie",Zürich,CH,"Praxis Anna
 Marie
 Hew-Winzeler,
-Zinnengasse 1";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Higelin Fabien;Nyon;CH;"Cabinet Fabien
+Zinnengasse 1",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Higelin Fabien,Nyon,CH,"Cabinet Fabien
 Higelin, Avenue
-Reverdil 2";;;0;0;0;0;600.00;0;600.0;hcp;novartis
+Reverdil 2",,,0,0,0,0,600.00,0,600.0,hcp,novartis
 "Himmelberger
 Christian
-Wilhelm";Meis;CH;"Praxis Christian
+Wilhelm",Meis,CH,"Praxis Christian
 Wilhelm
 Himmelberger«
-Valenistrasse 6";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
+Valenistrasse 6",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
 "Himmelmann
-Andreas";Luzern;CH;"OnkoZentrum
+Andreas",Luzern,CH,"OnkoZentrum
 Luzern« St.
-Anna-Strasse 32";;;0;0;0;0;850.00;0;850.00;hcp;novartis
+Anna-Strasse 32",,,0,0,0,0,850.00,0,850.00,hcp,novartis
 "Hochstrasser
-Andreas";Männedorf;CH;"Spital Männedorf
+Andreas",Männedorf,CH,"Spital Männedorf
 AG Medizin
 Onkologie«
-Asylstrasse 10";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Hofbauer Günther;Wetzikon ZH;CH;"allderm«
+Asylstrasse 10",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Hofbauer Günther,Wetzikon ZH,CH,"allderm«
 Guyer-Zeller-Str
-asse 10";;;0;0;0;0;3075.00;326.84;3401.84;hcp;novartis
-Hoffmann Gernod;Weinfelden;CH;"HausarztZentrum
+asse 10",,,0,0,0,0,3075.00,326.84,3401.84,hcp,novartis
+Hoffmann Gernod,Weinfelden,CH,"HausarztZentrum
 Weinfelden«
-Bankstrasse 2";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
-Hornig Burkhard;Basel;CH;"Herzpraxis
+Bankstrasse 2",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
+Hornig Burkhard,Basel,CH,"Herzpraxis
 Warteckhof
 Grenzacherstrass
-e 62";;;0;0;0;0;1500.00;0;1500.00;hcp;novartis
-Horst Andreas;Dättwil AG;CH;"Ärztezentrum
+e 62",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
+Horst Andreas,Dättwil AG,CH,"Ärztezentrum
 Täfernhof,
 Mellingerstrasse
-207";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Hübenthal Boris;Glarus;CH;"Zentrum für
+207",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Hübenthal Boris,Glarus,CH,"Zentrum für
 Integrative
 Onkologie,
 Schweizerhofstra
-sse 3";;;0;0;0;0;850.00;0;850.00;hcp;novartis
-Huber Barbara;St. Gallen;CH;"Gruppenpraxis,
+sse 3",,,0,0,0,0,850.00,0,850.00,hcp,novartis
+Huber Barbara,St. Gallen,CH,"Gruppenpraxis,
 Rorschacher
-Strasse 107";;;0;0;167.06;391.00;0;0;558.00;hcp;novartis
-Huber Hans Durg;Würenlos;CH;"Gruppenpraxis,
-luchstrasse 15";;;0;0;0;0;1600.00;0;1600.00;hcp;novartis
-Huber Philipp;Bern;CH;"Praxis Philipp
+Strasse 107",,,0,0,167.06,391.00,0,0,558.00,hcp,novartis
+Huber Hans Durg,Würenlos,CH,"Gruppenpraxis,
+luchstrasse 15",,,0,0,0,0,1600.00,0,1600.00,hcp,novartis
+Huber Philipp,Bern,CH,"Praxis Philipp
 Huber,
 Bremgartenstrass
-e 119";;;0;0;0;0;250.00;0;250.00;hcp;novartis
+e 119",,,0,0,0,0,250.00,0,250.00,hcp,novartis
 "Huberle
-Elisabeth";Schwyz;CH;"Neurologische
+Elisabeth",Schwyz,CH,"Neurologische
 Praxis Schwyz,
 Maria-Hilf-Stras
-se 9";;;0;0;0;0;1800.00;0;1800.00;hcp;novartis
+se 9",,,0,0,0,0,1800.00,0,1800.00,hcp,novartis
 "Hufschmid Urs
-Patrick";Baden;CH;"Kantonsspital
+Patrick",Baden,CH,"Kantonsspital
 Baden AG Medizin
 Kardiologie,
-Im Ergel 1";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Hiigle Thomas;Lausanne;CH;"CH JV
+Im Ergel 1",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Hiigle Thomas,Lausanne,CH,"CH JV
 Rheumatologische
 Klinik, Avenue
-Pierre-Decker 4";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+Pierre-Decker 4",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Hüllstrung Hans
-Dieter";Liestal;CH;"Gruppenpraxis,
-Weierweg 7";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Humnler Stefan;Luzern;CH;"Praxis Stefan
+Dieter",Liestal,CH,"Gruppenpraxis,
+Weierweg 7",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Humnler Stefan,Luzern,CH,"Praxis Stefan
 Hu Haler,
-Zentralstrasse 1";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Hunger Robert;Bern;CH;"Inselspital
+Zentralstrasse 1",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Hunger Robert,Bern,CH,"Inselspital
 Bern,
 Insei-Gruppe AG
 Dermatologische
 Klinik,
 Freiburgstrasse
-18";;;0;0;0;0;3400.00;0;3400.00;hcp;novartis
-Iff Tobias;Zürich;CH;"Praxis Tobias
+18",,,0,0,0,0,3400.00,0,3400.00,hcp,novartis
+Iff Tobias,Zürich,CH,"Praxis Tobias
 Iff,
 Lavaterstrasse
-83";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Hiev Milko;Zürich;CH;"Gruppenpraxis,
-Gubelstrasse 54";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Imbach Paul;Basel;CH;Spitalstrasse 33;;;0;0;0;0;2188.00;0;2188.00;hcp;novartis
-Iorizzo Matilde;Bellinzona;CH;"Studio medico,
+83",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Hiev Milko,Zürich,CH,"Gruppenpraxis,
+Gubelstrasse 54",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Imbach Paul,Basel,CH,Spitalstrasse 33,,,0,0,0,0,2188.00,0,2188.00,hcp,novartis
+Iorizzo Matilde,Bellinzona,CH,"Studio medico,
 Viale Stazione
-16";;;0;0;0;452.00;0;0;452.00;hcp;novartis
-Irl* Claudius;Meyrin;CH;"Cabinet de
+16",,,0,0,0,452.00,0,0,452.00,hcp,novartis
+Irl* Claudius,Meyrin,CH,"Cabinet de
 groupe
 oncologie,
 Avenue
 lacob-Daniel
-Maillard 11";;;0;0;0;0;1550.00;0;1550.00;hcp;novartis
-Iseli Alexander;Liestal;CH;"Gruppenpraxis,
-Weierweg 7";;;0;0;0;0;700.00;0;700.00;hcp;novartis
+Maillard 11",,,0,0,0,0,1550.00,0,1550.00,hcp,novartis
+Iseli Alexander,Liestal,CH,"Gruppenpraxis,
+Weierweg 7",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 "Isenring Bruno
-Dieter";St. Gallen;CH;"Praxis Bruno
+Dieter",St. Gallen,CH,"Praxis Bruno
 Dieter Isenring,
 Schuppisstrasse
-18";;;0;0;0;0;3050.00;0;3050.00;hcp;novartis
-Isler Paul;Zürich;CH;"Neurologie am
+18",,,0,0,0,0,3050.00,0,3050.00,hcp,novartis
+Isler Paul,Zürich,CH,"Neurologie am
 Kreuzplatz,
 Klosbachstrasse
-2";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Daggi Ferdinand;Zürich;CH;"Praxis Ferdinand
+2",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Daggi Ferdinand,Zürich,CH,"Praxis Ferdinand
 3aggi,
 RütihofStrasse
-49";;;0;0;0;0;625.00;0;625.00;hcp;novartis
-Däggi Peter;Pfäfflkon SZ;CH;"Praxis Peter
+49",,,0,0,0,0,625.00,0,625.00,hcp,novartis
+Däggi Peter,Pfäfflkon SZ,CH,"Praxis Peter
 3äggi,
 Bahnhofstrasse
-13";;;0;0;0;0;625.00;0;625.00;hcp;novartis
-Dalili Ahmad;Obbürgen;CH;Bürgenstock 30;;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-lallut Antoine;Lausanne;CH;"Cabinet Antoine
+13",,,0,0,0,0,625.00,0,625.00,hcp,novartis
+Dalili Ahmad,Obbürgen,CH,Bürgenstock 30,,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+lallut Antoine,Lausanne,CH,"Cabinet Antoine
 lallut, Avenue
-Vinet 19";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Vinet 19",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "lallut Didier
-Renaud";Lausanne;CH;"Cabinet de
+Renaud",Lausanne,CH,"Cabinet de
 groupe, Avenue
-du Th6ätre 7";;;0;0;0;0;375.00;0;375.00;hcp;novartis
+du Th6ätre 7",,,0,0,0,0,375.00,0,375.00,hcp,novartis
 "Danthur
-Wolf-Dieter";Aarau;CH;"Kantonsspital
+Wolf-Dieter",Aarau,CH,"Kantonsspital
 Aarau AG Medizin
 Onkologie,
-Teilstrasse 25";;;0;0;0;0;3000.00;0;3000.00;hcp;novartis
+Teilstrasse 25",,,0,0,0,0,3000.00,0,3000.00,hcp,novartis
 "lauslin
-Pierre-Antoine";Genfeve;CH;"Cabinet de
+Pierre-Antoine",Genfeve,CH,"Cabinet de
 groupe, Rue
-De-Candolle 14";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-ledl Christian;Triesenberg;CH;"Gruppenpraxis,
-Schlossstrasse 7";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
-lop Bertrand;Martigny;CH;"Cabinet 8ertrand
+De-Candolle 14",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+ledl Christian,Triesenberg,CH,"Gruppenpraxis,
+Schlossstrasse 7",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
+lop Bertrand,Martigny,CH,"Cabinet 8ertrand
 Dop, Avenue de
-la Gare 8";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-lung Michel;Geneve;CH;"Cabinet Michel
+la Gare 8",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+lung Michel,Geneve,CH,"Cabinet Michel
 lung. Rue de
-Lyon 45";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Lyon 45",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Dungbluth
-Rosmarie";Zürich;CH;"Gruppenpraxis
+Rosmarie",Zürich,CH,"Gruppenpraxis
 Hardau,
 Bullingerstrasse
-49";;;0;0;170.00;398.00;0;0;568.00;hcp;novartis
-Kaergel Daniela;Sargans;CH;"Praxis Daniela
+49",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
+Kaergel Daniela,Sargans,CH,"Praxis Daniela
 Kaergel,
 Bahnhofstrasse
-12";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
-Kaiser Markus;Zürich;CH;"Herzpraxis Enge,
-Bleicherweg 47";;;0;0;0;0;5900.00;0;5900.00;hcp;novartis
-Keller Ulrich;Basel;CH;"Praxis Ulrich
+12",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
+Kaiser Markus,Zürich,CH,"Herzpraxis Enge,
+Bleicherweg 47",,,0,0,0,0,5900.00,0,5900.00,hcp,novartis
+Keller Ulrich,Basel,CH,"Praxis Ulrich
 Keller,
 Aeschenvorstadt
-57";;;0;0;0;0;240.00;0;240.00;hcp;novartis
-Kesselring Dürg;Valens;CH;"Rehazentrum
+57",,,0,0,0,0,240.00,0,240.00,hcp,novartis
+Kesselring Dürg,Valens,CH,"Rehazentrum
 Valens Medizin
 Neurologie,
-Taninaplatz 1";;;0;0;0;0;2909.76;0;2909.76;hcp;novartis
-King Andreas;Gonten;CH;"Praxis Andreas
+Taninaplatz 1",,,0,0,0,0,2909.76,0,2909.76,hcp,novartis
+King Andreas,Gonten,CH,"Praxis Andreas
 King,
-Dorfstrasse 31";;;0;0;167.00;391.00;2000.00;0;2558.00;hcp;novartis
-Kistler Martin;Leissigen;CH;"Praxis Martin
+Dorfstrasse 31",,,0,0,167.00,391.00,2000.00,0,2558.00,hcp,novartis
+Kistler Martin,Leissigen,CH,"Praxis Martin
 Kistler,
-Dorfstrasse 20";;;0;0;0;0;600.00;0;600.00;hcp;novartis
-Klamp Dominik;Zürich;CH;"Medbase
+Dorfstrasse 20",,,0,0,0,0,600.00,0,600.00,hcp,novartis
+Klamp Dominik,Zürich,CH,"Medbase
 Zürich-Oerlikon,
 Baumackerstrasse
-46";;;0;0;0;0;1200.00;0;1200.00;hcp;novartis
-Kliesch Uta;Schwyz;CH;"Neurologische
+46",,,0,0,0,0,1200.00,0,1200.00,hcp,novartis
+Kliesch Uta,Schwyz,CH,"Neurologische
 Praxis Schwyz,
 Maria-Hilf-Stras
-se 9";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Knauer Michael;St. Gallen;CH;"Kantonsspital
+se 9",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Knauer Michael,St. Gallen,CH,"Kantonsspital
 St. Gallen
 Brustzentrum/Chi
 rurgie,
 Rorschacher
-Strasse 95";;;0;0;0;4238.80;0;0;4238.80;hcp;novartis
-Kneuper Ludger;Richterswil;CH;"Paracelsus-Spita
+Strasse 95",,,0,0,0,4238.80,0,0,4238.80,hcp,novartis
+Kneuper Ludger,Richterswil,CH,"Paracelsus-Spita
 1 Richterswil AG
 Medizin
 Onkologie,
-Bergstrasse 16";;;0;0;0;0;850.00;0;850.00;hcp;novartis
+Bergstrasse 16",,,0,0,0,0,850.00,0,850.00,hcp,novartis
 "Kniestedt
-Christoph";Zürich;CH;"Talacker
+Christoph",Zürich,CH,"Talacker
 Augen-Zentrum,
 Pelikanstrasse
-18";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+18",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Köchli Oskar
-Robert";Zürich;CH;"Frauengesundheit
+Robert",Zürich,CH,"Frauengesundheit
 szentrum,
-Ränistrasse 35";;;0;0;0;0;1175.00;0;1175.00;hcp;novartis
-Koepke Mathias;Luzern;CH;"Gruppenpraxis,
-Löwengraben 14";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Koerfer Jacques;Bulle;CH;"Cabinet Jacques
+Ränistrasse 35",,,0,0,0,0,1175.00,0,1175.00,hcp,novartis
+Koepke Mathias,Luzern,CH,"Gruppenpraxis,
+Löwengraben 14",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Koerfer Jacques,Bulle,CH,"Cabinet Jacques
 Koerfer, Rue de
-Gruyöres 35";;;0;0;610.00;686.00;700.00;0;1996.00;hcp;novartis
-Kohler Malcolm;Zürich;CH;"Universitätsspit
+Gruyöres 35",,,0,0,610.00,686.00,700.00,0,1996.00,hcp,novartis
+Kohler Malcolm,Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Pneumologie,
-Ränistrasse 100";;;0;0;0;0;4000.00;0;400000;hcp;novartis
-Kosek Robert;Winterthur;CH;"Ärztzentrum
+Ränistrasse 100",,,0,0,0,0,4000.00,0,400000,hcp,novartis
+Kosek Robert,Winterthur,CH,"Ärztzentrum
 Töss,
 Zürcherstrasse
-129";;;0;0;170.00;398.00;0;0;568.00;hcp;novartis
-Kottmann Milhard;Oavos Wolfgang;CH;"Hochgebirgsklini
+129",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
+Kottmann Milhard,Oavos Wolfgang,CH,"Hochgebirgsklini
 k Davos Medizin
 Kardiologie,
 Herman Burchard
-Strasse 1";;;0;0;0;0;500.00;0;500.00;hcp;novartis
-Kouros Michail;Locarno;CH;"Studio medico,
+Strasse 1",,,0,0,0,0,500.00,0,500.00,hcp,novartis
+Kouros Michail,Locarno,CH,"Studio medico,
 Via Vincenzo
-Vela 11";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Kouroupi Eirini;Neuchätel;CH;"Höpital
+Vela 11",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Kouroupi Eirini,Neuchätel,CH,"Höpital
 neuchätelois -
 Pourtalfes, Rue
 de la Maladiere
-45";;;0;0;0;0;1700.00;0;1700.00;hcp;novartis
-Koychev Daniel;Rapperswil SG;CH;"Tumorzentrum
+45",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
+Koychev Daniel,Rapperswil SG,CH,"Tumorzentrum
 ZeluP
 Rapperswil-Dona,
 Alte
-Donastrasse 24";;;0;0;0;0;1700.00;0;1700.00;hcp;novartis
+Donastrasse 24",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
 "Kradolfer Stefan
-P.";Basel;CH;"Gruppenpraxis,
-Picassoplatz 8";;;0;0;0;0;875.00;0;875.00;hcp;novartis
+P.",Basel,CH,"Gruppenpraxis,
+Picassoplatz 8",,,0,0,0,0,875.00,0,875.00,hcp,novartis
 "Kralidis
-Zinniker Elena";Aarau;CH;"Kantonsspital
+Zinniker Elena",Aarau,CH,"Kantonsspital
 Aarau AG Medizin
 Onkologie,
-Teilstrasse 25";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+Teilstrasse 25",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Krasovec Rahmann
-Marguerite";Schlieren;CH;"Praxis
+Marguerite",Schlieren,CH,"Praxis
 Marguerite
 Krasovec
 Rahmann,
 Uitikonerstrasse
-9";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Kretzschmar Ute;Zürich;CH;"Schulthess
+9",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Kretzschmar Ute,Zürich,CH,"Schulthess
 Klinik Medizin
 Neurologie,
-Lengghalde 2";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Kühne Reto;Zürich;CH;"Stadtspital Waid
+Lengghalde 2",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Kühne Reto,Zürich,CH,"Stadtspital Waid
 Medizin
 Onkologie,
-Tifechestrasse 99";;;0;0;0;0;1850.00;0;1850.00;hcp;novartis
-Kühne Thomas;Basel;CH;"Universitäts-Kin
+Tifechestrasse 99",,,0,0,0,0,1850.00,0,1850.00,hcp,novartis
+Kühne Thomas,Basel,CH,"Universitäts-Kin
 derspital (UKBB)
 Pädiatrie
 Onko-/Hämatologi
 •>
-Spitalstrasse 33";;;0;0;0;0;6129.70;0;6129.70;hcp;novartis
-Kunz Alexander;Täfers;CH;"Praxis Alexander
+Spitalstrasse 33",,,0,0,0,0,6129.70,0,6129.70,hcp,novartis
+Kunz Alexander,Täfers,CH,"Praxis Alexander
 Kunz,
-Zeigstrasse 25";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Zeigstrasse 25",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Kurlandchikov
-Oleg";St. Gallen;CH;"Praxis Oleg
+Oleg",St. Gallen,CH,"Praxis Oleg
 Kurlandchikov,
 Schreinerstrasse
-7";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Kurmann Patric;Neuchätel;CH;"Cabinet Patric
+7",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Kurmann Patric,Neuchätel,CH,"Cabinet Patric
 Kurmann, Rue de
-Seyon 10";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Seyon 10",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Lambert
-Dean-Francois";Nyon;CH;"Cabinet
+Dean-Francois",Nyon,CH,"Cabinet
 Dean-Francois
 Lambert, Chemin
-Monastier 10";;;0;0;666.67;480.00;7050.00;0;8196.67;hcp;novartis
-Landis Theodor;Lausanne;CH;"Cabinet Theodor
+Monastier 10",,,0,0,666.67,480.00,7050.00,0,8196.67,hcp,novartis
+Landis Theodor,Lausanne,CH,"Cabinet Theodor
 Landis, Avenue
-Domini 8";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Landolt Martin;Basel;CH;"Neurologische
+Domini 8",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Landolt Martin,Basel,CH,"Neurologische
 Geneinschaftspra
 xis,
 Falknerstrasse
-35";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Lanfranchi Mario;Silvaplana;CH;"Xundheitszentrum
+35",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Lanfranchi Mario,Silvaplana,CH,"Xundheitszentrum
 Silvaplana,
-Via Munterots 8";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
-Lang Michael;Therwil;CH;"Geneinschaftspra
+Via Munterots 8",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
+Lang Michael,Therwil,CH,"Geneinschaftspra
 xis
 Bahnhofstrasse,
 Bahnhofstrasse
-21";;;0;0;0;0;200.00;0;200.00;hcp;novartis
+21",,,0,0,0,0,200.00,0,200.00,hcp,novartis
 "Langenegger
-Thomas";Baar;CH;"Zuger
+Thomas",Baar,CH,"Zuger
 Kantonsspital AG
 Rheumatologische
 Klinik,
 Landhausstrasse
-11";;;0;0;0;0;3500.00;0;3500.00;hcp;novartis
-Langner Ronald;Zollikon;CH;"KopfwehZentrum
+11",,,0,0,0,0,3500.00,0,3500.00,hcp,novartis
+Langner Ronald,Zollikon,CH,"KopfwehZentrum
 Hirslanden
 Zürich,
-Forchstrasse 424";;;0;0;0;0;1750.00;0;1750.00;hcp;novartis
-Lanz Christian;Zürich;CH;"Schulthess
+Forchstrasse 424",,,0,0,0,0,1750.00,0,1750.00,hcp,novartis
+Lanz Christian,Zürich,CH,"Schulthess
 Klinik Medizin
 Neurologie,
-Lengghalde 2";;;0;0;0;0;700.00;0;700.00;hcp;novartis
+Lengghalde 2",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 "Lapointe
-Anne-Karine";Lausanne;CH;"Cabinet de
+Anne-Karine",Lausanne,CH,"Cabinet de
 groupe, Avenue
-du Thfätre 7";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Lehmann Rolf;Biel/Bienne;CH;"Praxis Rolf
+du Thfätre 7",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Lehmann Rolf,Biel/Bienne,CH,"Praxis Rolf
 Lehmann,
 Reitschulstrasse
-5";;;0;0;0;0;800.00;0;80000;hcp;novartis
-Lehmann Thomas;St. Gallen;CH;"Kantonsspital
+5",,,0,0,0,0,800.00,0,80000,hcp,novartis
+Lehmann Thomas,St. Gallen,CH,"Kantonsspital
 St. Gallen
 Medizin
 Onkologie,
 Rorschacher
-Strasse 95";;;0;0;0;0;5400.00;0;5400.00;hcp;novartis
-Levy Francis;Zürich;CH;"Praxis Francis
+Strasse 95",,,0,0,0,0,5400.00,0,5400.00,hcp,novartis
+Levy Francis,Zürich,CH,"Praxis Francis
 Levy,
-Löwenstrasse 42";;;0;0;0;0;3000.00;0;3000.00;hcp;novartis
-Leyhe Thomas;Basel;CH;"Universitäre
+Löwenstrasse 42",,,0,0,0,0,3000.00,0,3000.00,hcp,novartis
+Leyhe Thomas,Basel,CH,"Universitäre
 Psychiatrische
 Kliniken,
 Wilhelm
-Klein-Strasse 27";;;0;0;0;0;750.00;0;750.00;hcp;novartis
-Locca Didier;Lausanne;CH;"Centre
+Klein-Strasse 27",,,0,0,0,0,750.00,0,750.00,hcp,novartis
+Locca Didier,Lausanne,CH,"Centre
 Cardiovasculaire
 du Grand-Chöne,
 Rue du
-Grand-Chfcne 8";;;0;0;0;0;700.00;0;700.00;hcp;novartis
+Grand-Chfcne 8",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 "Löschhorn
-Christoph";Dättwil AG;CH;"Ärztezentrum
+Christoph",Dättwil AG,CH,"Ärztezentrum
 Täfernhof,
 Mellingerstrasse
-207";;;0;0;0;0;1600.00;0;1600.00;hcp;novartis
+207",,,0,0,0,0,1600.00,0,1600.00,hcp,novartis
 "Ludwig-Schmid
-Karin";Chur;CH;"Praxisgemeinscha
+Karin",Chur,CH,"Praxisgemeinscha
 ft,
 Alexanderstrasse
-14";;;0;0;860.00;300.00;0;0;1160.00;hcp;novartis
+14",,,0,0,860.00,300.00,0,0,1160.00,hcp,novartis
 "Liischer Thomas
-F.";Schlieren;CH;"Center for
+F.",Schlieren,CH,"Center for
 Molecular
 Cardiology
-Wagistrasse 12";;;0;0;0;0;4500.00;5714.35;10214.35;hcp;novartis
-Maecker Folkert;Degenstorf;CH;"Ärztezentrum
+Wagistrasse 12",,,0,0,0,0,4500.00,5714.35,10214.35,hcp,novartis
+Maecker Folkert,Degenstorf,CH,"Ärztezentrum
 Degenstorf AG,
-Bernstrasse 12";;;0;0;0;0;1700.00;0;1700.00;hcp;novartis
-Maeder Micha;St. Gallen;CH;"Kantonsspital
+Bernstrasse 12",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
+Maeder Micha,St. Gallen,CH,"Kantonsspital
 St. Gallen
 Medizin
 Kardiologie,
 Rorschacher
-Strasse 95";;;0;0;0;0;2000.00;0;2000.00;hcp;novartis
-Maier Oliver;St. Gallen;CH;"Ostschweizer
+Strasse 95",,,0,0,0,0,2000.00,0,2000.00,hcp,novartis
+Maier Oliver,St. Gallen,CH,"Ostschweizer
 Kinderspital
 Medizin
 Neurologie,
 Claudiusstrasse
-6";;;0;0;230.55;0;0;0;230.55;hcp;novartis
-Maire Ren6;Männedorf;CH;"Praxis Ren£
+6",,,0,0,230.55,0,0,0,230.55,hcp,novartis
+Maire Ren6,Männedorf,CH,"Praxis Ren£
 Maire,
 Bahnhofstrasse
-20";;;0;0;0;0;4000.00;0;4000.00;hcp;novartis
-Major Tamas;Uznach;CH;"Spital Linth
+20",,,0,0,0,0,4000.00,0,4000.00,hcp,novartis
+Major Tamas,Uznach,CH,"Spital Linth
 Medizin
 Pneumologie,
-Gasterstrasse 25";;;0;0;0;0;750.00;0;750.00;hcp;novartis
-Mamot Christoph;Aarau;CH;"Kantonsspital
+Gasterstrasse 25",,,0,0,0,0,750.00,0,750.00,hcp,novartis
+Mamot Christoph,Aarau,CH,"Kantonsspital
 Aarau AG Medizin
 Onkologie,
-Teilstrasse 25";;;0;0;0;0;3500.00;0;3500.00;hcp;novartis
+Teilstrasse 25",,,0,0,0,0,3500.00,0,3500.00,hcp,novartis
 "Mangioris
-Georgios";Onex;CH;"Groupe mldical
+Georgios",Onex,CH,"Groupe mldical
 d'Onex, Route
-de Loex 3";;;0;0;0;0;250.00;0;250.00;hcp;novartis
-Mantel Irmela;Lausanne;CH;"Höpital
+de Loex 3",,,0,0,0,0,250.00,0,250.00,hcp,novartis
+Mantel Irmela,Lausanne,CH,"Höpital
 ophtalmique
 Dules-Gonin,
 Avenue de France
-15";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+15",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Manz Markus
-Gabriel";Zürich;CH;"Universitätsspit
+Gabriel",Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Hämatologie,
-Räristrasse 100";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Martin Gabriele;Collex;CH;"Cabinet Gabriele
+Räristrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Martin Gabriele,Collex,CH,"Cabinet Gabriele
 Martin, Route
-de l'Etraz 23";;;0;0;0;0;1350.00;0;1350.00;hcp;novartis
-Matter Michel;Geneve;CH;"Centre
+de l'Etraz 23",,,0,0,0,0,1350.00,0,1350.00,hcp,novartis
+Matter Michel,Geneve,CH,"Centre
 Ophtalmologique
 de Rive SA, Rue
-Pierre-Fatio 15";;;0;0;0;0;250.00;0;250.00;hcp;novartis
-Matthes Thomas;Genfcve;CH;"Höpitaux
+Pierre-Fatio 15",,,0,0,0,0,250.00,0,250.00,hcp,novartis
+Matthes Thomas,Genfcve,CH,"Höpitaux
 Universitaires
 de Genfeve
 Medizin
 Hämatologie,
 Rue
 Gabrielle-Perret
--Gentil 4";;;0;0;0;0;750.00;0;750.00;hcp;novartis
-Maurer Daniel;Aadorf;CH;"Praxis Untermoos
+-Gentil 4",,,0,0,0,0,750.00,0,750.00,hcp,novartis
+Maurer Daniel,Aadorf,CH,"Praxis Untermoos
 AG,
 Untermoosstrasse
-11";;;0;0;1760.00;600.00;0;0;2360.00;hcp;novartis
-Mauri Simonetta;Massagno;CH;"Studio medico.
+11",,,0,0,1760.00,600.00,0,0,2360.00,hcp,novartis
+Mauri Simonetta,Massagno,CH,"Studio medico.
 Via San Gottardo
-60";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Meier Niklaus;Bern;CH;"Inselspital
+60",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Meier Niklaus,Bern,CH,"Inselspital
 Bern,
 Insei-Gruppe AG
 Medizin
 Neurologie,
 Freiburgstrasse
-18";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+18",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Meier-Weinand
-Almut";Zürich;CH;"Praxis Almut
+Almut",Zürich,CH,"Praxis Almut
 Meier-Weinand,
 Seefeldstrasse
-66";;;0;0;170.00;398.00;0;0;568.00;hcp;novartis
-Meli Damian;Huttwil;CH;"Hausarztpraxis
+66",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
+Meli Damian,Huttwil,CH,"Hausarztpraxis
 Huttwil GmbH,
 Schultheissenstr
-asse 10";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Meniconi Alfredo;Schwyz;CH;"Praxis Alfredo
+asse 10",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Meniconi Alfredo,Schwyz,CH,"Praxis Alfredo
 Meniconi,
-Postplatz 6";;;0;0;610.00;686.00;0;0;1296.00;hcp;novartis
-Mermoud Andrl;Lausanne;CH;"Cabinet Andr6
+Postplatz 6",,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis
+Mermoud Andrl,Lausanne,CH,"Cabinet Andr6
 Mermoud, Chemin
-des Allinges 16";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+des Allinges 16",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Meyer-Monard
-Sandrine";Allschwil;CH;"Praxis Sandrine
+Sandrine",Allschwil,CH,"Praxis Sandrine
 Meyer-Monard,
-Baslerstrasse 35";;;0;0;0;0;850.00;0;850.00;hcp;novartis
+Baslerstrasse 35",,,0,0,0,0,850.00,0,850.00,hcp,novartis
 "Michel-Nufer
-Thomas Armin";Wilderswil;CH;"Gruppenpraxis,
-Lehngasse 47";;;0;0;600.0;200.00;0;0;800.00;hcp;novartis
-Moch Holger;Zürich;CH;"Universitätsspit
+Thomas Armin",Wilderswil,CH,"Gruppenpraxis,
+Lehngasse 47",,,0,0,600.0,200.00,0,0,800.00,hcp,novartis
+Moch Holger,Zürich,CH,"Universitätsspit
 al Zürich
 Pathologie,
 Sc hmelzbergstras
-se 12";;;0;0;0;0;1250.00;0;1250.00;hcp;novartis
-Moro Martin;Bülach;CH;"Geneinschaftspra
+se 12",,,0,0,0,0,1250.00,0,1250.00,hcp,novartis
+Moro Martin,Bülach,CH,"Geneinschaftspra
 xis Rössligasse,
-Rössligasse 11";;;0;0;170.00;398.00;800.00;0;1368.00;hcp;novartis
+Rössligasse 11",,,0,0,170.00,398.00,800.00,0,1368.00,hcp,novartis
 "Moschovitis
-Giorgio";Lugano;CH;"Ospedale
+Giorgio",Lugano,CH,"Ospedale
 Regionale di
 Lugano Civico
 Medizin
 Kardiologie,
-Via Tesserete 46";;;0;0;0;0;300.00;0;300.00;hcp;novartis
-Moser Caroline;Luzern;CH;"Luzerner
+Via Tesserete 46",,,0,0,0,0,300.00,0,300.00,hcp,novartis
+Moser Caroline,Luzern,CH,"Luzerner
 Kantonsspital
 Luzern
 Rheumatologische
 Klinik,
-Spitalstrasse";;;0;0;860.00;300.00;0;0;1160.00;hcp;novartis
-Moser Roland;Zürich;CH;"Sanacare
+Spitalstrasse",,,0,0,860.00,300.00,0,0,1160.00,hcp,novartis
+Moser Roland,Zürich,CH,"Sanacare
 Gruppenpraxis
 Zürich-Wiedikon,
-Weststrasse 75";;;0;0;170.00;398.00;0;0;568.00;hcp;novartis
-Moshir Sarareh;Aarau;CH;"Kantonsspital
+Weststrasse 75",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
+Moshir Sarareh,Aarau,CH,"Kantonsspital
 Aarau AG Labor
 Zentral/Chemie,
-Tellstrasse 25";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Tellstrasse 25",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Müller Antonia
-Maria";Zürich;CH;"Universitätsspit
+Maria",Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Häaatologie,
-Rätiistrasse 100";;;0;0;0;0;750.00;0;750.00;hcp;novartis
-Müller Pascal;Laupen BE;CH;"Praxis Pascal
+Rätiistrasse 100",,,0,0,0,0,750.00,0,750.00,hcp,novartis
+Müller Pascal,Laupen BE,CH,"Praxis Pascal
 Müller,
 Bösingenstrasse
-16";;;0;0;0;0;1200.00;0;1200.00;hcp;novartis
-Müller Rouven;Zürich;CH;"Universitätsspit
+16",,,0,0,0,0,1200.00,0,1200.00,hcp,novartis
+Müller Rouven,Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Hämatologie,
-Räristrasse 100";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Müller Stefanie;St. Gallen;CH;"Kantonsspital
+Räristrasse 100",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Müller Stefanie,St. Gallen,CH,"Kantonsspital
 St. Gallen
 Medizin
 Neurologie,
 Rorschacher
-Strasse 95";;;0;0;0;0;500.00;0;500.00;hcp;novartis
-Müntener Michael;Zürich;CH;"Stadtspital
+Strasse 95",,,0,0,0,0,500.00,0,500.00,hcp,novartis
+Müntener Michael,Zürich,CH,"Stadtspital
 Triemli
 Urologische
 Klinik,
 Birmensdorferstr
-asse 497";;;0;0;0;0;500.00;0;500.00;hcp;novartis
+asse 497",,,0,0,0,0,500.00,0,500.00,hcp,novartis
 "Muntwiler
-Claudia";Rehetobel;CH;"Praxis Claudia
+Claudia",Rehetobel,CH,"Praxis Claudia
 Muntwiler, St.
-Gallerstrasse 11";;;0;0;1027.00;691.00;0;0;1718.00;hcp;novartis
+Gallerstrasse 11",,,0,0,1027.00,691.00,0,0,1718.00,hcp,novartis
 "Mutschelknauss
-Marcus";Basel;CH;"Herzpraxis
+Marcus",Basel,CH,"Herzpraxis
 Aeschenvorstadt,
 Aeschenvorstadt
-25";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Myers Peter;Genfeve;CH;"Cabinet de
+25",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Myers Peter,Genfeve,CH,"Cabinet de
 groupe, Ruelle
-du Couchant 7";;;0;0;0;0;3700.00;0;3700.00;hcp;novartis
-Nater Bernard;Lausanne;CH;"Cabinet Bernard
+du Couchant 7",,,0,0,0,0,3700.00,0,3700.00,hcp,novartis
+Nater Bernard,Lausanne,CH,"Cabinet Bernard
 Nater, Chemin
 des Croix-Rouges
-2";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+2",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Navarini
-Alexander";Zürich;CH;"Universitätsspit
+Alexander",Zürich,CH,"Universitätsspit
 al Zürich
 Dermatologische
 Klinik,
-Gloriastrasse 31";;;0;0;0;0;1250.00;0;1250.00;hcp;novartis
+Gloriastrasse 31",,,0,0,0,0,1250.00,0,1250.00,hcp,novartis
 "Nega Norbert
-Hubert";Riehen;CH;"Gruppenpraxis,
+Hubert",Riehen,CH,"Gruppenpraxis,
 Bettingerstrasse
-116";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Negrel Vlronique;Neuchätel;CH;"Cabinet
+116",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Negrel Vlronique,Neuchätel,CH,"Cabinet
 Vlronique
 Negrel,
 Faubourg de
-l'Höpital 81";;;0;0;0;0;600.00;0;600.0;hcp;novartis
-Niesper Jiirg;Egg b. Zürich;CH;"Praxis Jürg
+l'Höpital 81",,,0,0,0,0,600.00,0,600.0,hcp,novartis
+Niesper Jiirg,Egg b. Zürich,CH,"Praxis Jürg
 Niesper,
 Felseneggstrasse
-1";;;0;0;0;0;1375.00;0;1375.00;hcp;novartis
-Nikolic Damjan;Genöve;CH;"Cabinet Damjan
+1",,,0,0,0,0,1375.00,0,1375.00,hcp,novartis
+Nikolic Damjan,Genöve,CH,"Cabinet Damjan
 Nikolic, Quai
-du Seujet 14";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Nissen Michael;Geneve;CH;"Höpitaux
+du Seujet 14",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Nissen Michael,Geneve,CH,"Höpitaux
 universitaires
 de Genöve
 Rheumatologische
 Klinik, Avenue
 de Beau-S6jour
-26";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Noce Roberto;St. Gallen;CH;"Medbase St.
+26",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Noce Roberto,St. Gallen,CH,"Medbase St.
 Gallen Einstein,
-Wassergasse 7";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Noll Georg;Zürich;CH;"HerzKlinik
+Wassergasse 7",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Noll Georg,Zürich,CH,"HerzKlinik
 Hirslanden,
 Witellikerstrass
-e 40";;;0;0;0;0;2632.22;804.11;3436.33;hcp;novartis
-Nothhelfer Tilly;Baden;CH;"Kantonsspital
+e 40",,,0,0,0,0,2632.22,804.11,3436.33,hcp,novartis
+Nothhelfer Tilly,Baden,CH,"Kantonsspital
 Baden AG Medizin
 Onkologie« Im
-Ergel 1";;;0;0;0;0;1700.00;0;1700.00;hcp;novartis
-Nötzli Jasmine;Lausanne;CH;"Cabinet de
+Ergel 1",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
+Nötzli Jasmine,Lausanne,CH,"Cabinet de
 groupe« Avenue
-de Rumine 35";;;0;0;0;0;1800.00;0;1800.00;hcp;novartis
+de Rumine 35",,,0,0,0,0,1800.00,0,1800.00,hcp,novartis
 "Oberdieck Ulrike
-Andrea";Zürich;CH;"Praxis Ulrike
+Andrea",Zürich,CH,"Praxis Ulrike
 Andrea
 Oberdieck«
 Stettbachstrasse
-31";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
+31",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
 "Oechslin-Decurti
-ns Edith";Chur;CH;"Medizinisches
+ns Edith",Chur,CH,"Medizinisches
 Zentrum gleis d«
 Gürtelstrasse
-46";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Oehri Martin;Frauenfeld;CH;"Rheuma- und
+46",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Oehri Martin,Frauenfeld,CH,"Rheuma- und
 Schmerzzentrum«
-Rheinstrasse 23";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Omoumi Patrick;Lausanne;CH;"CH JV
+Rheinstrasse 23",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Omoumi Patrick,Lausanne,CH,"CH JV
 Radiologische
 Klinik« Rue du
-Bugnon 46";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+Bugnon 46",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Oppliger
 Leibundgut
-Elisabeth";Bern;CH;"Inselspital
+Elisabeth",Bern,CH,"Inselspital
 Bern,
 Insei-Gruppe AG
 Labor
 HäMtologie,
 Freiburgstrasse
-18";;;0;0;0;0;0;1266.61;1266.61;hcp;novartis
-Ortega Marcos;Zürich;CH;"Neuromed Zürich,
+18",,,0,0,0,0,0,1266.61,1266.61,hcp,novartis
+Ortega Marcos,Zürich,CH,"Neuromed Zürich,
 Stampfenbachstra
-sse 63";;;0;0;0;0;700.00;0;700.00;hcp;novartis
+sse 63",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 "Pagani-Santoro
-Olivia";Viganello;CH;"Ospedale
+Olivia",Viganello,CH,"Ospedale
 Regionale di
 Lugano Italiano
 Medizin
 Onkologie,
 Viale Pietro
-Capelli 1";;;0;0;0;0;2344.59;593.84;2938.43;hcp;novartis
-Pape Ulrike;Baden;CH;"Gruppenpraxis,
+Capelli 1",,,0,0,0,0,2344.59,593.84,2938.43,hcp,novartis
+Pape Ulrike,Baden,CH,"Gruppenpraxis,
 Bahnhofstrasse
-40";;;0;0;610.00;686.00;0;0;1296.00;hcp;novartis
-Paul Matthias;Luzern;CH;"Luzerner
+40",,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis
+Paul Matthias,Luzern,CH,"Luzerner
 Kantonsspital
 Luzern Medizin
 Kardiologie,
-Spitalstrasse";;;0;0;0;0;1550.00;0;1550.00;hcp;novartis
+Spitalstrasse",,,0,0,0,0,1550.00,0,1550.00,hcp,novartis
 "Pedrazzini
-Augusto";Locarno;CH;"Studio medico.
+Augusto",Locarno,CH,"Studio medico.
 Via Vincenzo
-Vela 11";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Peghini Pietro;Zürich;CH;"Praxis Pietro
+Vela 11",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Peghini Pietro,Zürich,CH,"Praxis Pietro
 Peghini,
 Schaffhauserstra
-sse 359";;;0;0;0;0;2550.00;0;2550.00;hcp;novartis
+sse 359",,,0,0,0,0,2550.00,0,2550.00,hcp,novartis
 "Pelivani
-Nedzmidin";Bern;CH;"Praxis Nedzmidin
+Nedzmidin",Bern,CH,"Praxis Nedzmidin
 Pelivani,
-Bollwek 19";;;0;0;0;0;600.00;0;600.0;hcp;novartis
-Perger Ludwig;Zürich;CH;"Universitätsspit
+Bollwek 19",,,0,0,0,0,600.00,0,600.0,hcp,novartis
+Perger Ludwig,Zürich,CH,"Universitätsspit
 al Zürich Innere
 Medizin,
-Ränistrasse 100";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Ränistrasse 100",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Personeni
-Orlando";Genöve;CH;"Cabinet Orlando
+Orlando",Genöve,CH,"Cabinet Orlando
 Personeni, Rue
-Adrien-Vallin 2";;;0;0;0;0;700.00;0;700.00;hcp;novartis
+Adrien-Vallin 2",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 "Petersen lens
-Alexander";Zürich;CH;"Universitätsspit
+Alexander",Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Neurologie,
 Frauenklinikstra
-sse 26";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+sse 26",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Petropoulos
-Ioannis";Genfeve;CH;"Centre
+Ioannis",Genfeve,CH,"Centre
 Ophtalnologique
 de Rive SA, Rue
-Pierre.Patio 15";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Pfister Julius;Cham;CH;"Praxis Julius
+Pierre.Patio 15",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Pfister Julius,Cham,CH,"Praxis Julius
 Pfister,
-Rigistrasse 1";;;0;0;0;0;500.00;0;500.00;hcp;novartis
-Piccoli Giuliana;Zwingen;CH;"Praxis Giuliana
+Rigistrasse 1",,,0,0,0,0,500.00,0,500.00,hcp,novartis
+Piccoli Giuliana,Zwingen,CH,"Praxis Giuliana
 Piccoli,
 Dorfstrasse
-29/31";;;0;0;610.00;686.00;0;0;1296.00;hcp;novartis
-Piecyk Andreas;Zürich;CH;"Witellikerstrass
-e 40";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+29/31",,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis
+Piecyk Andreas,Zürich,CH,"Witellikerstrass
+e 40",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Piletta
-Pierre-Andr^";Genfcve;CH;"Sk inpuls
+Pierre-Andr^",Genfcve,CH,"Sk inpuls
 Dermatology
 Center,
 Rond-Point de
-Plainpalais 5";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Pilly Bertrand;Neuchätel;CH;"Cabinet Bertrand
+Plainpalais 5",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Pilly Bertrand,Neuchätel,CH,"Cabinet Bertrand
 Pilly, Rue des
-Poteaux 8";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Poteaux 8",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Pilotto
-Pierre-Antonio";Genfeve;CH;"Cabinet
+Pierre-Antonio",Genfeve,CH,"Cabinet
 Pierre-Antonio
 Pilotto, Chemin
-Malombrl 5";;;0;0;0;0;1700.00;0;1700.00;hcp;novartis
+Malombrl 5",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
 "Pinzello-Hürlima
-nn Alexander";Bülach;CH;"Gruppenpraxis,
-Grabengasse 12";;;0;0;0;0;1225.00;0;1225.00;hcp;novartis
-Plaza Tobias;Uster;CH;"Haut und
+nn Alexander",Bülach,CH,"Gruppenpraxis,
+Grabengasse 12",,,0,0,0,0,1225.00,0,1225.00,hcp,novartis
+Plaza Tobias,Uster,CH,"Haut und
 Allergie Zentrum
 Brunnenhof,
 Oberlandstrasse
-100";;;0;0;1160.00;400.00;4550.00;0;6110.00;hcp;novartis
+100",,,0,0,1160.00,400.00,4550.00,0,6110.00,hcp,novartis
 "Popescu Razvan
-Andrei";Aarau;CH;"Tunor Zentrum
+Andrei",Aarau,CH,"Tunor Zentrum
 Aarau AG, Rain
-34";;;0;0;0;0;1500.00;0;1500.00;hcp;novartis
-Purek Lesek;Malans GR;CH;"Medical Center
+34",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
+Purek Lesek,Malans GR,CH,"Medical Center
 Karlihof,
 KarlihofStrasse
-14 a";;;0;0;0;0;750.00;0;750.00;hcp;novartis
+14 a",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 "Purkabiri
-Kurosch";Heiligenschwendi;CH;"Berner Reha
+Kurosch",Heiligenschwendi,CH,"Berner Reha
 Zentrum Medizin
 Pneumologie,
-Schwendi 299";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Quagliata Luca;Basel;CH;"Universitätsspit
+Schwendi 299",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Quagliata Luca,Basel,CH,"Universitätsspit
 al Basel
 Pathologie,
 Schönbeinstrasse
-40";;;0;0;0;0;1125.00;2107.87;3232.87;hcp;novartis
-Ramseier Simon;Oättwil AG;CH;"Ärztezentrum
+40",,,0,0,0,0,1125.00,2107.87,3232.87,hcp,novartis
+Ramseier Simon,Oättwil AG,CH,"Ärztezentrum
 Täfernhof,
 Mellingerstrasse
-207";;;0;0;0;0;1950.00;0;1950.00;hcp;novartis
-Rasche Karsten;Winterthur;CH;"Praxis Karsten
+207",,,0,0,0,0,1950.00,0,1950.00,hcp,novartis
+Rasche Karsten,Winterthur,CH,"Praxis Karsten
 Rasche,
-Rönerstrasse 30";;;0;0;0;0;3750.00;0;3750.00;hcp;novartis
-Reding Daniel;Baar;CH;"Zuger
+Rönerstrasse 30",,,0,0,0,0,3750.00,0,3750.00,hcp,novartis
+Reding Daniel,Baar,CH,"Zuger
 Kantonsspital AG
 Medizin
 Onkologie,
 Landhausstrasse
-11";;;0;0;0;0;750.00;0;750.00;hcp;novartis
-Reek Sven;Aarau;CH;"Praxis Sven
-Reek, Rain 34";;;0;0;0;0;3000.00;0;3000.00;hcp;novartis
-Regamey Nicolas;Luzern;CH;"Luzerner
+11",,,0,0,0,0,750.00,0,750.00,hcp,novartis
+Reek Sven,Aarau,CH,"Praxis Sven
+Reek, Rain 34",,,0,0,0,0,3000.00,0,3000.00,hcp,novartis
+Regamey Nicolas,Luzern,CH,"Luzerner
 Kantonsspital
 Luzern
 Kinderklinik,
-Spitalstrasse";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Rehor Gerald;Vaduz;CH;"Praxis Gerald
+Spitalstrasse",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Rehor Gerald,Vaduz,CH,"Praxis Gerald
 Rehor,
-Landstrasse 117";;;0;0;0;0;2500.00;0;2500.00;hcp;novartis
+Landstrasse 117",,,0,0,0,0,2500.00,0,2500.00,hcp,novartis
 "Reichlin Heiz
-Monika";Zürich;CH;"Praxis für
+Monika",Zürich,CH,"Praxis für
 Onkologie,
-Toblerstrasse 50";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Toblerstrasse 50",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Reuter Geiser
-Kirsten";Hinterkappelen;CH;"Praxis Kirsten
+Kirsten",Hinterkappelen,CH,"Praxis Kirsten
 Reuter Geiser,
-Dorfstrasse 1";;;0;0;0;0;1200.00;0;1200.00;hcp;novartis
+Dorfstrasse 1",,,0,0,0,0,1200.00,0,1200.00,hcp,novartis
 "Reutter
-Christoph";Winterthur;CH;"Neurowinterthur,
-Brunngasse 6";;;0;0;0;0;250.00;0;250.00;hcp;novartis
+Christoph",Winterthur,CH,"Neurowinterthur,
+Brunngasse 6",,,0,0,0,0,250.00,0,250.00,hcp,novartis
 "Reynard
-Christophe";Sion;CH;"Cabinet
+Christophe",Sion,CH,"Cabinet
 Christophe
 Reynard, Rue du
-Sc ex 2";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Richter Michael;Pfäffikon SZ;CH;"Praxis Michael
+Sc ex 2",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Richter Michael,Pfäffikon SZ,CH,"Praxis Michael
 Richter,
 Bahnhofstrasse
-13";;;0;0;610.00;686.00;0;0;1296.00;hcp;novartis
-Richter Sven;St. Moritz;CH;"Heilbad St.
+13",,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis
+Richter Sven,St. Moritz,CH,"Heilbad St.
 Moritz, Piazza
-Paracelsus 2";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+Paracelsus 2",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Richter-Oehler
-Monica";Kloten;CH;"Praxis Monica
+Monica",Kloten,CH,"Praxis Monica
 Richter-Oehler,
 BfJrohaus-Parkha
-US 1";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Rieb Tatiana;Zuzwil SG;CH;"ÄrzteZentrum
+US 1",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Rieb Tatiana,Zuzwil SG,CH,"ÄrzteZentrum
 Zuzwil,
-Ringstrasse 1";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
+Ringstrasse 1",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
 "Riederer Markus
-Stephan";Burgdorf;CH;"Praxis Markus
+Stephan",Burgdorf,CH,"Praxis Markus
 Stephan
 Riederer,
 Oberburgstrasse
-54";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+54",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Rigamonti
-V^ronique";Bern;CH;"Praxis
+V^ronique",Bern,CH,"Praxis
 Bubenberg,
 Bubenbergplatz 8
-/ 11";;;0;0;0;0;850.00;0;850.00;hcp;novartis
-Rindova Petra;Meilen;CH;"Arztpraxis Dr.
+/ 11",,,0,0,0,0,850.00,0,850.00,hcp,novartis
+Rindova Petra,Meilen,CH,"Arztpraxis Dr.
 Tyercha GmbH,
-Dorfstrasse 94";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Ritscher Daniel;Zürich;CH;"Lungenpraxis
+Dorfstrasse 94",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Ritscher Daniel,Zürich,CH,"Lungenpraxis
 Morgental
 Andere,
-Albisstrasse 53";;;0;0;0;0;1500.00;0;1500.00;hcp;novartis
+Albisstrasse 53",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
 "Rochlitz
-Christoph";Basel;CH;"Universitätsspit
+Christoph",Basel,CH,"Universitätsspit
 al Basel Medizin
 Onkologie,
-Petersgraben 4";;;0;0;0;0;400.00;0;400.00;hcp;novartis
-Rodic Biljana;Winterthur;CH;"Kantonsspital
+Petersgraben 4",,,0,0,0,0,400.00,0,400.00,hcp,novartis
+Rodic Biljana,Winterthur,CH,"Kantonsspital
 Winterthur
 Medizin
 Neurologie,
-Brauerstrasse 15";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Ronga Alexandre;Lausanne;CH;"Centre Medical
+Brauerstrasse 15",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Ronga Alexandre,Lausanne,CH,"Centre Medical
 de La Source,
 Avenue
 Alexandre-Vinet
-30 / 32";;;0;0;0;0;600.00;0;600.0;hcp;novartis
-Roth Serge;Carouge GE;CH;"Cabinet Serge
+30 / 32",,,0,0,0,0,600.00,0,600.0,hcp,novartis
+Roth Serge,Carouge GE,CH,"Cabinet Serge
 Roth, Clos de
-la Fonderie lb";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Rothe Thomas;Chur;CH;"Kantonsspital
+la Fonderie lb",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Rothe Thomas,Chur,CH,"Kantonsspital
 Graubünden
 Medizin
 Pneumologie,
-Loestrasse 170";;;0;0;0;0;750.00;0;750.00;hcp;novartis
+Loestrasse 170",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 "Rothenbühler
-Simon Paul";Basel;CH;"Universitätsspit
+Simon Paul",Basel,CH,"Universitätsspit
 al Basel
 Ophthalmologisch
 e Klinik,
 Mittlere Strasse
-91";;;0;0;0;0;750.00;0;750.00;hcp;novartis
+91",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 "Röthlisberger
-Christian";Biel/Bienne;CH;"Medizinisches
+Christian",Biel/Bienne,CH,"Medizinisches
 Zentrum Biel,
-Unionsgasse 14";;;0;0;0;0;1600.00;0;1600.00;hcp;novartis
-Rückforth Sarah;Zollikofen;CH;"Kardiologisch-Xn
+Unionsgasse 14",,,0,0,0,0,1600.00,0,1600.00,hcp,novartis
+Rückforth Sarah,Zollikofen,CH,"Kardiologisch-Xn
 ternistische,
 Kirchlindachstra
-sse 2";;;0;0;610.00;686.00;0;0;1296.00;hcp;novartis
+sse 2",,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis
 "Ruhstaller
-Thomas";St. Gallen;CH;"Kantonsspital
+Thomas",St. Gallen,CH,"Kantonsspital
 St. Gallen
 Brustzentrum/Chi
 rurgie,
 Rorschacher
-Strasse 95";;;0;0;0;0;400.00;0;480.00;hcp;novartis
+Strasse 95",,,0,0,0,0,400.00,0,480.00,hcp,novartis
 "Rüsges-Wolter
-Ilka";Bern;CH;"Prolindo
+Ilka",Bern,CH,"Prolindo
 Onkologie- und
 Häaatologie-Team
 »
 Bremgartenstrass
-e 117";;;0;0;300.00;344.93;1000.00;0;1644.93;hcp;novartis
-Salomon Jörg;Bern;CH;"Praxis Dörg
+e 117",,,0,0,300.00,344.93,1000.00,0,1644.93,hcp,novartis
+Salomon Jörg,Bern,CH,"Praxis Dörg
 Salomon,
 Schänzlistrasse
-39";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Samii Kaveh;Genfeve;CH;"Höpitaux
+39",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Samii Kaveh,Genfeve,CH,"Höpitaux
 Universitaires
 de Genfeve
 Medizin
 Hämatologie,
 Rue
 Gabrielle-Perret
--Gentil 4";;;0;0;0;0;1750.00;0;1750.00;hcp;novartis
+-Gentil 4",,,0,0,0,0,1750.00,0,1750.00,hcp,novartis
 "Sandor Peter
-Stephan";Baden;CH;"Kantonsspital
+Stephan",Baden,CH,"Kantonsspital
 Baden AG Medizin
 Neurologie, Im
-Ergel 1";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Saur Matthias;Frauenfeld;CH;"Rheuma- und
+Ergel 1",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Saur Matthias,Frauenfeld,CH,"Rheuma- und
 Schmerzzentrum,
-Rheinstrasse 23";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Savcic Milos;Lausanne;CH;"Cabinet Milos
+Rheinstrasse 23",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Savcic Milos,Lausanne,CH,"Cabinet Milos
 Savcic, Avenue
-de Savoie 10";;;0;0;610.00;686.00;1800.00;0;3096.00;hcp;novartis
-Schardt Julian;Bern;CH;"Inselspital
+de Savoie 10",,,0,0,610.00,686.00,1800.00,0,3096.00,hcp,novartis
+Schardt Julian,Bern,CH,"Inselspital
 Bern,
 Insei-Gruppe AG
 Medizin
 Onkologie,
 Freiburgstrasse
-18";;;0;0;0;0;2810.00;0;2810.00;hcp;novartis
+18",,,0,0,0,0,2810.00,0,2810.00,hcp,novartis
 "Schenker
-Jean-Martin";Genfeve;CH;"Cabinet
+Jean-Martin",Genfeve,CH,"Cabinet
 Jean-Martin
 Schenker, Rue
-des Pavillons 5";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
-Schihin Patrick;Horgen;CH;"See-Spital
+des Pavillons 5",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
+Schihin Patrick,Horgen,CH,"See-Spital
 Standort Horgen,
-Asylstrasse 19";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Asylstrasse 19",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Schiller-Bruns
-Peter";Liestal;CH;"Praxis Peter
+Peter",Liestal,CH,"Praxis Peter
 Schiller-Bruns,
-Mühlegasse 3";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+Mühlegasse 3",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Schleiffenbaum
-Boris";Zürich;CH;"Praxis Boris
+Boris",Zürich,CH,"Praxis Boris
 Schleiffenbaum,
 Bellariastrasse
-38";;;0;0;0;0;1950.00;0;1950.00;hcp;novartis
-Schmid Markus;Uettligen;CH;"Praxis Markus
+38",,,0,0,0,0,1950.00,0,1950.00,hcp,novartis
+Schmid Markus,Uettligen,CH,"Praxis Markus
 Schmid,
-Ahornweg 5";;;0;0;0;0;1600.00;0;1600.00;hcp;novartis
-Schmid Mathias;Zürich;CH;"Stadtspital
+Ahornweg 5",,,0,0,0,0,1600.00,0,1600.00,hcp,novartis
+Schmid Mathias,Zürich,CH,"Stadtspital
 Triemli Medizin
 Onkologie,
 Birmensdorferstr
-asse 497";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+asse 497",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Schmid-Grendelme
-ier Peter";Zürich;CH;"Universitätsspit
+ier Peter",Zürich,CH,"Universitätsspit
 al Zürich
 Dermatologische
 Klinik,
-Gloriastrasse 31";;;0;0;0;0;1600.00;367.00;1967.00;hcp;novartis
-Schmidt Astrid;Bern;CH;"Rheumatologische
+Gloriastrasse 31",,,0,0,0,0,1600.00,367.00,1967.00,hcp,novartis
+Schmidt Astrid,Bern,CH,"Rheumatologische
 Praxis,
 Bremgartenstrass
-e 119";;;0;0;860.00;300.00;0;0;1160.00;hcp;novartis
-Schmidt Hermann;Naters;CH;"Arztpraxis
+e 119",,,0,0,860.00,300.00,0,0,1160.00,hcp,novartis
+Schmidt Hermann,Naters,CH,"Arztpraxis
 St.Raphael,
 Bahnhofstrasse
-20";;;0;0;0;0;200.00;0;200.00;hcp;novartis
-Schmuki Marcel;St. Gallen;CH;"Gruppenpraxis,
-Poststrasse 12";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
+20",,,0,0,0,0,200.00,0,200.00,hcp,novartis
+Schmuki Marcel,St. Gallen,CH,"Gruppenpraxis,
+Poststrasse 12",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
 "Schneebeli
-Martina";Zürich;CH;"Universitätsspit
+Martina",Zürich,CH,"Universitätsspit
 al Zürich,
-Ränistrasse 100";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+Ränistrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Schönbächler
-Dosef";Zürich;CH;"Gruppenpraxis,
-Bederstrasse 51";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+Dosef",Zürich,CH,"Gruppenpraxis,
+Bederstrasse 51",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Schött Dagmar
-Charlotte";Binningen;CH;"Gruppenpraxis
+Charlotte",Binningen,CH,"Gruppenpraxis
 Neurologie,
-Hauptstrasse 7";;;0;0;0;0;700.00;0;700.00;hcp;novartis
+Hauptstrasse 7",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 "Schreiber
-Alexander";Aarau;CH;"Kantonsspital
+Alexander",Aarau,CH,"Kantonsspital
 Aarau AG Medizin
 Onkologie,
-Teilstrasse 25";;;0;0;0;0;1375.00;0;1375.00;hcp;novartis
-Schwab Christoph;St. Gallen;CH;"Kantonsspital
+Teilstrasse 25",,,0,0,0,0,1375.00,0,1375.00,hcp,novartis
+Schwab Christoph,St. Gallen,CH,"Kantonsspital
 St. Gallen
 Urologische
 Klinik,
 Rorschacher
-Strasse 95";;;0;0;0;0;625.00;0;625.00;hcp;novartis
-Schwab Elinor;Ossingen;CH;"Arztpraxis
+Strasse 95",,,0,0,0,0,625.00,0,625.00,hcp,novartis
+Schwab Elinor,Ossingen,CH,"Arztpraxis
 Ossingen,
 Truttikerstrasse
-19";;;0;0;170.00;398.00;0;0;568.00;hcp;novartis
+19",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
 "Schwarz Alfons
-Michael";Basel;CH;"Ambulatorium
+Michael",Basel,CH,"Ambulatorium
 Wiesendamm,
-Wiesendamm 22";;;0;0;860.00;300.00;0;0;1160.00;hcp;novartis
-Schwarz Esther;Zürich;CH;"Universitätsspit
+Wiesendamm 22",,,0,0,860.00,300.00,0,0,1160.00,hcp,novartis
+Schwarz Esther,Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Pneumologie,
-Ränistrasse 100";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+Ränistrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Schwarzkopf
-Ann-Kathrin";Bern;CH;"Praxis
+Ann-Kathrin",Bern,CH,"Praxis
 Ann-Kathrin
 Schwarzkopf,
 Schänzlistrasse
-39";;;0;0;0;0;600.00;0;600.0;hcp;novartis
+39",,,0,0,0,0,600.00,0,600.0,hcp,novartis
 "Schwegler
-Naumburger Guido";Schlieren;CH;"Spital Limmattal
+Naumburger Guido",Schlieren,CH,"Spital Limmattal
 Medizin
 Neurologie,
 Urdorferstrasse
-100";;;0;0;0;0;1250.00;0;1250.00;hcp;novartis
-Seidel Matthias;Basel;CH;"Schmerzklinik
+100",,,0,0,0,0,1250.00,0,1250.00,hcp,novartis
+Seidel Matthias,Basel,CH,"Schmerzklinik
 Basel,
 Hirschgässlein
-11-15";;;0;0;0;0;1450.00;0;1450.00;hcp;novartis
+11-15",,,0,0,0,0,1450.00,0,1450.00,hcp,novartis
 "Seifert
 Weinbacher
-Bettina Maria";Liestal;CH;"Kantonsspital
+Bettina Maria",Liestal,CH,"Kantonsspital
 Baselland
 Liestal Medizin
 Onkologie,
-Rheinstrasse 26";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Sidler Samuel;Steffisburg;CH;"Praxis Samuel
+Rheinstrasse 26",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Sidler Samuel,Steffisburg,CH,"Praxis Samuel
 Sidler,
-Zeigstrasse 10";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
-Siebel Philip;Frauenfeld;CH;"Neurologie am
+Zeigstrasse 10",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
+Siebel Philip,Frauenfeld,CH,"Neurologie am
 Rosenberg,
 Thundorferstrass
-e 120";;;0;0;0;0;250.00;0;250.00;hcp;novartis
+e 120",,,0,0,0,0,250.00,0,250.00,hcp,novartis
 "Siebenschein
-Ren6";Wettingen;CH;"Doktor Zentrum
+Ren6",Wettingen,CH,"Doktor Zentrum
 Wettingen AG,
 Bahnhofstrasse
-88";;;0;0;0;0;750.00;0;750.00;hcp;novartis
-Siegrist Peter;Zürich;CH;"Herzpraxis
+88",,,0,0,0,0,750.00,0,750.00,hcp,novartis
+Siegrist Peter,Zürich,CH,"Herzpraxis
 Stadelhofen,
-Goethestrasse 20";;;0;0;328.00;686.00;5338.0;0;6352.00;hcp;novartis
-Signoreil lan;Chur;CH;"Medizinisches
+Goethestrasse 20",,,0,0,328.00,686.00,5338.0,0,6352.00,hcp,novartis
+Signoreil lan,Chur,CH,"Medizinisches
 Zentrum gleis d,
 Gürtelstrasse
-46";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Solenthaler Max;Thun;CH;"Spital STS AG -
+46",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Solenthaler Max,Thun,CH,"Spital STS AG -
 Spital Thun
 Medizin
 Onkologie,
 Krankenhausstras
-se 12";;;0;0;0;0;750.00;0;750.00;hcp;novartis
+se 12",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 "Sonderegger
-Thomas";St. Gallen;CH;"Praxisgemeinscha
+Thomas",St. Gallen,CH,"Praxisgemeinscha
 ft Mövenstrasse,
 Mövenstrasse
-12";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
-Spataro Vito;Bellinzona;CH;"Studio medico,
+12",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
+Spataro Vito,Bellinzona,CH,"Studio medico,
 Viale Stazione
-23";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Spatola Giuseppe;Birsfelden;CH;"Praxis Giuseppe
+23",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Spatola Giuseppe,Birsfelden,CH,"Praxis Giuseppe
 Spatola,
-Hauptstrasse 56";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
-Spiess Yvonne;Zürich;CH;"Gruppenpraxis,
-Talstrasse 65";;;0;0;0;0;1500.00;0;1500.00;hcp;novartis
+Hauptstrasse 56",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
+Spiess Yvonne,Zürich,CH,"Gruppenpraxis,
+Talstrasse 65",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
 "Stähli Christoph
-Bernhard";Schwyz;CH;"Spital Schwyz
+Bernhard",Schwyz,CH,"Spital Schwyz
 Medizin
 Kardiologie,
 Waldeggstrasse
-10";;;0;0;0;0;625.00;0;625.00;hcp;novartis
+10",,,0,0,0,0,625.00,0,625.00,hcp,novartis
 "Stallmach
-Matthias";Münchenstein;CH;"Neurologie am
+Matthias",Münchenstein,CH,"Neurologie am
 Schaulager,
 Emil
-Frey-Strasse 85";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Starkl Margit;Winterthur;CH;"Neuropraxis im
+Frey-Strasse 85",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Starkl Margit,Winterthur,CH,"Neuropraxis im
 Haus zum
 Walfisch,
-Marktgasse 44";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Steffel Dan;Zürich;CH;"Universitätsspit
+Marktgasse 44",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Steffel Dan,Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Kardiologie,
-Ränistrasse 100";;;0;0;0;0;6945.00;0;6945.00;hcp;novartis
-Steinacher Alex;Müllheim Dorf;CH;"Ärztezentrum
+Ränistrasse 100",,,0,0,0,0,6945.00,0,6945.00,hcp,novartis
+Steinacher Alex,Müllheim Dorf,CH,"Ärztezentrum
 Müllheim AG,
-Hintere Gärten 8";;;0;0;150.00;351.00;0;0;501.00;hcp;novartis
+Hintere Gärten 8",,,0,0,150.00,351.00,0,0,501.00,hcp,novartis
 "Steinacher-Risle
-r Carmen";Müllheim Dorf;CH;"Ärztezentrum
+r Carmen",Müllheim Dorf,CH,"Ärztezentrum
 Müllheim AG,
-Hintere Gärten 8";;;0;0;150.00;351.00;0;0;501.00;hcp;novartis
-Steiner Stephan;Wettingen;CH;"Doktor Zentrum
+Hintere Gärten 8",,,0,0,150.00,351.00,0,0,501.00,hcp,novartis
+Steiner Stephan,Wettingen,CH,"Doktor Zentrum
 Wettingen AG,
 Bahnhofstrasse
-88";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Steuer Karl;Allschwil;CH;"Aerztehaus
+88",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Steuer Karl,Allschwil,CH,"Aerztehaus
 Allschwil AG,
 Brennerstrasse
-12";;;0;0;0;0;2500.00;0;2500.00;hcp;novartis
-Stoll Susanna;Zürich;CH;"Stadtspital
+12",,,0,0,0,0,2500.00,0,2500.00,hcp,novartis
+Stoll Susanna,Zürich,CH,"Stadtspital
 Triemli Medizin
 Onkologie,
 Birmensdorferstr
-asse 497";;;0;0;0;0;1975.00;0;1975.00;hcp;novartis
-Stolz Daiana;Basel;CH;"Universitätsspit
+asse 497",,,0,0,0,0,1975.00,0,1975.00,hcp,novartis
+Stolz Daiana,Basel,CH,"Universitätsspit
 al Basel Medizin
 Pneumologie,
-Petersgraben 4";;;0;0;0;0;2125.00;0;2125.00;hcp;novartis
-Streit Markus;Aarau;CH;"Kantonsspital
+Petersgraben 4",,,0,0,0,0,2125.00,0,2125.00,hcp,novartis
+Streit Markus,Aarau,CH,"Kantonsspital
 Aarau AG
 Dermatologische
 Klinik,
-Bahnhofplatz 3C";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Studer Daniela;Brig;CH;"Praxis Daniela
+Bahnhofplatz 3C",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Studer Daniela,Brig,CH,"Praxis Daniela
 Studer,
 Rhonesandstrasse
-6";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+6",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Sturzenegger
-Mathias";Bern;CH;"Inselspital
+Mathias",Bern,CH,"Inselspital
 Bern,
 Insei-Gruppe AG
 Medizin
 Neurologie,
 Freiburgstrasse
-18";;;0;0;0;0;1800.00;0;1800.00;hcp;novartis
+18",,,0,0,0,0,1800.00,0,1800.00,hcp,novartis
 "Sulliger
-Dean-Marc";Burgdorf;CH;"Praxis Dean-Marc
+Dean-Marc",Burgdorf,CH,"Praxis Dean-Marc
 Sulliger,
-Bahnhofstrasse 7";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Sztajzel Duan;Carouge GE;CH;"Cabinet Duan
+Bahnhofstrasse 7",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Sztajzel Duan,Carouge GE,CH,"Cabinet Duan
 Sztajzel,
 Avenue
 Cardinal-Mermill
-od 5";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Tamm Michael;Basel;CH;"Universitätsspit
+od 5",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Tamm Michael,Basel,CH,"Universitätsspit
 al Basel Medizin
 Pneumologie,
-Petersgraben 4";;;0;0;0;0;3750.00;677.20;4427.20;hcp;novartis
+Petersgraben 4",,,0,0,0,0,3750.00,677.20,4427.20,hcp,novartis
 "Tanneberger
-Oliver";Oberwil BL;CH;"Praxis Oliver
+Oliver",Oberwil BL,CH,"Praxis Oliver
 Tanneberger,
 Bahnhofstrasse
-19";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
+19",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
 "Theocharides
-Alexandre";Zürich;CH;"Universitätsspit
+Alexandre",Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Hämatologie,
-Ränistrasse 106";;;0;0;0;0;2700.00;0;2700.00;hcp;novartis
+Ränistrasse 106",,,0,0,0,0,2700.00,0,2700.00,hcp,novartis
 "Timmermann
-Melanie";Olten;CH;"Pallas Klinik
+Melanie",Olten,CH,"Pallas Klinik
 Ophthalmologisch
 e Klinik, Louis
 Giroud-Strasse
-20";;;0;0;0;0;250.00;0;250.00;hcp;novartis
+20",,,0,0,0,0,250.00,0,250.00,hcp,novartis
 "Tinguely
-Francine";Lausanne;CH;"Cabinet Francine
+Francine",Lausanne,CH,"Cabinet Francine
 Tinguely,
 Chemin des
-Croix-Rouges 14";;;0;0;328.00;686.00;0;0;1014.00;hcp;novartis
+Croix-Rouges 14",,,0,0,328.00,686.00,0,0,1014.00,hcp,novartis
 "Ti refort
-Yordanka";Genfeve;CH;"Höpitaux
+Yordanka",Genfeve,CH,"Höpitaux
 Universitaires
 de Genfeve
 Medizin
 Hämatologie,
 Rue
 Gabrielle-Perret
--Gentil 4";;;0;0;0;0;1700.00;0;1700.00;hcp;novartis
-Töndury Petrign;Bern;CH;"Kinder- und
+-Gentil 4",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
+Töndury Petrign,Bern,CH,"Kinder- und
 Dugendpraxis im
 Breitsch,
 Spitalackerstras
-se 68";;;0;0;0;0;850.00;0;850.00;hcp;novartis
-Trojan Andreas;Zürich;CH;"Onkozentrum
+se 68",,,0,0,0,0,850.00,0,850.00,hcp,novartis
+Trojan Andreas,Zürich,CH,"Onkozentrum
 Zürich AG,
-Seestrasse 259";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Seestrasse 259",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Trüeb Ralph
-Michel";Wallisellen;CH;"Praxis Ralph
+Michel",Wallisellen,CH,"Praxis Ralph
 Michel Trüeb,
-Bahnhofplatz 1A";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Tscharner Gion;Bern;CH;"Praxis Gion
+Bahnhofplatz 1A",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Tscharner Gion,Bern,CH,"Praxis Gion
 Tscharner,
 Gutenbergstrasse
-5";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Tschopp Oliver;Zürich;CH;"Universitätsspit
+5",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Tschopp Oliver,Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Endo/Diabetologi
 e, Rämistrasse
-100";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Turk Alexander;Horgen;CH;"See-Spital
+100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Turk Alexander,Horgen,CH,"See-Spital
 Standort Horgen
 Innere Medizin,
-Asylstrasse 19";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Asylstrasse 19",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Tzankov
-Alexandar";Basel;CH;"Universitätsspit
+Alexandar",Basel,CH,"Universitätsspit
 al Basel
 Pathologie,
 Schönbeinstrasse
-40";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+40",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Uhlmann Nussbaum
-Catrina";Olten;CH;"Kantonsspital
+Catrina",Olten,CH,"Kantonsspital
 Olten Medizin
 Onkologie,
 Baslerstrasse
-150";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Uldry Christophe;Rolle;CH;"Höpital de Rolle
+150",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Uldry Christophe,Rolle,CH,"Höpital de Rolle
 / 3H0L, Route
-de 1‘Höpital 26";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Ulrich Urs;Langenthal;CH;"Praxis Urs
+de 1‘Höpital 26",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Ulrich Urs,Langenthal,CH,"Praxis Urs
 Ulrich,
-Marktgasse 1";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Unmüssig Thomas;Wallisellen;CH;"Praxis Thomas
+Marktgasse 1",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Unmüssig Thomas,Wallisellen,CH,"Praxis Thomas
 Unnüssig,
-Parkstrasse 4";;;0;0;860.00;300.00;0;0;1160.00;hcp;novartis
-Unternährer Beat;Hünenberg;CH;"Praxis Beat
+Parkstrasse 4",,,0,0,860.00,300.00,0,0,1160.00,hcp,novartis
+Unternährer Beat,Hünenberg,CH,"Praxis Beat
 Unternährer,
-Bösch 37";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
-Urben Laura;Gümligen;CH;"Praxis Laura
+Bösch 37",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
+Urben Laura,Gümligen,CH,"Praxis Laura
 Urben,
-Worbstrasse 324";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Worbstrasse 324",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Urner-Bloch
-Ursula";Zürich;CH;"Gruppenpraxis,
+Ursula",Zürich,CH,"Gruppenpraxis,
 Zürichbergstrass
-e 34";;;0;0;0;0;1201.99;0;1201.99;hcp;novartis
+e 34",,,0,0,0,0,1201.99,0,1201.99,hcp,novartis
 "Vaclavik
-Veronika";Genfeve;CH;"Cabinet Veronika
+Veronika",Genfeve,CH,"Cabinet Veronika
 Vaclavik,
 Avenue de la
-Roseraie 76B";;;0;0;0;0;6168.00;0;6168.00;hcp;novartis
-Vadasz Vinzenz;Luzern;CH;"Luzerner
+Roseraie 76B",,,0,0,0,0,6168.00,0,6168.00,hcp,novartis
+Vadasz Vinzenz,Luzern,CH,"Luzerner
 Kantonsspital
 Luzern
 Ophtha lmologisch
 e Klinik,
-Spitalstrasse";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Vall6e lean-Paul;Genfcve;CH;"Höpitaux
+Spitalstrasse",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Vall6e lean-Paul,Genfcve,CH,"Höpitaux
 Universitaires
 de Genöve
 Radiologische
 Klinik, Rue
 Gabrielle-Perret
--Gentil 4";;;0;0;0;0;750.00;0;750.00;hcp;novartis
-Van Spijk Piet;Luzern;CH;"Medicum Wesemlin
+-Gentil 4",,,0,0,0,0,750.00,0,750.00,hcp,novartis
+Van Spijk Piet,Luzern,CH,"Medicum Wesemlin
 AG,
 Landschaustrasse
-2";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
-Vecellio Marco;Zürich;CH;"Gruppenpraxis,
+2",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
+Vecellio Marco,Zürich,CH,"Gruppenpraxis,
 Hegibachstrasse
-2";;;0;0;1160.00;400.00;0;0;1560.00;hcp;novartis
+2",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
 "Vilan Bossi
-Anitha";Küsnacht ZH;CH;"Gruppenpraxis,
-Schiffliweg 7";;;0;0;170.00;398.00;0;0;568.00;hcp;novartis
+Anitha",Küsnacht ZH,CH,"Gruppenpraxis,
+Schiffliweg 7",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
 "Vögelin
-Hans-Peter";Kloten;CH;"Praxis
+Hans-Peter",Kloten,CH,"Praxis
 Hans-Peter
 Vögelin,
-Gerbegasse 6";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Gerbegasse 6",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Vollenweider
-Dörg";Romanshorn;CH;"Praxis 3örg
+Dörg",Romanshorn,CH,"Praxis 3örg
 Vollenweider,
 Feldeggstrasse
-16";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
+16",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
 "von Burg
-Philippe";Solothurn;CH;"Bürgerspital
+Philippe",Solothurn,CH,"Bürgerspital
 Solothurn
 Medizin
 Onkologie,
 Schöngrünstrasse
-38";;;0;0;0;0;2050.00;0;2050.00;hcp;novartis
-Von Rohr Lukas;Biel/Bienne;CH;"Praxis Lukas Von
+38",,,0,0,0,0,2050.00,0,2050.00,hcp,novartis
+Von Rohr Lukas,Biel/Bienne,CH,"Praxis Lukas Von
 Rohr, Rebenweg
-34";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+34",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "von Toggenburg
-Friedrich";Buchs SG;CH;"Praxis Friedrich
+Friedrich",Buchs SG,CH,"Praxis Friedrich
 von Toggenburg,
 Technikumstrasse
-6";;;0;0;0;0;750.00;0;750.00;hcp;novartis
-Voss 3an;Luzern;CH;"NeuroPraxis
+6",,,0,0,0,0,750.00,0,750.00,hcp,novartis
+Voss 3an,Luzern,CH,"NeuroPraxis
 Luzern,
-Haldenstrasse 11";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Vuichoud Marc;Lausanne;CH;"Cabinet Marc
+Haldenstrasse 11",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Vuichoud Marc,Lausanne,CH,"Cabinet Marc
 Vuichoud,
 Chemin
 Guiguer-de-Prang
-ins 5";;;0;0;0;0;200.00;0;200.00;hcp;novartis
-Vuille Cedric;Ny on;CH;"Cabinet de
+ins 5",,,0,0,0,0,200.00,0,200.00,hcp,novartis
+Vuille Cedric,Ny on,CH,"Cabinet de
 groupe, Avenue
-Viollier 8";;;0;0;0;0;750.00;0;750.00;hcp;novartis
-Haber Michael;Langenthal;CH;"Praxis Posthaus
+Viollier 8",,,0,0,0,0,750.00,0,750.00,hcp,novartis
+Haber Michael,Langenthal,CH,"Praxis Posthaus
 AG, Jurastrasse
-41";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+41",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Wächter
-Katharina";Aadorf;CH;"Praxis Untermoos
+Katharina",Aadorf,CH,"Praxis Untermoos
 AG,
 Untermoosstrasse
-11";;;0;0;860.00;300.00;0;0;1160.00;hcp;novartis
-Waeber Bernard;Marly;CH;"Route des
-Mouettes 20";;;0;0;0;0;7000.00;179.00;7179.00;hcp;novartis
-Hais Thomas;Stans;CH;"Praxis Thomas
+11",,,0,0,860.00,300.00,0,0,1160.00,hcp,novartis
+Waeber Bernard,Marly,CH,"Route des
+Mouettes 20",,,0,0,0,0,7000.00,179.00,7179.00,hcp,novartis
+Hais Thomas,Stans,CH,"Praxis Thomas
 Wais,
 Engelbergstrasse
-33";;;0;0;0;0;500.00;0;500.00;hcp;novartis
-Haizel Maria;Basel;CH;"Universitätsspit
+33",,,0,0,0,0,500.00,0,500.00,hcp,novartis
+Haizel Maria,Basel,CH,"Universitätsspit
 al Basel
 Ophthalmologisch
 e Klinik,
 Mittlere Strasse
-91";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+91",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Wannesson De
-Nicola Luciano";Bellinzona;CH;"Ospedale
+Nicola Luciano",Bellinzona,CH,"Ospedale
 Regionale di
 Bellinzona e
 Valli Medizin
 Onkologie, Via
-Ospedale";;;0;0;0;0;750.00;0;750.00;hcp;novartis
+Ospedale",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 "Maser-Butora
-Maria";Luzern;CH;"Gruppenpraxis,
+Maria",Luzern,CH,"Gruppenpraxis,
 Obergrundstrasse
-88";;;0;0;0;0;500.00;0;500.00;hcp;novartis
-Weber Daniela;Zihlschlacht;CH;"Rehaklinik
+88",,,0,0,0,0,500.00,0,500.00,hcp,novartis
+Weber Daniela,Zihlschlacht,CH,"Rehaklinik
 Zihlschlacht AG
 Innere Medizin,
 Hauptstrasse
-2-4";;;0;0;610.00;0;0;0;610.00;hcp;novartis
-Weber Marcel;Zürich;CH;"Stadtspital
+2-4",,,0,0,610.00,0,0,0,610.00,hcp,novartis
+Weber Marcel,Zürich,CH,"Stadtspital
 Triemli
 Rheumatologische
 Klinik,
 Birmensdorferstr
-asse 497";;;0;0;0;0;1700.00;0;1700.00;hcp;novartis
-Wehrhahn Tobias;Aarau;CH;"Kantonsspital
+asse 497",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
+Wehrhahn Tobias,Aarau,CH,"Kantonsspital
 Aarau AG Medizin
 Onkologie,
-Teilstrasse 25";;;0;0;0;0;1050.00;0;1050.00;hcp;novartis
-Weiss Lilian;Zürich;CH;"Stadtspital
+Teilstrasse 25",,,0,0,0,0,1050.00,0,1050.00,hcp,novartis
+Weiss Lilian,Zürich,CH,"Stadtspital
 Triemli Medizin
 Onkologie,
 Birmensdorferstr
-asse 497";;;0;0;360.00;234.50;0;0;594.50;hcp;novartis
-Welti Patrik;Schwyz;CH;"Praxis Patrik
+asse 497",,,0,0,360.00,234.50,0,0,594.50,hcp,novartis
+Welti Patrik,Schwyz,CH,"Praxis Patrik
 Welti,
-Postplatz 3";;;0;0;0;0;600.00;0;600.0;hcp;novartis
-Wicki Daria;Spreitenbach;CH;"Praxis Daria
+Postplatz 3",,,0,0,0,0,600.00,0,600.0,hcp,novartis
+Wicki Daria,Spreitenbach,CH,"Praxis Daria
 Wicki,
 Boostockstrasse
-28";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+28",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Widmer-Davidson
-Lienhard";Wettingen;CH;"Gruppenpraxis,
-Neustrasse 29";;;0;0;0;0;800.00;0;800.00;hcp;novartis
+Lienhard",Wettingen,CH,"Gruppenpraxis,
+Neustrasse 29",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 "Wiedersheim
-Peter";St. Gallen;CH;"Rheumatologie im
+Peter",St. Gallen,CH,"Rheumatologie im
 Silberturm,
 Rorschacher
-Strasse 150";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
+Strasse 150",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 "Wildhaber
-Johannes";Fribourg;CH;"HFR Fribourg -
+Johannes",Fribourg,CH,"HFR Fribourg -
 Höpital cantonal
 Kinderklinik,
 Chemin des
-Pensionnats 2-6";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Wild! Lukas;Winterthur;CH;"Kantonsspital
+Pensionnats 2-6",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Wild! Lukas,Winterthur,CH,"Kantonsspital
 Winterthur
 Rheumatologische
 Klinik,
-Brauerstrasse 15";;;0;0;0;0;700.00;0;700.00;hcp;novartis
+Brauerstrasse 15",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 "Wilk Christian
-Matthias";Zürich;CH;"Universitätsspit
+Matthias",Zürich,CH,"Universitätsspit
 al Zürich
 Medizin
 Häaatologie,
-Ränistrasse 100";;;0;0;0;0;250.00;0;250.00;hcp;novartis
-Winder Thomas;Zürich;CH;"Praxis Thomas
+Ränistrasse 100",,,0,0,0,0,250.00,0,250.00,hcp,novartis
+Winder Thomas,Zürich,CH,"Praxis Thomas
 Winder,
-Seestrasse 259";;;0;0;0;0;2096.00;0;2096.00;hcp;novartis
+Seestrasse 259",,,0,0,0,0,2096.00,0,2096.00,hcp,novartis
 "Wineken
-Christoph";Zürich;CH;"Praxis Christoph
+Christoph",Zürich,CH,"Praxis Christoph
 Wineken,
 Baumackerstrasse
-53";;;0;0;0;0;1225.00;0;1225.00;hcp;novartis
+53",,,0,0,0,0,1225.00,0,1225.00,hcp,novartis
 "Witzig-Wiesendan
-ger Monika";Küsnacht ZH;CH;"Gruppenpraxis,
-Schiffliweg 7";;;0;0;170.00;398.00;0;0;568.00;hcp;novartis
-Wyss Christophe;Zürich;CH;"HerzKlinik
+ger Monika",Küsnacht ZH,CH,"Gruppenpraxis,
+Schiffliweg 7",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
+Wyss Christophe,Zürich,CH,"HerzKlinik
 Hirslanden,
 Witellikerstrass
-e «";;;0;0;0;0;3300.00;0;3300.00;hcp;novartis
+e «",,,0,0,0,0,3300.00,0,3300.00,hcp,novartis
 "Wyss Peter
-Christian";Winterthur;CH;"Praxis Peter
+Christian",Winterthur,CH,"Praxis Peter
 Christian Wyss,
 Gertrudstrasse
-1";;;0;0;0;0;700.00;0;700.00;hcp;novartis
-Xavier Anton;Binningen;CH;"Vista Klinik
+1",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Xavier Anton,Binningen,CH,"Vista Klinik
 Ophthalmologisch
 e Klinik,
-Hauptstrasse 55";;;0;0;0;0;800.00;0;800.00;hcp;novartis
-Yawalkar Nikhil;Bern;CH;"Inselspital
+Hauptstrasse 55",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Yawalkar Nikhil,Bern,CH,"Inselspital
 Bern,
 Insei-Gruppe AG
 Dermatologische
 Klinik,
 Freiburgstrasse
-18";;;0;0;0;0;10750.00;0;10750.00;hcp;novartis
-Yoon Se-Il;Sursee;CH;"Praxis Se-Il
+18",,,0,0,0,0,10750.00,0,10750.00,hcp,novartis
+Yoon Se-Il,Sursee,CH,"Praxis Se-Il
 Yoon,
 Centralstrasse
-35";;;0;0;0;0;2050.00;0;2050.00;hcp;novartis
-Zahner Markus;Hombrechtikon;CH;"Praxis Markus
+35",,,0,0,0,0,2050.00,0,2050.00,hcp,novartis
+Zahner Markus,Hombrechtikon,CH,"Praxis Markus
 Zahner, Im
-Zentrum 10";;;0;0;170.00;398.00;0;0;568.00;hcp;novartis
-Zandi Souska;Bern;CH;"Praxis Souska
+Zentrum 10",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
+Zandi Souska,Bern,CH,"Praxis Souska
 Zandi,
 Bremgartenstrass
-e 119";;;0;0;0;0;250.00;0;250.00;hcp;novartis
-Zenger Franziska;Brugg AG;CH;"Medizinisches
+e 119",,,0,0,0,0,250.00,0,250.00,hcp,novartis
+Zenger Franziska,Brugg AG,CH,"Medizinisches
 Zentrum Brugg AG
 Medizin
 Onkologie,
 Fröhlichstrasse
-7";;;0;0;0;0;850.00;0;850.00;hcp;novartis
-Zihler Deborah;Aarau;CH;"Kantonsspital
+7",,,0,0,0,0,850.00,0,850.00,hcp,novartis
+Zihler Deborah,Aarau,CH,"Kantonsspital
 Aarau AG Medizin
 Onkologie,
-Teilstrasse 25";;;0;0;0;0;850.00;0;850.00;hcp;novartis
-Zoppi Michele;Bern;CH;"Gruppenpraxis,
+Teilstrasse 25",,,0,0,0,0,850.00,0,850.00,hcp,novartis
+Zoppi Michele,Bern,CH,"Gruppenpraxis,
 Morillonstrasse
-77";;;0;0;0;0;1700.00;0;1700.00;hcp;novartis
-Zuber Michel;Othmarsingen;CH;"Gruppenpraxis,
-Bahnhofstrasse 8";;;0;0;0;0;1000.00;0;1000.00;hcp;novartis
-Zuder Daniel;St. Gallen;CH;"Haut &
+77",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
+Zuber Michel,Othmarsingen,CH,"Gruppenpraxis,
+Bahnhofstrasse 8",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Zuder Daniel,St. Gallen,CH,"Haut &
 Laserzentrum Dr.
 Zuder AG, St.
 Leonhard-Strasse
-20";;;0;0;860.00;300.00;1250.00;0;2410.00;hcp;novartis
+20",,,0,0,860.00,300.00,1250.00,0,2410.00,hcp,novartis
 "Zurfluh-Loferer
-Susanne";Wittenbach;CH;"Praxis Susanne
+Susanne",Wittenbach,CH,"Praxis Susanne
 Zurfluh-Loferer,
 Eichenstrasse
-15";;;0;0;167.00;391.00;0;0;558.00;hcp;novartis
-Zweifel Sandrine;Zürich;CH;"Universitätsspit
+15",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
+Zweifel Sandrine,Zürich,CH,"Universitätsspit
 al Zürich
 Ophthalmologisch
 e Klinik,
 Frauenklinikstra
-sse 24";;;0;0;0;0;750.00;0;750.00;hcp;novartis
+sse 24",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 "ADR-AC GmbH
 Adverse Drug
 Reactions -
 Analysis and
-Consulting";Bern;CH;"Holligenstrasse
-91";;;0;4000.00;0;0;2250.00;0;6250.00;hco;novartis
+Consulting",Bern,CH,"Holligenstrasse
+91",,,0,4000.00,0,0,2250.00,0,6250.00,hco,novartis
 "AGLAEA
 Präsident: Dr.
-Oliver Annen";Root;CH;"Bahnhofstrasse
-24";;;0;5370.00;0;0;0;0;5370.00;hco;novartis
+Oliver Annen",Root,CH,"Bahnhofstrasse
+24",,,0,5370.00,0,0,0,0,5370.00,hco,novartis
 "Albert
 Bruppacher
 Stiftung c/o
 Universitätsspit
 al Zürich,
-Augenklinik";Zürich;CH;"Frauenklinikstra
-sse 24";;;0;0;0;0;9550.00;0;9550.00;hco;novartis
+Augenklinik",Zürich,CH,"Frauenklinikstra
+sse 24",,,0,0,0,0,9550.00,0,9550.00,hco,novartis
 "Alzheimer Forum
 Schweiz c/o
 Memory
 Clinic,Univers.
 Altersmedizin
 Felix
-Platter-Spital";Basel;CH;"Burgfelderstrass
-e 101";;;300.00;0;0;0;0;0;300.00;hco;novartis
+Platter-Spital",Basel,CH,"Burgfelderstrass
+e 101",,,300.00,0,0,0,0,0,300.00,hco,novartis
 "AMIS Plus
-Stiftung";Zürich;CH;"Hirschengraben
-84";;;10000.00;0;0;0;0;0;10000.00;hco;novartis
+Stiftung",Zürich,CH,"Hirschengraben
+84",,,10000.00,0,0,0,0,0,10000.00,hco,novartis
 "AndreasKlinik
-Cham Zug";Cham;CH;Rigistrasse 1;;;0;2000.0;0;0;0;0;2000.00;hco;novartis
+Cham Zug",Cham,CH,Rigistrasse 1,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 "Arbeitsgemeinsch
 aft Fortbildung
 für
 Apothekenmitarbe
 iter (agfam) c/o
 Frau Monika
-Mogavero";Winterthur;CH;Postfach;;;0;3000.0;0;0;0;0;3000.00;hco;novartis
+Mogavero",Winterthur,CH,Postfach,,,0,3000.0,0,0,0,0,3000.00,hco,novartis
 "Arbeitsgruppe
 für
 Herzinsuffizienz
 Präsident:
 Prof. Dr. med.
-Roger Hullin";Bern;CH;"Schwarztorstrass
-e 18";;;15600.00;0;0;0;0;0;15000.00;hco;novartis
-Argomed Ärzte AG;Lenzburg;CH;"Bahnhofstrasse
-24";;;0;0;1200.00;400.00;0;0;1600.00;hco;novartis
+Roger Hullin",Bern,CH,"Schwarztorstrass
+e 18",,,15600.00,0,0,0,0,0,15000.00,hco,novartis
+Argomed Ärzte AG,Lenzburg,CH,"Bahnhofstrasse
+24",,,0,0,1200.00,400.00,0,0,1600.00,hco,novartis
 "Ärztegesellschaf
 t des Kantons
-Bern";Bern;CH;Postgasse 19;;;0;20000.00;0;0;0;0;20000.00;hco;novartis
+Bern",Bern,CH,Postgasse 19,,,0,20000.00,0,0,0,0,20000.00,hco,novartis
 "Ärztegesellschaf
 t des Kantons
-Luzern";Luzern;CH;Schwanenplatz 7;;;0;3500.00;0;0;0;0;3500.00;hco;novartis
+Luzern",Luzern,CH,Schwanenplatz 7,,,0,3500.00,0,0,0,0,3500.00,hco,novartis
 "Ärztekongress
-Arosa";Arosa;CH;Postfach 68;;;0;3900.0;0;0;0;0;3900.00;hco;novartis
+Arosa",Arosa,CH,Postfach 68,,,0,3900.0,0,0,0,0,3900.00,hco,novartis
 "Ärztenetzwerk
 Gesundes
 Rheintal
 Präsident : Dr.
-aed. Roman Würth";Widnau;CH;"Zinggenstrasse 3
-A";;;0;2000.0;0;0;0;0;2000.00;hco;novartis
+aed. Roman Würth",Widnau,CH,"Zinggenstrasse 3
+A",,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 "Ärztenetzwerk
-Grauholz";Ittigen;CH;"Worblentalstrass
-e 99";;;0;2000.0;0;0;0;0;2000.00;hco;novartis
+Grauholz",Ittigen,CH,"Worblentalstrass
+e 99",,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 "Ärztenetzwerk
 IGOMED Thun
 Geschäftsstelle
 Herr Dr. med.
-Peter Bachmann";Thun;CH;Höheweg 26a;;;0;0;600.0;200.00;0;0;800.00;hco;novartis
+Peter Bachmann",Thun,CH,Höheweg 26a,,,0,0,600.0,200.00,0,0,800.00,hco,novartis
 "Ärzteverein
 Werdenberg
 Sarganserland
 Präsident Dr.
 med. Stefan
 Küpfer
-Venenzentrum";Bad Ragaz;CH;"Hans
+Venenzentrum",Bad Ragaz,CH,"Hans
 Albrecht-Strasse
-1";;;0;1500.00;0;0;0;0;1500.00;hco;novartis
+1",,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 "Ärztezentrum
-Flums AG";Flums;CH;Marktstrasse 21;;;0;0;334.00;782.00;0;0;1116.00;hco;novartis
+Flums AG",Flums,CH,Marktstrasse 21,,,0,0,334.00,782.00,0,0,1116.00,hco,novartis
 "Ärztlicher
 Notfallkreis
 Sissach-Gelterki
 nden c/o Dr.
-Pascal Suda";Läufelfingen;CH;Hirzenfelck*eg 4;;;0;5000.0;0;0;0;0;5000.00;hco;novartis
+Pascal Suda",Läufelfingen,CH,Hirzenfelck*eg 4,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
 "Ass. genevoise
 des mldecins de
 famille
 interniste
 glnlralistes
 (AGeMIG) c/o Dr
-Didier Chätelain";Geneve;CH;"Rue du
+Didier Chätelain",Geneve,CH,"Rue du
 Conseil-G6n6ral
-11";;;0;4000.00;0;0;0;0;4000.00;hco;novartis
+11",,,0,4000.00,0,0,0,0,4000.00,hco,novartis
 "Association
 D’Esculape En
 Lavaux (ADAEL)
 c/o Dr Thierry
-Reymond";Lutry;CH;Rue Verdaine;;;0;2000.0;0;0;0;0;2000.00;hco;novartis
+Reymond",Lutry,CH,Rue Verdaine,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 "Association
 genevoise
 d’asthme
@@ -2197,19 +2197,19 @@ d'immunologie et
 d'allergie
 (AGAIA) c/0
 Dominique laques
-(Träsorier)";Geneve;CH;"Rue Enile-Yung
-11";;;0;2000.0;0;0;0;0;2000.00;hco;novartis
+(Träsorier)",Geneve,CH,"Rue Enile-Yung
+11",,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 "Association
 lourn£e
 Durassienne de
 Mldecine c/o Or.
-Markus Hug";Del6mont;CH;"Rue de la
-Prefecture 1";;;0;1600.00;0;0;0;0;1600.00;hco;novartis
+Markus Hug",Del6mont,CH,"Rue de la
+Prefecture 1",,,0,1600.00,0,0,0,0,1600.00,hco,novartis
 "Association
 mldecins de la
 cöte c/o Dr.
 Sara Inoubli Le
-Roy";Nyon;CH;Rue Neuve 6;;;0;1500.00;0;0;0;0;1500.00;hco;novartis
+Roy",Nyon,CH,Rue Neuve 6,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 "Associazione
 Lugano Meeting
 Gruppo di
@@ -2217,185 +2217,185 @@ Qualitä Sud c/o
 Dr. med.
 Alessandro Del
 H Bufalo
-C";Lugano;CH;Via Riva Vela 12;;;0;800.00;0;0;0;0;800.00;hco;novartis
+C",Lugano,CH,Via Riva Vela 12,,,0,800.00,0,0,0,0,800.00,hco,novartis
 "s Associazione
 Mendrisio
-Medical Meeting";Minusio;CH;Via Cadogno 1;;;0;3000.0;0;0;0;0;3000.00;hco;novartis
+Medical Meeting",Minusio,CH,Via Cadogno 1,,,0,3000.0,0,0,0,0,3000.00,hco,novartis
 "Associazione
 Oftalmologi
 Canton Ticino
 (AOCT) c/o Dr.
-■ed. Urs Meier";Lugano;CH;Via Canova 18;;;0;4800.00;0;0;0;0;4800.00;hco;novartis
+■ed. Urs Meier",Lugano,CH,Via Canova 18,,,0,4800.00,0,0,0,0,4800.00,hco,novartis
 "Associazione
 Triangolo
 Assistenza per
 il paziente
-oncologico";Locarno;CH;"Via Antonio
-Ciseri 19";;;2000.0;0;0;0;0;0;2000.00;hco;novartis
+oncologico",Locarno,CH,"Via Antonio
+Ciseri 19",,,2000.0,0,0,0,0,0,2000.00,hco,novartis
 "Augen
 Glattzentrum AG
 Einkaufszentrum
-Glatt";Wallisellen;CH;"Neue
+Glatt",Wallisellen,CH,"Neue
 Winterthurerstra
-sse 99";;;462.96;0;0;0;0;0;462.96;hco;novartis
+sse 99",,,462.96,0,0,0,0,0,462.96,hco,novartis
 "Augenzentrum
-Bahnhof Basel AG";Basel;CH;"Centralbahnstras
-se 20";;;0;14000.00;0;0;0;0;14000.00;hco;novartis
+Bahnhof Basel AG",Basel,CH,"Centralbahnstras
+se 20",,,0,14000.00,0,0,0,0,14000.00,hco,novartis
 "Berner
 Augenklinik am
 Lindenhofspital
-AG";Bern;CH;"Bremgartenstrass
-e 119";;;0;5000.0;0;0;0;0;5000.00;hco;novartis
+AG",Bern,CH,"Bremgartenstrass
+e 119",,,0,5000.0,0,0,0,0,5000.00,hco,novartis
 "Bethesda Spital
-AG";Basel;CH;"Gellertstrasse
-144";;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+AG",Basel,CH,"Gellertstrasse
+144",,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "Blueye Vision
 Tech GmbH c/o
 Dr. med. Peter
 H Maloca
-C";Meggen;CH;"HuobmattStrasse
-9";;;0;2500.00;0;0;0;0;2500.00;hco;novartis
+C",Meggen,CH,"HuobmattStrasse
+9",,,0,2500.00,0,0,0,0,2500.00,hco,novartis
 "s Blutspende SRK
-Schweiz AG";Bern;CH;Laupenstrasse 37;;;2777.75;0;0;0;3640.00;0;6417.75;hco;novartis
+Schweiz AG",Bern,CH,Laupenstrasse 37,,,2777.75,0,0,0,3640.00,0,6417.75,hco,novartis
 "Brustzentrum
 Regio
 Basiliensis c/o
 Aerztehaus
-Allschwil";Allschwil;CH;"Brennerstrasse
-12";;;0;2500.00;0;0;0;0;2500.00;hco;novartis
+Allschwil",Allschwil,CH,"Brennerstrasse
+12",,,0,2500.00,0,0,0,0,2500.00,hco,novartis
 "Buendner
 Oberlaender
 Aerzteverein
 Präsident: Dr.
 1 med. Gian Bundi
-Arzthaus";Vella;CH;Sunsiaras 117B;;;0;1500.00;0;0;0;0;1500.00;hco;novartis
+Arzthaus",Vella,CH,Sunsiaras 117B,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 "Bündner
 Ärzteverein
 Geschäftsstelle
 Herr Marc
-Tomaschett";Chur;CH;"St. Martinsplatz
-8";;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+Tomaschett",Chur,CH,"St. Martinsplatz
+8",,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "1 CANSEARCH -
 Fondation de
 recherche contre
 le cancer de
-1'enfant";Thönex;CH;"Chemin
-Pont-Perrin 6";;;2777.78;0;0;0;0;0;2777.78;hco;novartis
+1'enfant",Thönex,CH,"Chemin
+Pont-Perrin 6",,,2777.78,0,0,0,0,0,2777.78,hco,novartis
 "Center da sandä
 Engiadina Bassa
 (CSEB)
 Gesundheitszentr
-um Unterengadin";Scuol;CH;"Via da 1‘Ospidal
-280";;;0;17000.00;0;0;0;0;1700000;hco;novartis
+um Unterengadin",Scuol,CH,"Via da 1‘Ospidal
+280",,,0,17000.00,0,0,0,0,1700000,hco,novartis
 "Centre Mldical
-de la CÖte SA";Corcelles NE;CH;"Rue du
-Petit-Berne 14";;;0;2000.0;0;0;0;0;2000.00;hco;novartis
+de la CÖte SA",Corcelles NE,CH,"Rue du
+Petit-Berne 14",,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 "H
 c Centre
 0 Ophtalmologique
-s de Florissant";Genöve;CH;"Avenue Krieg
-44BIS";;;0;0;0;0;1000.00;0;1000.00;hco;novartis
+s de Florissant",Genöve,CH,"Avenue Krieg
+44BIS",,,0,0,0,0,1000.00,0,1000.00,hco,novartis
 "Centre
 Ophtalmologique
-de Rive SA";Genfeve;CH;"Rue Pierre-Fatio
-15";;;0;10000.00;0;0;0;0;10000.00;hco;novartis
+de Rive SA",Genfeve,CH,"Rue Pierre-Fatio
+15",,,0,10000.00,0,0,0,0,10000.00,hco,novartis
 "Centre
 ophtalmologique
-du Valais SA";Sion;CH;"Avenue de la
-Gare 11";;;0;0;0;0;750.00;0;750.00;hco;novartis
+du Valais SA",Sion,CH,"Avenue de la
+Gare 11",,,0,0,0,0,750.00,0,750.00,hco,novartis
 "CHUV Centre
 hospitalier
 universitaire
-vaudois";Lausanne;CH;Rue du Bugnon 46;;;25259.26;62607.40;2850.00;2068.17;57812.59;1526.28;152123.70;hco;novartis
+vaudois",Lausanne,CH,Rue du Bugnon 46,,,25259.26,62607.40,2850.00,2068.17,57812.59,1526.28,152123.70,hco,novartis
 "Circolo di
 Qualitä Campagna
 Adoma c/o Dr.
 1 aed. Lorenzo E.
-Binaghi";Coldrerio;CH;Via Mercole 2b;;;0;1500.00;0;0;0;0;1500.00;hco;novartis
+Binaghi",Coldrerio,CH,Via Mercole 2b,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 "Circolo Medico
 Di Bellinzona
 Presidente: Dr.
-Ezio Montedoro";Arbedo;CH;Via Orbello 22;;;0;2000.0;0;0;0;0;2000.00;hco;novartis
+Ezio Montedoro",Arbedo,CH,Via Orbello 22,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 "Circolo Medico
 Locarno e
 Dintorni
 Presidente: Dr.
 med. Nello
-Broggini";Ascona;CH;Via Lido 27;;;0;5500.00;0;0;0;0;5500.00;hco;novartis
+Broggini",Ascona,CH,Via Lido 27,,,0,5500.00,0,0,0,0,5500.00,hco,novartis
 "Clinique de
 H Carouge
 C
-0";Carouge GE;CH;"Avenue
+0",Carouge GE,CH,"Avenue
 Cardinal-Mermill
-od 1";;;0;1500.00;0;0;0;0;1500.00;hco;novartis
+od 1",,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 "s
 Clinique de
-Genolier";Genolier;CH;Route du Muids 3;;;1000.00;0;0;0;0;0;1000.00;hco;novartis
+Genolier",Genolier,CH,Route du Muids 3,,,1000.00,0,0,0,0,0,1000.00,hco,novartis
 "Clinique romande
-de ^adaptation";Sion;CH;"Avenue
+de ^adaptation",Sion,CH,"Avenue
 Grand-Champsec
-90";;;0;2888.90;0;0;0;0;2888.90;hco;novartis
+90",,,0,2888.90,0,0,0,0,2888.90,hco,novartis
 "CMCB Centre
 Medico-Chirurgic
 al de la Broye
-SA";Payerne;CH;"Rue de
-Guillermaux 8";;;0;2000.0;0;0;0;0;2000.00;hco;novartis
+SA",Payerne,CH,"Rue de
+Guillermaux 8",,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 "Dandelion
 Pflegezentrum f.
 demenzkranke
-Menschen";Basel;CH;Sperrstrasse 100;;;ERROR;0;0;0;0;0;ERROR;hco;novartis
+Menschen",Basel,CH,Sperrstrasse 100,,,ERROR,0,0,0,0,0,ERROR,hco,novartis
 "Dermatologische
 Gesellschaft
 Ostschweiz - DGO
 Dr. med.
 Christian
 Schuster,
-Präsident";St. Gallen;CH;Kugelgasse 8;;;0;2310.00;0;0;0;0;2310.00;hco;novartis
+Präsident",St. Gallen,CH,Kugelgasse 8,,,0,2310.00,0,0,0,0,2310.00,hco,novartis
 "Die
 Schweizerische
 Ärztegesellschaf
 t für Manuelle
-Medizin (SAMM)";St. Gallen;CH;"Kolumbanstrasse
-2";;;0;6375.00;0;0;0;0;6375.00;hco;novartis
+Medizin (SAMM)",St. Gallen,CH,"Kolumbanstrasse
+2",,,0,6375.00,0,0,0,0,6375.00,hco,novartis
 "DOXnet
 Aerztenetzwerk
 Bern Nord/West
 H Herr Dr. med.
 C Köstner Beat
-0";Neuenegg;CH;Oeleweg 2;;;0;ERROR;ERROR;200.00;0;0;3800.00;hco;novartis
+0",Neuenegg,CH,Oeleweg 2,,,0,ERROR,ERROR,200.00,0,0,3800.00,hco,novartis
 "Ente Ospedaliero
 Cantonale EOC
 Direzione
-Generale";Bellinzona;CH;Viale Officina 3;;;145150.00;23590.00;0;0;5487.50;0;174227.50;hco;novartis
+Generale",Bellinzona,CH,Viale Officina 3,,,145150.00,23590.00,0,0,5487.50,0,174227.50,hco,novartis
 "EPFL - Ecole
 polytechnique
 föderale de
-Lausanne PRES";Lausanne;CH;"CE 3 316 (Centre
-Est) Station 1";;;115000.00;0;0;0;0;5120.80;120120.80;hco;novartis
+Lausanne PRES",Lausanne,CH,"CE 3 316 (Centre
+Est) Station 1",,,115000.00,0,0,0,0,5120.80,120120.80,hco,novartis
 "ERS European
 Respiratory
 Society ERS
-Headquarters";Lausanne;CH;"Avenue
-Sainte-Luce 4";;;0;1210742.86;0;0;0;0;1210742.86;hco;novartis
+Headquarters",Lausanne,CH,"Avenue
+Sainte-Luce 4",,,0,1210742.86,0,0,0,0,1210742.86,hco,novartis
 "ETH Zürich
-Hauptgebäude";"Zürich ETH
-Zentrum";CH;Rämistrasse 101;;;249000.00;0;0;0;0;0;249000.00;hco;novartis
+Hauptgebäude","Zürich ETH
+Zentrum",CH,Rämistrasse 101,,,249000.00,0,0,0,0,0,249000.00,hco,novartis
 "European Academy
 of Allergy and
 Clinical
 Immunology
-(EAACI)";Zürich;CH;"Hagenholzstrasse
-111, 3rd floor";;;0;309642.54;0;0;0;0;309642.54;hco;novartis
+(EAACI)",Zürich,CH,"Hagenholzstrasse
+111, 3rd floor",,,0,309642.54,0,0,0,0,309642.54,hco,novartis
 "European Academy
 of Dermatology
 and Venerology
 (EADV)
-Headquarter";Lugano;CH;"Via S. Balestra
-22B";;;0;648956.84;4914.16;0;0;0;653871.00;hco;novartis
+Headquarter",Lugano,CH,"Via S. Balestra
+22B",,,0,648956.84,4914.16,0,0,0,653871.00,hco,novartis
 "European
 Association for
 the Study of the
-Liver (EASL)";Genfeve;CH;Rue Daubin 7;;;0;16498.43;0;0;0;0;16498.43;hco;novartis
+Liver (EASL)",Genfeve,CH,Rue Daubin 7,,,0,16498.43,0,0,0,0,16498.43,hco,novartis
 "European
 Committee for
 Treatment and
@@ -2403,138 +2403,138 @@ Research in
 Multiple
 Sclerosis
 ECTRIMS
-Secretariat";Basel;CH;"Peter
+Secretariat",Basel,CH,"Peter
 Merian-Strasse
-86";;;0;298882.58;0;0;0;0;298882.58;hco;novartis
+86",,,0,298882.58,0,0,0,0,298882.58,hco,novartis
 "European
 Dermatology
 Forum c/o
 University
 Hospital Zürich
 Dept, of
-Dermatology";Zürich;CH;Gloriastrasse 31;;;5734.06;0;0;0;0;0;5734.06;hco;novartis
+Dermatology",Zürich,CH,Gloriastrasse 31,,,5734.06,0,0,0,0,0,5734.06,hco,novartis
 "European League
 Against
 Rheumatism
 (EULAR)
 Executive
-Secretariat";Kilchberg ZH;CH;Seestrasse 240;;;0;653904.22;0;0;0;0;653904.22;hco;novartis
+Secretariat",Kilchberg ZH,CH,Seestrasse 240,,,0,653904.22,0,0,0,0,653904.22,hco,novartis
 "European School
 for Advanced
 Studies in
 Ophthalmology
 (ESASO) Villa
-Saroli";Lugano;CH;"Viale Stefano
-Franscini 9";;;86217.29;494440.30;0;0;35883.70;0;616541.29;hco;novartis
+Saroli",Lugano,CH,"Viale Stefano
+Franscini 9",,,86217.29,494440.30,0,0,35883.70,0,616541.29,hco,novartis
 "European Society
 for Medical
-Oncology";Viganello;CH;"Via Luigi Taddei
-4";;;126066.35;185730.34;344043.90;0;0;0;655840.59;hco;novartis
+Oncology",Viganello,CH,"Via Luigi Taddei
+4",,,126066.35,185730.34,344043.90,0,0,0,655840.59,hco,novartis
 "European Society
 of
 Dermatological
-Research (ESDR)";Geneve;CH;Rue Cingria 7;;;21431.44;0;0;0;0;0;21431.44;hco;novartis
+Research (ESDR)",Geneve,CH,Rue Cingria 7,,,21431.44,0,0,0,0,0,21431.44,hco,novartis
 "Felix
-Platter-Spital";Basel;CH;"Burgfelderstrass
-e 101";;;2410.00;15000.00;0;0;3875.00;67.00;21352.00;hco;novartis
+Platter-Spital",Basel,CH,"Burgfelderstrass
+e 101",,,2410.00,15000.00,0,0,3875.00,67.00,21352.00,hco,novartis
 "Fokus Herz Bern
 c/o CCE Services
-GmbH";Basel;CH;"Dornacherstrasse
-82";;;0;7500.00;0;0;0;0;7500.00;hco;novartis
+GmbH",Basel,CH,"Dornacherstrasse
+82",,,0,7500.00,0,0,0,0,7500.00,hco,novartis
 "Fondation Asile
-des aveugles";Lausanne;CH;"Avenue de France
-15";;;0;18629.63;0;0;3000.00;0;21629.63;hco;novartis
+des aveugles",Lausanne,CH,"Avenue de France
+15",,,0,18629.63,0,0,3000.00,0,21629.63,hco,novartis
 "Fondation
 fribourgeoise
 pour la
 recherche et la
 formation sur le
-cancer";Bourguillon;CH;"Rue Max von
-Sachsen 4";;;0;15000.00;0;0;0;0;15000.00;hco;novartis
+cancer",Bourguillon,CH,"Rue Max von
+Sachsen 4",,,0,15000.00,0,0,0,0,15000.00,hco,novartis
 "Fondation pour
 la recherche de
 la cardiologie
 universitaire
-Geneve (GECOR)";Geneve;CH;"Rue
+Geneve (GECOR)",Geneve,CH,"Rue
 Micheli-du-Crest
-24";;;0;0;0;0;1000.00;0;1000.00;hco;novartis
+24",,,0,0,0,0,1000.00,0,1000.00,hco,novartis
 "Fondation
 Rlalura Ceur
 Formations en
 premier secours
-et ^animation";Fontenais;CH;La Cöte;;;0;1500.00;0;0;0;0;1500.00;hco;novartis
+et ^animation",Fontenais,CH,La Cöte,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 "Fondation
 Rhumatismes-Enfa
-nts-Suisse";Etoy;CH;"Route de la
-Plantay 87";;;24000.00;0;0;0;0;0;24000.00;hco;novartis
+nts-Suisse",Etoy,CH,"Route de la
+Plantay 87",,,24000.00,0,0,0,0,0,24000.00,hco,novartis
 "Fondazione
 Cardiocentro
-Ticino";Lugano;CH;Via Tesserete 48;;;0;2800.00;0;0;0;0;2800.00;hco;novartis
+Ticino",Lugano,CH,Via Tesserete 48,,,0,2800.00,0,0,0,0,2800.00,hco,novartis
 "Fondazione per
 la Ricerca e la
 H Cura dei Linfomi
 c nel Ticino
-0";Bellinzona;CH;"Via Vincenzo
-Vela 6";;;47000.00;0;0;0;0;0;47000.00;hco;novartis
+0",Bellinzona,CH,"Via Vincenzo
+Vela 6",,,47000.00,0,0,0,0,0,47000.00,hco,novartis
 "FoROMe Formation
 Romande en
 Oncologie
 Mädicale PAV
-02-21";Lausanne;CH;"Avenue Pierre
-Decker 2";;;0;0;0;0;5000.00;0;5000.00;hco;novartis
+02-21",Lausanne,CH,"Avenue Pierre
+Decker 2",,,0,0,0,0,5000.00,0,5000.00,hco,novartis
 "Fortbildungsgrup
-pe Adler";Steckborn;CH;Storchengasse 2;;;0;1150.00;0;0;0;0;1150.00;hco;novartis
+pe Adler",Steckborn,CH,Storchengasse 2,,,0,1150.00,0,0,0,0,1150.00,hco,novartis
 "Forte Echo GmbH
 PRV Provides
 Treuhandgesellsc
-haft AG";Baar;CH;Dorfstrasse 38;;;0;40000.00;0;0;0;0;40000.00;hco;novartis
+haft AG",Baar,CH,Dorfstrasse 38,,,0,40000.00,0,0,0,0,40000.00,hco,novartis
 "Foundation for
 Cardiovascular
 Research Zurich
-Heart House";Zürich;CH;"Moussonsstrasse
-4";;;125000.00;47000.00;0;0;30694.00;0;202694.00;hco;novartis
+Heart House",Zürich,CH,"Moussonsstrasse
+4",,,125000.00,47000.00,0,0,30694.00,0,202694.00,hco,novartis
 "frauenarztzentru
-in aargau ag";Baden;CH;Bernerstrasse 27;;;0;0;0;0;1250.00;0;1250.00;hco;novartis
+in aargau ag",Baden,CH,Bernerstrasse 27,,,0,0,0,0,1250.00,0,1250.00,hco,novartis
 "Gemeinschaftspra
 xis Vitasphfcre
 AG
 Gesundheitszentr
-um";Bützberg;CH;Bernstrasse 37;;;0;0;0;0;1000.00;0;1000.00;hco;novartis
+um",Bützberg,CH,Bernstrasse 37,,,0,0,0,0,1000.00,0,1000.00,hco,novartis
 "GRIMM Groupement
 d*Intervention
 Medicale en
 Montagne
 1 President:
 Matthieu de
-Riedmatten";"Grimisuat
-(Champlan)";CH;"Chemin des
-Chenes 12";;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+Riedmatten","Grimisuat
+(Champlan)",CH,"Chemin des
+Chenes 12",,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "Grisomed AG
 H Ärztenetzwerk
 C Graubünden
-0";Chur;CH;"Tittwiesenstrass
-e 29";;;0;10000.00;600.0;200.00;0;0;10800.00;hco;novartis
+0",Chur,CH,"Tittwiesenstrass
+e 29",,,0,10000.00,600.0,200.00,0,0,10800.00,hco,novartis
 "S Groupe des
 pneumologues
 genevois c/o Dr.
 Stephane
-Grandin";Genöve;CH;"Rue de la
-Servette 55";;;0;2000.0;0;0;0;0;2000.00;hco;novartis
+Grandin",Genöve,CH,"Rue de la
+Servette 55",,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 "Groupe du Nord
 Vaudois S.V.M.
 c/o Dr. Michael
-Hottinger";Concise;CH;"Chemin du Verger
-1";;;0;1500.00;0;0;0;0;1500.00;hco;novartis
+Hottinger",Concise,CH,"Chemin du Verger
+1",,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 "Groupe M^decine
-& Hygiene";Ch&ne-Bourg;CH;"Chemin de la
-Mousse 46";;;33629.64;0;0;0;0;0;33629.64;hco;novartis
+& Hygiene",Ch&ne-Bourg,CH,"Chemin de la
+Mousse 46",,,33629.64,0,0,0,0,0,33629.64,hco,novartis
 "Groupement des
 m£decins des
 Franches-Montagn
 es (GMFM) c/o
 Dr. Thierry
-Maitre";Saignelegier;CH;"Place du 23 Duin
-2";;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+Maitre",Saignelegier,CH,"Place du 23 Duin
+2",,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "Groupement
 Vaudois des
 Splcialistes en
@@ -2543,339 +2543,339 @@ Immunologie
 Clinique c/o
 Annette
 Leimgruber,Co-pr
-esidente GVC";Lausanne;CH;Avenue Rumine 27;;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+esidente GVC",Lausanne,CH,Avenue Rumine 27,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "GZO Spital
-Hetzikon";Wetzikon ZH;CH;Spitalstrasse 66;;;0;1106.00;0;0;1550.00;0;2650.00;hco;novartis
+Hetzikon",Wetzikon ZH,CH,Spitalstrasse 66,,,0,1106.00,0,0,1550.00,0,2650.00,hco,novartis
 "H+ Die Spitäler
 der Schweiz
-Verband Spital";Bern;CH;"Lorrainestrasse
-4A";;;0;0;0;0;3000.00;0;3000.00;hco;novartis
+Verband Spital",Bern,CH,"Lorrainestrasse
+4A",,,0,0,0,0,3000.00,0,3000.00,hco,novartis
 "Haematology
 Nurses &
 Healthcare
 Professionals
 Group (HNHCP)
 President Herr
-Erik Aerts";Winterthur;CH;Espenstrasse 33;;;2000.0;0;0;0;0;0;2000.00;hco;novartis
+Erik Aerts",Winterthur,CH,Espenstrasse 33,,,2000.0,0,0,0,0,0,2000.00,hco,novartis
 "Hareso -
 Hausärzte Region
 Solothurn AG
 Präsidentin: Dr.
-■ed. C. Rossi";Solothurn;CH;"Niklaus-Konrad-S
-tr. 11";;;0;10000.00;0;0;0;0;10000.00;hco;novartis
+■ed. C. Rossi",Solothurn,CH,"Niklaus-Konrad-S
+tr. 11",,,0,10000.00,0,0,0,0,10000.00,hco,novartis
 "Hausärzteverein
 M.R.S. Gossau
 Präsident Dr.
 ■ed. Andreas
 Bärlocher Praxis
-im Gerbhof";Gossau SG;CH;"St.
-Gallerstrasse 77";;;0;1500.00;0;0;0;0;1500.00;hco;novartis
+im Gerbhof",Gossau SG,CH,"St.
+Gallerstrasse 77",,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 "HautZentrum
-Zürich AG";Zürich;CH;"Schaffhauserstra
-sse 355";;;0;0;0;0;1250.00;0;1250.00;hco;novartis
-hawadoc AG;Winterthur;CH;Garnmarkt 1;;;0;27550.00;860.00;200.00;0;0;28610.00;hco;novartis
+Zürich AG",Zürich,CH,"Schaffhauserstra
+sse 355",,,0,0,0,0,1250.00,0,1250.00,hco,novartis
+hawadoc AG,Winterthur,CH,Garnmarkt 1,,,0,27550.00,860.00,200.00,0,0,28610.00,hco,novartis
 "HerzGefässStiftu
 ng c/o Prof. Dr.
 Franz Wolfgang
 Amann Klinik im
-Park AG";Zürich;CH;Seestrasse 220;;;0;25000.00;0;0;0;0;25000.00;hco;novartis
+Park AG",Zürich,CH,Seestrasse 220,,,0,25000.00,0,0,0,0,25000.00,hco,novartis
 "HerzKlinik
 Hirslanden Heart
 Clinic Zurich
 AG
-H";Zürich;CH;"Witellikerstrass
-e 46";;;0;0;0;0;1000.00;0;1000.00;hco;novartis
+H",Zürich,CH,"Witellikerstrass
+e 46",,,0,0,0,0,1000.00,0,1000.00,hco,novartis
 "C
 ® HFR Fribourg -
-s Höpital cantonal";Fribourg;CH;"Chemin des
-Pensionnats 2-6";;;4380.00;4400.00;299.00;1288.30;1500.00;0;11867.30;hco;novartis
+s Höpital cantonal",Fribourg,CH,"Chemin des
+Pensionnats 2-6",,,4380.00,4400.00,299.00,1288.30,1500.00,0,11867.30,hco,novartis
 "Hirslanden
 Clinique
-Bois-Cerf";Lausanne;CH;"Avenue d'Ouchy
-31";;;1000.00;0;0;0;0;0;1000.00;hco;novartis
+Bois-Cerf",Lausanne,CH,"Avenue d'Ouchy
+31",,,1000.00,0,0,0,0,0,1000.00,hco,novartis
 "Höpital de
 Morges Ensemble
 Hospitaller de
-la Cöte (EHC)";Morges;CH;Chemin du Cröt 2;;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+la Cöte (EHC)",Morges,CH,Chemin du Cröt 2,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "Höpital de Nyon
-/ GHOL";Nyon;CH;"Chemin Monastier
-10";;;0;2900.0;450.00;743.10;0;0;4093.10;hco;novartis
-Höpital du Iura;Delömont;CH;"Faubourg des
-Capucins 30";;;0;5300.00;0;0;0;0;5300.00;hco;novartis
+/ GHOL",Nyon,CH,"Chemin Monastier
+10",,,0,2900.0,450.00,743.10,0,0,4093.10,hco,novartis
+Höpital du Iura,Delömont,CH,"Faubourg des
+Capucins 30",,,0,5300.00,0,0,0,0,5300.00,hco,novartis
 "Höpital du Jura
 bernois SA Site
-de Moutier";Moutier;CH;"Rue de Beausite
-49";;;0;2500.00;0;0;0;0;2500.00;hco;novartis
+de Moutier",Moutier,CH,"Rue de Beausite
+49",,,0,2500.00,0,0,0,0,2500.00,hco,novartis
 "Höpital du
 Valais / Spital
-Wallis";Sion;CH;"Avenue du Grand
-Champsec 86";;;0;10500.00;0;0;0;0;10500.00;hco;novartis
+Wallis",Sion,CH,"Avenue du Grand
+Champsec 86",,,0,10500.00,0,0,0,0,10500.00,hco,novartis
 "Höpital
 intercantonal de
 la Broye (HIB)
-Site de Payerne";Payerne;CH;"Avenue de la
-Colline 3";;;0;2000.0;0;0;0;0;2000.00;hco;novartis
+Site de Payerne",Payerne,CH,"Avenue de la
+Colline 3",,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 "Hdpital
 neuchätelois -
-H Pourtalfcs";Neuchätel;CH;"Rue de la
-Maladifere 45";;;0;4000.00;0;0;1400.00;0;5400.00;hco;novartis
+H Pourtalfcs",Neuchätel,CH,"Rue de la
+Maladifere 45",,,0,4000.00,0,0,1400.00,0,5400.00,hco,novartis
 "0 Hdpital
 S Riviera-Chablais
 Site du
-Samaritain";Vevey;CH;"Boulevard
-Paderewski 3";;;0;1000.0;0;0;1700.00;0;2700.00;hco;novartis
+Samaritain",Vevey,CH,"Boulevard
+Paderewski 3",,,0,1000.0,0,0,1700.00,0,2700.00,hco,novartis
 "Hdpitaux
 Universitaires
-de Genfeve";Genöve;CH;"Rue
+de Genfeve",Genöve,CH,"Rue
 Gabrielle-Perret
--Gentil 4";;;5006.00;36425.92;2147.74;2192.31;9650.00;986.98;56402.95;hco;novartis
+-Gentil 4",,,5006.00,36425.92,2147.74,2192.31,9650.00,986.98,56402.95,hco,novartis
 "Hormon Zentrum
 Zürich AG Klinik
-Hirslanden";Zürich;CH;"Witellikerstrass
-e 36";;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+Hirslanden",Zürich,CH,"Witellikerstrass
+e 36",,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "IG eHealth c/o
 Köhler, Stüdeli
-& Partner GmbH";Bern;CH;Amthausgasse 18;;;3988.00;0;0;0;0;0;3988.00;hco;novartis
+& Partner GmbH",Bern,CH,Amthausgasse 18,,,3988.00,0,0,0,0,0,3988.00,hco,novartis
 "Inselspital
 Bern,
-Insel-Gruppe AG";Bern;CH;"Freiburgstrasse
-18";;;16630.00;53490.00;3310.00;1384.65;59150.93;3272.24;137237.82;hco;novartis
+Insel-Gruppe AG",Bern,CH,"Freiburgstrasse
+18",,,16630.00,53490.00,3310.00,1384.65,59150.93,3272.24,137237.82,hco,novartis
 "Institut für
 Forschung und
 Fortbildung in
-der Medizin GmbH";Burgdorf;CH;"Oberburgstrasse
-10";;;0;1500.00;0;0;0;0;1500.00;hco;novartis
+der Medizin GmbH",Burgdorf,CH,"Oberburgstrasse
+10",,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 "Institut für
 Hausarztmedizin
 & Community Care
-Luzern";Luzern;CH;Schwanenplatz 7;;;0;10000.00;0;0;0;0;10000.00;hco;novartis
+Luzern",Luzern,CH,Schwanenplatz 7,,,0,10000.00,0,0,0,0,10000.00,hco,novartis
 "Institution de
 Lavigny Site de
 Lavigny /
 Direction
-glnlrale";Lavigny;CH;"Route du
-Vignoble 50";;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+glnlrale",Lavigny,CH,"Route du
+Vignoble 50",,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "ISCP
 International
 Society of
 Cardiovascular
-Pharmacotherapy";Plan-les-Ouates;CH;"Route de
+Pharmacotherapy",Plan-les-Ouates,CH,"Route de
 Saint-Dulien
-19 7A";;;0;22804.50;0;0;0;0;22804.50;hco;novartis
+19 7A",,,0,22804.50,0,0,0,0,22804.50,hco,novartis
 "Istituto
 cantonale di
-patologia";Locarno;CH;Via in Selva 24;;;1000.00;0;0;0;0;0;1000.00;hco;novartis
+patologia",Locarno,CH,Via in Selva 24,,,1000.00,0,0,0,0,0,1000.00,hco,novartis
 "Dunge
 Hausärztinnen
 und -ärzte
 Schweiz (DHaS)
-c/o Polsan AG";Bern;CH;"Effingerstrasse
-2";;;0;10000.00;0;0;0;0;10000.00;hco;novartis
+c/o Polsan AG",Bern,CH,"Effingerstrasse
+2",,,0,10000.00,0,0,0,0,10000.00,hco,novartis
 "Kant.
 Ärztegesellschaf
 t Schaffhausen
 c/o Manuela
-Bucher";Schaffhausen;CH;"Finsterwaldstras
-se 91";;;0;5000.0;0;0;1250.00;0;6250.00;hco;novartis
+Bucher",Schaffhausen,CH,"Finsterwaldstras
+se 91",,,0,5000.0,0,0,1250.00,0,6250.00,hco,novartis
 "Kantonsspital
-Aarau AG";Aarau;CH;Teilstrasse 25;;;49200.00;10000.00;1224.01;2011.43;13500.00;0;75935.44;hco;novartis
+Aarau AG",Aarau,CH,Teilstrasse 25,,,49200.00,10000.00,1224.01,2011.43,13500.00,0,75935.44,hco,novartis
 "Kantonsspital
-Baden AG";Baden;CH;Im Ergel 1;;;1250.00;0;240.00;0;0;0;1490.00;hco;novartis
+Baden AG",Baden,CH,Im Ergel 1,,,1250.00,0,240.00,0,0,0,1490.00,hco,novartis
 "Kantonsspital
 Baselland
-Verwaltung";Liestal;CH;"Mühlemattstrasse
-11";;;50000.00;4000.0;910.00;802.00;3150.00;0;58862.00;hco;novartis
+Verwaltung",Liestal,CH,"Mühlemattstrasse
+11",,,50000.00,4000.0,910.00,802.00,3150.00,0,58862.00,hco,novartis
 "Kantonsspital
-Graubünden";Chur;CH;Loästrasse 170;;;5500.00;0;1350.00;876.28;6750.00;572.64;15048.92;hco;novartis
+Graubünden",Chur,CH,Loästrasse 170,,,5500.00,0,1350.00,876.28,6750.00,572.64,15048.92,hco,novartis
 "Kantonsspital
-Obwalden";Sarnen;CH;"Brünigstrasse
-181";;;0;0;0;0;1237.95;0;1237.95;hco;novartis
+Obwalden",Sarnen,CH,"Brünigstrasse
+181",,,0,0,0,0,1237.95,0,1237.95,hco,novartis
 "Kantonsspital
-St. Gallen";St. Gallen;CH;"Rorschacher
-Strasse 95";;;10850.00;28703.70;966.67;841.97;17541.65;0;58903.99;hco;novartis
+St. Gallen",St. Gallen,CH,"Rorschacher
+Strasse 95",,,10850.00,28703.70,966.67,841.97,17541.65,0,58903.99,hco,novartis
 "Kantonsspital
-Winterthur";Winterthur;CH;Brauerstrasse 15;;;10096.00;0;300.00;195.65;6000.00;0;16591.65;hco;novartis
+Winterthur",Winterthur,CH,Brauerstrasse 15,,,10096.00,0,300.00,195.65,6000.00,0,16591.65,hco,novartis
 "Kardiologische
 Gemeinschaftspra
-xis AG";Bern;CH;"Schänzlistrasse
-33";;;0;6000.0;0;0;800.00;0;6800.00;hco;novartis
+xis AG",Bern,CH,"Schänzlistrasse
+33",,,0,6000.0,0,0,800.00,0,6800.00,hco,novartis
 "Klinik Adelheid
-AG";Unterägeri;CH;Höhenweg 71;;;0;0;0;0;500.00;0;500.00;hco;novartis
+AG",Unterägeri,CH,Höhenweg 71,,,0,0,0,0,500.00,0,500.00,hco,novartis
 "Klinik
-Barmelweid AG";Barmelweid;CH;-;;;0;2000.0;0;0;0;0;2000.00;hco;novartis
-Kliniken Valens;Valens;CH;Taninaplatz 1;;;0;4500.00;0;0;0;0;4500.00;hco;novartis
+Barmelweid AG",Barmelweid,CH,-,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
+Kliniken Valens,Valens,CH,Taninaplatz 1,,,0,4500.00,0,0,0,0,4500.00,hco,novartis
 "Kollegium f.
 Hausarztmedizin
 (KHM/CMPR)
 Bänädicte
 Laville
-(Administration)";Fribourg;CH;"Rue de l'Höpital
-15";;;0;10260.00;0;0;0;0;10260.00;hco;novartis
-Krebsliga Zug;Zug;CH;Alpenstrasse 14;;;0;0;0;0;300.00;0;300.00;hco;novartis
+(Administration)",Fribourg,CH,"Rue de l'Höpital
+15",,,0,10260.00,0,0,0,0,10260.00,hco,novartis
+Krebsliga Zug,Zug,CH,Alpenstrasse 14,,,0,0,0,0,300.00,0,300.00,hco,novartis
 "La Tour Roseau
-de Soins SA";Meyrin;CH;"Avenue
-3.-D.-Maillard 3";;;0;6000.0;0;0;0;0;6000.00;hco;novartis
+de Soins SA",Meyrin,CH,"Avenue
+3.-D.-Maillard 3",,,0,6000.0,0,0,0,0,6000.00,hco,novartis
 "Lenker Woche c/o
 Spital
 Zweisimmen
 Sekretariat:
 Frau Susi
-Schweizer";Zweisimmen;CH;"Haueterstrasse
-21";;;0;2000.0;0;0;0;0;2000.00;hco;novartis
+Schweizer",Zweisimmen,CH,"Haueterstrasse
+21",,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 "Ligue pulmonaire
-fribourgeoise";Fribourg;CH;"Route
+fribourgeoise",Fribourg,CH,"Route
 Saint-Nicolas-de
--Flüe 2";;;0;1500.00;0;0;0;0;1500.00;hco;novartis
+-Flüe 2",,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 "Luzerner
 Kantonsspital
-Luzern";Luzern;CH;Spitalstrasse;;;95300.00;22010.00;720.00;430.15;40560.00;926.90;159947.05;hco;novartis
+Luzern",Luzern,CH,Spitalstrasse,,,95300.00,22010.00,720.00,430.15,40560.00,926.90,159947.05,hco,novartis
 "medinform GmbH
 c/o Dr.
-Christina Ruob";Zürich;CH;"Badenerstrasse
-332";;;0;0;0;0;28925.00;0;28925.00;hco;novartis
+Christina Ruob",Zürich,CH,"Badenerstrasse
+332",,,0,0,0,0,28925.00,0,28925.00,hco,novartis
 "MediService AG
-Grosshandel";Zuchwil;CH;Ausserfelcfceg 1;;;0;0;0;0;434420.00;0;434420.00;hco;novartis
+Grosshandel",Zuchwil,CH,Ausserfelcfceg 1,,,0,0,0,0,434420.00,0,434420.00,hco,novartis
 "■edswiss.net
 Geschäftsführer:
 Herr Christoph
-Lüssi";Gümligen;CH;Moosstrasse 2;;;0;0;1200.00;400.00;0;0;1600.00;hco;novartis
-Meier Augen AG;Rapperswil SG;CH;Merkurstrasse 50;;;0;0;0;0;3300.00;623.33;3923.33;hco;novartis
+Lüssi",Gümligen,CH,Moosstrasse 2,,,0,0,1200.00,400.00,0,0,1600.00,hco,novartis
+Meier Augen AG,Rapperswil SG,CH,Merkurstrasse 50,,,0,0,0,0,3300.00,623.33,3923.33,hco,novartis
 "MFE Mödecins de
 famille et de
 l’enfance
 Neuchätel
 President Dr.
 ■ed. Vladimir
-Mayor";Colombier NE;CH;Rue du Verger 9;;;0;1500.00;0;0;0;0;1500.00;hco;novartis
+Mayor",Colombier NE,CH,Rue du Verger 9,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 "Michels
 Augenärzte am
-See";Feldmeilen;CH;"General-Wille-St
-rasse 84";;;0;0;0;0;2000.00;0;2000.00;hco;novartis
+See",Feldmeilen,CH,"General-Wille-St
+rasse 84",,,0,0,0,0,2000.00,0,2000.00,hco,novartis
 "Monvia AG
-Hauptsitz";Luzern;CH;Neiiweg 10;;;0;2500.00;0;0;0;0;2500.00;hco;novartis
-Neurologica GmbH;Zollikon;CH;Forchstrasse 424;;;0;0;0;0;4000.00;0;4000.00;hco;novartis
+Hauptsitz",Luzern,CH,Neiiweg 10,,,0,2500.00,0,0,0,0,2500.00,hco,novartis
+Neurologica GmbH,Zollikon,CH,Forchstrasse 424,,,0,0,0,0,4000.00,0,4000.00,hco,novartis
 "Neurozentrum
-Bellevue AG";Zürich;CH;Theaterstrasse 8;;;2000.00;0;122.86;0;6475.00;93.89;8691.75;hco;novartis
+Bellevue AG",Zürich,CH,Theaterstrasse 8,,,2000.00,0,122.86,0,6475.00,93.89,8691.75,hco,novartis
 "OMCT - Ordine
 dei medici del
-Canton Ticino";Mezzovico;CH;"Via Cantonale 8
-- Stabile Qi";;;0;1950.00;0;0;0;0;1950.00;hco;novartis
+Canton Ticino",Mezzovico,CH,"Via Cantonale 8
+- Stabile Qi",,,0,1950.00,0,0,0,0,1950.00,hco,novartis
 "Onkozentrum
-Zürich AG";Zürich;CH;Seestrasse 259;;;0;0;0;0;500.00;0;500.00;hco;novartis
+Zürich AG",Zürich,CH,Seestrasse 259,,,0,0,0,0,500.00,0,500.00,hco,novartis
 "Ospedale
 Regionale di
-Lugano Civico";Lugano;CH;Via Tesserete 46;;;0;0;610.00;686.00;0;0;1296.06;hco;novartis
+Lugano Civico",Lugano,CH,Via Tesserete 46,,,0,0,610.00,686.00,0,0,1296.06,hco,novartis
 "Ostschweizer
-Kinderspital";St. Gallen;CH;"Claudiusstrasse
-6";;;0;0;300.00;270.58;0;0;570.58;hco;novartis
+Kinderspital",St. Gallen,CH,"Claudiusstrasse
+6",,,0,0,300.00,270.58,0,0,570.58,hco,novartis
 "Paediatric
 Rheumatology
 European Society
 (PRES) C/o MCI
-Suisse SA";Satigny;CH;"Rue du
-Pr6-Bouvier 9";;;0;35964.60;0;0;0;0;35964.60;hco;novartis
-Pallas Klinik;Olten;CH;"Louis
+Suisse SA",Satigny,CH,"Rue du
+Pr6-Bouvier 9",,,0,35964.60,0,0,0,0,35964.60,hco,novartis
+Pallas Klinik,Olten,CH,"Louis
 Giroud-Strasse
-20";;;0;18000.00;0;0;0;0;18000.00;hco;novartis
-PizolCare AG;Meis;CH;Flurstrasse 12;;;0;11000.00;600.0;200.00;0;0;11800.00;hco;novartis
+20",,,0,18000.00,0,0,0,0,18000.00,hco,novartis
+PizolCare AG,Meis,CH,Flurstrasse 12,,,0,11000.00,600.0,200.00,0,0,11800.00,hco,novartis
 "PourVision Särl
 c/o Constantin
-Pournaras";St-Luc;CH;"Chalet
-Morgenstern";;;0;0;0;0;250.00;0;250.00;hco;novartis
+Pournaras",St-Luc,CH,"Chalet
+Morgenstern",,,0,0,0,0,250.00,0,250.00,hco,novartis
 "Praxis für
-Neurologie";Wetzikon ZH;CH;Weststrasse 70;;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+Neurologie",Wetzikon ZH,CH,Weststrasse 70,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "Praxis
-Reinacherhof";Reinach BL;CH;"Im Reinacherhof
-53";;;0;0;5500.00;1900.00;0;0;7400.00;hco;novartis
+Reinacherhof",Reinach BL,CH,"Im Reinacherhof
+53",,,0,0,5500.00,1900.00,0,0,7400.00,hco,novartis
 "Privatklinik
 Bethanien GSMN
-Zürich AG";Zürich;CH;Toblerstrasse 51;;;500.00;0;0;0;0;0;500.00;hco;novartis
+Zürich AG",Zürich,CH,Toblerstrasse 51,,,500.00,0,0,0,0,0,500.00,hco,novartis
 "Privatklinik
-Obach";Solothurn;CH;Leopoldstrasse 5;;;0;2060.0;0;0;0;0;2060.00;hco;novartis
+Obach",Solothurn,CH,Leopoldstrasse 5,,,0,2060.0,0,0,0,0,2060.00,hco,novartis
 "Psychiatrische
 Dienste Aargau
-AG";Windisch;CH;"Zürcherstrasse
-241";;;0;0;0;0;1555.56;0;1555.56;hco;novartis
+AG",Windisch,CH,"Zürcherstrasse
+241",,,0,0,0,0,1555.56,0,1555.56,hco,novartis
 "Quadrimed
 Secretariat
-administratif";Crans-Montana;CH;Case postale 299;;;0;11107.88;0;0;0;0;11107.88;hco;novartis
-RCC Net;Zürich;CH;Bahnhofplatz 4;;;0;18000.00;0;0;0;0;18000.00;hco;novartis
+administratif",Crans-Montana,CH,Case postale 299,,,0,11107.88,0,0,0,0,11107.88,hco,novartis
+RCC Net,Zürich,CH,Bahnhofplatz 4,,,0,18000.00,0,0,0,0,18000.00,hco,novartis
 "H
 c Regionalspital
 0 Emmental AG
-s";Burgdorf;CH;"Oberburgstrasse
-54";;;0;3500.00;0;0;2775.00;0;6275.00;hco;novartis
+s",Burgdorf,CH,"Oberburgstrasse
+54",,,0,3500.00,0,0,2775.00,0,6275.00,hco,novartis
 "REMED Docteur
-Didier Chätelain";Genöve;CH;"Rue du
+Didier Chätelain",Genöve,CH,"Rue du
 Conseil-Gdnlral
-11";;;0;4800.00;0;0;0;0;4800.00;hco;novartis
+11",,,0,4800.00,0,0,0,0,4800.00,hco,novartis
 "Roseau Sante
 Balcon du
-Dura.vd";Ste-Croix;CH;"Rue des Rosiers
-29";;;0;1800.00;0;0;0;0;1800.00;hco;novartis
-Rheuma Schweiz;Zürich;CH;"Aargauerstrasse
-259";;;20000.00;29495.00;0;0;30000.0;0;79495.00;hco;novartis
+Dura.vd",Ste-Croix,CH,"Rue des Rosiers
+29",,,0,1800.00,0,0,0,0,1800.00,hco,novartis
+Rheuma Schweiz,Zürich,CH,"Aargauerstrasse
+259",,,20000.00,29495.00,0,0,30000.0,0,79495.00,hco,novartis
 "Rheumasearch
 Foundation c/o
 Fontanet &
 Schoeni,
-Notaires";Genöve;CH;Rue du Rhone 57;;;10000.00;0;0;0;0;0;10000.00;hco;novartis
+Notaires",Genöve,CH,Rue du Rhone 57,,,10000.00,0,0,0,0,0,10000.00,hco,novartis
 "SAKK Schweizer
 Arbeitsgemeinsch
 aft für
 Klinische
-Krebsforschung";Bern;CH;"Effingerstrasse
-33";;;62000.00;3000.0;0;0;9000.00;0;74000.00;hco;novartis
+Krebsforschung",Bern,CH,"Effingerstrasse
+33",,,62000.00,3000.0,0,0,9000.00,0,74000.00,hco,novartis
 "Sanacare AG
-Hauptsitz";Winterthur;CH;"Zürcherstrasse
-19";;;0;0;0;0;1000.00;0;1000.00;hco;novartis
+Hauptsitz",Winterthur,CH,"Zürcherstrasse
+19",,,0,0,0,0,1000.00,0,1000.00,hco,novartis
 "SäntiMed AG c/o
 Praxis
-Brunnenhof";Herisau;CH;"Kasernenstrasse
-30";;;0;0;600.0;200.00;0;0;800.00;hco;novartis
+Brunnenhof",Herisau,CH,"Kasernenstrasse
+30",,,0,0,600.0,200.00,0,0,800.00,hco,novartis
 "Schlossberg
-Ärztezentrum AG";Frauenfeld;CH;"Bahnhofstrasse
-61";;;5000.00;0;0;0;0;0;5000.00;hco;novartis
+Ärztezentrum AG",Frauenfeld,CH,"Bahnhofstrasse
+61",,,5000.00,0,0,0,0,0,5000.00,hco,novartis
 "Schmerzklinik
-Basel";Basel;CH;"Hirschgässlein
-11-15";;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+Basel",Basel,CH,"Hirschgässlein
+11-15",,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "Schweiz.
 Gesellschaft der
 Vertrauens- und
 Versicherungsärz
-te (SGV)";Winterthur;CH;"Industriestrasse
-24";;;6200.00;0;0;0;0;0;6200.00;hco;novartis
+te (SGV)",Winterthur,CH,"Industriestrasse
+24",,,6200.00,0,0,0,0,0,6200.00,hco,novartis
 "Schweiz.
 Gesellschaft für
 Allergologie
 und Immunologie
 (SGAI) Sekret.
 Frau Evelyne
-Schenk";Bern;CH;"Scheibenstrasse
-20";;;0;45850.00;0;0;3000.00;0;48850.00;hco;novartis
+Schenk",Bern,CH,"Scheibenstrasse
+20",,,0,45850.00,0,0,3000.00,0,48850.00,hco,novartis
 "Schweiz.
 Gesellschaft für
 Dermatologie
 und Venerologie
 (SGDV)
 Generalsekretär!
-at";Bern;CH;Dalmazirain 11;;;100000.0;65200.00;0;0;2510.00;0;167710.00;hco;novartis
+at",Bern,CH,Dalmazirain 11,,,100000.0,65200.00,0,0,2510.00,0,167710.00,hco,novartis
 "Schweiz.
 Gesellschaft für
 Endokrinologie
 und Diabetologie
-(SGED)";Baden;CH;Rütistrasse 3A;;;0;2500.00;0;0;0;0;2500.00;hco;novartis
+(SGED)",Baden,CH,Rütistrasse 3A,,,0,2500.00,0,0,0,0,2500.00,hco,novartis
 "Schweiz.
 Gesellschaft für
 Nephrologie
 Frau Maya Weder
-- Administration";Worb;CH;Postfach 567;;;0;2350.00;0;0;0;0;2350.00;hco;novartis
+- Administration",Worb,CH,Postfach 567,,,0,2350.00,0,0,0,0,2350.00,hco,novartis
 "Schweiz.
 Gesellschaft für
 Neuropädiatrie
 Geschäftsstelle
 SGNP Herr Prof.
-P. Weber";Oberentfelden;CH;Blumenweg 13;;;0;5000.0;0;0;0;0;5000.00;hco;novartis
+P. Weber",Oberentfelden,CH,Blumenweg 13,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
 "Schweiz.
 Gesellschaft für
 Pädiatrische
@@ -2883,65 +2883,65 @@ Pneumologie
 (SGPP)
 Sekretariat:
 Prof. Dr. med.
-C. Barazzone";Genfeve 14;CH;"Rue Willy-Donz*
-6";;;0;2300.00;0;0;0;0;2300.00;hco;novartis
+C. Barazzone",Genfeve 14,CH,"Rue Willy-Donz*
+6",,,0,2300.00,0,0,0,0,2300.00,hco,novartis
 "Schweizerische
 Gesellschaft für
 Hämatologie
-(SGH/SSH)";Münsingen;CH;"Innerer
-Giessenweg 37";;;2000.00;11240.00;0;0;3320.00;0;16560.00;hco;novartis
+(SGH/SSH)",Münsingen,CH,"Innerer
+Giessenweg 37",,,2000.00,11240.00,0,0,3320.00,0,16560.00,hco,novartis
 "Schweizerische
 Gesellschaft für
-Kardiologie";Bern;CH;Dufourstrasse 30;;;0;91260.00;0;0;0;0;91260.00;hco;novartis
+Kardiologie",Bern,CH,Dufourstrasse 30,,,0,91260.00,0,0,0,0,91260.00,hco,novartis
 "Schweizerische
 Gesellschaft für
-Rheumatologie";Zürich;CH;losefstrasse 92;;;0;36540.00;0;0;0;0;36540.00;hco;novartis
+Rheumatologie",Zürich,CH,losefstrasse 92,,,0,36540.00,0,0,0,0,36540.00,hco,novartis
 "Schweizerische
 Gesellschaft für
 Ultraschall in
 der Medizin
-(SGUM)";Fällanden;CH;-;;;0;3200.00;0;0;0;0;3200.00;hco;novartis
+(SGUM)",Fällanden,CH,-,,,0,3200.00,0,0,0,0,3200.00,hco,novartis
 "Schweizerische
 Herzrhythmus
 Stiftung
-(SHRS/FSRC)";Bern;CH;"Schänzlistrasse
-33";;;0;3000.0;0;0;0;0;3000.00;hco;novartis
+(SHRS/FSRC)",Bern,CH,"Schänzlistrasse
+33",,,0,3000.0,0,0,0,0,3000.00,hco,novartis
 "Schweizerische
 Hypertonie
-Gesellschaft";Bern;CH;"Schwarztorstrass
-e 18";;;0;2000.0;0;0;607.00;0;2607.00;hco;novartis
+Gesellschaft",Bern,CH,"Schwarztorstrass
+e 18",,,0,2000.0,0,0,607.00,0,2607.00,hco,novartis
 "Schweizerische
 Kopfwehgesellsch
 aft c/o IMK
 Institut für
 Medizin und
-Kommunikation AG";Basel;CH;Münsterberg 1;;;4500.00;0;0;0;5000.00;0;9500.00;hco;novartis
+Kommunikation AG",Basel,CH,Münsterberg 1,,,4500.00,0,0,0,5000.00,0,9500.00,hco,novartis
 "Schweizerische
 Ophthalmologisch
 e Gesellschaft
 SOG c/o Inst.für
 Medizin u.
-Kommunikation AG";Basel;CH;Münsterberg 1;;;0;45092.59;0;0;0;0;45092.59;hco;novartis
+Kommunikation AG",Basel,CH,Münsterberg 1,,,0,45092.59,0,0,0,0,45092.59,hco,novartis
 "Schweizerische
 Pädiatrische
 Onkologie Gruppe
 (SPOG)
 Direktionsassist
 entin: Marlise
-Rohrer";Bern;CH;"Effingerstrasse
-33";;;3000.0;0;0;0;0;0;3000.00;hco;novartis
+Rohrer",Bern,CH,"Effingerstrasse
+33",,,3000.0,0,0,0,0,0,3000.00,hco,novartis
 "Schweizerisch-tü
 rkischer Ärzte
 und
 Akademikerverein
-( STAV)";Bern;CH;Balmerstrasse 12;;;0;1500.00;0;0;0;0;1500.00;hco;novartis
+( STAV)",Bern,CH,Balmerstrasse 12,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 "SCQM Foundation
 Swiss Clinical
 Quality
 Management in
 Rheumatic
-Diseases";Zürich;CH;"Aargauerstrasse
-259";;;90250.00;0;0;0;0;0;90250.00;hco;novartis
+Diseases",Zürich,CH,"Aargauerstrasse
+259",,,90250.00,0,0,0,0,0,90250.00,hco,novartis
 "Societä Ticinese
 degli
 Allergologi ed
@@ -2950,77 +2950,77 @@ Canton Ticino
 (STAI)
 Segretario: Dr.
 ■ed. lean-Pierre
-Laotin";Pregassona;CH;Via alle vigne 7;;;350.00;1000.0;0;0;0;0;1350.00;hco;novartis
+Laotin",Pregassona,CH,Via alle vigne 7,,,350.00,1000.0,0,0,0,0,1350.00,hco,novartis
 "Societä ticinese
 di dermatologia
 e venereologia
 c/o Dr. med.
 Patrizia
-Carrozza";Bellinzona;CH;"Viale Stazione
-16";;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+Carrozza",Bellinzona,CH,"Viale Stazione
+16",,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "Societe
 Neuchäteloise de
-Mödecine SNM";Couvet;CH;Grand'Rue 36BIS;;;0;2000.0;0;0;0;0;2000.00;hco;novartis
+Mödecine SNM",Couvet,CH,Grand'Rue 36BIS,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 "Societe Vaudoise
 de M£decine
-(SVM)";Lausanne;CH;"Chemin de Mornex
-38";;;0;ERROR;0;0;0;0;ERROR;hco;novartis
+(SVM)",Lausanne,CH,"Chemin de Mornex
+38",,,0,ERROR,0,0,0,0,ERROR,hco,novartis
 "Solothurner
-Spitäler AG";Solothurn;CH;"Schöngrünstrasse
-36a";;;0;1400.00;0;0;2200.00;0;3600.00;hco;novartis
-Spital Lachen AG;Lachen SZ;CH;"Oberdorfstrasse
-41";;;0;3351.85;0;0;0;0;3351.85;hco;novartis
-Spital Limmattal;Schlieren;CH;"Urdorferstrasse
-100";;;0;1750.00;0;0;0;0;1750.00;hco;novartis
-Spital Schwyz;Schwyz;CH;"Waldeggstrasse
-10";;;0;3000.0;328.00;686.00;0;0;4014.00;hco;novartis
+Spitäler AG",Solothurn,CH,"Schöngrünstrasse
+36a",,,0,1400.00,0,0,2200.00,0,3600.00,hco,novartis
+Spital Lachen AG,Lachen SZ,CH,"Oberdorfstrasse
+41",,,0,3351.85,0,0,0,0,3351.85,hco,novartis
+Spital Limmattal,Schlieren,CH,"Urdorferstrasse
+100",,,0,1750.00,0,0,0,0,1750.00,hco,novartis
+Spital Schwyz,Schwyz,CH,"Waldeggstrasse
+10",,,0,3000.0,328.00,686.00,0,0,4014.00,hco,novartis
 "Spital STS AG -
-Spital Thun";Thun;CH;"Krankenhausstras
-se 12";;;0;0;0;0;1000.00;0;1000.00;hco;novartis
+Spital Thun",Thun,CH,"Krankenhausstras
+se 12",,,0,0,0,0,1000.00,0,1000.00,hco,novartis
 "Spital Thurgau
 AG
-Geschäftsstelle";Frauenfeld;CH;"Waldeggstrasse
-8a";;;0;7300.00;0;0;2750.00;0;10050.00;hco;novartis
+Geschäftsstelle",Frauenfeld,CH,"Waldeggstrasse
+8a",,,0,7300.00,0,0,2750.00,0,10050.00,hco,novartis
 "Spitäler
 Schaffhausen
 Kantonsspital
-Schaffhausen";Schaffhausen;CH;"Geissbergstrasse
-81";;;0;0;328.00;686.00;0;0;1014.00;hco;novartis
+Schaffhausen",Schaffhausen,CH,"Geissbergstrasse
+81",,,0,0,328.00,686.00,0,0,1014.00,hco,novartis
 "Spitalregion
 Fürstenland
-Toggenburg";Wil SG;CH;"Fürstenlandstras
-se 32";;;0;2800.00;0;0;0;0;2800.00;hco;novartis
+Toggenburg",Wil SG,CH,"Fürstenlandstras
+se 32",,,0,2800.00,0,0,0,0,2800.00,hco,novartis
 "Spitalregion
 Rheintal Sargans
 Sarganserland
 Spital Grabs,
 Altstätten,
-Walenstadt";Rebstein;CH;"Alte Landstrasse
-105";;;0;4000.00;0;0;0;0;4000.00;hco;novartis
+Walenstadt",Rebstein,CH,"Alte Landstrasse
+105",,,0,4000.00,0,0,0,0,4000.00,hco,novartis
 "Spitalverbund
 Appenzell
-Ausserrhoden";Herisau;CH;Krombach 3;;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+Ausserrhoden",Herisau,CH,Krombach 3,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "Spitalzentrum
-Biel AG";Biel/Bienne;CH;Vogelsang 84;;;0;3000.0;0;0;0;0;3000.00;hco;novartis
+Biel AG",Biel/Bienne,CH,Vogelsang 84,,,0,3000.0,0,0,0,0,3000.00,hco,novartis
 "St. Moritzer
 Ärztegesellschaf
 t c/o Irfene
-Sandmeier";St. Moritz;CH;"Piazza
-Paracelsus 2";;;0;0;0;0;1000.00;0;1000.00;hco;novartis
+Sandmeier",St. Moritz,CH,"Piazza
+Paracelsus 2",,,0,0,0,0,1000.00,0,1000.00,hco,novartis
 "Stadtspital
-Triemli";Zürich;CH;"Birmensdorferstr
-asse 497";;;4500.00;0;666.67;590.00;1525.00;0;7281.67;hco;novartis
+Triemli",Zürich,CH,"Birmensdorferstr
+asse 497",,,4500.00,0,666.67,590.00,1525.00,0,7281.67,hco,novartis
 "Stiftung für
 wissenschaftlich
 e Forschung am
 Stadtspital
-Triemli";Zürich;CH;"Birmensdorferstr
-asse 497";;;25000.00;10500.00;0;0;7225.00;0;42725.00;hco;novartis
+Triemli",Zürich,CH,"Birmensdorferstr
+asse 497",,,25000.00,10500.00,0,0,7225.00,0,42725.00,hco,novartis
 "Stiftung SONK
 St.Gallen
 Oncology
-Conferences";St. Gallen;CH;"Rorschacher
-Strasse 150";;;235656.40;0;0;0;0;0;235656.40;hco;novartis
+Conferences",St. Gallen,CH,"Rorschacher
+Strasse 150",,,235656.40,0,0,0,0,0,235656.40,hco,novartis
 "Stiftung zur
 Förderung
 Medizinischer
@@ -3028,129 +3028,129 @@ und biologischer
 Forschung c/o
 Prof. Dr.
 Christoph
-Beglinger";Arlesheim;CH;Bruggweg 28;;;0;0;0;0;2500.00;0;2500.00;hco;novartis
+Beglinger",Arlesheim,CH,Bruggweg 28,,,0,0,0,0,2500.00,0,2500.00,hco,novartis
 "Swiss Academy of
 Multidisciplinar
-y Oncology";Bern;CH;"Effingerstrasse
-40";;;11500.00;0;0;0;0;0;11500.00;hco;novartis
+y Oncology",Bern,CH,"Effingerstrasse
+40",,,11500.00,0,0,0,0,0,11500.00,hco,novartis
 "Swiss Eye
-Institute";Rotkreuz;CH;"Luzernerstrasse
-1";;;0;0;0;0;2338.00;55.00;2393.00;hco;novartis
+Institute",Rotkreuz,CH,"Luzernerstrasse
+1",,,0,0,0,0,2338.00,55.00,2393.00,hco,novartis
 "Swiss Eye Week
-(SEW)";"St. Margrethen
-SG";CH;Bahnhofplatz 12;;;0;5000.0;0;0;0;0;5000.00;hco;novartis
+(SEW)","St. Margrethen
+SG",CH,Bahnhofplatz 12,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
 "Swiss Federation
 of Clinical
 Neuro-Societies
 (SFCNS) C/O IMK
-AG";Basel;CH;Münsterberg 1;;;3000.00;0;0;0;0;0;3000.00;hco;novartis
+AG",Basel,CH,Münsterberg 1,,,3000.00,0,0,0,0,0,3000.00,hco,novartis
 "Swiss Glaucoma
 Research
 Foundation c/o
-Kaweh Mansouri";Lausanne;CH;"Avenue de
-l’Elysöe 48";;;0;3000.0;0;0;0;0;3000.00;hco;novartis
+Kaweh Mansouri",Lausanne,CH,"Avenue de
+l’Elysöe 48",,,0,3000.0,0,0,0,0,3000.00,hco,novartis
 "Swiss Institut
 of Allergy and
 Asthma Research
-(SIAF)";Davos Platz;CH;Obere Strasse 22;;;2000.00;0;0;0;0;0;2000.00;hco;novartis
+(SIAF)",Davos Platz,CH,Obere Strasse 22,,,2000.00,0,0,0,0,0,2000.00,hco,novartis
 "Swiss Oncology &
 Hematology
 Congress c/o
 Reichenbach
-Rechtsanwälte A6";Zürich;CH;Talacker 50;;;0;600.00;0;0;0;0;600.00;hco;novartis
+Rechtsanwälte A6",Zürich,CH,Talacker 50,,,0,600.00,0,0,0,0,600.00,hco,novartis
 "Swiss
 Transplantation
 Society (STS)
 c/o meeting.com
-Särl";"Cheseaux-sur-Lau
-sänne";CH;PO Box 100;;;0;2941.92;0;0;0;0;2941.92;hco;novartis
+Särl","Cheseaux-sur-Lau
+sänne",CH,PO Box 100,,,0,2941.92,0,0,0,0,2941.92,hco,novartis
 "Swiss TSC
 Network
-Geschäftsstelle";Zürich;CH;"Witellikerstrass
-e 40";;;1500.00;0;0;0;0;0;1500.00;hco;novartis
+Geschäftsstelle",Zürich,CH,"Witellikerstrass
+e 40",,,1500.00,0,0,0,0,0,1500.00,hco,novartis
 "Swiss Tumor
 Institute, Platz
 Zürich c/o
 OnkoZentrum
-Zürich";Zürich;CH;Seestrasse 259;;;8100.00;0;0;0;0;0;8100.00;hco;novartis
+Zürich",Zürich,CH,Seestrasse 259,,,8100.00,0,0,0,0,0,8100.00,hco,novartis
 "Swiss
 VitreoRetinal
 Group (SVRG) c/o
 ophta -
 u.novotny
-FaCHverlag";Bottighofen;CH;"Mittlere
-Mühlestrasse 3";;;51150.0;0;0;0;0;0;51150.00;hco;novartis
+FaCHverlag",Bottighofen,CH,"Mittlere
+Mühlestrasse 3",,,51150.0,0,0,0,0,0,51150.00,hco,novartis
 "SwissNet
 Universitätspoli
 klinik f.
 Endokrinologie
 Diabetologie &
 Klinische
-Ernährung";Bern;CH;Inselspital;;;25000.00;0;0;0;0;0;25000.00;hco;novartis
+Ernährung",Bern,CH,Inselspital,,,25000.00,0,0,0,0,0,25000.00,hco,novartis
 "Swisstransplant
 Nationale
 Stiftung für
 Organspende und
-Transplantation";Bern;CH;"Effingerstrasse
-1";;;5000.00;0;0;0;0;0;5000.00;hco;novartis
+Transplantation",Bern,CH,"Effingerstrasse
+1",,,5000.00,0,0,0,0,0,5000.00,hco,novartis
 "Table Ronde de
 M4dicom6trie
 Regionale c/o M.
-P4riat-Ziggurat";Fahy;CH;"Rue de France
-83D";;;0;925.93;0;0;0;0;925.93;hco;novartis
-Tox Info Suisse;Zürich;CH;Freiestrasse 16;;;0;0;0;0;29120.00;0;29120.00;hco;novartis
+P4riat-Ziggurat",Fahy,CH,"Rue de France
+83D",,,0,925.93,0,0,0,0,925.93,hco,novartis
+Tox Info Suisse,Zürich,CH,Freiestrasse 16,,,0,0,0,0,29120.00,0,29120.00,hco,novartis
 "Tumor- und
 Brustzentrum
-ZeTuP AG";St. Gallen;CH;"Rorschacher
-Strasse 150";;;2500.00;0;0;0;0;0;2500.00;hco;novartis
+ZeTuP AG",St. Gallen,CH,"Rorschacher
+Strasse 150",,,2500.00,0,0,0,0,0,2500.00,hco,novartis
 "Union for
 International
 Cancer Control
-(UICC)";Genöve;CH;"Route de
-Frontenex 62";;;291891.48;0;0;0;0;0;291891.48;hco;novartis
+(UICC)",Genöve,CH,"Route de
+Frontenex 62",,,291891.48,0,0,0,0,0,291891.48,hco,novartis
 "Universität
-Basel";Basel;CH;Petersplatz 1;;;410011.16;7000.000000000024;0;0;577.65;0;417588.81;hco;novartis
-Universität Bern;Bern;CH;"Hochschulstrasse
-4";;;165000.00;4475.00;0;0;2250.00;0;171725.00;hco;novartis
+Basel",Basel,CH,Petersplatz 1,,,410011.16,7000.000000000024,0,0,577.65,0,417588.81,hco,novartis
+Universität Bern,Bern,CH,"Hochschulstrasse
+4",,,165000.00,4475.00,0,0,2250.00,0,171725.00,hco,novartis
 "Universität
-Zürich";Zürich;CH;Ränistrasse 71;;;85989.02;4000.00;0;0;13745.00;3281.26;107015.28;hco;novartis
+Zürich",Zürich,CH,Ränistrasse 71,,,85989.02,4000.00,0,0,13745.00,3281.26,107015.28,hco,novartis
 "Universitäts-Kin
-derspital (UKBB)";Basel;CH;Spitalstrasse 33;;;4000.00;0;0;0;1000.00;0;5000.00;hco;novartis
+derspital (UKBB)",Basel,CH,Spitalstrasse 33,,,4000.00,0,0,0,1000.00,0,5000.00,hco,novartis
 "Universitäts-Kin
-derspital Zürich";Zürich;CH;"Steinwiesstrasse
-75";;;3000.0;4000.00;0;0;3500.00;0;10500.00;hco;novartis
+derspital Zürich",Zürich,CH,"Steinwiesstrasse
+75",,,3000.0,4000.00,0,0,3500.00,0,10500.00,hco,novartis
 "Universitätskiin
-ik Balgrist";Zürich;CH;Forchstrasse 340;;;0;5000.0;0;0;0;0;5000.00;hco;novartis
+ik Balgrist",Zürich,CH,Forchstrasse 340,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
 "Universitätsspit
-al Basel";Basel;CH;Petersgraben 4;;;383750.00;35260.00;1470.00;3010.42;70443.99;3703.07;497637.48;hco;novartis
+al Basel",Basel,CH,Petersgraben 4,,,383750.00,35260.00,1470.00,3010.42,70443.99,3703.07,497637.48,hco,novartis
 "Universitätsspit
-al Zürich";Zürich;CH;Räristrasse 100;;;376000.00;84670.00;666.67;640.00;33715.00;0;495691.67;hco;novartis
+al Zürich",Zürich,CH,Räristrasse 100,,,376000.00,84670.00,666.67,640.00,33715.00,0,495691.67,hco,novartis
 "University de
 Lausanne (UNIL)
 Service
 Financier
 Quartier
-UNIL-Centre";Lausanne;CH;"Bätiment
-Unithfeque";;;0;5000.0;0;0;0;0;5000.00;hco;novartis
+UNIL-Centre",Lausanne,CH,"Bätiment
+Unithfeque",,,0,5000.0,0,0,0,0,5000.00,hco,novartis
 "Verein Berner
 Haus-und
 Kinderärzte/inne
-n (VBHK)";Bern;CH;"Effingerstrasse
-2";;;0;2475.00;0;0;0;0;2475.00;hco;novartis
+n (VBHK)",Bern,CH,"Effingerstrasse
+2",,,0,2475.00,0,0,0,0,2475.00,hco,novartis
 "Verein der
 Pneumologen des
 Kantons Bern
 Präsident VPB:
 Dr. med. Markus
-Riederer";Bern;CH;"Bremgartenstrass
-e 117";;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+Riederer",Bern,CH,"Bremgartenstrass
+e 117",,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "Verein eHealth
 Dermatologie
 Präsident:Herr
 Prof. Dr. A.
 Navarini
 Universitätsspit
-al Zürich";Zürich;CH;Gloriastrasse 31;;;25000.00;0;0;0;0;0;25000.00;hco;novartis
+al Zürich",Zürich,CH,Gloriastrasse 31,,,25000.00,0,0,0,0,0,25000.00,hco,novartis
 "Verein
 Grundversorger
 Region Baden
@@ -3158,17 +3158,17 @@ Qualitäts-Zirkel
 Wettingen/Würenl
 os Präsident:
 Pract. Med. Hans
-Dürg Huber";Würenlos;CH;luchstrasse 15;;;0;1900.0;0;0;0;0;1900.00;hco;novartis
+Dürg Huber",Würenlos,CH,luchstrasse 15,,,0,1900.0,0,0,0,0,1900.00,hco,novartis
 "Verein GUCH
-Schweiz";Basel;CH;Langen Gasse 78;;;0;4000.00;0;0;0;0;4000.00;hco;novartis
+Schweiz",Basel,CH,Langen Gasse 78,,,0,4000.00,0,0,0,0,4000.00,hco,novartis
 "Verein Lunge
-Zürich";Zürich;CH;"Pfingstweidstras
-se 10";;;0;32400.00;0;0;0;0;32480.00;hco;novartis
+Zürich",Zürich,CH,"Pfingstweidstras
+se 10",,,0,32400.00,0,0,0,0,32480.00,hco,novartis
 "C Verein
 0 Sarkomzentrum
 s Zürich c/o
 Anwaltskanzlei
-Felix Suter";Zürich;CH;Minervastrasse 3;;;0;5000.0;0;0;0;0;5000.00;hco;novartis
+Felix Suter",Zürich,CH,Minervastrasse 3,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
 "Verein zur
 Förderung der
 Weiterbildung in
@@ -3176,36 +3176,36 @@ Augenheilkunde
 c/o
 Universitätsspit
 al Basel
-Augenklinik";Basel;CH;"Mittlere Strasse
-91";;;0;6500.00;0;0;0;0;6500.00;hco;novartis
+Augenklinik",Basel,CH,"Mittlere Strasse
+91",,,0,6500.00,0,0,0,0,6500.00,hco,novartis
 "Viollier AG
 Kardiologie,
-Ambulatorium";Basel;CH;"Spalenring
-145/147";;;0;0;656.00;686.00;0;0;1342.00;hco;novartis
+Ambulatorium",Basel,CH,"Spalenring
+145/147",,,0,0,656.00,686.00,0,0,1342.00,hco,novartis
 "Vista Klinik
 Ophthalmologisch
-e Klinik";Binningen;CH;Hauptstrasse 55;;;0;3500.00;0;0;2000.00;0;5500.00;hco;novartis
-Vue Group AG;Baar;CH;Bahnhofstrasse 9;;;0;0;0;0;1000.00;0;100000;hco;novartis
+e Klinik",Binningen,CH,Hauptstrasse 55,,,0,3500.00,0,0,2000.00,0,5500.00,hco,novartis
+Vue Group AG,Baar,CH,Bahnhofstrasse 9,,,0,0,0,0,1000.00,0,100000,hco,novartis
 "World Heart
-Federation ONG";Genöve;CH;"Rue de Malatrex
-32";;;0;230224.05;0;0;0;0;230224.05;hco;novartis
+Federation ONG",Genöve,CH,"Rue de Malatrex
+32",,,0,230224.05,0,0,0,0,230224.05,hco,novartis
 "Zentralpraxis
-Wallisellen AG";Wallisellen;CH;Zentralstrasse 6;;;0;0;0;0;800.00;0;800.00;hco;novartis
+Wallisellen AG",Wallisellen,CH,Zentralstrasse 6,,,0,0,0,0,800.00,0,800.00,hco,novartis
 "Zentralschweizer
 Dermatologen
 c/o Dr. med.
 Mathias Koepke
-H";Luzern;CH;Löwengraben 14;;;0;1000.0;0;0;0;0;1000.00;hco;novartis
+H",Luzern,CH,Löwengraben 14,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "C
 0 Zu: Care Zug
 s Präsident:Herr
-Dr. 3. Stäger";Unterägeri;CH;Seestrasse 9;;;0;2500.00;0;0;0;0;2500.00;hco;novartis
+Dr. 3. Stäger",Unterägeri,CH,Seestrasse 9,,,0,2500.00,0,0,0,0,2500.00,hco,novartis
 "Zur Rose Suisse
-AG";Frauenfeld;CH;"Walzmühlestrasse
-60";;;0;0;0;0;5416.08;0;5416.08;hco;novartis
+AG",Frauenfeld,CH,"Walzmühlestrasse
+60",,,0,0,0,0,5416.08,0,5416.08,hco,novartis
 "Zürcher
 Dermatologen
-Gesellschaft";Zürich;CH;Marktgasse 3;;;0;2000.0;0;0;0;0;2000.00;hco;novartis
+Gesellschaft",Zürich,CH,Marktgasse 3,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 "Zürcher
 Gesellschaft f.
 Kardiologie ZGK
@@ -3213,9 +3213,9 @@ c/o Prof. Dr.
 aed. Christine
 Attenhofer
 Klinik im Park
-AG";Zürich;CH;Seestrasse 220;;;0;4000.00;0;0;0;0;4000.00;hco;novartis
+AG",Zürich,CH,Seestrasse 220,,,0,4000.00,0,0,0,0,4000.00,hco,novartis
 "Zurich Academy
 of Internal
 Medicine (ZAIM)
-c/o Medworld A6";Steinhausen;CH;"Sennweidstrasse
-46";;;0;4200.00;0;0;0;0;4200.00;hco;novartis
+c/o Medworld A6",Steinhausen,CH,"Sennweidstrasse
+46",,,0,4200.00,0,0,0,0,4200.00,hco,novartis

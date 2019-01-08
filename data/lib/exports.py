@@ -49,7 +49,7 @@ def export_list(dataset, organisation):
 
     #Export
     #write_to_excel(dataset, '../../export/lists/' + organisation + '.xlsx' )
-    dataset.to_csv('../../export/lists/' + organisation + '.csv', sep=";", index=False)
+    dataset.to_csv('../../export/lists/' + organisation + '.csv', sep=",", index=False)
 
     print("saved")
 
@@ -64,6 +64,6 @@ def export_acumulations(dataset, organisation):
     dataset = dataset[fix_columns_accumulations]
 
     #write_to_excel(dataset, '../../export/accumulations/' + organisation + '.xlsx' )
-    dataset.to_csv('../../export/accumulations/' + organisation + '.csv', sep=";", index=False)
+    dataset.to_csv('../../export/accumulations/' + organisation + '.csv', sep=",", index=False)
 
     print("saved")
