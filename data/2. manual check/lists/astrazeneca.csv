@@ -1,0 +1,444 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Ahmad Farid Hassanzadah,Vevey,CH,Vevey Medical Center Sarl      Avenue du Général-Guisan 26,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Alain Sauty,Lausanne,CH,Avenue de Rumine 31,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,astrazeneca
+Alberto Arribas Carmena,Bellinzona,CH,Via  Vincenzo Vela 6 dei Linfomi nel Ticino,,,0.0,0.0,852.47,2096.17,0.0,0.0,2948.64,hcp,astrazeneca
+Alex Gysi,Berikon,CH,Zentrum Mutschellen AG    Corneliastrasse 6,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Alexander Dieterle,Arlesheim,CH,Klinik für Palliative Care    Stollenrain 12,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Alexander Frumkin,Düdingen,CH,Hirslanden Freiburg AG    Bahnhofplatz 2A,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Alexander Möller,Zürich,CH,Universitäts-Kinderspital Zürich    Steinwiesstrasse 75,,,0.0,0.0,0.0,0.0,3375.0,0.0,3375.0,hcp,astrazeneca
+Alexander Turk,Horgen,CH,See-Spital Standort Horgen    Asylstrasse 19,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca
+Alexandra Knipprath Mészaros,Basel,CH,Frauenklinik    Spitalstrasse 21,,,0.0,0.0,562.11,1620.75,0.0,0.0,2182.86,hcp,astrazeneca
+Alexandra Valera,Locarno,CH,Via in Selva 24,,,0.0,0.0,0.0,310.67,0.0,0.0,310.67,hcp,astrazeneca
+Alexandre Bodmer,Genève,CH,Hôpitaux Universitaires de Genève    Boulevard de la Cluse 30,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Alexandre Fredenrich,Bellinzona,CH,Via Ospedale Ospedale Regionale di Bellinzona e Valli,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Alfred Schweizer,Weinfelden,CH,Marktplatz 5,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Alfredo Addeo,Genève,CH,Centre d'oncologie    Rue Gabrielle-Perret-Gentil 4,,,0.0,0.0,0.0,0.0,1250.0,180.0,1430.0,hcp,astrazeneca
+Andrea Menafoglio,Bellinzona,CH,Ospedale S. Giovanni EOC    Via Ospedale,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Andreas Barth,Solothurn,CH,Onkologiezentrum Haus 7    Schöngrünstrasse 38,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Andreas Fischer,Schaffhausen,CH,"Medizinische Klinik, Kardiologie    Geissbergstrasse 81",,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Andreas Gschwend,Baar,CH,Onko-Zentrum    Landhausstrasse 11,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Andreas Hochstrasser,Männedorf,CH,Onkologie Zentrum    Asylstrasse 10,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Andreas Müller,Winterthur,CH,Medizinische Onkologie    Brauerstrasse 15,,,0.0,0.0,370.13,6262.86,1750.0,0.0,8382.99,hcp,astrazeneca
+Andreas Piecyk,Zürich,CH,Witellikerstrasse 40,,,0.0,0.0,0.0,819.34,1250.0,0.0,2069.34,hcp,astrazeneca
+Andreas Steiner,Basel,CH,Frobenstrasse 50,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Andreea Lack,Basel,CH,Henric Petri-Strasse 9,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Anne Barbara Leuppi-Taegtmeyer,Basel,CH,Universitätsspital Basel    Schanzenstrasse 55,,,0.0,0.0,0.0,221.87,0.0,0.0,221.87,hcp,astrazeneca
+Annette Bühler-Christen,Embrach,CH,Römerweg 51,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Arnaud Tanguy,Lausanne,CH,d'Analyses Médicales    Rue de la Vigie 5,,,0.0,0.0,0.0,497.9,0.0,0.0,497.9,hcp,astrazeneca
+Barbara Bolliger,St. Gallen,CH,Rorschacher Strasse 150,,,0.0,0.0,353.53,676.93,0.0,0.0,1030.46,hcp,astrazeneca
+Beat Bühler,Schwyz,CH,Palliative Care Station    Waldeggstrasse 10,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Beat Hans Schwegler,Baar,CH,Medizinische Klinik    Landhausstrasse 11,,,0.0,0.0,683.66,1151.35,1250.0,0.0,3085.01,hcp,astrazeneca
+Beat Kipfer,Bern,CH,Tellstrasse 18,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Beat Pfäffli,Bern,CH,Waldheimstrasse 6,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Beat Thürlimann,St. Gallen,CH,Brustzentrum / Haus 06    Rorschacher Strasse 95,,,0.0,0.0,0.0,0.0,1750.0,0.0,1750.0,hcp,astrazeneca
+Beat Villiger,Luzern,CH,Spitalstrasse,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca
+Béatrice Neuffer-Bajetta,Chiasso,CH,Piazza Indipendenza 4,,,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0,hcp,astrazeneca
+Béatrice Zimmerli Schwab,Biel/Bienne,CH,Spitalzentrum Biel AG    Vogelsang 84,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Benno Röthlisberger,Aarau,CH,Zentrum für Labormedizin / Haus 1    Tellstrasse 25,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca
+Bernd Halbroth,Luzern,CH,Denkmalstrasse 2,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Bernhard Frühauf,Walenstadt,CH,Stickereiweg 1,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Bernhard Pestalozzi,Zürich,CH,Universitätsspital Zürich    Rämistrasse 100,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Bruno Knöpfli,Zürich,CH,Enzianweg 4,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Bruno Müller,Bern,CH,Endokrinologie Diabetologie Bern    Seilerstrasse 8,,,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0,hcp,astrazeneca
+Catherine Plancherel Lévy,Fribourg,CH,Rue Hans-Geiler 6,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Catrina Uhlmann Nussbaum,Olten,CH,Onkologie    Baslerstrasse 150,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Cécile Robinson,Zürich,CH,Klinik für Pneumologie    Rämistrasse 100,,,0.0,0.0,0.0,1237.2,0.0,0.0,1237.2,hcp,astrazeneca
+Celina Haase,Basel,CH,Socinstrasse 22,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Chiara Ferrario,Prilly,CH,Route de Renens 24,,,0.0,0.0,0.0,0.0,3050.0,0.0,3050.0,hcp,astrazeneca
+Christian Alfaré,Uster,CH,Pneumologie    Brunnenstrasse 42,,,0.0,0.0,0.0,0.0,400.0,0.0,400.0,hcp,astrazeneca
+Christian Britschgi,Zürich,CH,Universitätsspital Zürich    Rämistrasse 100,,,0.0,0.0,854.57,2390.13,0.0,0.0,3244.7,hcp,astrazeneca
+Christian Clarenbach,Zürich,CH,Klinik für Pneumologie    Rämistrasse 100,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Christian Marc Schmied,Zürich,CH,Universitätsspital Zürich    Rämistrasse 100,,,0.0,0.0,0.0,0.0,1250.0,90.0,1340.0,hcp,astrazeneca
+Christian Spirig,Luzern,CH,Hirslanden Klinik St. Anna    St. Anna-Strasse 32,,,0.0,0.0,117.0,58.5,800.0,0.0,975.5,hcp,astrazeneca
+Christian Templin,Zürich,CH,Universitätsspital Zürich    Rämistrasse 100,,,0.0,0.0,0.0,0.0,1200.0,198.8,1398.8,hcp,astrazeneca
+Christiane Brugnolaro,Ittigen,CH,West Pathologie Länggasse Bern    Worblentalstrasse 32,,,0.0,0.0,0.0,628.8,0.0,0.0,628.8,hcp,astrazeneca
+Christina Neppl,Bern,CH,Institut für Pathologie    Murtenstrasse 31,,,0.0,0.0,0.0,327.0,0.0,0.0,327.0,hcp,astrazeneca
+Christoph Honegger,Baar,CH,Zuger Kantonsspital AG    Landhausstrasse 11,,,0.0,0.0,404.6,3379.72,0.0,0.0,3784.32,hcp,astrazeneca
+Christoph Mamot,Aarau,CH,Kantonsspital Aarau AG    Tellstrasse 25,,,0.0,0.0,603.89,2064.74,1800.0,0.0,4468.63,hcp,astrazeneca
+Christoph Rochlitz,Basel,CH,Onkologie    Petersgraben 4,,,0.0,0.0,0.0,0.0,1750.0,0.0,1750.0,hcp,astrazeneca
+Christoph Schmidt,Aarau,CH,Küttigerstrasse 42,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Christoph Tuor,Zürich,CH,Witellikerstrasse 40,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,astrazeneca
+Christophe Petite,Martigny,CH,Avenue de la Gare 19,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Claudia Steurer-Stey,Zürich,CH,Rotbuchstrasse 46,,,0.0,0.0,579.59,756.92,9650.0,0.0,10986.51,hcp,astrazeneca
+Claudine Egger-Arnet,Schlieren,CH,Onkologie & Hämatologie    Urdorferstrasse 100,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Corinna Brunckhorst,Zürich,CH,Universitätsspital Zürich    Rämistrasse 100,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Cristiana Sessa,Bellinzona,CH,Ospedale Regionale di Bellinzona e Valli    Via Ospedale,,,0.0,0.0,0.0,0.0,195.0,0.0,195.0,hcp,astrazeneca
+Cristina Nay Fellay,Sion,CH,Hôpital du Valais (CHVR)    Avenue du Grand-Champsec 80,,,0.0,0.0,78.0,39.0,1475.0,0.0,1592.0,hcp,astrazeneca
+Damian Gruber,Zürich,CH,Klinik für Pneumologie    Rämistrasse 100,,,0.0,0.0,0.0,916.11,0.0,0.0,916.11,hcp,astrazeneca
+Damian Meli,Huttwil,CH,Schultheissenstrasse 10,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Daniel Fink,Zürich,CH,Klinik für Geburtshilfe    Frauenklinikstrasse 10,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Daniel Noth,Unterseen,CH,Spitalweg 1,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Denarda Dangaj,Epalinges,CH,University of Lausanne    Chemin des Boveresses 155,,,0.0,0.0,0.0,886.11,0.0,0.0,886.11,hcp,astrazeneca
+Diana Förbs,St. Gallen,CH,Institut für Pathologie / Haus 11    Rorschacher Strasse 95,,,0.0,0.0,0.0,992.08,0.0,0.0,992.08,hcp,astrazeneca
+Didier Renaud Jallut,Lausanne,CH,Oncologie    Avenue du Théâtre 7,,,0.0,0.0,0.0,0.0,1475.0,0.0,1475.0,hcp,astrazeneca
+Dominik Maurer,Zürich,CH,HerzGefässZentrum Zürich    Seestrasse 247,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Eleni Papakonstantinou,Basel,CH,Departement für Innere Medizin    Petersgraben 4,,,0.0,0.0,801.4,1280.06,0.0,0.0,2081.46,hcp,astrazeneca
+Elisabetta Andreani Safwan,Bellinzona,CH,Viale Stazione 30,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,astrazeneca
+Erik Vassella,Bern,CH,Institut für Pathologie    Murtenstrasse 31,,,0.0,0.0,0.0,1179.9,0.0,0.0,1179.9,hcp,astrazeneca
+Fabia Weisser,Schwyz,CH,Palliative Care Station    Waldeggstrasse 10,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Fabio Amurri,Aquila,CH,Centro medico Blenio SA    Campagna 5,,,0.0,0.0,0.0,0.0,400.0,0.0,400.0,hcp,astrazeneca
+Fabio Rigamonti,Genève,CH,Département spécialités de médecine    Rue Gabrielle-Perret-Gentil 4,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Florian Charbonnier,Genève,CH,Avenue De-Luserna 17,,,0.0,0.0,0.0,0.0,3250.0,0.0,3250.0,hcp,astrazeneca
+Francesca Caparrotti,Genève,CH,Hôpitaux Universitaires de Genève    Avenue de la Roseraie 53,,,0.0,0.0,0.0,0.0,1250.0,218.1,1468.1,hcp,astrazeneca
+Franz Wicki,Willisau,CH,Praxis am Zehntenplatz    Zehntenplatz 2,,,0.0,0.0,0.0,0.0,300.0,0.0,300.0,hcp,astrazeneca
+Fritz Egli,Malans GR,CH,Medical Center Karlihof    Karlihofstrasse 14a,,,0.0,0.0,524.6,4030.31,0.0,0.0,4554.91,hcp,astrazeneca
+Georg Tscherry,Uster,CH,Onkologie    Brunnenstrasse 42,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+George Coukos,Lausanne,CH,Departement d'Oncologie BH 06    Rue du Bugnon 46,,,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0,hcp,astrazeneca
+Gertruda Capova,Davos Clavadel,CH,Nederlands Astmacentrum Davos    Klinikstrasse 6,,,0.0,0.0,579.59,1776.92,0.0,0.0,2356.51,hcp,astrazeneca
+Gianmarco Sala,Altdorf UR,CH,Marktgasse 6,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Giannicola D'Addario,Schaffhausen,CH,"Medizinische Klinik, Onkologie    Geissbergstrasse 81",,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Giatgen Spinas,Zürich,CH,Endokrinologie und Diabetologie    Rämistrasse 100,,,0.0,0.0,552.62,1151.35,0.0,0.0,1703.97,hcp,astrazeneca
+Giovanni Battista Pedrazzini,Lugano,CH,Cardiocentro Ticino    Via Tesserete 48,,,0.0,0.0,0.0,634.5,0.0,0.0,634.5,hcp,astrazeneca
+Gregor Leibundgut,Liestal,CH,Medizinische Universitätsklinik    Rheinstrasse 26,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Hans Uwe Simon,Bern,CH,Uni Bern    Pharmakologisches Institut,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Hans Walter Reinhart,Chur,CH,Calunaweg 19,,,0.0,0.0,0.0,0.0,3500.0,0.0,3500.0,hcp,astrazeneca
+Heinrich Kläui,Bern,CH,Bühlstrasse 59,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Helmut Oswald,Winterthur,CH,Klinik für Kinder- und Jugendmedizin    Brauerstrasse 15,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,astrazeneca
+Irene Bopp-Kistler,Zürich,CH,Universitäre Klinik für Akutgeriatrie    Tièchestrasse 99,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca
+Iris Müller,Rapperswil SG,CH,Alte Jonastrasse 24,,,0.0,0.0,562.11,1304.51,0.0,0.0,1866.62,hcp,astrazeneca
+Jean Bérubé,Lugano,CH,Via Maggio 13,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Jean-François Dufour,Bern,CH,Insel Gruppe AG    Freiburgstrasse 18,,,0.0,0.0,0.0,0.0,2062.5,107.15,2169.65,hcp,astrazeneca
+Jean-Luc Kurzen,Männedorf,CH,Pneumologie    Asylstrasse 10,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,astrazeneca
+Jeanne Godau,Altdorf UR,CH,Medizinische Abteilung    Spitalstrasse 1,,,0.0,0.0,78.0,39.0,0.0,0.0,117.0,hcp,astrazeneca
+Jörg Erdmann,Rupperswil,CH,Alter Schulweg 23,,,0.0,0.0,0.0,0.0,300.0,0.0,300.0,hcp,astrazeneca
+Juan Fernando Iglesias,Genève,CH,Département spécialités de médecine    Rue Gabrielle-Perret-Gentil 4,,,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,hcp,astrazeneca
+Jürg Fröhlich,Bern,CH,Brünnenstrasse 119,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Jürg Kesselring,Valens,CH,Kliniken Valens    Taminaplatz 1,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca
+Karim Sibaï,Nyon,CH,Place de la Gare 9,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Karl Steuer,Allschwil,CH,Brennerstrasse 12,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Karsten Rasche,Winterthur,CH,Römerstrasse 30,,,0.0,0.0,0.0,1375.98,0.0,0.0,1375.98,hcp,astrazeneca
+Keyvan Shabafrouz,Lausanne,CH,Departement d'Oncologie BH 06    Rue du Bugnon 46,,,0.0,0.0,288.65,1478.04,0.0,0.0,1766.69,hcp,astrazeneca
+Konstantin Dedes,Zürich,CH,Klinik für Geburtshilfe    Frauenklinikstrasse 10,,,0.0,0.0,0.0,0.0,1625.0,0.0,1625.0,hcp,astrazeneca
+Kristin Zeidler,Stans,CH,Onkologie/Hämatologie    Ennetmooserstrasse 19,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Kuno Hutter,Heiligenschwendi,CH,Haltenegg,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Laetitia Mauti,St. Gallen,CH,Onkologie und Hämatologie / Haus 01    Rorschacher Strasse 95,,,0.0,0.0,0.0,0.0,1250.0,56.9,1306.9,hcp,astrazeneca
+Laura Knabben,Bern,CH,Gynäkolog. Reproduktionsmedizin    Effingerstrasse 102,,,0.0,0.0,0.0,0.0,1350.0,0.0,1350.0,hcp,astrazeneca
+Laurent Christin,Nyon,CH,Chemin Monastier 15,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Leila Achtari Jeanneret,Neuchâtel,CH,Département oncologie    Rue de la Maladière 45,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Linda Abrecht,Langnau i. E.,CH,Sägestrasse 37a,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Liz Coronado Torralvo,Lausanne,CH,Division de pneumologie    Rue du Bugnon 46,,,0.0,0.0,755.06,846.04,0.0,0.0,1601.1,hcp,astrazeneca
+Lorenz Räber,Bern,CH,Kardiologie    Freiburgstrasse 18,,,0.0,0.0,0.0,536.5,0.0,0.0,536.5,hcp,astrazeneca
+Luc Biedermann,Zürich,CH,Klinik für Gastroenterologie/Hepatologie    Rämistrasse 100,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Luca Gabutti,Bellinzona,CH,Nefrologia    Via Ospedale,,,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0,hcp,astrazeneca
+Luca Quagliata,Basel,CH,Institut für Pathologie    Schönbeinstrasse 40,,,0.0,0.0,0.0,0.0,1256.62,537.1,1793.72,hcp,astrazeneca
+Luciano Wannesson De Nicola,Bellinzona,CH,Ospedale Regionale di Bellinzona e Valli    Via Ospedale,,,0.0,0.0,0.0,0.0,2250.0,0.0,2250.0,hcp,astrazeneca
+Lucien Perey,Morges,CH,Service d'oncologie    Chemin du Crêt 2,,,0.0,0.0,0.0,0.0,1475.0,0.0,1475.0,hcp,astrazeneca
+Lukas Villiger,Dättwil AG,CH,Mellingerstrasse 207,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Malcolm Kohler,Zürich,CH,Klinik für Pneumologie    Rämistrasse 100,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Marc Egli,Epalinges,CH,Route de la Corniche 1,,,0.0,0.0,455.77,477.4,600.0,0.0,1533.17,hcp,astrazeneca
+Marco Waser,Luzern,CH,Obergrundstrasse 88,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Marcus Schuermann,Richterswil,CH,Onkologie    Bergstrasse 16,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Maria Teresa De Zulueta Bernd,Baar,CH,Onko-Zentrum    Landhausstrasse 11,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Markus Hoefliger,Altstätten SG,CH,Bahnhofstrasse 5,,,0.0,0.0,78.0,39.0,0.0,0.0,117.0,hcp,astrazeneca
+Markus Jörger,St. Gallen,CH,Onkologie und Hämatologie / Haus 01    Rorschacher Strasse 95,,,0.0,0.0,0.0,214.5,0.0,0.0,214.5,hcp,astrazeneca
+Martin Frey,Barmelweid,CH,Pneumologie,,,0.0,0.0,0.0,0.0,1000.0,58.0,1058.0,hcp,astrazeneca
+Martin Hausmann,Pratteln,CH,Burggartenstrasse 19,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Martin Heubner,Baden,CH,Kantonsspital Baden AG    Im Ergel 1,,,0.0,0.0,0.0,0.0,1550.0,0.0,1550.0,hcp,astrazeneca
+Martin Scherler,Meilen,CH,Dorfstrasse 116,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,astrazeneca
+Mathias Fehr,Frauenfeld,CH,Frauenklinik    Pfaffenholzstrasse 4,,,0.0,0.0,926.7,4026.97,1000.0,0.0,5953.67,hcp,astrazeneca
+Matthias Bossard,Luzern,CH,Kardiologie / Herzzentrum Luzern    Spitalstrasse,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Matthias Frasnelli,Chur,CH,Kantonsspital Graubünden    Loëstrasse 170,,,0.0,0.0,579.59,730.71,0.0,0.0,1310.3,hcp,astrazeneca
+Max Pfenninger,Olten,CH,Hauptgasse 22,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Michael Brändle,St. Gallen,CH,Allgemeine Innere Medizin / Haus 02    Rorschacher Strasse 95,,,0.0,0.0,0.0,0.0,1250.0,127.0,1377.0,hcp,astrazeneca
+Michaël Hagmann,Pully,CH,Chemin Pré-de-la-Tour 12,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Michael Tamm,Basel,CH,Departement für Innere Medizin    Petersgraben 4,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca
+Michele Ghielmini,Bellinzona,CH,Ospedale Regionale di Bellinzona e Valli    Via Ospedale,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca
+Monica Soare,Wald ZH,CH,Pulmonale Rehabilitation    Faltigbergstrasse 7,,,0.0,0.0,1196.4,318.3,0.0,0.0,1514.7,hcp,astrazeneca
+Monika Jermann,Zürich,CH,Toblerstrasse 50,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Mounir Trimeche,Lausanne,CH,Rue de Bignon 25,,,0.0,0.0,0.0,148.32,0.0,0.0,148.32,hcp,astrazeneca
+Nadine Gutierres-Demierre,Fribourg,CH,HFR Fribourg - Hôpital cantonal    Chemin des Pensionnats 2-6,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Natascha Potoczna,Luzern,CH,Stoffwechselpraxis Zentralschweiz AG    Zentralstrasse 1,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Nicolas Dobrynski,Genève,CH,Rue du Nant 4,,,0.0,0.0,625.93,846.04,0.0,0.0,1471.97,hcp,astrazeneca
+Nicolas Mach,Genève,CH,Centre d'oncologie    Rue Gabrielle-Perret-Gentil 4,,,0.0,0.0,562.11,1484.38,1750.0,88.0,3884.49,hcp,astrazeneca
+Nicolaus Andratschke,Zürich,CH,Klinik für Radio-Onkologie    Rämistrasse 100,,,0.0,0.0,0.0,0.0,1500.0,90.0,1590.0,hcp,astrazeneca
+Nina Kotrubczik,Uster,CH,Onkologie    Brunnenstrasse 42,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Olgun Eliçin,Bern,CH,Insel Gruppe AG    Freiburgstrasse 18,,,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0,hcp,astrazeneca
+Oskar Robert Köchli,Zürich,CH,Rämistrasse 35,,,0.0,0.0,0.0,239.5,0.0,0.0,239.5,hcp,astrazeneca
+Patrick Imesch,Zürich,CH,Klinik für Geburtshilfe    Frauenklinikstrasse 10,,,0.0,0.0,465.66,849.99,0.0,0.0,1315.65,hcp,astrazeneca
+Patrick Schihin,Horgen,CH,See-Spital Standort Horgen    Asylstrasse 19,,,0.0,0.0,0.0,1274.97,0.0,0.0,1274.97,hcp,astrazeneca
+Paul Mäder,Steffisburg,CH,Oberdorfstrasse 25,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Pedro Romero,Epalinges,CH,Recherche sur le cancer    Chemin Boveresses 155,,,0.0,0.0,0.0,196.97,1496.56,449.68,2143.21,hcp,astrazeneca
+Peter Dür,Schwyz,CH,Innere Medizin    Waldeggstrasse 10,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Peter Schmid-Grendelmeier,Zürich,CH,Dermatologische Klinik    Gloriastrasse 31,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,astrazeneca
+Peter Zelenay,Winterthur,CH,St. Georgenstrasse 6,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Petra Jacot,Zürich,CH,Rotbuchstrasse 46,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Philipp Andreas Gerber,Zürich,CH,Endokrinologie und Diabetologie    Rämistrasse 100,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Pierre Chappuis,Genève,CH,Dép. de gynécologie et d'obstétrique    Boulevard de la Cluse 30,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Regula Honegger,Horgen,CH,Seestrasse 117,,,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0,hcp,astrazeneca
+René Fiechter,Wetzikon ZH,CH,Pneumologie    Spitalstrasse 66,,,0.0,0.0,0.0,0.0,400.0,0.0,400.0,hcp,astrazeneca
+Robert Thomann,Solothurn,CH,Endokrinologie / Diabetologie    Schöngrünstrasse 42,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Rolf A. Streuli,Bruderholz,CH,Medizinische Universitätsklinik,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca
+Rolf Stahel,Zürich,CH,Universitätsspital Zürich    Rämistrasse 100,,,0.0,0.0,0.0,13274.29,4000.0,90.0,17364.29,hcp,astrazeneca
+Rolf Stöckli,Binningen,CH,Hauptstrasse 35,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Rudolf Louma,Bern,CH,Südbahnhofstrasse 2,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Sabina Berezowska,Bern,CH,Institut für Pathologie    Murtenstrasse 31,,,0.0,0.0,0.0,270.5,0.0,0.0,270.5,hcp,astrazeneca
+Sacha Rothschild,Basel,CH,Onkologie    Petersgraben 4,,,0.0,0.0,370.13,7126.98,0.0,0.0,7497.11,hcp,astrazeneca
+Samuel Blaser,Genève,CH,Centre d'oncologie    Rue Gabrielle-Perret-Gentil 4,,,0.0,0.0,0.0,0.0,1250.0,180.0,1430.0,hcp,astrazeneca
+Sana Intidhar Labidi-Galy,Genève,CH,Centre d'oncologie    Rue Gabrielle-Perret-Gentil 4,,,0.0,0.0,0.0,0.0,1000.0,230.0,1230.0,hcp,astrazeneca
+Sandra Beer,Lausanne,CH,Avenue de la Gare 11,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Sébastien-Pierre Thalmann,Zürich,CH,Kalanderplatz 1,,,0.0,0.0,0.0,195.0,0.0,0.0,195.0,hcp,astrazeneca
+Serge Clément,Nyon,CH,Rue Neuve 6,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Seyit Tas,Münchenstein,CH,Barcelona Strasse 15,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Sheila Ardigo,Genève,CH,Rue du Nant 4,,,0.0,0.0,0.0,0.0,2400.0,0.0,2400.0,hcp,astrazeneca
+Sieghart Filippi,Winterthur,CH,Pneumologie    Brauerstrasse 15,,,0.0,0.0,0.0,1162.7,0.0,0.0,1162.7,hcp,astrazeneca
+Stefan Christen,Zürich,CH,Kardiologie    Tièchestrasse 99,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Stefan Greuter,Sargans,CH,Bahnhofpark 2b,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Stefan Toggweiler,Luzern,CH,Kardiologie / Herzzentrum Luzern    Spitalstrasse,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Stefanie Huggle,Wetzikon ZH,CH,Frauenklinik    Spitalstrasse 66,,,0.0,0.0,0.0,0.0,875.0,0.0,875.0,hcp,astrazeneca
+Stephan Gasser,Baar,CH,Herz- und Lungenzentrum    Landhausstrasse 11,,,0.0,0.0,0.0,1144.57,400.0,0.0,1544.57,hcp,astrazeneca
+Stephan Wieser,Zürich,CH,Pneumologie und Schlafmedizin    Tièchestrasse 99,,,0.0,0.0,0.0,0.0,400.0,0.0,400.0,hcp,astrazeneca
+Stéphane Grandin,Genève,CH,Rue de la Servette 55,,,0.0,0.0,445.14,1058.74,0.0,0.0,1503.88,hcp,astrazeneca
+Susanna Stoll,Zürich,CH,Medizinische Onkologie und Hämatologie    Birmensdorferstrasse 497,,,0.0,0.0,0.0,0.0,1250.0,95.0,1345.0,hcp,astrazeneca
+Tamas Major,Uznach,CH,Pneumologie    Gasterstrasse 25,,,0.0,0.0,0.0,1175.7,0.0,0.0,1175.7,hcp,astrazeneca
+Tarcisio Bianda,Ascona,CH,Via Collina 4,,,0.0,0.0,0.0,0.0,1850.0,0.0,1850.0,hcp,astrazeneca
+Thomas F. Lüscher,Schlieren,CH,Wagistrasse 12,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca
+Thomas Rothe,Chur,CH,Kantonsspital Graubünden    Loëstrasse 170,,,0.0,0.0,0.0,892.78,8200.0,100.0,9192.78,hcp,astrazeneca
+Thomas Winder,Zürich,CH,Seestrasse 259,,,0.0,0.0,39.0,177.83,0.0,0.0,216.83,hcp,astrazeneca
+Tino Schneider,St. Gallen,CH,Klinik für Pneumologie / Haus 02    Rorschacher Strasse 95,,,0.0,0.0,0.0,584.17,0.0,0.0,584.17,hcp,astrazeneca
+Tobias Finazzi,Basel,CH,Klinik für Radioonkologie    Petersgraben 4,,,0.0,0.0,0.0,0.0,1250.0,47.0,1297.0,hcp,astrazeneca
+Tobias Von Blumenthal,Davos Clavadel,CH,Zürcher RehaZentrum Davos    Klinikstrasse 6,,,0.0,0.0,1196.4,1054.0,0.0,0.0,2250.4,hcp,astrazeneca
+Urs Beat Gröflin,Binningen,CH,Hauptstrasse 3,,,0.0,0.0,0.0,0.0,1850.0,0.0,1850.0,hcp,astrazeneca
+Urs Müller,Sargans,CH,Onkologie    Grossfeldstrasse 79,,,0.0,0.0,117.0,78.0,0.0,0.0,195.0,hcp,astrazeneca
+Urs Schwyzer,Ittigen,CH,Worblentalstrasse 99,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Ute Gick,Thun,CH,Onkologiezentrum Thun-Berner Oberland    Krankenhausstrasse 12,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca
+Uwe Grommas,St. Gallen,CH,Kardiologische Rehabilitaton u. Medizin    Rorschacher Strasse 311,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Vanessa Chatelain,Vevey,CH,Site de la Providence/Centre d'oncologie    Avenue de la Prairie 3,,,0.0,0.0,0.0,0.0,875.0,0.0,875.0,hcp,astrazeneca
+Volkhard Göber,Bern,CH,Kardiologie    Buchserstrasse 30,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca
+Willy Nettekoven,Neuchâtel,CH,Département oncologie    Rue de la Maladière 45,,,0.0,0.0,39.0,19.5,0.0,0.0,58.5,hcp,astrazeneca
+Yvonne Hummel,Zürich,CH,Grundversicherungen AG    Jägerstrasse 3,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca
+Ziad Atassi,Horgen,CH,Seestrasse 147,,,0.0,0.0,0.0,0.0,875.0,0.0,875.0,hcp,astrazeneca
+Appenzellische Ärztegesellschaft,Bühler,CH,Dorfstrasse 50,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Ärztegesellschaft des Kantons Bern,Bern,CH,Postgasse 19,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,astrazeneca
+Ärzteverein Werdenberg Sarganserland - Venenzentrum,Flums,CH,Bahnhofstrasse 24,,,0.0,2200.0,0.0,0.0,0.0,0.0,2200.0,hco,astrazeneca
+Società Svizzera di Medicina Interna Generale – TI (SSMIG-TI),Paradiso,CH,Via General Guisan 10,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+European Society for Medical Oncology (ESMO),Viganello,CH,Via Luigi Taddei 4,,,0.0,1041848.65,0.0,0.0,0.0,0.0,1041848.65,hco,astrazeneca
+European Society of Clinical Microbiology and Infectious Diseases (ESCMID),Basel,CH,P.O. Box 214,,,0.0,0.0,43406.01,0.0,0.0,0.0,43406.01,hco,astrazeneca
+Gynécologie Suisse SGGG,Bern,CH,Altenbergstrasse 29,,,0.0,6570.0,0.0,0.0,0.0,0.0,6570.0,hco,astrazeneca
+Ligue pulmonaire fribourgeoise,Fribourg,CH,Route Saint-Nicolas-de-Flüe 2,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca
+Lung Cancer Europe (LUCE),Bern,CH,Effingerstrasse 40,,,0.0,0.0,0.0,0.0,442.96,0.0,442.96,hco,astrazeneca
+Lungenliga Thurgau,Weinfelden,CH,Bahnhofstrasse 15,,,1620.0,0.0,0.0,0.0,0.0,0.0,1620.0,hco,astrazeneca
+Ordine dei medici del Canton Ticino,Mezzovico,CH,Via Cantonale 8,,,0.0,1600.0,0.0,0.0,0.0,0.0,1600.0,hco,astrazeneca
+Schweizer Arbeitsgemeinschaft für Klinische Krebsforschung (SAKK ),Bern,CH,Effingerstrasse 40,,,0.0,0.0,117.0,58.5,195.0,0.0,370.5,hco,astrazeneca
+Universität St. Gallen,St. Gallen,CH,Dufourstrasse 50,,,0.0,0.0,0.0,0.0,14239.2,0.0,14239.2,hco,astrazeneca
+Verein Krebsforschung Zentralschweiz,Luzern,CH,Spitalstrasse,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Verein Lunge Zürich,Zürich,CH,Wilfriedstrasse 7,,,30000.0,0.0,0.0,0.0,0.0,0.0,30000.0,hco,astrazeneca
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,0.0,1200.0,0.0,0.0,0.0,0.0,1200.0,hco,astrazeneca
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hco,astrazeneca
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hco,astrazeneca
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,0.0,3200.0,0.0,0.0,0.0,0.0,3200.0,hco,astrazeneca
+"Association genevoise d'asthme, d’immunologie et d’allergie (AGAIA )",Genève,CH,Rue Emile-Yung 11,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Arbeitsgruppe Lipide und Atherosklerose (AGLA ),Steinhausen,CH,Sennweidstrasse 46,,,0.0,7500.0,0.0,0.0,12000.0,0.0,19500.0,hco,astrazeneca
+AMIS Plus Stiftung,Zürich,CH,Hirschengraben 84,,,0.0,24000.0,0.0,0.0,0.0,0.0,24000.0,hco,astrazeneca
+Arbeitsgemeinschaft für gynäkologische Endoskopie (AGE/GTEG),Bern,CH,Thunstrasse 27,,,0.0,5800.0,0.0,0.0,0.0,0.0,5800.0,hco,astrazeneca
+Arbeitsgruppe für Echokardiographie,Bern,CH,Sidlerstrasse 4,,,0.0,4500.0,0.0,0.0,0.0,0.0,4500.0,hco,astrazeneca
+Ärzte mit Patientenapotheke (APA),St. Gallen,CH,Kolumbanstrasse 2,,,0.0,0.0,0.0,0.0,400.0,0.0,400.0,hco,astrazeneca
+Ärztegesellschaft Gäu,Wolhusen,CH,n/a,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+ÄrzteNetzwerk Grauholz,Urtenen-Schönbühl,CH,Solothurnstrasse 43,,,0.0,2800.0,0.0,0.0,0.0,0.0,2800.0,hco,astrazeneca
+Ass. Mendrisio Medical Meeting,Minusio,CH,Via Cadogno 1,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca
+"Association Genevoise des Médecins de famille internistes et généralistes,",Genève,CH,Chemin Beau-Soleil 22,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,astrazeneca
+Kantonsspital Baden AG,Baden,CH,Im Ergel 1,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hco,astrazeneca
+Kantonsspital Baden AG,Baden,CH,Im Ergel 1,,,0.0,2500.0,507.0,253.5,0.0,0.0,3260.5,hco,astrazeneca
+St. Claraspital AG,Basel,CH,Kleinriehenstrasse 30,,,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0,hco,astrazeneca
+Universitätsspital Basel,Basel,CH,Petersgraben 4,,,0.0,2500.0,370.13,3586.46,4125.0,0.0,10581.59,hco,astrazeneca
+Universitätsspital Basel,Basel,CH,Petersgraben 4,,,0.0,0.0,0.0,0.0,4100.0,0.0,4100.0,hco,astrazeneca
+Universitätsspital Basel,Basel,CH,Petersgraben 4,,,0.0,1500.0,0.0,0.0,3000.0,0.0,4500.0,hco,astrazeneca
+Universitätsspital Basel,Basel,CH,Petersgraben 4,,,0.0,19550.0,0.0,0.0,0.0,0.0,19550.0,hco,astrazeneca
+Universitätsspital Basel,Basel,CH,Petersgraben 4,,,0.0,7500.0,0.0,0.0,925.93,0.0,8425.93,hco,astrazeneca
+Universitätsspital Basel,Basel,CH,Petersgraben 4,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,astrazeneca
+Universitätsspital Basel,Basel,CH,Petersgraben 4,,,0.0,0.0,0.0,0.0,19250.0,0.0,19250.0,hco,astrazeneca
+Universitätsspital Basel,Basel,CH,Petersgraben 4,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hco,astrazeneca
+Ospedale S. Giovanni EOC,Bellinzona,CH,Via Ospedale,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Ospedale Regionale di Bellinzona e Valli,Bellinzona,CH,Via Ospedale,,,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0,hco,astrazeneca
+Insel Gruppe AG,Bern,CH,Effingerstrasse 77,,,0.0,2700.0,0.0,0.0,1600.0,0.0,4300.0,hco,astrazeneca
+Insel Gruppe AG,Bern,CH,Effingerstrasse 77,,,0.0,1900.0,0.0,0.0,0.0,0.0,1900.0,hco,astrazeneca
+Insel Gruppe AG,Bern,CH,Effingerstrasse 77,,,3000.0,1000.0,0.0,0.0,0.0,0.0,4000.0,hco,astrazeneca
+Insel Gruppe AG,Bern,CH,Effingerstrasse 77,,,1500.0,4000.0,0.0,0.0,0.0,0.0,5500.0,hco,astrazeneca
+Insel Gruppe AG,Bern,CH,Effingerstrasse 77,,,0.0,21000.0,0.0,0.0,800.0,0.0,21800.0,hco,astrazeneca
+Insel Gruppe AG,Bern,CH,Effingerstrasse 77,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,astrazeneca
+Insel Gruppe AG,Bern,CH,Effingerstrasse 77,,,0.0,0.0,195.0,185.25,1940.0,0.0,2320.25,hco,astrazeneca
+Insel Gruppe AG,Bern,CH,Effingerstrasse 77,,,0.0,19000.0,0.0,0.0,6850.0,0.0,25850.0,hco,astrazeneca
+Insel Gruppe AG,Bern,CH,Effingerstrasse 77,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Insel Gruppe AG,Bern,CH,Effingerstrasse 77,,,0.0,17440.0,0.0,0.0,600.0,0.0,18040.0,hco,astrazeneca
+Insel Gruppe AG,Bern,CH,Effingerstrasse 77,,,0.0,0.0,0.0,0.0,1600.0,5000.0,6600.0,hco,astrazeneca
+Berner Institut für Hausarztmedizin (BIHAM),Bern,CH,Gesellschaftsstrasse 49,,,0.0,4950.0,0.0,0.0,0.0,0.0,4950.0,hco,astrazeneca
+Spitalzentrum Biel AG,Biel/Bienne,CH,Vogelsang 84,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,astrazeneca
+Kantonsspital Baselland,Bruderholz,CH,4101 Bruderholz,,,0.0,1500.0,0.0,0.0,600.0,0.0,2100.0,hco,astrazeneca
+Kantonsspital SG,St. Gallen,CH,Rorschacher Strasse 95,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,astrazeneca
+Brustzentrum Zürich,Zürich,CH,Seefeldstrasse 214,,,0.0,3900.0,0.0,0.0,195.0,0.0,4095.0,hco,astrazeneca
+Brustzentrum Thurgau,Frauenfeld,CH,Waldeggstrasse 8a,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,astrazeneca
+Regionalspital Emmental AG,Burgdorf,CH,Oberburgstrasse 54,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Centre Médical de la Côte SA,Corcelles NE,CH,Rue du Petit-Berne 14,,,0.0,1250.0,0.0,0.0,0.0,0.0,1250.0,hco,astrazeneca
+Hôp.du Pays-d'Enhaut,Château-d'Oex,CH,Route de l'Hôpital 17,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Kantonsspital Graubünden,Chur,CH,Loëstrasse 170,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Kantonsspital Graubünden,Chur,CH,Loëstrasse 170,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hco,astrazeneca
+Kantonsspital Graubünden,Chur,CH,Loëstrasse 170,,,0.0,5000.0,0.0,0.0,3296.0,294.0,8590.0,hco,astrazeneca
+Kantonsspital Graubünden,Chur,CH,Loëstrasse 170,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hco,astrazeneca
+Circolo Medico del Bellinzonese,Bellinzona,CH,Via Camminata 6,,,0.0,700.0,0.0,0.0,0.0,0.0,700.0,hco,astrazeneca
+Circolo medico locarno,Ascona,CH,Via Lido 27,,,0.0,2250.0,0.0,0.0,0.0,0.0,2250.0,hco,astrazeneca
+COALAT,Lausanne,CH,Rue du Bugnon 46,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Congres Medical Quadrimed,Crans-Montana,CH,Case Postale 299,,,0.0,740.75,0.0,0.0,0.0,0.0,740.75,hco,astrazeneca
+Spital Davos AG,Davos Platz,CH,Promenade 4,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,astrazeneca
+Hôpital régional,Delémont,CH,Faubourg des Capucins 30,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Hôpital régional,Delémont,CH,Faubourg des Capucins 30,,,0.0,550.0,0.0,0.0,0.0,0.0,550.0,hco,astrazeneca
+Verein DIAfit,Baden,CH,Rütistrasse 3 A,,,0.0,15000.0,0.0,0.0,0.0,0.0,15000.0,hco,astrazeneca
+DOXnet Aerztenetzwerk Bern Nord-West,Bremgarten b. Bern,CH,Aeschenbrunnmattstrasse 9,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Dr. Loretta Hasler AG,Biel/Bienne,CH,Hans-Hugi-Strasse 3,,,0.0,0.0,0.0,0.0,875.0,0.0,875.0,hco,astrazeneca
+Ente Ospedaliero Cantonale,Bellinzona,CH,Via Ospedale,,,0.0,2481.5,470.53,787.8,3200.0,0.0,6939.83,hco,astrazeneca
+Espace Compétences Centre de formation de la santé,Cully,CH,Route de Grandvaux 14,,,0.0,900.0,0.0,0.0,0.0,0.0,900.0,hco,astrazeneca
+Hôp. intercant. Broye,Estavayer-le-Lac,CH,Rue de la Rochette,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+eSwiss Medical & Surgial Center AG,St. Gallen,CH,Brauerstrasse 97,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,astrazeneca
+European Respiratory Society,Lausanne,CH,Avenue Ste-Luce 4,,,0.0,0.0,9620.5,0.0,0.0,0.0,9620.5,hco,astrazeneca
+European Society of Gynaecological Oncology (ESGO),Genève,CH,Rue Chantepoulet 1-3,,,0.0,80711.62,0.0,0.0,0.0,0.0,80711.62,hco,astrazeneca
+Fokus Herz Bern,Bern,CH,Schänzlistrasse 33,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,astrazeneca
+Forum für medizinische Fortbildung (FomF),Zug,CH,Industriestrasse 47,,,0.0,88585.0,0.0,0.0,0.0,0.0,88585.0,hco,astrazeneca
+Fondation fribourgeois pour la recherche et la formation sur le cancer,Bourguillon,CH,Rue Max von Sachsen 4,,,15000.0,0.0,0.0,0.0,0.0,0.0,15000.0,hco,astrazeneca
+Fondation pour la recherche de la cardiologie universitaire de Genève (GEcor),Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,0.0,6100.0,0.0,0.0,4000.0,0.0,10100.0,hco,astrazeneca
+Forum Managed Care,Neuägeri,CH,Zugerstrasse 193,,,0.0,0.0,0.0,0.0,140.0,0.0,140.0,hco,astrazeneca
+frauenarztzentrum aargau ag Bernerstrasse 27 Baden,Baden,CH,Bernerstrasse 27,,,0.0,0.0,0.0,0.0,1125.0,0.0,1125.0,hco,astrazeneca
+Kantonsspital Frauenfeld,Frauenfeld,CH,Pfaffenholzstrasse 4,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Clinique Générale Ste-Anne,Fribourg,CH,Rue Hans-Geiler 6,,,0.0,925.95,0.0,0.0,0.0,0.0,925.95,hco,astrazeneca
+Hôpital cantonal,Fribourg,CH,Chemin des Pensionnats 2-6,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Hôpital cantonal,Fribourg,CH,Chemin des Pensionnats 2-6,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,astrazeneca
+Hôpital cantonal,Fribourg,CH,Chemin des Pensionnats 2-6,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hco,astrazeneca
+Hôpital cantonal,Fribourg,CH,Chemin des Pensionnats 2-6,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Hôpitaux universit. de Genève (HUG),Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Hôpitaux universit. de Genève (HUG),Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Hôpitaux universit. de Genève (HUG),Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,0.0,9000.0,0.0,0.0,0.0,0.0,9000.0,hco,astrazeneca
+Hôpitaux universit. de Genève (HUG),Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0,hco,astrazeneca
+Hôpitaux universit. de Genève (HUG),Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0,hco,astrazeneca
+Kantonsspital Glarus,Glarus,CH,Burgstrasse 99,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Groupement des Pneumologues Vaudois (GPV),Montreux,CH,Grand-Rue 62,,,0.0,1200.0,0.0,0.0,0.0,0.0,1200.0,hco,astrazeneca
+Groupe des Pneumologues Genevois,Genève,CH,Route de Florissant 64,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Schweiz Verein Amts- und Spitalapo (GSASA),Bern,CH,CH-3000 Bern,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,astrazeneca
+Spital Herisau,Herisau,CH,Spitalstrasse 6,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+See-Spital Standort Horgen,Horgen,CH,Asylstrasse 19,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,astrazeneca
+IGOMED,Thun,CH,Höheweg 26A,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,astrazeneca
+Institut für Forschung und Fortbildung in der Medizin GmbH,Burgdorf,CH,Oberburgstrasse 10,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca
+Institut für Hausarztmedizin & Community Care Luzern,Luzern,CH,Schwanenplatz 7,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,astrazeneca
+International Cancer Prevention Institute,Epalinges,CH,Chemin De la Cure 7,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Istituto cantonale di patologia,Locarno,CH,Via in Selva 24,,,0.0,28460.0,430.0,0.0,0.0,0.0,28890.0,hco,astrazeneca
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,astrazeneca
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,0.0,15000.0,0.0,221.87,6000.0,0.0,21221.87,hco,astrazeneca
+Spital Lachen AG,Lachen SZ,CH,Oberdorfstrasse 41,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca
+Regionalspital Emmental AG,Langnau i. E.,CH,Dorfbergstrasse 10,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Hôpital de l'Enfance,Lausanne,CH,Chemin de Montétan 16,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca
+Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,Rue du Bugnon 46,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hco,astrazeneca
+Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,Rue du Bugnon 46,,,0.0,3900.0,0.0,0.0,0.0,0.0,3900.0,hco,astrazeneca
+Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,Rue du Bugnon 46,,,0.0,9000.0,683.66,1151.35,2157.41,0.0,12992.42,hco,astrazeneca
+Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,Rue du Bugnon 46,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,Rue du Bugnon 46,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,astrazeneca
+Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,Rue du Bugnon 46,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,Rue du Bugnon 46,,,0.0,16500.0,1159.53,6034.69,17057.6,375.0,41126.82,hco,astrazeneca
+Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,Rue du Bugnon 46,,,0.0,6000.0,0.0,0.0,1500.0,0.0,7500.0,hco,astrazeneca
+Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,Rue du Bugnon 46,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hco,astrazeneca
+Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,Rue du Bugnon 46,,,0.0,0.0,117.0,58.5,0.0,417.76,593.26,hco,astrazeneca
+Le Noirmont- Clinique,Le Noirmont,CH,Chemin de Roc-Montès 20,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+LH Pflegeakademie GmbH,Liestal,CH,Postfach 278,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,0.0,40000.0,0.0,0.0,0.0,0.0,40000.0,hco,astrazeneca
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,0.0,0.0,3300.0,0.0,3300.0,hco,astrazeneca
+Ligue Pulmonaire Genevoise,Carouge,CH,Avenue du Cardinal-Mermillod 42-44,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Cardiocentro Ticino,Lugano,CH,Via Tesserete 48,,,0.0,462.96,0.0,0.0,0.0,0.0,462.96,hco,astrazeneca
+Ospedale Regionale Lugano Civico,Lugano,CH,Via Tesserete 46,,,2129.62,300.0,0.0,0.0,0.0,0.0,2429.62,hco,astrazeneca
+LungenZentrum Hirslanden,Zürich,CH,Witellikerstrasse 40,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,0.0,15000.0,0.0,0.0,1000.0,0.0,16000.0,hco,astrazeneca
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,0.0,1620.0,0.0,0.0,0.0,0.0,1620.0,hco,astrazeneca
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0,hco,astrazeneca
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,0.0,1400.0,78.0,39.0,3000.0,0.0,4517.0,hco,astrazeneca
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,0.0,6500.0,0.0,0.0,0.0,0.0,6500.0,hco,astrazeneca
+Magendarmliga Schweiz,Bern,CH,Schwanengasse 1,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,astrazeneca
+Spital Männedorf AG,Männedorf,CH,Asylstrasse 10,,,0.0,0.0,0.0,0.0,875.0,0.0,875.0,hco,astrazeneca
+Hôpital régional,Martigny,CH,Avenue de la Fusion 27,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca
+Hôpital La Tour SA,Meyrin,CH,Avenue J.-D.-Maillard 3,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Spital Münsingen,Münsingen,CH,Krankenhausweg 18,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Kantonsspital,Münsterlingen,CH,Spitalcampus 1,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Hôpital de Nyon,Nyon,CH,Chemin Monastier 10,,,0.0,2200.0,0.0,0.0,0.0,0.0,2200.0,hco,astrazeneca
+Kantonsspital Olten,Olten,CH,Baslerstrasse 150,,,0.0,1600.0,0.0,0.0,0.0,0.0,1600.0,hco,astrazeneca
+Kantonsspital Olten,Olten,CH,Baslerstrasse 150,,,0.0,800.0,0.0,0.0,1250.0,28.0,2078.0,hco,astrazeneca
+Kantonsspital Olten,Olten,CH,Baslerstrasse 150,,,0.0,864.0,0.0,0.0,0.0,0.0,864.0,hco,astrazeneca
+Onkologiepflege Schweiz,Kleinandelfingen,CH,Hirstigstrasse 13,,,0.0,10550.0,0.0,0.0,0.0,0.0,10550.0,hco,astrazeneca
+OnkoZentrum Hirslanden,Zürich,CH,Witellikerstrasse 40,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hco,astrazeneca
+Hirslanden Klinik St. Anna,Luzern,CH,St. Anna-Strasse 32,,,0.0,925.93,0.0,0.0,0.0,0.0,925.93,hco,astrazeneca
+Onkozentrum Zürich AG,Zürich,CH,Seestrasse 259,,,0.0,0.0,0.0,175.5,3061.0,0.0,3236.5,hco,astrazeneca
+Ostschweizer Gesellschaft der ORL Ärzte (OSGORL),St. Gallen,CH,Rorschacherstrasse 150,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Palliative Bern,Bern,CH,Marktgasse 55,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,astrazeneca
+PizolCare AG,Mels,CH,Flurstrasse 12,,,0.0,10500.0,0.0,0.0,0.0,0.0,10500.0,hco,astrazeneca
+PonteNet AG,Solothurn,CH,Rosenweg 2,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Praxis für Onkologie,Zürich,CH,Toblerstrasse 50,,,0.0,0.0,0.0,0.0,875.0,0.0,875.0,hco,astrazeneca
+Association genevoise de médecins travaillant en réseau (REMED),Genève,CH,Rue du Conseil-Général 11,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,astrazeneca
+Spital Oberengadin,Samedan,CH,Via Nouva 3,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Swiss academy of multidisciplinary oncology (SAMO),Bern,CH,Effingerstrasse 40,,,0.0,19500.0,0.0,0.0,0.0,0.0,19500.0,hco,astrazeneca
+Kantonsspital Obwalden,Sarnen,CH,Brünigstrasse 181,,,0.0,1851.85,0.0,0.0,0.0,0.0,1851.85,hco,astrazeneca
+Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung (SAKK),Bern,CH,Effingerstrasse 33,,,0.0,16500.0,0.0,0.0,0.0,0.0,16500.0,hco,astrazeneca
+Schweizerische Diabetes Gesellschaft,Baden,CH,Rütistrasse 3 A,,,0.0,5800.0,0.0,0.0,27411.24,0.0,33211.24,hco,astrazeneca
+Schweizerische Gesellschaft für Endokrinologie und Diabetologie,Baden,CH,Rütistrasse 3 A,,,0.0,55000.0,0.0,0.0,0.0,0.0,55000.0,hco,astrazeneca
+Schweizerische Gesellschaft für Kardiologie,Bern,CH,Schwarztorstrasse 18,,,0.0,16500.0,0.0,0.0,0.0,0.0,16500.0,hco,astrazeneca
+Schweizerische Gesellschaft für Pathologie,Oberkirch,CH,Burghöhe 1,,,0.0,6700.0,150.0,0.0,0.0,0.0,6850.0,hco,astrazeneca
+Schweizerische Gynäkologische Chefärztekonferenz,Bern,CH,Altenbergstrasse 29,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,astrazeneca
+Schweizerische Interessengruppe für Diabetesfachberatung,Le Noirmont,CH,,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Schweizerische Gesellschaft für Senologie,Nunningen,CH,Riseten 4,,,0.0,2600.0,0.0,0.0,0.0,0.0,2600.0,hco,astrazeneca
+Schweizerische Gesellschaft für Urologie,Montreux,CH,Avenue des Planches 15,,,0.0,3600.0,0.0,0.0,0.0,0.0,3600.0,hco,astrazeneca
+Ospidal Scuol,Scuol,CH,Via da l' Ospidal 280,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Section of Pharmaceutical Sciences University of Geneva,Genève 4,CH,Quai E-Ansermet 30,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca
+Reha Seewis,Seewis Dorf,CH,Schlossstrasse 1,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Schweizerischen Gesellschaft für Allgemeine Innere Medizin (SGAIM),Basel,CH,Solothurnertrasse 68,,,0.0,16140.0,0.0,0.0,0.0,0.0,16140.0,hco,astrazeneca
+SGPGHE,Winterthur,CH,Brauerstrasse 15,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Schweizerische Gesellschaft der Vertrauens- und Versicherungsärzte (SGV),Winterthur,CH,Industriestrasse 24,,,0.0,25000.0,0.0,0.0,0.0,0.0,25000.0,hco,astrazeneca
+Hôpital du Valais,Sion,CH,Avenue du Grand-Champsec 80,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Hôpital du Valais,Sion,CH,Avenue du Grand-Champsec 80,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hco,astrazeneca
+Hôpital du Valais,Sion,CH,Avenue du Grand-Champsec 80,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+sitem-insel AG,Bern,CH,Freiburgstrasse 18,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hco,astrazeneca
+Société suisse d’Allergologie et D’Immunologie (SSAI),Bern 22,CH,Scheibenstrasse 14 Postfach 1,,,0.0,9074.0,0.0,0.0,0.0,0.0,9074.0,hco,astrazeneca
+Solothurner Spitäler AG,Solothurn,CH,Schöngrünstrasse 42,,,0.0,1851.85,0.0,0.0,0.0,0.0,1851.85,hco,astrazeneca
+Kantonsspital St.Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,0.0,8000.0,117.0,146.25,390.0,0.0,8653.25,hco,astrazeneca
+Kantonsspital St.Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca
+Kantonsspital St.Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,0.0,5703.7,0.0,0.0,0.0,0.0,5703.7,hco,astrazeneca
+Kantonsspital St.Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca
+Kantonsspital St.Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,0.0,8000.0,0.0,0.0,0.0,0.0,8000.0,hco,astrazeneca
+Kantonsspital St.Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,0.0,3000.0,224.1,859.33,4991.0,86.0,9160.43,hco,astrazeneca
+Kantonsspital St.Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,10000.0,3000.0,0.0,0.0,1462.96,0.0,14462.96,hco,astrazeneca
+Kantonsspital St.Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,0.0,12000.0,78.0,39.0,195.0,0.0,12312.0,hco,astrazeneca
+Kantonsspital Nidwalden,Stans,CH,Ennetmooserstrasse 19,,,0.0,8000.0,0.0,0.0,0.0,0.0,8000.0,hco,astrazeneca
+Ste-Croix-Réseau Santé Balcon du Jura.vd,Ste-Croix,CH,Rue des Rosiers 29,,,0.0,2800.0,0.0,0.0,0.0,0.0,2800.0,hco,astrazeneca
+Stiftung für Herz- und Kreislaufforschung,Zürich,CH,Hottingerstrasse 14,,,50000.0,17500.0,0.0,0.0,0.0,0.0,67500.0,hco,astrazeneca
+Stiftung für wissenschaftliche Forschung am Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0,hco,astrazeneca
+St. Gallen Oncology Conferences (SONK),St. Gallen,CH,Rorschacher Strasse 150,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,astrazeneca
+Schweiz. Verband der MPA (SVA),Bern,CH,Monbijoustrasse 35,,,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0,hco,astrazeneca
+Swiss Tumor Immunology Institute,Zürich,CH,Seestrasse 259,,,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0,hco,astrazeneca
+Swiss Tumor Institute,Zürich,CH,Seefeldstrasse 214,,,0.0,9500.0,0.0,158.33,0.0,0.0,9658.33,hco,astrazeneca
+Synlab Suisse SA,Luzern,CH,Tribschenstrasse 78,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+TopPharm AG,Münchenstein,CH,Grabenackerstrasse 15,,,0.0,9500.0,0.0,0.0,0.0,0.0,9500.0,hco,astrazeneca
+Tumor- und Brustzentrum ZeTuP AG,St. Gallen,CH,Rorschacher Strasse 150,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Universität Basel,Basel,CH,Petersplatz 1,,,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0,hco,astrazeneca
+Universität Zürich,Zürich,CH,Hirschengraben 84,,,30000.0,0.0,0.0,0.0,0.0,0.0,30000.0,hco,astrazeneca
+Universitätsspital Zürich Cancer Center ZH,Zürich,CH,Rämistrasse 100,,,0.0,13000.0,0.0,0.0,0.0,0.0,13000.0,hco,astrazeneca
+Verein Gastroenterologie Zürich (VGZ),Zürich,CH,Seestrasse 90,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca
+Verein Lunge Zürich,Zürich,CH,Wilfriedstrasse 7,,,0.0,6730.0,0.0,0.0,0.0,0.0,6730.0,hco,astrazeneca
+Verein Qualitätszirkel Muttenz,Muttenz,CH,Hauptstrasse 54,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,astrazeneca
+Vereinigung Zürcher Internisten,Zürich,CH,Birmensdorferstrasse 497,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,astrazeneca
+Ospedale Regionale Italiano,Viganello,CH,Viale Pietro Capelli 1,,,0.0,4703.7,0.0,0.0,0.0,0.0,4703.7,hco,astrazeneca
+Vereinigung Zürcher Kinder und Jugendärzte (VZK),Zürich,CH,Breitingerstrasse 23,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,astrazeneca
+Spital Wattwil,Wattwil,CH,Steig,,,0.0,1600.0,0.0,0.0,0.0,0.0,1600.0,hco,astrazeneca
+GZO Spital Wetzikon,Wetzikon ZH,CH,Spitalstrasse 66,,,0.0,1100.0,0.0,0.0,0.0,0.0,1100.0,hco,astrazeneca
+Who is Who im Kreis 2,Zürich,CH,Bodmerstrasse 10,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca
+Spital Will,Wil SG,CH,Fürstenlandstrasse 32,,,0.0,4651.85,0.0,0.0,0.0,0.0,4651.85,hco,astrazeneca
+Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,,,0.0,1388.89,0.0,0.0,0.0,0.0,1388.89,hco,astrazeneca
+Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,astrazeneca
+Zürcher Gesellschaft für Kardiologie (ZGK),Zürich,CH,Birmensdorferstrasse 467,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,astrazeneca
+Zurich Academy of Internal Medicine (ZAIM),Zürich,CH,Grossmünsterplatz,,,0.0,8200.0,0.0,0.0,0.0,0.0,8200.0,hco,astrazeneca
+Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,0.0,1350.0,0.0,0.0,0.0,0.0,1350.0,hco,astrazeneca
+Klinik Im Park,Zürich,CH,Seestrasse 247,,,0.0,30000.0,0.0,0.0,0.0,0.0,30000.0,hco,astrazeneca
+Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca
+Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,0.0,4500.0,0.0,0.0,2500.0,92.3,7092.3,hco,astrazeneca
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,astrazeneca
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,astrazeneca
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,0.0,20000.0,0.0,0.0,0.0,0.0,20000.0,hco,astrazeneca
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hco,astrazeneca
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,0.0,0.0,0.0,0.0,2250.0,0.0,2250.0,hco,astrazeneca
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,30000.0,0.0,0.0,0.0,0.0,0.0,30000.0,hco,astrazeneca
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,astrazeneca
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,0.0,1085.2,0.0,0.0,0.0,0.0,1085.2,hco,astrazeneca
+Universitäts-Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,0.0,1200.0,0.0,0.0,0.0,0.0,1200.0,hco,astrazeneca
+Spital Zweisimmen,Zweisimmen,CH,Karl Haueter-Strasse 21,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca

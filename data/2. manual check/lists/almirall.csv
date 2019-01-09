@@ -1,0 +1,62 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Jan Adolphsen,Montana,CH,Imp. Palace Bellevue 1,,,,,,,1000.0,,1000.0,hcp,almirall
+Reto Agosti,Zollikon,CH,Forchstrasse 424,,,,,,,1000.0,,1000.0,hcp,almirall
+Jean-Marie Annoni,Fribourg,CH,Chemins des Pensionnats 2,,,,,,,2000.0,,2000.0,hcp,almirall
+Laura Boroleanu,Neuchâtel,CH,Rue J.-J.-Lallemand 11,,,,,,,800.0,,800.0,hcp,almirall
+Bernhard Decard,Basel,CH,Petersgraben 4,,,,,,,1000.0,,1000.0,hcp,almirall
+Manuela Diederich,Basel,CH,Petersgraben 4,,,,,,,500.0,,500.0,hcp,almirall
+Mark Emmenegger,Agno,CH,World Trade Center,,,,,,,1000.0,,1000.0,hcp,almirall
+Bernard Favrat,Lausanne,CH,Rue du Bugnon 44,,,,,,,1000.0,,1000.0,hcp,almirall
+Andreas Gantenbein,Bad Zurzach,CH,Quellenstrasse 34,,,,,,,1000.0,,1000.0,hcp,almirall
+Dominique Gisler,Interlaken,CH,Mittengrabenstra sse 34,,,,,,,1000.0,,1000.0,hcp,almirall
+Christophe Henny,Lausanne,CH,Avenue Bergières 2,,,,,,,2000.0,,2000.0,hcp,almirall
+Jürg Hans Huber,Würenlos,CH,Juchstrasse 15,,,,,,,1000.0,,1000.0,hcp,almirall
+Nathalie Vuille Irla,Zug,CH,Gartenstrasse 3,,,,,,,400.0,,400.0,hcp,almirall
+Martin Kägi,Zürich,CH,Schaffhauserstra sse 355,,,,,,,1000.0,,1000.0,hcp,almirall
+Christian Kamm,Bern,CH,Freiburgstrasse 18,,,,,,,1000.0,,1000.0,hcp,almirall
+Ammar Kassouha,Genève,CH,Avenue de Beau-Séjour 26,,,,,,,1000.0,,1000.0,hcp,almirall
+Christian Kätterer,Basel,CH,Im Burgfelderhof 40,,,,,,,1000.0,,1000.0,hcp,almirall
+Andreas Lutterotti,Zürich,CH,Frauenklinikstra sse 26,,,,,,,1000.0,,1000.0,hcp,almirall
+Stefanie Müller,St. Gallen,CH,Rorschacherstras se 95,,,,,,,1000.0,,1000.0,hcp,almirall
+Peter Myers,Genève,CH,Ruelle du Couchant 7,,,,,,,1000.0,,1000.0,hcp,almirall
+Bernard Nater,Lausanne,CH,Chemin des Croix-Rouges 2,,,,,,,1000.0,,1000.0,hcp,almirall
+Krassen Nedeltchev,Aarau,CH,Tellstrasse,,,,,,,1000.0,,1000.0,hcp,almirall
+Jens Petersen,Zürich,CH,Frauenklinikstra sse 26,,,,,,,1000.0,,1000.0,hcp,almirall
+Ieva Saulite,St. Gallen,CH,Rorschacherstras se 95,,,,,,423.72,,,423.72,hcp,almirall
+Paul Eugen Scheidegger,Brugg AG,CH,Bahnhofstrasse 25,,,,,,,500.0,,500.0,hcp,almirall
+Claude Vaney,Montana,CH,Imp. Palace Bellevue 1,,,,,,,1000.0,,1000.0,hcp,almirall
+Özgür Yaldizli,Basel,CH,Petersgraben 4,,,,,,,1500.0,,1500.0,hcp,almirall
+Pneumologie de Valaisan Centre,Montana,CH,Route De La Moubra 87,,,,2730.0,,,,,2730.0,hco,almirall
+CHUV,Lausanne,CH,Rue du Bugnon 46,,,,1700.0,,,,,1700.0,hco,almirall
+Dermatologie de Service - CHUV,Lausanne,CH,Avenue de Beaumont 29,,,,5484.9,,,,,5484.9,hco,almirall
+Dermatological Soc.for European,Genève,CH,Rue Cingria 7,,,,49220.48,,,,,49220.48,hco,almirall
+Neurologues des Groupement,Monthey,CH,Avenue Du Crochetan 2,,,,2500.0,,,,,2500.0,hco,almirall
+Hautpraxis,Liestal,CH,Mühlegasse 3,,,,1500.0,,,,,1500.0,hco,almirall
+dermatologie de Service - Genève Universitaires Hôpitaux,Genève,CH,Rue Gabrielle-Perret -Gentil 4 Service de dermatologie,,,,3780.0,,,,,3780.0,hco,almirall
+Bern Inselspital,Bern,CH,Freiburgstrasse 18,,,,3240.0,,,,,3240.0,hco,almirall
+Dermatologie für Klinik - Bern Inselspital,Bern,CH,Freiburgstrasse 18,,,,9616.0,,,,,9616.0,hco,almirall
+Neurologie für Klinik - Bern Inselspital,Bern,CH,Freiburgstrasse 18,,,,2160.0,,,,,2160.0,hco,almirall
+Neurologie für Klinik - AG Aarau Kantonsspital,Aarau,CH,Tellstrasse,,,,2160.0,,,,,2160.0,hco,almirall
+Münsterlingen Kantonsspital,Münsterlingen,CH,Spitalcampus 1,,,,3240.0,,,,,3240.0,hco,almirall
+Allergologie und Dermatologie - Gallen St. Kantonsspital,St. Gallen,CH,Rorschacherstras se 95,,,,3240.0,,,,,3240.0,hco,almirall
+Neurologie für Klinik - Gallen St. Kantonsspital,St. Gallen,CH,Rorschacherstras se 95,,,,3780.0,,,,,3780.0,hco,almirall
+Bethesda Klinik,Tschugg,CH,Oberdorf,,,,1000.0,,,,,1000.0,hco,almirall
+Woche Lenker,Zweisimmen,CH,Karl Haueterstrasse,,,,4000.0,,,,,4000.0,hco,almirall
+Luzern Kantonsspital Luzerner,Luzern,CH,Spitalstrasse,,,,4320.0,,,,,4320.0,hco,almirall
+Neuroreha. und Neurologie - Luzern Kantonsspital Luzerner,Luzern,CH,Spitalstrasse 4,,,,1620.0,,,,,1620.0,hco,almirall
+Sursee Kantonsspital Luzerner,Sursee,CH,Spitalstrasse 16a,,,,1000.0,,,,,1000.0,hco,almirall
+Rheinfelden Reha,Rheinfelden,CH,Salinenstrasse 98,,,,1500.0,,,,,1500.0,hco,almirall
+SGDV,Bern,CH,Dalmazirain 11,,,,9000.0,,,,,9000.0,hco,almirall
+Herisau Spital,Herisau,CH,Spitalstrasse 6,,,,540.0,,,,,540.0,hco,almirall
+AG Lachen Spital,Lachen SZ,CH,Oberdorfstrasse 41,,,,1500.0,,,,,1500.0,hco,almirall
+Poliklinik Dermatologische - Basel al Universitätsspit,Basel,CH,Petersgraben 4,,,,6480.0,,,,,6480.0,hco,almirall
+Poliklinik Neurologische - Basel al Universitätsspit,Basel,CH,Petersgraben 4,,,,1080.0,,,,,1080.0,hco,almirall
+Klinik Dermatologische - Zürich al UniversitätsSpit,Zürich,CH,Gloriastrasse 31,,,,6048.0,,,,,6048.0,hco,almirall
+Forum Dermatology European - Zürich al UniversitätsSpit,Zürich,CH,Gloriastrasse 31,,,,26817.42,,,,,26817.42,hco,almirall
+Neurologie für Klinik - Zürich al UniversitätsSpit,Zürich,CH,Frauenklinikstra sse 26,,,,1080.0,,,,,1080.0,hco,almirall
+Zürich Lunge Verein,Zürich,CH,Wilfriedstrasse 7,,,,3758.4,,,,,3758.4,hco,almirall
+Internisten Zürcher Vereinigung,Adliswil,CH,Felsenhofstrasse 36,,,,2160.0,,,,,2160.0,hco,almirall
+doccare,Fehraltorf,CH,Im Baumgarten 1,,,,5000.0,,,,,5000.0,hco,almirall
+EADV,Lugano,CH,Via Serafino Balestra 22b,,,,267120.39,,,,,267120.39,hco,almirall
+AG Schweiz Pharma Roche,Reinach BL,CH,Schönmattstrasse 2,,,,2000.0,,,,,2000.0,hco,almirall
+Gesellschaft MS Schweizerische,Zürich,CH,Josefstrasse 129,,,,20000.0,,,,,20000.0,hco,almirall

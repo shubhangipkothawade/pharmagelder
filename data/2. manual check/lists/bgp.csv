@@ -1,0 +1,80 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Patrick Ambrosetti,Genève,CH,Rue Emile-yung 4,,,,,,,700.0,,700.0,hcp,bgp
+Anne-Laure Blanc,Vevey,CH,Boulevard Paderewski 3,,,,,509.0,550.0,,,1059.0,hcp,bgp
+Annett Blatter,Ebnat-Kappel,CH,Kapplerstrasse 32,,,,,491.7,573.7,,,1065.4,hcp,bgp
+Anne Delhoume,Neuchâtel,CH,Rue Maladière 45,,,,,509.0,550.0,,,1059.0,hcp,bgp
+Susana Fernandez,Basel,CH,Spitalstrasse 33,,,,,328.0,639.7,,,967.7,hcp,bgp
+Sieghart Filippi,Winterthur,CH,Brauerstrasse 15,,,,,491.7,573.7,,,1065.4,hcp,bgp
+Nadège Gabent,Genève,CH,Rue Willy-Donzé 6 HUG,,,,,328.0,526.8,,,854.8,hcp,bgp
+Jenny Hartwig,Zürich,CH,Rämistrasse 100,,,,,328.0,573.7,,,901.7,hcp,bgp
+Denise Herzog,Fribourg,CH,Chemin des Pensionnats 2,,,,,491.7,526.7,,,1018.4,hcp,bgp
+Sophie Maillard,Marsens,CH,Route De L'hôpital 140,,,,,436.0,529.0,,,965.0,hcp,bgp
+Claudia Muntwiler,Rehetobel,CH,Sankt Gallerstrasse 11,,,,,491.7,573.7,,,1065.4,hcp,bgp
+Karin Weyermann,Zürich,CH,Steinwiesstrasse 75,,,,,436.0,714.0,,,1150.0,hcp,bgp
+Aerztegesellscha ft Luzern - Sektion Gäu,Luzern,CH,Schwanenplatz 7,,,,1000.0,,,,,1000.0,hco,bgp
+Ärzte Thalwil,Thalwil,CH,Rudishaldenstras se 1,,,,1000.0,,,,,1000.0,hco,bgp
+Ärztenetzwerk Bantiger,Ittigen,CH,Talgut-Zentrum 34,,,,2000.0,,,,,2000.0,hco,bgp
+Ärztenetzwerk Grauholz,Ittigen,CH,Worblentalstrass e 99,,,,2800.0,,,,,2800.0,hco,bgp
+Association Romande Des Assistantes Medicales,St-Légier,CH,Chemin du Lussy 18,,,,1800.0,,,,,1800.0,hco,bgp
+Bio Zentrum,Basel,CH,Klingelbergstras se 50/70,,,,6000.0,,,,,6000.0,hco,bgp
+BV Congress Creating GmbH,Gossau ZH,CH,Industriestrasse 37,,,,2400.0,,,,,2400.0,hco,bgp
+CHUV,Lausanne,CH,Rue Du Bugnon 21,,,,6000.0,,,,,6000.0,hco,bgp
+Circolo medico del Bellinzonese,Arbedo,CH,Via Orbello 22,,,,500.0,,,,,500.0,hco,bgp
+Ensemble Hospitalier de la Côte,Morges,CH,Chemin du Crêt 2,,,,2000.0,,,,,2000.0,hco,bgp
+Ente Ospedaliero Cantonale(EOC),Bellinzona,CH,Viale Officina 3,,,,50000.0,,,,,50000.0,hco,bgp
+Equipage-UTC,Zénauva,CH,chemin des Botchets 24,,,,2000.0,,,,,2000.0,hco,bgp
+FAMMID,Lausanne,CH,Pont Charles Bessières 3 c/o Fiduciaire Maillard S.A.,,,,10000.0,,,,,10000.0,hco,bgp
+FentEvent GmbH,Bronschhofen,CH,Eggwilstrasse 16b,,,,3300.0,,,,,3300.0,hco,bgp
+Groupe Romand d'Echographie Clinique,Lausanne,CH,Rte des Caudrettes 18,,,,500.0,,,,,500.0,hco,bgp
+Gruppo Medico Formazione,Roveredo GR,CH,San Fedele,,,,3300.0,,,,,3300.0,hco,bgp
+GSASA,Bern,CH,,,,,5120.0,,,,,5120.0,hco,bgp
+GZO Spital Wetzikon,Wetzikon ZH,CH,Spitalstrasse 66,,,,300.0,,,,,300.0,hco,bgp
+HFR Fribourg-Hôpital Cantonal,Fribourg,CH,Chemin des Pensionnats 2,,,,1000.0,,,,,1000.0,hco,bgp
+"Hôpital du Jura, Porrentruy",Porrentruy,CH,Chemin de l'Hôpital 9,,,,1000.0,,,,,1000.0,hco,bgp
+Hôpitaux Universitaires Genève,Genève,CH,Rue Gabrielle-Perret -Gentil 4,,,,12700.0,,,,,12700.0,hco,bgp
+Insel Gruppe AG,Bern,CH,Freiburgstrasse 18,,,,1000.0,,,,,1000.0,hco,bgp
+Institut Central des Hôpitaux,Sion,CH,Avenue Grand-Champsec 86 ICHV,,,,2000.0,,,,,2000.0,hco,bgp
+JHaS,Bern,CH,Effingerstrasse 2 c/o Polsan AG,,,,3200.0,,,,,3200.0,hco,bgp
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,2000.0,,,,,2000.0,hco,bgp
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,,3000.0,,,,,3000.0,hco,bgp
+Klinik Schützen Rheinfelden,Rheinfelden,CH,Bahnhofstrasse 19,,,,2000.0,,,,,2000.0,hco,bgp
+KMS,Bern,CH,Brunnmattstrasse 83,,,,2025.0,,,,,2025.0,hco,bgp
+LH Medical Management GmbH,Liestal,CH,Sonnenweg 27,,,,3900.0,,,,,3900.0,hco,bgp
+Luzerner Kantonsspital Luzern,Luzern,CH,Spitalstrasse,,,,4000.0,,,,,4000.0,hco,bgp
+MCI Suisse SA,Satigny,CH,Rue du Pré-Bouvier 9,,,,3600.0,,,,,3600.0,hco,bgp
+Médecins de Famille Genève,Genève,CH,Chemin de Beau-Soleil 22 c/o Dr Jean-Louis Gay,,,,4600.0,,,,,4600.0,hco,bgp
+Médecins des Franches Montagnes,Saignelégier,CH,Place Du Vingt-trois Juin 2 Cabinet dr Thierry Maître,,,,800.0,,,,,800.0,hco,bgp
+Medical AdiNetwork GmbH,Winterthur,CH,Lagerhausstrasse 9,,,,1000.0,,,,,1000.0,hco,bgp
+Medworld AG,Steinhausen,CH,Sennweidstrasse 46,,,,8920.0,,,,,8920.0,hco,bgp
+Meister ConCept Gmbh,Aarau,CH,Bahnhofstrasse 55,,,,15000.0,,,,,15000.0,hco,bgp
+mmconsult volante GmbH,Cham,CH,Riedstrasse 1,,,,3500.0,,,,,3500.0,hco,bgp
+Pharmacieplus SA,Bremblens,CH,Les Corbes 5,,,,5000.0,,,,,5000.0,hco,bgp
+PharmaDavos,Biel/Bienne,CH,Bözingenstrasse 162,,,,1000.0,,,,,1000.0,hco,bgp
+pharmaSuisse,Liebefeld,CH,Stationsstrasse 12,,,,11400.0,,,,,11400.0,hco,bgp
+PizolCare Praxis,Sargans,CH,Bahnhofpark 2a,,,,800.0,,,,,800.0,hco,bgp
+PMSE SA,Le Lignon,CH,chemin du château bloch 11,,,,2700.0,,,,,2700.0,hco,bgp
+Reha Rheinfelden,Rheinfelden,CH,Salinenstrasse 98,,,,1500.0,,,,,1500.0,hco,bgp
+Réseau REMED,Genève,CH,. c/o Dr. Florence Emery,,,,2000.0,,,,,2000.0,hco,bgp
+Rotpunkt-Pharma AG,Zürich,CH,Mühlebachstrasse 20,,,,20700.0,,,,,20700.0,hco,bgp
+SeelandNet,Lyss,CH,Bahnhofstrasse 15a,,,,2000.0,,,,,2000.0,hco,bgp
+SGAIM,Bern,CH,Monbijoustrasse 43,,,,8660.0,,,,,8660.0,hco,bgp
+SGG - SSG,Bern,CH,Wattenwylweg 21,,,,3800.0,,,,,3800.0,hco,bgp
+Société Vaudoise de Pharmacie,Paudex,CH,Route Du Lac 2,,,,3000.0,,,,,3000.0,hco,bgp
+Spital Herisau,Herisau,CH,Spitalstrasse 6,,,,1000.0,,,,,1000.0,hco,bgp
+Spital Limmattal,Schlieren,CH,Urdorferstrasse 100,,,,1500.0,,,,,1500.0,hco,bgp
+Stadtspital Triemli,Zürich,CH,Birmensdorferstr asse 497,,,,300.0,,,,,300.0,hco,bgp
+Stift. zur Förderung der Medizin,Scuol,CH,Via dals Bogns 323,,,,7500.0,,,,,7500.0,hco,bgp
+Stiftung Forschung Gastro/Hep.,Zürich,CH,Rämistrasse 100,,,,2500.0,,,,,2500.0,hco,bgp
+SVA,Bern,CH,Monbijoustrasse 35,,,,3000.0,,,,,3000.0,hco,bgp
+SVA St. Gallen / Appenzell,Will,CH,Klosterweg 2,,,,1000.0,,,,,1000.0,hco,bgp
+TIDONNE,Bellinzona,CH,Viale Stazione 16,,,,500.0,,,,,500.0,hco,bgp
+Universität Basel,Basel,CH,Petersplatz 1 Studiensekretari at,,,,4200.0,,,,,4200.0,hco,bgp
+Universitätsspit al Basel,Basel,CH,Spitalstrasse 21,,,,3040.0,,,,,3040.0,hco,bgp
+UniversitätsSpit al Zürich,Zürich,CH,Rämistrasse 100,,,,500.0,,,,,500.0,hco,bgp
+UniversitätsSpit al Zürich - Neuroimmunologie,Zürich,CH,Frauenklinikstra sse 26,,,,4000.0,,,,,4000.0,hco,bgp
+Université de Genève,Genève,CH,Rue Général-Dufour 24,,,,2000.0,,,,,2000.0,hco,bgp
+Université de Genève,Genève,CH,Centre comptable Uni 2,,,,1500.0,,,,,1500.0,hco,bgp
+VBHK,Bern,CH,Effingerstrasse 2,,,,4950.0,,,,,4950.0,hco,bgp
+Verein Gastroenterologi e Zürich,Zürich,CH,Seestrasse 90,,,,2500.0,,,,,2500.0,hco,bgp
+Verein Lunge Zürich,Zürich,CH,Pfingstweidstras se 10,,,,11600.0,,,,,11600.0,hco,bgp
+"Vereinigung der Zürcher Internisten, vertreten durch Energy of events",Zollikon,CH,Niederfelbenweg 9,,,,3800.0,,,,,3800.0,hco,bgp
