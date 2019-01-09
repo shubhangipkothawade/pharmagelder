@@ -44,6 +44,7 @@ def remove_carination(dataset, substr = ""):
     for column in dataset:
         if not np.issubdtype(dataset[column].dtype, np.number):
             dataset[column] = dataset[column].str.replace('\\r', substr)
+            dataset[column] = dataset[column].str.replace('\\n', substr)
     return dataset
 
 """
