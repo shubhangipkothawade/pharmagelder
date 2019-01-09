@@ -8,7 +8,7 @@ import openpyxl
     Export to Excel
 
 """
-def write_to_excel(dataset, exportfile):
+def write_to_excel(dataset, exportfile, open=False):
     #select writer
     writer = pd.ExcelWriter(exportfile, options={'encoding':'utf-8'})
 
@@ -16,6 +16,15 @@ def write_to_excel(dataset, exportfile):
     dataset.to_excel(writer, 'daten', index=False) 
     
     writer.save()
+
+    if open:
+        import subprocess, os, sys
+        if sys.platform.startswith('darwin'):
+            subprocess.call(('open', exportfile))
+        elif os.name == 'nt': # For Windows
+            os.startfile(exportfile)
+        elif os.name == 'posix': # For Linux, Mac, etc.
+            subprocess.call(('xdg-open', exportfile))
 
 """
 
