@@ -40,6 +40,7 @@ def shift_left(dataframe, index):
 """
 def sum_amounts(dataset):
     dataset['total'] = dataset[["donations_grants", "sponsorship", 'registration_fees', 'travel_accommodation', 'fees', 'related_expenses']].sum(axis=1, skipna=True)
+    dataset['total'] = dataset['total'].round(2)
     return dataset
 
 
