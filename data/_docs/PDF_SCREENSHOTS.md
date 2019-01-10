@@ -1,9 +1,9 @@
 # PDF Types
-## [Grün einfach - Merck](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Merck/0.%20Lists.ipynb)
+## [Grün einfach - Pierre](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Pierre%20Fabre%20Pharma/0.%20Lists.ipynb)
 ![Merck](img/merk.jpg "Merck")
 
 ## [Grün multitable-warning - MSD](http://localhost:8888/notebooks/data/1.%20pdfexport/files/MSD/0.%20Lists.ipynb)
-![Merck](img/merk.jpg "Merck")
+![MSD](img/merk.jpg "MSD")
 
 ## [Fancy Small - Celgene](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Celgene/1.%20Accumulations.ipynb)
 ![Celgene](img/fancy_small.jpg "Celgene")
