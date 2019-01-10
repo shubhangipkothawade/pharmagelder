@@ -67,6 +67,10 @@ Wandelt String-Kolumnen in Zahlen um. Bedingt, dass die entsprechenden Kolumnen 
 `df_export = add_empty_accumulation(df_export, "rnd")`  
 Fügt leere Accumulation hinzu  
 
+**add_accumulation**  
+`df_export = add_accumulation(df_export, AccType.hcp_amount, fees = 14389.37, total = 14389.37)`  
+Fügt eine Accumulation manuell hinzu  
+
 ### Type hinzufügen
 
 **set_type_by_alphabetical_order**  

@@ -1,5 +1,6 @@
 import numpy as np
 import unidecode
+from enum import Enum
 
 """
 
@@ -114,3 +115,35 @@ def add_country(dataframe):
     dataframe.insert(3, 'country', 'CH')
     return dataframe
 
+"""
+
+    Fügt eine Accumulation per Parameter hinzu
+
+"""
+class AccType(Enum):
+    hcp_amount = 'hcp_amount'
+    hco_amount = 'hco_amount'
+    hcp_count = 'hcp_count'
+    hco_count = 'hco_count'
+    rnd = 'rnd'
+
+def add_accumulation(df, type_, 
+                     donations_grants = '',
+                     sponsorship = '',
+                     registration_fees = '',
+                     travel_accommodation = '',
+                     fees = '',
+                     related_expenses = '',
+                     total = ''):
+    record = {
+        'type': type_.value,
+        'donations_grants': donations_grants,
+        'sponsorship': sponsorship,
+        'registration_fees': registration_fees,
+        'travel_accommodation': travel_accommodation,
+        'fees': fees,
+        'related_expenses': related_expenses,
+        'total': total
+    }
+    df = df.append(record, ignore_index=True)
+    return df
