@@ -4,7 +4,7 @@ Leila Achtari Jeanneret,Neuchâtel,CH,Rue De Lamaladière 45,,,,,117.0,58.5,,,17
 Erik Aerts,Zürich,CH,Rämistrasse 100,,,,,,,2280.0,80.0,2360.0,hcp,amgen
 Jasmina Alibegovic,Genève,CH,Avenue Deluserna 17,,,,,916.95,3727.32,,,4644.27,hcp,amgen
 Lukas Altwegg,Basel,CH,Kleinriehenstrasse 30,,,,,916.95,4091.45,,,5008.4,hcp,amgen
-Cyrielle Alves,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,642.6,"1,221.90",,,1864.5,hcp,amgen
+Cyrielle Alves,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,642.6,1221.9,,,1864.5,hcp,amgen
 Peter Ammann,St. Gallen,CH,Rorschacherstrasse 95,,,,,503.45,1578.74,,,2082.19,hcp,amgen
 Marie-Laure Amram-Benamram,Onex,CH,Route De Chancy98,,,,,420.2,652.09,,,1072.29,hcp,amgen
 Spyridon Arampatzis,Bern,CH,Freiburgstrasse15,,,,,335.45,711.43,,,1046.88,hcp,amgen
@@ -19,12 +19,12 @@ Sylvia Baumann Kurer,Winterthur,CH,Brauerstrasse15,,,,,678.5,965.62,,,1644.12,hc
 Iris Baumgartner,Bern,CH,Freiburgstrasse18,,,,,,,3450.0,90.0,3540.0,hcp,amgen
 Hinde Benchaa,La Chaux-De-Fonds,CH,Rue Dechasseral 20,,,,,565.2,1219.39,,,1784.59,hcp,amgen
 Dominik Benz,Zürich,CH,Rämistrasse 100,,,,,387.9,1715.77,,,2103.67,hcp,amgen
-Ivo Peter Bergmann,Burgdorf,CH,Oberburgstrasse 54,,,,,434.94,"2,065.06",1000.0,,3500.0,hcp,amgen
+Ivo Peter Bergmann,Burgdorf,CH,Oberburgstrasse 54,,,,,434.94,2065.06,1000.0,,3500.0,hcp,amgen
 Michael Bernimoulin,Carouge Ge,CH,Avenue Cardinal-Mermillod 1,,,,,346.27,921.34,,,1267.61,hcp,amgen
 Lorenzo Berwert,Bellinzona,CH,Via Ospedale,,,,,691.86,1578.14,,,2270.0,hcp,amgen
-Marco Bettoni,Meyrin,CH,Avenue J.-D.-Maillard 1Bis,,,,,916.95,"4,106.80",,,5023.75,hcp,amgen
+Marco Bettoni,Meyrin,CH,Avenue J.-D.-Maillard 1Bis,,,,,916.95,4106.8,,,5023.75,hcp,amgen
 Jörg Beyer,Bern,CH,Freiburgstrasse18,,,,,,87.75,390.0,,477.75,hcp,amgen
-Patric Biaggi,Zürich,CH,Witellikerstrasse 40,,,,,,"4,618.90",,,4618.9,hcp,amgen
+Patric Biaggi,Zürich,CH,Witellikerstrasse 40,,,,,,4618.9,,,4618.9,hcp,amgen
 Elena Bianchi Papina,Sorengo,CH,Via Sant'Anna 1,,,,,361.15,863.34,,,1224.49,hcp,amgen
 Stefan Bilz,St. Gallen,CH,Rorschacherstrasse 95,,,,,,,1000.0,,1000.0,hcp,amgen
 Ana Bishara,Carouge Ge,CH,Rue Vautier 17C,,,,,557.15,1055.88,,,1613.03,hcp,amgen
@@ -57,10 +57,10 @@ Susanna Crivelli,Frauenfeld,CH,Pfaffenholzstrasse 4,,,,,290.25,1290.79,,,1581.04
 Florim Cuculi,Luzern,CH,Spitalstrasse,,,,,,,2030.0,,2030.0,hcp,amgen
 Giannicola D'Addario,St. Gallen,CH,Rorschacherstrasse 95,,,,,117.0,58.5,,,175.5,hcp,amgen
 Anahita Dastoor,Zürich,CH,Rämistrasse 100,,,,,259.95,639.01,,,898.96,hcp,amgen
-Edoardo De Benedetti,Lausanne,CH,Rue Du Bugnon 46,,,,,916.95,"4,106.80",,,5023.75,hcp,amgen
+Edoardo De Benedetti,Lausanne,CH,Rue Du Bugnon 46,,,,,916.95,4106.8,,,5023.75,hcp,amgen
 Sara De Dosso,Bellinzona,CH,Via Ospedale,,,,,420.2,895.74,,,1315.94,hcp,amgen
 Didier Delouche,Vevey,CH,Avenue De Laprairie 3,,,,,552.75,837.87,,,1390.62,hcp,amgen
-Doris De Marco Stalder,Bern,CH,Seilerstrasse 8,,,,,457.5,"1,728.60",,,2186.1,hcp,amgen
+Doris De Marco Stalder,Bern,CH,Seilerstrasse 8,,,,,457.5,1728.6,,,2186.1,hcp,amgen
 Beatrice De Moustier,Petit-Lancy,CH,Chemin Desesserts 11B,,,,,641.65,613.95,,,1255.6,hcp,amgen
 Daisy Dénéréaz,Chêne-Bourg,CH,Rue François-Perréard 14,,,,,394.31,779.64,,,1173.95,hcp,amgen
 Maria Luisa De Perna,Basel,CH,Petersgraben 4,,,,,259.95,185.5,,,445.45,hcp,amgen
@@ -74,18 +74,18 @@ Monika Ebnöther,Basel,CH,Kleinriehenstrasse 30,,,,,678.5,724.22,,,1402.72,hcp,a
 Corinna Eckl,Walenstadt,CH,Spitalstrasse 5,,,,,259.94,502.69,,,762.63,hcp,amgen
 Claudine Egger-Arnet,Schlieren,CH,Urdorferstrasse 100,,,,,117.0,58.5,,,175.5,hcp,amgen
 Gabriele Eglseer,Valens,CH,Taminaplatz 1,,,,,557.15,883.53,,,1440.68,hcp,amgen
-Karim El-Haschimi,Baden,CH,Bahnhofplatz 1,,,,,457.5,"2,044.20",4200.0,,6701.7,hcp,amgen
+Karim El-Haschimi,Baden,CH,Bahnhofplatz 1,,,,,457.5,2044.2,4200.0,,6701.7,hcp,amgen
 Hanno Elsässer,Basel,CH,Petersgraben 4,,,,,129.28,578.73,,,708.01,hcp,amgen
 Christoph Etter,Zürich,CH,Hofwiesenstrasse 350,,,,,107.74,350.44,,,458.18,hcp,amgen
-Marco Facchini,Muralto,CH,Piazza Stazione 9,,,,,916.95,"2,857.10",,,3774.05,hcp,amgen
-Lucie Favre,Lausanne,CH,Avenue De Lasallaz 8,,,,,457.5,"1,562.09",,,2019.59,hcp,amgen
+Marco Facchini,Muralto,CH,Piazza Stazione 9,,,,,916.95,2857.1,,,3774.05,hcp,amgen
+Lucie Favre,Lausanne,CH,Avenue De Lasallaz 8,,,,,457.5,1562.09,,,2019.59,hcp,amgen
 Eugenio Fernández,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,45.85,1219.39,,,1265.24,hcp,amgen
 Daniel Fink,Zürich,CH,Frauenklinikstrasse 10,,,,,,,1350.0,,1350.0,hcp,amgen
 Helene Freimann,Sursee,CH,Spitalstrasse16B,,,,,290.25,1357.44,,,1647.69,hcp,amgen
 Gregor Freystätter,Zürich,CH,Rämistrasse 100,,,,,292.45,1321.45,,,1613.9,hcp,amgen
 Valérie Frossard,Lausanne,CH,Rue Du Bugnon 46,,,,,545.4,1193.64,,,1739.04,hcp,amgen
 David Fumeaux,Lausanne,CH,Avenue Louis-Ruchonnet 57,,,,,630.4,1178.68,,,1809.08,hcp,amgen
-Zina Fumeaux,Nyon,CH,Cheminmonastier 10,,,,,630.4,1156.6,,,1786.9,hcp,amgen
+Zina Fumeaux,Nyon,CH,Cheminmonastier 10,,,,,630.4,1156.5,,,1786.9,hcp,amgen
 Gregor Fürstenberger,Chur,CH,Masanserstrasse 2,,,,,809.21,834.22,,,1643.43,hcp,amgen
 Urs Gäumann,Bern,CH,Schosshaldenstrasse 32,,,,,557.15,812.48,,,1369.63,hcp,amgen
 Thierry Gauthier,Vevey,CH,Avenue De Lagare 8,,,,,335.45,698.68,,,1034.13,hcp,amgen
@@ -351,11 +351,11 @@ Hfr Fribourg-Hôpitalcantonal,Fribourg,CH,Chemin Despensionnats 2,,,,6500.0,881.
 Hirslanden Klinik St.Anna,Luzern,CH,Sanktannastrasse 32,,,,,,,3630.0,,3630.0,hco,amgen
 Hochgebirgsklinikdavos,Davoswolfgang,CH,Hermanburchardstrasse 1,,,,,916.95,4091.45,,,5008.4,hco,amgen
 Hôpital De Nyon - Ghol,Nyon,CH,Cheminmonastier 10,,,,3200.0,,,,,3200.0,hco,amgen
-Porrentruy Hôpital Du Jura,Porrentruy,CH,Chemin Del'Hôpital 9,,,,1500.0,,,,,1500.0,hco,amgen
+"Hôpital Du Jura,Porrentruy",Porrentruy,CH,Chemin Del'Hôpital 9,,,,1500.0,,,,,1500.0,hco,amgen
 Hôpital Du Valais,Sion,CH,Avenue Grand-Champsec 80,,,,1500.0,615.18,4667.22,,,6782.4,hco,amgen
 Hôpital La Tourréseau De Soins,Meyrin,CH,Avenue Jean-Daniel Maillard 3,,,,,,460.54,,,460.54,hco,amgen
 Hôpital Neuchâteloispourtalès,Neuchâtel,CH,Rue De Lamaladière 45,,,,,,451.18,1000.0,,1451.18,hco,amgen
-Riaz Hôpital Sudfribourgeois,Riaz,CH,Rue De L'Hôpital9,,,,,691.86,1442.52,,,2134.38,hco,amgen
+"Hôpital Sudfribourgeois, Riaz",Riaz,CH,Rue De L'Hôpital9,,,,,691.86,1442.52,,,2134.38,hco,amgen
 Hôpital Yverdon-Les-Bains,Yverdon-Les-Bains,CH,Rued'Entremonts 11,,,,,389.55,218.77,,,608.32,hco,amgen
 Hôpitauxuniversitaires Genève,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,41500.0,3091.51,11616.59,19950.0,1141.4,77299.5,hco,amgen
 Inselspital Bern,Bern,CH,Freiburgstrasse18,,,,23014.1,3950.22,19203.8,12550.0,,58718.12,hco,amgen
@@ -446,7 +446,7 @@ Toppharm Ag,Münchenstein,CH,Grabenackerstrasse 15,,,,40000.0,,,,,40000.0,hco,am
 T'Score Sa,Payerne,CH,Rue Deguillermaux 10,,,,,680.5,1015.95,,,1696.45,hco,amgen
 Tumor- Undbrustzentrum Zetup,St. Gallen,CH,Rorschacherstrasse 150,,,,2000.0,,,,,2000.0,hco,amgen
 Tumorzentrum Aarau,Aarau,CH,Rain 34,,,,5000.0,,,,,5000.0,hco,amgen
-Union Forinternational Cancercontrol Uicc,Geneva,CH,62 Route Defrontenex,,,25157.5,188397.05,,,,,213554.55,hco,amgen
+"Uicc, Union Forinternational Cancercontrol",Geneva,CH,62 Route Defrontenex,,,25157.5,188397.05,,,,,213554.55,hco,amgen
 Universität Basel,Basel,CH,Petersplatz 1,,,,20000.0,,,,,20000.0,hco,amgen
 Universitätsklinikbalgrist,Zürich,CH,Forchstrasse340,,,,,901.59,842.61,,,1744.2,hco,amgen
 Universitätsspitalbasel,Basel,CH,Spitalstrasse 21,,,,54900.0,1685.33,6702.07,10750.0,237.0,74274.4,hco,amgen
