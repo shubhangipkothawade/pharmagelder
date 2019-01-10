@@ -30,8 +30,8 @@ def check_dataframe_list(ds):
     #Check if \n
     for column in ds.columns:
         if not np.issubdtype(ds[column].dtype, np.number):
-            if len(ds[ds[column].str.contains('\\r', na=False)]) > 0:
-                print("'" + column + "' contains carrination (\\r)! Use remove_carination()")
+            if len(ds[ds[column].str.contains('\\r', na=False)]) > 0 or len(ds[ds[column].str.contains('\\n', na=False)]) > 0:
+                print("'" + column + "' contains carrination (\\r or \\n)! Use remove_carination()")
 
     #Check Duplicates
     if len(ds[ds.duplicated()]) > 0:
