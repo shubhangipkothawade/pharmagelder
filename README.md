@@ -1,16 +1,17 @@
-# Installation
-## Install Python Dependencies
+# Pharmagelder
+## Installation
+### Install Python Dependencies
 `pip install -r requirements.txt`
 
-# Procedure
-## Step 1 - Export data
-### Readable PDFS
+## Procedure
+### Step 1 - Export data
+#### Readable PDFS
 XX
 
-### Scanned PDFs
+#### Scanned PDFs
 XX
-## Step 2 - Manually Cleaning
-### Publish Sheets on Google Spreadsheets
+### Step 2 - Manually Cleaning
+#### Publish Sheets on Google Spreadsheets
 XX
-### Sync Spreadsheets with git - or do it by hand
+#### Sync Spreadsheets with git - or do it by hand
 XX
