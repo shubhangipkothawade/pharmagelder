@@ -137,13 +137,13 @@ def add_accumulation(df, type_,
                      total = ''):
     record = {
         'type': type_.value,
-        'donations_grants': donations_grants,
-        'sponsorship': sponsorship,
-        'registration_fees': registration_fees,
-        'travel_accommodation': travel_accommodation,
-        'fees': fees,
-        'related_expenses': related_expenses,
-        'total': total
+        'donations_grants': str(donations_grants),
+        'sponsorship': str(sponsorship),
+        'registration_fees': str(registration_fees),
+        'travel_accommodation': str(travel_accommodation),
+        'fees': str(fees),
+        'related_expenses': str(related_expenses),
+        'total': str(total)
     }
     df = df.append(record, ignore_index=True)
     return df
