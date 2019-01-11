@@ -137,6 +137,14 @@ df_export['type'] = np.where(df_export.index < index_hco, 'hcp', 'hco')
 add_warning(manually=True)
 ```  
 
+##Remove Name in Address**  
+Sometimes you see the company name again in the address field. Like:  
+"Stiftung SONK","Stiftung SONK Rorschacher Strasse 150"  
+```python
+for index, row in df_export.iterrows():
+    df_export.loc[index, 'address'] = row['address'].replace(row['name'] + ' ', '')
+```
+
 ## Fälle
 * Duplikate: [GlaxoSmithKline](http://localhost:8888/notebooks/data/1.%20pdfexport/files/GlaxoSmithKline/0.%20Lists.ipynb)
 * Beautiful Soup: [Lundbeck](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Lundbeck/0.%20Lists.ipynb)
