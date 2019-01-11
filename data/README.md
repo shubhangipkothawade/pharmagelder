@@ -155,3 +155,4 @@ for index, row in df_export.iterrows():
 * PDF Unlock: [Mepha](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Mepha/0.%20Lists.ipynb)
 * Type by Text-String (`INDIVIDUAL NAMED DISCLOSURE` oä): [Bristol](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Bristol%20Myers%20Squibb/0.%20Lists.ipynb)
 * Accumulation manually [Jansen-Cilag](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Jansen-Cilag/1.%20Accumulations.ipynb)
+* Nothing to declare: [SFL Pharma](http://localhost:8888/notebooks/data/1.%20pdfexport/files/SFL%20Pharma/0.%20Lists.ipynb)
