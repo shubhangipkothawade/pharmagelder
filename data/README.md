@@ -137,7 +137,7 @@ df_export['type'] = np.where(df_export.index < index_hco, 'hcp', 'hco')
 add_warning(manually=True)
 ```  
 
-##Remove Name in Address**  
+**Remove Name in Address**  
 Sometimes you see the company name again in the address field. Like:  
 "Stiftung SONK","Stiftung SONK Rorschacher Strasse 150"  
 ```python
