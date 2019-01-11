@@ -61,7 +61,11 @@ Entfernt alle Punkte in allen Zahlenfeldern
 
 **amounts_to_number**  
 `df_export = amounts_to_number(df_export)`  
-Wandelt String-Kolumnen in Zahlen um. Bedingt, dass die entsprechenden Kolumnen bereits korrekt heissen
+Wandelt String-Kolumnen in Zahlen um. Bedingt, dass die entsprechenden Kolumnen bereits korrekt heissen  
+
+**remove_in_numbers**  
+`df_export = remove_in_numbers(df_export, 'X')`  
+Entfernt ein Zeichen in Nummerspalten  
 
 **add_empty_accumulation**  
 `df_export = add_empty_accumulation(df_export, "rnd")`  

@@ -8,6 +8,10 @@
 ## [Fancy Small - Celgene](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Celgene/1.%20Accumulations.ipynb)
 ![Celgene](img/fancy_small.jpg "Celgene")
 
+## [Manchmal Spalten, manchmal nicht - Servier](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Servier/0.%20Lists.ipynb#Servier---List)
+![Celgene](img/servier.jpg "Servier")
+
+
 ## [Excel - Roche](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Roche/0.%20Lists.ipynb)
 ![Roche](img/excel.jpg "Roche")
 
