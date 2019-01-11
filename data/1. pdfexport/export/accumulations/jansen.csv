@@ -1,6 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
 hcp_amount,,,8549.0,25200.0,14768.0,4026.0,52543.0,jansen
-hcp_count,,0.0,17.0,13.0,7.0,7.0,44.0,jansen
-hco_amount,477262.0,162446.0,0.0,0.0,75397.0,,715105.0,jansen
-hco_count,3.0,12.0,0.0,0.0,2.0,,17.0,jansen
+hcp_count,,,17.0,13.0,7.0,7.0,44.0,jansen
+hco_amount,477262.0,162446.0,,,75397.0,,715105.0,jansen
+hco_count,3.0,12.0,,,2.0,,17.0,jansen
 rnd,,,,,,,1291864.0,jansen
