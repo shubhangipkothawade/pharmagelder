@@ -10,7 +10,7 @@ Andreas Horvath,Zürich,,Rothstrasse 54,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
 Andreas Maercker,Zürich,,Binzmühlestrasse 14/17,,,,,,,1500.0,,1500.0,hcp,lundbeck
 Andrei Cicotti,Vésenaz,,Route d'Hermance 2,,,,,,,500.0,,500.0,hcp,lundbeck
 Anna Bogani,Savosa,,Via Tesserete 67a,,,,,184.0,372.0,,,556.0,hcp,lundbeck
-Anna Mishanova,Langenthal,,"St, Urbanstrasse 67",,,,,201.0,1224.0,,,1425.0,hcp,lundbeck
+Anna Mishanova,Langenthal,,St. Urbanstrasse 67,,,,,201.0,1224.0,,,1425.0,hcp,lundbeck
 Annette Brühl,Zollikon,,Niederhofenrain 32,,,,,,,1500.0,,1500.0,hcp,lundbeck
 Anton Camprubi,Gland,,Rue Mauverney 22B,,,,,,,500.0,,500.0,hcp,lundbeck
 Antonios Petalotis,Locarno,,Vallemaggia 81,,,,,184.0,372.0,,,556.0,hcp,lundbeck
@@ -38,7 +38,7 @@ Dominique de Quervain,Basel,,Birmannsgasse 8,,,,,,,1500.0,,1500.0,hcp,lundbeck
 Edith Holsboer-Trachsler,Basel,,Wilhelm Klein-Strasse 27,,,,,,,3500.0,,3500.0,hcp,lundbeck
 Emanuela Nocito,Orselina,,Via al Parco 27,,,,,586.0,1161.0,,,1747.0,hcp,lundbeck
 Enrico Fraschini,Lausanne,,Avenue Juste-Olivier 10,,,,,,,800.0,,800.0,hcp,lundbeck
-Erich Seifritz,Zurich,,"Lenggstrasse 31, Post Office Box 1931",,,,,,,7490.0,,7490.0,hcp,lundbeck
+Erich Seifritz,Zürich,,"Lenggstrasse 31, Post Office Box 1931",,,,,,,7490.0,,7490.0,hcp,lundbeck
 Fedinand Jaggi,Zürich,,Rütihofstrasse 49,,,,,,,500.0,,500.0,hcp,lundbeck
 Ferdinand Jaggi,Zürich,,Rütihofstrasse 49,,,,,,,1200.0,,1200.0,hcp,lundbeck
 Francesca Aletti,Bellinzona,,Via Lugano 23,,,,,184.0,372.0,,,556.0,hcp,lundbeck
@@ -106,15 +106,15 @@ Slavica Romancuk-Bacinski,Glattbrugg,,Wright-Strasse 34,,,,,,,500.0,,500.0,hcp,l
 Steffen Stoewer,Münsterlingen,,Seeblickstrasse 3,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
 Süleyman Alicioglu,Biel/Bienne,,Hans-Hugi Strasse 12,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
 Sylvia Vetter,Rheinau,,Alleestrasse 61A,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
-Tammo Gorkisch,Gallen,,"Teufenerstrasse 26, St",,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
+Tammo Gorkisch,St. Gallen,,Teufenerstrasse 26,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
 Tarek Bdeir Ibanez,Lausanne,,"Les Toises Centre de Psychiatrie & Psychothérapie, Avenue des Mousquines 4",,,,,,,1900.0,,1900.0,hcp,lundbeck
 Tatjana Zafirovaska,Lugano,,Via delle Scuole 1,,,,,,,500.0,,500.0,hcp,lundbeck
 Tatjana Zafirovska,Lugano,,Via delle Scuole 1,,,,,771.0,1533.0,,,2304.0,hcp,lundbeck
 Thi Nguyen,Lausanne,,Avenue de Chailly 25,,,,,,,300.0,,300.0,hcp,lundbeck
 Thilo Beck,Zürich,,"Arud Geschäftsstelle Zürich, Konradstrasse 32",,,,,,,1500.0,,1500.0,hcp,lundbeck
-Thomas Buder,Moritz,,"Via Rosatsch 7, St",,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
+Thomas Buder,St. Moritz,,Via Rosatsch 7,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
 Thomas Leyhe,Basel,,UPK Basel Universitäte Psychiatrische Kliniken Wilhelm Klein-Strasse 27,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
-Tobias Paust,N/A,,N/A,,,,,,636.0,,,636.0,hcp,lundbeck
+Tobias Paust,,,,,,,,,636.0,,,636.0,hcp,lundbeck
 Ulrike Caroline Garber,Schaan,,Im Gafos 3,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
 Visnica Vincic,Wattwil,,Hembergerstrasse 22,,,,,201.0,1224.0,,,1425.0,hcp,lundbeck
 Vita Sulaj-Sadiku,Brugg,,Postfach 432,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
@@ -140,10 +140,10 @@ Consultation Ambulatoire JADE Hôpitaux Universitaires de Genève,Genève,,Rue d
 Emir Hrnjicevic,Baden,,Haselstrasse 1,,,,,,636.0,,,636.0,hco,lundbeck
 Ensemble Hospitalier de la Côte,Morges,,Chemin du Crêt 2,,,,1080.0,,,,,1080.0,hco,lundbeck
 EOC Ospedale Regionale di Mendrisio Beata Vergine,Mendrisio,,Casella Postale 1652,,,,600.0,,,,,600.0,hco,lundbeck
-Fondation de Nant,Corsier_sur_Vevey,,Secteur Psychiatrique de l'Est Vaudois,,,,2500.0,,,,,2500.0,hco,lundbeck
+Fondation de Nant,Corsier sur Vevey,,Secteur Psychiatrique de l'Est Vaudois,,,,2500.0,,,,,2500.0,hco,lundbeck
 Fondo Formazione medici famiglia Clinica Luganese Moncucco SA,Lugano,,Sede Moncucco e San Rocco,,,,800.0,,,,,800.0,hco,lundbeck
 Fosumis Forum Suchtmedizin Innerschweiz,Zug,,Aegeristrasse 56,,,,3000.0,,,,,3000.0,hco,lundbeck
-FOSUMOS Geschäftsstelle,Gallen,,"Metzgergasse 22 Postfach 611, St",,,,2000.0,,,,,2000.0,hco,lundbeck
+FOSUMOS Geschäftsstelle,St. Gallen,,Metzgergasse 22 Postfach 611,,,,2000.0,,,,,2000.0,hco,lundbeck
 Geschäftsstelle Kollegium für Hausarztmedizin / Medworld AG,Steinhausen,,Sennweidstrasse 46,,,,16200.0,,,,,16200.0,hco,lundbeck
 Grand Resort Bad Ragaz Medizinisches Zentrum,Bad Ragaz,,Hans Albrecht Strasse,,,,2000.0,,,,,2000.0,hco,lundbeck
 Gruppo Medico Formazione,Giubiasco,,Casella postale 823,,,,3300.0,,,,,3300.0,hco,lundbeck
@@ -161,7 +161,7 @@ Klinik Meissenberg AG,Zug,,Postfach 1060,,,,2500.0,,,,,2500.0,hco,lundbeck
 Klinik Schützen Rheinfelden,Rheinfelden,,Bahnhofstrasse 19,,,,6700.0,,,,,6700.0,hco,lundbeck
 Luzerner Psychiatie,Luzern,,Postfach,,,,4000.0,,,,,4000.0,hco,lundbeck
 Médecins de Famille Genève Association genevoise des médecins internistes et généralistes,Genève,,Conseil Général 11,,,,2000.0,,,,,2000.0,hco,lundbeck
-Medizinisches Zentrum Heilbad,Moritz,,"Plazza Paracelsus 2, St",,,,1500.0,,,,,1500.0,hco,lundbeck
+Medizinisches Zentrum Heilbad,St. Moritz,,Plazza Paracelsus 2,,,,1500.0,,,,,1500.0,hco,lundbeck
 Medworld AG,Steinhausen,,Sennweidstrasse 46,,,,5130.0,,,,,5130.0,hco,lundbeck
 Organizers Schweiz GmbH,Magden,,Obere Egg 2,,,,61724.0,,,,,61724.0,hco,lundbeck
 Patrick Nemeshazy,Langenthal,,Marktgasse 18,,,,,,636.0,,,636.0,hcp,lundbeck
@@ -191,7 +191,7 @@ Société Suisse de psychotraumatologie,Genève,,"Av, Krieg 15",,,,500.0,,,,,500
 Solothurner Spitäler AG,Solothurn,,Weissensteinstrasse 102,,,,4860.0,,,,,4860.0,hco,lundbeck
 Spezialärzteverein Zofingen,Zofingen,,Kirchplazt 4,,,,1500.0,,,,,1500.0,hco,lundbeck
 Spitalverbund AR Psy. Zentrum AR,Herisau,,Krombach 3,,,,1080.0,,,,,1080.0,hco,lundbeck
-St. Gallische Kantonale Psych. Dienste,Will_SG,,Zürcherstrasse 30,,,,5500.0,,,,,5500.0,hco,lundbeck
+St. Gallische Kantonale Psych. Dienste,Will SG,,Zürcherstrasse 30,,,,5500.0,,,,,5500.0,hco,lundbeck
 Stiftung zur Förderung der Medizin im Engadin,Scuol,,Bogn Engiadina Scuol,,,,7500.0,,,,,7500.0,hco,lundbeck
 Swiss Society of Sexologie,Lausanne,,3 rue Caroline,,,,2000.0,,,,,2000.0,hco,lundbeck
 Tatjana Miusskaya Fehr,Chur,,Loëstrasse 220,,,,,,636.0,,,636.0,hcp,lundbeck
