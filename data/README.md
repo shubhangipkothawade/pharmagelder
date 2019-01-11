@@ -13,11 +13,11 @@
 Nimmt die gängisten Umformungen vor wie:  
 * `Switzerland` zu `CH`
 
-**export_list (für Listen)**
+**export_list (für Listen)**  
 `export_file(df_export, 'astrazeneca')`  
 Exportiert das Dataframe als kommagetrenntes CSV
 
-**export_accumulation für Accumulations)**
+**export_accumulation für Accumulations)**  
 `export_accumulation(df_export, 'astrazeneca')`  
 Exportiert das Dataframe als kommagetrenntes CSV
 
