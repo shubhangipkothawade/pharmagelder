@@ -1,0 +1,6 @@
+type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
+hcp_amount,,,2032.0,5674.0,21314.0,,29019,servier
+hco_amount,170.0,292698.0,0.0,,35358.0,1765.0,329991,servier
+hcp_count,,,5.0,12.0,12.0,,29,servier
+hco_count,1.0,7.0,0.0,0.0,4.0,1.0,13,servier
+rnd,,,,,,,15615,servier
