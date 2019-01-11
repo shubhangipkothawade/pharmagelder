@@ -1,0 +1,6 @@
+type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
+hcp_amount,,,14943.32,39881.12,175477.74,48500.22,278802.4,sanofi
+hco_amount,100000.0,463264.9,0.0,4947.3,164073.77,17657.04,749943.01,sanofi
+hcp_count,,,,,,,,sanofi
+hco_count,,,,,,,,sanofi
+rnd,,,,,,,524006.59,sanofi

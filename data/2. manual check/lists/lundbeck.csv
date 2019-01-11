@@ -2,7 +2,6 @@ name,location,country,address,plz,uci,donations_grants,sponsorship,registration_
 Adin Muratovic,Brugg,,Psychiatrische Dienste Aargau AG Postfach 432,,,,,,1177.0,,,1177.0,hcp,lundbeck
 Alberto Franchi,Lugano,,Via Clemente Maraini 13b,,,,,184.0,372.0,,,556.0,hcp,lundbeck
 Aldo Klainguti,Tesserete,,"Via F, Meneghelli",,,,,,,1200.0,,1200.0,hcp,lundbeck
-Ambulatorien Zentrum für Psychotische Erkrankungen,Basel,,Kornhausgasse 7,,,,,,,1400.0,,1400.0,hco,lundbeck
 Ana Baotic-Bisharat,Herisau,,Bahnhofstrasse 6,,,,,,294.0,,,294.0,hcp,lundbeck
 Andrea Muck,Triesen,,Landstrasse 194,,,,,484.0,806.0,,,1290.0,hcp,lundbeck
 Andreas Canziani,Zürich,,Mühlegasse 11,,,,,,,4900.0,,4900.0,hcp,lundbeck
@@ -15,18 +14,8 @@ Anna Mishanova,Langenthal,,"St, Urbanstrasse 67",,,,,201.0,1224.0,,,1425.0,hcp,l
 Annette Brühl,Zollikon,,Niederhofenrain 32,,,,,,,1500.0,,1500.0,hcp,lundbeck
 Anton Camprubi,Gland,,Rue Mauverney 22B,,,,,,,500.0,,500.0,hcp,lundbeck
 Antonios Petalotis,Locarno,,Vallemaggia 81,,,,,184.0,372.0,,,556.0,hcp,lundbeck
-Ärztegesellschaft Gäu,Wolhusen,,Spitalstrase 3,,,,1000.0,,,,,1000.0,hco,lundbeck
-Ärztekongress Arosa,Arosa,,Postfach 68,,,,3369.0,,,,,3369.0,hco,lundbeck
-Ärztenetzwerk Grauholz,Ittingen,,Worbentalstrasse 99,,,,2160.0,,,,,2160.0,hco,lundbeck
-Ärztevereinigung Senslerbezirk,Düdingen,,Hauptstrasse 24,,,,3000.0,,,,,3000.0,hco,lundbeck
-Ärztlicher Notfallkreis Sissach - Gelterkinden,Läufelfingen,,Hirzfeldenweg 14,,,,5000.0,,,,,5000.0,hco,lundbeck
-ASI-ADOC,Paradiso,,"Viale San Salvatore 7, Casella Postale 501",,,,750.0,,,,,750.0,hco,lundbeck
-Associazione Medical Meeting,Minusio,,Via Cadogno 1,,,,800.0,,,,,800.0,hco,lundbeck
-Associazione Medico In Pratica (MIP-cis),Manno,,Via Cantonale 35d,,,,1500.0,,,,,1500.0,hco,lundbeck
-Associazione Ticinese Assistenti di Studio Medico,Pazzallo,,Via Provo 9,,,,1500.0,,,,,1500.0,hco,lundbeck
 Axel Baumann,Chur,,"Psychiatrische Dienste Graubünden, Loëstrasse 220",,,,,,,500.0,,500.0,hcp,lundbeck
 Barbara Hochstrasser,Meiringen,,Privatklinik Meiringen Willigen,,,,,403.0,1224.0,2500.0,,4127.0,hcp,lundbeck
-BBS Congress GmbH,Bern 25,,Rabbentalstrasse 83,,,,3672.0,,,,,3672.0,hco,lundbeck
 Beat Nick,Solothurn,,"Behandlungszentrum für Psychosen Psychiatrische Dienste, Weissensteinstrasse 102",,,,,,,200.0,,200.0,hcp,lundbeck
 Berthold von Arx,Aarau,,Vordere Vorstadt 5,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
 Bobocel Rustea,Bellinzona,,Piazza Collegiata 7,,,,,771.0,1533.0,,,2304.0,hcp,lundbeck
@@ -35,56 +24,33 @@ Carlo Calanchini,Lugano,,Via Giacomo Luvini 7,,,,,586.0,1161.0,3200.0,,4947.0,hc
 Carlo Mandelli,Pregassona,,Via Ceresio 34b,,,,,586.0,1161.0,,,1747.0,hcp,lundbeck
 Carmen Schwarz,Oetwil am See,,Schlösslistrasse 8,,,,,,,1000.0,10.0,1010.0,hcp,lundbeck
 Cemaleddin Alicioglu,Huttwil,,Spitalstrasse 51,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
-Centre Hospitalier Universitaire Vaudois (CHUV),Lausanne,,Rue du Bugnon 21,,,,13656.0,,,,,13656.0,hco,lundbeck
 Chiara Cattuzzo,Mendrisio,,Via Luigi Lavizzari 4,,,,,586.0,1161.0,,,1747.0,hcp,lundbeck
 Christian Rollini,Lausanne,,Rue Caroline 3,,,,,586.0,827.0,,,1413.0,hcp,lundbeck
 Christine Davidson-Keyaerts,Genève,,Rue des Marbriers 4,,,,,586.0,828.0,2900.0,,4314.0,hcp,lundbeck
 Christoph Linnemann,Basel,,Universitäre Psychiatrische Kliniken Postfach,,,,,,,500.0,,500.0,hcp,lundbeck
-Circolo Medico di Locarno,Locarno,,CP 545,,,,1200.0,,,,,1200.0,hco,lundbeck
 Clary-Ann Kronqvist,Brugg,,Postfach 432,,,,,,,2200.0,,2200.0,hcp,lundbeck
 Claudia Nespeca,Orselina,,Via al Parco 27,,,,,184.0,372.0,,,556.0,hcp,lundbeck
 Clelia Salvioli Tretto,Lugano,,Via Berna 6,,,,,184.0,372.0,,,556.0,hcp,lundbeck
-Clinica Psichiatrica Cantonale,Mendrisio,,Via Agostino Maspoli 8,,,,1000.0,,,,,1000.0,hco,lundbeck
-Clinique Le Noirmont,Le Noirmont,,Chemin de Roc-Montès 20,,,,1500.0,,,,,1500.0,hco,lundbeck
-CMPR c/o Medworld AG,Steinhausen,,Sennweidstrasse 46,,,,2527.0,,,,,2527.0,hco,lundbeck
-Consultation Ambulatoire JADE Hôpitaux Universitaires de Genève,Genève,,Rue du Grand Pré 70A,,,,,,,1350.0,312.0,1662.0,hco,lundbeck
 Daniela Güller-Mosimann,Aarau,,Bleichemattstrasse 16,,,,,484.0,1860.0,,,2344.0,hcp,lundbeck
 Daniela Hubl,Bern,,Murtenstrasse 21,,,,,,,2000.0,,2000.0,hcp,lundbeck
 Dominik Klamp,Glattpark,,Thurgauerstrasse 117,,,,,,,1200.0,,1200.0,hcp,lundbeck
 Dominique de Quervain,Basel,,Birmannsgasse 8,,,,,,,1500.0,,1500.0,hcp,lundbeck
-"Doxnet,ch Aerztenetzwerk Bern Nord / West",Hinterkappelen,,Kappelenring 6,,,,1000.0,,,,,1000.0,hco,lundbeck
 Edith Holsboer-Trachsler,Basel,,Wilhelm Klein-Strasse 27,,,,,,,3500.0,,3500.0,hcp,lundbeck
 Emanuela Nocito,Orselina,,Via al Parco 27,,,,,586.0,1161.0,,,1747.0,hcp,lundbeck
-Emir Hrnjicevic,Baden,,Haselstrasse 1,,,,,,636.0,,,636.0,hco,lundbeck
 Enrico Fraschini,Lausanne,,Avenue Juste-Olivier 10,,,,,,,800.0,,800.0,hcp,lundbeck
-Ensemble Hospitalier de la Côte,Morges,,Chemin du Crêt 2,,,,1080.0,,,,,1080.0,hco,lundbeck
-EOC Ospedale Regionale di Mendrisio Beata Vergine,Mendrisio,,Casella Postale 1652,,,,600.0,,,,,600.0,hco,lundbeck
 Erich Seifritz,Zurich,,"Lenggstrasse 31, Post Office Box 1931",,,,,,,7490.0,,7490.0,hcp,lundbeck
 Fedinand Jaggi,Zürich,,Rütihofstrasse 49,,,,,,,500.0,,500.0,hcp,lundbeck
 Ferdinand Jaggi,Zürich,,Rütihofstrasse 49,,,,,,,1200.0,,1200.0,hcp,lundbeck
-Fondation de Nant,Corsier_sur_Vevey,,Secteur Psychiatrique de l'Est Vaudois,,,,2500.0,,,,,2500.0,hco,lundbeck
-Fondo Formazione medici famiglia Clinica Luganese Moncucco SA,Lugano,,Sede Moncucco e San Rocco,,,,800.0,,,,,800.0,hco,lundbeck
-Fosumis Forum Suchtmedizin Innerschweiz,Zug,,Aegeristrasse 56,,,,3000.0,,,,,3000.0,hco,lundbeck
-FOSUMOS Geschäftsstelle,Gallen,,"Metzgergasse 22 Postfach 611, St",,,,2000.0,,,,,2000.0,hco,lundbeck
 Francesca Aletti,Bellinzona,,Via Lugano 23,,,,,184.0,372.0,,,556.0,hcp,lundbeck
 Franz Heutschi,Uitikon Waldegg,,Zürcherstrasse 64,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
 Frederike Kienzle,Zürich,,Winterthurerstrasse 466,,,,,,,800.0,,800.0,hcp,lundbeck
 Gerhard Wolfgang Dammann,Münsterlingen,,Psychiatrische Dienste Thurgau Postfach 154,,,,,,,1400.0,,1400.0,hcp,lundbeck
-Geschäftsstelle Kollegium für Hausarztmedizin / Medworld AG,Steinhausen,,Sennweidstrasse 46,,,,16200.0,,,,,16200.0,hco,lundbeck
 Ghazi Kardous,Yverdon-les-Bains,,UTAD Unité de traitement des addictions Secteur psychiatrique nord case postale 103,,,,,586.0,827.0,,,1413.0,hcp,lundbeck
 Gianfranco Masdea,Marsens,,Case postale 90,,,,,,,1000.0,,1000.0,hcp,lundbeck
 Giorgio Maccaferri,Yverdon-les-Bains,,Rue d'Entremonts 11,,,,,586.0,827.0,,,1413.0,hcp,lundbeck
-Grand Resort Bad Ragaz Medizinisches Zentrum,Bad Ragaz,,Hans Albrecht Strasse,,,,2000.0,,,,,2000.0,hco,lundbeck
 Gregor Hasler,Bern 60,,"Universitätsklinik für Psychiatrie und Psychotherapie, Bolligenstrasse 111",,,,,,1210.0,6500.0,,7710.0,hcp,lundbeck
-Gruppo Medico Formazione,Giubiasco,,Casella postale 823,,,,3300.0,,,,,3300.0,hco,lundbeck
 Hansjörg Weissenrieder,Zug,,Bundesstrasse 6,,,,,,,500.0,,500.0,hcp,lundbeck
 Hélène Richard-Lepouriel,Genève,,Rue de Lausanne 20 bis,,,,,586.0,609.0,,,1195.0,hcp,lundbeck
-Hôpital du Valais,Sion,,"Av, Grand-Champsec 86",,,,2252.0,586.0,827.0,,,3665.0,hco,lundbeck
-HUG Hôpitaux Universitaires de Genève,Genève,,Rue du Grand Pré 70,,,,6500.0,,,2400.0,,8900.0,hco,lundbeck
-IGOMED Ärztenetzwerk Raum Thun,Thun,,Höheweg 26a,,,,1512.0,,,,,1512.0,hco,lundbeck
-Insel-Gruppe AG,Bern,,Freiburgstrasse 18,,,,1500.0,,,,,1500.0,hco,lundbeck
-Integrierte Psychiatrie Winterthur - Zürcher Unterland,Winterthur,,Postfach 144,,,,2000.0,,,,,2000.0,hco,lundbeck
-Intervisionsgruppe,Lenzburg,,Niederlenzer Kirchweg 3,,,,3400.0,,,,,3400.0,hco,lundbeck
 Isabelle Gothuey-Gysin,Marsens,,Case postale 90,,,,,,,100.0,,100.0,hcp,lundbeck
 Jacobo Thurthaler,Rheinfelden,,Kaiserstrasse 8,,,,,,,1600.0,,1600.0,hcp,lundbeck
 Jasminka Cvetanovic,Gallen,,"Neugasse 30, St",,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
@@ -95,21 +61,14 @@ Jörg Hummen,Zürich,,Praevmedic AG Resttelbergstrasse 25,,,,,484.0,1224.0,,,170
 Josto Sotgia,Yverdon-les-Bains,,Route de Lausanne 15,,,,,586.0,827.0,,,1413.0,hcp,lundbeck
 Julia Fritzsche-Wiedemann,Sursee,,Surentalstrasse 10,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
 Julien Elowe,Prangins,,Chemin Oscar Forel 3,,,,,586.0,1465.0,,,2051.0,hcp,lundbeck
-Kantonsspital Frauenfeld Spital Thurgau AG,Frauenfeld,,Postfach,,,,1000.0,,,,,1000.0,hco,lundbeck
-Kantonsspital Glarus AG,Glarus,,Burgstrasse 99,,,,1000.0,,,,,1000.0,hco,lundbeck
-"Kantonsspital St, Gallen",Gallen,,"Rorschacherstrasse 95, St",,,,1620.0,,,,,1620.0,hco,lundbeck
 Karel Kraan-Lang,Luzern,,Luzerner Psychiatrie Löwengraben 20,,,,,,,2000.0,,2000.0,hcp,lundbeck
 Karsten Prause,Lüsslingen,,Fröschern 295,,,,,,,800.0,,800.0,hcp,lundbeck
 Katrin Hanno,Aarau,,Postfach 2602,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
-Klinik für Psychiatrie Psychotherapie und Psychosomatik Psychiatrische Universitätsklinik Zürich,Zürich,,Postfach 1931,,,,15000.0,,,,,15000.0,hco,lundbeck
-Klinik Meissenberg AG,Zug,,Postfach 1060,,,,2500.0,,,,,2500.0,hco,lundbeck
-Klinik Schützen Rheinfelden,Rheinfelden,,Bahnhofstrasse 19,,,,6700.0,,,,,6700.0,hco,lundbeck
 Konstandinja Proin,Locarno,,Via Serafino Balestra 6,,,,,586.0,1161.0,,,1747.0,hcp,lundbeck
 Laima Winterhalder,Bern,,Neubrückstrasse 93,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
 Leonora Zajmi,Wil SG,,Obere Bahnhofstrasse 38,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
 Linda Belabbas,Carouge GE,,Route des Jeunes 9,,,,,586.0,828.0,,,1414.0,hcp,lundbeck
 Luca Emmanuele,Luzern,,Tribschenstrasse 21,,,,,,,1500.0,,1500.0,hcp,lundbeck
-Luzerner Psychiatie,Luzern,,Postfach,,,,4000.0,,,,,4000.0,hco,lundbeck
 Marcus Herdener,Zürich,,"Zentrum für Abhängigkeitserkrankungen PUK, Selnaustrasse 9",,,,,,,1500.0,,1500.0,hcp,lundbeck
 Maria Pia Mangione,Roveredo,,Casa Moesa,,,,,184.0,372.0,,,556.0,hcp,lundbeck
 Markus Baumgartner,Oetwil am See,,Schlösslistrasse 8,,,,,,,1500.0,,1500.0,hcp,lundbeck
@@ -118,9 +77,6 @@ Martin Kammerer,Rüschlikon,,Dorfstrasse 3,,,,,403.0,1224.0,1200.0,,2827.0,hcp,l
 Masseod Bazeghy,Bellinzona,,Via Giovanni Nizzola 11,,,,,,,1200.0,,1200.0,hcp,lundbeck
 Matteo Preve,Mendrisio,,Clinica psichiatrica cantonale Via Agostino Maspoli 6,,,,,,695.0,1000.0,,1695.0,hcp,lundbeck
 Matthias Jäger,Zürich,,Postfach 1931,,,,,,,1000.0,,1000.0,hcp,lundbeck
-Médecins de Famille Genève Association genevoise des médecins internistes et généralistes,Genève,,Conseil Général 11,,,,2000.0,,,,,2000.0,hco,lundbeck
-Medizinisches Zentrum Heilbad,Moritz,,"Plazza Paracelsus 2, St",,,,1500.0,,,,,1500.0,hco,lundbeck
-Medworld AG,Steinhausen,,Sennweidstrasse 46,,,,5130.0,,,,,5130.0,hco,lundbeck
 Michael Schneider,Basel,,Wilhelm Klein-Strasse 27,,,,,,1177.0,,,1177.0,hcp,lundbeck
 Michel Oberson,Biasca,,"Piazza Centrale Contrada Cav, Pellanda 1",,,,,,,500.0,,500.0,hcp,lundbeck
 Miguel Marset-Fernandez,Genève,,Rue de la Terrassière 58,,,,,586.0,828.0,,,1414.0,hcp,lundbeck
@@ -128,17 +84,88 @@ Nicolas Bärtschi,Neuchâtel,,Rue de Vieux-Châtel 18-20,,,,,586.0,828.0,,,1414.
 Nikolaos Moraitis,Brugg,,Postfach 432,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
 Olga Mishanova,Langenthal,,Aarwangenstrasse 20,,,,,201.0,1224.0,,,1425.0,hcp,lundbeck
 Olivier Deville-Larderat,Marsens,,Case postale 90,,,,,586.0,827.0,,,1413.0,hcp,lundbeck
-Organizers Schweiz GmbH,Magden,,Obere Egg 2,,,,61724.0,,,,,61724.0,hco,lundbeck
 Othman Sentissi,Genève,,Hôpitaux Universitaires de Genève Rue des Bains 35,,,,,,,2400.0,,2400.0,hcp,lundbeck
 Othmar Noser,Affoltern am Albis,,Merkurstrasse 1,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
 Paolo Cottone,Orselina,,Via al Parco 27,,,,,586.0,1161.0,,,1747.0,hcp,lundbeck
-Patrick Nemeshazy,Langenthal,,Marktgasse 18,,,,,,636.0,,,636.0,hco,lundbeck
 Patrizia Salari,Bellinzona,,Piazza Collegiata 7,,,,,586.0,1161.0,,,1747.0,hcp,lundbeck
 Peter Schneider,Zürich,,Bergstrasse 122,,,,,,,2500.0,,2500.0,hcp,lundbeck
 Philipp Eich,Liestal,,"Klinik für Psychiatrie u, Psychotherapie, Bienentalstrasse 7",,,,,,,2200.0,,2200.0,hcp,lundbeck
 Philipp Kloimstein,Wattwil,,Psychiatrisches Zentrum Wattwil,,,,,,,500.0,,500.0,hcp,lundbeck
-Philippe Frédéric Ray,Fribourg,,"Av, Général-Guisan 56",,,,,,479.0,,,479.0,hco,lundbeck
 Pia Bircher,Aarau,,Rain 21,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
+Rafael Traber,Viganello,,Via Luganetto 5,,,,,,,1527.0,,1527.0,hcp,lundbeck
+Raffaella Ada Colombo,Mendrisio,,Via Agostino Maspoli 6,,,,,,,1500.0,,1500.0,hcp,lundbeck
+Raffaella Pozzi,Lugano,,Corso Enrico Pestalozzi 4A,,,,,184.0,372.0,,,556.0,hcp,lundbeck
+Roland Andreas Schneider,Kreuzlingen,,Nationalstrasse 17,,,,,484.0,690.0,,,1174.0,hcp,lundbeck
+Roland Vauth,Basel,,"Universitäre Psychiatrische Kliniken Basel, Kornhausgasse 7",,,,,,,3962.0,,3962.0,hcp,lundbeck
+Rolf Seeger,Zürich,,Winterthurerstrasse 190/52,,,,,,,800.0,,800.0,hcp,lundbeck
+Sabine Abele,Luzern,,"St,-Leodegar-Strasse 2",,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
+Sebastian Walther,Bern,,Murtenstrasse 21,,,,,,,1500.0,,1500.0,hcp,lundbeck
+Sérgio Lenoir,Gallen,,"Zürcherstrasse 170, St",,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
+Sidi Mohammed Tchouar,Biel/Bienne,,Rue de Nidau 15,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
+Slavica Romancuk-Bacinski,Glattbrugg,,Wright-Strasse 34,,,,,,,500.0,,500.0,hcp,lundbeck
+Steffen Stoewer,Münsterlingen,,Seeblickstrasse 3,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
+Süleyman Alicioglu,Biel/Bienne,,Hans-Hugi Strasse 12,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
+Sylvia Vetter,Rheinau,,Alleestrasse 61A,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
+Tammo Gorkisch,Gallen,,"Teufenerstrasse 26, St",,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
+Tarek Bdeir Ibanez,Lausanne,,"Les Toises Centre de Psychiatrie & Psychothérapie, Avenue des Mousquines 4",,,,,,,1900.0,,1900.0,hcp,lundbeck
+Tatjana Zafirovaska,Lugano,,Via delle Scuole 1,,,,,,,500.0,,500.0,hcp,lundbeck
+Tatjana Zafirovska,Lugano,,Via delle Scuole 1,,,,,771.0,1533.0,,,2304.0,hcp,lundbeck
+Thi Nguyen,Lausanne,,Avenue de Chailly 25,,,,,,,300.0,,300.0,hcp,lundbeck
+Thilo Beck,Zürich,,"Arud Geschäftsstelle Zürich, Konradstrasse 32",,,,,,,1500.0,,1500.0,hcp,lundbeck
+Thomas Buder,Moritz,,"Via Rosatsch 7, St",,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
+Thomas Leyhe,Basel,,UPK Basel Universitäte Psychiatrische Kliniken Wilhelm Klein-Strasse 27,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
+Tobias Paust,N/A,,N/A,,,,,,636.0,,,636.0,hcp,lundbeck
+Ulrike Caroline Garber,Schaan,,Im Gafos 3,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
+Visnica Vincic,Wattwil,,Hembergerstrasse 22,,,,,201.0,1224.0,,,1425.0,hcp,lundbeck
+Vita Sulaj-Sadiku,Brugg,,Postfach 432,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
+Yvette Attinger Andreoli,Caslano,,Via Stazione 29,,,,,184.0,372.0,,,556.0,hcp,lundbeck
+Ambulatorien Zentrum für Psychotische Erkrankungen,Basel,,Kornhausgasse 7,,,,,,,1400.0,,1400.0,hco,lundbeck
+Ärztegesellschaft Gäu,Wolhusen,,Spitalstrase 3,,,,1000.0,,,,,1000.0,hco,lundbeck
+Ärztekongress Arosa,Arosa,,Postfach 68,,,,3369.0,,,,,3369.0,hco,lundbeck
+Ärztenetzwerk Grauholz,Ittingen,,Worbentalstrasse 99,,,,2160.0,,,,,2160.0,hco,lundbeck
+Ärztevereinigung Senslerbezirk,Düdingen,,Hauptstrasse 24,,,,3000.0,,,,,3000.0,hco,lundbeck
+Ärztlicher Notfallkreis Sissach - Gelterkinden,Läufelfingen,,Hirzfeldenweg 14,,,,5000.0,,,,,5000.0,hco,lundbeck
+ASI-ADOC,Paradiso,,"Viale San Salvatore 7, Casella Postale 501",,,,750.0,,,,,750.0,hco,lundbeck
+Associazione Medical Meeting,Minusio,,Via Cadogno 1,,,,800.0,,,,,800.0,hco,lundbeck
+Associazione Medico In Pratica (MIP-cis),Manno,,Via Cantonale 35d,,,,1500.0,,,,,1500.0,hco,lundbeck
+Associazione Ticinese Assistenti di Studio Medico,Pazzallo,,Via Provo 9,,,,1500.0,,,,,1500.0,hco,lundbeck
+BBS Congress GmbH,Bern 25,,Rabbentalstrasse 83,,,,3672.0,,,,,3672.0,hco,lundbeck
+Centre Hospitalier Universitaire Vaudois (CHUV),Lausanne,,Rue du Bugnon 21,,,,13656.0,,,,,13656.0,hco,lundbeck
+Circolo Medico di Locarno,Locarno,,CP 545,,,,1200.0,,,,,1200.0,hco,lundbeck
+Clinica Psichiatrica Cantonale,Mendrisio,,Via Agostino Maspoli 8,,,,1000.0,,,,,1000.0,hco,lundbeck
+Clinique Le Noirmont,Le Noirmont,,Chemin de Roc-Montès 20,,,,1500.0,,,,,1500.0,hco,lundbeck
+CMPR c/o Medworld AG,Steinhausen,,Sennweidstrasse 46,,,,2527.0,,,,,2527.0,hco,lundbeck
+Consultation Ambulatoire JADE Hôpitaux Universitaires de Genève,Genève,,Rue du Grand Pré 70A,,,,,,,1350.0,312.0,1662.0,hco,lundbeck
+"Doxnet,ch Aerztenetzwerk Bern Nord / West",Hinterkappelen,,Kappelenring 6,,,,1000.0,,,,,1000.0,hco,lundbeck
+Emir Hrnjicevic,Baden,,Haselstrasse 1,,,,,,636.0,,,636.0,hco,lundbeck
+Ensemble Hospitalier de la Côte,Morges,,Chemin du Crêt 2,,,,1080.0,,,,,1080.0,hco,lundbeck
+EOC Ospedale Regionale di Mendrisio Beata Vergine,Mendrisio,,Casella Postale 1652,,,,600.0,,,,,600.0,hco,lundbeck
+Fondation de Nant,Corsier_sur_Vevey,,Secteur Psychiatrique de l'Est Vaudois,,,,2500.0,,,,,2500.0,hco,lundbeck
+Fondo Formazione medici famiglia Clinica Luganese Moncucco SA,Lugano,,Sede Moncucco e San Rocco,,,,800.0,,,,,800.0,hco,lundbeck
+Fosumis Forum Suchtmedizin Innerschweiz,Zug,,Aegeristrasse 56,,,,3000.0,,,,,3000.0,hco,lundbeck
+FOSUMOS Geschäftsstelle,Gallen,,"Metzgergasse 22 Postfach 611, St",,,,2000.0,,,,,2000.0,hco,lundbeck
+Geschäftsstelle Kollegium für Hausarztmedizin / Medworld AG,Steinhausen,,Sennweidstrasse 46,,,,16200.0,,,,,16200.0,hco,lundbeck
+Grand Resort Bad Ragaz Medizinisches Zentrum,Bad Ragaz,,Hans Albrecht Strasse,,,,2000.0,,,,,2000.0,hco,lundbeck
+Gruppo Medico Formazione,Giubiasco,,Casella postale 823,,,,3300.0,,,,,3300.0,hco,lundbeck
+Hôpital du Valais,Sion,,"Av, Grand-Champsec 86",,,,2252.0,586.0,827.0,,,3665.0,hco,lundbeck
+HUG Hôpitaux Universitaires de Genève,Genève,,Rue du Grand Pré 70,,,,6500.0,,,2400.0,,8900.0,hco,lundbeck
+IGOMED Ärztenetzwerk Raum Thun,Thun,,Höheweg 26a,,,,1512.0,,,,,1512.0,hco,lundbeck
+Insel-Gruppe AG,Bern,,Freiburgstrasse 18,,,,1500.0,,,,,1500.0,hco,lundbeck
+Integrierte Psychiatrie Winterthur - Zürcher Unterland,Winterthur,,Postfach 144,,,,2000.0,,,,,2000.0,hco,lundbeck
+Intervisionsgruppe,Lenzburg,,Niederlenzer Kirchweg 3,,,,3400.0,,,,,3400.0,hco,lundbeck
+Kantonsspital Frauenfeld Spital Thurgau AG,Frauenfeld,,Postfach,,,,1000.0,,,,,1000.0,hco,lundbeck
+Kantonsspital Glarus AG,Glarus,,Burgstrasse 99,,,,1000.0,,,,,1000.0,hco,lundbeck
+"Kantonsspital St, Gallen",Gallen,,"Rorschacherstrasse 95, St",,,,1620.0,,,,,1620.0,hco,lundbeck
+Klinik für Psychiatrie Psychotherapie und Psychosomatik Psychiatrische Universitätsklinik Zürich,Zürich,,Postfach 1931,,,,15000.0,,,,,15000.0,hco,lundbeck
+Klinik Meissenberg AG,Zug,,Postfach 1060,,,,2500.0,,,,,2500.0,hco,lundbeck
+Klinik Schützen Rheinfelden,Rheinfelden,,Bahnhofstrasse 19,,,,6700.0,,,,,6700.0,hco,lundbeck
+Luzerner Psychiatie,Luzern,,Postfach,,,,4000.0,,,,,4000.0,hco,lundbeck
+Médecins de Famille Genève Association genevoise des médecins internistes et généralistes,Genève,,Conseil Général 11,,,,2000.0,,,,,2000.0,hco,lundbeck
+Medizinisches Zentrum Heilbad,Moritz,,"Plazza Paracelsus 2, St",,,,1500.0,,,,,1500.0,hco,lundbeck
+Medworld AG,Steinhausen,,Sennweidstrasse 46,,,,5130.0,,,,,5130.0,hco,lundbeck
+Organizers Schweiz GmbH,Magden,,Obere Egg 2,,,,61724.0,,,,,61724.0,hco,lundbeck
+Patrick Nemeshazy,Langenthal,,Marktgasse 18,,,,,,636.0,,,636.0,hcp,lundbeck
+Philippe Frédéric Ray,Fribourg,,"Av, Général-Guisan 56",,,,,,479.0,,,479.0,hcp,lundbeck
 Pizolcare AG,Mels,,Flurstrasse 12,,,,7500.0,,,,,7500.0,hco,lundbeck
 Privatklinik Meiringen AG,Meiringen,,Willigen,,,,5000.0,,,,,5000.0,hco,lundbeck
 Privatklinik Obach AG,Solothurn,,Leopoldstrasse 5,,,,2160.0,,,,,2160.0,hco,lundbeck
@@ -150,48 +177,24 @@ Psychiatriezentrum Münsingen PZM,Münsingen,,Hunzigenallee 1,,,,3000.0,,,,,3000
 Psychiatrische Dienste Aargau AG,Baden,,Zentrum Psychiatrie und Psychotherapie ambulant Ambulatorium Baden Haselstrasse 1,,,,2000.0,,,,,2000.0,hco,lundbeck
 PULSUS c/o Brückner Rechtsanwälte,Luzern,,Lidostrasse 6,,,,500.0,,,,,500.0,hco,lundbeck
 Quadrimed,Crans-Montana,,Case postale 299,,,,9100.0,,,,,9100.0,hco,lundbeck
-Rafael Traber,Viganello,,Via Luganetto 5,,,,,,,1527.0,,1527.0,hcp,lundbeck
-Raffaella Ada Colombo,Mendrisio,,Via Agostino Maspoli 6,,,,,,,1500.0,,1500.0,hcp,lundbeck
-Raffaella Pozzi,Lugano,,Corso Enrico Pestalozzi 4A,,,,,184.0,372.0,,,556.0,hcp,lundbeck
 Reha Rheinfelden,Rheinfelden,,Salinenstrasse 98,,,,1500.0,,,,,1500.0,hco,lundbeck
 REMED Association genevoise de médecins travaillant en Réseau,Genève,,Conseil Général 11,,,,2000.0,,,,,2000.0,hco,lundbeck
 Repubblica e Cantone Ticino Organizzazione sociopsichiatrica cantonale,Mendrisio,,Via Agostino Maspoli 8,,,,1000.0,,,,,1000.0,hco,lundbeck
 Réseau fribourgeois de santé mentale c/o Centre de soins hospitaliers,Marsens,,Case postale 90,,,,92.0,586.0,827.0,,,1505.0,hco,lundbeck
 Réseau fribourgeois de santé mentale c/o Centre de soins hospitaliers,Marsens,,Case postale 90,,,,6000.0,,,,,6000.0,hco,lundbeck
-Roland Andreas Schneider,Kreuzlingen,,Nationalstrasse 17,,,,,484.0,690.0,,,1174.0,hcp,lundbeck
-Roland Vauth,Basel,,"Universitäre Psychiatrische Kliniken Basel, Kornhausgasse 7",,,,,,,3962.0,,3962.0,hcp,lundbeck
-Rolf Seeger,Zürich,,Winterthurerstrasse 190/52,,,,,,,800.0,,800.0,hcp,lundbeck
-Sabine Abele,Luzern,,"St,-Leodegar-Strasse 2",,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
 Schweizerische Gesellschaft für Arzneimittelsicherheit in der Psychiatrie (SGAMSP),Aarburg,,Postfach 100,,,,5000.0,,,,,5000.0,hco,lundbeck
 Schweizerische Gesellschaft für Biologische Psychiatrie,Solothurn,,Weissensteinstrasse 102,,,,2500.0,,,,,2500.0,hco,lundbeck
-Sebastian Walther,Bern,,Murtenstrasse 21,,,,,,,1500.0,,1500.0,hcp,lundbeck
-Sérgio Lenoir,Gallen,,"Zürcherstrasse 170, St",,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
 Servizio medico delle Strutture carcerarie ticinesi,Lugano,,Casella Postale 6277,,,,800.0,,,,,800.0,hco,lundbeck
-Sidi Mohammed Tchouar,Biel/Bienne,,Rue de Nidau 15,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
-Slavica Romancuk-Bacinski,Glattbrugg,,Wright-Strasse 34,,,,,,,500.0,,500.0,hcp,lundbeck
 Società Ticiniese di Psichiatria e Psicoterapia c/o Markusa Ferrari,Coldrerio,,Via Campagnola 112,,,,1500.0,,,,,1500.0,hco,lundbeck
 Sociéte Suisse de Psychothérapie Interpersonnelle,Crans-Montana,,Rue Marigny 4,,,,2500.0,,,,,2500.0,hco,lundbeck
 Société Suisse de psychotraumatologie,Genève,,"Av, Krieg 15",,,,500.0,,,,,500.0,hco,lundbeck
 Solothurner Spitäler AG,Solothurn,,Weissensteinstrasse 102,,,,4860.0,,,,,4860.0,hco,lundbeck
 Spezialärzteverein Zofingen,Zofingen,,Kirchplazt 4,,,,1500.0,,,,,1500.0,hco,lundbeck
-"Spitalverbund AR Psy, Zentrum AR",Herisau,,Krombach 3,,,,1080.0,,,,,1080.0,hco,lundbeck
-"St, Gallische Kantonale Psych, Dienste",Will_SG,,Zürcherstrasse 30,,,,5500.0,,,,,5500.0,hco,lundbeck
-Steffen Stoewer,Münsterlingen,,Seeblickstrasse 3,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
+Spitalverbund AR Psy. Zentrum AR,Herisau,,Krombach 3,,,,1080.0,,,,,1080.0,hco,lundbeck
+St. Gallische Kantonale Psych. Dienste,Will_SG,,Zürcherstrasse 30,,,,5500.0,,,,,5500.0,hco,lundbeck
 Stiftung zur Förderung der Medizin im Engadin,Scuol,,Bogn Engiadina Scuol,,,,7500.0,,,,,7500.0,hco,lundbeck
-Süleyman Alicioglu,Biel/Bienne,,Hans-Hugi Strasse 12,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
 Swiss Society of Sexologie,Lausanne,,3 rue Caroline,,,,2000.0,,,,,2000.0,hco,lundbeck
-Sylvia Vetter,Rheinau,,Alleestrasse 61A,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
-Tammo Gorkisch,Gallen,,"Teufenerstrasse 26, St",,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
-Tarek Bdeir Ibanez,Lausanne,,"Les Toises Centre de Psychiatrie & Psychothérapie, Avenue des Mousquines 4",,,,,,,1900.0,,1900.0,hcp,lundbeck
-Tatjana Miusskaya Fehr,Chur,,Loëstrasse 220,,,,,,636.0,,,636.0,hco,lundbeck
-Tatjana Zafirovaska,Lugano,,Via delle Scuole 1,,,,,,,500.0,,500.0,hcp,lundbeck
-Tatjana Zafirovska,Lugano,,Via delle Scuole 1,,,,,771.0,1533.0,,,2304.0,hcp,lundbeck
-Thi Nguyen,Lausanne,,Avenue de Chailly 25,,,,,,,300.0,,300.0,hcp,lundbeck
-Thilo Beck,Zürich,,"Arud Geschäftsstelle Zürich, Konradstrasse 32",,,,,,,1500.0,,1500.0,hcp,lundbeck
-Thomas Buder,Moritz,,"Via Rosatsch 7, St",,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
-Thomas Leyhe,Basel,,UPK Basel Universitäte Psychiatrische Kliniken Wilhelm Klein-Strasse 27,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
-Tobias Paust,N/A,,N/A,,,,,,636.0,,,636.0,hcp,lundbeck
-Ulrike Caroline Garber,Schaan,,Im Gafos 3,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck
+Tatjana Miusskaya Fehr,Chur,,Loëstrasse 220,,,,,,636.0,,,636.0,hcp,lundbeck
 "Universitäre Psych, Dienste Bern Integrierter Drogendienst IDD",Bern,,Zieglerstrasse 7,,,,800.0,,,,,800.0,hco,lundbeck
 Universitäre Psychiatrische Dienste Bern AG ( UPD),Bern,,Murtenstrasse 21,,,,2160.0,,,,,2160.0,hco,lundbeck
 Universitäre Psychiatrische Kliniken Basel (UPK),Basel,,Wilhelm Klein-Strasse 27,,,,1500.0,,,,,1500.0,hco,lundbeck
@@ -202,7 +205,4 @@ Verein Lunge Zurich,Zurich,,Wilfriedstrasse 7,,,,9136.0,,,,,9136.0,hco,lundbeck
 "Verein Who is Who c/o Dr, Klaus Rüdy",Zürich,,Grossackerstrasse 98,,,,1200.0,,,,,1200.0,hco,lundbeck
 "Vereinigung der Psychiaterinnen und Psychiater des Kantons Luzern Dr, Jeffrey Mc Cutchan",Luzern,,Mühleplatz 10,,,,2500.0,,,,,2500.0,hco,lundbeck
 Vereinigung Zentralschweizer Ärztegesellschaften c/o MM Consult Volante GmbH,Cham,,Riedstrasse 1,,,,2700.0,,,,,2700.0,hco,lundbeck
-Visnica Vincic,Wattwil,,Hembergerstrasse 22,,,,,201.0,1224.0,,,1425.0,hcp,lundbeck
-Vita Sulaj-Sadiku,Brugg,,Postfach 432,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck
-Yvette Attinger Andreoli,Caslano,,Via Stazione 29,,,,,184.0,372.0,,,556.0,hcp,lundbeck
 Zürcher Psychotraumatologie Tagung,Zürich,,Culmannstrasse 8,,,,3000.0,,,,,3000.0,hco,lundbeck
