@@ -1,12 +1,12 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-Beglinger Christoph,4410 LIESTAL,CH,BMR AG Oristalstrasse 29,4410,,,,,,810.0,,810.0,hcp,eisei
-Berthold Dominik,1011 LAUSANNE,CH,CHUV Departement d'Oncologie Rue du Bugnon 46,1011,,,,,,1000.0,91.4,1091.4,hcp,eisei
-Digklia Antonia,1011 LAUSANNE,CH,CHUV  Service d'oncologie Rue Du Bugnon 46,1011,,,,,,1000.0,,1000.0,hcp,eisei
-Grunwald Thomas,8008 ZüRICH,CH,Klinik Lengg AG Schweizerisches Epilepsie-Zentrum Medizin. Neurologie Bleulerstrasse 60,8008,,,,,,3300.0,,3300.0,hcp,eisei
-Jörger Markus,9007 ST. GALLEN,CH,"St. Gallen, Kantonsspital Onkologie Rorschacherstrasse 95",9007,,,,,,1454.49,,1454.49,hcp,eisei
-Klingbiel Dirk,3008 BERN,CH,Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung (SAKK) Effingerstrasse 33,3008,,,,,,1900.0,,1900.0,hcp,eisei
-Kollàr Attila,3010 BERN,CH,Inselspital Bern Medizinische Onkologie Medizinische Onkologie Inselspital Bern,3010,,,,,,1500.0,51.0,1551.0,hcp,eisei
-Rösche Johannes,8008 ZüRICH,CH,Klinik Lengg AG Schweizerisches Epilepsie Zentrum Neurologie Bleulerstrasse 60,8008,,,,,,500.0,,500.0,hcp,eisei
+Christoph Beglinger,4410 LIESTAL,CH,BMR AG Oristalstrasse 29,4410,,,,,,810.0,,810.0,hcp,eisei
+Dominik Berthold,1011 LAUSANNE,CH,CHUV Departement d'Oncologie Rue du Bugnon 46,1011,,,,,,1000.0,91.4,1091.4,hcp,eisei
+Antonia Digklia,1011 LAUSANNE,CH,CHUV  Service d'oncologie Rue Du Bugnon 46,1011,,,,,,1000.0,,1000.0,hcp,eisei
+Thomas Grunwald,8008 ZüRICH,CH,Klinik Lengg AG Schweizerisches Epilepsie-Zentrum Medizin. Neurologie Bleulerstrasse 60,8008,,,,,,3300.0,,3300.0,hcp,eisei
+Markus Jörger,9007 ST. GALLEN,CH,"St. Gallen, Kantonsspital Onkologie Rorschacherstrasse 95",9007,,,,,,1454.49,,1454.49,hcp,eisei
+Dirk Klingbiel,3008 BERN,CH,Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung (SAKK) Effingerstrasse 33,3008,,,,,,1900.0,,1900.0,hcp,eisei
+Attila Kollàr,3010 BERN,CH,Inselspital Bern Medizinische Onkologie Medizinische Onkologie Inselspital Bern,3010,,,,,,1500.0,51.0,1551.0,hcp,eisei
+Johannes Rösche,8008 ZüRICH,CH,Klinik Lengg AG Schweizerisches Epilepsie Zentrum Neurologie Bleulerstrasse 60,8008,,,,,,500.0,,500.0,hcp,eisei
 Chuv- Hospices Service De Neurologie,1011 Lausanne,CH,Rue du Bugnon,1011,,,2660.0,,,625.0,,3285.0,hco,eisei
 Esmo,6962 Viganello- Lugano,CH,Via Luigi Taddei ESMO Head Office,6962,,,216540.24,,,,,216540.24,hco,eisei
 Ente Ospedaliero Cantonale Bellinzona,6900 Lugano,CH,Via Tesserete 46,6900,,,4050.0,,,,,4050.0,hco,eisei
