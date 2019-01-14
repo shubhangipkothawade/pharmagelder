@@ -79,8 +79,22 @@ def remove_brackets(dataset):
 
 """
 def replace_comma_to_dot(dataset):
+    return replace_in_number(dataset, ',', '.')
+    """
     for field in number_fields:
         dataset[field] = dataset[field].str.replace(",", '.')
+    
+    return dataset
+    """
+
+"""
+
+    Replace in Number Fields
+
+"""
+def replace_in_number(dataset, pat, repl):
+    for field in number_fields:
+        dataset[field] = dataset[field].str.replace(pat, repl)
     
     return dataset
 

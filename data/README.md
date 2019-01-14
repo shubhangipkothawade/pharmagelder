@@ -55,6 +55,10 @@ Entfernt Leerzeichen in allen Zahlenfeldern
 `df_export = replace_comma_to_dot(df_export)`  
 Ersetzt Kommas mit Punkt in allen Zahlenfeldern
 
+**replace_in_number**  
+`df_export = replace_in_number(df_export, 'X', 'Y)`  
+Replacefunction in number fields  
+
 **remove_dots**  
 `df_export = remove_dots(df_export)`  
 Entfernt alle Punkte in allen Zahlenfeldern
