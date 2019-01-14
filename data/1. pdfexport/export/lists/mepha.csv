@@ -1,73 +1,73 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-"Kaufmann, Regula",Zug,CH,Baarerstrasse 8,,,,,0.0,,330.0,,330,hcp,mepha
-"Westphale‐Chopard, Line",Bremblens,CH,Les Corbes 5,,,,,0.0,,330.0,,330,hcp,mepha
-"Olivera, Elias",Villars‐sur‐Glane,CH,Rue du Centre 6,,,,,0.0,,330.0,,330,hcp,mepha
-"Aubort, Christian",Moudon,CH,Avenue de la Gare 1a,,,,,0.0,,330.0,,330,hcp,mepha
-"Singer, Susanne",Baar,CH,Jöchlerweg 4,,,,,0.0,,330.0,,330,hcp,mepha
-"Fünfschilling, Karin",Niederglatt,CH,Grafschaftstrasse 8,,,,,0.0,,330.0,,330,hcp,mepha
-"Rüegg, Bruno",Hinwil,CH,Dürtnerstrasse 19,,,,,0.0,,330.0,,330,hcp,mepha
-"Korner, Lukas",Gränichen,CH,Bahnhofstrasse 1,,,,,0.0,,330.0,,330,hcp,mepha
-"Kressig, Reto",Basel,CH,Universitäre Altersmedizin,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Gantenbein, Andreas",Bad Zurzach,CH,Quellenstrasse 34,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Rosemann, Thomas",Küsnacht,CH,Sillerstrasse 8,,,,,0.0,,1000.0,,1000,hcp,mepha
-"Michel, Beat",Winterthur,CH,Sonnenbergstrasse 12,,,,,0.0,,6000.0,,6000,hcp,mepha
-"Keller Lang, Dagmar",Zürich,CH,Schmelzbergstrasse 8,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Müllhaupt, Beat",Ennetbaden,CH,Schlösslistrasse 26,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Von Kempis, Johannes",St. Gallen,CH,Rorschacher‐Strasse 95,,,,,0.0,,800.0,,800,hcp,mepha
-"Herren, Daniel",Zürich,CH,Lengghalde 2,,,,,0.0,,1800.0,,1800,hcp,mepha
-"Brunner, Florian",Zürich,CH,Forchstrasse 340,,,,,0.0,,800.0,,800,hcp,mepha
-"Seitz, Michael",Bern,CH,Freiburgstrasse 8,,,,,0.0,,1600.0,,1600,hcp,mepha
-"Cozzio, Antonio",St. Gallen,CH,Rorschacher‐Strasse 95,,,,,0.0,,1000.0,,1000,hcp,mepha
-"Krebs, Andreas",Zürich,CH,Gloriastrasse 25,,,,,0.0,,800.0,,800,hcp,mepha
-"Meier, Barbara",Zürich,CH,Toblerstrasse 51,,,,,0.0,,800.0,,800,hcp,mepha
-"Rippstein, Pascal",Zürich,CH,Lengghalde 2,,,,,0.0,,1800.0,,1800,hcp,mepha
-"Jung, Hans‐Heinrich",Zürich,CH,Rämistrasse 100,,,,,0.0,,800.0,,800,hcp,mepha
-"Distler, Oliver",Zürich,CH,Gladbachstrasse 103,,,,,0.0,,2700.0,207.0,2907,hcp,mepha
-"Langenegger, Thomas",Baar,CH,Medizinische Klinik,,,,,0.0,,800.0,,800,hcp,mepha
-"Maurer, Britta",Zürich,CH,Gloriastrasse 25,,,,,0.0,,800.0,,800,hcp,mepha
-"Weber, Markus",Aesch,CH,Ettingerstrasse 1,,,,,0.0,,1600.0,,1600,hcp,mepha
-"Brunner, Ulrich",Kloten,CH,Kalchengasse 7,,,,,0.0,,800.0,,800,hcp,mepha
-"Wildi, Lukas",Zürich,CH,Gloriastrasse 25,,,,,0.0,,1300.0,,1300,hcp,mepha
-"Becker, Mike",Zürich,CH,Gloriastrasse 25,,,,,0.0,,800.0,,800,hcp,mepha
-"Frey, Diana",Zürich,CH,Gloriastrasse 25,,,,,0.0,,1000.0,,1000,hcp,mepha
-"Brühlmann, Pius",Zürich,CH,Toblerstrasse 51,,,,,0.0,,2500.0,,2500,hcp,mepha
-"Ciurea, Adrian",Zürich,CH,Gloriastrasse 25,,,,,0.0,,3200.0,,3200,hcp,mepha
-"Enderlin Steiger, Susann",Zürich,CH,Bederstrasse 51,,,,,0.0,,800.0,,800,hcp,mepha
-"Gorbach, Christoph",Zürich,CH,Forchstrasse 340,,,,,0.0,,500.0,,500,hcp,mepha
-"Tschopp, Marcel",Zürich,CH,Forchstrasse 340,,,,,0.0,,500.0,,500,hcp,mepha
-"Rühli, Frank J.",Zürich,CH,Institut fürEvolutionäre Medizin,,,,,0.0,,1000.0,,1000,hcp,mepha
-"Schlegel, Christian",Bad Ragaz,CH,Medizinisches Zentrum,,,,,0.0,,800.0,,800,hcp,mepha
-"Michel, Beat",Winterthur,CH,Sonnenbergstrasse 12,,,,,0.0,,6000.0,,6000,hcp,mepha
-"Böni, Thomas",Zürich,CH,Forchstr. 340,,,,,0.0,,800.0,,800,hcp,mepha
-"Forster, Adrian",Winterthur,CH,"Brauerstrasse 15,Postfach 834",,,,,0.0,,800.0,,800,hcp,mepha
-"Adler, Sabine",Bern,CH,"Universitätsklinik für Rheumatologie, Immunologie und Allergologie",,,,,0.0,,1800.0,,1800,hcp,mepha
-"Seifritz, Erich",Zürich,CH,Psychiatrische Universitätsklinik Zürich,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Müller, Thomas J.",Meiringen,CH,Willigen,,,,,0.0,,4000.0,,4000,hcp,mepha
-"Klöppel, Stefan",Bern,CH,Murtenstrasse 21,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Jenewein, Josef",Zürich,CH,Rämistrasse 100,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Muminagic, Salih",Hasliberg Hohfluh,CH,Rehaklinik Hasliberg,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Hatzinger, Martin",Solothurn,CH,Weissensteinstrasse 102,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Villiger, Peter",Bern,CH,Freiburgstrasse 29,,,,,0.0,,2800.0,,2800,hcp,mepha
-"Michelsen, Sven H.",Dübendorf,CH,Leepüntstrasse 18,,,,,0.0,,500.0,,500,hcp,mepha
-"Allaz, Anne‐Françoise",Genève,CH,Avenue de Beau‐ Séjour 26,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Mallet, Luc",Genf,CH,Chemine des Mines 9,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Chauvet‐Gelinier, Jean‐Christophe",Genève,CH,Rue Gabrielle‐Perret‐ Gentil 4,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Bondolfi, Guido",Genève,CH,Rue Gabrielle‐Perret‐ Gentil 4,,,,,0.0,,4000.0,,4000,hcp,mepha
-"Santos, João",Genève,CH,Rue Gabrielle‐Perret‐ Gentil 4,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Renard, Delphine",Lausanne,CH,Rue du Bugnon 17,,,,,0.0,,1500.0,,1500,hcp,mepha
-"von Gunten, Armin",Prilly,CH,Site de Cery,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Besson, Marie",Genève 14,CH,Centre multidisciplinaire de la douleur HUG,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Moudry, Radmila",Chur,CH,Institut für Spitalpharmazie Loëstrasse 170,,,,,499.0,,,,499,hcp,mepha
-"Vandenberghe, Frederik",Nyon,CH,11 Rue du Ronzier,,,,,250.0,,,,250,hcp,mepha
-"Michel, Beat",Winterthur,CH,Sonnenbergstrasse 12,,,,,0.0,,1700.0,,1700,hcp,mepha
-"Müller, Thomas J.",Meiringen,CH,Willigen,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Bondolfi, Guido",Genève,CH,Rue Gabrielle‐Perret‐ Gentil 4,,,,,0.0,,1500.0,,1500,hcp,mepha
-"Günthard, Huldrych",Zürich,CH,Berninastrasse 116,,,,,0.0,,1295.0,,1295,hcp,mepha
-"Tiemann Karen , Oelepraxis AG",Wiedlisbach,CH,Oeleweg 3,,,,,367.0,0.0,0.0,0.0,367,hcp,mepha
-"Portmann Bettina , Localmed AG",Bern,CH,Schanzenstrasse 4A,,,,,260.0,0.0,0.0,0.0,260,hcp,mepha
-"Torchetti Eleonora , Localmed AG",Bern,CH,Schanzenstrasse 4A,,,,,245.0,0.0,0.0,0.0,245,hcp,mepha
-"Stüdi Katja , Hausarztpraxis Kalchofen AG",Hasle b. Burgdorf,CH,Kalchofenstrasse 24,,,,,600.0,0.0,0.0,0.0,600,hcp,mepha
-"Sallin Bernard , Hausarztpraxis KalchofenAG",Hasle b. Burgdorf,CH,Kalchofenstrasse 24,,,,,600.0,0.0,0.0,0.0,600,hcp,mepha
+Regula Kaufmann,Zug,CH,Baarerstrasse 8,,,,,0.0,,330.0,,330,hcp,mepha
+Line Westphale‐Chopard,Bremblens,CH,Les Corbes 5,,,,,0.0,,330.0,,330,hcp,mepha
+Elias Olivera,Villars‐sur‐Glane,CH,Rue du Centre 6,,,,,0.0,,330.0,,330,hcp,mepha
+Christian Aubort,Moudon,CH,Avenue de la Gare 1a,,,,,0.0,,330.0,,330,hcp,mepha
+Susanne Singer,Baar,CH,Jöchlerweg 4,,,,,0.0,,330.0,,330,hcp,mepha
+Karin Fünfschilling,Niederglatt,CH,Grafschaftstrasse 8,,,,,0.0,,330.0,,330,hcp,mepha
+Bruno Rüegg,Hinwil,CH,Dürtnerstrasse 19,,,,,0.0,,330.0,,330,hcp,mepha
+Lukas Korner,Gränichen,CH,Bahnhofstrasse 1,,,,,0.0,,330.0,,330,hcp,mepha
+Reto Kressig,Basel,CH,Universitäre Altersmedizin,,,,,0.0,,1500.0,,1500,hcp,mepha
+Andreas Gantenbein,Bad Zurzach,CH,Quellenstrasse 34,,,,,0.0,,1500.0,,1500,hcp,mepha
+Thomas Rosemann,Küsnacht,CH,Sillerstrasse 8,,,,,0.0,,1000.0,,1000,hcp,mepha
+Beat Michel,Winterthur,CH,Sonnenbergstrasse 12,,,,,0.0,,6000.0,,6000,hcp,mepha
+Dagmar Keller Lang,Zürich,CH,Schmelzbergstrasse 8,,,,,0.0,,1500.0,,1500,hcp,mepha
+Beat Müllhaupt,Ennetbaden,CH,Schlösslistrasse 26,,,,,0.0,,1500.0,,1500,hcp,mepha
+Johannes Von Kempis,St. Gallen,CH,Rorschacher‐Strasse 95,,,,,0.0,,800.0,,800,hcp,mepha
+Daniel Herren,Zürich,CH,Lengghalde 2,,,,,0.0,,1800.0,,1800,hcp,mepha
+Florian Brunner,Zürich,CH,Forchstrasse 340,,,,,0.0,,800.0,,800,hcp,mepha
+Michael Seitz,Bern,CH,Freiburgstrasse 8,,,,,0.0,,1600.0,,1600,hcp,mepha
+Antonio Cozzio,St. Gallen,CH,Rorschacher‐Strasse 95,,,,,0.0,,1000.0,,1000,hcp,mepha
+Andreas Krebs,Zürich,CH,Gloriastrasse 25,,,,,0.0,,800.0,,800,hcp,mepha
+Barbara Meier,Zürich,CH,Toblerstrasse 51,,,,,0.0,,800.0,,800,hcp,mepha
+Pascal Rippstein,Zürich,CH,Lengghalde 2,,,,,0.0,,1800.0,,1800,hcp,mepha
+Hans‐Heinrich Jung,Zürich,CH,Rämistrasse 100,,,,,0.0,,800.0,,800,hcp,mepha
+Oliver Distler,Zürich,CH,Gladbachstrasse 103,,,,,0.0,,2700.0,207.0,2907,hcp,mepha
+Thomas Langenegger,Baar,CH,Medizinische Klinik,,,,,0.0,,800.0,,800,hcp,mepha
+Britta Maurer,Zürich,CH,Gloriastrasse 25,,,,,0.0,,800.0,,800,hcp,mepha
+Markus Weber,Aesch,CH,Ettingerstrasse 1,,,,,0.0,,1600.0,,1600,hcp,mepha
+Ulrich Brunner,Kloten,CH,Kalchengasse 7,,,,,0.0,,800.0,,800,hcp,mepha
+Lukas Wildi,Zürich,CH,Gloriastrasse 25,,,,,0.0,,1300.0,,1300,hcp,mepha
+Mike Becker,Zürich,CH,Gloriastrasse 25,,,,,0.0,,800.0,,800,hcp,mepha
+Diana Frey,Zürich,CH,Gloriastrasse 25,,,,,0.0,,1000.0,,1000,hcp,mepha
+Pius Brühlmann,Zürich,CH,Toblerstrasse 51,,,,,0.0,,2500.0,,2500,hcp,mepha
+Adrian Ciurea,Zürich,CH,Gloriastrasse 25,,,,,0.0,,3200.0,,3200,hcp,mepha
+Susann Enderlin Steiger,Zürich,CH,Bederstrasse 51,,,,,0.0,,800.0,,800,hcp,mepha
+Christoph Gorbach,Zürich,CH,Forchstrasse 340,,,,,0.0,,500.0,,500,hcp,mepha
+Marcel Tschopp,Zürich,CH,Forchstrasse 340,,,,,0.0,,500.0,,500,hcp,mepha
+Frank J. Rühli,Zürich,CH,Institut fürEvolutionäre Medizin,,,,,0.0,,1000.0,,1000,hcp,mepha
+Christian Schlegel,Bad Ragaz,CH,Medizinisches Zentrum,,,,,0.0,,800.0,,800,hcp,mepha
+Beat Michel,Winterthur,CH,Sonnenbergstrasse 12,,,,,0.0,,6000.0,,6000,hcp,mepha
+Thomas Böni,Zürich,CH,Forchstr. 340,,,,,0.0,,800.0,,800,hcp,mepha
+Adrian Forster,Winterthur,CH,"Brauerstrasse 15,Postfach 834",,,,,0.0,,800.0,,800,hcp,mepha
+Sabine Adler,Bern,CH,"Universitätsklinik für Rheumatologie, Immunologie und Allergologie",,,,,0.0,,1800.0,,1800,hcp,mepha
+Erich Seifritz,Zürich,CH,Psychiatrische Universitätsklinik Zürich,,,,,0.0,,1500.0,,1500,hcp,mepha
+Thomas J. Müller,Meiringen,CH,Willigen,,,,,0.0,,4000.0,,4000,hcp,mepha
+Stefan Klöppel,Bern,CH,Murtenstrasse 21,,,,,0.0,,1500.0,,1500,hcp,mepha
+Josef Jenewein,Zürich,CH,Rämistrasse 100,,,,,0.0,,1500.0,,1500,hcp,mepha
+Salih Muminagic,Hasliberg Hohfluh,CH,Rehaklinik Hasliberg,,,,,0.0,,1500.0,,1500,hcp,mepha
+Martin Hatzinger,Solothurn,CH,Weissensteinstrasse 102,,,,,0.0,,1500.0,,1500,hcp,mepha
+Peter Villiger,Bern,CH,Freiburgstrasse 29,,,,,0.0,,2800.0,,2800,hcp,mepha
+Sven H. Michelsen,Dübendorf,CH,Leepüntstrasse 18,,,,,0.0,,500.0,,500,hcp,mepha
+Anne‐Françoise Allaz,Genève,CH,Avenue de Beau‐ Séjour 26,,,,,0.0,,1500.0,,1500,hcp,mepha
+Luc Mallet,Genf,CH,Chemine des Mines 9,,,,,0.0,,1500.0,,1500,hcp,mepha
+Jean‐Christophe Chauvet‐Gelinier,Genève,CH,Rue Gabrielle‐Perret‐ Gentil 4,,,,,0.0,,1500.0,,1500,hcp,mepha
+Guido Bondolfi,Genève,CH,Rue Gabrielle‐Perret‐ Gentil 4,,,,,0.0,,4000.0,,4000,hcp,mepha
+João Santos,Genève,CH,Rue Gabrielle‐Perret‐ Gentil 4,,,,,0.0,,1500.0,,1500,hcp,mepha
+Delphine Renard,Lausanne,CH,Rue du Bugnon 17,,,,,0.0,,1500.0,,1500,hcp,mepha
+Armin von Gunten,Prilly,CH,Site de Cery,,,,,0.0,,1500.0,,1500,hcp,mepha
+Marie Besson,Genève 14,CH,Centre multidisciplinaire de la douleur HUG,,,,,0.0,,1500.0,,1500,hcp,mepha
+Radmila Moudry,Chur,CH,Institut für Spitalpharmazie Loëstrasse 170,,,,,499.0,,,,499,hcp,mepha
+Frederik Vandenberghe,Nyon,CH,11 Rue du Ronzier,,,,,250.0,,,,250,hcp,mepha
+Beat Michel,Winterthur,CH,Sonnenbergstrasse 12,,,,,0.0,,1700.0,,1700,hcp,mepha
+Thomas J. Müller,Meiringen,CH,Willigen,,,,,0.0,,1500.0,,1500,hcp,mepha
+Guido Bondolfi,Genève,CH,Rue Gabrielle‐Perret‐ Gentil 4,,,,,0.0,,1500.0,,1500,hcp,mepha
+Huldrych Günthard,Zürich,CH,Berninastrasse 116,,,,,0.0,,1295.0,,1295,hcp,mepha
+Oelepraxis AG Tiemann Karen,Wiedlisbach,CH,Oeleweg 3,,,,,367.0,0.0,0.0,0.0,367,hcp,mepha
+Localmed AG Portmann Bettina,Bern,CH,Schanzenstrasse 4A,,,,,260.0,0.0,0.0,0.0,260,hcp,mepha
+Localmed AG Torchetti Eleonora,Bern,CH,Schanzenstrasse 4A,,,,,245.0,0.0,0.0,0.0,245,hcp,mepha
+Hausarztpraxis Kalchofen AG Stüdi Katja,Hasle b. Burgdorf,CH,Kalchofenstrasse 24,,,,,600.0,0.0,0.0,0.0,600,hcp,mepha
+Hausarztpraxis KalchofenAG Sallin Bernard,Hasle b. Burgdorf,CH,Kalchofenstrasse 24,,,,,600.0,0.0,0.0,0.0,600,hcp,mepha
 Association Quadrimed,Crans‐Montana 1,CH,Case postale 299,,,,10427.0,,,,,10427,hco,mepha
 Spital Zweisimmen,Zweisimmen,CH,Karl Haueter‐Strasse21,,,,4000.0,,,,,4000,hco,mepha
 pharmaSuisse,Bern‐Liebefeld,CH,Stationstrasse 12,,,,12000.0,,,,,12000,hco,mepha
