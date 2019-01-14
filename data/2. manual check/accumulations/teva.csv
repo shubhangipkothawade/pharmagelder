@@ -1,0 +1,6 @@
+type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
+hcp_amount,,,,,4800.0,,4800,teva
+hcp_count,,,,,,,5,teva
+hco_amount,,2050.0,,,,,2050,teva
+hco_count,,,,,,,2,teva
+rnd,0.0,0.0,0.0,0.0,0.0,0.0,0,teva
