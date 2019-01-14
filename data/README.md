@@ -153,6 +153,12 @@ for index, row in df_export.iterrows():
     df_export.loc[index, 'address'] = row['address'].replace(row['name'] + ' ', '')
 ```
 
+**Remove Title**
+```python
+df_export['name'] = df_export.name.str.replace(regex_title, '', regex=True, case=False)
+df_export['name'] = df_export.name.str.strip()
+```
+
 ## Fälle
 * Duplikate: [GlaxoSmithKline](http://localhost:8888/notebooks/data/1.%20pdfexport/files/GlaxoSmithKline/0.%20Lists.ipynb)
 * Beautiful Soup: [Lundbeck](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Lundbeck/0.%20Lists.ipynb)
