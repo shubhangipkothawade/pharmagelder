@@ -1,28 +1,28 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-"Aapro, Matti",Genolier,CH,Route du Muids 3,,,,,,,12996.92,8094.04,21090.96,hcp,sandoz
-"Baumann, Christian",Zürich,CH,Klinik für Neurologie Universitätsspit al Zürich,,,,,,,1871.0,,1871.0,hcp,sandoz
-"Bonnabry, Pascal",Vessy,CH,Chemin de Chantefleur 101,,,,,,,1000.0,107.0,1107.0,hcp,sandoz
-"Buchs, Pierre-Alain",Sion,CH,Pharmacie du Midi Place du Midi,,,,,,,600.0,,600.0,hcp,sandoz
-"Burckhardt, Peter",Lausanne,CH,Avenue d'Ouchy 31,,,,,,,2864.31,671.6,3535.91,hcp,sandoz
-"de Rougemont, Olivier",Zürich,CH,Rämistrasse 100,,,,,,361.3,,,361.3,hcp,sandoz
-"Donati, Filippo",Biel,CH,Memory Clinic Biel-Seeland Unionsgasse 14,,,,,,,806.48,,806.48,hcp,sandoz
-"Gafner, Fabienne",Bern,CH,Praxis Dr. Bärtschi Effingerstrasse 16,,,,,,,300.0,,300.0,hcp,sandoz
-"Günthard, Huldrych",Zürich,CH,Rämistrasse 100 Universitätsspit al Zürich,,,,,,,1000.0,,1000.0,hcp,sandoz
-"Herold, Markus",Luzern,CH,Maihofstrasse 1,,,,,,,2000.0,,2000.0,hcp,sandoz
-"Holsboer-Trachsl er, Edith",Basel,CH,Willhelm Klein Strasse 27,,,,,,,871.0,,871.0,hcp,sandoz
-"Keller, Nicola",Morbio Inferiore,CH,Via al Ponte 2,,,,,,,277.78,,277.78,hcp,sandoz
-"Krämer, Günter",Zürich,CH,Neurozentrum Bellevue Theaterstrasse 8,,,,,,,12500.0,,12500.0,hcp,sandoz
-"Meinen Zwicker, Anna",Wetzikon,CH,GZO Spital Wetzikon Spitalstrassse 66,,,,,,,300.0,,300.0,hcp,sandoz
-"Messerli, Franz",Bern,CH,Inselspital Universitäsklini k für Kardiologie Freiburgstrasse 4,,,,,,,4561.4,1191.5,5752.9,hcp,sandoz
-"Michele, Mattia",Paradiso,CH,Via San Salvatore 7,,,,,,,300.0,,300.0,hcp,sandoz
-"Milesi, Luca",Agno,CH,Viale Reina 1,,,,,,,300.0,,300.0,hcp,sandoz
-"Müller, Rüdiger",Krüsistrasse 8,CH,St. Gallen,,,,,,,1031.0,,1031.0,hcp,sandoz
-"Neumann, Ursula",Aarau,CH,Kantonsspital Aarau Ambulante Medizinische Onkologie,,,,,,,300.0,,300.0,hcp,sandoz
-"Pedrazzetti, Numa",Giubiasco,CH,c/o Farmacia Fenice Via Bellinzona 33,,,,,,,800.0,,800.0,hcp,sandoz
-"Prencipe, Matteo",Osogna,CH,In Gerascia da Sora 3,,,,,,,300.0,,300.0,hcp,sandoz
-"Schläpfer, Susanne",St. Gallen,CH,Tumor- und Brustzentrum ZeTuP St. Gallen Rorschacherstras se 150,,,,,,,300.0,,300.0,hcp,sandoz
-"Seifritz, Erich",Zürich,CH,Lenggstrasse 31,,,,,,,871.0,,871.0,hcp,sandoz
-"Triebel, Jan",Zürich,CH,Birmensdorferstr asse 497,,,,,,,1400.0,,1400.0,hcp,sandoz
+Matti Aapro,Genolier,CH,Route du Muids 3,,,,,,,12996.92,8094.04,21090.96,hcp,sandoz
+Christian Baumann,Zürich,CH,Klinik für Neurologie Universitätsspit al Zürich,,,,,,,1871.0,,1871.0,hcp,sandoz
+Pascal Bonnabry,Vessy,CH,Chemin de Chantefleur 101,,,,,,,1000.0,107.0,1107.0,hcp,sandoz
+Pierre-Alain Buchs,Sion,CH,Pharmacie du Midi Place du Midi,,,,,,,600.0,,600.0,hcp,sandoz
+Peter Burckhardt,Lausanne,CH,Avenue d'Ouchy 31,,,,,,,2864.31,671.6,3535.91,hcp,sandoz
+Olivier de Rougemont,Zürich,CH,Rämistrasse 100,,,,,,361.3,,,361.3,hcp,sandoz
+Filippo Donati,Biel,CH,Memory Clinic Biel-Seeland Unionsgasse 14,,,,,,,806.48,,806.48,hcp,sandoz
+Fabienne Gafner,Bern,CH,Praxis Dr. Bärtschi Effingerstrasse 16,,,,,,,300.0,,300.0,hcp,sandoz
+Huldrych Günthard,Zürich,CH,Rämistrasse 100 Universitätsspit al Zürich,,,,,,,1000.0,,1000.0,hcp,sandoz
+Markus Herold,Luzern,CH,Maihofstrasse 1,,,,,,,2000.0,,2000.0,hcp,sandoz
+Edith Holsboer-Trachsl er,Basel,CH,Willhelm Klein Strasse 27,,,,,,,871.0,,871.0,hcp,sandoz
+Nicola Keller,Morbio Inferiore,CH,Via al Ponte 2,,,,,,,277.78,,277.78,hcp,sandoz
+Günter Krämer,Zürich,CH,Neurozentrum Bellevue Theaterstrasse 8,,,,,,,12500.0,,12500.0,hcp,sandoz
+Anna Meinen Zwicker,Wetzikon,CH,GZO Spital Wetzikon Spitalstrassse 66,,,,,,,300.0,,300.0,hcp,sandoz
+Franz Messerli,Bern,CH,Inselspital Universitäsklini k für Kardiologie Freiburgstrasse 4,,,,,,,4561.4,1191.5,5752.9,hcp,sandoz
+Mattia Michele,Paradiso,CH,Via San Salvatore 7,,,,,,,300.0,,300.0,hcp,sandoz
+Luca Milesi,Agno,CH,Viale Reina 1,,,,,,,300.0,,300.0,hcp,sandoz
+Rüdiger Müller,Krüsistrasse 8,CH,St. Gallen,,,,,,,1031.0,,1031.0,hcp,sandoz
+Ursula Neumann,Aarau,CH,Kantonsspital Aarau Ambulante Medizinische Onkologie,,,,,,,300.0,,300.0,hcp,sandoz
+Numa Pedrazzetti,Giubiasco,CH,c/o Farmacia Fenice Via Bellinzona 33,,,,,,,800.0,,800.0,hcp,sandoz
+Matteo Prencipe,Osogna,CH,In Gerascia da Sora 3,,,,,,,300.0,,300.0,hcp,sandoz
+Susanne Schläpfer,St. Gallen,CH,Tumor- und Brustzentrum ZeTuP St. Gallen Rorschacherstras se 150,,,,,,,300.0,,300.0,hcp,sandoz
+Erich Seifritz,Zürich,CH,Lenggstrasse 31,,,,,,,871.0,,871.0,hcp,sandoz
+Jan Triebel,Zürich,CH,Birmensdorferstr asse 497,,,,,,,1400.0,,1400.0,hcp,sandoz
 Fondation Centre de Chimiothérapie Anti-Cancéreuse,Lausanne,CH,av. Vinet 19bis,,,1000.0,,,,,,1000.0,hco,sandoz
 aarReha,Schinznach-Bad,CH,Badstrasse 55 Postfach 61,,,,1000.0,,,,,1000.0,hco,sandoz
 Aglaea,Buchrain,CH,Hauptstrasse 12,,,,7000.0,,,,,7000.0,hco,sandoz

@@ -1,47 +1,47 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-Albrecht Michael,Basel,CH,"St.Claraspital,4058 Basel",,,,,210.05,1128.21,,,1338.26,hcp,orion
-Arrigo Mattia,St. Gallen,CH,"Universitäres Herzzentrum, Klinik für Kardiologie,Rämistrasse 100,8091 Zürich",,,,,,,1200.0,,1200.0,hcp,orion
-Balmer Martin,Aarau,CH,"Kantonsspital Aarau AG,Tellstr.25,5001 Aarau",,,,,,,400.0,,400.0,hcp,orion
-Barthelmy Marianne,Bern,CH,"Inselspital, Freiburgstr. 18, 3010 Bern",,,,,,,4800.0,,4800.0,hcp,orion
-Bendjelid Karim,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,490.11,641.46,,,1131.57,hcp,orion
-Bettex Dominique,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,,664.0,2350.0,,3014.0,hcp,orion
-Böker Blum Thomas,Lachen,CH,"Spital Lachen, Oberdorfstrasse 41, 8853 Lachen",,,,,,,2000.0,,2000.0,hcp,orion
-Bosshard Andreas,Luzern,CH,"Luzerner Kantonsspital Luzern,Spitalstrasse,6004 Luzern",,,,,210.05,656.6,,,866.65,hcp,orion
-Brunner Thomas,St.Gallen,CH,"Hirslandenklinik Stephanshorn,Brauerstr.95,9016 St.Gallen",,,,,225.82,1009.36,,,1235.18,hcp,orion
-Despotovic Dragan,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,490.11,800.65,,,1290.76,hcp,orion
-Ensner Rolf,Aarau,CH,"Kantonsspital Aarau AG,Tellstr.1,5001 Aarau",,,,,272.42,917.9,,,1190.32,hcp,orion
-Erdös Gabor,Bern,CH,"Inselspital, Freiburgstr. 18, 3010 Bern",,,,,,1109.55,,,1109.55,hcp,orion
-Fassl Jens,Basel,CH,"Universitätsspital Basel, Spitalstrasse 21, 4031 Basel",,,,,,267.46,,,267.46,hcp,orion
-Flammer Andreas,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,,1053.24,,,1053.24,hcp,orion
-Frey Christian,Aarau,CH,"Hirslandenklinik Aarau, Schänisweg,5000 Aarau",,,,,309.54,894.12,,,1203.66,hcp,orion
-Friolet Raymond,St. Gallen,CH,"Hôpital de Sion, Avenue du Grand-Champsec 80, 1950 Sion",,,,,309.54,895.65,,,1205.19,hcp,orion
-Hermann Margreth,Glarus,CH,"Kantonsspital Glarus, Burgstrasse 99, 8750 Glarus",,,,,,,300.0,,300.0,hcp,orion
-Hübner Tobias,Münsterlingen,CH,"Kantonsspital Münsterlingen,Postfach 100, 8596 Münsterlingen",,,,,225.82,726.95,,,952.77,hcp,orion
-Jeger Victor,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,309.54,181.91,,,491.45,hcp,orion
-Keli Barcelos Gleicy,Genève,CH,Hôpital Cantonal Universitaire de Genève,,,,,464.31,344.69,,,809.0,hcp,orion
-Kembi Guillaume Dr,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,464.31,239.5,,,703.81,hcp,orion
-Klarer Alexander D.,Langenthal,CH,"Spital Langenthal, Urbanstrasse 67, 4900 Langenthal",,,,,,509.54,,,509.54,hcp,orion
-Knöpfli Roland Urs,Bern,CH,"Hirslanden Bern AG, Klinik Beau-Site, Schänzlihalde 11, 3013 Bern",,,,,309.54,678.04,,,987.58,hcp,orion
-Köbler Christiane Fr.,Aarau,CH,"Kantonsspital Aarau AG,Tellstr.25,5001 Aarau",,,,,107.6,656.6,,,764.2,hcp,orion
-Krüger Bernard,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,210.05,1369.82,,,1579.86,hcp,orion
-Lederer Heidi,Basel,CH,"Universitätsspital Basel, Spitalstrasse 21, 4031 Basel",,,,,272.42,557.91,,,830.33,hcp,orion
-Maggiorini Marco,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,,,585.0,,585.0,hcp,orion
-Massarotto Paola,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,,,500.0,,500.0,hcp,orion
-Meyer Philippe,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,482.74,447.56,,,930.3,hcp,orion
-Mootoosamy Parmeseeven,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,482.74,536.0,,,1018.74,hcp,orion
-Moustapha Diakite,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,482.74,503.17,,,985.91,hcp,orion
-Osdowski Benny,St.Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstr.95, 9007 St. Gallen",,,,,,,500.0,,500.0,hcp,orion
-Osdowski Benny,Zürich,CH,"Adecco Human Resources SA, Uetlibergstr. 134, 8045 Zürich",,,,,,,600.0,,600.0,hcp,orion
-Pugin Jérôme,Genève,CH,"Hôpitaux Universitaires de Genève,Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,206.36,466.81,,,673.17,hcp,orion
-Renner Tobias,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,210.05,650.41,,,860.45,hcp,orion
-Rüdiger Alain,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,309.54,543.04,,,852.58,hcp,orion
-Rusca Marco,Sion,CH,"Hôpital de Sion, Avenue du Grand-Champsec 80, 1950 Sion",,,,,604.34,1157.14,,,1761.48,hcp,orion
-Steiger Peter,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,272.42,917.9,,,1190.32,hcp,orion
-Stephane Reverdin,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,482.74,677.37,,,1160.11,hcp,orion
-Straub Tobias,St.Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstr.95, 9007 St. Gallen",,,,,,,500.0,,500.0,hcp,orion
-Sumann Günther,Grabs,CH,"Spital Grabs,Spitalstrasse 44,9472 Grabs",,,,,210.05,395.02,,,605.06,hcp,orion
-Testuz Ariane,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,490.11,679.8,,,1169.9,hcp,orion
-Trachsel Christian,Uster,CH,"Spital Uster,Brunnenstr.42,8610 Uster",,,,,272.42,917.9,,,1190.32,hcp,orion
+Michael Albrecht,Basel,CH,"St.Claraspital,4058 Basel",,,,,210.05,1128.21,,,1338.26,hcp,orion
+Mattia Arrigo,St. Gallen,CH,"Universitäres Herzzentrum, Klinik für Kardiologie,Rämistrasse 100,8091 Zürich",,,,,,,1200.0,,1200.0,hcp,orion
+Martin Balmer,Aarau,CH,"Kantonsspital Aarau AG,Tellstr.25,5001 Aarau",,,,,,,400.0,,400.0,hcp,orion
+Marianne Barthelmy,Bern,CH,"Inselspital, Freiburgstr. 18, 3010 Bern",,,,,,,4800.0,,4800.0,hcp,orion
+Karim Bendjelid,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,490.11,641.46,,,1131.57,hcp,orion
+Dominique Bettex,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,,664.0,2350.0,,3014.0,hcp,orion
+Thomas Blum Böker,Lachen,CH,"Spital Lachen, Oberdorfstrasse 41, 8853 Lachen",,,,,,,2000.0,,2000.0,hcp,orion
+Andreas Bosshard,Luzern,CH,"Luzerner Kantonsspital Luzern,Spitalstrasse,6004 Luzern",,,,,210.05,656.6,,,866.65,hcp,orion
+Thomas Brunner,St.Gallen,CH,"Hirslandenklinik Stephanshorn,Brauerstr.95,9016 St.Gallen",,,,,225.82,1009.36,,,1235.18,hcp,orion
+Dragan Despotovic,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,490.11,800.65,,,1290.76,hcp,orion
+Rolf Ensner,Aarau,CH,"Kantonsspital Aarau AG,Tellstr.1,5001 Aarau",,,,,272.42,917.9,,,1190.32,hcp,orion
+Gabor Erdös,Bern,CH,"Inselspital, Freiburgstr. 18, 3010 Bern",,,,,,1109.55,,,1109.55,hcp,orion
+Jens Fassl,Basel,CH,"Universitätsspital Basel, Spitalstrasse 21, 4031 Basel",,,,,,267.46,,,267.46,hcp,orion
+Andreas Flammer,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,,1053.24,,,1053.24,hcp,orion
+Christian Frey,Aarau,CH,"Hirslandenklinik Aarau, Schänisweg,5000 Aarau",,,,,309.54,894.12,,,1203.66,hcp,orion
+Raymond Friolet,St. Gallen,CH,"Hôpital de Sion, Avenue du Grand-Champsec 80, 1950 Sion",,,,,309.54,895.65,,,1205.19,hcp,orion
+Margreth Hermann,Glarus,CH,"Kantonsspital Glarus, Burgstrasse 99, 8750 Glarus",,,,,,,300.0,,300.0,hcp,orion
+Tobias Hübner,Münsterlingen,CH,"Kantonsspital Münsterlingen,Postfach 100, 8596 Münsterlingen",,,,,225.82,726.95,,,952.77,hcp,orion
+Victor Jeger,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,309.54,181.91,,,491.45,hcp,orion
+Gleicy Barcelos Keli,Genève,CH,Hôpital Cantonal Universitaire de Genève,,,,,464.31,344.69,,,809.0,hcp,orion
+Guillaume Kembi,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,464.31,239.5,,,703.81,hcp,orion
+D. Alexander Klarer,Langenthal,CH,"Spital Langenthal, Urbanstrasse 67, 4900 Langenthal",,,,,,509.54,,,509.54,hcp,orion
+Urs Roland Knöpfli,Bern,CH,"Hirslanden Bern AG, Klinik Beau-Site, Schänzlihalde 11, 3013 Bern",,,,,309.54,678.04,,,987.58,hcp,orion
+Fr. Christiane Köbler,Aarau,CH,"Kantonsspital Aarau AG,Tellstr.25,5001 Aarau",,,,,107.6,656.6,,,764.2,hcp,orion
+Bernard Krüger,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,210.05,1369.82,,,1579.86,hcp,orion
+Heidi Lederer,Basel,CH,"Universitätsspital Basel, Spitalstrasse 21, 4031 Basel",,,,,272.42,557.91,,,830.33,hcp,orion
+Marco Maggiorini,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,,,585.0,,585.0,hcp,orion
+Paola Massarotto,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,,,500.0,,500.0,hcp,orion
+Philippe Meyer,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,482.74,447.56,,,930.3,hcp,orion
+Parmeseeven Mootoosamy,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,482.74,536.0,,,1018.74,hcp,orion
+Diakite Moustapha,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,482.74,503.17,,,985.91,hcp,orion
+Benny Osdowski,St.Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstr.95, 9007 St. Gallen",,,,,,,500.0,,500.0,hcp,orion
+Benny Osdowski,Zürich,CH,"Adecco Human Resources SA, Uetlibergstr. 134, 8045 Zürich",,,,,,,600.0,,600.0,hcp,orion
+Jérôme Pugin,Genève,CH,"Hôpitaux Universitaires de Genève,Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,206.36,466.81,,,673.17,hcp,orion
+Tobias Renner,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,210.05,650.41,,,860.45,hcp,orion
+Alain Rüdiger,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,309.54,543.04,,,852.58,hcp,orion
+Marco Rusca,Sion,CH,"Hôpital de Sion, Avenue du Grand-Champsec 80, 1950 Sion",,,,,604.34,1157.14,,,1761.48,hcp,orion
+Peter Steiger,Zürich,CH,"Universitätsspital Zürich,Rämistr.100,8091 Zürich",,,,,272.42,917.9,,,1190.32,hcp,orion
+Reverdin Stephane,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,482.74,677.37,,,1160.11,hcp,orion
+Tobias Straub,St.Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstr.95, 9007 St. Gallen",,,,,,,500.0,,500.0,hcp,orion
+Günther Sumann,Grabs,CH,"Spital Grabs,Spitalstrasse 44,9472 Grabs",,,,,210.05,395.02,,,605.06,hcp,orion
+Ariane Testuz,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4,1205 Genève",,,,,490.11,679.8,,,1169.9,hcp,orion
+Christian Trachsel,Uster,CH,"Spital Uster,Brunnenstr.42,8610 Uster",,,,,272.42,917.9,,,1190.32,hcp,orion
 AMACTI,Lugano,CH,"c/o Cardiocentro Ticino, Via Tesserete 48, 6900 Lugano",,,,3500.0,,,,,3500.0,hco,orion
 BBS Congress GmbH,Bern,CH,"Rabbentalstrasse 83,3013 Bern",,,,5796.0,,,,,5796.0,hco,orion
 c/o Cardiocentro Lugano,Lugano,CH,"Via Tesserete 48, 6900 Lugano",,,,3000.0,,,,,3000.0,hco,orion
