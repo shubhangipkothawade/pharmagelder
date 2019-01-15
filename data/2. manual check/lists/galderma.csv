@@ -1,17 +1,17 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
 Lapointe Anne-Karine,Lausanne,CH,Avenue du Théâtre 7,,7601000454270,,,,986.65,,,986.65,hcp,galderma
-Petra Wegerich Becker,Meilen,CH,Dorfstrasse 94,,7601000715333,,,,,1260.5,,1260.5,hcp,galderma
+Petra Wegerich-Becker,Meilen,CH,Dorfstrasse 94,,7601000715333,,,,,1260.5,,1260.5,hcp,galderma
 Laurent Berger,Clarens,CH,Clinique La Prairie Rue du Lac 142,,7601000834850,,,,,1400.7,,1400.7,hcp,galderma
-Wagner Birgit Christina,Olten,CH,- Louis Giroud-Strasse 26,,7601000876706,,,,853.05,1266.45,,2119.5,hcp,galderma
-Roshanak Tabrizi - Daneshzadeh,Zürich,CH,Gerechtigkeitsgasse 23,,7601000765055,,,,,1559.55,,1559.55,hcp,galderma
+Christina Birgit Wagner,Olten,CH,- Louis Giroud-Strasse 26,,7601000876706,,,,853.05,1266.45,,2119.5,hcp,galderma
+Roshanak Daneshzadeh -Tabrizi,Zürich,CH,Gerechtigkeitsgasse 23,,7601000765055,,,,,1559.55,,1559.55,hcp,galderma
 Thierry Dauvillaire,Geneve,CH,IMADERM SA Route de Florissant 1,,7601001376533,,,,,2000.0,,2000.0,hcp,galderma
-Philipp Daniel Espinoza,Genève,CH,Rue Emile Yung 1,,7601000784698,,,,,3162.55,,3162.55,hcp,galderma
+Daniel Philipp Espinoza,Genève,CH,Rue Emile Yung 1,,7601000784698,,,,,3162.55,,3162.55,hcp,galderma
 Simone Eggli,Bern,CH,Centerclinic für Plastische Chirurgie Hirschengraben 7,,7601000712080,,,,,1600.7,,1600.7,hcp,galderma
-V Emmenegger,Lausanne,CH,- Avenue de la Gare 2,,7601000012852,,,,,1400.7,,1400.7,hcp,galderma
+V. Emmenegger,Lausanne,CH,- Avenue de la Gare 2,,7601000012852,,,,,1400.7,,1400.7,hcp,galderma
 Valérie Enderlin-Krausz,Zurich,CH,- Feldeggstrasse 69,,7601000712745,,,165.0,357.5,1240.05,,1762.55,hcp,galderma
-Lukas Michael Geiges,Kloten,CH,Marktgasse 3,,7601000259066,,,,,1000.0,,1000.0,hcp,galderma
+Michael Lukas Geiges,Kloten,CH,Marktgasse 3,,7601000259066,,,,,1000.0,,1000.0,hcp,galderma
 Heini Grob,Reinach BL,CH,Praxis Reinacherhof Im Reinacherhof 53,,7601000134943,,,,650.05,,,650.05,hcp,galderma
-Katharina Kristine Heidemeyer,Bern,CH,"Inselspital Bern, Insel Gruppe AG Freiburgstrasse 18",,7601000916600,,,165.0,357.5,,,522.5,hcp,galderma
+Kristine Katharina Heidemeyer,Bern,CH,"Inselspital Bern, Insel Gruppe AG Freiburgstrasse 18",,7601000916600,,,165.0,357.5,,,522.5,hcp,galderma
 Günter Hofbauer,Zürich,CH,Dermatologische Klinik USZ Dermatologische KlinikUniversitätsspit al ZürichGloriastrasse 31,,7601000194640,,,,,3504.17,271.21,3775.38,hcp,galderma
 Michael Huger,Chur,CH,Quaderstrasse 2,,7601000887603,,,,737.25,,,737.25,hcp,galderma
 Robert Hunger,Bern,CH,"Dermatologische Klinik Inselspital Inselspital Bern, Insel Gruppe AG Freiburgstrasse 18",,7601000704108,,,,865.05,1200.0,,2065.05,hcp,galderma
@@ -19,7 +19,7 @@ Laurence Imhof,Zurich,CH,University Hospital Zurich Gloriastrasse 31,,IMHOF_Laur
 Khelifa Ilhem,Genève,CH,Cours de Rive 2,,7601000974822,,,,740.95,,,740.95,hcp,galderma
 Ahmad Jalili,Obbürgen,CH,"FMH Dermatology and Venerology ""Medical Center"" in the Waldhotel, Health & Medical Excellence,Bürgenst ock Hotels AG Guarantor's stick 30",,7601003704662,,,,777.25,,,777.25,hcp,galderma
 Lübbe Jann,Nyon,CH,Cabinet Pro Cutis Sàrl,,7601000223135,,,,833.95,,,833.95,hcp,galderma
-Skalsky Both- Jeannine,Stäfa,CH,Bahnhofstrasse 22,,7601000710352,,,,,500.0,,500.0,hcp,galderma
+Jeannine Both-Skalsky,Stäfa,CH,Bahnhofstrasse 22,,7601000710352,,,,,500.0,,500.0,hcp,galderma
 Florence Jeker,Reinach BL,CH,Praxis Reinacherhof Im Reinacherhof 53,,7601003797329,,,,637.6,,,637.6,hcp,galderma
 Daniel Knutti,Biel,CH,Aesthetische Chirurgie Biel AG Bahnhofstrasse 39,,7601000075437,,,,,1283.9,,1283.9,hcp,galderma
 Alexandra Krautheim,Basel,CH,Spalenpraxis Missionsstrasse 28,,7601000361653,,,,751.85,,,751.85,hcp,galderma
@@ -33,14 +33,14 @@ Nägeli Miriam,Zürich,CH,Gloriastrasse 31,,7601000858757,,,,1089.75,,,1089.75,h
 Marie-Eug Nichanian-Broglia,Vevey,CH,Rue des Moulins 4,,7601003454390,,,,,1400.7,,1400.7,hcp,galderma
 Salvador Nkondjo,La Chaux-de-Fonds,CH,Groupe m?dical NEUMED Avenue L?opold- Robert 60,,7601003448214,,,,743.7,,,743.7,hcp,galderma
 Sophie Nordback,Lutry,CH,Grand-Rue 37,,7601000731173,,,,,1400.7,,1400.7,hcp,galderma
-E. Michel Pfulg,Territet-Veytaux,CH,Avenue de Collogne 43,,7601000057334,,,,,2800.0,,2800.0,hcp,galderma
-Jole Maria Perin-Minisini,Geneva,CH,Rue Charles-Galland 15,,7601000027634,,,,,3139.16,,3139.16,hcp,galderma
+Michel E. Pfulg,Territet-Veytaux,CH,Avenue de Collogne 43,,7601000057334,,,,,2800.0,,2800.0,hcp,galderma
+Maria-Jole Perin-Minisini,Geneva,CH,Rue Charles-Galland 15,,7601000027634,,,,,3139.16,,3139.16,hcp,galderma
 Sillard Philippe,Geneva,CH,Rue de la Terrassi,,7601000730046,,,,,1400.7,,1400.7,hcp,galderma
 Frederic Poffet,Bulle,CH,Rue de l'Europe 12,,7601000520593,,,,771.15,,,771.15,hcp,galderma
-Claudia Bovier Ricci,Lutry,CH,Grand-Rue 37,,7601000010957,,,,,3400.7,,3400.7,hcp,galderma
+Claudia Ricci Bovier ,Lutry,CH,Grand-Rue 37,,7601000010957,,,,,3400.7,,3400.7,hcp,galderma
 Claudine Rigoulot,Territet-Veytaux,CH,LACLINIC Avenue de Collonge 43,,7601003318975,,,,,1176.0,,1176.0,hcp,galderma
 Mouna Skaria,Vevey,CH,Rue de Lausanne 15,,7601000669216,,,,,1269.25,,1269.25,hcp,galderma
-Adrian Marco Stieger,Bern,CH,"Dermatologische Klinik Inselspital Inselspital Bern, Insel Gruppe AG Freiburgstrasse 18",,7601000865397,,,,,1000.0,,1000.0,hcp,galderma
+Marco Adrian Stieger,Bern,CH,"Dermatologische Klinik Inselspital Inselspital Bern, Insel Gruppe AG Freiburgstrasse 18",,7601000865397,,,,,1000.0,,1000.0,hcp,galderma
 Christian Tschager,Zuchwil,CH,Gemeinschaftspraxis am Kreisel Hauptstrasse 60,,7601000922984,,,,522.0,,,522.0,hcp,galderma
 Nicholas Waughlock,Zurich,CH,Klausstrasse 10,,7601003523348,,,,,1242.7,,1242.7,hcp,galderma
 Volker Wedler,Kreuzlingen,CH,NAN,,7601000404282,,,,,8311.45,,8311.45,hcp,galderma
@@ -48,7 +48,7 @@ Ingo Wollenschläger,Grenchen,CH,Artemedic AG Kirchstrasse 10,,7601003391091,,,,
 Myriam Wyss,Meilen,CH,Dorfstrasse 94,,7601000224293,,,,,1230.85,,1230.85,hcp,galderma
 Thomas Würsch,Zürich,CH,Bahnhofstrasse 14,,7601000199874,,,,,1400.7,,1400.7,hcp,galderma
 Daniel Zuder,St. Gallen,CH,Sankt Leonhard- Strasse 20,,7601000676986,,,,705.95,,,705.95,hcp,galderma
-Robert Kruijssen der van,Oberwil b. Zug,CH,Artherstrasse 153,,7601000347664,,,,,4000.0,,4000.0,hcp,galderma
+Robert van der Kruijssen,Oberwil b. Zug,CH,Artherstrasse 153,,7601000347664,,,,,4000.0,,4000.0,hcp,galderma
 ADEL Association D'Esculape En Lavaux,Lutry,CH,Rue Verdaire,,ADEL_Association_D- Esculape_En_Lavaux,,2000.0,,,,,2000.0,hco,galderma
 Associazione Medici Internisti,Paradiso,CH,Via G. Guisan 10,,Associazione_Medici_I nternisti,,,,,1000.0,,1000.0,hco,galderma
 Associazione Pediatri Svizzera Italiana / Centro Pediatrico del Mendrisiotto,Mendrisio,CH,Via Beroldingen 26,,Associazione_Pediatri _Svizzera_Italiana_Ce ntro_Pediatrico_del_M endrisiotto,,1500.0,,,,,1500.0,hco,galderma
