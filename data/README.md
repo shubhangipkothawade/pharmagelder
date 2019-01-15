@@ -56,7 +56,7 @@ Entfernt Leerzeichen in allen Zahlenfeldern
 Ersetzt Kommas mit Punkt in allen Zahlenfeldern
 
 **replace_in_number**  
-`df_export = replace_in_number(df_export, 'X', 'Y)`  
+`df_export = replace_in_number(df_export, 'X', 'Y')`  
 Replacefunction in number fields  
 
 **remove_dots**  
@@ -91,6 +91,12 @@ Default: Ersten Zeilen hcp, danach hcp. Falls die ersten hcp sein sollen, mit Pa
 `add_type_by_index(df_export, 220, [type_before = 'hcp', type_after = 'hco'])`  
 Fügt allen Zellen mit Index kleiner als 220 den Typ "hcp" hinzu. Den anderen "hco"
 
+**Type by Textstring**  
+```python
+#Add Type
+index_hco = df_export[df_export['name'].str.contains("INDIVIDUAL NAMED DISCLOSURE", na=False)].index[0]
+df_export['type'] = np.where(df_export.index < index_hco, 'hcp', 'hco')
+```  
 ### Anderes
 
 **sum_amounts**  
@@ -136,14 +142,6 @@ import pikepdf
 pdf = pikepdf.open('pkk-erfassungmepha-pharma-ag20180427_eng_final.pdf')
 pdf.save('unlocked.pdf')
 ```   
-
-**Type by Textstring**  
-```python
-#Add Type
-index_hco = df_export[df_export['name'].str.contains("INDIVIDUAL NAMED DISCLOSURE", na=False)].index[1]
-df_export['type'] = np.where(df_export.index < index_hco, 'hcp', 'hco')
-add_warning(manually=True)
-```  
 
 **Remove Name in Address**  
 Sometimes you see the company name again in the address field. Like:  
