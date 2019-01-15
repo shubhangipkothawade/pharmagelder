@@ -1,20 +1,20 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
 Cyrielle Alves,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,513.3,339.7,0.0,0.0,853.0,hcp,astellas
 Marie-Laure Amram,Genève,CH,Hôpitaux Universitaires Genève Rue Gabrielle Perret-Gentil 4,,,,,286.3,873.7,0.0,0.0,1159.9,hcp,astellas
-Che Ngwa Azinwi,Bellinzona,CH,Ospedale Bellinzona e Valli EOC Via Ospedale,,,,,0.0,0.0,2750.0,162.0,2912.0,hcp,astellas
-K  Christa Baumann,Bern,CH,Bremgartenstrasse 117,,,,,557.5,1340.9,0.0,0.0,1898.4,hcp,astellas
+Ngwa Che Azinwi,Bellinzona,CH,Ospedale Bellinzona e Valli EOC Via Ospedale,,,,,0.0,0.0,2750.0,162.0,2912.0,hcp,astellas
+Christa K. Baumann,Bern,CH,Bremgartenstrasse 117,,,,,557.5,1340.9,0.0,0.0,1898.4,hcp,astellas
 Josef Beatrice,Zürich,CH,Stadtspital Waid Zürich Tièchestrasse 99,,,,,0.0,0.0,2000.0,360.0,2360.0,hcp,astellas
 Taoufik Bekri,Meyrin,CH,Avenue J.-D.-Maillard 11,,,,,618.7,828.7,0.0,0.0,1447.3,hcp,astellas
 Christian Benden,Zürich,CH,Universitätsspital Zürich Rämistrasse 100,,,,,0.0,0.0,1200.0,0.0,1200.0,hcp,astellas
 Jörg Beyer,Zürich,CH,UniversitätsSpital Zürich Rämistrasse 100,,,,,0.0,0.0,1250.0,0.0,1250.0,hcp,astellas
 Luc Biedermann,Zürich,CH,UniversitätsSpital Zürich Rämistrasse 100,,,,,0.0,0.0,1440.0,0.0,1440.0,hcp,astellas
 Françoise-Isabelle Binet,St. Gallen,CH,Kantonsspital St. Gallen Rorschacher Strasse 95,,,,,0.0,0.0,0.0,757.2,757.2,hcp,astellas
-Andreas Jan Birzele,Chur,CH,Loëstrasse 170,,,,,0.0,0.0,750.0,0.0,750.0,hcp,astellas
+Jan Andreas Birzele,Chur,CH,Loëstrasse 170,,,,,0.0,0.0,750.0,0.0,750.0,hcp,astellas
 Marco Bonani,Zürich,CH,Universitätsspital Zürich Rämistrasse 100,,,,,0.0,0.0,1200.0,90.0,1290.0,hcp,astellas
-Maximilian Markus Borner,Bern,CH,Engeriedspital - Lindenhof AG Riedweg 15,,,,,0.0,0.0,1750.0,0.0,1750.0,hcp,astellas
-Marie Jean Albéric Bressoud,Lausanne,CH,Hirslanden SA Clinique Bois-Cerf Avenue d'Ouchy 31,,,,,380.0,1877.6,0.0,221.3,2478.9,hcp,astellas
+Markus Maximilian Borner,Bern,CH,Engeriedspital - Lindenhof AG Riedweg 15,,,,,0.0,0.0,1750.0,0.0,1750.0,hcp,astellas
+Albéric Marie Jean Bressoud,Lausanne,CH,Hirslanden SA Clinique Bois-Cerf Avenue d'Ouchy 31,,,,,380.0,1877.6,0.0,221.3,2478.9,hcp,astellas
 Irene Burger,Zürich,CH,UniversitätsSpital Zürich Rämistrasse 100,,,,,0.0,0.0,1200.0,0.0,1200.0,hcp,astellas
-Vaness Fontanella Châtelain,Vevey,CH,Hôpital Riviera Chablais Avenue de la Prairie 3,,,,,286.3,1022.4,0.0,0.0,1308.7,hcp,astellas
+Vanessa Châtelain Fontanella,Vevey,CH,Hôpital Riviera Chablais Avenue de la Prairie 3,,,,,286.3,1022.4,0.0,0.0,1308.7,hcp,astellas
 Alexandre Christinat,Lugano,CH,Studio medico di gruppo Via Fogazzaro 3,,,,,0.0,0.0,750.0,0.0,750.0,hcp,astellas
 Nina Combaz,Sion,CH,Cabinet de gynécologie  Rue De Pré-fleuri 19B,,,,,245.3,570.6,0.0,0.0,816.0,hcp,astellas
 Alessandra Franzetti,Lugano,CH,Clinica Luganese Moncucco SA Via Moncucco 10,,,,,0.0,0.0,750.0,0.0,750.0,hcp,astellas
@@ -47,22 +47,22 @@ Enrico Roggero,Bellinzona,CH,Studio Dr. Roggero Enrico Viale Portone 5,,,,,286.8
 Karl Rohrmann,Frauenfeld,CH,Kantonsspital Frauenfeld Pfaffenholzstrasse 4,,,,,0.0,0.0,750.0,0.0,750.0,hcp,astellas
 René Rottenberg,Laufen,CH,Praxis Dr. René Rottenberg,,,,,437.0,667.8,0.0,0.0,1104.8,hcp,astellas
 Marcus Schuermann,Richterswil,CH,Paracelsus-Spital Richterswil Bergstrasse 16,,,,,557.5,1017.0,0.0,0.0,1574.5,hcp,astellas
-Vinzent Leander Schürch,Thun,CH,Spital Thun - STS AG Krankenhausstrasse 12,,,,,620.1,948.6,1500.0,0.0,3068.7,hcp,astellas
+Leander Vinzent Schürch,Thun,CH,Spital Thun - STS AG Krankenhausstrasse 12,,,,,620.1,948.6,1500.0,0.0,3068.7,hcp,astellas
 Daniel Seiler,Zürich,CH,Zentrum für Urologie Witellikerstrasse 40,,,,,766.2,990.4,2950.0,0.0,4706.6,hcp,astellas
 Osama Shahin,Basel,CH,Praxis Dr. Shahin Osama Eichenstrasse 31,,,,,500.0,1401.3,2500.0,133.3,4534.6,hcp,astellas
 Robert Steffen,Laufen,CH,Praxis Dr. Robert Steffen Bahnhofstrasse 4,,,,,437.0,654.3,0.0,0.0,1091.3,hcp,astellas
 Mauro Sulmoni,St. Gallen,CH,Urologie Praxis im Zentrum AG Poststrasse 25,,,,,0.0,0.0,750.0,0.0,750.0,hcp,astellas
 Tullio Sulser,Zürich,CH,UniversitätsSpital Zürich Rämistrasse 100,,,,,620.1,731.6,0.0,0.0,1351.7,hcp,astellas
 Jean Villard,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,700.0,1440.2,0.0,194.6,2334.8,hcp,astellas
-Friedrich Toggenburg von,Buchs SG,CH,Urologie Toggenburg Technikumstrasse 6,,,,,0.0,0.0,750.0,0.0,750.0,hcp,astellas
+Friedrich von Toggenburg,Buchs SG,CH,Urologie Toggenburg Technikumstrasse 6,,,,,0.0,0.0,750.0,0.0,750.0,hcp,astellas
 Sébastien Tran,Genève,CH,Avenue de la Roseraie 53,,,,,0.0,1670.0,750.0,0.0,2420.0,hcp,astellas
 Thomas Warzinek,Sargans,CH,Praxis Dr. Warzinek Thomas Bahnhofstrasse 6,,,,,0.0,0.0,750.0,0.0,750.0,hcp,astellas
 Tobias Wehrhahn,Aarau,CH,Tellstrasse 25,,,,,0.0,0.0,1000.0,0.0,1000.0,hcp,astellas
 Marcus Weitz,Zürich,CH,Kinderspital Zürich Steinwiesstrasse 75,,,,,0.0,0.0,1200.0,109.1,1309.1,hcp,astellas
-Johannes Peter Wild,Zürich,CH,Universitätsspital Zürich Rämistrasse 100,,,,,0.0,0.0,1200.0,80.2,1280.2,hcp,astellas
+Peter Johannes Wild,Zürich,CH,Universitätsspital Zürich Rämistrasse 100,,,,,0.0,0.0,1200.0,80.2,1280.2,hcp,astellas
 Christiane Wirz,Aigle,CH,Cabinet Dr. Wirz Chemin des Dents-du-Midi 15,,,,,437.0,635.8,0.0,0.0,1072.8,hcp,astellas
 Andreas Wolf,Rheinfelden,CH,Urologie Rheinfelden Kaiserstrasse 7,,,,,0.0,0.0,500.0,0.0,500.0,hcp,astellas
-Peter Rudolf Wüthrich,Zürich,CH,UniversitätsSpital Zürich Rämistrasse 100,,,,,0.0,0.0,3150.0,90.0,3240.0,hcp,astellas
+Rudolf Peter Wüthrich,Zürich,CH,UniversitätsSpital Zürich Rämistrasse 100,,,,,0.0,0.0,3150.0,90.0,3240.0,hcp,astellas
 Francesco Zappa,Lugano,CH,Clinica Luganese Moncucco SA Via Moncucco 10,,,,,0.0,0.0,750.0,0.0,750.0,hcp,astellas
 Yassine Zarkik,Martigny,CH,Avenue De La Fusion 27,,,,,766.2,806.4,0.0,0.0,1572.5,hcp,astellas
 Maria Ziembrowski,Frauenfeld,CH,Praxis Dr. Ziembrowski Maria Kurzfeldstrasse 1,,,,,620.1,955.3,1250.0,0.0,2825.4,hcp,astellas
