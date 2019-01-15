@@ -1,0 +1,98 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+A. Falbriard,Genève,CH,Rue du Nant 4-6,1207,,,,,,500.0,,500.0,hcp,daiichi
+A. Hassanzadah,Vevey,CH,Avenue du Général-Guisan 26,1800,,,,,,500.0,,500.0,hcp,daiichi
+B. Mosimann,La Neuveville,CH,Route de Neuchâtel 3,2520,,,,,,500.0,,500.0,hcp,daiichi
+F. Acquistapace,Manno,CH,Via Cantonale 35d,6928,,,,,,1200.0,240.0,1440.0,hcp,daiichi
+A. Afridi,Bern,CH,Parketerrasse 10,3012,,,,,,350.0,,350.0,hcp,daiichi
+A. Garachemani,Bern,CH,Bremgartenstrasse 119,3012,,,,,,1400.0,,1400.0,hcp,daiichi
+B. Abbühl,Bern,CH,Münzgraben 4,3011,,,,,,350.0,,350.0,hcp,daiichi
+B. Blum,Biet'Bienne,CH,Neumarktstrasse 27,2503,,,,,,500.0,,500.0,hcp,daiichi
+B. Schnetzler,Nyon,CH,Place Bel-Air 6,1260,,,,,,1000.0,,1000.0,hcp,daiichi
+B. Suter,Bern,CH,Spitalackerstrasse 59,3013,,,,,,580.0,,580.0,hcp,daiichi
+C. Schild,Gümligen,CH,Worbstrasse 312,3073,,,,,,3180.0,,3180.0,hcp,daiichi
+C. Schmidt,Aarau,CH,Küttigerstrasse 42,5000,,,,,330.0,1750.0,,2080.0,hcp,daiichi
+D. Fournet,Meyrin,CH,Avenue J.-D.-Mällard 11,1217,,,,560.0,770.0,,,1330.0,hcp,daiichi
+D. Iliakis,Uznach,CH,Gasters trasse 25,8730,,,,,,1200.0,,1200.0,hcp,daiichi
+D. Nobel,WilSG,CH,Fürstenlandstrasse 32,9500,,,,,,1200.0,,1200.0,hcp,daiichi
+D. Rüegg,Bern,CH,Bottigenstrasse 6,3018,,,,,,580.0,,580.0,hcp,daiichi
+H. Pilz,Kandersteg,CH,Äussere Dorfstrasse 39,3718,,,,,,500.0,,500.0,hcp,daiichi
+H. Schläpfer,Biel'Bienne,CH,Blumenrän 94,2503,,,,,,1500.0,,1500.0,hcp,daiichi
+J. Brazy,Carouge GE,CH,Avenue Vibert 18,1227,,,,,,500.0,,500.0,hcp,daiichi
+J. Guzman,Neuchâtel,CH,Rue du Musée 9,2000,,,,,,500.0,,500.0,hcp,daiichi
+K. Tzvetanov,Sierre,CH,Avenue du Général-Guisan 12,3960,,,,,,500.0,,500.0,hcp,daiichi
+L. Find,Petit-Lancy,CH,Chemin de la Caroline 2,1213,,,,,,500.0,,500.0,hcp,daiichi
+M. Kummer,Rheinfelden,CH,Habich-Dietschy-Strasse 18,4310,,,,,,1500.0,,1500.0,hcp,daiichi
+M. Nagler,Bern,CH,Freiburgstrasse 18,3010,,,,,,3800.0,,3800.0,hcp,daiichi
+M. Namdar,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1200.0,,1200.0,hcp,daiichi
+M. Portier,Chêne-Bourg,CH,Rue de Genève 28,1225,,,,,,500.0,,500.0,hcp,daiichi
+M. Schär,Muri b. Bern,CH,Mettlengässli 2,3074,,,,,,1400.0,,1400.0,hcp,daiichi
+P. Egloff,Biel'Bienne,CH,Hans-Hugi-Strasse 10,2502,,,,,,500.0,,500.0,hcp,daiichi
+P. Kammer,Münchenbuchsee,CH,Berns trasse 4,3053,,,,,,500.0,,500.0,hcp,daiichi
+S. Garoni,Genève,CH,Rue du Conseil Général 11,1205,,,,,,500.0,,500.0,hcp,daiichi
+S. Galli,Hölstein,CH,Frenkenstrasse 19,4434,,,,,,500.0,,500.0,hcp,daiichi
+S. Zaza,Meyrin,CH,Avenue J.-D.-Mällard Ibis,1217,,,,560.0,810.0,,,1370.0,hcp,daiichi
+T. Simic,Solothurn,CH,Bielstrasse 109,4500,,,,,,580.0,,580.0,hcp,daiichi
+U. Kaiser,Engelburg,CH,Breitschachenstrasse 10a,9032,,,,,,1200.0,,1200.0,hcp,daiichi
+U. Schafroth,Mùnsi ngen,CH,Bernstrasse 3,3110,,,,,,350.0,,350.0,hcp,daiichi
+Y. Pfister,Lyss,CH,Busswilstrasse 6,3250,,,,,,350.0,,350.0,hcp,daiichi
+J. Durand,Genève,CH,Rue De Carouge 24,1205,,,,,,500.0,,500.0,hcp,daiichi
+R. Louma,Bern,CH,Südbahnhofstrasse 2,3007,,,,,,350.0,,350.0,hcp,daiichi
+S. Rudolf,Port,CH,Hauptstrasse 9,2562,,,,,,500.0,,500.0,hcp,daiichi
+S. Tursun,Lyss,CH,Marktplatz 9a,3250,,,,,,500.0,,500.0,hcp,daiichi
+H. Sarikaya,Reinach BL,CH,Langenhagweg 12,4153,,,,,,500.0,,500.0,hcp,daiichi
+J. Steffel,Zürich,CH,Rämistrasse 100,8091,,,,,900.0,25250.0,250.0,26400.0,hcp,daiichi
+J. Sztajzel,Carouge GE,CH,Clos de la Fonderie 1,1227,,,,,,1200.0,170.0,1370.0,hcp,daiichi
+L. Asmis,Zurich,CH,Seefeldstrasse 224,8008,,,,,210.0,2400.0,,2610.0,hcp,daiichi
+M. Schindewolf,Bern,CH,Freiburgstrasse 18,3010,,,,,50.0,3600.0,,3650.0,hcp,daiichi
+P. Châtelain,Genève,CH,Rue Emile-Yung 4,1205,,,,,,3900.0,150.0,4050.0,hcp,daiichi
+B. Amann-Vesti,Zürich,CH,Seestrasse 220,8027,,,,,,1500.0,,1500.0,hcp,daiichi
+B. Meier,Bern,CH,Freiburgstrasse 18,3010,,,,,,1200.0,,1200.0,hcp,daiichi
+D. Shah,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1200.0,,1200.0,hcp,daiichi
+D. Tsakiris,Basel,CH,Petersgraben 4,4031,,,,,,1200.0,,1200.0,hcp,daiichi
+F. Mach,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,4000.0,,4000.0,hcp,daiichi
+M. Weller,Zürich,CH,Frauenkliniks trasse 26,8091,,,,,,600.0,720.0,1320.0,hcp,daiichi
+Ärzteverein Werdenberg^Sarganserland,Bad Raqaz,CH,Hans Albrecht-Strasse 1,7310,,,3700.0,,,,,3700.0,hco,daiichi
+praxis Kandersteg,Kandersteq,CH,Äussere Dorfstrasse 39,3718,,,960.0,,,,,960.0,hco,daiichi
+Cabinet Find,Petit-Lancy,CH,Chemin de la Caroline 2,1213,,,2000.0,,,,,2000.0,hco,daiichi
+Cabinet Noble,Genève,CH,Avenue Euqène-Pittard 3a,1206,,,1000.0,,,,,1000.0,hco,daiichi
+Cabinet médical Ayer,Marly,CH,Impasse du Nouveau Marché 3,1723,,,600.0,,,,,600.0,hco,daiichi
+Cardiologie et Gestion du stress SA,Martiqny,CH,Avenue De La Gare 8,1920,,,,,,500.0,,500.0,hco,daiichi
+CHUV Centre hospitalier universitaire vaudois,Lausanne,CH,Champ de TAir/Rue du Bugncn 21,1011,,,27000.0,,,,,27000.0,hco,daiichi
+Clinique des Granqettes SA,Chêne-Bouqeries,CH,Chemin des Granqettes 7,1224,,,1700.0,,,,,1700.0,hco,daiichi
+Clinique Le Noirmont,Le Noirmont,CH,Chemin de Roc-Montés 20,2340,,,1000.0,,,,,1000.0,hco,daiichi
+ES MO Head office,Viqanello-Luqano,CH,Via Luiqi Taddei 4,6962,,195980.0,,,,,,195980.0,hco,daiichi
+European Stroke Organisation,Basel,CH,Klinqelberqstrasse 23,4031,,,35000.0,,,,,35000.0,hco,daiichi
+Forum für medizinische Fortbildunq (FomF),Zug,CH,Ahornstrasse 2,6300,,,30000.0,,,,,30000.0,hco,daiichi
+HerzGefäss Stift ung,Zürich,CH,Seestrasse 220,8002,,,12500.0,,,,,12500.0,hco,daiichi
+HerzZentrum Hirslanden Zentralschweiz,Luzern,CH,St. Annaspasse 32,6006,,,12500.0,,,,,12500.0,hco,daiichi
+Hôpital Riviera Chabläs VD-VS,Vevey,CH,Boulevard Paderewski 3,1800,,,1500.0,,,,,1500.0,hco,daiichi
+Hôpitaux Universitäres Genève,Genève 11,CH,Rue Gabrielle Perret-Gentil 4,1205,,,13750.0,590.0,890.0,1200.0,,16430.0,hco,daiichi
+IHAM&CC Luzern,Luzern,CH,Schwanenplatz 7,6004,,,,10000.0,,,,10000.0,hco,daiichi
+Insel Gruppe AG,Bern,CH,Freiburqstrasse 8,3010,,10000.0,,29400.0,,,,39400.0,hco,daiichi
+Kantonsspital Aarau AG,Aarau,CH,Teilstrasse,5000,,,,3000.0,,,,3000.0,hco,daiichi
+Kantonsspital Baden,Baden,CH,Im Erqel 1,5404,,,,1000.0,,,,1000.0,hco,daiichi
+Kantonsspital FrauenfekJ,FrauenfekJ,CH,Pfaffenholzstrasse 4,8501,,,,1000.0,,,,1000.0,hco,daiichi
+Kantonsspital Graubünden,Chur,CH,Loëstrasse 170,7000,,,,4000.0,,1500.0,,5500.0,hco,daiichi
+Kantonsspital Münsterlingen,Münsterlinqen,CH,Spitalcampus 1,8596,,,,1000.0,,,,1000.0,hco,daiichi
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95 / Haus 20,9007,,,,11000.0,,,,11000.0,hco,daiichi
+KGP,Bern,CH,Schänzlistrasse 33,3013,,,,11000.0,,,,11000.0,hco,daiichi
+Kolleqium für Hausarztmedizin,Fribourq,CH,Rue de l'Hôpital 15,1701,,,,2640.0,,,,2640.0,hco,daiichi
+Luzerner Kantonsspital,Luzern 2,CH,Spitalstrasse 31,6000,,,,30100.0,,1200.0,,31300.0,hco,daiichi
+MedArt Basel,Basel,CH,Klinqelberqstrasse 23,4031,,,,21000.0,,,,21000.0,hco,daiichi
+Médecins de famille Genève,Genève,CH,Rue du Conseil-Général 11,1205,,,,2000.0,,,,2000.0,hco,daiichi
+Notfall Akademie Schweiz AG,Einsiedeln,CH,Kornhausstrasse 60,8840,,,,1440.0,,,,1440.0,hco,daiichi
+Ospedale Bellinzona e Valli EOC,Bellinzona,CH,Via Ospedale,6500,,,,3000.0,,,,3000.0,hco,daiichi
+Quadrimed,Crans-Montana,CH,Case postale 299,3963,,,,6820.0,,,,6820.0,hco,daiichi
+Réseau RE MED,Genève,CH,Chemin de Beau-Soleil 22,1203,,,,2000.0,,,,2000.0,hco,daiichi
+Schweizerische Gesellschaft für Kardiologie,Bern,CH,Dufourstrasse 30,3005,,,,8900.0,,,,8900.0,hco,daiichi
+Schweizerische Gesellschaft für Phlebologie,Bad Raqaz,CH,Hans Albrecht-Strasse 1,7310,,,,5000.0,,,,5000.0,hco,daiichi
+Schweizerische Herzstiftung,Bern,CH,Dufourstrasse 30,3005,,,,10000.0,,,,10000.0,hco,daiichi
+Schweizerisch-Türkischer Aerzte- und Akademikerverein,Bern,CH,Balmerstrasse 12,3006,,,,2500.0,,,,2500.0,hco,daiichi
+Spitalregion Fürstenland Toggenburg,WilSG,CH,Fürstenlandstrasse 32,9500,,,,4400.0,,,,4400.0,hco,daiichi
+Spitalzentrum Biel AG,Biel'Bienne,CH,Voqelsanq 84,2501,,,,3000.0,,,,3000.0,hco,daiichi
+Stiftunq für Herz- und Kreislauf,Zürich,CH,Moussonstrasse 4,8091,,,,38500.0,,,,38500.0,hco,daiichi
+Universitätsspital Basel,Basel,CH,Klingelbergstrasse 23,4031,,30000.0,,65000.0,,,,95000.0,hco,daiichi
+Verein Lunge Zürich,Zürich,CH,Pfinqstweidstrasse 10,8005,,,,6000.0,,,,6000.0,hco,daiichi
+Vereinigung Zürcher Internisten,Adliswil,CH,Felsenhofstrasse 36,8134,,,,3800.0,,,,3800.0,hco,daiichi
+ZAIM Zurich Academy of Internal Medicine c/o Medworld AG,Steinhausen,CH,Sennweidstrasse 46,6312,,,,3540.0,,,,3540.0,hco,daiichi
+Zentralpraxis Wallisellen AG,Wall is eilen,CH,Zentralstrasse 6,8304,,,,3000.0,,,,3000.0,hco,daiichi
