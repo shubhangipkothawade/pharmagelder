@@ -2,6 +2,7 @@ from datacheck import *
 import numpy as np
 import pandas as pd
 import openpyxl
+import consts
 
 """
 
@@ -54,7 +55,11 @@ def export_list(dataset, organisation):
     check_dataframe_list(dataset)
 
     #Reorder Dataframe
-    dataset = dataset[fix_columns]
+    if column_export_information in dataset.columns:
+        dataset = dataset[fix_columns + [column_export_information]]
+    else:
+        dataset = dataset[fix_columns]
+
 
     #Export
     #write_to_excel(dataset, '../../export/lists/' + organisation + '.xlsx' )

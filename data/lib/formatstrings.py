@@ -6,10 +6,28 @@ from consts import *
     Diese Funktion setzt Vorname vor Nachname, getrennt mit Komma
 
 """
+"""
 def revert_name(dataset, sep=','):
     print("revert_name: Be sure: Only revert hcp, not hco!")
     dataset = dataset.apply(lambda s: (' '.join(s.split(sep)[::-1])).strip())
     return dataset
+"""    
+
+def revert_name(dataset, sep=','):
+    for index, row in dataset[dataset.type == 'hcp'].iterrows():
+        if row['type'] == 'hcp':
+            splitted = row['name'].strip().split(sep)
+            if len(splitted) == 2:
+                dataset.loc[index, 'name'] =  (' '.join(splitted[::-1])).strip()
+            else:
+                if len(splitted) == 3:
+                    dataset.loc[index, 'name'] =  splitted[1] + ' ' + splitted[2] + ' ' + splitted[0]
+                else:
+                    dataset.loc[index, 'name'] =  (' '.join(splitted[::-1])).strip()
+                dataset.loc[index, '_export_information'] = 'Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: ' + row['name']
+    
+    return dataset
+    
 
 """
 

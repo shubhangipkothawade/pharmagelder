@@ -10,7 +10,7 @@ def check_dataframe_list(ds):
     
     #Check to many columns
     for column in ds.columns:
-        if column not in fix_columns:
+        if column not in fix_columns + [column_export_information]:
             print("Column '" + column + "' zuviel")
             
     #Check missing column

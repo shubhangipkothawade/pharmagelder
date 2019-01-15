@@ -100,8 +100,8 @@ Summiert alle Zahlenfelder und schreibt sie ins Total
 **revert_name**  
 `revert_name(dataset[, sep=','])`  
 Beispiel  
-`df_export.loc[df_export.type == 'hcp', 'name'] = revert_name(df_export[df_export.type == 'hcp']['name'])`  
-Name, Vorname tauschen  
+`df_export = revert_name(df_export)`  
+Tauscht Vorname Name. Wenn Name aus drei Wörtern besteht, wird eine zusätzliche Hinweisspalte erstellt.
 
 **remove_carination**  
 `df_export = remove_carination(df_export[, substr=""])`  
@@ -155,6 +155,7 @@ for index, row in df_export.iterrows():
 
 **Remove Title**
 ```python
+#Remove Titles
 df_export['name'] = df_export.name.str.replace(regex_title, '', regex=True, case=False)
 df_export['name'] = df_export.name.str.strip()
 ```
