@@ -1,4 +1,7 @@
 # Pharmagelder
+## Other Important README-Files
+* [data/README.md](data/README.md) for scripting / exporting
+* [data/_docs/PDF_SCREENSHOTS.md](data/_docs/PDF_SCREENSHOTS.md) to find the best template
 ## Installation
 **Checkout Git**
 Checkout this Github Repo at a folder of your choice
