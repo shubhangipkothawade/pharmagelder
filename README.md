@@ -21,7 +21,7 @@ https://www.abbyy.com/de-de/finereader/
 
 ## Procedure
 ### Step 1 - Export data
-In the Folder [data/1. pdfexport/files](data/1. pdfexport/files) you will find a subfolder for each pharmaceutical company. Put the PDFs (if available) there. Each folder needs to files:
+In the Folder [/data/1. pdfexport/files](/data/1. pdfexport/files/) you will find a subfolder for each pharmaceutical company. Put the PDFs (if available) there. Each folder needs to files:
 * 0. Lists.ipynb
 * 1. Accumulations.ipynb
 
