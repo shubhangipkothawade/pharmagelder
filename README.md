@@ -31,7 +31,7 @@ The exported files will be stored in the folder [data/1. pdfexport/export/]. Do 
 
 #### How to extract
 As mentioned before, each pharmaceutical company gets two python notebooks. Update them (or copy them) to export another company. There are plenty of helper functions for extracting the data.
-Everything documented in [data/README.md]. The code ist stored in [data/lib]
+Everything documented in (data/README.md)[data/README.md]. The code ist stored in [data/lib]
 **Read the Code Documentation [data/README.md]!**
 
 There are different kind of exports:
