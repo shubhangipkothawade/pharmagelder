@@ -78,6 +78,11 @@ Remove spaces in all number fields
 `df_export = remove_dots(df_export)`  
 Removes all dots in number fields.
 
+**remove_comma**  
+`df_export = remove_comma(df_export)`  
+Removes all commas in number fields.
+
+
 **remove_in_numbers**  
 `df_export = remove_in_numbers(df_export, 'X')`  
 Removes `X` in number fields
@@ -137,8 +142,6 @@ df_export['type'] = np.where(df_export.index < index_hco, 'hcp', 'hco')
 Sums all number fields. Only use, when total not provided
 
 **revert_name**  
-`revert_name(dataset[, sep=','])`  
-Example
 `df_export = revert_name(df_export)`  
 Changes Lastname To Surname. If more than two names, writes a warning to a separat column.
 
