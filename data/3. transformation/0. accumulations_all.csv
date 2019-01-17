@@ -249,6 +249,11 @@ hco_amount,,15000.0,,,2700.0,,17700.0,shire
 hcp_count,,,,3.0,9.0,2.0,,shire
 hco_count,,1.0,,,1.0,,,shire
 rnd,,,,,,,42135.13,shire
+hcp_amount,,,443.0,1133.0,,,1533.0,stallergenes
+hco_amount,,,,,,,,stallergenes
+hcp_count,,,1.0,1.0,,,,stallergenes
+hco_count,,,,,,,,stallergenes
+rnd,,,,,,,,stallergenes
 hcp_amount,,,,,12062.55,171.2,12233.75,takeda
 hcp_count,,,,,7.0,2.0,7.0,takeda
 hco_amount,0.0,0.0,0.0,0.0,0.0,0.0,0.0,takeda
