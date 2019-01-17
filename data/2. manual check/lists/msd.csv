@@ -1,104 +1,104 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
 Alfredo Addeo,Genève,CH,Hôpitaux Universitaires de Genève - Centre d'oncologie Rue Gabrielle-Perret -Gentil 4,,,,,,102.0,1500.0,,1602.0,hcp,msd
-Michael Andor,Zürich,CH,Prodorso - Zentrum für Wirbelsäulenmedi zin Walchestrasse 15,,7601000438263.0,,,73.15,360.9,,,434.05,hcp,msd
+Michael Andor,Zürich,CH,Prodorso - Zentrum für Wirbelsäulenmedi zin Walchestrasse 15,,7601000438263,,,73.15,360.9,,,434.05,hcp,msd
 Ursula Bärtsch-Kohli,Langenthal,CH,Spital Langenthal (SRO AG) - Innere Medizin St. Urbanstrasse 67,,,,,,,2000.0,,2000.0,hcp,msd
-Sabina Berezowska,Bern,CH,Universität Bern - Institut für Pathologie Murtenstrasse 31,,7601003354683.0,,,,,1500.0,,1500.0,hcp,msd
-Tarcisio Bianda,Ascona,CH,Studio medico Via Collina 4,,7601000224910.0,,,,,750.0,,750.0,hcp,msd
-Luc Biedermann,Zürich,CH,Universitätsspit al Zürich - Klinik für Gastroenterologi e/Hepatologie Rämistrasse 100,,7601000741264.0,,,,,,1750.0,1750.0,hcp,msd
-Peter Biro,Zürich,CH,Universitätsspit al Zürich - Institut für Anästhesiologie Rämistrasse 100,,7601000221834.0,,,,444.97,3500.0,,3944.97,hcp,msd
-Johannes Bitzer,Basel,CH,Gruppenpraxis Schützenmattstra sse 54,,7601000120113.0,,,,8675.32,,,8675.32,hcp,msd
-Michael Brändle,St. Gallen,CH,Kantonsspital St. Gallen - Allgemeine Innere Medizin / Haus 02 Rorschacher Strasse 95,,7601000264299.0,,,,,1500.0,,1500.0,hcp,msd
-Philip Bruggmann,Zürich,CH,Arud Zentrum für Suchtmedizin Drogenberatung Schützengasse 31,,7601000416285.0,,,,799.19,12000.0,1756.63,14555.82,hcp,msd
-Florian Brunner,Zürich,CH,Universitätsklin ik Balgrist - Physikalische Medizin und Rheumatologie Forchstrasse 340,,7601000342706.0,,,73.15,205.65,,,278.8,hcp,msd
-Maurizio Calcagni,Zürich,CH,Universitätsspit al Zürich - Plastische Chirurgie und Handchirurgie Rämistrasse 100,,7601000758149.0,,,,,1000.0,,1000.0,hcp,msd
-Yves Charrière,Fribourg,CH,FMH anesthésiologie - Anesthésiologie - Hôpital Daler Route de Bertigny 34,,7601000617903.0,,,,568.43,,,568.43,hcp,msd
-Carlo Chizzolini,Genève,CH,Hôpitaux Universitaires de Genève - Département de médecine interne - Service d'immunologie et allergologie Rue Gabrielle-Perret -Gentil 4,,7601000034861.0,,,,,1000.0,,1000.0,hcp,msd
-Adrian Ciurea,Zürich,CH,Universitätsspit al Zürich - Rheumaklinik Gloriastrasse 25,,7601000346315.0,,,,,2400.0,,2400.0,hcp,msd
-Alessandra Curioni,Zürich,CH,Universitätsspit al Zürich - Klinik für Onkologie Rämistrasse 100,,7601000813695.0,,,,,1900.0,,1900.0,hcp,msd
-Christian De Geyter,Basel,CH,Universitätsspit al Basel - Reproduktionsmed izin u. gynäkologische - Endokrinologie / Frauenklinik Vogesenstrasse 134,,7601000388988.0,,,,,4900.0,,4900.0,hcp,msd
-Joachim Diebold,Luzern,CH,Luzerner Kantonsspital Luzern - Pathologisches Institut Spitalstrasse,,7601000761521.0,,,,,,1152.1,1152.1,hcp,msd
+Sabina Berezowska,Bern,CH,Universität Bern - Institut für Pathologie Murtenstrasse 31,,7601003354683,,,,,1500.0,,1500.0,hcp,msd
+Tarcisio Bianda,Ascona,CH,Studio medico Via Collina 4,,7601000224910,,,,,750.0,,750.0,hcp,msd
+Luc Biedermann,Zürich,CH,Universitätsspit al Zürich - Klinik für Gastroenterologi e/Hepatologie Rämistrasse 100,,7601000741264,,,,,,1750.0,1750.0,hcp,msd
+Peter Biro,Zürich,CH,Universitätsspit al Zürich - Institut für Anästhesiologie Rämistrasse 100,,7601000221834,,,,444.97,3500.0,,3944.97,hcp,msd
+Johannes Bitzer,Basel,CH,Gruppenpraxis Schützenmattstra sse 54,,7601000120113,,,,8675.32,,,8675.32,hcp,msd
+Michael Brändle,St. Gallen,CH,Kantonsspital St. Gallen - Allgemeine Innere Medizin / Haus 02 Rorschacher Strasse 95,,7601000264299,,,,,1500.0,,1500.0,hcp,msd
+Philip Bruggmann,Zürich,CH,Arud Zentrum für Suchtmedizin Drogenberatung Schützengasse 31,,7601000416285,,,,799.19,12000.0,1756.63,14555.82,hcp,msd
+Florian Brunner,Zürich,CH,Universitätsklin ik Balgrist - Physikalische Medizin und Rheumatologie Forchstrasse 340,,7601000342706,,,73.15,205.65,,,278.8,hcp,msd
+Maurizio Calcagni,Zürich,CH,Universitätsspit al Zürich - Plastische Chirurgie und Handchirurgie Rämistrasse 100,,7601000758149,,,,,1000.0,,1000.0,hcp,msd
+Yves Charrière,Fribourg,CH,FMH anesthésiologie - Anesthésiologie - Hôpital Daler Route de Bertigny 34,,7601000617903,,,,568.43,,,568.43,hcp,msd
+Carlo Chizzolini,Genève,CH,Hôpitaux Universitaires de Genève - Département de médecine interne - Service d'immunologie et allergologie Rue Gabrielle-Perret -Gentil 4,,7601000034861,,,,,1000.0,,1000.0,hcp,msd
+Adrian Ciurea,Zürich,CH,Universitätsspit al Zürich - Rheumaklinik Gloriastrasse 25,,7601000346315,,,,,2400.0,,2400.0,hcp,msd
+Alessandra Curioni,Zürich,CH,Universitätsspit al Zürich - Klinik für Onkologie Rämistrasse 100,,7601000813695,,,,,1900.0,,1900.0,hcp,msd
+Christian De Geyter,Basel,CH,Universitätsspit al Basel - Reproduktionsmed izin u. gynäkologische - Endokrinologie / Frauenklinik Vogesenstrasse 134,,7601000388988,,,,,4900.0,,4900.0,hcp,msd
+Joachim Diebold,Luzern,CH,Luzerner Kantonsspital Luzern - Pathologisches Institut Spitalstrasse,,7601000761521,,,,,,1152.1,1152.1,hcp,msd
 Florentia Dimitriou,Zürich,CH,Universitätsspit al Zürich - Dermatologische Klinik Gloriastrasse 31,,,,,,800.0,,,800.0,hcp,msd
-Irene Dingeldein,Murten,CH,Gruppenpraxis Längmatt 32,,7601000086884.0,,,,,1500.0,,1500.0,hcp,msd
+Irene Dingeldein,Murten,CH,Gruppenpraxis Längmatt 32,,7601000086884,,,,,1500.0,,1500.0,hcp,msd
 Oliver Distler,Zürich,CH,Universitätsspit al Zürich - Rheumaklinik Gloriastrasse 25,,,,,,,1500.0,,1500.0,hcp,msd
-Guido Domenighetti,Locarno,CH,FMH pneumologia - Palazzo Corporazione Borghese Via all'Ospedale 14,,7601000182180.0,,,438.65,736.0,,,1174.65,hcp,msd
-Marc Donath,Basel,CH,Universitätsspit al Basel - Endokrinologie und Diabetologie Petersgraben 4,,7601000220868.0,,,,,30000.0,7612.52,37612.52,hcp,msd
-Jean Dudler,Fribourg,CH,HFR Fribourg - Hôpital cantonal - Service de rhumatologie Chemin des Pensionnats 2-6,,7601000411181.0,,,,,1000.0,,1000.0,hcp,msd
-Ali Elwafa,La Chaux-de-Fonds,CH,Cabinet de groupe Avenue Léopold Robert 16,,7601000832351.0,,,556.8,1228.4,,,1785.2,hcp,msd
-Urs Beat Gröflin,Binningen,CH,FMH Allgemeine Innere Medizin,,7601000832351.0,,,,,750.0,,750.0,hcp,msd
-Vittoria Espeli,Mendrisio,CH,Ospedale Regionale di Mendrisio - Beata Vergine - Oncologia medica Via Alfonso Turconi 23,,7601000773036.0,,,668.0,2400.5,,,3068.5,hcp,msd
+Guido Domenighetti,Locarno,CH,FMH pneumologia - Palazzo Corporazione Borghese Via all'Ospedale 14,,7601000182180,,,438.65,736.0,,,1174.65,hcp,msd
+Marc Donath,Basel,CH,Universitätsspit al Basel - Endokrinologie und Diabetologie Petersgraben 4,,7601000220868,,,,,30000.0,7612.52,37612.52,hcp,msd
+Jean Dudler,Fribourg,CH,HFR Fribourg - Hôpital cantonal - Service de rhumatologie Chemin des Pensionnats 2-6,,7601000411181,,,,,1000.0,,1000.0,hcp,msd
+Ali Elwafa,La Chaux-de-Fonds,CH,Cabinet de groupe Avenue Léopold Robert 16,,7601000832351,,,556.8,1228.4,,,1785.2,hcp,msd
+Urs Beat Gröflin,Binningen,CH,FMH Allgemeine Innere Medizin,,7601000832351,,,,,750.0,,750.0,hcp,msd
+Vittoria Espeli,Mendrisio,CH,Ospedale Regionale di Mendrisio - Beata Vergine - Oncologia medica Via Alfonso Turconi 23,,7601000773036,,,668.0,2400.5,,,3068.5,hcp,msd
 Christian Felley,Lausanne,CH,Centre de Gastroentérologi e Beaulieu S.A Avenue Jomini 8,,,,,556.8,1040.15,,,1596.95,hcp,msd
-Chiara Ferrario,Lausanne,CH,CHUV - Centre hospitalier universitaire vaudois Rue du Bugnon 46,,7601000723697.0,,,,,1000.0,,1000.0,hcp,msd
-Daniel Fink,Zürich,CH,Universitätsspit al Zürich - Klinik für Gynäkologie Frauenklinikstra sse 10,,7601000225887.0,,,,,1500.0,,1500.0,hcp,msd
-Rudolf Frank,Bern,CH,Kardiologische Praxis Kirchenfeld Thunstrasse 2,,7601000475619.0,,,,,1000.0,,1000.0,hcp,msd
-Pascal Frei,Zürich,CH,FMH Gastroenterologi e - Gastroenterologi e Bethanien - Privatklinik Bethanien Toblerstrasse 51,,7601000637185.0,,,556.8,956.0,1500.0,,3012.8,hcp,msd
-Niclas Freund,Rheinfelden,CH,Herzpraxis am Rhein Habich-Dietschy- Strasse 18,,7601000765680.0,,,,,1000.0,,1000.0,hcp,msd
-Sabine Funk,Winterthur,CH,Kantonsspital Winterthur - Kardiologie Brauerstrasse 15,,7601000772763.0,,,,,1000.0,,1000.0,hcp,msd
-Cem Gabay,Genève,CH,Hôpitaux universitaires de Genève - Service de rhumatologie Avenue de Beau-Séjour 26,,7601000036988.0,,,,,1500.0,,1500.0,hcp,msd
-Hiestand Werner,Basel,CH,FMH Allgemeine Innere Medizin,,7601000126627.0,,,,,750.0,,750.0,hcp,msd
+Chiara Ferrario,Lausanne,CH,CHUV - Centre hospitalier universitaire vaudois Rue du Bugnon 46,,7601000723697,,,,,1000.0,,1000.0,hcp,msd
+Daniel Fink,Zürich,CH,Universitätsspit al Zürich - Klinik für Gynäkologie Frauenklinikstra sse 10,,7601000225887,,,,,1500.0,,1500.0,hcp,msd
+Rudolf Frank,Bern,CH,Kardiologische Praxis Kirchenfeld Thunstrasse 2,,7601000475619,,,,,1000.0,,1000.0,hcp,msd
+Pascal Frei,Zürich,CH,FMH Gastroenterologi e - Gastroenterologi e Bethanien - Privatklinik Bethanien Toblerstrasse 51,,7601000637185,,,556.8,956.0,1500.0,,3012.8,hcp,msd
+Niclas Freund,Rheinfelden,CH,Herzpraxis am Rhein Habich-Dietschy- Strasse 18,,7601000765680,,,,,1000.0,,1000.0,hcp,msd
+Sabine Funk,Winterthur,CH,Kantonsspital Winterthur - Kardiologie Brauerstrasse 15,,7601000772763,,,,,1000.0,,1000.0,hcp,msd
+Cem Gabay,Genève,CH,Hôpitaux universitaires de Genève - Service de rhumatologie Avenue de Beau-Séjour 26,,7601000036988,,,,,1500.0,,1500.0,hcp,msd
+Hiestand Werner,Basel,CH,FMH Allgemeine Innere Medizin,,7601000126627,,,,,750.0,,750.0,hcp,msd
 Giacomo Gastaldi,Genève,CH,Hôpitaux Universitaires de Genève - Département de médecine interne - Service d'endocrinologie & diabétologie Rue Gabrielle-Perret -Gentil 4,,,,,,,1500.0,,1500.0,hcp,msd
-Stéphane Genevay,Genève,CH,Hôpitaux universitaires de Genève - Service de rhumatologie Avenue de Beau-Séjour 26,,7601000034021.0,,,,,1000.0,,1000.0,hcp,msd
-Marc Girardin,Onex,CH,Groupe médical d'Onex Route de Loëx 3,,7601000656537.0,,,388.15,797.65,,,1185.8,hcp,msd
-Alain Golay,Genève,CH,Hôpitaux universitaires de Genève - Enseignement thérap.maladies chroniques - Villa Soleillane Chemin Venel 7,,7601000028358.0,,,,,,200.0,200.0,hcp,msd
-Sina Grape,Sion,CH,Hôpital du Valais - Hôpital de Sion (CHVR) - Service de médecine intensiv Avenue du Grand-Champsec 80,,7601000753922.0,,,,715.65,,,715.65,hcp,msd
-Christoph Hemmeler,Langenthal,CH,Gruppenpraxis Hasenmattstrasse 37,,7601000668448.0,,,73.15,436.4,,,509.55,hcp,msd
-Matthias Hermann,Wald ZH,CH,Zürcher RehaZentrum Wald - Kardiovaskuläre Rehabilitation Faltigbergstrass e 7,,7601000735645.0,,,,,2000.0,,2000.0,hcp,msd
-Philippe Hiroz,Sion,CH,Centre Sédunois de Gastroentérologi e Rue des Ronquos 35,,7601000656254.0,,,388.15,829.8,,,1217.95,hcp,msd
-Regula Honegger,Horgen,CH,Arztpraxis am Bahnhof Seestrasse 117,,7601000274762.0,,,,,1000.0,,1000.0,hcp,msd
-Manuel Klöti,Luzern,CH,FMH Rheumatologie - Rheumatologie (4. OG) - Hirslanden St. Anna im Bahnhof Zentralstrasse 1,,7601000134523.0,,,73.15,436.15,,,509.3,hcp,msd
-Bettina Köhler Ballan,Genève,CH,Cabinet de groupe Chemin de Beau-Soleil 22,,7601000741509.0,,,,,1000.0,,1000.0,hcp,msd
-Raphael Koller,Wil SG,CH,Herzteam Wil Obere Bahnhofstrasse 45,,7601000249913.0,,,,,1000.0,,1000.0,hcp,msd
-Reto W. Kressig,Basel,CH,Felix Platter-Spital - Universitäres Zentrum für Altersmedizin Burgfelderstrass e 101,,7601000045140.0,,,,,1700.0,,1700.0,hcp,msd
-Felix Kühn,Luzern,CH,Praxis für Diabetes & Hormonkrankheite n Weggisgasse 40,,7601000719485.0,,,,,1000.0,,1000.0,hcp,msd
-Andreea Lack,Basel,CH,Medbase Basel St. Elisabethen - santémed Gesundheitszentr en AG Henric Petri-Strasse 9,,7601000080011.0,,,,,750.0,,750.0,hcp,msd
-Lennart Magnusson,Fribourg,CH,HFR Fribourg - Hôpital cantonal - Anesthésiologie Chemin des Pensionnats 2-6,,7601000013019.0,,,,,3500.0,,3500.0,hcp,msd
-Sabine Majer,Münsterlingen,CH,Kantonsspital Münsterlingen - Infektiologie Spitalcampus 1,,7601000541000.0,,,373.7,233.35,,,607.05,hcp,msd
-Christoph Mamot,Aarau,CH,Kantonsspital Aarau AG - Onkologie/Hämato logie / Haus 40 Tellstrasse 25,,7601000369482.0,,,,,3000.0,,3000.0,hcp,msd
-Johanna Mangana,Zürich,CH,Universitätsspit al Zürich - Dermatologische Klinik Gloriastrasse 31,,7601000883285.0,,,495.6,607.25,,,1102.85,hcp,msd
-Christine Manser,Frauenfeld,CH,Kantonsspital Frauenfeld - Medizinische Klinik Pfaffenholzstras se 4,,7601000929075.0,,,556.8,1140.45,,,1697.25,hcp,msd
-Alexander Markus,St. Gallen,CH,Kantonsspital St. Gallen - Frauenklinik / Haus 06 Rorschacher Strasse 95,,7601000781345.0,,,,,1500.0,,1500.0,hcp,msd
-Britta Maurer,Zürich,CH,Universitätsspit al Zürich - Rheumaklinik Gloriastrasse 25,,7601000875600.0,,,,,1000.0,,1000.0,hcp,msd
-Laetitia Mauti,St. Gallen,CH,Kantonsspital St. Gallen - Onkologie und Hämatologie / Haus 01 Rorschacher Strasse 95,,7601000741936.0,,,,,1500.0,,1500.0,hcp,msd
-Thomas McKee,Genève,CH,Hôpitaux Universitaires de Genève - Département de Pathologie clinique - Centre Médical Universitaire Rue Michel-Servet 1,,7601000480613.0,,,,,1500.0,,1500.0,hcp,msd
-Ursula Meierhofer,Zürich,CH,Gruppenpraxis - Rheumatologie Altstetterstrass e 142,,7601000242716.0,,,73.15,461.65,,,534.8,hcp,msd
-Pierre Michetti,Lausanne,CH,Centre de Gastroentérologi e Beaulieu S.A Avenue Jomini 8,,7601000011961.0,,,,,12550.0,3150.0,15700.0,hcp,msd
-Séverine Müller-Mottet,Zürich,CH,Stadtspital Waid - Pneumologie und Schlafmedizin Tièchestrasse 99,,7601000867254.0,,,571.15,815.35,,,1386.5,hcp,msd
-Beat Müllhaupt,Zürich,CH,Universitätsspit al Zürich - Klinik für Gastroenterologi e/Hepatologie Rämistrasse 100,,7601000353443.0,,,,,3000.0,,3000.0,hcp,msd
-Francesco Negro,Genève,CH,Hôpitaux Universitaires de Genève - Département spécialités de médecine - Service gastro-entérolog ie & hépatologie Rue Gabrielle-Perret -Gentil 4,,7601000337771.0,,,,,2551.0,,2551.0,hcp,msd
-Gudrun Neises,Luzern,CH,FMH Endokrinologie-D iabetologie - Endia - Praxis für Endokrinologie & Diabetologie Pilatusstrasse 3a/5,,7601000923660.0,,,,,1200.0,,1200.0,hcp,msd
-Martin Oehri,Frauenfeld,CH,Rheuma- und Schmerzzentrum - Frauenfeld RSZF Rheinstrasse 23,,7601000468413.0,,,73.15,99.05,,,172.2,hcp,msd
-Christophe Petite,Martigny,CH,FMH endocrinologie-d iabétologie Avenue de la Gare 19,,7601000056245.0,,,,,1000.0,,1000.0,hcp,msd
-Miklós Pless,Winterthur,CH,Kantonsspital Winterthur - Medizinische Onkologie Brauerstrasse 15,,7601000120083.0,,,,,1500.0,,1500.0,hcp,msd
-Claudia Preissler,Olten,CH,Kantonsspital Olten - Gastroenterologi e Baslerstrasse 150,,7601000763129.0,,,556.8,1208.15,,,1764.95,hcp,msd
-Philippe Renard,Sion,CH,Hôpital du Valais - Hôpital de Sion (CHVR) Méd.Gastroentéro logie Avenue du Grand-Champsec 80,,7601003355024.0,,,,128.0,1500.0,,1628.0,hcp,msd
-Gerhard Rogler,Zürich,CH,Universitätsspit al Zürich - Klinik für Gastroenterologi e/Hepatologie Rämistrasse 100,,7601000763983.0,,,,,3750.0,,3750.0,hcp,msd
-Daniela Rösler-Meier,Bern,CH,Rheumatologische Praxis - Lindenhofspital Hochhaus 2. Etage Bremgartenstrass e 119,,7601000168153.0,,,73.15,391.9,,,465.05,hcp,msd
-Bernhard Sauter,Zürich,CH,GastroZentrum Hirslanden - Klinik Hirslanden Witellikerstrass e 40,,7601000223463.0,,,,,1500.0,,1500.0,hcp,msd
-Milos Savcic,Lausanne,CH,FMH cardiologie Avenue de Savoie 10,,7601000013866.0,,,,,1000.0,,1000.0,hcp,msd
+Stéphane Genevay,Genève,CH,Hôpitaux universitaires de Genève - Service de rhumatologie Avenue de Beau-Séjour 26,,7601000034021,,,,,1000.0,,1000.0,hcp,msd
+Marc Girardin,Onex,CH,Groupe médical d'Onex Route de Loëx 3,,7601000656537,,,388.15,797.65,,,1185.8,hcp,msd
+Alain Golay,Genève,CH,Hôpitaux universitaires de Genève - Enseignement thérap.maladies chroniques - Villa Soleillane Chemin Venel 7,,7601000028358,,,,,,200.0,200.0,hcp,msd
+Sina Grape,Sion,CH,Hôpital du Valais - Hôpital de Sion (CHVR) - Service de médecine intensiv Avenue du Grand-Champsec 80,,7601000753922,,,,715.65,,,715.65,hcp,msd
+Christoph Hemmeler,Langenthal,CH,Gruppenpraxis Hasenmattstrasse 37,,7601000668448,,,73.15,436.4,,,509.55,hcp,msd
+Matthias Hermann,Wald ZH,CH,Zürcher RehaZentrum Wald - Kardiovaskuläre Rehabilitation Faltigbergstrass e 7,,7601000735645,,,,,2000.0,,2000.0,hcp,msd
+Philippe Hiroz,Sion,CH,Centre Sédunois de Gastroentérologi e Rue des Ronquos 35,,7601000656254,,,388.15,829.8,,,1217.95,hcp,msd
+Regula Honegger,Horgen,CH,Arztpraxis am Bahnhof Seestrasse 117,,7601000274762,,,,,1000.0,,1000.0,hcp,msd
+Manuel Klöti,Luzern,CH,FMH Rheumatologie - Rheumatologie (4. OG) - Hirslanden St. Anna im Bahnhof Zentralstrasse 1,,7601000134523,,,73.15,436.15,,,509.3,hcp,msd
+Bettina Köhler Ballan,Genève,CH,Cabinet de groupe Chemin de Beau-Soleil 22,,7601000741509,,,,,1000.0,,1000.0,hcp,msd
+Raphael Koller,Wil SG,CH,Herzteam Wil Obere Bahnhofstrasse 45,,7601000249913,,,,,1000.0,,1000.0,hcp,msd
+Reto W. Kressig,Basel,CH,Felix Platter-Spital - Universitäres Zentrum für Altersmedizin Burgfelderstrass e 101,,7601000045140,,,,,1700.0,,1700.0,hcp,msd
+Felix Kühn,Luzern,CH,Praxis für Diabetes & Hormonkrankheite n Weggisgasse 40,,7601000719485,,,,,1000.0,,1000.0,hcp,msd
+Andreea Lack,Basel,CH,Medbase Basel St. Elisabethen - santémed Gesundheitszentr en AG Henric Petri-Strasse 9,,7601000080011,,,,,750.0,,750.0,hcp,msd
+Lennart Magnusson,Fribourg,CH,HFR Fribourg - Hôpital cantonal - Anesthésiologie Chemin des Pensionnats 2-6,,7601000013019,,,,,3500.0,,3500.0,hcp,msd
+Sabine Majer,Münsterlingen,CH,Kantonsspital Münsterlingen - Infektiologie Spitalcampus 1,,7601000541000,,,373.7,233.35,,,607.05,hcp,msd
+Christoph Mamot,Aarau,CH,Kantonsspital Aarau AG - Onkologie/Hämato logie / Haus 40 Tellstrasse 25,,7601000369482,,,,,3000.0,,3000.0,hcp,msd
+Johanna Mangana,Zürich,CH,Universitätsspit al Zürich - Dermatologische Klinik Gloriastrasse 31,,7601000883285,,,495.6,607.25,,,1102.85,hcp,msd
+Christine Manser,Frauenfeld,CH,Kantonsspital Frauenfeld - Medizinische Klinik Pfaffenholzstras se 4,,7601000929075,,,556.8,1140.45,,,1697.25,hcp,msd
+Alexander Markus,St. Gallen,CH,Kantonsspital St. Gallen - Frauenklinik / Haus 06 Rorschacher Strasse 95,,7601000781345,,,,,1500.0,,1500.0,hcp,msd
+Britta Maurer,Zürich,CH,Universitätsspit al Zürich - Rheumaklinik Gloriastrasse 25,,7601000875600,,,,,1000.0,,1000.0,hcp,msd
+Laetitia Mauti,St. Gallen,CH,Kantonsspital St. Gallen - Onkologie und Hämatologie / Haus 01 Rorschacher Strasse 95,,7601000741936,,,,,1500.0,,1500.0,hcp,msd
+Thomas McKee,Genève,CH,Hôpitaux Universitaires de Genève - Département de Pathologie clinique - Centre Médical Universitaire Rue Michel-Servet 1,,7601000480613,,,,,1500.0,,1500.0,hcp,msd
+Ursula Meierhofer,Zürich,CH,Gruppenpraxis - Rheumatologie Altstetterstrass e 142,,7601000242716,,,73.15,461.65,,,534.8,hcp,msd
+Pierre Michetti,Lausanne,CH,Centre de Gastroentérologi e Beaulieu S.A Avenue Jomini 8,,7601000011961,,,,,12550.0,3150.0,15700.0,hcp,msd
+Séverine Müller-Mottet,Zürich,CH,Stadtspital Waid - Pneumologie und Schlafmedizin Tièchestrasse 99,,7601000867254,,,571.15,815.35,,,1386.5,hcp,msd
+Beat Müllhaupt,Zürich,CH,Universitätsspit al Zürich - Klinik für Gastroenterologi e/Hepatologie Rämistrasse 100,,7601000353443,,,,,3000.0,,3000.0,hcp,msd
+Francesco Negro,Genève,CH,Hôpitaux Universitaires de Genève - Département spécialités de médecine - Service gastro-entérolog ie & hépatologie Rue Gabrielle-Perret -Gentil 4,,7601000337771,,,,,2551.0,,2551.0,hcp,msd
+Gudrun Neises,Luzern,CH,FMH Endokrinologie-D iabetologie - Endia - Praxis für Endokrinologie & Diabetologie Pilatusstrasse 3a/5,,7601000923660,,,,,1200.0,,1200.0,hcp,msd
+Martin Oehri,Frauenfeld,CH,Rheuma- und Schmerzzentrum - Frauenfeld RSZF Rheinstrasse 23,,7601000468413,,,73.15,99.05,,,172.2,hcp,msd
+Christophe Petite,Martigny,CH,FMH endocrinologie-d iabétologie Avenue de la Gare 19,,7601000056245,,,,,1000.0,,1000.0,hcp,msd
+Miklós Pless,Winterthur,CH,Kantonsspital Winterthur - Medizinische Onkologie Brauerstrasse 15,,7601000120083,,,,,1500.0,,1500.0,hcp,msd
+Claudia Preissler,Olten,CH,Kantonsspital Olten - Gastroenterologi e Baslerstrasse 150,,7601000763129,,,556.8,1208.15,,,1764.95,hcp,msd
+Philippe Renard,Sion,CH,Hôpital du Valais - Hôpital de Sion (CHVR) Méd.Gastroentéro logie Avenue du Grand-Champsec 80,,7601003355024,,,,128.0,1500.0,,1628.0,hcp,msd
+Gerhard Rogler,Zürich,CH,Universitätsspit al Zürich - Klinik für Gastroenterologi e/Hepatologie Rämistrasse 100,,7601000763983,,,,,3750.0,,3750.0,hcp,msd
+Daniela Rösler-Meier,Bern,CH,Rheumatologische Praxis - Lindenhofspital Hochhaus 2. Etage Bremgartenstrass e 119,,7601000168153,,,73.15,391.9,,,465.05,hcp,msd
+Bernhard Sauter,Zürich,CH,GastroZentrum Hirslanden - Klinik Hirslanden Witellikerstrass e 40,,7601000223463,,,,,1500.0,,1500.0,hcp,msd
+Milos Savcic,Lausanne,CH,FMH cardiologie Avenue de Savoie 10,,7601000013866,,,,,1000.0,,1000.0,hcp,msd
 Stéphanie Saxer,Zürich,CH,Universitätsspit al Zürich - Klinik für Pneumologie Rämistrasse 100,,,,,342.45,1163.35,,,1505.8,hcp,msd
 Claude Scheidegger,Basel,CH,Gruppenpraxis Birsigstrasse 10,,,,,,,1500.0,,1500.0,hcp,msd
-Christian Marc Schmied,Zürich,CH,Universitätsspit al Zürich - Klinik für Kardiologie Rämistrasse 100,,7601000493606.0,,,,,6850.0,625.83,7475.83,hcp,msd
-Guido Schüpfer,Luzern,CH,Luzerner Kantonsspital Luzern - Klinik für Anästhesie Spitalstrasse,,7601000169563.0,,,,,3231.0,,3231.0,hcp,msd
-Esther Schwarz,Zürich,CH,Universitätsspit al Zürich - Klinik für Pneumologie Rämistrasse 100,,7601000892836.0,,,786.2,1496.7,,,2282.9,hcp,msd
-Beat Hans Schwegler,Baar,CH,Zuger Kantonsspital AG - Medizinische Klinik Landhausstrasse 11,,7601000404824.0,,,,,2500.0,,2500.0,hcp,msd
-Oliver Senn,Zürich,CH,MediS-Medizin im Schauspielhaus Rämistrasse 34,,7601000457363.0,,,,,750.0,,750.0,hcp,msd
-Daniela Sofra,Lausanne,CH,Cabinet de groupe Avenue de la Gare 11,,7601000756909.0,,,,,1800.0,,1800.0,hcp,msd
-Schenkel Soguel Natacha,Bern,CH,FMH Anästhesiologie - Anästhesie - Lindenhofspital Bremgartenstrass e 117,,7601000019837.0,,,,788.81,,,788.81,hcp,msd
-Martin Spahn,Zürich,CH,Zentrum für Urologie Zürich - Klinik Hirslanden Witellikerstrass e 40,,7601000954459.0,,,,,1500.0,,1500.0,hcp,msd
-Rolf Stahel,Zürich,CH,Universitätsspit al Zürich - Klinik für Onkologie Rämistrasse 100,,7601000226327.0,,,,102.0,18650.0,2530.62,21282.62,hcp,msd
-Rolf Stöckli,Binningen,CH,FMH Endokrinologie-D iabetologie Hauptstrasse 35,,7601000114297.0,,,,,1000.0,,1000.0,hcp,msd
-Isabella Sudano,Zürich,CH,Universitätsspit al Zürich - Klinik für Kardiologie Rämistrasse 100,,7601000733641.0,,,,2228.7,1000.0,,3228.7,hcp,msd
-Markus Suhner,Zürich,CH,Stadtspital Triemli - Anästhesiologie und Intensivmedizin Birmensdorferstr asse 497,,7601000221308.0,,,355.65,527.2,,,882.85,hcp,msd
-Stefan Toggweiler,Luzern,CH,Luzerner Kantonsspital Luzern - Kardiologie / Herzzentrum Luzern Spitalstrasse,,7601000710369.0,,,,,1000.0,,1000.0,hcp,msd
-Brigitte Uebelhart,Genève,CH,Hôpitaux universitaires de Genève - Enseignement thérap.maladies chroniques - Villa Soleillane Chemin Venel 7,,7601000051486.0,,,,,1000.0,,1000.0,hcp,msd
-Gunten von Michael,Ittigen,CH,Pathologie Länggasse Bern Worblentalstrass e 32 West,,7601000707260.0,,,,,1500.0,,1500.0,hcp,msd
-Känel von Roland,Zürich,CH,Universitätsspit al Zürich Psych. Ambulatorium Rämistrasse 100,,7601000414786.0,,,,,1750.0,,1750.0,hcp,msd
-Urs René Freiburghaus,Therwil,CH,FMH Allgemeine Innere Medizin,,7601000136787.0,,,,,750.0,,750.0,hcp,msd
-Wannesson De Nicola Luciano,Bellinzona,CH,Ospedale Regionale di Bellinzona e Valli - IOSI Istituto Oncologico della Svizzera - Italiana / Ospedale San Giovanni EO Via Ospedale,,7601000545183.0,,,289.85,894.75,3000.0,,4184.6,hcp,msd
-Roger Weber,St-Imier,CH,Hôpital du Jura bernois SA - Site de St-Imier Méd.Cardiologie Les Fontenayes 17,,7601000005410.0,,,,,,1200.0,1200.0,hcp,msd
-Michael Weller,Zürich,CH,Universitätsspit al Zürich - Klinik für Neurologie Frauenklinikstra sse 26,,7601000771674.0,,,,,12500.0,,12500.0,hcp,msd
-Mariano Winckler,Sion,CH,Hôpital du Valais - Hôpital de Sion (CHVR) Chir.Digestive Avenue du Grand-Champsec 80,,7601000916204.0,,,,715.65,,,715.65,hcp,msd
-Jörg Wydler,Zürich,CH,"Stadtspital Triemli - Viszeral-, Thorax- und Gefässchirurgie Birmensdorferstr asse 497",,7601000224439.0,,,355.65,547.2,,,902.85,hcp,msd
-Emanuele Zucca,Bellinzona,CH,Ospedale Regionale di Bellinzona e Valli - IOSI Istituto Oncologico della Svizzera - Italiana / Ospedale San Giovanni EO Via Ospedale,,7601000180841.0,,,,,2500.0,,2500.0,hcp,msd
+Christian Marc Schmied,Zürich,CH,Universitätsspit al Zürich - Klinik für Kardiologie Rämistrasse 100,,7601000493606,,,,,6850.0,625.83,7475.83,hcp,msd
+Guido Schüpfer,Luzern,CH,Luzerner Kantonsspital Luzern - Klinik für Anästhesie Spitalstrasse,,7601000169563,,,,,3231.0,,3231.0,hcp,msd
+Esther Schwarz,Zürich,CH,Universitätsspit al Zürich - Klinik für Pneumologie Rämistrasse 100,,7601000892836,,,786.2,1496.7,,,2282.9,hcp,msd
+Beat Hans Schwegler,Baar,CH,Zuger Kantonsspital AG - Medizinische Klinik Landhausstrasse 11,,7601000404824,,,,,2500.0,,2500.0,hcp,msd
+Oliver Senn,Zürich,CH,MediS-Medizin im Schauspielhaus Rämistrasse 34,,7601000457363,,,,,750.0,,750.0,hcp,msd
+Daniela Sofra,Lausanne,CH,Cabinet de groupe Avenue de la Gare 11,,7601000756909,,,,,1800.0,,1800.0,hcp,msd
+Schenkel Soguel Natacha,Bern,CH,FMH Anästhesiologie - Anästhesie - Lindenhofspital Bremgartenstrass e 117,,7601000019837,,,,788.81,,,788.81,hcp,msd
+Martin Spahn,Zürich,CH,Zentrum für Urologie Zürich - Klinik Hirslanden Witellikerstrass e 40,,7601000954459,,,,,1500.0,,1500.0,hcp,msd
+Rolf Stahel,Zürich,CH,Universitätsspit al Zürich - Klinik für Onkologie Rämistrasse 100,,7601000226327,,,,102.0,18650.0,2530.62,21282.62,hcp,msd
+Rolf Stöckli,Binningen,CH,FMH Endokrinologie-D iabetologie Hauptstrasse 35,,7601000114297,,,,,1000.0,,1000.0,hcp,msd
+Isabella Sudano,Zürich,CH,Universitätsspit al Zürich - Klinik für Kardiologie Rämistrasse 100,,7601000733641,,,,2228.7,1000.0,,3228.7,hcp,msd
+Markus Suhner,Zürich,CH,Stadtspital Triemli - Anästhesiologie und Intensivmedizin Birmensdorferstr asse 497,,7601000221308,,,355.65,527.2,,,882.85,hcp,msd
+Stefan Toggweiler,Luzern,CH,Luzerner Kantonsspital Luzern - Kardiologie / Herzzentrum Luzern Spitalstrasse,,7601000710369,,,,,1000.0,,1000.0,hcp,msd
+Brigitte Uebelhart,Genève,CH,Hôpitaux universitaires de Genève - Enseignement thérap.maladies chroniques - Villa Soleillane Chemin Venel 7,,7601000051486,,,,,1000.0,,1000.0,hcp,msd
+Gunten von Michael,Ittigen,CH,Pathologie Länggasse Bern Worblentalstrass e 32 West,,7601000707260,,,,,1500.0,,1500.0,hcp,msd
+Känel von Roland,Zürich,CH,Universitätsspit al Zürich Psych. Ambulatorium Rämistrasse 100,,7601000414786,,,,,1750.0,,1750.0,hcp,msd
+Urs René Freiburghaus,Therwil,CH,FMH Allgemeine Innere Medizin,,7601000136787,,,,,750.0,,750.0,hcp,msd
+Wannesson De Nicola Luciano,Bellinzona,CH,Ospedale Regionale di Bellinzona e Valli - IOSI Istituto Oncologico della Svizzera - Italiana / Ospedale San Giovanni EO Via Ospedale,,7601000545183,,,289.85,894.75,3000.0,,4184.6,hcp,msd
+Roger Weber,St-Imier,CH,Hôpital du Jura bernois SA - Site de St-Imier Méd.Cardiologie Les Fontenayes 17,,7601000005410,,,,,,1200.0,1200.0,hcp,msd
+Michael Weller,Zürich,CH,Universitätsspit al Zürich - Klinik für Neurologie Frauenklinikstra sse 26,,7601000771674,,,,,12500.0,,12500.0,hcp,msd
+Mariano Winckler,Sion,CH,Hôpital du Valais - Hôpital de Sion (CHVR) Chir.Digestive Avenue du Grand-Champsec 80,,7601000916204,,,,715.65,,,715.65,hcp,msd
+Jörg Wydler,Zürich,CH,"Stadtspital Triemli - Viszeral-, Thorax- und Gefässchirurgie Birmensdorferstr asse 497",,7601000224439,,,355.65,547.2,,,902.85,hcp,msd
+Emanuele Zucca,Bellinzona,CH,Ospedale Regionale di Bellinzona e Valli - IOSI Istituto Oncologico della Svizzera - Italiana / Ospedale San Giovanni EO Via Ospedale,,7601000180841,,,,,2500.0,,2500.0,hcp,msd
 Appenzellische Ärztegesellschaf t,Bühler,CH,Dorfstrasse 50,,,,2000.0,,,,,2000.0,hco,msd
 ARAM - Association Romande des Assistantes Médicales,Lausanne,CH,ARAM - Association Romande - des Assistantes Médicales Adresse associative,,,,1800.0,,,,,1800.0,hco,msd
 Arbeitsgruppe Lipide und Atherosklerose Geschäftsstelle AGLA c/o Medworld AG,Steinhausen,CH,Arbeitsgruppe Lipide und Atherosklerose - Geschäftsstelle AGLA - c/o Medworld AG Sennweidstrasse 46,,,,9000.0,,,,,9000.0,hco,msd
