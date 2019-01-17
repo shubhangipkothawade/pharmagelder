@@ -1,0 +1,42 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Martin Kägi,Zürich,CH,Schaffhauserstrasse 355,,,,,363.0,711.0,,,1075.0,hcp,stallergenes
+Jaqueline Wassenberg,Vevey,CH,Boulevard Paderewski 5,,,,,243.0,607.0,,,851.0,hcp,stallergenes
+Samuel Röthlisberger,Gland,CH,Allée du Communet 20,,,,,243.0,616.0,,,860.0,hcp,stallergenes
+Julien Gaillard,Lausanne,CH,Rue du Bugnon 46,,,,,243.0,607.0,,,851.0,hcp,stallergenes
+Catherine Hamman,Neuchâtel,CH,Rue du Seyon 6,,,,,243.0,607.0,,,851.0,hcp,stallergenes
+Yannick Perrin,Lausanne,CH,Rue des Terreaux 23,,,,,243.0,322.0,,,565.0,hcp,stallergenes
+Isaac Gebre-Michael,Versoix,CH,Rampe de la Gare 1a,,,,,243.0,593.0,,,836.0,hcp,stallergenes
+Philip Taramarcaz,Genève,CH,Ruelle de Couchant 7,,,,,243.0,436.0,,,679.0,hcp,stallergenes
+Sietse Hogendijk,Genève,CH,Ruelle de Couchant 7,,,,,243.0,408.0,,,651.0,hcp,stallergenes
+Louis-Francois Debétaz,Lausanne,CH,Place Bel-Air 2,,,,,443.0,1183.0,,,1626.0,hcp,stallergenes
+Martin Glatz,Zürich,CH,Gloriastrasse 31,,,,,0.0,880.0,1000.0,,1860.0,hcp,stallergenes
+Arthur Helbling,Bern,CH,Freiburgstrasse 4,,,,,344.0,0.0,,,344.0,hcp,stallergenes
+Thomas Eduard Schmid,Solothurn,CH,Werkhofstrasse 4,,,,,585.0,1089.0,,,1674.0,hcp,stallergenes
+Viviane Steiner,Basel,CH,Petergraben 4,,,,,0.0,1089.0,,,1089.0,hcp,stallergenes
+Dominique Schneeberger,Corminboeuf,CH,Route de Pâque 5,,,,,0.0,651.0,,,651.0,hcp,stallergenes
+Walter Jörg,Zürich,CH,Schaffhauserstrasse 188,,,,,365.0,866.0,,,1231.0,hcp,stallergenes
+Rainer Kehrt,Feldmeilen,CH,General-Wille-Strasse 65,,,,,331.0,1037.0,,,1368.0,hcp,stallergenes
+Miriam Hoernes,Zürich,CH,Steinwiesstrasse 75,,,,,331.0,517.0,,,849.0,hcp,stallergenes
+Marcel Bergmann,Mendrisio,CH,Via Beroldingen 26,,,,,365.0,676.0,,,1041.0,hcp,stallergenes
+Sara Micaletto,Zürich,CH,Gloriastrasse 31,,,,,,,1000.0,,1000.0,hcp,stallergenes
+Philipp Spring,Epalinges,CH,Route de la Corniche 1,,,,,,,500.0,,500.0,hcp,stallergenes
+Dominik Harder,Chur,CH,Gäuggelistrasse 20,,,,,,,2000.0,,2000.0,hcp,stallergenes
+AGAIA,Genève,CH,"11, rue de Emile-Yung",,,,500.0,,,,,500.0,hco,stallergenes
+AIU Grindelwald c/o friedeven,sPfäffikon,CH,Unterdorfstrasse 12,,,,13500.0,,,,,13500.0,hco,stallergenes
+Centro Pediatrico del Mendrisi,Mtteondrisio,CH,Via Beroldingen 26,,,,1500.0,,,,,1500.0,hco,stallergenes
+CHUV Lausanne,Lausanne,CH,Rue de Bougnon 21,,,,3900.0,,,,,3900.0,hco,stallergenes
+Forum für medizinische Fortbildung FomF GmbH,Zug,CH,Industriestrasse 47,,,,32000.0,,,,,32000.0,hco,stallergenes
+GVAIC,Lausanne,CH,Rue des Terreaux 23,,,,1000.0,,,,,1000.0,hco,stallergenes
+Inselgruppe AG,Bern,CH,Freiburgstrasse 18,,,,1500.0,,,,,1500.0,hco,stallergenes
+KHM c/o Medworld AG,Steinhausen,CH,Sennweidstrasse 46,,,,2160.0,,,,,2160.0,hco,stallergenes
+Kinderärzte Schweiz,Zürich,CH,Badenerstr. 21,,,,3000.0,,,,,3000.0,hco,stallergenes
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,,3000.0,,,,,3000.0,hco,stallergenes
+SGP c/o Congrey Switzerland,Basel,CH,Peter-Merian Str.80,,,,2000.0,,,,,2000.0,hco,stallergenes
+SGP c/o BSC Congress GmbH,Bern,CH,Rabbentalstrasse 83,,,,2700.0,,,,,2700.0,hco,stallergenes
+SGDV SSDV  c/o Convention Team Lucerne AG,Luzern,CH,Oberseeburg 10,,,,7000.0,,,,,7000.0,hco,stallergenes
+SGDV Symposium,Bern,CH,Dalmazirain 11,,,,1500.0,,,,,1500.0,hco,stallergenes
+SSDV,Bern,CH,Dalmazirain 11,,,,2400.0,,,,,2400.0,hco,stallergenes
+synlab Suisse,Luzern,CH,Alpenquai 14,,,,3000.0,,,,,3000.0,hco,stallergenes
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,,3000.0,,,,,3000.0,hco,stallergenes
+UKBB,Basel,CH,Postfach,,,,1500.0,,,,,1500.0,hco,stallergenes
+Verein Lunge Zürich,Zürich,CH,Pfingstweidstrasse 10,,,,4500.0,,,,,4500.0,hco,stallergenes
