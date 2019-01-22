@@ -539,8 +539,8 @@ Christoph Beglinger,Liestal,CH,Oristalstrasse 29,,,,,,,1500.0,,1500.0,hcp,allerg
 Liselotte Berger,Bern,CH,"Inselgruppe AG, Freiburgstrasse 4",,,,,,,800.0,80.0,880.0,hcp,allergan
 Fatmire Berisha,Wallisellen,CH,"Augenglatt Zentrum AG, Neue Winterthurerstrasse 99",,,,,,,300.0,,300.0,hcp,allergan
 Philippe Bichard,Genève,CH,Rue Gabrielle Perret Gentil 4,,,,,,1605.0,,,1605.0,hcp,allergan
-Matteo Bistoletti,Zürich,CH,ZPüarlliacsh bKelirngiskterans Bs a3h4nhofplatz 4,,,,,,,500.0,70.0,570.0,hcp,allergan
-Robert Borny,Aarau,CH,,5000,,,,,,1000.0,70.0,1070.0,hcp,allergan
+Matteo Bistoletti,Zürich,CH,bergstrasse 34,,,,,,,500.0,70.0,570.0,hcp,allergan
+Robert Borny,Aarau,CH,Tellstrasse 25,5000,,,,,,1000.0,70.0,1070.0,hcp,allergan
 Ioannis Botonakis,Zürich,CH,"Bellevue Medical Center  AG, Rämistrasse 4",,,,,,,500.0,70.0,570.0,hcp,allergan
 Fabricio Branca,Basel,CH,Centralbahnstrasse 20,,,,,,,500.0,70.0,570.0,hcp,allergan
 Emanuel Burri,Liestal,CH,Kantonsspital Baselland Rheinstrasse 26,,,,,,,1500.0,45.0,1545.0,hcp,allergan
@@ -644,7 +644,7 @@ Albert Bruppacher Stiftung,Zürich,CH,"Universitäts Augenklinik, Frauenklinikst
 Association suisse pour la promotion globale de la santé,Lausanne,CH,Avenue de Valmont 16,1010,,,10000.0,,,,,10000.0,hco,allergan
 Berner Augenklinik am Lindenhofspital,Bern,CH,Bremgartenstrasse 119,3012,,,4000.0,,,,,4000.0,hco,allergan
 Centre Ophtalmologique du Valais,Sion,CH,Avenue de la Gare 110 ,1895,,,,,485.0,,128.0,613.0,hco,allergan
-CHUV,Genève,CH,,,,,,,1165.0,,173.0,3338.0,hco,allergan
+CHUV,Genève,CH,Rue du Bugnon 21,,,,,,1165.0,,173.0,3338.0,hco,allergan
 Clinique de Montchoisi,Lausanne,CH,Chemin des Allinges 10,1006,,,10000.0,,,,,10000.0,hco,allergan
 Hôpital du jura bernois,Moutier,CH,Beausite 49,2740,,,2500.0,,,,,2500.0,hco,allergan
 Inselgruppe AG,Bern,CH,"Inselgruppe AG, Freiburgstrasse 4",3010,,,34850.0,,,,,34850.0,hco,allergan
@@ -2634,30 +2634,30 @@ USZ Viszerale Chirurgie,Zürich,CH,Rämistrasse,8091,,,3000.0,,,,,3000.0,hco,bio
 USZ Dermatologie,Zürich,CH,Rämistrasse 100,8091,,,1000.0,,,,,1000.0,hco,biotest
 Verein GYNeLEARNING,Zürich,CH,Frauenklinikstrasse 10,8006,,,1000.0,,,,,1000.0,hco,biotest
 Michael Abay,Zürich,CH,Bahnhofstrasse 56,8001,,,,,,750.0,,750.0,hcp,boehringer
-Dan Adler,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,1205,,,,,,1250.0,,1250.0,hcp,boehringer
+Dan Adler,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1250.0,,1250.0,hcp,boehringer
 Urs Aebi,Biel/Bienne,CH,Bahnhofstrasse 54,2502,,,,,570.0,,,570.0,hcp,boehringer
-Ayad Al‐Nasser,Basel,CH,Spalenring 145/147,4055,,,,,,750.0,,750.0,hcp,boehringer
+Ayad Al-Nasser,Basel,CH,Spalenring 145/147,4055,,,,,,750.0,,750.0,hcp,boehringer
 Spyridon Arampatzis,Bern,CH,Freiburgstrasse 18,3010,,,,,,1150.0,,1150.0,hcp,boehringer
 Lars Asmis,Zürich,CH,Seefeldstrasse 224,8008,,,,,,200.0,,200.0,hcp,boehringer
-Anna‐Maria Balestra,Basel,CH,Kleinriehenstrasse 30,4002,,,,,1448.07,,,1448.07,hcp,boehringer
+Anna-Maria Balestra,Basel,CH,Kleinriehenstrasse 30,4002,,,,,1448.07,,,1448.07,hcp,boehringer
 Andreas Barth,Solothurn,CH,Schöngrünstrasse 38,4500,,,,,5740.9,,,5740.9,hcp,boehringer
-Ursula Bärtsch‐Kohli,Langenthal,CH,St. Urbanstrasse 67,4900,,,,,,1800.0,,1800.0,hcp,boehringer
+Ursula Bärtsch-Kohli,Langenthal,CH,St. Urbanstrasse 67,4900,,,,,,1800.0,,1800.0,hcp,boehringer
 Knut Berger,Thalwil,CH,Bahnhofstrasse 12,8800,,,,,,700.0,,700.0,hcp,boehringer
-François‐Javier Bernabeu,Genève,CH,Rue de l'Est 8,1207,,,,,,200.0,,200.0,hcp,boehringer
+François-Javier Bernabeu,Genève,CH,Rue de l'Est 8,1207,,,,,,200.0,,200.0,hcp,boehringer
 Maurizio Bernasconi,Bellinzona,CH,Via Ospedale,6500,,,,,953.0,500.0,,1453.0,hcp,boehringer
 Francine Besse,Martigny,CH,Rue des Morasses 4,1920,,,,,1963.75,400.0,,2363.75,hcp,boehringer
 Swantje Dorothea Beyer,Winterthur,CH,Brauerstrasse 15,8400,,,,,1512.67,,,1512.67,hcp,boehringer
 Rudolf Bezel,Winterthur,CH,Wartstrasse 14,8400,,,,,846.73,,,846.73,hcp,boehringer
-Marie‐Hélène Biard,Sion,CH,Rue du Scex 33,1950,,,,,,300.0,,300.0,hcp,boehringer
-Samuel Blaser,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,1205,,,,,,615.0,,615.0,hcp,boehringer
+Marie-Hélène Biard,Sion,CH,Rue du Scex 33,1950,,,,,,300.0,,300.0,hcp,boehringer
+Samuel Blaser,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,615.0,,615.0,hcp,boehringer
 Bernhard Blum,Biel/Bienne,CH,Neumarktstrasse 27,2503,,,,,830.0,200.0,,1030.0,hcp,boehringer
 Elisabeth Bognar,Amriswil,CH,Weinfelderstrasse 17,8580,,,,,,200.0,,200.0,hcp,boehringer
-Pierre Bohanes,Lausanne,CH,Avenue Alexandre‐Vinet 28,1004,,,,,1653.2,,,1653.2,hcp,boehringer
+Pierre Bohanes,Lausanne,CH,Avenue Alexandre-Vinet 28,1004,,,,,1653.2,,,1653.2,hcp,boehringer
 Heinz Borer,Solothurn,CH,Schöngrünstrasse 42,4500,,,,,1504.07,,,1504.07,hcp,boehringer
 Thomas Brack,Glarus,CH,Burgstrasse 99,8750,,,,,1154.77,,,1154.77,hcp,boehringer
 Michael Brändle,St. Gallen,CH,Rorschacher Strasse 95,9007,,,,,,1000.0,,1000.0,hcp,boehringer
 Simone Braun Semadeni,Winterthur,CH,Brauerstrasse 15,8400,,,,,846.73,,,846.73,hcp,boehringer
-Klaus Buchholz‐Eigenmann,Kreuzlingen,CH,Löwenstrasse 12,8280,,,,,,200.0,,200.0,hcp,boehringer
+Klaus Buchholz-Eigenmann,Kreuzlingen,CH,Löwenstrasse 12,8280,,,,,,200.0,,200.0,hcp,boehringer
 Urs Bürgi,Luzern,CH,Spitalstrasse,6004,,,,,2849.28,,,2849.28,hcp,boehringer
 Roger Burkhard,Zürich,CH,Witellikerstrasse 40,8008,,,,,1760.4,,,1760.4,hcp,boehringer
 Henning Burmeister,Thun,CH,Krankenhausstrasse 12,3600,,,,,,440.0,,440.0,hcp,boehringer
@@ -2665,16 +2665,16 @@ Antonello Calderoni,Lugano,CH,Via Fogazzaro 3,6900,,,,,4382.7,,,4382.7,hcp,boehr
 Joël Capraro,Aarau,CH,Tellstrasse 25,5001,,,,,,1050.0,,1050.0,hcp,boehringer
 Carlos Cardoso Vigueros,Davos Clavadel,CH,Klinikstrasse 6,7272,,,,,716.07,,,716.07,hcp,boehringer
 Robin Chanda,Bellinzona,CH,Viale Stazione 30,6500,,,,,,500.0,,500.0,hcp,boehringer
-Haw‐Tzer Chen,Genève,CH,Avenue Wendt 28,1203,,,,,,200.0,,200.0,hcp,boehringer
+Haw-Tzer Chen,Genève,CH,Avenue Wendt 28,1203,,,,,,200.0,,200.0,hcp,boehringer
 Bernard Chevaux,Yverdon-les-Bains,CH,Rue d'Entremonts 11,1400,,,,,2830.26,,,2830.26,hcp,boehringer
 Christian Clarenbach,Zürich,CH,Rämistrasse 100,8091,,,,,301.78,2200.0,,2501.78,hcp,boehringer
-Gregory Clark,La Chaux‐de‐Fonds,CH,Rue Numa‐Droz 187 A,2300,,,,,,750.0,,750.0,hcp,boehringer
+Gregory Clark,La Chaux-de-Fonds,CH,Rue Numa-Droz 187 A,2300,,,,,,750.0,,750.0,hcp,boehringer
 Elisabeth Constam,Nürensdorf,CH,Haldenweidstrasse 5,8309,,,,,,500.0,,500.0,hcp,boehringer
 Silvio Crestani,Stabio,CH,Via Giulia 43,6855,,,,,,250.0,,250.0,hcp,boehringer
 Brigitte Crottaz,Lausanne,CH,Chemin Porchat 24,1004,,,,,968.99,,,968.99,hcp,boehringer
 Alessandra Curioni,Zürich,CH,Rämistrasse 100,8091,,,,,,1150.0,,1150.0,hcp,boehringer
 Giannicola D'Addario,Schaffhausen,CH,Geissbergstrasse 81,8208,,,,,1760.4,,,1760.4,hcp,boehringer
-Minh‐Hiep Dao,Lausanne,CH,Avenue d'Echallens 61,1004,,,,,,200.0,,200.0,hcp,boehringer
+Minh-Hiep Dao,Lausanne,CH,Avenue d'Echallens 61,1004,,,,,,200.0,,200.0,hcp,boehringer
 Daniel de Quervain,Bern,CH,Tscharnerstrasse 1,3007,,,,,,200.0,,200.0,hcp,boehringer
 Thomas Deseö,Zürich,CH,Dufourstrasse 143,8008,,,,,,750.0,,750.0,hcp,boehringer
 Barbara Diesch,Dallenwil,CH,Dorfplatz 4,6383,,,,,,300.0,,300.0,hcp,boehringer
@@ -2683,7 +2683,7 @@ Guido Domenighetti,Locarno,CH,Via all'Ospedale 14,6600,,,,,,300.0,,300.0,hcp,boe
 Dominique Durrer,Vevey,CH,Quai Perdonnet 14,1800,,,,,,80.48,,80.48,hcp,boehringer
 Ramin Ebrahimi,Basel,CH,Petersgraben 4,4031,,,,,,750.0,,750.0,hcp,boehringer
 Bernard Egger,Rolle,CH,Route de l'Hôpital 26,1180,,,,,668.63,2450.0,,3118.63,hcp,boehringer
-Karim Omar El‐Haschimi,Baden,CH,Bahnhofplatz 1,5400,,,,,,750.0,,750.0,hcp,boehringer
+Karim Omar El-Haschimi,Baden,CH,Bahnhofplatz 1,5400,,,,,,750.0,,750.0,hcp,boehringer
 Urs Eriksson,Wetzikon ZH,CH,Spitalstrasse 66,8620,,,,,1324.9,,,1324.9,hcp,boehringer
 Patrick Fachinger,Frick,CH,Mühlegasse 18,5070,,,,,,600.0,,600.0,hcp,boehringer
 Bruno Fellmann,Birmensdorf ZH,CH,Zürcherstrasse 9,8903,,,,,,300.0,,300.0,hcp,boehringer
@@ -2693,28 +2693,28 @@ Daniel Franzen,Zürich,CH,Rämistrasse 100,8091,,,,,301.78,,,301.78,hcp,boehring
 Matthias Frasnelli,Chur,CH,Loëstrasse 170,7000,,,,,361.0,,,361.0,hcp,boehringer
 Lutz Freitag,Luzern,CH,Lützelmattstrasse 1,6006,,,,,,750.0,,750.0,hcp,boehringer
 Gregory Fretz,Scuol,CH,Via da l' Ospidal 280,7550,,,,,1651.03,,,1651.03,hcp,boehringer
-Jean‐Georges Frey,Crans‐Montana,CH,Route de la Moubra 87,3963,,,,,2572.32,,,2572.32,hcp,boehringer
+Jean-Georges Frey,Crans-Montana,CH,Route de la Moubra 87,3963,,,,,2572.32,,,2572.32,hcp,boehringer
 Martin Frey,Barmelweid,CH,Chefarzt,5017,,,,,680.07,,,680.07,hcp,boehringer
 Karsten Fritsch,Onex,CH,Route de Loëx 3,1213,,,,,738.27,,,738.27,hcp,boehringer
 Patrizia Froesch,Locarno,CH,Via all'Ospedale 1,6600,,,,,1125.36,1725.0,,2850.36,hcp,boehringer
 Anita Gander,Heiligenschwendi,CH,Schwendi 299,3625,,,,,774.0,,,774.0,hcp,boehringer
 Stephan Gasser,Baar,CH,Landhausstrasse 11,6340,,,,,1668.17,,,1668.17,hcp,boehringer
-Giacomo Gastaldi,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,1205,,,,,,1200.0,,1200.0,hcp,boehringer
+Giacomo Gastaldi,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1200.0,,1200.0,hcp,boehringer
 Pietro Gianella,Lugano,CH,Via Tesserete 46,6900,,,,,,1200.0,,1200.0,hcp,boehringer
 Martin Gimmi,Oberwangen TG,CH,Fischingerstrasse 47,8374,,,,,,250.0,,250.0,hcp,boehringer
-Vittorio Giusti,Sierre,CH,Rue St‐Charles 14,3960,,,,,,87.48,,87.48,hcp,boehringer
+Vittorio Giusti,Sierre,CH,Rue St-Charles 14,3960,,,,,,87.48,,87.48,hcp,boehringer
 Alain Golay,Genève,CH,Chemin Venel 7,1206,,,,,,1230.48,,1230.48,hcp,boehringer
 Michael Gonon,Basel,CH,Grenzacherstrasse 62,4058,,,,,,600.0,,600.0,hcp,boehringer
-Jean‐Jacques Grimm,Delémont,CH,Rue du Temple 45,2800,,,,,,500.0,,500.0,hcp,boehringer
-Philipp Grob‐Blum,Spiez,CH,Oberlandstrasse 9,3700,,,,,722.07,,,722.07,hcp,boehringer
+Jean-Jacques Grimm,Delémont,CH,Rue du Temple 45,2800,,,,,,500.0,,500.0,hcp,boehringer
+Philipp Grob-Blum,Spiez,CH,Oberlandstrasse 9,3700,,,,,722.07,,,722.07,hcp,boehringer
 Andreas Matthias Gross,Baden,CH,Im Ergel 1,5404,,,,,755.0,,,755.0,hcp,boehringer
 Christian Grünwald,Zürich,CH,Forchstrasse 138,8032,,,,,,200.0,,200.0,hcp,boehringer
 Susanne Guglielmi,St. Gallen,CH,Zeughausgasse 22,9000,,,,,,750.0,,750.0,hcp,boehringer
-Marie‐Luce Guillermin‐Spahr,Onex,CH,Route de Chancy 98,1213,,,,,812.46,,,812.46,hcp,boehringer
+Marie-Luce Guillermin-Spahr,Onex,CH,Route de Chancy 98,1213,,,,,812.46,,,812.46,hcp,boehringer
 Olivier Guinand,Genève,CH,Rue Marignac 14,1206,,,,,,750.0,,750.0,hcp,boehringer
 Daniel Güntert,Wattwil,CH,Bahnhofstrasse 4,9630,,,,,789.0,1000.0,,1789.0,hcp,boehringer
 Magdalen Gürtler,Biel/Bienne,CH,Schüsspromenade 16,2502,,,,,675.73,,,675.73,hcp,boehringer
-Raphael Haberthür,Breitenbach,CH,Alice Vogt‐Strasse 2,4226,,,,,,350.0,,350.0,hcp,boehringer
+Raphael Haberthür,Breitenbach,CH,Alice Vogt-Strasse 2,4226,,,,,,350.0,,350.0,hcp,boehringer
 Mark Häfner Morosani,Bülach,CH,Bannhaldenstrasse 7,8180,,,,,578.39,,,578.39,hcp,boehringer
 Jürg Hamacher,Bern,CH,Bremgartenstrasse 119,3012,,,,,724.07,,,724.07,hcp,boehringer
 Diane Hebert,Nyon,CH,Chemin Monastier 10,1260,,,,,3814.83,,,3814.83,hcp,boehringer
@@ -2729,11 +2729,11 @@ Laurent Jacob,Grône,CH,Rue Centrale 123,3979,,,,,,200.0,,200.0,hcp,boehringer
 Kathleen Jahn,Basel,CH,Petersgraben 4,4031,,,,,,750.0,,750.0,hcp,boehringer
 Maximilian Jahns,Bern,CH,Bubenbergplatz 11,3011,,,,,,200.0,,200.0,hcp,boehringer
 Peiman Jamshidi,Luzern,CH,Alpenstrasse 1,6004,,,,,,1000.0,,1000.0,hcp,boehringer
-Pierre‐Yves Jayet,Lausanne,CH,Boulevard de Grancy 7,1006,,,,,1876.93,,,1876.93,hcp,boehringer
+Pierre-Yves Jayet,Lausanne,CH,Boulevard de Grancy 7,1006,,,,,1876.93,,,1876.93,hcp,boehringer
 Vincent Jéquier,Lausanne,CH,Route d'Oron 1,1010,,,,,,200.0,,200.0,hcp,boehringer
 Ladina Joos Zellweger,Basel,CH,Kleinriehenstrasse 30,4002,,,,,726.0,,,726.0,hcp,boehringer
 Lilian Junker,Thun,CH,Krankenhausstrasse 12,3600,,,,,780.73,200.0,,980.73,hcp,boehringer
-Joachim Karsegard,Grand‐Lancy,CH,Avenue des Communes‐Réunies 16,1212,,,,,920.54,,,920.54,hcp,boehringer
+Joachim Karsegard,Grand-Lancy,CH,Avenue des Communes-Réunies 16,1212,,,,,920.54,,,920.54,hcp,boehringer
 Manfred Kaufmann,Solothurn,CH,Werkhofstrasse 4,4500,,,,,810.07,,,810.07,hcp,boehringer
 Dominik Klamp,Zürich,CH,Baumackerstrasse 46,8050,,,,,,300.0,,300.0,hcp,boehringer
 Joachim Klar,Olten,CH,Hauptgasse 18,4600,,,,,,500.0,,500.0,hcp,boehringer
@@ -2758,30 +2758,30 @@ Armin Lechmann,Gossau SG,CH,St.Gallerstrasse 124,9200,,,,,,250.0,,250.0,hcp,boeh
 Manon Leibl,Wald ZH,CH,Faltigbergstrasse 7,8636,,,,,1853.41,,,1853.41,hcp,boehringer
 Loïck Locatelli,Genève,CH,Chemin Venel 7,1206,,,,,,86.56,,86.56,hcp,boehringer
 Rudolf Louma,Bern,CH,Südbahnhofstrasse 2,3007,,,,,,200.0,,200.0,hcp,boehringer
-Christian Lovis,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,1205,,,,,,750.0,,750.0,hcp,boehringer
+Christian Lovis,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,750.0,,750.0,hcp,boehringer
 Peter Ludwig,Chur,CH,Loëstrasse 170,7000,,,,,805.0,,,805.0,hcp,boehringer
 Thomas F. Lüscher,Schlieren,CH,Wagistrasse 12,8952,,,,,,3200.0,,3200.0,hcp,boehringer
 Tamas Major,Uznach,CH,Gasterstrasse 25,8730,,,,,6289.71,600.0,,6889.71,hcp,boehringer
-Pierre‐Yves Martin,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,1205,,,,,,1300.0,,1300.0,hcp,boehringer
+Pierre-Yves Martin,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1300.0,,1300.0,hcp,boehringer
 Safia Masmoudi,Neuchâtel,CH,Rue de la Maladière 45,2000,,,,,3846.28,,,3846.28,hcp,boehringer
 Heinz Matti,Thun,CH,Allmendingenstrasse 22,3608,,,,,,250.0,,250.0,hcp,boehringer
 Marc Maurer,Olten,CH,Baslerstrasse 150,4600,,,,,733.4,,,733.4,hcp,boehringer
 Bernhard Meier,Bern,CH,Freiburgstrasse 18,3010,,,,,,4728.8,,4728.8,hcp,boehringer
 Cyrus Meisels,Thun,CH,Scherzligweg 12,3600,,,,,722.07,1000.0,,1722.07,hcp,boehringer
 Max Misteli,Oensingen,CH,Bienkenstrasse 26,4702,,,,,,1700.0,,1700.0,hcp,boehringer
-Pierre‐M. Mo Costabella,Lausanne,CH,Place de la Riponne 5,1005,,,,,1950.67,,,1950.67,hcp,boehringer
-Nicole Montavon Salomon,Genève,CH,Rue Pedro‐Meylan 1,1208,,,,,1028.03,,,1028.03,hcp,boehringer
+Pierre-M. Mo Costabella,Lausanne,CH,Place de la Riponne 5,1005,,,,,1950.67,,,1950.67,hcp,boehringer
+Nicole Montavon Salomon,Genève,CH,Rue Pedro-Meylan 1,1208,,,,,1028.03,,,1028.03,hcp,boehringer
 Martin Moser,Kreuzlingen,CH,Hauptstrasse 84,8280,,,,,,200.0,,200.0,hcp,boehringer
 Franco Muggli,Vezia,CH,Via ai Platani 4,6943,,,,,1755.05,1200.0,,2955.05,hcp,boehringer
 Christian Eugen Müller,Basel,CH,Petersgraben 4,4031,,,,,,1300.0,,1300.0,hcp,boehringer
-Nicole Mutter‐Borgognon,Luzern,CH,St. Anna‐Strasse 32,6006,,,,,,500.0,,500.0,hcp,boehringer
+Nicole Mutter-Borgognon,Luzern,CH,St. Anna-Strasse 32,6006,,,,,,500.0,,500.0,hcp,boehringer
 Bruno Naccini,Lugano,CH,Via Moncucco 10,6900,,,,,,500.0,,500.0,hcp,boehringer
 Véronique Negrel,Neuchâtel,CH,Faubourg de l'Hôpital 81,2000,,,,,,750.0,,750.0,hcp,boehringer
 Joerg Neidig,Sierre,CH,Route de Sion 3,3960,,,,,,200.0,,200.0,hcp,boehringer
-Béatrice Neuffer‐Bajetta,Chiasso,CH,Piazza Indipendenza 4,6830,,,,,1288.0,,,1288.0,hcp,boehringer
-Bá Thanh‐Trúc Ngô,Basel,CH,Lukas Legrand‐Strasse 4,4058,,,,,,1050.0,,1050.0,hcp,boehringer
+Béatrice Neuffer-Bajetta,Chiasso,CH,Piazza Indipendenza 4,6830,,,,,1288.0,,,1288.0,hcp,boehringer
+Bá Thanh-Trúc Ngô,Basel,CH,Lukas Legrand-Strasse 4,4058,,,,,,1050.0,,1050.0,hcp,boehringer
 Daniel Noth,Unterseen,CH,Spitalweg 1,3800,,,,,,500.0,,500.0,hcp,boehringer
-Aurélia Oberhänsli Wavre,Fribourg,CH,Route Sainte‐Thérèse 2D,1700,,,,,1159.75,,,1159.75,hcp,boehringer
+Aurélia Oberhänsli Wavre,Fribourg,CH,Route Sainte-Thérèse 2D,1700,,,,,1159.75,,,1159.75,hcp,boehringer
 Christine Otth,Horgen,CH,Schärbächlistrasse 3,8810,,,,,,200.0,,200.0,hcp,boehringer
 Zoltan Pataky,Genève,CH,Chemin Venel 7,1206,,,,,,3250.0,,3250.0,hcp,boehringer
 Georges Perraudin,Martigny,CH,Avenue de la Gare 10,1920,,,,,,200.0,,200.0,hcp,boehringer
@@ -2811,7 +2811,7 @@ Thomas Schmid,Solothurn,CH,Werkhofstrasse 4,4500,,,,,1217.07,750.0,,1967.07,hcp,
 Otto Schoch,St. Gallen,CH,Rorschacher Strasse 95,9007,,,,,,1200.0,,1200.0,hcp,boehringer
 Marcus Schories,Basel,CH,Gellertstrasse 142,4052,,,,,,1200.0,,1200.0,hcp,boehringer
 Alfred Schweizer,Weinfelden,CH,Marktplatz 5,8570,,,,,,200.0,,200.0,hcp,boehringer
-Dipen Shah,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,1205,,,,,895.85,750.0,,1645.85,hcp,boehringer
+Dipen Shah,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,895.85,750.0,,1645.85,hcp,boehringer
 René Siebenschein,Wettingen,CH,Bahnhofstrasse 88,5430,,,,,763.0,,,763.0,hcp,boehringer
 Thomas Sigrist,Barmelweid,CH,Chefarzt,5017,,,,,1806.51,,,1806.51,hcp,boehringer
 Daniela Sofra,Lausanne,CH,Avenue de la Gare 11,1003,,,,,,750.0,,750.0,hcp,boehringer
@@ -2821,7 +2821,7 @@ Oliver Sperisen,Zürich,CH,Birmensdorferstrasse 497,8063,,,,,999.33,,,999.33,hcp
 Rolf Stahel,Zürich,CH,Rämistrasse 100,8091,,,,,,3789.35,796.2,4585.55,hcp,boehringer
 Olivier Staneczek,Clarens,CH,Rue du Lac 142,1815,,,,,,1500.0,,1500.0,hcp,boehringer
 Jan Steffel,Zürich,CH,Rämistrasse 100,8091,,,,,,2615.0,,2615.0,hcp,boehringer
-Claudia Steurer‐Stey,Zürich,CH,Rotbuchstrasse 46,8037,,,,,,1000.0,,1000.0,hcp,boehringer
+Claudia Steurer-Stey,Zürich,CH,Rotbuchstrasse 46,8037,,,,,,1000.0,,1000.0,hcp,boehringer
 Philipp Stocker,Sarnen,CH,Brünigstrasse 181,6060,,,,,2720.24,,,2720.24,hcp,boehringer
 Werner Strobel,Basel,CH,Petersgraben 4,4031,,,,,672.07,,,672.07,hcp,boehringer
 Armin Stucki,Thun,CH,Krankenhausstrasse 12,3600,,,,,769.4,,,769.4,hcp,boehringer
@@ -2831,7 +2831,7 @@ Christian Templin,Zürich,CH,Rämistrasse 100,8091,,,,,,1090.17,595.77,1685.94,h
 Irene Thüer,Frauenfeld,CH,Pfaffenholzstrasse 4,8500,,,,,1665.68,,,1665.68,hcp,boehringer
 Dinh Lam Toan,Bouveret,CH,Route cantonale 42,1897,,,,,,200.0,,200.0,hcp,boehringer
 Sebastian Tonko,St. Gallen,CH,Rorschacher Strasse 95,9007,,,,,570.0,,,570.0,hcp,boehringer
-Nhu‐Nam Tran‐Thang,Lausanne,CH,Avenue Alexandre‐Vinet 19B,1004,,,,,4068.78,,,4068.78,hcp,boehringer
+Nhu-Nam Tran-Thang,Lausanne,CH,Avenue Alexandre-Vinet 19B,1004,,,,,4068.78,,,4068.78,hcp,boehringer
 Anne Tschacher,Liestal,CH,Rheinstrasse 26,4410,,,,,,600.0,,600.0,hcp,boehringer
 Christoph Tuor,Zürich,CH,Witellikerstrasse 40,8008,,,,,578.39,,,578.39,hcp,boehringer
 Alexander Turk,Horgen,CH,Asylstrasse 19,8810,,,,,,1000.0,,1000.0,hcp,boehringer
@@ -2839,7 +2839,7 @@ Kiril Tzvetanov,Sierre,CH,Avenue du Général Guisan 12,3960,,,,,,1250.0,,1250.0
 Antonio Valenti,Lugano,CH,Via Tesserete 46,6900,,,,,,500.0,,500.0,hcp,boehringer
 Jérôme Vitry,Muraz (Collombey),CH,Z.A. des Plavaux 102,1893,,,,,,200.0,,200.0,hcp,boehringer
 Philippe von Burg,Solothurn,CH,Schöngrünstrasse 38,4500,,,,,,440.0,,440.0,hcp,boehringer
-Jean‐Claude Vuille,Lausanne,CH,Rue Marterey 56,1005,,,,,1781.0,,,1781.0,hcp,boehringer
+Jean-Claude Vuille,Lausanne,CH,Rue Marterey 56,1005,,,,,1781.0,,,1781.0,hcp,boehringer
 Christine Waibel,Baden,CH,Departement Medizin,5404,,,,,1830.45,,,1830.45,hcp,boehringer
 Beat Walder,Zollikerberg,CH,Trichtenhauserstrasse 2,8125,,,,,,600.0,,600.0,hcp,boehringer
 Luciano Wannesson De Nicola,Bellinzona,CH,Via Ospedale,6500,,,,,,1725.0,,1725.0,hcp,boehringer
@@ -2848,16 +2848,16 @@ Klaus Weber,Frauenfeld,CH,Bahnhofstrasse 61,8500,,,,,,750.0,,750.0,hcp,boehringe
 Claudia Weber,Zürich,CH,Rämistrasse 100,8091,,,,,741.87,,,741.87,hcp,boehringer
 Christoph Wyser,Luzern,CH,Zürichstrasse 12,6004,,,,,722.07,,,722.07,hcp,boehringer
 Natalie Yaldizli,Laufen,CH,Allmendweg 2,4242,,,,,,300.0,,300.0,hcp,boehringer
-Se‐Il Yoon,Sursee,CH,Centralstrasse 35,6210,,,,,,1200.0,,1200.0,hcp,boehringer
+Se-Il Yoon,Sursee,CH,Centralstrasse 35,6210,,,,,,1200.0,,1200.0,hcp,boehringer
 Andrea Zanini,Lugano,CH,Via Tesserete 46,6900,,,,,,500.0,,500.0,hcp,boehringer
 Roland Zehnder,Buchrain,CH,Hauptstrasse 12,6033,,,,,,300.0,,300.0,hcp,boehringer
 Anna Zortea,Münsterlingen,CH,Spitalcampus 1,8596,,,,,,200.0,,200.0,hcp,boehringer
 Alice Zürcher,Uster,CH,Brunnenstrasse 42,8610,,,,,806.0,,,806.0,hcp,boehringer
-ARAM ‐ Association Romande desAssistantes Médicales,Lausanne,CH,Adresse associative,1003,,,1800.0,,,,,1800.0,hco,boehringer
+ARAM - Association Romande desAssistantes Médicales,Lausanne,CH,Adresse associative,1003,,,1800.0,,,,,1800.0,hco,boehringer
 Ärztegesellschaft des Kantons Bern,Bern,CH,Postgasse 19,3011,,,5000.0,,,,,5000.0,hco,boehringer
 Ärztegesellschaft Gäu c/o ÄrztegesellschaftKanton Luzern,Luzern,CH,Schwanenplatz 7,6004,,,1000.0,,,,,1000.0,hco,boehringer
 Ärztekongress Arosa,Arosa,CH,Postfach 68,7050,,,2340.0,,,,,2340.0,hco,boehringer
-Ärztenetz Bantiger Präsident: Dr. EmilDreyer,Ittigen,CH,Talgut‐Zentrum 34,3063,,,1000.0,,,,,1000.0,hco,boehringer
+Ärztenetz Bantiger Präsident: Dr. EmilDreyer,Ittigen,CH,Talgut-Zentrum 34,3063,,,1000.0,,,,,1000.0,hco,boehringer
 Ärztenetzwerk Grauholz,Ittigen,CH,Worblentalstrasse 99,3063,,,2740.75,,,,,2740.75,hco,boehringer
 "Asana Gruppe AG, Spital Menziken MedizinKardiologie",Menziken,CH,Spitalstrasse 1,5737,,,3000.0,,,,,3000.0,hco,boehringer
 Associazione Medici Internisti del CantonTicino (AMITI),Paradiso,CH,Via General Guisan 10,6900,,,500.0,,,,,500.0,hco,boehringer
@@ -2866,45 +2866,45 @@ CHUV Centre hospitalier universitairevaudois,Lausanne,CH,Rue du Bugnon 46,1011,,
 CIPRA / IGAPT Madame Kathleen Grant,Lausanne,CH,Rue de Bugnon,1011,,,1500.0,,,,,1500.0,hco,boehringer
 Circolo Medico Di Bellinzona Presidente: Dr.Ezio Montedoro,Arbedo,CH,Via Orbello 22,6517,,,750.0,,,,,750.0,hco,boehringer
 Circolo Medico Locarno e DintorniPresidente: Dr. med. Nello Broggini,Ascona,CH,Via Lido 27,6612,,,1500.0,,,,,1500.0,hco,boehringer
-Clinique de Carouge,Carouge GE,CH,Avenue Cardinal‐Mermillod 1,1227,,,1500.0,,,,,1500.0,hco,boehringer
-Clinique Le Noirmont Centre deréadaptation cardio‐vasculaire,Le Noirmont,CH,Chemin de Roc‐Montès 20,2340,,,1000.0,,,,,1000.0,hco,boehringer
+Clinique de Carouge,Carouge GE,CH,Avenue Cardinal-Mermillod 1,1227,,,1500.0,,,,,1500.0,hco,boehringer
+Clinique Le Noirmont Centre deréadaptation cardio-vasculaire,Le Noirmont,CH,Chemin de Roc-Montès 20,2340,,,1000.0,,,,,1000.0,hco,boehringer
 Coeur de la Tour Fondation pour larecherche,Meyrin,CH,Avenue Maillard 1,1217,,,8000.0,,,,,8000.0,hco,boehringer
 Die Schweizerische Ärztegesellschaft fürManuelle Medizin (SAMM),St. Gallen,CH,Kolumbanstrasse 2,9008,,,14200.0,,,,,14200.0,hco,boehringer
 DOXnet Aerztenetzwerk Bern Nord/WestHerr Dr. med. Köstner Beat,Neuenegg,CH,Oeleweg 2,3176,,,3000.0,,,,,3000.0,hco,boehringer
 ESMO European Society for MedicalOncology,Viganello,CH,Via Luigi Taddei 4,6962,,234386.55,,,,,,234386.55,hco,boehringer
 European League Against Rheumatism(EULAR),Kilchberg ZH,CH,Seestrasse 240,8802,,128407.24,224520.51,,,,,352927.75,hco,boehringer
-European Stroke Organisation (ESO)Administration,Basel,CH,Peter Merian‐Strasse 80,4002,,840259.42,42516.63,,,,,882776.05,hco,boehringer
+European Stroke Organisation (ESO)Administration,Basel,CH,Peter Merian-Strasse 80,4002,,840259.42,42516.63,,,,,882776.05,hco,boehringer
 Fokus Herz Bern c/o CCE Services GmbH,Basel,CH,Dornacherstrasse 82,4053,,,5000.0,,,,,5000.0,hco,boehringer
-Fondation du Centre de ChimiothérapieAnti‐Cancéreuse (CCAC),Lausanne,CH,Avenue Alexandre‐Vinet 19 bis,1004,,,1000.0,,,,,1000.0,hco,boehringer
-Fondation pour la recherche de lacardiologie universitaire Genève,Genève,CH,Rue Micheli‐du‐Crest 24,1205,,,2500.0,,,5050.0,,7550.0,hco,boehringer
+Fondation du Centre de ChimiothérapieAnti-Cancéreuse (CCAC),Lausanne,CH,Avenue Alexandre-Vinet 19 bis,1004,,,1000.0,,,,,1000.0,hco,boehringer
+Fondation pour la recherche de lacardiologie universitaire Genève,Genève,CH,Rue Micheli-du-Crest 24,1205,,,2500.0,,,5050.0,,7550.0,hco,boehringer
 Fondazione Cardiocentro Ticino,Lugano,CH,Via Tesserete 48,6900,,,1650.0,,,,,1650.0,hco,boehringer
 Forum für medizinische Fortbildung FomFGmbH,Zug,CH,Ahornstrasse 2,6300,,,4000.0,,,,,4000.0,hco,boehringer
 Foundation for Cardiovascular ResearchZurich Heart House,Zürich,CH,Moussonsstrasse 4,8091,,,35000.0,,,,,35000.0,hco,boehringer
 Gesellschaft der Aerzte des ZürcherOberlandes AGZO,Dübendorf,CH,Gesellschaft der Aerzte,8600,,,3000.0,,,,,3000.0,hco,boehringer
-Groupe Médecine & Hygiène,Chêne‐Bourg,CH,Chemin de la Mousse 46,1225,,,1000.0,,,,,1000.0,hco,boehringer
-Groupement des médecins des Franches‐Montagnes (GMFM),Saignelégier,CH,Place du 23 Juin 2,2350,,,1000.0,,,,,1000.0,hco,boehringer
+Groupe Médecine & Hygiène,Chêne-Bourg,CH,Chemin de la Mousse 46,1225,,,1000.0,,,,,1000.0,hco,boehringer
+Groupement des médecins des Franches-Montagnes (GMFM),Saignelégier,CH,Place du 23 Juin 2,2350,,,1000.0,,,,,1000.0,hco,boehringer
 Groupement des Pneumologues Genevois(GPG),Carouge GE,CH,Place du Temple 15,1227,,,2000.0,,,,,2000.0,hco,boehringer
-Groupement des Pneumologues VaudoisPrésident: Dr Jean‐Frédéric Vodoz,Montreux,CH,Grand‐Rue 62,1820,,,1500.0,,,,,1500.0,hco,boehringer
+Groupement des Pneumologues VaudoisPrésident: Dr Jean-Frédéric Vodoz,Montreux,CH,Grand-Rue 62,1820,,,1500.0,,,,,1500.0,hco,boehringer
 "Gruppenpraxis Bülach, Grabengasse 12",Bülach,CH,Grabengasse 12,8180,,,1500.0,,,,,1500.0,hco,boehringer
-"Gruppenpraxis Rheinfelden, Habich‐Dietschy‐Strasse 18",Rheinfelden,CH,Habich‐Dietschy‐Strasse 18,4310,,,3000.0,,,,,3000.0,hco,boehringer
+"Gruppenpraxis Rheinfelden, Habich-Dietschy-Strasse 18",Rheinfelden,CH,Habich-Dietschy-Strasse 18,4310,,,3000.0,,,,,3000.0,hco,boehringer
 "Gruppenpraxis St. Gallen, Brauerstrasse 97 /eSwiss",St. Gallen,CH,Brauerstrasse 97,9016,,,4500.0,,,1203.7,,5703.7,hco,boehringer
 "Gruppenpraxis Wallisellen, Zentralstrasse 6",Wallisellen,CH,Zentralstrasse 6,8304,,,1500.0,,,,,1500.0,hco,boehringer
 Gruppo dei Cardiologi Ticinesi c/o Dr. med.Marco Facchini,Muralto,CH,Via della Stazione 9,6600,,,750.0,,,,,750.0,hco,boehringer
 Gruppo Medico Formazione,Giubiasco,CH,Gruppo Medico Formazione,6512,,,3300.0,,,,,3300.0,hco,boehringer
 Hausärzteverein M.R.S. Gossau PräsidentDr. med. Andreas Bärlocher,Gossau SG,CH,St. Gallerstrasse 77,9200,,,1500.0,,,,,1500.0,hco,boehringer
 HerzGefässStiftung c/o Prof. Dr. Franz Wolfgang Amann,Zürich,CH,Seestrasse 220,8002,,,12500.0,,,,,12500.0,hco,boehringer
-HFR Fribourg ‐ Hôpital cantonal,Fribourg,CH,Chemin des Pensionnats 2‐6,1708,,,,,,750.0,,750.0,hco,boehringer
+HFR Fribourg - Hôpital cantonal,Fribourg,CH,Chemin des Pensionnats 2-6,1708,,,,,,750.0,,750.0,hco,boehringer
 HICC Haemostasis in Critical Care GmbHZentrum für Labormedizin St. Gallen,St. Gallen,CH,Frohbergstrasse 3,9000,,,5500.0,,,,,5500.0,hco,boehringer
 Hôpital de Nyon / GHOL,Nyon,CH,Chemin Monastier 10,1260,,,1900.0,,,,,1900.0,hco,boehringer
 Hôpital du Jura,Delémont,CH,Faubourg des Capucins 30,2800,,,6500.0,,,,,6500.0,hco,boehringer
 Hôpital du Jura bernois SA Site de Moutier,Moutier,CH,Rue de Beausite 49,2740,,,2500.0,,,,,2500.0,hco,boehringer
-Hôpital du Valais Hôpital de Sion (CHVR),Sion,CH,Avenue du Grand‐Champsec 80,1950,,,4000.0,,,2057.0,,6057.0,hco,boehringer
-Hôpital intercantonal de la Broye (HIB) Sited'Estavayer‐le‐Lac,Estavayer‐le‐Lac,CH,Rue de la Rochette,1470,,,2000.0,,,,,2000.0,hco,boehringer
-Hôpitaux Universitaires de Genève,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,1205,,,22500.0,,,2150.0,,24650.0,hco,boehringer
+Hôpital du Valais Hôpital de Sion (CHVR),Sion,CH,Avenue du Grand-Champsec 80,1950,,,4000.0,,,2057.0,,6057.0,hco,boehringer
+Hôpital intercantonal de la Broye (HIB) Sited'Estavayer-le-Lac,Estavayer-le-Lac,CH,Rue de la Rochette,1470,,,2000.0,,,,,2000.0,hco,boehringer
+Hôpitaux Universitaires de Genève,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,22500.0,,,2150.0,,24650.0,hco,boehringer
 Idrizi Ismet Praktischer Arzt c/o Herr Dr.Mustafa Ghafier,Münchwilen TG,CH,Waldeggstrasse 18,9542,,,,,,200.0,,200.0,hco,boehringer
 Inselspital Bern Ophthalmologische Klinik,Bern,CH,Freiburgstrasse 18,3010,,,,,,545.0,,545.0,hco,boehringer
-"Inselspital Bern, Insel‐Gruppe AG",Bern,CH,Freiburgstrasse 18,3010,,,32872.0,,15384.73,13750.0,,62006.73,hco,boehringer
-Institut Central des Hôpitaux (ICH) Hôpitaldu Valais,Sion,CH,Avenue du Grand‐Champsec 86,1950,,,,,,750.0,,750.0,hco,boehringer
+"Inselspital Bern, Insel-Gruppe AG",Bern,CH,Freiburgstrasse 18,3010,,,32872.0,,15384.73,13750.0,,62006.73,hco,boehringer
+Institut Central des Hôpitaux (ICH) Hôpitaldu Valais,Sion,CH,Avenue du Grand-Champsec 86,1950,,,,,,750.0,,750.0,hco,boehringer
 Kantonale Ärztegesellschaft Luzern /Sektion Gäu,Sursee,CH,Spitalstrasse 16a,6210,,,2000.0,,,,,2000.0,hco,boehringer
 Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,5001,,,2500.0,,,2450.0,,4950.0,hco,boehringer
 Kantonsspital Aarau AG Medizin Neurologie,Aarau,CH,Tellstrasse 25,5001,,,5000.0,,,,,5000.0,hco,boehringer
@@ -2915,8 +2915,8 @@ Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,9007,,,14660.0,,,7
 Kantonsspital Uri,Altdorf UR,CH,Spitalstrasse 1,6460,,,2000.0,,,,,2000.0,hco,boehringer
 Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,8400,,,1000.0,,,,,1000.0,hco,boehringer
 Kollegium f. Hausarztmedizin (KHM/CMPR)Bénédicte Laville (Administration),Fribourg,CH,Rue de l'Hôpital 15,1700,,,2340.0,,,,,2340.0,hco,boehringer
-Ligue pulmonaire fribourgeoise,Fribourg,CH,Route Saint‐Nicolas‐de‐Flüe 2,1700,,,2000.0,,,,,2000.0,hco,boehringer
-Ligue pulmonaire genevoise,Carouge GE,CH,Avenue Cardinal‐Mermillod 42‐44,1227,,,540.0,,,,,540.0,hco,boehringer
+Ligue pulmonaire fribourgeoise,Fribourg,CH,Route Saint-Nicolas-de-Flüe 2,1700,,,2000.0,,,,,2000.0,hco,boehringer
+Ligue pulmonaire genevoise,Carouge GE,CH,Avenue Cardinal-Mermillod 42-44,1227,,,540.0,,,,,540.0,hco,boehringer
 Ligue pulmonaire neuchâteloise,Peseux,CH,Rue de la Gare 4,2034,,,2000.0,,,,,2000.0,hco,boehringer
 Luzerner Kantonsspital Luzern,Luzern,CH,Spitalstrasse,6004,,,4400.0,,2679.61,2700.0,,9779.61,hco,boehringer
 Oberwalliser Aerztegesellschaft OWAeGPräsidentin: Dr. med. Cornelia Biner,Naters,CH,Bahnhofstrasse 21,3904,,,1000.0,,,,,1000.0,hco,boehringer
@@ -2927,28 +2927,28 @@ Ospidal Scuol Center da sandà EngiadinaBassa (CSEB) Gesundheitszentrum Untereng
 PizolCare AG,Mels,CH,Flurstrasse 12,8887,,,2500.0,,,,,2500.0,hco,boehringer
 Pneumoclub Lugano Dr. med. CalderariGianluca,Lugano,CH,Corso Pestalozzi 11,6900,,,2800.0,,,,,2800.0,hco,boehringer
 Privatklinik Obach,Solothurn,CH,Leopoldstrasse 5,4500,,,2160.0,,,,,2160.0,hco,boehringer
-Quadrimed Secrétariat administratif,Crans‐Montana,CH,Case postale 299,3963,,,11115.5,,,,,11115.5,hco,boehringer
+Quadrimed Secrétariat administratif,Crans-Montana,CH,Case postale 299,3963,,,11115.5,,,,,11115.5,hco,boehringer
 Regionalspital Emmental AG Spital Burgdorf,Burgdorf,CH,Oberburgstrasse 54,3400,,,1000.0,,,,,1000.0,hco,boehringer
 Regionalspital Emmental AG Spital Langnau,Langnau i. E.,CH,Dorfbergstrasse 10,3550,,,2000.0,,,,,2000.0,hco,boehringer
 Rehazentrum Valens Kliniken Valens,Valens,CH,Taminaplatz 1,7317,,,1500.0,,,,,1500.0,hco,boehringer
 S. Grasso Consulting,Lindau,CH,Fischeracherstrasse 17,8315,,,,,,2500.0,,2500.0,hco,boehringer
 SAKK Schweizer Arbeitsgemeinschaft fürKlinische Krebsforschung,Bern,CH,Effingerstrasse 33,3008,,,10000.0,,,,,10000.0,hco,boehringer
 Schweiz. Gesellschaft für Endokrinologieund Diabetologie (SGED),Baden,CH,Rütistrasse 3A,5400,,,12500.0,,,,,12500.0,hco,boehringer
-Schweizerische Hirnschlaggesellschaft SHG‐SCS‐SSS,Basel,CH,Peter Merian‐Strasse 80 / P.O. Box,4002,,,28500.0,,,,,28500.0,hco,boehringer
+Schweizerische Hirnschlaggesellschaft SHG-SCS-SSS,Basel,CH,Peter Merian-Strasse 80 / P.O. Box,4002,,,28500.0,,,,,28500.0,hco,boehringer
 Schweizerischer Verband MedizinischerPraxisAssistentinnen SVA,Bern,CH,Elfenstrasse 19,3006,,,2400.0,,,,,2400.0,hco,boehringer
-Schweizerisch‐türkischer Ärzte undAkademikerverein ( STAV),Bern,CH,Balmerstrasse 12,3006,,,700.0,,,,,700.0,hco,boehringer
+Schweizerisch-türkischer Ärzte undAkademikerverein ( STAV),Bern,CH,Balmerstrasse 12,3006,,,700.0,,,,,700.0,hco,boehringer
 Sensler Ärzteverein Herr Dr. med.Alexander Kunz,Tafers,CH,Zelgstrasse 25,1712,,,1500.0,,,,,1500.0,hco,boehringer
-SIDB‐GICID Schweiz. Interessensgruppe fürDiabetesfachberatung,Düdingen,CH,Haselrain 52,3186,,,1500.0,,,,,1500.0,hco,boehringer
+SIDB-GICID Schweiz. Interessensgruppe fürDiabetesfachberatung,Düdingen,CH,Haselrain 52,3186,,,1500.0,,,,,1500.0,hco,boehringer
 Société Neuchâteloise de Médecine SNM,Couvet,CH,Grand'Rue 36BIS,2108,,,5000.0,,,,,5000.0,hco,boehringer
 Spital Herisau,Herisau,CH,Spitalstrasse 6,9100,,,900.0,,,,,900.0,hco,boehringer
 Spital Langenthal Spitalregion OberaargauAG (SRO AG),Langenthal,CH,St. Urbanstrasse 67,4900,,,1000.0,,,,,1000.0,hco,boehringer
 Spital Laufenburg GesundheitszentrumFricktal,Laufenburg,CH,Spitalstrasse 10,5080,,,800.0,,,,,800.0,hco,boehringer
 Spital Schwyz,Schwyz,CH,Waldeggstrasse 10,6430,,,3000.0,,,,,3000.0,hco,boehringer
-Spital STS AG ‐ Spital Thun Innere Medizin,Thun,CH,Krankenhausstrasse 12,3600,,,1000.0,,,,,1000.0,hco,boehringer
+Spital STS AG - Spital Thun Innere Medizin,Thun,CH,Krankenhausstrasse 12,3600,,,1000.0,,,,,1000.0,hco,boehringer
 Spital Thurgau AG Geschäftsstelle,Frauenfeld,CH,Waldeggstrasse 8a,8501,,,4380.0,,,4165.0,,8545.0,hco,boehringer
 Spitäler Schaffhausen Kantonsspital Schaffhausen,Schaffhausen,CH,Geissbergstrasse 81,8208,,,,,,750.0,,750.0,hco,boehringer
-Stiftung für Gesundheit und kardio‐/neurovaskuläre Forschung,Basel,CH,Elisabethenstrasse 30,4051,,,10000.0,,,,,10000.0,hco,boehringer
-Stiftung für Herz‐ u. Kreislaufforschung,Zürich,CH,Hottingerstrasse 14,8091,,,13500.0,,,,,13500.0,hco,boehringer
+Stiftung für Gesundheit und kardio-/neurovaskuläre Forschung,Basel,CH,Elisabethenstrasse 30,4051,,,10000.0,,,,,10000.0,hco,boehringer
+Stiftung für Herz- u. Kreislaufforschung,Zürich,CH,Hottingerstrasse 14,8091,,,13500.0,,,,,13500.0,hco,boehringer
 Stiftung für wissenschaftliche Forschung amStadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,8063,,,7500.0,,1874.52,600.0,,9974.52,hco,boehringer
 Stiftung Kantonsspital Graubünden,Chur,CH,Loestrasse 170,7000,,,1500.0,,,1400.0,,2900.0,hco,boehringer
 Stiftung zur Förderung der Medizin imEngadin,Scuol,CH,Bogn Engiadina ,7550,,,7500.0,,,,,7500.0,hco,boehringer
@@ -3938,9 +3938,9 @@ Martin Müller,Bern,CH,Frauenheilkunde des Inselspitals,,,,,652.0,233.0,,,885,hc
 Daniele Perucchini,Zürich,CH,Blasenzentrum ,,,,,537.0,,,,537,hcp,ferring
 Leonhard H. Schäffer,Baden,CH,Kantonsspital  AG,,,,,652.0,197.0,,,849,hcp,ferring
 Stephan Wildi,Hedingen,CH,Pilatusstrasse 9,,,,,,,500.0,,500,hcp,ferring
-Pr Pierre Michetti & Christian Felley,Lausanne,CH,Avenue Jomini 8,,,,,,,2000.0,,2000,hcp,ferring
+Pierre Michetti & Christian Felley,Lausanne,CH,Avenue Jomini 8,,,,,,,2000.0,,2000,hcp,ferring
 Annette Kuhn,Hinterkappelen,CH,Eyweg 12B,,,,,,,1000.0,,1000,hcp,ferring
-phil. G. Rogler,Zürich,CH,Kapfstrasse 16,,,,,,,1500.0,,1500,hcp,ferring
+G. Rogler,Zürich,CH,Kapfstrasse 16,,,,,,,1500.0,,1500,hcp,ferring
 Frank Seibold,Kehrsatz,CH,Gurtenstrasse 79,,,,,,,1000.0,,1000,hcp,ferring
 Gabriel Schär,Aarau,CH,Hassler-Weg 2,,,,,,,1500.0,,1500,hcp,ferring
 Gabriel Schär,Aarau,CH,Kantonsspital  AG,,,,,460.0,1000.0,,,1460,hcp,ferring
@@ -4089,7 +4089,7 @@ Mouna Skaria,Vevey,CH,Rue de Lausanne 15,,7601000669216,,,,,1269.25,,1269.25,hcp
 Marco Adrian Stieger,Bern,CH,"Dermatologische Klinik Inselspital Inselspital , Insel Gruppe AG Freiburgstrasse 18",,7601000865397,,,,,1000.0,,1000.0,hcp,galderma
 Christian Tschager,Zuchwil,CH,Gemeinschaftspraxis am Kreisel Hauptstrasse 60,,7601000922984,,,,522.0,,,522.0,hcp,galderma
 Nicholas Waughlock,Zürich,CH,Klausstrasse 10,,7601003523348,,,,,1242.7,,1242.7,hcp,galderma
-Volker Wedler,Kreuzlingen,CH,NAN,,7601000404282,,,,,8311.45,,8311.45,hcp,galderma
+Volker Wedler,Kreuzlingen,CH,,,7601000404282,,,,,8311.45,,8311.45,hcp,galderma
 Ingo Wollenschläger,Grenchen,CH,Artemedic AG Kirchstrasse 10,,7601003391091,,,,829.25,,,829.25,hcp,galderma
 Myriam Wyss,Meilen,CH,Dorfstrasse 94,,7601000224293,,,,,1230.85,,1230.85,hcp,galderma
 Thomas Würsch,Zürich,CH,Bahnhofstrasse 14,,7601000199874,,,,,1400.7,,1400.7,hcp,galderma
@@ -4809,28 +4809,28 @@ Vereinigung Zürcher Internisten,Adliswil,CH,Felsenhofstrasse 36,,,0.0,3800.0,0,
 Zürcher Dermatologen Gesellsch.,Uster,CH,Oberlandstrasse 100,,,0.0,1000.0,0,0,0,0,1000.0,hco,jansen
 Ahmad Jalili,Bürgenstock,CH, 30,6363,,,,163.17,374.49,1800.0,599.4,2937.06,hcp,leo
 Alexander Andreas Navarini,Zürich,CH,Gloriastrasse 31,8091,,,,,,1250.0,,1250.0,hcp,leo
-Anne‐Karine Lapointe,Lausanne,CH,Avenue du Théatre 7,1005,,,,,,1000.0,,1000.0,hcp,leo
+Anne-Karine Lapointe,Lausanne,CH,Avenue du Théatre 7,1005,,,,,,1000.0,,1000.0,hcp,leo
 Antonio Cozzio,St. Gallen,CH,Rorschacher Strasse 95,9007,,,,,,1100.0,,1100.0,hcp,leo
 Arpad Farkas,Glattbrugg,CH,Schaffhauserstrasse 99,8152,,,,163.17,408.4,,,571.57,hcp,leo
 Christian Surber,Basel,CH,Transdermic International Inc.,4059,,,,,1050.0,7000.0,870.95,8920.95,hcp,leo
 Curdin Conrad,Lausanne,CH,Avenue de Beaumont 29,1011,,,,,,1925.9,64.0,1989.9,hcp,leo
-Donato Ferrara,Genève,CH,Rue Pierre‐Fatio 15,1204,,,,246.65,,,,246.65,hcp,leo
-Emmanuel Laffitte,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,1205,,,,,,1600.0,45.2,1645.2,hcp,leo
-Günther Hofbauer,Wetzikon ZH,CH,Guyer‐Zeller‐Strasse 10,8620,,,,,,3650.0,169.57,3819.57,hcp,leo
+Donato Ferrara,Genève,CH,Rue Pierre-Fatio 15,1204,,,,246.65,,,,246.65,hcp,leo
+Emmanuel Laffitte,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1600.0,45.2,1645.2,hcp,leo
+Günther Hofbauer,Wetzikon ZH,CH,Guyer-Zeller-Strasse 10,8620,,,,,,3650.0,169.57,3819.57,hcp,leo
 Heidi Meier,Winterthur,CH,Obergasse 34,8400,,,,163.17,157.62,,,320.79,hcp,leo
-Jaafar Jaafar,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,1205,,,,,,1000.0,,1000.0,hcp,leo
+Jaafar Jaafar,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1000.0,,1000.0,hcp,leo
 Lars French,Zürich,CH,Gloriastrasse 31,8091,,,,,,1250.0,,1250.0,hcp,leo
 Marguerite Krasovec Rahmann,Schlieren,CH,Uitikonerstrasse 9,8952,,,,163.17,204.98,700.0,,1068.15,hcp,leo
 Mathias Clemens Drach,Zürich,CH,Gloriastrasse 31,8091,,,,163.17,250.97,,,414.14,hcp,leo
-Neda Barouti,Genève,CH,Rue Pierre‐Fatio 15,1204,,,,246.65,,,,246.65,hcp,leo
+Neda Barouti,Genève,CH,Rue Pierre-Fatio 15,1204,,,,246.65,,,,246.65,hcp,leo
 Nikhil Yawalkar,Bern,CH,Freiburgstrasse 18,3010,,,,,,3375.0,,3375.0,hcp,leo
 Peter Schiller,Liestal,CH,Mühlegasse 3,4410,,,,,,3800.0,,3800.0,hcp,leo
 Regine Koepke,Luzern,CH,Löwengraben 14,6004,,,,163.17,426.2,,,589.37,hcp,leo
 Roger Lehmann,Zürich,CH,Rämistrasse 100,8091,,,,,,1500.0,,1500.0,hcp,leo
-Sandrine Quénan,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,1205,,,,227.82,572.18,,,800.0,hcp,leo
+Sandrine Quénan,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,227.82,572.18,,,800.0,hcp,leo
 Stephan Nobbe,Frauenfeld,CH,Pfaffenholzstrasse 4,8501,,,,,,1000.0,,1000.0,hcp,leo
-Wolf‐Henning Boehncke,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,1205,,,,,,2625.0,51.0,2676.0,hcp,leo
-Association D’Esculape En Lavaux ADEL,Lutry,CH,"Association D’Esculape En Lavaux, Grand‐ Rue 22",1095,,,2000.0,,,,,2000.0,hco,leo
+Wolf-Henning Boehncke,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,2625.0,51.0,2676.0,hcp,leo
+Association D’Esculape En Lavaux ADEL,Lutry,CH,"Association D’Esculape En Lavaux, Grand- Rue 22",1095,,,2000.0,,,,,2000.0,hco,leo
 Bürgenstock Resort Medical Centre,Obbürgen,CH,Bürgenstock 30,6363,,,2500.0,,,,,2500.0,hco,leo
 CHUV,Lausanne,CH,Rue Du Bugnon 21,1011,,,1000.0,,,,,1000.0,hco,leo
 Cyberderm,Zürich,CH,"Cyberderm, c/o Klinik für Dermatologie",8091,,,3500.0,,,,,3500.0,hco,leo
@@ -4838,12 +4838,12 @@ Cyberderm,Zürich,CH,"Cyberderm, c/o Klinik für Dermatologie",8091,,,3500.0,,,,
 Ente Ospedaliero Cantonale(EOC),Bellinzona,CH,Viale Officina 3,6500,,,1500.0,,,,,1500.0,hco,leo
 ESDR,Genève,CH,Rue Cingria 7,1205,,,9910.71,,,,,9910.71,hco,leo
 European Academy of Dermatology and Venereology,Lugano,CH,Via S. Balestra 22B,6900,,,278121.6,3330.0,,,,281451.6,hco,leo
-European Association of Dermato‐ Oncology,Zürich‐Glattbrugg,CH,"Flughofstrasse 54Zurich‐Glattburg, Switzerland",8152,,,25183.87,,,,,25183.87,hco,leo
-European Dermatology Forum,Zürich,CH,"Gloriastrasse 31, UniversitätsSpital , Venerologie und Allergologie, CH‐",8091,,,,,55500.0,,,55500.0,hco,leo
+European Association of Dermato- Oncology,Zürich-Glattbrugg,CH,"Flughofstrasse 54Zurich-Glattburg, Switzerland",8152,,,25183.87,,,,,25183.87,hco,leo
+European Dermatology Forum,Zürich,CH,"Gloriastrasse 31, UniversitätsSpital , Venerologie und Allergologie, CH-",8091,,,,,55500.0,,,55500.0,hco,leo
 GDNE (groupe des dermatologues de Neuchâtel et environs),La Chaux-de-Fonds,CH,"GDNE, Dr Ghislain Faivre",2300,,,500.0,,,,,500.0,hco,leo
-Groupe Dermatologues Vaudois ‐ GDV,Vevey,CH,"Präsident Dr. S. Vollenweider, rue de Lausanne 15",1800,,,2506.76,,,,,2506.76,hco,leo
+Groupe Dermatologues Vaudois - GDV,Vevey,CH,"Präsident Dr. S. Vollenweider, rue de Lausanne 15",1800,,,2506.76,,,,,2506.76,hco,leo
 Gruppo Medico Formazione,Giubiasco,CH,"Gruppo Medico Formazione, Dr. Renzo Rigotti",6512,,,3300.0,,,,,3300.0,hco,leo
-Hôpitaux Universitaires Genève,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,1205,,,4277.77,,,,,4277.77,hco,leo
+Hôpitaux Universitaires Genève,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,4277.77,,,,,4277.77,hco,leo
 Inselspital Bern,Bern,CH,Freiburgstrasse 18,3010,,,6000.0,,,,,6000.0,hco,leo
 Institut für Pharmakologie,Bern,CH,"Universität , Institut für Pharmakologie",3010,,,1000.0,,,,,1000.0,hco,leo
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,9007,,,2750.0,,,,,2750.0,hco,leo
@@ -4853,7 +4853,7 @@ Smartaging Swiss Academy AG,Zürich,CH,Bürglistrasse 11,8002,,,500.0,,,,,500.0,
 Società Ticinese di Dermatologia e Venereologia,Lugano,CH,"Società Ticinese di Dermatologia e Venereologia, Segretario STDV",6900,,,1000.0,,,,,1000.0,hco,leo
 Universitätsspital Basel,Basel,CH,Spitalstrasse 21,4031,,,11000.0,,,1250.0,,12250.0,hco,leo
 UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,8091,,,8410.0,,,,,8410.0,hco,leo
-Verein kantonaler berner Dermatologen ‐ VKBD,Bern,CH,VKBD,3008,,,1500.0,,,,,1500.0,hco,leo
+Verein kantonaler berner Dermatologen - VKBD,Bern,CH,VKBD,3008,,,1500.0,,,,,1500.0,hco,leo
 Verein Zentralschweizer Dermatologen,Luzern,CH,Präsident Dr. Mathisa Koepcke,,,,9706.75,,,,,9706.75,hco,leo
 Adin Muratovic,Brugg,CH,Psychiatrische Dienste Aargau AG Postfach 432,,,,,,1177.0,,,1177.0,hcp,lundbeck
 Alberto Franchi,Lugano,CH,Via Clemente Maraini 13b,,,,,184.0,372.0,,,556.0,hcp,lundbeck
@@ -5264,7 +5264,7 @@ Alexander Pinzello-Hürlimann,Bülach,CH,Grabengasse 12,,,,,58.6,620.1,,,678.7,h
 Rail Polikar,Nyon,CH,Chemin Monastier 10,,,,,311.7,1871.6,1500.0,,2883.3,hcp,menarini
 Pierre Quadri,St-Imier,CH,Rue du Temple 3,,,,,561.3,1803.3,300.0,,1864.6,hcp,menarini
 Dunsim Ramadani,Nyon,CH,Chemin Monastier 10,,,,,380.3,641.2,,,1821.4,hcp,menarini
-Mauro Fabrizio Ramsauer,Luqano,CH,Viale Stefano Franscini 1,,,,,207.6,644.7,,,852.3,hcp,menarini
+Mauro Fabrizio Ramsauer,Lugano,CH,Viale Stefano Franscini 1,,,,,207.6,644.7,,,852.3,hcp,menarini
 Aral Ratnam,Payerne,CH,Rue d'Yverdon 37,,,,,127.2,103.3,,,230.5,hcp,menarini
 Patrick Rein,Heerbrugg,CH,Aechelistrasse 4,,,,,,,1200.0,,1200.0,hcp,menarini
 Karin Reinecke,Wibenbach,CH,Ringstrasse 22,,,,,330.6,255.8,,,586.4,hcp,menarini
@@ -5478,7 +5478,7 @@ VZI Vereinigung der Zürcher Internisten VZI,Zürich,CH,Franklinstrasse 1,,,,380
 Zürcher Gesundheitsnetz ZGN,Zürich,CH,Birmensdorferstrasse 467,,,5000.0,,,,,,5800.0,hco,menarini
 Zurich Heart House,Zürich,CH,Moussonstrasse 4,,,,16000.0,,,,,16900.0,hco,menarini
 Regula Kaufmann,Zug,CH,Baarerstrasse 8,,,,,0.0,,330.0,,330,hcp,mepha
-Line Westphale‐Chopard,Bremblens,CH,Les Corbes 5,,,,,0.0,,330.0,,330,hcp,mepha
+Line Westphale-Chopard,Bremblens,CH,Les Corbes 5,,,,,0.0,,330.0,,330,hcp,mepha
 Elias Olivera,Villars-sur-Glâne,CH,Rue du Centre 6,,,,,0.0,,330.0,,330,hcp,mepha
 Christian Aubort,Moudon,CH,Avenue de la Gare 1a,,,,,0.0,,330.0,,330,hcp,mepha
 Susanne Singer,Baar,CH,Jöchlerweg 4,,,,,0.0,,330.0,,330,hcp,mepha
@@ -5491,15 +5491,15 @@ Thomas Rosemann,Küsnacht,CH,Sillerstrasse 8,,,,,0.0,,1000.0,,1000,hcp,mepha
 Beat Michel,Winterthur,CH,Sonnenbergstrasse 12,,,,,0.0,,6000.0,,6000,hcp,mepha
 Dagmar Keller Lang,Zürich,CH,Schmelzbergstrasse 8,,,,,0.0,,1500.0,,1500,hcp,mepha
 Beat Müllhaupt,Ennetbaden,CH,Schlösslistrasse 26,,,,,0.0,,1500.0,,1500,hcp,mepha
-Johannes Von Kempis,St. Gallen,CH,Rorschacher‐Strasse 95,,,,,0.0,,800.0,,800,hcp,mepha
+Johannes Von Kempis,St. Gallen,CH,Rorschacher-Strasse 95,,,,,0.0,,800.0,,800,hcp,mepha
 Daniel Herren,Zürich,CH,Lengghalde 2,,,,,0.0,,1800.0,,1800,hcp,mepha
 Florian Brunner,Zürich,CH,Forchstrasse 340,,,,,0.0,,800.0,,800,hcp,mepha
 Michael Seitz,Bern,CH,Freiburgstrasse 8,,,,,0.0,,1600.0,,1600,hcp,mepha
-Antonio Cozzio,St. Gallen,CH,Rorschacher‐Strasse 95,,,,,0.0,,1000.0,,1000,hcp,mepha
+Antonio Cozzio,St. Gallen,CH,Rorschacher-Strasse 95,,,,,0.0,,1000.0,,1000,hcp,mepha
 Andreas Krebs,Zürich,CH,Gloriastrasse 25,,,,,0.0,,800.0,,800,hcp,mepha
 Barbara Meier,Zürich,CH,Toblerstrasse 51,,,,,0.0,,800.0,,800,hcp,mepha
 Pascal Rippstein,Zürich,CH,Lengghalde 2,,,,,0.0,,1800.0,,1800,hcp,mepha
-Hans‐Heinrich Jung,Zürich,CH,Rämistrasse 100,,,,,0.0,,800.0,,800,hcp,mepha
+Hans-Heinrich Jung,Zürich,CH,Rämistrasse 100,,,,,0.0,,800.0,,800,hcp,mepha
 Oliver Distler,Zürich,CH,Gladbachstrasse 103,,,,,0.0,,2700.0,207.0,2907,hcp,mepha
 Thomas Langenegger,Baar,CH,Medizinische Klinik,,,,,0.0,,800.0,,800,hcp,mepha
 Britta Maurer,Zürich,CH,Gloriastrasse 25,,,,,0.0,,800.0,,800,hcp,mepha
@@ -5527,11 +5527,11 @@ Salih Muminagic,Hasliberg Hohfluh,CH,Rehaklinik Hasliberg,,,,,0.0,,1500.0,,1500,
 Martin Hatzinger,Solothurn,CH,Weissensteinstrasse 102,,,,,0.0,,1500.0,,1500,hcp,mepha
 Peter Villiger,Bern,CH,Freiburgstrasse 29,,,,,0.0,,2800.0,,2800,hcp,mepha
 Sven H. Michelsen,Dübendorf,CH,Leepüntstrasse 18,,,,,0.0,,500.0,,500,hcp,mepha
-Anne‐Françoise Allaz,Genève,CH,Avenue de Beau‐ Séjour 26,,,,,0.0,,1500.0,,1500,hcp,mepha
+Anne-Françoise Allaz,Genève,CH,Avenue de Beau- Séjour 26,,,,,0.0,,1500.0,,1500,hcp,mepha
 Luc Mallet,Genève,CH,Chemine des Mines 9,,,,,0.0,,1500.0,,1500,hcp,mepha
-Jean‐Christophe Chauvet‐Gelinier,Genève,CH,Rue Gabrielle‐Perret‐ Gentil 4,,,,,0.0,,1500.0,,1500,hcp,mepha
-Guido Bondolfi,Genève,CH,Rue Gabrielle‐Perret‐ Gentil 4,,,,,0.0,,4000.0,,4000,hcp,mepha
-João Santos,Genève,CH,Rue Gabrielle‐Perret‐ Gentil 4,,,,,0.0,,1500.0,,1500,hcp,mepha
+Jean-Christophe Chauvet-Gelinier,Genève,CH,Rue Gabrielle-Perret- Gentil 4,,,,,0.0,,1500.0,,1500,hcp,mepha
+Guido Bondolfi,Genève,CH,Rue Gabrielle-Perret- Gentil 4,,,,,0.0,,4000.0,,4000,hcp,mepha
+João Santos,Genève,CH,Rue Gabrielle-Perret- Gentil 4,,,,,0.0,,1500.0,,1500,hcp,mepha
 Delphine Renard,Lausanne,CH,Rue du Bugnon 17,,,,,0.0,,1500.0,,1500,hcp,mepha
 Armin von Gunten,Prilly,CH,Site de Cery,,,,,0.0,,1500.0,,1500,hcp,mepha
 Marie Besson,Genève,CH,Centre multidisciplinaire de la douleur HUG,,,,,0.0,,1500.0,,1500,hcp,mepha
@@ -5539,18 +5539,18 @@ Radmila Moudry,Chur,CH,Institut für Spitalpharmazie Loëstrasse 170,,,,,499.0,,
 Frederik Vandenberghe,Nyon,CH,11 Rue du Ronzier,,,,,250.0,,,,250,hcp,mepha
 Beat Michel,Winterthur,CH,Sonnenbergstrasse 12,,,,,0.0,,1700.0,,1700,hcp,mepha
 Thomas J. Müller,Meiringen,CH,Willigen,,,,,0.0,,1500.0,,1500,hcp,mepha
-Guido Bondolfi,Genève,CH,Rue Gabrielle‐Perret‐ Gentil 4,,,,,0.0,,1500.0,,1500,hcp,mepha
+Guido Bondolfi,Genève,CH,Rue Gabrielle-Perret- Gentil 4,,,,,0.0,,1500.0,,1500,hcp,mepha
 Huldrych Günthard,Zürich,CH,Berninastrasse 116,,,,,0.0,,1295.0,,1295,hcp,mepha
 Oelepraxis AG Tiemann Karen,Wiedlisbach,CH,Oeleweg 3,,,,,367.0,0.0,0.0,0.0,367,hcp,mepha
 Localmed AG Portmann Bettina,Bern,CH,Schanzenstrasse 4A,,,,,260.0,0.0,0.0,0.0,260,hcp,mepha
 Localmed AG Torchetti Eleonora,Bern,CH,Schanzenstrasse 4A,,,,,245.0,0.0,0.0,0.0,245,hcp,mepha
 Hausarztpraxis Kalchofen AG Stüdi Katja,Hasle b. Burgdorf,CH,Kalchofenstrasse 24,,,,,600.0,0.0,0.0,0.0,600,hcp,mepha
 Hausarztpraxis KalchofenAG Sallin Bernard,Hasle b. Burgdorf,CH,Kalchofenstrasse 24,,,,,600.0,0.0,0.0,0.0,600,hcp,mepha
-Association Quadrimed,Crans‐Montana 1,CH,Case postale 299,,,,10427.0,,,,,10427,hco,mepha
-Spital Zweisimmen,Zweisimmen,CH,Karl Haueter‐Strasse21,,,,4000.0,,,,,4000,hco,mepha
-pharmaSuisse,Bern‐Liebefeld,CH,Stationstrasse 12,,,,12000.0,,,,,12000,hco,mepha
-Réseau Santé Balcon du Jura.vd (RSBJ),Sainte‐Croix,CH,Rue des Rosiers 29,,,,300.0,,,,,300,hco,mepha
-"GSASA, Schweizerischer Verein der Amts‐ und Spitalapotheker",Bern,CH,nan,,,,2560.0,,,,,2560,hco,mepha
+Association Quadrimed,Crans-Montana 1,CH,Case postale 299,,,,10427.0,,,,,10427,hco,mepha
+Spital Zweisimmen,Zweisimmen,CH,Karl Haueter-Strasse21,,,,4000.0,,,,,4000,hco,mepha
+pharmaSuisse,Bern-Liebefeld,CH,Stationstrasse 12,,,,12000.0,,,,,12000,hco,mepha
+Réseau Santé Balcon du Jura.vd (RSBJ),Sainte-Croix,CH,Rue des Rosiers 29,,,,300.0,,,,,300,hco,mepha
+"GSASA, Schweizerischer Verein der Amts- und Spitalapotheker",Bern,CH,nan,,,,2560.0,,,,,2560,hco,mepha
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,,3000.0,,,,,3000,hco,mepha
 VZAG Vereinigung ZentralschweizerÄrztegesellschaften,Luzern,CH,Schwanenplatz 7,,,,11000.0,,,,,11000,hco,mepha
 Gruppo Medico Formazione,Giubiasco,CH,nan,,,,3300.0,,,,,3300,hco,mepha
@@ -5562,8 +5562,8 @@ Kollegium für Hausarztmedizin KHM / CMPR,Fribourg,CH,Rue de l'Hôpital,,,,9941.
 Grand Resort Bad Ragaz AG,Bad Ragaz,CH,Medizinisches Zentrum & Medical Health Center,,,,2778.0,,,,,2778,hco,mepha
 Stiftung zur Förderung der Medizin im Engadin,Scuol,CH,Bogn Engiadina,,,,7500.0,,,,,7500,hco,mepha
 Ärztekongress Arosa,Arosa,CH,Postfach 68,,,,23000.0,,,,,23000,hco,mepha
-Integrierte Psychiatrie Winterthur ‐ Züricher Unterland,Winterthur,CH,Wieshofstrasse 102,,,,2000.0,,,,,2000,hco,mepha
-Junge Hausärztinnen und ‐ärzte Schweiz (JHaS),Bronschhofen,CH,Mörikonerstrasse 8,,,,41438.0,,,,,41438,hco,mepha
+Integrierte Psychiatrie Winterthur - Züricher Unterland,Winterthur,CH,Wieshofstrasse 102,,,,2000.0,,,,,2000,hco,mepha
+Junge Hausärztinnen und -ärzte Schweiz (JHaS),Bronschhofen,CH,Mörikonerstrasse 8,,,,41438.0,,,,,41438,hco,mepha
 Institut für Hausarztmedizin & CommunityCare Luzern,Luzern,CH,Schwanenplatz 7,,,,11000.0,,,,,11000,hco,mepha
 "ASANA Gruppe AG, Spital Menziken",Menziken,CH,Spitalstrasse 1,,,,1200.0,,,,,1200,hco,mepha
 Fondo Formazione medici di famiglia,Lugano,CH,Clinica LuganeseMoncucco,,,,700.0,,,,,700,hco,mepha
@@ -5572,7 +5572,7 @@ Schweizerischer Drogistenverband,Biel/Bienne,CH,Nidaugasse 15,,,,9300.0,,,,,9300
 Ospedale Regionale della Beata Vergine,Mendrisio,CH,,6850,,,556.0,,,,,556,hco,mepha
 Kantonsspital Glarus AG,Glarus,CH,Burgstrasse 99,,,,2000.0,,,,,2000,hco,mepha
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse95,,,,1500.0,,,,,1500,hco,mepha
-L'Hôpital du Valais,Sion,CH,Av. Grand‐Champsec 86,,,,500.0,,,,,500,hco,mepha
+L'Hôpital du Valais,Sion,CH,Av. Grand-Champsec 86,,,,500.0,,,,,500,hco,mepha
 Verein Lunge Zürich,Zürich,CH,Pfingstweidstrasse10,,,,11900.0,,,,,11900,hco,mepha
 Universitätsspital Basel,Basel,CH,Petersgraben 4,,,,10000.0,,,,,10000,hco,mepha
 Zurich Academy of Internal Medicine (ZAIM),Zürich,CH,Grossmünsterplatz 8,,,,3540.0,,,,,3540,hco,mepha
@@ -5589,16 +5589,16 @@ Schweizerische Gesellschaft für AllgemeineInnere Medizin (SGAIM),Bern,CH,Monbij
 Schweizerische Gesellschaft für Psychiatrieund Psychotherapie,Bern,CH,Altenbergstrasse 29,,,,15330.0,,,,,15330,hco,mepha
 SGUM Schweizerische Gesellschaft fürUltraschall in der Medizin,Zürich,CH,Postfach,,,,1920.0,,,,,1920,hco,mepha
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse95,,,,2000.0,,,,,2000,hco,mepha
-swiss YPG Swiss Young Pharmacists Group,Bern‐Liebefeld,CH,c/o pharmaSuisse,,,,3500.0,,,,,3500,hco,mepha
-HFR‐Fribourg ‐ Hôpital cantonal,Fribourg,CH,,1705,,,1500.0,,,,,1500,hco,mepha
+swiss YPG Swiss Young Pharmacists Group,Bern-Liebefeld,CH,c/o pharmaSuisse,,,,3500.0,,,,,3500,hco,mepha
+HFR-Fribourg - Hôpital cantonal,Fribourg,CH,,1705,,,1500.0,,,,,1500,hco,mepha
 Policlinique Médicale Universitaire (PMU),Lausanne,CH,Rue du Bugnon 44,,,,4000.0,,,,,4000,hco,mepha
 Luzerner Psychiatrie,Luzern,CH,Spitalstrasse 11,,,,1600.0,,,,,1600,hco,mepha
-Verein Forum Pharmazie,Basel,CH,St. Johanns‐Vorstadt27,,,,48247.0,,,,,48247,hco,mepha
+Verein Forum Pharmazie,Basel,CH,St. Johanns-Vorstadt27,,,,48247.0,,,,,48247,hco,mepha
 CHUV,Lausanne,CH,rue de Bugnon 46,,,,0.0,,,1050.0,,1050,hco,mepha
-Hôpital Universitaire Genève,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,,,,0.0,,,1250.0,,1250,hco,mepha
+Hôpital Universitaire Genève,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,0.0,,,1250.0,,1250,hco,mepha
 Universitätsspital Basel,Basel,CH,Petersgraben 4,,,,0.0,,,1295.0,,1295,hco,mepha
 Inselspital Bern,Bern,CH,Freiburgstrasse 8,,,,0.0,,,1050.0,,1050,hco,mepha
-Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher‐Strasse95,,,,0.0,,,1495.0,,1495,hco,mepha
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher-Strasse95,,,,0.0,,,1495.0,,1495,hco,mepha
 RSBJRéseau Santé Balcon du Jura,Sainte Croix,CH,Rue des Rosiers 29,1450,,,1800.0,,,,,1830,hco,mepha
 GHOLGroupement Hospitalier de l'ouest Lémanique S.A.,Nyon,CH,Rue du Vieux Marche 10,1260,,,1000.0,,,,,1030,hco,mepha
 HFR hôpital fribourgeois,Fribourg,CH,nan,1708,,,1000.0,,,,,1050,hco,mepha
@@ -5628,7 +5628,7 @@ Université de Genève,Genève,CH,Centre comptable Uni 2,1211,,,2500.0,,,,,2610,
 Pharmactuel Zentralschweiz,Luzern,CH,Neustadtstrasse 43,6003,,,1817.0,,,,,1817,hco,mepha
 PharmActuel Regionalgruppe Bern,Zollikofen,CH,Hübeliweg 14,3052,,,7500.0,,,,,7800,hco,mepha
 Société Valaisanne de pharmacie,Granges,CH,nan,3977,,,2400.0,,,,,2480,hco,mepha
-Privatklinik Wyss,Münchenbuchsee,CH,Fellenberg‐ strasse 34,3053,,,2000.0,,,,,2100,hco,mepha
+Privatklinik Wyss,Münchenbuchsee,CH,Fellenberg- strasse 34,3053,,,2000.0,,,,,2100,hco,mepha
 Ordine del Farmacisti del Canton Ticino,Lugano,CH,Via al Forte 3,6900,,,2500.0,,,,,2600,hco,mepha
 Spitalregion Fürstenland Toggenburg,Wil,CH,Fürstenlandstrasse 32,9500,,,4000.0,,,,,4120,hco,mepha
 Aerzteverien Davos,Davos Platz,CH,Promenade 4,7270,,,3000.0,,,,,3120,hco,mepha
@@ -5643,20 +5643,20 @@ medswiss.net,Gümligen,CH,Moosstrasse 2,,,,4000.0,,,,,4200,hco,mepha
 Medbase AG,Winterthur,CH,Technikumstr. 73,,,,18800.0,,,,,19400,hco,mepha
 Ärzteverein Thurtal Untersee,Müllheim,CH,Kreuzlingerstrasse43a,,,,3500.0,,,,,3570,hco,mepha
 Argomed Ärzte AG,Lenzburg,CH,Bahnhofstrasse 24,,,,10500.0,,,,,10620,hco,mepha
-hausärztlicher Qualitätszirkel Oberthurgau‐Ost,Steinach,CH,Birkenweg 7,,,,4000.0,,,,,4275,hco,mepha
+hausärztlicher Qualitätszirkel Oberthurgau-Ost,Steinach,CH,Birkenweg 7,,,,4000.0,,,,,4275,hco,mepha
 Bündner Ärzteverein,Chur,CH,St. Martinsplatz 8,,,,1000.0,,,,,1070,hco,mepha
 PizolCare AG,Mels,CH,Flurstrasse 12,,,,5000.0,,,,,5060,hco,mepha
 doccare,Fehraltorf,CH,Im Baumgarten 1,,,,6000.0,,,,,6085,hco,mepha
 St. Moritzer Ärztegesellschaft,St. Moritz,CH,Plaza Parscelsus 2,,,,2000.0,,,,,2060,hco,mepha
 Gesellschaft der Ärztinnen und Ärzte desKantons Solothurn,Olten,CH,Baselstrasse 150,,,,1900.0,,,,,2150,hco,mepha
-IGOMED‐Ärztenetzwerk Raum Thun,Thun,CH,Goldiwilstrasse 36a,,,,4000.0,,,,,4280,hco,mepha
+IGOMED-Ärztenetzwerk Raum Thun,Thun,CH,Goldiwilstrasse 36a,,,,4000.0,,,,,4280,hco,mepha
 Hareso AG,Solothurn,CH,"c/o PonteNet,Rosenweg 2",,,,14400.0,,,,,15120,hco,mepha
-Notfallkreis Sissach‐Gelterkinden,Läufelfingen,CH,Hirzenfeldweg 4,,,,5000.0,,,,,5200,hco,mepha
+Notfallkreis Sissach-Gelterkinden,Läufelfingen,CH,Hirzenfeldweg 4,,,,5000.0,,,,,5200,hco,mepha
 Medgate Health Center,Basel,CH,Gellertstrasse 19,,,,3200.0,,,,,3240,hco,mepha
 Grisomed AG,Chur,CH,Tittwiesenstrasse 29,,,,6000.0,,,,,6250,hco,mepha
 PonteNet AG,Solothurn,CH,Rosenweg 2,,,,1000.0,,,,,1040,hco,mepha
 Ärztenetzwerk Oberaargau,Langenthal,CH,Allmengasse 15,,,,4000.0,,,,,4030,hco,mepha
-Praxis‐Gruppe‐Schweiz AG,Hünenberg,CH,Rothusstrasse 23,,,,2000.0,,,,,2070,hco,mepha
+Praxis-Gruppe-Schweiz AG,Hünenberg,CH,Rothusstrasse 23,,,,2000.0,,,,,2070,hco,mepha
 Doxnet Ärztenetzwerk,Hinterkappelen,CH,Kappelenring 6,,,,4000.0,,,,,4180,hco,mepha
 hawadoc,Winterthur,CH,Garnmarkt 1,,,,18000.0,,,,,18300,hco,mepha
 Ärztezentrum Oberdiessbach,Oberdiessbach,CH,Krankenhausstrasse14,,,,2000.0,,,,,2015,hco,mepha
@@ -5667,11 +5667,11 @@ beodocs,Interlaken,CH,Rugenparkstrasse 7,,,,2000.0,,,,,2120,hco,mepha
 zu:care,Unterägeri,CH,Seestrasse 9,,,,4000.0,,,,,4140,hco,mepha
 Appenzellische Ärztegesellschaft,Bühler,CH,Dorfstrasse 50,,,,2000.0,,,,,2060,hco,mepha
 Gesundes Rheintal,Oberriet,CH,Ballengasse 9,,,,2000.0,,,,,2025,hco,mepha
-Ärztezentrum Attiswil‐Wiedslichbach AG,Wiedlisbach,CH,Oeleweg 3,,,,4000.0,,,,,4032,hco,mepha
+Ärztezentrum Attiswil-Wiedslichbach AG,Wiedlisbach,CH,Oeleweg 3,,,,4000.0,,,,,4032,hco,mepha
 Ärztenetzwerk Bern,Zürich,CH,Bahnhofplatz 4,,,,4000.0,,,,,4160,hco,mepha
 Interdisziplinäres Ärztenetzwerk Zürich iNetz,Zürich,CH,Bahnhofplatz 4,,,,4000.0,,,,,4120,hco,mepha
-Ärztenetzwerk Grauholz,Urtenen‐Schönbühl,CH,Solothurnstrasse 43,,,,4000.0,,,,,4070,hco,mepha
-FMC ‐ Schweizer Forum für integrierteVersorgung,Neuägeri,CH,Zugerstrasse 193,,,,3500.0,,,,,3870,hco,mepha
+Ärztenetzwerk Grauholz,Urtenen-Schönbühl,CH,Solothurnstrasse 43,,,,4000.0,,,,,4070,hco,mepha
+FMC - Schweizer Forum für integrierteVersorgung,Neuägeri,CH,Zugerstrasse 193,,,,3500.0,,,,,3870,hco,mepha
 Ärztenetzwerk oberes Emmental,Zollbrück,CH,Lauperswilerstrasse24,,,,4500.0,,,,,4580,hco,mepha
 Leimapharm AG,Therwil,CH,Erlenstrasse 29,,,,2900.0,,,,,3050,hco,mepha
 spyglass Ventures GmbH,Pfäffikon,CH,Churerstrasse 47,,,,480.0,,,,,495,hco,mepha
@@ -5875,7 +5875,7 @@ Guido Domenighetti,Locarno,CH,FMH pneumologia - Palazzo Corporazione Borghese Vi
 Marc Donath,Basel,CH,Universitätsspit al  - Endokrinologie und Diabetologie Petersgraben 4,,7601000220868,,,,,30000.0,7612.52,37612.52,hcp,msd
 Jean Dudler,Fribourg,CH,HFR  - Hôpital cantonal - Service de rhumatologie Chemin des Pensionnats 2-6,,7601000411181,,,,,1000.0,,1000.0,hcp,msd
 Ali Elwafa,La Chaux-de-Fonds,CH,Cabinet de groupe Avenue Léopold Robert 16,,7601000832351,,,556.8,1228.4,,,1785.2,hcp,msd
-Urs Beat Gröflin,Binningen,CH,FMH Allgemeine Innere Medizin,,7601000832351,,,,,750.0,,750.0,hcp,msd
+Urs Beat Gröflin,Binningen,CH,FMH Allgemeine Innere Medizin,,7601000136077,,,,,750.0,,750.0,hcp,msd
 Vittoria Espeli,Mendrisio,CH,Ospedale Regionale di  - Beata Vergine - Oncologia medica Via Alfonso Turconi 23,,7601000773036,,,668.0,2400.5,,,3068.5,hcp,msd
 Christian Felley,Lausanne,CH,Centre de Gastroentérologi e Beaulieu S.A Avenue Jomini 8,,,,,556.8,1040.15,,,1596.95,hcp,msd
 Chiara Ferrario,Lausanne,CH,CHUV - Centre hospitalier universitaire vaudois Rue du Bugnon 46,,7601000723697,,,,,1000.0,,1000.0,hcp,msd
@@ -6251,7 +6251,7 @@ Philipp Hengstler,Wil,CH,Praxis,,,,,,,500.0,,500.0,hcp,mundipharma
 Roland Haller,Zürich,CH,Forel Klinik,,,,,322.0,542.0,,,864.0,hcp,mundipharma
 Nicolas von der Weid,Genève,CH,Praxis,,,,,,,1200.0,,1200.0,hcp,mundipharma
 Dominique Durrer,Vevey,CH,Praxis,,,,,,,141.0,,141.0,hcp,mundipharma
-Anja Frischholz Freddi,Champéry,CH,nan,,,,,,,20.0,,20.0,hcp,mundipharma
+Anja Frischholz Freddi,Chambésy,CH,nan,,,,,,,20.0,,20.0,hcp,mundipharma
 Vittorio Giusti,Sierre,CH,Hôpital de ,,,,,,3.0,40.0,,43.0,hcp,mundipharma
 Alain Golay,Genève,CH,HUG,,,,,,,141.0,,141.0,hcp,mundipharma
 Jonathan Gonzalez,Genève,CH,nan,,,,,,,10.0,,10.0,hcp,mundipharma
@@ -6410,20 +6410,20 @@ Marie-Laure Amram,Onex,CH,"Clinique et Permanence d' SA, Route de Chancy 98",,,0
 Stefano Anastasi,Bern,CH,"Praxis Stefano Anastasi, Bremgartenstrass e 119",,,0,0,0,0,250.0,0,250.00,hcp,novartis
 Marcel Anrig,Balgach,CH,"Praxis Marcel Anrig, Hauptstrasse 47",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Lars Asmis,Zürich,CH,"Praxis Lars Asmis, Seefeldstrasse 224",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
-Myriam Aufdenblatten,Bern,CH,"Praxis Myriam Aufdenblatten, Bremgartenstrass e 119",,,0,0,0,0,1050.00,0,1050.00,hcp,novartis
+Myriam Aufdenblatten,Bern,CH,"Praxis Myriam Aufdenblatten, Bremgartenstrasse 119",,,0,0,0,0,1050.00,0,1050.00,hcp,novartis
 Alfredo Bacchetto,Bern,CH,Postfach 515,,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
 Stefano Bachmann,Endingen,CH,"Praxis Stefano Bachmann, Semlistrasse 10",,,0,0,0,0,600.00,0,600.00,hcp,novartis
 Michael Bagattini,Glattpark (Opfikon),CH,"Arztpraxis Glattpark GmbH, Thurgauerstrasse 106",,,0,0,0,0,625.00,0,625.00,hcp,novartis
 Stefan Balabanov,Zürich,CH,"Universitätsspit al  Medizin Hämatologie, Rämistrasse 10O",,,0,0,0,0,4200.00,0,4200.00,hcp,novartis
 Barbara Ballmer-Weber,St. Gallen,CH,"Kantonsspital , Rorschacher Strasse 95",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 Elisabeth Bandi-Ott,Zürich,CH,"Gruppenpraxis, Universitätstras se 100",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
-Constance Barazzone,Genève,CH,"Hôpitaux Universitaires de  Kinderklinik, Rue Willy-Donz6 6",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Constance Barazzone,Genève,CH,"Hôpitaux Universitaires de  Kinderklinik, Rue Willy-Donzé 6",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Mario Bargetzi,Aarau,CH,"Kantonsspital  AG Medizin Onkologie, Teilstrasse 25",,,0,0,0,0,1600.00,0,1600.00,hcp,novartis
 Franziska Barta,Zuoz,CH,"Praxis Franziska Barta, Via Staziun 62A",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
 Daniel Basrai,Schaffhausen,CH,"Gruppenpraxis, Nordstrasse 30",,,0,0,0,0,400.00,0,400.00,hcp,novartis
-Edouard Battegay,Zürich,CH,"Universitätsspit al  Innere Medizin, Rämistrasse 100",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
+Edouard Battegay,Zürich,CH,"Universitätsspital  Innere Medizin, Rämistrasse 100",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
 Basil Albert Bättig,Zürich,CH,"Onkologiepraxis Bellevue, Stadelhoferstras se 42",,,0,0,0,0,1800.00,0,1800.00,hcp,novartis
-Christa Baumann,Bern,CH,Prolindo Onkologie- und Hämatologie-Team t Bremgartenstrass e 117,,,0,0,666.67,480.00,0,0,1146.67,hcp,novartis
+Christa Baumann,Bern,CH,Prolindo Onkologie- und Hämatologie-Team t Bremgartenstrasse 117,,,0,0,666.67,480.00,0,0,1146.67,hcp,novartis
 Michael Baumann,St. Gallen,CH,"Zentrum für Labormedizin Ambulatorium, Frohbergstrasse 3",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
 Katrin Conzett Baumann,Luzern,CH,"Hautpraxis Baumann und Steinmann, Kapellplatz 10",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
 Yan Beauverd,Genève,CH,"Hôpitaux Universitaires de  Medizin Hämatologie, Rue Gabrielle-Perret -Gentil 4",,,0,0,0,0,850.00,0,850.00,hcp,novartis
@@ -6431,7 +6431,7 @@ Karsten Beer,Wil SG,CH,"Praxis Karsten Beer, Obere Bahnhofstrasse 49",,,0,0,0,0,
 Michael Bergner,Langenthal,CH,"Praxis Michael Bergner, St.Urbanstrasse 67",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 Sven Berkmann,Aarau,CH,"Kantonsspital  AG Chirurgie Neuro, Tellstrasse 25",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Jean-Yves Berney,Genève,CH,"Cabinet de groupe, Rue Henri-Christinö 5",,,0,0,0,0,600.00,0,600.00,hcp,novartis
-Michael Bernimoulin,Carouge GE,CH,"Cabinet Michael Bernimoulin, Avenue Cardinal-Mermill od l",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
+Michael Bernimoulin,Carouge GE,CH,"Cabinet Michael Bernimoulin, Avenue Cardinal-Mermillod l",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
 Jean Bérubé,Lugano,CH,Studio medico. Via Maggio 13,,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis
 Robert Walter Bettschart,Aarau,CH,"Lungenpraxis , Schanzweg 7",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 Till Patrick Betz,Münsterlingen,CH,"Kantonsspital  Medizin Neurologie, Spitalcampus 1",,,0,0,0,0,700.00,0,700.00,hcp,novartis
@@ -6442,7 +6442,7 @@ Annett Blatter,Ebnat-Kappel,CH,"Praxis Annett Blatter, Kapplerstrasse 32",,,0,0,
 Daniel Blickenstorfer,Wädenswil,CH,"Gruppenpraxis, Fuhrstrasse 15",,,0,0,0,0,600.00,0,600.00,hcp,novartis
 Heinz Blickenstorfer,Dübendorf,CH,"Praxis Heinz Blickenstorfer, Adlerstrasse 1",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Alexandre Bodmer,Genève,CH,"Hôpitaux Universitaires de  Chirurgie Onko-Gynäkologie , Boulevard de la Cluse 30",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
-Wolf-Henning Boehncke,Genève,CH,"Hôpitaux Universitaires de Genève Dermatologische Klinik, Rue Gabrielle-Perret -Gentil 4",,,0,0,0,0,9413.49,7397.61,16811.10,hcp,novartis
+Wolf-Henning Boehncke,Genève,CH,"Hôpitaux Universitaires de  Dermatologische Klinik, Rue Gabrielle-Perret -Gentil 4",,,0,0,0,0,9413.49,7397.61,16811.10,hcp,novartis
 Barbara Bolliger,St. Gallen,CH,"Tumor- und Brustzentrum ZeTuP AG, Rorschacher Strasse 150",,,0,0,0,0,850.00,0,850.00,hcp,novartis
 Fulvio Bomio,Massagno,CH,Studio medico. Via Cabione la /via Madonna della Salute,,,0,0,0,0,1100.00,0,1100.00,hcp,novartis
 Lutz Bönig,Frauenfeld,CH,"Neurologie am Rosenberg, Thundorferstrass e 120",,,0,0,0,0,700.00,0,700.00,hcp,novartis
@@ -6452,9 +6452,9 @@ Andrea Bräutigam,Olten,CH,"Pallas Klinik Ophthalmologisch e Klinik, Louis Girou
 Pierluigi Brazzola,Bellinzona,CH,"Ospedale Regionale di  e Valli Kinderklinik, Via Ospedale",,,0,0,0,0,250.00,0,250.00,hcp,novartis
 Alexander Breitenstein,Zürich,CH,"Universitätsspit al  Medizin Kardiologie, Rämistrasse 100",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
 Patrick Brun,Heiligenschwendi,CH,"Berner Reha Zentrum Medizin Pneumologie, Schwendi 299",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
-Corinna Brunckhorst,Zürich,CH,"Universitätsspit al  Medizin Kardiologie, Rämistrasse 100",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
+Corinna Brunckhorst,Zürich,CH,"Universitätsspital  Medizin Kardiologie, Rämistrasse 100",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
 Adrian Bühler,Spiez,CH,"Gruppenpraxis, Oberlandstrasse 7",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
-Luc Bürdet,Payerne,CH,"Höpital intercantonal de la Broye (HIB) Medizin Pneumologie, Avenue de la Colline 3",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Luc Bürdet,Payerne,CH,"Hôpital intercantonal de la Broye (HIB) Medizin Pneumologie, Avenue de la Colline 3",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Saed Burgan,Genève,CH,"Cabinet de groupe, Rue de Contamines 26",,,0,0,0,0,1550.00,0,1550.00,hcp,novartis
 Stephan Bürgin,Münchenstein,CH,"Praxis Stephan Bürgin, Reinacherstrasse 28",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Marc Buser,St. Gallen,CH,"Kantonsspital  Medizin Kardiologie, Rorschacher Strasse 95",,,0,0,0,0,600.00,0,600.00,hcp,novartis
@@ -6462,13 +6462,13 @@ Astrid Busslinger,Schlieren,CH,"Gruppenpraxis, Zürcherstrasse 4",,,0,0,0,0,1200
 Pasquale Calabrese,Basel,CH,University of  Birmannsgasse 8,,,0,0,0,0,2731.29,1120.78,3852.07,hcp,novartis
 Antonello Calderon!,Lugano,CH,"Oncologia, Via Fogazzaro 3",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Nathan Cantoni,Aarau,CH,"Kantonsspital  AG Medizin Onkologie, Teilstrasse 25",,,0,0,0,0,2975.00,0,2975.00,hcp,novartis
-Doel Capraro,Aarau,CH,"Kantonsspital  AG Medizin Endo/Diabetologi e, Tellstrasse 25",,,0,0,0,0,1100.00,0,1100.00,hcp,novartis
-Yves Charles Cattin,B^vilard,CH,"Cabinet Yves Charles Cattin, Route de Champoz 9",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Doel Capraro,Aarau,CH,"Kantonsspital  AG Medizin Endo/Diabetologie, Tellstrasse 25",,,0,0,0,0,1100.00,0,1100.00,hcp,novartis
+Yves Charles Cattin,Bévilard,CH,"Cabinet Yves Charles Cattin, Route de Champoz 9",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Dimitrios Chatsiproios,Kreuzlingen,CH,"Praxis Dimitrios Chatsiproios, Hauptstrasse 70",,,0,0.0,0,0,1600.00,0,1600.00,hcp,novartis
 Sylvie Chauvet,Meyrin,CH,"Centre Medical de  CMM, Promenade des Artisans 24",,,0,0,0,0,1250.00,0,1250.00,hcp,novartis
 Claude-Andr£ Chätelat,Bern,CH,"Kardiologische Praxis Kirchenfeld, Thunstrasse 2",,,0,0,0,0,800.00,0,800.00,hcp,novartis
-Stephane Chevallier,Yverdon-les-Bains,CH,"Cabinet Stephane Chevallier, Avenue Haldimand 57",,,0,0,0,0,700.00,0,700.00,hcp,novartis
-Cécile Choudja Ouabo,Fribourg,CH,"HFR  - Höpital cantonal Kinderklinik, Chemin des Pensionnats 2-6",,,0,0,0,0,2000.00,0,2000.00,hcp,novartis
+Stephane Chevallier,Yverdon-les-Bain,CH,"Cabinet Stephane Chevallier, Avenue Haldimand 57",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Cécile Choudja Ouabo,Fribourg,CH,"HFR  - Hôpital cantonal Kinderklinik, Chemin des Pensionnats 2-6",,,0,0,0,0,2000.00,0,2000.00,hcp,novartis
 Jacek Cichon,Bern,CH,"Praxis Dacek Cichon, Bubenbergplatz 10",,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis
 Adrian Ciurea,Zürich,CH,"Universitätsspit al  Rheumatologische Klinik, Gloriastrasse 25",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
 Christian Clarenbach,Zürich,CH,"Universitätsspit al  Medizin Pneumologie, Rämistrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
@@ -6500,7 +6500,7 @@ Thomas Dorn,Crans-Montana,CH,"Berner Klinik Montana Medizin Neurologie, Impasse 
 Catherine Dozier,Carouge GE,CH,"Cabinet Catherine Dozier, Place du Temple 15",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
 Bogdan Draganski,Lausanne,CH,"CHJV Medizin Neurologie, Rue du Bugnon 46",,,0,0,0,0,465.56,810.32,1275.88,hcp,novartis
 Sabine Druschke,Amriswil,CH,"Praxis Sabine Druschke, Kirchstrasse 1",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
-Jean Dudler,Fribourg,CH,"HFR  - Höpital cantonal Rheumatologische Klinik, Chemin des Pensionnats 2-6",,,0,0,0,0,3250.00,0,3250.00,hcp,novartis
+Jean Dudler,Fribourg,CH,"HFR  - Hôpital cantonal Rheumatologische Klinik, Chemin des Pensionnats 2-6",,,0,0,0,0,3250.00,0,3250.00,hcp,novartis
 Reinhard Dummer,Zürich,CH,"Universitätsspit al  Dermatologische Klinik, Gloriastrasse 31",,,0,0,0,0,7386.24,527.86,7914.10,hcp,novartis
 Mauro Dünki,Zollikerberg,CH,"Praxis Mauro Dünki, Trichtenhauserst rasse 2",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Jörg Eimers,Gisikon,CH,"Jörg Eimers Consulting, Wissehrli lb",,,0,0,0,0,2250.00,0,2250.00,hcp,novartis
@@ -6519,7 +6519,7 @@ Gian Flury,Scuol,CH,"Ospidal  Innere Medizin, Via da 1' Ospidal 286",,,0,0,0,0,1
 Rudolf Frank,Bern,CH,"Kardiologische Praxis Kirchenfeld, Thunstrasse 2",,,0,0,0,0,1300.00,0,1300.00,hcp,novartis
 Dimitri Franke,Münchenstein,CH,"Neurologie am Schaulager, Emil Frey-Strasse 85",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Daniel Franzen,Zürich,CH,"Universitätsspit al  Medizin Pneumologie, Räristrasse 100",,,0,0,0,0,1600.00,0,1600.00,hcp,novartis
-Jean-Georges Frey,Crans-Montana,CH,"Höpital du Valais, Route de la Moubra 87",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Jean-Georges Frey,Crans-Montana,CH,"Hôpital du Valais, Route de la Moubra 87",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Michael Fricker,Mörigen,CH,"Gruppenpraxis, Schulstrasse 14a",,,0,0,0,0,1200.00,0,1200.00,hcp,novartis
 Joseph Früh,Breitenbach,CH,"Gruppenpraxis, Passwangstrasse 10",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Bernhard Frühauf,Walenstadt,CH,"Praxis Bernhard Frühauf, Stickereiweg 1",,,0,0,0,0,1500.00,0,150000,hcp,novartis
@@ -6544,14 +6544,14 @@ Jeroen Simon Goede,Winterthur,CH,"Kantonsspital  Medizin Onkologie, Brauerstrass
 Michel Joseph Goumaz,Genève,CH,"Cabinet Michel Joseph Goumaz, Rue du Mont-Blanc 22",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Regina Graf-Kirchbach,Schlieren,CH,"Gruppenpraxis, Pflugstrasse 18",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Ducommun Eduna Grandjean,Onex,CH,"Cabinet Eduna Grandjean Ducommun, Rue des Bossons 24",,,0,0,0,0,700.00,0,700.00,hcp,novartis
-Jean-Jacques Grimm,Delömont,CH,"Cabinet Jean-Jacques Grimm, Rue du Tenple 45",,,0,0,0,0,2000.00,0,2000.00,hcp,novartis
+Jean-Jacques Grimm,Delémont,CH,"Cabinet Jean-Jacques Grimm, Rue du Tenple 45",,,0,0,0,0,2000.00,0,2000.00,hcp,novartis
 Philipp Grob-Blum,Spiez,CH,"Lungenpraxis  AG, Oberlandstrasse 9",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Kamelija Gropp,Bottighofen,CH,"Gruppenpraxis, Oberer Garten 1",,,0,0,150.00,351.00,0,0,501.00,hcp,novartis
 Thomas Alfred Gropp,Bottighofen,CH,"Gruppenpraxis, Oberer Garten 1",,,0,0,150.00,351.00,0,0,501.00,hcp,novartis
 Patric Gross,Effretikon,CH,"Gruppenpraxis, Dorfstrasse 11",,,0,0,0,0,500.00,0,500.00,hcp,novartis
 Urs Grossenbacher,Zürich,CH,"Gruppenpraxis, Limattalstrasse 167",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Andreas Gschwend,Baar,CH,"Zuger Kantonsspital AG Medizin Onkologie, Landhausstrasse 11",,,0,0,0,0,850.00,0,850.00,hcp,novartis
-Pierre-Andrä Guerne,Genève,CH,"Hôpitaux universitaires de  Rheumatologische Klinik, Avenue de Beau-Säjour 26",,,0,0,0,0,3500.00,0,3500.00,hcp,novartis
+Pierre-Andrä Guerne,Genève,CH,"Hôpitaux universitaires de  Rheumatologische Klinik, Avenue de Beau-Séjour 26",,,0,0,0,0,3500.00,0,3500.00,hcp,novartis
 Konstantin Gugleta,Basel,CH,"Universitätsspit al  Ophthalmologisch e Klinik, Mittlere Strasse 91",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Magdalen Gürtler,Biel/Bienne,CH,"Praxis Magdalen Gürtler, Schüsspromenade 16",,,0,0,0,0,3200.00,0,3200.00,hcp,novartis
 Eva Gütling,Winterthur,CH,"Neuropraxis im Haus zum Walfisch, Marktgasse 44",,,0,0,0,0,700.00,0,700.00,hcp,novartis
@@ -6559,9 +6559,9 @@ Raphael Haberthür,Breitenbach,CH,"Praxis Raphael Haberthür, Alice Vogt-Strasse
 Franziska Häfner,Thalwil,CH,"Rheumapraxis und Hausarztpraxis, Alte Landstrasse 130",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Kerstin Hagemann,Münsingen,CH,"Kinderarztpraxis , Bernstrasse 5",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Martin Hagen,Horgen,CH,"OHZ Zimmerberg, Seestrasse 80",,,0,0,0,0,850.00,0,850.00,hcp,novartis
-Dürg Hamacher,Bern,CH,"Praxis lürg Hamacher, Bremgartenstrass e 119",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
+Jürg Hamacher,Bern,CH,"Praxis Jürg Hamacher, Bremgartenstrasse 119",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
 Hubertus Hasse,Seftigen,CH,"Praxis Hubertus Hasse, Dorfmatt 7",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
-Katja Birgit Hatz,Binningen,CH,"Vista Klinik Ophthalmologisch e Klinik, Hauptstrasse 55",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Katja Birgit Hatz,Binningen,CH,"Vista Klinik Ophthalmologische Klinik, Hauptstrasse 55",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Marc Heizmann,Aarau,CH,"Kantonsspital  AG Medizin Onkologie, Teilstrasse 25",,,0,0,0,0,2100.00,0,2100.00,hcp,novartis
 Claudine Helg,Genève,CH,"Centre d'oncologie des Eaux-Vives, Rue Maunoir 26",,,0,0,0,0,850.00,0,850.00,hcp,novartis
 Jens Peter Hellermann,Schiers,CH,"Spital , Flury Stiftung Innere Medizin, Tersierstrasse 7",,,0,0,0,0,1625.00,0,1625.00,hcp,novartis
@@ -6571,7 +6571,7 @@ Silke Henzen-Bücking,Sevelen,CH,"Landarztpraxis , Velturrietstrass e S",,,0,0,1
 Urs Hess,St. Gallen,CH,"Kantonsspital  Medizin Onkologie, Rorschacher Strasse 95",,,0,0,0,0,3200.00,0,3200.00,hcp,novartis
 Anna Marie Hew-Winzeler,Zürich,CH,"Praxis Anna Marie Hew-Winzeler, Zinnengasse 1",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Fabien Higelin,Nyon,CH,"Cabinet Fabien Higelin, Avenue Reverdil 2",,,0,0,0,0,600.00,0,600.0,hcp,novartis
-Christian Wilhelm Himmelberger,Meis,CH,Praxis Christian Wilhelm Himmelberger« Valenistrasse 6,,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
+Christian Wilhelm Himmelberger,Mels,CH,Praxis Christian Wilhelm Himmelberger« Valenistrasse 6,,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
 Andreas Himmelmann,Luzern,CH,OnkoZentrum « St. Anna-Strasse 32,,,0,0,0,0,850.00,0,850.00,hcp,novartis
 Andreas Hochstrasser,Männedorf,CH,Spital  AG Medizin Onkologie« Asylstrasse 10,,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Günther Hofbauer,Wetzikon ZH,CH,allderm« Guyer-Zeller-Str asse 10,,,0,0,0,0,3075.00,326.84,3401.84,hcp,novartis
@@ -6582,11 +6582,11 @@ Boris Hübenthal,Glarus,CH,"Zentrum für Integrative Onkologie, Schweizerhofstra
 Barbara Huber,St. Gallen,CH,"Gruppenpraxis, Rorschacher Strasse 107",,,0,0,167.06,391.00,0,0,558.00,hcp,novartis
 Hans Jürg Huber,Würenlos,CH,"Gruppenpraxis, luchstrasse 15",,,0,0,0,0,1600.00,0,1600.00,hcp,novartis
 Philipp Huber,Bern,CH,"Praxis Philipp Huber, Bremgartenstrass e 119",,,0,0,0,0,250.00,0,250.00,hcp,novartis
-Elisabeth Huberle,Schwyz,CH,"Neurologische Praxis , Maria-Hilf-Stras se 9",,,0,0,0,0,1800.00,0,1800.00,hcp,novartis
+Elisabeth Huberle,Schwyz,CH,"Neurologische Praxis , Maria-Hilf-Strasse 9",,,0,0,0,0,1800.00,0,1800.00,hcp,novartis
 Urs Patrick Hufschmid,Baden,CH,"Kantonsspital  AG Medizin Kardiologie, Im Ergel 1",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Thomas Hiigle,Lausanne,CH,"CH JV Rheumatologische Klinik, Avenue Pierre-Decker 4",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Hans Dieter Hüllstrung,Liestal,CH,"Gruppenpraxis, Weierweg 7",,,0,0,0,0,700.00,0,700.00,hcp,novartis
-Stefan Humnler,Luzern,CH,"Praxis Stefan Hu Haler, Zentralstrasse 1",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Stefan Hummler,Luzern,CH,"Praxis Stefan Hummler, Zentralstrasse 1",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Robert Hunger,Bern,CH,"Inselspital , Insei-Gruppe AG Dermatologische Klinik, Freiburgstrasse 18",,,0,0,0,0,3400.00,0,3400.00,hcp,novartis
 Tobias Iff,Zürich,CH,"Praxis Tobias Iff, Lavaterstrasse 83",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Milko Hiev,Zürich,CH,"Gruppenpraxis, Gubelstrasse 54",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
@@ -6596,17 +6596,17 @@ Claudius Irlé,Meyrin,CH,"Cabinet de groupe oncologie, Avenue lacob-Daniel Maill
 Alexander Iseli,Liestal,CH,"Gruppenpraxis, Weierweg 7",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Bruno Dieter Isenring,St. Gallen,CH,"Praxis Bruno Dieter Isenring, Schuppisstrasse 18",,,0,0,0,0,3050.00,0,3050.00,hcp,novartis
 Paul Isler,Zürich,CH,"Neurologie am Kreuzplatz, Klosbachstrasse 2",,,0,0,0,0,700.00,0,700.00,hcp,novartis
-Ferdinand Daggi,Zürich,CH,"Praxis Ferdinand 3aggi, RütihofStrasse 49",,,0,0,0,0,625.00,0,625.00,hcp,novartis
-Peter Däggi,Pfäfflkon SZ,CH,"Praxis Peter 3äggi, Bahnhofstrasse 13",,,0,0,0,0,625.00,0,625.00,hcp,novartis
-Ahmad Dalili,Obbürgen,CH,Bürgenstock 30,,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
-Antoine lallut,Lausanne,CH,"Cabinet Antoine lallut, Avenue Vinet 19",,,0,0,0,0,800.00,0,800.00,hcp,novartis
-Didier Renaud lallut,Lausanne,CH,"Cabinet de groupe, Avenue du Théatre 7",,,0,0,0,0,375.00,0,375.00,hcp,novartis
-Wolf-Dieter Danthur,Aarau,CH,"Kantonsspital  AG Medizin Onkologie, Teilstrasse 25",,,0,0,0,0,3000.00,0,3000.00,hcp,novartis
-Pierre-Antoine lauslin,Genève,CH,"Cabinet de groupe, Rue De-Candolle 14",,,0,0,0,0,700.00,0,700.00,hcp,novartis
-Christian ledl,Triesenberg,CH,"Gruppenpraxis, Schlossstrasse 7",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
-Bertrand lop,Martigny,CH,"Cabinet 8ertrand Dop, Avenue de la Gare 8",,,0,0,0,0,700.00,0,700.00,hcp,novartis
-Michel lung,Genève,CH,Cabinet Michel lung. Rue de Lyon 45,,,0,0,0,0,800.00,0,800.00,hcp,novartis
-Rosmarie Dungbluth,Zürich,CH,"Gruppenpraxis Hardau, Bullingerstrasse 49",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
+Ferdinand Jaggi,Zürich,CH,"Praxis Ferdinand 3aggi, RütihofStrasse 49",,,0,0,0,0,625.00,0,625.00,hcp,novartis
+Peter Jäggi,Pfäfflkon SZ,CH,"Praxis Peter Jäggi, Bahnhofstrasse 13",,,0,0,0,0,625.00,0,625.00,hcp,novartis
+Ahmad Jalili,Obbürgen,CH,Bürgenstock 30,,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Antoine Jallut,Lausanne,CH,"Cabinet Antoine Jallut, Avenue Vinet 19",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Didier Renaud Jallut,Lausanne,CH,"Cabinet de groupe, Avenue du Théatre 7",,,0,0,0,0,375.00,0,375.00,hcp,novartis
+Wolf-Dieter Janthur,Aarau,CH,"Kantonsspital  AG Medizin Onkologie, Teilstrasse 25",,,0,0,0,0,3000.00,0,3000.00,hcp,novartis
+Pierre-Antoine Jauslin,Genève,CH,"Cabinet de groupe, Rue De-Candolle 14",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Christian Jedl,Triesenberg,CH,"Gruppenpraxis, Schlossstrasse 7",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
+Bertrand Jop,Martigny,CH,"Cabinet Bertrand Jop, Avenue de la Gare 8",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Michel Jung,Genève,CH,Cabinet Michel Jung. Rue de Lyon 45,,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Rosmarie Jungbluth,Zürich,CH,"Gruppenpraxis Hardau, Bullingerstrasse 49",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
 Daniela Kaergel,Sargans,CH,"Praxis Daniela Kaergel, Bahnhofstrasse 12",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
 Markus Kaiser,Zürich,CH,"Herzpraxis Enge, Bleicherweg 47",,,0,0,0,0,5900.00,0,5900.00,hcp,novartis
 Ulrich Keller,Basel,CH,"Praxis Ulrich Keller, Aeschenvorstadt 57",,,0,0,0,0,240.00,0,240.00,hcp,novartis
@@ -6615,7 +6615,7 @@ Andreas King,Gonten,CH,"Praxis Andreas King, Dorfstrasse 31",,,0,0,167.00,391.00
 Martin Kistler,Leissigen,CH,"Praxis Martin Kistler, Dorfstrasse 20",,,0,0,0,0,600.00,0,600.00,hcp,novartis
 Dominik Klamp,Zürich,CH,"Medbase -Oerlikon, Baumackerstrasse 46",,,0,0,0,0,1200.00,0,1200.00,hcp,novartis
 Uta Kliesch,Schwyz,CH,"Neurologische Praxis , Maria-Hilf-Stras se 9",,,0,0,0,0,700.00,0,700.00,hcp,novartis
-Michael Knauer,St. Gallen,CH,"Kantonsspital  Brustzentrum/Chi rurgie, Rorschacher Strasse 95",,,0,0,0,4238.80,0,0,4238.80,hcp,novartis
+Michael Knauer,St. Gallen,CH,"Kantonsspital  Brustzentrum/Chirurgie, Rorschacher Strasse 95",,,0,0,0,4238.80,0,0,4238.80,hcp,novartis
 Ludger Kneuper,Richterswil,CH,"Paracelsus-Spita 1  AG Medizin Onkologie, Bergstrasse 16",,,0,0,0,0,850.00,0,850.00,hcp,novartis
 Christoph Kniestedt,Zürich,CH,"Talacker Augen-Zentrum, Pelikanstrasse 18",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Oskar Robert Köchli,Zürich,CH,"Frauengesundheit szentrum, Ränistrasse 35",,,0,0,0,0,1175.00,0,1175.00,hcp,novartis
@@ -6623,9 +6623,9 @@ Mathias Koepke,Luzern,CH,"Gruppenpraxis, Löwengraben 14",,,0,0,0,0,1000.00,0,10
 Jacques Koerfer,Bulle,CH,"Cabinet Jacques Koerfer, Rue de Gruyöres 35",,,0,0,610.00,686.00,700.00,0,1996.00,hcp,novartis
 Malcolm Kohler,Zürich,CH,"Universitätsspit al  Medizin Pneumologie, Ränistrasse 100",,,0,0,0,0,4000.00,0,400000,hcp,novartis
 Robert Kosek,Winterthur,CH,"Ärztzentrum Töss, Zürcherstrasse 129",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
-Milhard Kottmann,Oavos Wolfgang,CH,"Hochgebirgsklini k Davos Medizin Kardiologie, Herman Burchard Strasse 1",,,0,0,0,0,500.00,0,500.00,hcp,novartis
+Wilhard Kottmann,Davos,CH,"Hochgebirgsklinik  Medizin Kardiologie, Herman Burchard Strasse 1",,,0,0,0,0,500.00,0,500.00,hcp,novartis
 Michail Kouros,Locarno,CH,"Studio medico, Via Vincenzo Vela 11",,,0,0,0,0,800.00,0,800.00,hcp,novartis
-Eirini Kouroupi,Neuchâtel,CH,"Höpital ois - Pourtalfes, Rue de la Maladiere 45",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
+Eirini Kouroupi,Neuchâtel,CH,"Hôpital ois - Pourtalfes, Rue de la Maladiere 45",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
 Daniel Koychev,Rapperswil SG,CH,"Tumorzentrum ZeluP Rapperswil-Dona, Alte Donastrasse 24",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
 Stefan P. Kradolfer,Basel,CH,"Gruppenpraxis, Picassoplatz 8",,,0,0,0,0,875.00,0,875.00,hcp,novartis
 Elena Kralidis Zinniker,Aarau,CH,"Kantonsspital  AG Medizin Onkologie, Teilstrasse 25",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
@@ -6633,14 +6633,14 @@ Marguerite Rahmann Krasovec,Schlieren,CH,"Praxis Marguerite Krasovec Rahmann, Ui
 Ute Kretzschmar,Zürich,CH,"Schulthess Klinik Medizin Neurologie, Lengghalde 2",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Reto Kühne,Zürich,CH,"Stadtspital Waid Medizin Onkologie, Tifechestrasse 99",,,0,0,0,0,1850.00,0,1850.00,hcp,novartis
 Thomas Kühne,Basel,CH,Universitäts-Kin derspital (UKBB) Pädiatrie Onko-/Hämatologi •> Spitalstrasse 33,,,0,0,0,0,6129.70,0,6129.70,hcp,novartis
-Alexander Kunz,Täfers,CH,"Praxis Alexander Kunz, Zeigstrasse 25",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Alexander Kunz,Tafers,CH,"Praxis Alexander Kunz, Zeigstrasse 25",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Oleg Kurlandchikov,St. Gallen,CH,"Praxis Oleg Kurlandchikov, Schreinerstrasse 7",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Patric Kurmann,Neuchâtel,CH,"Cabinet Patric Kurmann, Rue de Seyon 10",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Dean-Francois Lambert,Nyon,CH,"Cabinet Dean-Francois Lambert, Chemin Monastier 10",,,0,0,666.67,480.00,7050.00,0,8196.67,hcp,novartis
 Theodor Landis,Lausanne,CH,"Cabinet Theodor Landis, Avenue Domini 8",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Martin Landolt,Basel,CH,"Neurologische Geneinschaftspra xis, Falknerstrasse 35",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Mario Lanfranchi,Silvaplana,CH,"Xundheitszentrum , Via Munterots 8",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
-Michael Lang,Therwil,CH,"Geneinschaftspra xis Bahnhofstrasse, Bahnhofstrasse 21",,,0,0,0,0,200.00,0,200.00,hcp,novartis
+Michael Lang,Therwil,CH,"Geneinschaftspraxis Bahnhofstrasse, Bahnhofstrasse 21",,,0,0,0,0,200.00,0,200.00,hcp,novartis
 Thomas Langenegger,Baar,CH,"Zuger Kantonsspital AG Rheumatologische Klinik, Landhausstrasse 11",,,0,0,0,0,3500.00,0,3500.00,hcp,novartis
 Ronald Langner,Zollikon,CH,"KopfwehZentrum Hirslanden Zürich, Forchstrasse 424",,,0,0,0,0,1750.00,0,1750.00,hcp,novartis
 Christian Lanz,Zürich,CH,"Schulthess Klinik Medizin Neurologie, Lengghalde 2",,,0,0,0,0,700.00,0,700.00,hcp,novartis
@@ -6649,18 +6649,18 @@ Rolf Lehmann,Biel/Bienne,CH,"Praxis Rolf Lehmann, Reitschulstrasse 5",,,0,0,0,0,
 Thomas Lehmann,St. Gallen,CH,"Kantonsspital  Medizin Onkologie, Rorschacher Strasse 95",,,0,0,0,0,5400.00,0,5400.00,hcp,novartis
 Francis Levy,Zürich,CH,"Praxis Francis Levy, Löwenstrasse 42",,,0,0,0,0,3000.00,0,3000.00,hcp,novartis
 Thomas Leyhe,Basel,CH,"Universitäre Psychiatrische Kliniken, Wilhelm Klein-Strasse 27",,,0,0,0,0,750.00,0,750.00,hcp,novartis
-Didier Locca,Lausanne,CH,"Centre Cardiovasculaire du Grand-Chöne, Rue du Grand-Chfcne 8",,,0,0,0,0,700.00,0,700.00,hcp,novartis
+Didier Locca,Lausanne,CH,"Centre Cardiovasculaire du Grand-Chêne, Rue du Grand-Chêne 8",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Christoph Löschhorn,Dättwil AG,CH,"Ärztezentrum Täfernhof, Mellingerstrasse 207",,,0,0,0,0,1600.00,0,1600.00,hcp,novartis
-Karin Ludwig-Schmid,Chur,CH,"Praxisgemeinscha ft, Alexanderstrasse 14",,,0,0,860.00,300.00,0,0,1160.00,hcp,novartis
+Karin Ludwig-Schmid,Chur,CH,"Praxisgemeinschaft, Alexanderstrasse 14",,,0,0,860.00,300.00,0,0,1160.00,hcp,novartis
 Thomas F. Lüscher,Schlieren,CH,Center for Molecular Cardiology Wagistrasse 12,,,0,0,0,0,4500.00,5714.35,10214.35,hcp,novartis
-Folkert Maecker,Degenstorf,CH,"Ärztezentrum  AG, Bernstrasse 12",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
+Folkert Maecker,Jegenstorf,CH,"Ärztezentrum Degenstorf AG, Bernstrasse 12",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
 Micha Maeder,St. Gallen,CH,"Kantonsspital  Medizin Kardiologie, Rorschacher Strasse 95",,,0,0,0,0,2000.00,0,2000.00,hcp,novartis
 Oliver Maier,St. Gallen,CH,"Ostschweizer Kinderspital Medizin Neurologie, Claudiusstrasse 6",,,0,0,230.55,0,0,0,230.55,hcp,novartis
-Ren6 Maire,Männedorf,CH,"Praxis Ren£ Maire, Bahnhofstrasse 20",,,0,0,0,0,4000.00,0,4000.00,hcp,novartis
+René Maire,Männedorf,CH,"Praxis René Maire, Bahnhofstrasse 20",,,0,0,0,0,4000.00,0,4000.00,hcp,novartis
 Tamas Major,Uznach,CH,"Spital Linth Medizin Pneumologie, Gasterstrasse 25",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 Christoph Mamot,Aarau,CH,"Kantonsspital  AG Medizin Onkologie, Teilstrasse 25",,,0,0,0,0,3500.00,0,3500.00,hcp,novartis
 Georgios Mangioris,Onex,CH,"Groupe mldical d', Route de Loex 3",,,0,0,0,0,250.00,0,250.00,hcp,novartis
-Irmela Mantel,Lausanne,CH,"Höpital ophtalmique Dules-Gonin, Avenue de France 15",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Irmela Mantel,Lausanne,CH,"Hôpital ophtalmique Dules-Gonin, Avenue de France 15",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Markus Gabriel Manz,Zürich,CH,"Universitätsspit al  Medizin Hämatologie, Räristrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Gabriele Martin,Collex,CH,"Cabinet Gabriele Martin, Route de l'Etraz 23",,,0,0,0,0,1350.00,0,1350.00,hcp,novartis
 Michel Matter,Genève,CH,"Centre Ophtalmologique de Rive SA, Rue Pierre-Fatio 15",,,0,0,0,0,250.00,0,250.00,hcp,novartis
@@ -6691,10 +6691,10 @@ Peter Myers,Genève,CH,"Cabinet de groupe, Ruelle du Couchant 7",,,0,0,0,0,3700.
 Bernard Nater,Lausanne,CH,"Cabinet Bernard Nater, Chemin des Croix-Rouges 2",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Alexander Navarini,Zürich,CH,"Universitätsspit al  Dermatologische Klinik, Gloriastrasse 31",,,0,0,0,0,1250.00,0,1250.00,hcp,novartis
 Norbert Hubert Nega,Riehen,CH,"Gruppenpraxis, Bettingerstrasse 116",,,0,0,0,0,800.00,0,800.00,hcp,novartis
-Vlronique Negrel,Neuchâtel,CH,"Cabinet Vlronique Negrel, Faubourg de l'Höpital 81",,,0,0,0,0,600.00,0,600.0,hcp,novartis
+Vlronique Negrel,Neuchâtel,CH,"Cabinet Vlronique Negrel, Faubourg de l'Hôpital 81",,,0,0,0,0,600.00,0,600.0,hcp,novartis
 Jiirg Niesper,Egg b. Zürich,CH,"Praxis Jürg Niesper, Felseneggstrasse 1",,,0,0,0,0,1375.00,0,1375.00,hcp,novartis
 Damjan Nikolic,Genève,CH,"Cabinet Damjan Nikolic, Quai du Seujet 14",,,0,0,0,0,800.00,0,800.00,hcp,novartis
-Michael Nissen,Genève,CH,"Hôpitaux universitaires de Genève Rheumatologische Klinik, Avenue de Beau-S6jour 26",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Michael Nissen,Genève,CH,"Hôpitaux universitaires de  Rheumatologische Klinik, Avenue de Beau-S6jour 26",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Roberto Noce,St. Gallen,CH,"Medbase  Einstein, Wassergasse 7",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Georg Noll,Zürich,CH,"HerzKlinik Hirslanden, Witellikerstrass e 40",,,0,0,0,0,2632.22,804.11,3436.33,hcp,novartis
 Tilly Nothhelfer,Baden,CH,Kantonsspital  AG Medizin Onkologie« Im Ergel 1,,,0,0,0,0,1700.00,0,1700.00,hcp,novartis
@@ -6727,7 +6727,7 @@ Razvan Andrei Popescu,Aarau,CH,"Tunor Zentrum  AG, Rain 34",,,0,0,0,0,1500.00,0,
 Lesek Purek,Malans GR,CH,"Medical Center Karlihof, KarlihofStrasse 14 a",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 Kurosch Purkabiri,Heiligenschwendi,CH,"Berner Reha Zentrum Medizin Pneumologie, Schwendi 299",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Luca Quagliata,Basel,CH,"Universitätsspit al  Pathologie, Schönbeinstrasse 40",,,0,0,0,0,1125.00,2107.87,3232.87,hcp,novartis
-Simon Ramseier,Oättwil AG,CH,"Ärztezentrum Täfernhof, Mellingerstrasse 207",,,0,0,0,0,1950.00,0,1950.00,hcp,novartis
+Simon Ramseier,Dättwil AG,CH,"Ärztezentrum Täfernhof, Mellingerstrasse 207",,,0,0,0,0,1950.00,0,1950.00,hcp,novartis
 Karsten Rasche,Winterthur,CH,"Praxis Karsten Rasche, Rönerstrasse 30",,,0,0,0,0,3750.00,0,3750.00,hcp,novartis
 Daniel Reding,Baar,CH,"Zuger Kantonsspital AG Medizin Onkologie, Landhausstrasse 11",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 Sven Reek,Aarau,CH,"Praxis Sven Reek, Rain 34",,,0,0,0,0,3000.00,0,3000.00,hcp,novartis
@@ -6802,7 +6802,7 @@ Carmen Steinacher-Risler,Müllheim Dorf,CH,"Ärztezentrum Müllheim AG, Hintere 
 Stephan Steiner,Wettingen,CH,"Doktor Zentrum  AG, Bahnhofstrasse 88",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Karl Steuer,Allschwil,CH,"Aerztehaus  AG, Brennerstrasse 12",,,0,0,0,0,2500.00,0,2500.00,hcp,novartis
 Susanna Stoll,Zürich,CH,"Stadtspital Triemli Medizin Onkologie, Birmensdorferstr asse 497",,,0,0,0,0,1975.00,0,1975.00,hcp,novartis
-Daiana Stolz,Basel,CH,"Universitätsspit al  Medizin Pneumologie, Petersgraben 4",,,0,0,0,0,2125.00,0,2125.00,hcp,novartis
+Daiana Stolz,Basel,CH,"Universitätsspital  Medizin Pneumologie, Petersgraben 4",,,0,0,0,0,2125.00,0,2125.00,hcp,novartis
 Markus Streit,Aarau,CH,"Kantonsspital  AG Dermatologische Klinik, Bahnhofplatz 3C",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Daniela Studer,Brig,CH,"Praxis Daniela Studer, Rhonesandstrasse 6",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Mathias Sturzenegger,Bern,CH,"Inselspital , Insei-Gruppe AG Medizin Neurologie, Freiburgstrasse 18",,,0,0,0,0,1800.00,0,1800.00,hcp,novartis
@@ -6822,7 +6822,7 @@ Oliver Tschopp,Zürich,CH,"Universitätsspit al  Medizin Endo/Diabetologi e, Rä
 Alexander Turk,Horgen,CH,"See-Spital Standort  Innere Medizin, Asylstrasse 19",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Alexandar Tzankov,Basel,CH,"Universitätsspit al  Pathologie, Schönbeinstrasse 40",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Catrina Uhlmann Nussbaum,Olten,CH,"Kantonsspital  Medizin Onkologie, Baslerstrasse 150",,,0,0,0,0,800.00,0,800.00,hcp,novartis
-Christophe Uldry,Rolle,CH,"Höpital de  / 3H0L, Route de 1‘Höpital 26",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Christophe Uldry,Rolle,CH,"Hôpital de  / 3H0L, Route de 1‘Hôpital 26",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Urs Ulrich,Langenthal,CH,"Praxis Urs Ulrich, Marktgasse 1",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Thomas Unmüssig,Wallisellen,CH,"Praxis Thomas Unnüssig, Parkstrasse 4",,,0,0,860.00,300.00,0,0,1160.00,hcp,novartis
 Beat Unternährer,Hünenberg,CH,"Praxis Beat Unternährer, Bösch 37",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
@@ -6857,13 +6857,13 @@ Patrik Welti,Schwyz,CH,"Praxis Patrik Welti, Postplatz 3",,,0,0,0,0,600.00,0,600
 Daria Wicki,Spreitenbach,CH,"Praxis Daria Wicki, Boostockstrasse 28",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Lienhard Widmer-Davidson,Wettingen,CH,"Gruppenpraxis, Neustrasse 29",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Peter Wiedersheim,St. Gallen,CH,"Rheumatologie im Silberturm, Rorschacher Strasse 150",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
-Johannes Wildhaber,Fribourg,CH,"HFR  - Höpital cantonal Kinderklinik, Chemin des Pensionnats 2-6",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Johannes Wildhaber,Fribourg,CH,"HFR  - Hôpital cantonal Kinderklinik, Chemin des Pensionnats 2-6",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Lukas Wild!,Winterthur,CH,"Kantonsspital  Rheumatologische Klinik, Brauerstrasse 15",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Christian Matthias Wilk,Zürich,CH,"Universitätsspit al  Medizin Häaatologie, Ränistrasse 100",,,0,0,0,0,250.00,0,250.00,hcp,novartis
 Thomas Winder,Zürich,CH,"Praxis Thomas Winder, Seestrasse 259",,,0,0,0,0,2096.00,0,2096.00,hcp,novartis
 Christoph Wineken,Zürich,CH,"Praxis Christoph Wineken, Baumackerstrasse 53",,,0,0,0,0,1225.00,0,1225.00,hcp,novartis
 Monika Witzig-Wiesendanger,Küsnacht ZH,CH,"Gruppenpraxis, Schiffliweg 7",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis
-Christophe Wyss,Zürich,CH,"HerzKlinik Hirslanden, Witellikerstrass e «",,,0,0,0,0,3300.00,0,3300.00,hcp,novartis
+Christophe Wyss,Zürich,CH,"HerzKlinik Hirslanden, Witellikerstrasse",,,0,0,0,0,3300.00,0,3300.00,hcp,novartis
 Peter Christian Wyss,Winterthur,CH,"Praxis Peter Christian Wyss, Gertrudstrasse 1",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Anton Xavier,Binningen,CH,"Vista Klinik Ophthalmologisch e Klinik, Hauptstrasse 55",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Nikhil Yawalkar,Bern,CH,"Inselspital , Insei-Gruppe AG Dermatologische Klinik, Freiburgstrasse 18",,,0,0,0,0,10750.00,0,10750.00,hcp,novartis
@@ -6876,65 +6876,65 @@ Michele Zoppi,Bern,CH,"Gruppenpraxis, Morillonstrasse 77",,,0,0,0,0,1700.00,0,17
 Michel Zuber,Othmarsingen,CH,"Gruppenpraxis, Bahnhofstrasse 8",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Daniel Zuder,St. Gallen,CH,"Haut & Laserzentrum Dr. Zuder AG, St. Leonhard-Strasse 20",,,0,0,860.00,300.00,1250.00,0,2410.00,hcp,novartis
 Susanne Zurfluh-Loferer,Wittenbach,CH,"Praxis Susanne Zurfluh-Loferer, Eichenstrasse 15",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
-Sandrine Zweifel,Zürich,CH,"Universitätsspit al  Ophthalmologisch e Klinik, Frauenklinikstra sse 24",,,0,0,0,0,750.00,0,750.00,hcp,novartis
+Sandrine Zweifel,Zürich,CH,"Universitätsspital  Ophthalmologische Klinik, Frauenklinikstrasse 24",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 ADR-AC GmbH Adverse Drug Reactions - Analysis and Consulting,Bern,CH,Holligenstrasse 91,,,0,4000.00,0,0,2250.00,0,6250.00,hco,novartis
 AGLAEA Präsident: Dr. Oliver Annen,Root,CH,Bahnhofstrasse 24,,,0,5370.00,0,0,0,0,5370.00,hco,novartis
-"Albert Bruppacher Stiftung c/o Universitätsspit al Zürich, Augenklinik",Zürich,CH,Frauenklinikstra sse 24,,,0,0,0,0,9550.00,0,9550.00,hco,novartis
+"Albert Bruppacher Stiftung c/o Universitätsspital Zürich, Augenklinik",Zürich,CH,Frauenklinikstrasse 24,,,0,0,0,0,9550.00,0,9550.00,hco,novartis
 "Alzheimer Forum Schweiz c/o Memory Clinic,Univers. Altersmedizin Felix Platter-Spital",Basel,CH,Burgfelderstrass e 101,,,300.00,0,0,0,0,0,300.00,hco,novartis
 AMIS Plus Stiftung,Zürich,CH,Hirschengraben 84,,,10000.00,0,0,0,0,0,10000.00,hco,novartis
 AndreasKlinik Cham Zug,Cham,CH,Rigistrasse 1,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
-Arbeitsgemeinsch aft Fortbildung für Apothekenmitarbe iter (agfam) c/o Frau Monika Mogavero,Winterthur,CH,Postfach,,,0,3000.0,0,0,0,0,3000.00,hco,novartis
+Arbeitsgemeinschaft Fortbildung für Apothekenmitarbe iter (agfam) c/o Frau Monika Mogavero,Winterthur,CH,Postfach,,,0,3000.0,0,0,0,0,3000.00,hco,novartis
 Arbeitsgruppe für Herzinsuffizienz Präsident: Prof. Dr. med. Roger Hullin,Bern,CH,Schwarztorstrass e 18,,,15600.00,0,0,0,0,0,15000.00,hco,novartis
 Argomed Ärzte AG,Lenzburg,CH,Bahnhofstrasse 24,,,0,0,1200.00,400.00,0,0,1600.00,hco,novartis
-Ärztegesellschaf t des Kantons Bern,Bern,CH,Postgasse 19,,,0,20000.00,0,0,0,0,20000.00,hco,novartis
-Ärztegesellschaf t des Kantons Luzern,Luzern,CH,Schwanenplatz 7,,,0,3500.00,0,0,0,0,3500.00,hco,novartis
+Ärztegesellschaft des Kantons Bern,Bern,CH,Postgasse 19,,,0,20000.00,0,0,0,0,20000.00,hco,novartis
+Ärztegesellschaft des Kantons Luzern,Luzern,CH,Schwanenplatz 7,,,0,3500.00,0,0,0,0,3500.00,hco,novartis
 Ärztekongress Arosa,Arosa,CH,Postfach 68,,,0,3900.0,0,0,0,0,3900.00,hco,novartis
-Ärztenetzwerk Gesundes Rheintal Präsident : Dr. aed. Roman Würth,Widnau,CH,Zinggenstrasse 3 A,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
+Ärztenetzwerk Gesundes Rheintal Präsident : Dr. med. Roman Würth,Widnau,CH,Zinggenstrasse 3 A,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 Ärztenetzwerk Grauholz,Ittigen,CH,Worblentalstrass e 99,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 Ärztenetzwerk IGOMED Thun Geschäftsstelle Herr Dr. med. Peter Bachmann,Thun,CH,Höheweg 26a,,,0,0,600.0,200.00,0,0,800.00,hco,novartis
 Ärzteverein Werdenberg Sarganserland Präsident Dr. med. Stefan Küpfer Venenzentrum,Bad Ragaz,CH,Hans Albrecht-Strasse 1,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 Ärztezentrum Flums AG,Flums,CH,Marktstrasse 21,,,0,0,334.00,782.00,0,0,1116.00,hco,novartis
-Ärztlicher Notfallkreis Sissach-Gelterki nden c/o Dr. Pascal Suda,Läufelfingen,CH,Hirzenfelck*eg 4,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
-Ass. genevoise des mldecins de famille interniste glnlralistes (AGeMIG) c/o Dr Didier Chätelain,Genève,CH,Rue du Conseil-G6n6ral 11,,,0,4000.00,0,0,0,0,4000.00,hco,novartis
+Ärztlicher Notfallkreis Sissach-Gelterkinden c/o Dr. Pascal Suda,Läufelfingen,CH,Hirzenfelckweg 4,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
+Ass. genevoise des medecins de famille interniste généralistes (AGeMIG) c/o Dr Didier Châtelain,Genève,CH,Rue du Conseil-Général 11,,,0,4000.00,0,0,0,0,4000.00,hco,novartis
 Association D’Esculape En Lavaux (ADAEL) c/o Dr Thierry Reymond,Lutry,CH,Rue Verdaine,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
-Association genevoise d’asthme d'immunologie et d'allergie (AGAIA) c/0 Dominique laques (Träsorier),Genève,CH,Rue Enile-Yung 11,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
-Association lourn£e Durassienne de Mldecine c/o Or. Markus Hug,Del6mont,CH,Rue de la Prefecture 1,,,0,1600.00,0,0,0,0,1600.00,hco,novartis
-Association mldecins de la cöte c/o Dr. Sara Inoubli Le Roy,Nyon,CH,Rue Neuve 6,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
+Association genevoise d’asthme d'immunologie et d'allergie (AGAIA) c/o Dominique laques (Träsorier),Genève,CH,Rue Enile-Yung 11,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
+Association Journée Jurassienne de Médecine c/o Dr. Markus Hug,Delémont,CH,Rue de la Prefecture 1,,,0,1600.00,0,0,0,0,1600.00,hco,novartis
+Association médecins de la côte c/o Dr. Sara Inoubli Le Roy,Nyon,CH,Rue Neuve 6,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 Associazione Lugano Meeting Gruppo di Qualitä Sud c/o Dr. med. Alessandro Del H Bufalo C,Lugano,CH,Via Riva Vela 12,,,0,800.00,0,0,0,0,800.00,hco,novartis
-s Associazione Mendrisio Medical Meeting,Minusio,CH,Via Cadogno 1,,,0,3000.0,0,0,0,0,3000.00,hco,novartis
-Associazione Oftalmologi Canton Ticino (AOCT) c/o Dr. ■ed. Urs Meier,Lugano,CH,Via Canova 18,,,0,4800.00,0,0,0,0,4800.00,hco,novartis
+Associazione Mendrisio Medical Meeting,Minusio,CH,Via Cadogno 1,,,0,3000.0,0,0,0,0,3000.00,hco,novartis
+Associazione Oftalmologi Canton Ticino (AOCT) c/o Dr. med. Urs Meier,Lugano,CH,Via Canova 18,,,0,4800.00,0,0,0,0,4800.00,hco,novartis
 Associazione Triangolo Assistenza per il paziente oncologico,Locarno,CH,Via Antonio Ciseri 19,,,2000.0,0,0,0,0,0,2000.00,hco,novartis
-Augen Glattzentrum AG Einkaufszentrum Glatt,Wallisellen,CH,Neue Winterthurerstra sse 99,,,462.96,0,0,0,0,0,462.96,hco,novartis
-Augenzentrum Bahnhof Basel AG,Basel,CH,Centralbahnstras se 20,,,0,14000.00,0,0,0,0,14000.00,hco,novartis
-Berner Augenklinik am Lindenhofspital AG,Bern,CH,Bremgartenstrass e 119,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
+Augen Glattzentrum AG Einkaufszentrum Glatt,Wallisellen,CH,Neue Winterthurerstrasse 99,,,462.96,0,0,0,0,0,462.96,hco,novartis
+Augenzentrum Bahnhof Basel AG,Basel,CH,Centralbahnstrasse 20,,,0,14000.00,0,0,0,0,14000.00,hco,novartis
+Berner Augenklinik am Lindenhofspital AG,Bern,CH,Bremgartenstrasse 119,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
 Bethesda Spital AG,Basel,CH,Gellertstrasse 144,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 Blueye Vision Tech GmbH c/o Dr. med. Peter H Maloca C,Meggen,CH,HuobmattStrasse 9,,,0,2500.00,0,0,0,0,2500.00,hco,novartis
-s Blutspende SRK Schweiz AG,Bern,CH,Laupenstrasse 37,,,2777.75,0,0,0,3640.00,0,6417.75,hco,novartis
+Blutspende SRK Schweiz AG,Bern,CH,Laupenstrasse 37,,,2777.75,0,0,0,3640.00,0,6417.75,hco,novartis
 Brustzentrum Regio Basiliensis c/o Aerztehaus Allschwil,Allschwil,CH,Brennerstrasse 12,,,0,2500.00,0,0,0,0,2500.00,hco,novartis
-Buendner Oberlaender Aerzteverein Präsident: Dr. 1 med. Gian Bundi Arzthaus,Vella,CH,Sunsiaras 117B,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
+Bündner Oberländer Aerzteverein Präsident: Dr. med. Gian Bundi Arzthaus,Vella,CH,Sunsiaras 117B,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 Bündner Ärzteverein Geschäftsstelle Herr Marc Tomaschett,Chur,CH,St. Martinsplatz 8,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
-1 CANSEARCH - Fondation de recherche contre le cancer de 1'enfant,Thönex,CH,Chemin Pont-Perrin 6,,,2777.78,0,0,0,0,0,2777.78,hco,novartis
-Center da sandä Engiadina Bassa (CSEB) Gesundheitszentr um Unterengadin,Scuol,CH,Via da 1‘Ospidal 280,,,0,17000.00,0,0,0,0,1700000,hco,novartis
-Centre Mldical de la CÖte SA,Corcelles NE,CH,Rue du Petit-Berne 14,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
-H c Centre 0 Ophtalmologique s de Florissant,Genève,CH,Avenue Krieg 44BIS,,,0,0,0,0,1000.00,0,1000.00,hco,novartis
+CANSEARCH - Fondation de recherche contre le cancer de l'enfant,Thônex,CH,Chemin Pont-Perrin 6,,,2777.78,0,0,0,0,0,2777.78,hco,novartis
+Center da sandà Engiadina Bassa (CSEB) Gesundheitszentrum Unterengadin,Scuol,CH,Via da 1‘Ospidal 280,,,0,17000.00,0,0,0,0,1700000,hco,novartis
+Centre Médical de la Côte SA,Corcelles NE,CH,Rue du Petit-Berne 14,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
+Centre Ophtalmologique de Florissant,Genève,CH,Avenue Krieg 44BIS,,,0,0,0,0,1000.00,0,1000.00,hco,novartis
 Centre Ophtalmologique de Rive SA,Genève,CH,Rue Pierre-Fatio 15,,,0,10000.00,0,0,0,0,10000.00,hco,novartis
 Centre ophtalmologique du Valais SA,Sion,CH,Avenue de la Gare 11,,,0,0,0,0,750.00,0,750.00,hco,novartis
 CHUV Centre hospitalier universitaire vaudois,Lausanne,CH,Rue du Bugnon 46,,,25259.26,62607.40,2850.00,2068.17,57812.59,1526.28,152123.70,hco,novartis
-Circolo di Qualitä Campagna Adoma c/o Dr. 1 aed. Lorenzo E. Binaghi,Coldrerio,CH,Via Mercole 2b,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
+Circolo di Qualità Campagna Adoma c/o Dr. med. Lorenzo E. Binaghi,Coldrerio,CH,Via Mercole 2b,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 Circolo Medico Di Bellinzona Presidente: Dr. Ezio Montedoro,Arbedo,CH,Via Orbello 22,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 Circolo Medico Locarno e Dintorni Presidente: Dr. med. Nello Broggini,Ascona,CH,Via Lido 27,,,0,5500.00,0,0,0,0,5500.00,hco,novartis
-Clinique de H Carouge C 0,Carouge GE,CH,Avenue Cardinal-Mermill od 1,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
-s Clinique de Genolier,Genolier,CH,Route du Muids 3,,,1000.00,0,0,0,0,0,1000.00,hco,novartis
-Clinique romande de ^adaptation,Sion,CH,Avenue Grand-Champsec 90,,,0,2888.90,0,0,0,0,2888.90,hco,novartis
+Clinique de Carouge,Carouge GE,CH,Avenue Cardinal-Mermill od 1,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
+Clinique de Genolier,Genolier,CH,Route du Muids 3,,,1000.00,0,0,0,0,0,1000.00,hco,novartis
+Clinique romande de réadaptation,Sion,CH,Avenue Grand-Champsec 90,,,0,2888.90,0,0,0,0,2888.90,hco,novartis
 CMCB Centre Medico-Chirurgic al de la Broye SA,Payerne,CH,Rue de Guillermaux 8,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
-Dandelion Pflegezentrum f. demenzkranke Menschen,Basel,CH,Sperrstrasse 100,,,ERROR,0,0,0,0,0,ERROR,hco,novartis
+Dandelion Pflegezentrum f. demenzkranke Menschen,Basel,CH,Sperrstrasse 100,,,8000.00,0,0,0,0,0,8000.00,hco,novartis
 "Dermatologische Gesellschaft Ostschweiz - DGO Dr. med. Christian Schuster, Präsident",St. Gallen,CH,Kugelgasse 8,,,0,2310.00,0,0,0,0,2310.00,hco,novartis
-Die Schweizerische Ärztegesellschaf t für Manuelle Medizin (SAMM),St. Gallen,CH,Kolumbanstrasse 2,,,0,6375.00,0,0,0,0,6375.00,hco,novartis
-DOXnet Aerztenetzwerk Bern Nord/West H Herr Dr. med. C Köstner Beat 0,Neuenegg,CH,Oeleweg 2,,,0,ERROR,ERROR,200.00,0,0,3800.00,hco,novartis
+Die Schweizerische Ärztegesellschaft für Manuelle Medizin (SAMM),St. Gallen,CH,Kolumbanstrasse 2,,,0,6375.00,0,0,0,0,6375.00,hco,novartis
+DOXnet Ärztenetzwerk Bern Nord/West H Herr Dr. med. C Köstner Beat 0,Neuenegg,CH,Oeleweg 2,,,0,3000.00,600.00,200.00,0,0,3800.00,hco,novartis
 Ente Ospedaliero Cantonale EOC Direzione Generale,Bellinzona,CH,Viale Officina 3,,,145150.00,23590.00,0,0,5487.50,0,174227.50,hco,novartis
-EPFL - Ecole polytechnique föderale de Lausanne PRES,Lausanne,CH,CE 3 316 (Centre Est) Station 1,,,115000.00,0,0,0,0,5120.80,120120.80,hco,novartis
+EPFL - Ecole polytechnique fédérale de Lausanne PRES,Lausanne,CH,CE 3 316 (Centre Est) Station 1,,,115000.00,0,0,0,0,5120.80,120120.80,hco,novartis
 ERS European Respiratory Society ERS Headquarters,Lausanne,CH,Avenue Sainte-Luce 4,,,0,1210742.86,0,0,0,0,1210742.86,hco,novartis
-ETH Zürich Hauptgebäude,Zürich,CH,Rämistrasse 101,,,249000.00,0,0,0,0,0,249000.00,hco,novartis
+ETH Zürich ,Zürich,CH,Rämistrasse 101,,,249000.00,0,0,0,0,0,249000.00,hco,novartis
 European Academy of Allergy and Clinical Immunology (EAACI),Zürich,CH,"Hagenholzstrasse 111, 3rd floor",,,0,309642.54,0,0,0,0,309642.54,hco,novartis
 European Academy of Dermatology and Venerology (EADV) Headquarter,Lugano,CH,Via S. Balestra 22B,,,0,648956.84,4914.16,0,0,0,653871.00,hco,novartis
 European Association for the Study of the Liver (EASL),Genève,CH,Rue Daubin 7,,,0,16498.43,0,0,0,0,16498.43,hco,novartis
@@ -6948,44 +6948,44 @@ Felix Platter-Spital,Basel,CH,Burgfelderstrass e 101,,,2410.00,15000.00,0,0,3875
 Fokus Herz Bern c/o CCE Services GmbH,Basel,CH,Dornacherstrasse 82,,,0,7500.00,0,0,0,0,7500.00,hco,novartis
 Fondation Asile des aveugles,Lausanne,CH,Avenue de France 15,,,0,18629.63,0,0,3000.00,0,21629.63,hco,novartis
 Fondation fribourgeoise pour la recherche et la formation sur le cancer,Bourguillon,CH,Rue Max von Sachsen 4,,,0,15000.00,0,0,0,0,15000.00,hco,novartis
-Fondation pour la recherche de la cardiologie universitaire Geneve (GECOR),Genève,CH,Rue Micheli-du-Crest 24,,,0,0,0,0,1000.00,0,1000.00,hco,novartis
-Fondation Rlalura Ceur Formations en premier secours et ^animation,Fontenais,CH,La Cöte,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
-Fondation Rhumatismes-Enfa nts-Suisse,Etoy,CH,Route de la Plantay 87,,,24000.00,0,0,0,0,0,24000.00,hco,novartis
+Fondation pour la recherche de la cardiologie universitaire Genève (GECOR),Genève,CH,Rue Micheli-du-Crest 24,,,0,0,0,0,1000.00,0,1000.00,hco,novartis
+Fondation RéaJura Ceur Formations en premier secours et réanimation,Fontenais,CH,La Côte,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
+Fondation Rhumatismes-Enfants-Suisse,Etoy,CH,Route de la Plantay 87,,,24000.00,0,0,0,0,0,24000.00,hco,novartis
 Fondazione Cardiocentro Ticino,Lugano,CH,Via Tesserete 48,,,0,2800.00,0,0,0,0,2800.00,hco,novartis
-Fondazione per la Ricerca e la H Cura dei Linfomi c nel Ticino 0,Bellinzona,CH,Via Vincenzo Vela 6,,,47000.00,0,0,0,0,0,47000.00,hco,novartis
-FoROMe Formation Romande en Oncologie Mädicale PAV 02-21,Lausanne,CH,Avenue Pierre Decker 2,,,0,0,0,0,5000.00,0,5000.00,hco,novartis
-Fortbildungsgrup pe Adler,Steckborn,CH,Storchengasse 2,,,0,1150.00,0,0,0,0,1150.00,hco,novartis
-Forte Echo GmbH PRV Provides Treuhandgesellsc haft AG,Baar,CH,Dorfstrasse 38,,,0,40000.00,0,0,0,0,40000.00,hco,novartis
+Fondazione per la Ricerca e la Cura dei Linfomi nel Ticino,Bellinzona,CH,Via Vincenzo Vela 6,,,47000.00,0,0,0,0,0,47000.00,hco,novartis
+FoROMe Formation Romande en Oncologie Médicale PAV 02-21,Lausanne,CH,Avenue Pierre Decker 2,,,0,0,0,0,5000.00,0,5000.00,hco,novartis
+Fortbildungsgruppe Adler,Steckborn,CH,Storchengasse 2,,,0,1150.00,0,0,0,0,1150.00,hco,novartis
+Forte Echo GmbH PRV Provides Treuhandgesellschaft AG,Baar,CH,Dorfstrasse 38,,,0,40000.00,0,0,0,0,40000.00,hco,novartis
 Foundation for Cardiovascular Research Zurich Heart House,Zürich,CH,Moussonsstrasse 4,,,125000.00,47000.00,0,0,30694.00,0,202694.00,hco,novartis
-frauenarztzentru in aargau ag,Baden,CH,Bernerstrasse 27,,,0,0,0,0,1250.00,0,1250.00,hco,novartis
-Gemeinschaftspra xis Vitasphfcre AG Gesundheitszentr um,Bützberg,CH,Bernstrasse 37,,,0,0,0,0,1000.00,0,1000.00,hco,novartis
-GRIMM Groupement d*Intervention Medicale en Montagne 1 President: Matthieu de Riedmatten,Grimisuat (Champlan),CH,Chemin des Chenes 12,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
-Grisomed AG H Ärztenetzwerk C Graubünden 0,Chur,CH,Tittwiesenstrass e 29,,,0,10000.00,600.0,200.00,0,0,10800.00,hco,novartis
-S Groupe des pneumologues genevois c/o Dr. Stephane Grandin,Genève,CH,Rue de la Servette 55,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
+Frauenarztzentrum Aargau AG,Baden,CH,Bernerstrasse 27,,,0,0,0,0,1250.00,0,1250.00,hco,novartis
+Gemeinschaftspraxis Vitasphfcre AG Gesundheitszentrum,Bützberg,CH,Bernstrasse 37,,,0,0,0,0,1000.00,0,1000.00,hco,novartis
+GRIMM Groupement d'Intervention Médicale en Montagne President: Matthieu de Riedmatten,Grimisuat (Champlan),CH,Chemin des Chenes 12,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
+Grisomed AG Ärztenetzwerk Graubünden ,Chur,CH,Tittwiesenstrass e 29,,,0,10000.00,600.0,200.00,0,0,10800.00,hco,novartis
+Groupe des pneumologues genevois c/o Dr. Stéphane Grandin,Genève,CH,Rue de la Servette 55,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 Groupe du Nord Vaudois S.V.M. c/o Dr. Michael Hottinger,Concise,CH,Chemin du Verger 1,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
-Groupe M^decine & Hygiene,Ch&ne-Bourg,CH,Chemin de la Mousse 46,,,33629.64,0,0,0,0,0,33629.64,hco,novartis
-Groupement des m£decins des Franches-Montagn es (GMFM) c/o Dr. Thierry Maitre,Saignelégier,CH,Place du 23 Duin 2,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
+Groupe Médecine & Hygiene,Chêne-Bourg,CH,Chemin de la Mousse 46,,,33629.64,0,0,0,0,0,33629.64,hco,novartis
+Groupement des médecins des Franches-Montagnes (GMFM) c/o Dr. Thierry Maître,Saignelégier,CH,Place du 23 Duin 2,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "Groupement Vaudois des Splcialistes en Allergologie et Immunologie Clinique c/o Annette Leimgruber,Co-pr esidente GVC",Lausanne,CH,Avenue Rumine 27,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
-GZO Spital Hetzikon,Wetzikon ZH,CH,Spitalstrasse 66,,,0,1106.00,0,0,1550.00,0,2650.00,hco,novartis
+GZO Spital Wetzikon,Wetzikon ZH,CH,Spitalstrasse 66,,,0,1106.00,0,0,1550.00,0,2650.00,hco,novartis
 H+ Die Spitäler der Schweiz Verband Spital,Bern,CH,Lorrainestrasse 4A,,,0,0,0,0,3000.00,0,3000.00,hco,novartis
 Haematology Nurses & Healthcare Professionals Group (HNHCP) President Herr Erik Aerts,Winterthur,CH,Espenstrasse 33,,,2000.0,0,0,0,0,0,2000.00,hco,novartis
-Hareso - Hausärzte Region Solothurn AG Präsidentin: Dr. ■ed. C. Rossi,Solothurn,CH,Niklaus-Konrad-S tr. 11,,,0,10000.00,0,0,0,0,10000.00,hco,novartis
-Hausärzteverein M.R.S. Gossau Präsident Dr. ■ed. Andreas Bärlocher Praxis im Gerbhof,Gossau SG,CH,St. Gallerstrasse 77,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
+Hareso - Hausärzte Region Solothurn AG Präsidentin: Dr. med. C. Rossi,Solothurn,CH,Niklaus-Konrad-S tr. 11,,,0,10000.00,0,0,0,0,10000.00,hco,novartis
+Hausärzteverein M.R.S. Gossau Präsident Dr. med. Andreas Bärlocher Praxis im Gerbhof,Gossau SG,CH,St. Gallerstrasse 77,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 HautZentrum Zürich AG,Zürich,CH,Schaffhauserstra sse 355,,,0,0,0,0,1250.00,0,1250.00,hco,novartis
 hawadoc AG,Winterthur,CH,Garnmarkt 1,,,0,27550.00,860.00,200.00,0,0,28610.00,hco,novartis
-HerzGefässStiftu ng c/o Prof. Dr. Franz Wolfgang Amann Klinik im Park AG,Zürich,CH,Seestrasse 220,,,0,25000.00,0,0,0,0,25000.00,hco,novartis
-HerzKlinik Hirslanden Heart Clinic Zurich AG H,Zürich,CH,Witellikerstrass e 46,,,0,0,0,0,1000.00,0,1000.00,hco,novartis
-C ® HFR Fribourg - s Höpital cantonal,Fribourg,CH,Chemin des Pensionnats 2-6,,,4380.00,4400.00,299.00,1288.30,1500.00,0,11867.30,hco,novartis
+HerzGefässStiftung c/o Prof. Dr. Franz Wolfgang Amann Klinik im Park AG,Zürich,CH,Seestrasse 220,,,0,25000.00,0,0,0,0,25000.00,hco,novartis
+HerzKlinik Hirslanden Heart Clinic Zurich AG ,Zürich,CH,Witellikerstrass e 46,,,0,0,0,0,1000.00,0,1000.00,hco,novartis
+HFR Fribourg - Hôpital cantonal,Fribourg,CH,Chemin des Pensionnats 2-6,,,4380.00,4400.00,299.00,1288.30,1500.00,0,11867.30,hco,novartis
 Hirslanden Clinique Bois-Cerf,Lausanne,CH,Avenue d'Ouchy 31,,,1000.00,0,0,0,0,0,1000.00,hco,novartis
-Höpital de Morges Ensemble Hospitaller de la Cöte (EHC),Morges,CH,Chemin du Cröt 2,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
-Höpital de Nyon / GHOL,Nyon,CH,Chemin Monastier 10,,,0,2900.0,450.00,743.10,0,0,4093.10,hco,novartis
-Höpital du Iura,Delömont,CH,Faubourg des Capucins 30,,,0,5300.00,0,0,0,0,5300.00,hco,novartis
-Höpital du Jura bernois SA Site de Moutier,Moutier,CH,Rue de Beausite 49,,,0,2500.00,0,0,0,0,2500.00,hco,novartis
-Höpital du Valais / Spital Wallis,Sion,CH,Avenue du Grand Champsec 86,,,0,10500.00,0,0,0,0,10500.00,hco,novartis
-Höpital intercantonal de la Broye (HIB) Site de Payerne,Payerne,CH,Avenue de la Colline 3,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
-Hdpital Neuchâtelois - H Pourtalfcs,Neuchâtel,CH,Rue de la Maladifere 45,,,0,4000.00,0,0,1400.00,0,5400.00,hco,novartis
-0 Hdpital S Riviera-Chablais Site du Samaritain,Vevey,CH,Boulevard Paderewski 3,,,0,1000.0,0,0,1700.00,0,2700.00,hco,novartis
-Hdpitaux Universitaires de Genève,Genève,CH,Rue Gabrielle-Perret -Gentil 4,,,5006.00,36425.92,2147.74,2192.31,9650.00,986.98,56402.95,hco,novartis
+Hôpital de Morges Ensemble Hospitaller de la Côte (EHC),Morges,CH,Chemin du Crêt 2,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
+Hôpital de Nyon / GHOL,Nyon,CH,Chemin Monastier 10,,,0,2900.0,450.00,743.10,0,0,4093.10,hco,novartis
+Hôpital du Jura,Delémont,CH,Faubourg des Capucins 30,,,0,5300.00,0,0,0,0,5300.00,hco,novartis
+Hôpital du Jura bernois SA Site de Moutier,Moutier,CH,Rue de Beausite 49,,,0,2500.00,0,0,0,0,2500.00,hco,novartis
+Hôpital du Valais / Spital Wallis,Sion,CH,Avenue du Grand Champsec 86,,,0,10500.00,0,0,0,0,10500.00,hco,novartis
+Hôpital intercantonal de la Broye (HIB) Site de Payerne,Payerne,CH,Avenue de la Colline 3,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
+Hôpital Neuchâtelois - Pourtalès,Neuchâtel,CH,Rue de la Maladifere 45,,,0,4000.00,0,0,1400.00,0,5400.00,hco,novartis
+Hôpital Riviera-Chablais Site du Samaritain,Vevey,CH,Boulevard Paderewski 3,,,0,1000.0,0,0,1700.00,0,2700.00,hco,novartis
+Hôpitaux Universitaires de Genève,Genève,CH,Rue Gabrielle-Perret -Gentil 4,,,5006.00,36425.92,2147.74,2192.31,9650.00,986.98,56402.95,hco,novartis
 Hormon Zentrum Zürich AG Klinik Hirslanden,Zürich,CH,Witellikerstrass e 36,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 "IG eHealth c/o Köhler, Stüdeli & Partner GmbH",Bern,CH,Amthausgasse 18,,,3988.00,0,0,0,0,0,3988.00,hco,novartis
 "Inselspital Bern, Insel-Gruppe AG",Bern,CH,Freiburgstrasse 18,,,16630.00,53490.00,3310.00,1384.65,59150.93,3272.24,137237.82,hco,novartis
@@ -7007,29 +7007,29 @@ Kardiologische Gemeinschaftspra xis AG,Bern,CH,Schänzlistrasse 33,,,0,6000.0,0,
 Klinik Adelheid AG,Unterägeri,CH,Höhenweg 71,,,0,0,0,0,500.00,0,500.00,hco,novartis
 Klinik Barmelweid AG,Barmelweid,CH,,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 Kliniken Valens,Valens,CH,Taninaplatz 1,,,0,4500.00,0,0,0,0,4500.00,hco,novartis
-Kollegium f. Hausarztmedizin (KHM/CMPR) Bänädicte Laville (Administration),Fribourg,CH,Rue de l'Höpital 15,,,0,10260.00,0,0,0,0,10260.00,hco,novartis
+Kollegium f. Hausarztmedizin (KHM/CMPR) Bénédicte Laville (Administration),Fribourg,CH,Rue de l'Hôpital 15,,,0,10260.00,0,0,0,0,10260.00,hco,novartis
 Krebsliga Zug,Zug,CH,Alpenstrasse 14,,,0,0,0,0,300.00,0,300.00,hco,novartis
 La Tour Roseau de Soins SA,Meyrin,CH,Avenue 3.-D.-Maillard 3,,,0,6000.0,0,0,0,0,6000.00,hco,novartis
 Lenker Woche c/o Spital Zweisimmen Sekretariat: Frau Susi Schweizer,Zweisimmen,CH,Haueterstrasse 21,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
 Ligue pulmonaire fribourgeoise,Fribourg,CH,Route Saint-Nicolas-de -Flüe 2,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 Luzerner Kantonsspital Luzern,Luzern,CH,Spitalstrasse,,,95300.00,22010.00,720.00,430.15,40560.00,926.90,159947.05,hco,novartis
 medinform GmbH c/o Dr. Christina Ruob,Zürich,CH,Badenerstrasse 332,,,0,0,0,0,28925.00,0,28925.00,hco,novartis
-MediService AG Grosshandel,Zuchwil,CH,Ausserfelcfceg 1,,,0,0,0,0,434420.00,0,434420.00,hco,novartis
-■edswiss.net Geschäftsführer: Herr Christoph Lüssi,Gümligen,CH,Moosstrasse 2,,,0,0,1200.00,400.00,0,0,1600.00,hco,novartis
+MediService AG Grosshandel,Zuchwil,CH,Ausserfeldweg 1,,,0,0,0,0,434420.00,0,434420.00,hco,novartis
+Medswiss.net Geschäftsführer: Herr Christoph Lüssi,Gümligen,CH,Moosstrasse 2,,,0,0,1200.00,400.00,0,0,1600.00,hco,novartis
 Meier Augen AG,Rapperswil SG,CH,Merkurstrasse 50,,,0,0,0,0,3300.00,623.33,3923.33,hco,novartis
-MFE Mödecins de famille et de l’enfance Neuchâtel President Dr. ■ed. Vladimir Mayor,Colombier NE,CH,Rue du Verger 9,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
-Michels Augenärzte am See,Feldmeilen,CH,General-Wille-St rasse 84,,,0,0,0,0,2000.00,0,2000.00,hco,novartis
-Monvia AG Hauptsitz,Luzern,CH,Neiiweg 10,,,0,2500.00,0,0,0,0,2500.00,hco,novartis
+MFE Médecins de famille et de l’enfance Neuchâtel President Dr. med. Vladimir Mayor,Colombier NE,CH,Rue du Verger 9,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
+Michels Augenärzte am See,Feldmeilen,CH,General-Wille-Strasse 84,,,0,0,0,0,2000.00,0,2000.00,hco,novartis
+Monvia AG Hauptsitz,Luzern,CH,Neuweg 10,,,0,2500.00,0,0,0,0,2500.00,hco,novartis
 Neurologica GmbH,Zollikon,CH,Forchstrasse 424,,,0,0,0,0,4000.00,0,4000.00,hco,novartis
 Neurozentrum Bellevue AG,Zürich,CH,Theaterstrasse 8,,,2000.00,0,122.86,0,6475.00,93.89,8691.75,hco,novartis
 OMCT - Ordine dei medici del Canton Ticino,Mezzovico,CH,Via Cantonale 8 - Stabile Qi,,,0,1950.00,0,0,0,0,1950.00,hco,novartis
 Onkozentrum Zürich AG,Zürich,CH,Seestrasse 259,,,0,0,0,0,500.00,0,500.00,hco,novartis
 Ospedale Regionale di Lugano Civico,Lugano,CH,Via Tesserete 46,,,0,0,610.00,686.00,0,0,1296.06,hco,novartis
 Ostschweizer Kinderspital,St. Gallen,CH,Claudiusstrasse 6,,,0,0,300.00,270.58,0,0,570.58,hco,novartis
-Paediatric Rheumatology European Society (PRES) C/o MCI Suisse SA,Satigny,CH,Rue du Pr6-Bouvier 9,,,0,35964.60,0,0,0,0,35964.60,hco,novartis
+Paediatric Rheumatology European Society (PRES) C/o MCI Suisse SA,Satigny,CH,Rue du Pré-Bouvier 9,,,0,35964.60,0,0,0,0,35964.60,hco,novartis
 Pallas Klinik,Olten,CH,Louis Giroud-Strasse 20,,,0,18000.00,0,0,0,0,18000.00,hco,novartis
 PizolCare AG,Meis,CH,Flurstrasse 12,,,0,11000.00,600.0,200.00,0,0,11800.00,hco,novartis
-PourVision Särl c/o Constantin Pournaras,St-Luc,CH,Chalet Morgenstern,,,0,0,0,0,250.00,0,250.00,hco,novartis
+PourVision Sàrl c/o Constantin Pournaras,St-Luc,CH,Chalet Morgenstern,,,0,0,0,0,250.00,0,250.00,hco,novartis
 Praxis für Neurologie,Wetzikon ZH,CH,Weststrasse 70,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 Praxis Reinacherhof,Reinach BL,CH,Im Reinacherhof 53,,,0,0,5500.00,1900.00,0,0,7400.00,hco,novartis
 Privatklinik Bethanien GSMN Zürich AG,Zürich,CH,Toblerstrasse 51,,,500.00,0,0,0,0,0,500.00,hco,novartis
@@ -7037,9 +7037,9 @@ Privatklinik Obach,Solothurn,CH,Leopoldstrasse 5,,,0,2060.0,0,0,0,0,2060.00,hco,
 Psychiatrische Dienste Aargau AG,Windisch,CH,Zürcherstrasse 241,,,0,0,0,0,1555.56,0,1555.56,hco,novartis
 Quadrimed Secretariat administratif,Crans-Montana,CH,Case postale 299,,,0,11107.88,0,0,0,0,11107.88,hco,novartis
 RCC Net,Zürich,CH,Bahnhofplatz 4,,,0,18000.00,0,0,0,0,18000.00,hco,novartis
-H c Regionalspital 0 Emmental AG s,Burgdorf,CH,Oberburgstrasse 54,,,0,3500.00,0,0,2775.00,0,6275.00,hco,novartis
-REMED Docteur Didier Chätelain,Genève,CH,Rue du Conseil-Gdnlral 11,,,0,4800.00,0,0,0,0,4800.00,hco,novartis
-Roseau Sante Balcon du Dura.vd,Ste-Croix,CH,Rue des Rosiers 29,,,0,1800.00,0,0,0,0,1800.00,hco,novartis
+Regionalspital Emmental AG ,Burgdorf,CH,Oberburgstrasse 54,,,0,3500.00,0,0,2775.00,0,6275.00,hco,novartis
+REMED Docteur Didier Châtelain,Genève,CH,Rue du Conseil-Gdnlral 11,,,0,4800.00,0,0,0,0,4800.00,hco,novartis
+Roseau Sante Balcon du Jura.vd,Ste-Croix,CH,Rue des Rosiers 29,,,0,1800.00,0,0,0,0,1800.00,hco,novartis
 Rheuma Schweiz,Zürich,CH,Aargauerstrasse 259,,,20000.00,29495.00,0,0,30000.0,0,79495.00,hco,novartis
 "Rheumasearch Foundation c/o Fontanet & Schoeni, Notaires",Genève,CH,Rue du Rhone 57,,,10000.00,0,0,0,0,0,10000.00,hco,novartis
 SAKK Schweizer Arbeitsgemeinsch aft für Klinische Krebsforschung,Bern,CH,Effingerstrasse 33,,,62000.00,3000.0,0,0,9000.00,0,74000.00,hco,novartis
@@ -7047,28 +7047,28 @@ Sanacare AG Hauptsitz,Winterthur,CH,Zürcherstrasse 19,,,0,0,0,0,1000.00,0,1000.
 SäntiMed AG c/o Praxis Brunnenhof,Herisau,CH,Kasernenstrasse 30,,,0,0,600.0,200.00,0,0,800.00,hco,novartis
 Schlossberg Ärztezentrum AG,Frauenfeld,CH,Bahnhofstrasse 61,,,5000.00,0,0,0,0,0,5000.00,hco,novartis
 Schmerzklinik Basel,Basel,CH,Hirschgässlein 11-15,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
-Schweiz. Gesellschaft der Vertrauens- und Versicherungsärz te (SGV),Winterthur,CH,Industriestrasse 24,,,6200.00,0,0,0,0,0,6200.00,hco,novartis
-Schweiz. Gesellschaft für Allergologie und Immunologie (SGAI) Sekret. Frau Evelyne Schenk,Bern,CH,Scheibenstrasse 20,,,0,45850.00,0,0,3000.00,0,48850.00,hco,novartis
-Schweiz. Gesellschaft für Dermatologie und Venerologie (SGDV) Generalsekretär! at,Bern,CH,Dalmazirain 11,,,100000.0,65200.00,0,0,2510.00,0,167710.00,hco,novartis
-Schweiz. Gesellschaft für Endokrinologie und Diabetologie (SGED),Baden,CH,Rütistrasse 3A,,,0,2500.00,0,0,0,0,2500.00,hco,novartis
-Schweiz. Gesellschaft für Nephrologie Frau Maya Weder - Administration,Worb,CH,Postfach 567,,,0,2350.00,0,0,0,0,2350.00,hco,novartis
-Schweiz. Gesellschaft für Neuropädiatrie Geschäftsstelle SGNP Herr Prof. P. Weber,Oberentfelden,CH,Blumenweg 13,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
-Schweiz. Gesellschaft für Pädiatrische Pneumologie (SGPP) Sekretariat: Prof. Dr. med. C. Barazzone,Genève,CH,Rue Willy-Donz* 6,,,0,2300.00,0,0,0,0,2300.00,hco,novartis
+Schweizerische Gesellschaft der Vertrauens- und Versicherungsärzte (SGV),Winterthur,CH,Industriestrasse 24,,,6200.00,0,0,0,0,0,6200.00,hco,novartis
+Schweizerische Gesellschaft für Allergologie und Immunologie (SGAI) Sekret. Frau Evelyne Schenk,Bern,CH,Scheibenstrasse 20,,,0,45850.00,0,0,3000.00,0,48850.00,hco,novartis
+Schweizerische Gesellschaft für Dermatologie und Venerologie (SGDV) Generalsekretär! at,Bern,CH,Dalmazirain 11,,,100000.0,65200.00,0,0,2510.00,0,167710.00,hco,novartis
+Schweizerische Gesellschaft für Endokrinologie und Diabetologie (SGED),Baden,CH,Rütistrasse 3A,,,0,2500.00,0,0,0,0,2500.00,hco,novartis
+Schweizerische Gesellschaft für Nephrologie Frau Maya Weder - Administration,Worb,CH,Postfach 567,,,0,2350.00,0,0,0,0,2350.00,hco,novartis
+Schweizerische Gesellschaft für Neuropädiatrie Geschäftsstelle SGNP,Oberentfelden,CH,Blumenweg 13,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
+Schweizerische Gesellschaft für Pädiatrische Pneumologie (SGPP) Sekretariat: Prof. Dr. med. C. Barazzone,Genève,CH,Rue Willy-Donz* 6,,,0,2300.00,0,0,0,0,2300.00,hco,novartis
 Schweizerische Gesellschaft für Hämatologie (SGH/SSH),Münsingen,CH,Innerer Giessenweg 37,,,2000.00,11240.00,0,0,3320.00,0,16560.00,hco,novartis
 Schweizerische Gesellschaft für Kardiologie,Bern,CH,Dufourstrasse 30,,,0,91260.00,0,0,0,0,91260.00,hco,novartis
 Schweizerische Gesellschaft für Rheumatologie,Zürich,CH,losefstrasse 92,,,0,36540.00,0,0,0,0,36540.00,hco,novartis
-Schweizerische Gesellschaft für Ultraschall in der Medizin (SGUM),Fällanden,CH,,,,0,3200.00,0,0,0,0,3200.00,hco,novartis
+Schweizerische Gesellschaft für Ultraschall in der Medizin (SGUM),Fällanden,CH,nan,,,0,3200.00,0,0,0,0,3200.00,hco,novartis
 Schweizerische Herzrhythmus Stiftung (SHRS/FSRC),Bern,CH,Schänzlistrasse 33,,,0,3000.0,0,0,0,0,3000.00,hco,novartis
 Schweizerische Hypertonie Gesellschaft,Bern,CH,Schwarztorstrass e 18,,,0,2000.0,0,0,607.00,0,2607.00,hco,novartis
 Schweizerische Kopfwehgesellsch aft c/o IMK Institut für Medizin und Kommunikation AG,Basel,CH,Münsterberg 1,,,4500.00,0,0,0,5000.00,0,9500.00,hco,novartis
 Schweizerische Ophthalmologisch e Gesellschaft SOG c/o Inst.für Medizin u. Kommunikation AG,Basel,CH,Münsterberg 1,,,0,45092.59,0,0,0,0,45092.59,hco,novartis
 Schweizerische Pädiatrische Onkologie Gruppe (SPOG) Direktionsassist entin: Marlise Rohrer,Bern,CH,Effingerstrasse 33,,,3000.0,0,0,0,0,0,3000.00,hco,novartis
-Schweizerisch-tü rkischer Ärzte und Akademikerverein ( STAV),Bern,CH,Balmerstrasse 12,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
+Schweizerisch-türkischer Ärzte und Akademikerverein (STAV),Bern,CH,Balmerstrasse 12,,,0,1500.00,0,0,0,0,1500.00,hco,novartis
 SCQM Foundation Swiss Clinical Quality Management in Rheumatic Diseases,Zürich,CH,Aargauerstrasse 259,,,90250.00,0,0,0,0,0,90250.00,hco,novartis
-Societä Ticinese degli Allergologi ed Immunologi del Canton Ticino (STAI) Segretario: Dr. ■ed. lean-Pierre Laotin,Pregassona,CH,Via alle vigne 7,,,350.00,1000.0,0,0,0,0,1350.00,hco,novartis
-Societä ticinese di dermatologia e venereologia c/o Dr. med. Patrizia Carrozza,Bellinzona,CH,Viale Stazione 16,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
-Societe Neuchâteloise de Mödecine SNM,Couvet,CH,Grand'Rue 36BIS,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
-Societe Vaudoise de M£decine (SVM),Lausanne,CH,Chemin de Mornex 38,,,0,ERROR,0,0,0,0,ERROR,hco,novartis
+Società Ticinese degli Allergologi ed Immunologi del Canton Ticino (STAI) ,Pregassona,CH,Via alle vigne 7,,,350.00,1000.0,0,0,0,0,1350.00,hco,novartis
+Società ticinese di dermatologia e venereologia c/o Dr. med. Patrizia Carrozza,Bellinzona,CH,Viale Stazione 16,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
+Société Neuchâteloise de Médecine SNM,Couvet,CH,Grand'Rue 36BIS,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
+Société Vaudoise de Médecine (SVM),Lausanne,CH,Chemin de Mornex 38,,,0,8000.00,0,0,0,0,8000.00,hco,novartis
 Solothurner Spitäler AG,Solothurn,CH,Schöngrünstrasse 36a,,,0,1400.00,0,0,2200.00,0,3600.00,hco,novartis
 Spital Lachen AG,Lachen SZ,CH,Oberdorfstrasse 41,,,0,3351.85,0,0,0,0,3351.85,hco,novartis
 Spital Limmattal,Schlieren,CH,Urdorferstrasse 100,,,0,1750.00,0,0,0,0,1750.00,hco,novartis
@@ -7080,56 +7080,56 @@ Spitalregion Fürstenland Toggenburg,Wil SG,CH,Fürstenlandstras se 32,,,0,2800.
 "Spitalregion Rheintal Sargans Sarganserland Spital Grabs, Altstätten, Walenstadt",Rebstein,CH,Alte Landstrasse 105,,,0,4000.00,0,0,0,0,4000.00,hco,novartis
 Spitalverbund Appenzell Ausserrhoden,Herisau,CH,Krombach 3,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
 Spitalzentrum Biel AG,Biel/Bienne,CH,Vogelsang 84,,,0,3000.0,0,0,0,0,3000.00,hco,novartis
-St. Moritzer Ärztegesellschaf t c/o Irfene Sandmeier,St. Moritz,CH,Piazza Paracelsus 2,,,0,0,0,0,1000.00,0,1000.00,hco,novartis
+St. Moritzer Ärztegesellschaft c/o Irène Sandmeier,St. Moritz,CH,Piazza Paracelsus 2,,,0,0,0,0,1000.00,0,1000.00,hco,novartis
 Stadtspital Triemli,Zürich,CH,Birmensdorferstr asse 497,,,4500.00,0,666.67,590.00,1525.00,0,7281.67,hco,novartis
-Stiftung für wissenschaftlich e Forschung am Stadtspital Triemli,Zürich,CH,Birmensdorferstr asse 497,,,25000.00,10500.00,0,0,7225.00,0,42725.00,hco,novartis
+Stiftung für wissenschaftliche Forschung am Stadtspital Triemli,Zürich,CH,Birmensdorferstr asse 497,,,25000.00,10500.00,0,0,7225.00,0,42725.00,hco,novartis
 Stiftung SONK St.Gallen Oncology Conferences,St. Gallen,CH,Rorschacher Strasse 150,,,235656.40,0,0,0,0,0,235656.40,hco,novartis
 Stiftung zur Förderung Medizinischer und biologischer Forschung c/o Prof. Dr. Christoph Beglinger,Arlesheim,CH,Bruggweg 28,,,0,0,0,0,2500.00,0,2500.00,hco,novartis
-Swiss Academy of Multidisciplinar y Oncology,Bern,CH,Effingerstrasse 40,,,11500.00,0,0,0,0,0,11500.00,hco,novartis
+Swiss Academy of Multidisciplinary Oncology,Bern,CH,Effingerstrasse 40,,,11500.00,0,0,0,0,0,11500.00,hco,novartis
 Swiss Eye Institute,Rotkreuz,CH,Luzernerstrasse 1,,,0,0,0,0,2338.00,55.00,2393.00,hco,novartis
 Swiss Eye Week (SEW),St. Margrethen SG,CH,Bahnhofplatz 12,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
-Swiss Federation of Clinical Neuro-Societies (SFCNS) C/O IMK AG,Basel,CH,Münsterberg 1,,,3000.00,0,0,0,0,0,3000.00,hco,novartis
+Swiss Federation of Clinical Neuro-Societies (SFCNS),Basel,CH,Münsterberg 1,,,3000.00,0,0,0,0,0,3000.00,hco,novartis
 Swiss Glaucoma Research Foundation c/o Kaweh Mansouri,Lausanne,CH,Avenue de l’Elysöe 48,,,0,3000.0,0,0,0,0,3000.00,hco,novartis
 Swiss Institut of Allergy and Asthma Research (SIAF),Davos Platz,CH,Obere Strasse 22,,,2000.00,0,0,0,0,0,2000.00,hco,novartis
 Swiss Oncology & Hematology Congress c/o Reichenbach Rechtsanwälte A6,Zürich,CH,Talacker 50,,,0,600.00,0,0,0,0,600.00,hco,novartis
-Swiss Transplantation Society (STS) c/o meeting.com Särl,Cheseaux-sur-Lau sänne,CH,PO Box 100,,,0,2941.92,0,0,0,0,2941.92,hco,novartis
+Swiss Transplantation Society (STS) c/o meeting.com Sàrl,Cheseaux-sur-Lausanne,CH,PO Box 100,,,0,2941.92,0,0,0,0,2941.92,hco,novartis
 Swiss TSC Network Geschäftsstelle,Zürich,CH,Witellikerstrass e 40,,,1500.00,0,0,0,0,0,1500.00,hco,novartis
 "Swiss Tumor Institute, Platz Zürich c/o OnkoZentrum Zürich",Zürich,CH,Seestrasse 259,,,8100.00,0,0,0,0,0,8100.00,hco,novartis
-Swiss VitreoRetinal Group (SVRG) c/o ophta - u.novotny FaCHverlag,Bottighofen,CH,Mittlere Mühlestrasse 3,,,51150.0,0,0,0,0,0,51150.00,hco,novartis
-SwissNet Universitätspoli klinik f. Endokrinologie Diabetologie & Klinische Ernährung,Bern,CH,Inselspital,,,25000.00,0,0,0,0,0,25000.00,hco,novartis
+Swiss VitreoRetinal Group (SVRG) c/o ophta u. novotny Fachverlag,Bottighofen,CH,Mittlere Mühlestrasse 3,,,51150.0,0,0,0,0,0,51150.00,hco,novartis
+SwissNet Universitätspoliklinik f. Endokrinologie Diabetologie & Klinische Ernährung,Bern,CH,Inselspital,,,25000.00,0,0,0,0,0,25000.00,hco,novartis
 Swisstransplant Nationale Stiftung für Organspende und Transplantation,Bern,CH,Effingerstrasse 1,,,5000.00,0,0,0,0,0,5000.00,hco,novartis
-Table Ronde de M4dicom6trie Regionale c/o M. P4riat-Ziggurat,Fahy,CH,Rue de France 83D,,,0,925.93,0,0,0,0,925.93,hco,novartis
+Table Ronde de Médicométrie Regionale c/o M. Périat-Ziggurat,Fahy,CH,Rue de France 83D,,,0,925.93,0,0,0,0,925.93,hco,novartis
 Tox Info Suisse,Zürich,CH,Freiestrasse 16,,,0,0,0,0,29120.00,0,29120.00,hco,novartis
 Tumor- und Brustzentrum ZeTuP AG,St. Gallen,CH,Rorschacher Strasse 150,,,2500.00,0,0,0,0,0,2500.00,hco,novartis
 Union for International Cancer Control (UICC),Genève,CH,Route de Frontenex 62,,,291891.48,0,0,0,0,0,291891.48,hco,novartis
-Universität Basel,Basel,CH,Petersplatz 1,,,410011.16,7000.000000000024,0,0,577.65,0,417588.81,hco,novartis
+Universität Basel,Basel,CH,Petersplatz 1,,,410011.16,7000.00,0,0,577.65,0,417588.81,hco,novartis
 Universität Bern,Bern,CH,Hochschulstrasse 4,,,165000.00,4475.00,0,0,2250.00,0,171725.00,hco,novartis
 Universität Zürich,Zürich,CH,Ränistrasse 71,,,85989.02,4000.00,0,0,13745.00,3281.26,107015.28,hco,novartis
-Universitäts-Kin derspital (UKBB),Basel,CH,Spitalstrasse 33,,,4000.00,0,0,0,1000.00,0,5000.00,hco,novartis
-Universitäts-Kin derspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,3000.0,4000.00,0,0,3500.00,0,10500.00,hco,novartis
-Universitätskiin ik Balgrist,Zürich,CH,Forchstrasse 340,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
-Universitätsspit al Basel,Basel,CH,Petersgraben 4,,,383750.00,35260.00,1470.00,3010.42,70443.99,3703.07,497637.48,hco,novartis
-Universitätsspit al Zürich,Zürich,CH,Räristrasse 100,,,376000.00,84670.00,666.67,640.00,33715.00,0,495691.67,hco,novartis
-University de Lausanne (UNIL) Service Financier Quartier UNIL-Centre,Lausanne,CH,Bätiment Unithfeque,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
-Verein Berner Haus-und Kinderärzte/inne n (VBHK),Bern,CH,Effingerstrasse 2,,,0,2475.00,0,0,0,0,2475.00,hco,novartis
-Verein der Pneumologen des Kantons Bern Präsident VPB: Dr. med. Markus Riederer,Bern,CH,Bremgartenstrass e 117,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
-Verein eHealth Dermatologie Präsident:Herr Prof. Dr. A. Navarini Universitätsspit al Zürich,Zürich,CH,Gloriastrasse 31,,,25000.00,0,0,0,0,0,25000.00,hco,novartis
-Verein Grundversorger Region Baden Qualitäts-Zirkel Wettingen/Würenl os Präsident: Pract. Med. Hans Dürg Huber,Würenlos,CH,luchstrasse 15,,,0,1900.0,0,0,0,0,1900.00,hco,novartis
+Universitäts-Kinderspital (UKBB),Basel,CH,Spitalstrasse 33,,,4000.00,0,0,0,1000.00,0,5000.00,hco,novartis
+Universitäts-Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,3000.0,4000.00,0,0,3500.00,0,10500.00,hco,novartis
+Universitätsklinik Balgrist,Zürich,CH,Forchstrasse 340,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
+Universitätsspital Basel,Basel,CH,Petersgraben 4,,,383750.00,35260.00,1470.00,3010.42,70443.99,3703.07,497637.48,hco,novartis
+Universitätsspital Zürich,Zürich,CH,Räristrasse 100,,,376000.00,84670.00,666.67,640.00,33715.00,0,495691.67,hco,novartis
+University de Lausanne (UNIL) Service Financier Quartier UNIL-Centre,Lausanne,CH,Bâtiment Unithèque,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
+Verein Berner Haus-und Kinderärzte/innen (VBHK),Bern,CH,Effingerstrasse 2,,,0,2475.00,0,0,0,0,2475.00,hco,novartis
+Verein der Pneumologen des Kantons Bern Präsident VPB: Dr. med. Markus Riederer,Bern,CH,Bremgartenstrasse 117,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
+Verein eHealth Dermatologie,Zürich,CH,Gloriastrasse 31,,,25000.00,0,0,0,0,0,25000.00,hco,novartis
+Verein Grundversorger Region Baden Qualitäts-Zirkel Wettingen/Würenlos,Würenlos,CH,luchstrasse 15,,,0,1900.0,0,0,0,0,1900.00,hco,novartis
 Verein GUCH Schweiz,Basel,CH,Langen Gasse 78,,,0,4000.00,0,0,0,0,4000.00,hco,novartis
-Verein Lunge Zürich,Zürich,CH,Pfingstweidstras se 10,,,0,32400.00,0,0,0,0,32480.00,hco,novartis
-C Verein 0 Sarkomzentrum s Zürich c/o Anwaltskanzlei Felix Suter,Zürich,CH,Minervastrasse 3,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
+Verein Lunge Zürich,Zürich,CH,Pfingstweidstrasse 10,,,0,32400.00,0,0,0,0,32480.00,hco,novartis
+Verein Sarkomzentrum s Zürich c/o Anwaltskanzlei Felix Suter,Zürich,CH,Minervastrasse 3,,,0,5000.0,0,0,0,0,5000.00,hco,novartis
 Verein zur Förderung der Weiterbildung in Augenheilkunde c/o Universitätsspit al Basel Augenklinik,Basel,CH,Mittlere Strasse 91,,,0,6500.00,0,0,0,0,6500.00,hco,novartis
 "Viollier AG Kardiologie, Ambulatorium",Basel,CH,Spalenring 145/147,,,0,0,656.00,686.00,0,0,1342.00,hco,novartis
-Vista Klinik Ophthalmologisch e Klinik,Binningen,CH,Hauptstrasse 55,,,0,3500.00,0,0,2000.00,0,5500.00,hco,novartis
+Vista Klinik Ophthalmologische Klinik,Binningen,CH,Hauptstrasse 55,,,0,3500.00,0,0,2000.00,0,5500.00,hco,novartis
 Vue Group AG,Baar,CH,Bahnhofstrasse 9,,,0,0,0,0,1000.00,0,100000,hco,novartis
 World Heart Federation ONG,Genève,CH,Rue de Malatrex 32,,,0,230224.05,0,0,0,0,230224.05,hco,novartis
 Zentralpraxis Wallisellen AG,Wallisellen,CH,Zentralstrasse 6,,,0,0,0,0,800.00,0,800.00,hco,novartis
-Zentralschweizer Dermatologen c/o Dr. med. Mathias Koepke H,Luzern,CH,Löwengraben 14,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
-C 0 Zu: Care Zug s Präsident:Herr Dr. 3. Stäger,Unterägeri,CH,Seestrasse 9,,,0,2500.00,0,0,0,0,2500.00,hco,novartis
+Zentralschweizer Dermatologen,Luzern,CH,Löwengraben 14,,,0,1000.0,0,0,0,0,1000.00,hco,novartis
+Zu: Care Zug Präsident,Unterägeri,CH,Seestrasse 9,,,0,2500.00,0,0,0,0,2500.00,hco,novartis
 Zur Rose Suisse AG,Frauenfeld,CH,Walzmühlestrasse 60,,,0,0,0,0,5416.08,0,5416.08,hco,novartis
 Zürcher Dermatologen Gesellschaft,Zürich,CH,Marktgasse 3,,,0,2000.0,0,0,0,0,2000.00,hco,novartis
-Zürcher Gesellschaft f. Kardiologie ZGK c/o Prof. Dr. aed. Christine Attenhofer Klinik im Park AG,Zürich,CH,Seestrasse 220,,,0,4000.00,0,0,0,0,4000.00,hco,novartis
-Zurich Academy of Internal Medicine (ZAIM) c/o Medworld A6,Steinhausen,CH,Sennweidstrasse 46,,,0,4200.00,0,0,0,0,4200.00,hco,novartis
+Zürcher Gesellschaft f. Kardiologie ZGK,Zürich,CH,Seestrasse 220,,,0,4000.00,0,0,0,0,4000.00,hco,novartis
+Zurich Academy of Internal Medicine (ZAIM),Steinhausen,CH,Sennweidstrasse 46,,,0,4200.00,0,0,0,0,4200.00,hco,novartis
 Frank Achermann,Luzern,CH,Weggisgasse 40,,,,,,,500.0,,500,hcp,novo
 Stefan Aczél,St. Gallen,CH,Rorschacherstrasse 95,,,,,381.0,826.0,1000.0,,2207,hcp,novo
 Farhad Ahmad,Goldach,CH,Eschenstrasse 11,,,,,,507.0,,,507,hcp,novo
@@ -7541,7 +7541,7 @@ Universitätsspital Zürich,Zürich,CH,Gloriastr.19,8091,,,1000.0,,,,,1000.0,hco
 Ralph Aschwanden,Uzwil,CH,Bahnhofstrasse 76,,,,,394.3,1091.66,,,1485.96,hcp,otsuka
 Tarek Bdeir Ibañez,Lausanne,CH,Avenue Des Mousquines 4,,,,,1140.75,346.41,,,1487.16,hcp,otsuka
 Giulia Bedino,Lugano,CH,Via Tesserete 46,,,,,,,1200.0,,1200.0,hcp,otsuka
-Sophie de Seigneux,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,,,,,,,1000.0,,1000.0,hcp,otsuka
+Sophie de Seigneux,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,1000.0,,1000.0,hcp,otsuka
 Serge Didisheim,Yverdon-les-Bains,CH,Avenue des Sports 12b,,,,,825.59,198.0,,,1023.59,hcp,otsuka
 Stefan Farese,Solothurn,CH,Schöngrünstrasse 42,,,,,,,1200.0,,1200.0,hcp,otsuka
 Stéphane Favre,Montreux,CH,Avenue des Alpes 66,,,,,1140.74,198.0,,,1338.74,hcp,otsuka
@@ -7549,47 +7549,47 @@ Katarzyna Fischmann,Luzern,CH,Zinggentorstrasse 1a,,,,,639.21,199.0,,,838.21,hcp
 Daniel Fuster,Bern,CH,Freiburgstrasse 15,,,,,,,1000.0,,1000.0,hcp,otsuka
 Luca Gabutti,Bellinzona,CH,Via Ospedale,,,,,412.3,437.2,,,849.5,hcp,otsuka
 Jürg Good,Zollikon,CH,Hörnlistrasse 6,,,,,473.17,1091.67,,,1564.84,hcp,otsuka
-Gabriella Guzzo,Sion,CH,Avenue Grand‐Champsec 80,,,,,295.49,676.32,,,971.81,hcp,otsuka
+Gabriella Guzzo,Sion,CH,Avenue Grand-Champsec 80,,,,,295.49,676.32,,,971.81,hcp,otsuka
 Urs Hess,St. Gallen,CH,Rorschacher Strasse 95,,,,,,,1000.0,,1000.0,hcp,otsuka
 Matthias Hilpert,Windisch,CH,Zürcherstrasse 241,,,,,,,3590.0,,3590.0,hcp,otsuka
 Andreas Himmelmann,Luzern,CH,Sankt Annastrasse 32,,,,,,,1000.0,,1000.0,hcp,otsuka
-Philippe Huguelet,Genève,CH,Rue du 31 Décembre 6‐8,,,,,893.55,261.0,,,1154.55,hcp,otsuka
+Philippe Huguelet,Genève,CH,Rue du 31 Décembre 6-8,,,,,893.55,261.0,,,1154.55,hcp,otsuka
 Rigobert Hervais Kamdem,Fribourg,CH,Boulevard de Pérolles 30,,,,,403.45,1320.68,,,1724.13,hcp,otsuka
 Nadine Kaufmann Didisheim,Lausanne,CH,Place De La Sallaz 10,,,,,825.58,198.0,,,1023.58,hcp,otsuka
 Kathrin Kaufmann,Bern,CH,Bubenbergplatz 8 + 11,,,,,263.51,,,,263.51,hcp,otsuka
 Andreas Kistler,Frauenfeld,CH,Pfaffenholzstrasse 4,,,,,,,3100.0,,3100.0,hcp,otsuka
 Hardy Koch,Biel/Bienne,CH,Bahnhofstrasse 19,,,,,460.15,1371.05,,,1831.2,hcp,otsuka
 Mihran Lacinoglu,Biel/Bienne,CH,Bahnhofstrasse 1,,,,,393.46,1687.88,,,2081.34,hcp,otsuka
-Pierre‐Yves Martin,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,,,,,,,1000.0,,1000.0,hcp,otsuka
+Pierre-Yves Martin,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,1000.0,,1000.0,hcp,otsuka
 Robert Mc Shine,Winterthur,CH,Wieshofstrasse 102,,,,,767.05,1172.35,,,1939.4,hcp,otsuka
 Christian Mikutta,Bern,CH,Bolligenstrasse 111,,,,,473.17,1115.34,,,1588.51,hcp,otsuka
 Thomas Jörg Müller,Bern,CH,Murtenstrasse 21,,,,,,,990.0,,990.0,hcp,otsuka
 Michel Muscionico,Carouge GE,CH,Rue De La Fontenette 23,,,,,1129.45,227.0,,,1356.45,hcp,otsuka
-Silvia Pascual Gil,Chêne‐Bourg,CH,Chemin du Petit‐Bel‐Air 2,,,,,,148.53,,,148.53,hcp,otsuka
+Silvia Pascual Gil,Chêne-Bourg,CH,Chemin du Petit-Bel-Air 2,,,,,,148.53,,,148.53,hcp,otsuka
 Thomas Pauli,Wil SG,CH,Psychiatrische Klinik Wil,,,,,,,990.0,,990.0,hcp,otsuka
 Olivier Phan,Lausanne,CH,Rue du Bugnon 17,,,,,,,1200.0,,1200.0,hcp,otsuka
 Romeo Restellini,Lausanne,CH,Rue Du Bugnon 46,,,,,1582.77,4.12,,,1586.89,hcp,otsuka
-Slavica Romancuk,Opfikon,CH,Wright‐Strasse 34,,,,,394.31,1091.67,,,1485.98,hcp,otsuka
-Christophe Salathé,Fribourg,CH,Avenue du Général‐Guisan 56,,,,,394.31,1321.4,,,1715.71,hcp,otsuka
+Slavica Romancuk,Opfikon,CH,Wright-Strasse 34,,,,,394.31,1091.67,,,1485.98,hcp,otsuka
+Christophe Salathé,Fribourg,CH,Avenue du Général-Guisan 56,,,,,394.31,1321.4,,,1715.71,hcp,otsuka
 Erich Seifritz,Zürich,CH,Lenggstrasse 31,,,,,,,660.0,,660.0,hcp,otsuka
 Othman Sentissi,Genève,CH,Rue des Bains 35,,,,,1129.41,227.0,,,1356.41,hcp,otsuka
 Patrik Stephan,Brugg,CH,Klinik Königsfelden,,,,,,,1750.0,,1750.0,hcp,otsuka
-Daniel Teta,Sion,CH,Avenue Grand‐Champsec 80,,,,,,,4000.0,,4000.0,hcp,otsuka
+Daniel Teta,Sion,CH,Avenue Grand-Champsec 80,,,,,,,4000.0,,4000.0,hcp,otsuka
 Rafael Traber,Viganello,CH,Via Luganetto 5,,,,,,,990.0,124.0,1114.0,hcp,otsuka
 Sebastian Walther,Bern,CH,Murtenstrasse 21,,,,,,,1040.0,72.0,1112.0,hcp,otsuka
 Patrick Wilson,Porrentruy,CH,Chemin de l'Hôpital 9,,,,,417.89,412.28,,,830.17,hcp,otsuka
 Ioannis Zachariadis,Zürich,CH,Lenggstrasse 31,,,,,,,1600.0,596.0,2196.0,hcp,otsuka
 Eduard Zander,Windisch,CH,Zürcherstrasse 241,,,,,473.17,1091.69,,,1564.86,hcp,otsuka
-Clinique Le Noirmont,Le Noirmont,CH,Chemin de Roc‐Montès 20,,,,1000.0,,,,,1000.0,hco,otsuka
+Clinique Le Noirmont,Le Noirmont,CH,Chemin de Roc-Montès 20,,,,1000.0,,,,,1000.0,hco,otsuka
 Département de Psychiatrie CHUV,Lausanne,CH,Avenue d'Echallens 9,,,,6700.0,,,,,6700.0,hco,otsuka
 Externe Psychiatrische Dienste,Solothurn,CH,Weissensteinstrasse 102,,,,2000.0,,,,,2000.0,hco,otsuka
-Fondation de Nant,Corsier‐sur‐Vevey,CH,Route de Nant 15,,,,2500.0,,,,,2500.0,hco,otsuka
+Fondation de Nant,Corsier-sur-Vevey,CH,Route de Nant 15,,,,2500.0,,,,,2500.0,hco,otsuka
 Forum f.medizinische Fortbildung,Zug,CH,Ahornstrasse 2,,,,1500.0,,,,,1500.0,hco,otsuka
 Gesundheitszentrum Unterengadin,Scuol,CH,Via da l'Ospidal 280,,,,1500.0,,,,,1500.0,hco,otsuka
-Hôpital de Malévoz ‐ Service Ambulatoire,Monthey,CH,Route de Morgins 10,,,,1000.0,,,,,1000.0,hco,otsuka
+Hôpital de Malévoz - Service Ambulatoire,Monthey,CH,Route de Morgins 10,,,,1000.0,,,,,1000.0,hco,otsuka
 "Hôpital du Jura, Porrentruy",Porrentruy,CH,Chemin de l'Hôpital 9,,,,1500.0,,,,,1500.0,hco,otsuka
-Hôpital du Valais,Sion,CH,Avenue Grand‐Champsec 80,,,,2400.0,,,,,2400.0,hco,otsuka
-Hôpitaux Universitaires Genève,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,,,,1000.0,,,,,1000.0,hco,otsuka
+Hôpital du Valais,Sion,CH,Avenue Grand-Champsec 80,,,,2400.0,,,,,2400.0,hco,otsuka
+Hôpitaux Universitaires Genève,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,1000.0,,,,,1000.0,hco,otsuka
 Inselspital Bern,Bern,CH,Freiburgstrasse 18,,,,1000.0,,,900.0,,1900.0,hco,otsuka
 "Intervisionsgruppe, Dr.med. Fritz Ramseier & Dr.med. H.U. Karli",Lenzburg,CH,Niederl. Kirchweg 3,,,,1000.0,,,,,1000.0,hco,otsuka
 Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,,,,,1000.0,,1000.0,hco,otsuka
@@ -7610,8 +7610,8 @@ Schweizerische Gesellschaft für intensive dynamische Kurzpsychotherapie (GIK),B
 Spital Thurgau AG,Frauenfeld,CH,Waldeggstrasse 8a,,,,,,,1000.0,,1000.0,hco,otsuka
 Unité de Néphrologie,Lausanne,CH,Rue Du Bugnon 46,,,,,,,1750.0,,1750.0,hco,otsuka
 Universitätsspital Basel,Basel,CH,Spitalstrasse 21,,,,,,,1000.0,,1000.0,hco,otsuka
-Universite de Geneve (HUG),Genève,CH,1 rue Michel‐Servet,,,,3969.0,,,500.0,,4469.0,hco,otsuka
-WPA – The World Psychiatric Association,Chêne‐Bourg,CH,Psychiatric Hospital,,,,78316.0,,,,,78316.0,hco,otsuka
+Universite de Geneve (HUG),Genève,CH,1 rue Michel-Servet,,,,3969.0,,,500.0,,4469.0,hco,otsuka
+WPA – The World Psychiatric Association,Chêne-Bourg,CH,Psychiatric Hospital,,,,78316.0,,,,,78316.0,hco,otsuka
 Hamdi Abeidi,Sierre,CH,Route de Sion 31,,,,0,0,0,1000,0,1000,hcp,pfizer
 Linda Abrecht,Langnau i. E.,CH,Sägestrasse 37a,,,,0,0,504,0,0,504,hcp,pfizer
 Yvonne Achermann,Zürich,CH,Rämistrasse 100,,,,0,258,716,0,0,974,hcp,pfizer
@@ -8478,7 +8478,7 @@ Raphael Micheroli,Zürich,CH,Birmensdorferstrasse 497,8063,,,,0.0,903.47,0.0,0.0
 Razvan Andrei Popescu,Aarau,CH,Rain 34,5000,,,,0.0,0.0,1500.0,0.0,1500.0,hcp,roche
 Reinhard Zenhäusern,Brig,CH,Überlandstrasse 14,3900,,,,0.0,75.33,0.0,0.0,75.33,hcp,roche
 René Wullimann,Lugano,CH,Via Besso 34,6900,,,,0.0,0.0,600.0,0.0,600.0,hcp,roche
-Richard Herrmann,Unknown / relocated,CH,,,,,,0.0,0.0,2100.0,3635.59,5735.59,hcp,roche
+Richard Herrmann,,CH,,,,,,0.0,0.0,2100.0,3635.59,5735.59,hcp,roche
 Rita Turello,Lausanne,CH,Rue de l'Ale 25,1003,,,,0.0,0.0,800.0,0.0,800.0,hcp,roche
 Robert Hunger,Bern,CH,Freiburgstrasse 18,3010,,,,0.0,0.0,1500.0,0.0,1500.0,hcp,roche
 Robert Käufeler,St. Gallen,CH,Poststrasse 18,9000,,,,0.0,0.0,600.0,0.0,600.0,hcp,roche
@@ -8981,151 +8981,151 @@ Universitaets-Kinderspital - Beider Basel,Basel,CH,Spitalstrasse 33,4031,,,1080.
 Union des sociétés suisses des Maladies Vasculaires,Aarau,CH,Bahnofstrasse 55,5001,,,12050.0,,,,,12050.0,hco,sanofi
 Universitätsspital Basel,Basel,CH,Petersgraben 4,4031,,,70166.0,,,34354.0,3000.0,107520.0,hco,sanofi
 Verein Lunge Zürich,Zürich,CH,Pfingstweidstrasse 10,8005,,,5356.8,,,,,5356.8,hco,sanofi
-Alen Tschurr,Horgen,CH,FMH Psychiatrie und Psychotherapie,8810,7601000548795,,,,14.0,,,14,hcp,servier
-Alessandra Franzetti Pellanda,Lugano,CH,Medico responsabile Centro di radioterapia Clinica Luganese Moncucco SA,6900,7601000435392,,,,,600.0,,600,hcp,servier
-Alessandro Meyerhans,Wädenswil,CH,FMH Allgemeine Innere Medizin,8820,7601000480057,,,310.0,,,,310,hcp,servier
-Alexander Meisel,Zürich,CH,Oberarzt i. V. Onkologie und Hämatologie Stadtspital Waid,8037,7601003319125,,,,474.0,1000.0,,1474,hcp,servier
-Alexander Siebenhüner,Zürich,CH,Oberarzt Klinik für Onkologie Universitätsspital ,8091,7601000781642,,,,474.0,1000.0,,1474,hcp,servier
-Alexandra Rageth,Genève,CH,FMH psychiatrie et psychothérapie,1201,7601000633019,,,428.0,735.0,,,1163,hcp,servier
-Alexandre Christinat,Lugano,CH,FMH oncologia medica Oncologia Varini Calderoni Christinat,6900,7601000715500,,,,,600.0,,600,hcp,servier
-Alexandre Morais Cravador,Genève,CH,FMH psychiatrie et psychothérapie,1202,7601000981752,,,,185.0,,,185,hcp,servier
-Alfredo Velardi,Neuchâtel,CH,FMH psychiatrie et psychothérapie,2000,7601000008305,,,,206.0,,,206,hcp,servier
-Andrea Menafoglio,Bellinzona,CH,Cardiologia Ospedale San Giovanni EOC Ospedale Regionale di  e Valli,6500,7601000013798,,,,,500.0,,500,hcp,servier
-Anne Cherpillod,Lausanne,CH,FMH néphrologie,1003,7601000353283,,,,,800.0,,800,hcp,servier
-Ann-Kristin Hörsting,Embrach,CH,Leitende Ärztin Zentrum Hard Integrierte Psychiatrie Winterthur,8424,7601003357509,,,479.0,519.0,,,997,hcp,servier
-Anton Camprubi,Gland,CH,FMH psychiatrie et psychothérapie,1196,7601000418227,,,,158.0,,,158,hcp,servier
-Antonello Calderoni,Lugano,CH,FMH oncologia medica Oncologia Varini Calderoni Christinat,6900,7601000088062,,,,,600.0,,600,hcp,servier
-Augusto Pedrazzini,Locarno,CH,FMH oncologia medica,6600,7601000183309,,,,,600.0,,600,hcp,servier
-Aurélie Dupouy,Montagny-près-Yverdon,CH,FMH psichiatrie et psychothérapie Centre de Psychiatrie & Psychothérapie Les Toises,1442,7601003405576,,,,120.0,,,120,hcp,servier
-Baris Karpuz,Sion,CH,Chef de clinique adjoint Hôpital de  (CHVR) / Cardiologie Hôpital du Valais,1950,7601003993547,,,315.0,112.0,,,427,hcp,servier
-Boris Gojanovic,Meyrin,CH,FMH médecine interne générale  Hôpital de La Tour SA,1217,7601000618603,,,,,1500.0,,1500,hcp,servier
-Carlos De Mendonça Lima,Lausanne,CH,FMH psychiatrie et psychothérapie Les Toises Centre de Psychiatrie & Psychothérapie,1005,7601000997654,,,471.0,430.0,,,901,hcp,servier
-Charles-Alphonse Reynard,Sion,CH,FMH cardiologie,1950,7601000066220,,,,,800.0,,800,hcp,servier
-Christian Schmied,Zürich,CH,Leitender Arzt Klinik für Kardiologie Universitätsspital ,8091,7601000493606,,,,,2000.0,,2000,hcp,servier
-Christina Bornivelli,Lugano,CH,FMH psichiatria e psicoterapia,6900,7601000945617,,,428.0,707.0,,,1135,hcp,servier
-Christophe Pasche,Romanel-sur-Lausanne,CH,FMH médecine interne générale,1032,7601000621870,,,229.0,480.0,,,709,hcp,servier
-Claudia Ariemma,Mendrisio,CH,Caposervizio Disturbi del comportamento alimentare Ospedale Reg. di  Beata Vergine,6850,7601000990938,,,,147.0,,,147,hcp,servier
-Claudius Irlé,Meyrin,CH,FMH oncologie médicale,1217,7601000042736,,,,,1200.0,,1200,hcp,servier
-Concepcion Colastra,Bulle,CH,FMH psychiatrie et psychothérapie,1630,7601000054234,,,,180.0,,,180,hcp,servier
-Dagmar Astrid Schmid,St. Gallen,CH,Leitende Ärztin Klinik für Psychosomatik / Haus 08 Kantonsspital ,9007,7601000748621,,,419.0,733.0,,,1152,hcp,servier
-Daniel Blickenstorfer,Wädenswil,CH,FMH Allgemeine Innere Medizin,8820,7601000366177,,,310.0,,,,310,hcp,servier
-Daniel Helbling,Zürich,CH,FMH Medizinische Onkologie  Onkozentrum  AG,8038,7601000456021,,,564.0,1437.0,,,2000,hcp,servier
-Daniel Koychev,Rapperswil SG,CH,FMH Hämatologie  Tumorzentrum ZeTuP Rapperswil-Jona,8640,7601003407839,,,,,390.0,,390,hcp,servier
-David Kabashi,Bremgarten AG,CH,FMH Psychiatrie und Psychotherapie,5620,7601000989307,,,,11.0,,,11,hcp,servier
-Dezsö Körmendy,Bern,CH,FMH Kardiologie  Localmed Ärztezentrum ,3008,7601000910226,,,419.0,1313.0,,,1732,hcp,servier
-Dimitrios Agiakatsikas,Bellinzona,CH,FMH medicina interna generale  Centromedico,6500,7601003408027,,,229.0,539.0,,,767,hcp,servier
-Elena Angela Intzes,Caslano,CH,FMH medicina interna generale,6987,7601000651952,,,229.0,364.0,,,593,hcp,servier
-Elke Broos-Könitz,St. Gallen,CH,FMH Psychiatrie und Psychotherapie Psychiatrie und Psychotherapie OBERWAID AG - Kurhotel & Privatklinik,9016,7601000761002,,,,11.0,,,11,hcp,servier
-Enrico Roggero,Bellinzona,CH,FMH oncologia medica,6500,7601000181176,,,,,600.0,,600,hcp,servier
-Ermira Gasser-Hoti,Crissier,CH,FMH psychiatrie et psychothérapie,1023,7601000714527,,,503.0,734.0,,,1236,hcp,servier
-Ernst Gröchenig,Aarau,CH,Chefarzt Angiologie Kantonsspital am Bahnhof,5001,7601000528339,,,,,1200.0,,1200,hcp,servier
-Eva Daiana Pusca,Neuchâtel,CH,FMH psychiatrie et psychothérapie,2000,7601000957344,,,477.0,632.0,,,1109,hcp,servier
-Eva Hesse,Cheseaux-sur-Lausanne,CH,FMH médecine interne générale,1033,7601000017239,,,229.0,509.0,,,738,hcp,servier
-Ferdinand Jaggi,Zürich,CH,FMH Allgemeine Innere Medizin,8049,7601000193995,,,,,2400.0,,2400,hcp,servier
-Fiorenzo Acquati,Mendrisio,CH,FMH Cardiologia,6850,7601000668059,,,,,1100.0,,1100,hcp,servier
-Flavio Acquistapace,Manno,CH,FMH Cardiologia,6928,7601000933263,,,,,700.0,,700,hcp,servier
-Francesca Domenghini Tettamanti,Paradiso,CH,FMH psichiatria e psicoterapia,6900,7601000189493,,,356.0,473.0,,,830,hcp,servier
-Francesca Tavarini,Lugano,CH,FMH medicina interna generale  centromedico ,6900,7601000652492,,,229.0,364.0,,,593,hcp,servier
-Francesco Zappa,Lugano,CH,Medico responsabile Ambulatorio di oncologia Clinica Luganese Moncucco SA,6900,7601000180926,,,,,600.0,,600,hcp,servier
-Frank Günter Wilhelmus,Regensdorf,CH,FMH Psychiatrie und Psychotherapie,8105,7601000967039,,,,14.0,,,14,hcp,servier
-Friederike Matter-Tanski,Heiligenschwendi,CH,Oberärztin Kardiovaskuläre Rehabilitation Berner Reha Zentrum,3625,7601000736208,,,419.0,1105.0,,,1524,hcp,servier
-Gabriella Guzzo,Sion,CH,Service de médecine intensiv Hôpital de  (CHVR) Hôpital du Valais,1950,7601000923585,,,401.0,839.0,,,1241,hcp,servier
-Geoffrey Delmore,Frauenfeld,CH,Leitender Arzt Onkologie/Hämatologie Kantonsspital ,8500,7601000243164,,,,,1200.0,,1200,hcp,servier
-Georg Umenhofer,St. Gallen,CH,FMH Psychiatrie und Psychotherapie,9000,7601000714749,,,419.0,530.0,,,949,hcp,servier
-Grégoire Girod,Sion,CH,Médecin-chef Hôpital de  (CHVR) / Cardiologie Hôpital du Valais,1950,7601000056078,,,,,800.0,,800,hcp,servier
-Gurpreet Anand,Zürich,CH,Oberärztin Endokrinologie und Diabetologie Universitätsspital ,8091,7601000725301,,,,,1000.0,,1000,hcp,servier
-Hansjörg Meier,Zofingen,CH,FMH Kardiologie  Herzpraxis ,4800,7601000152176,,,419.0,1337.0,,,1756,hcp,servier
-Heinz Schutzbach,Dietikon,CH,Psychiatrie und Psychotherapie Praxis für Psychiatrie & Psychotherapie Clienia ,8953,7601000714985,,,,14.0,,,14,hcp,servier
-James Tataw,Moutier,CH,Médecin-chef Site de   /  Néphrologie Hôpital du Jura bernois SA,2740,7601000974860,,,401.0,883.0,,,1285,hcp,servier
-Jan Dieter Schmid,Lyss,CH,FMH Psychiatrie und Psychotherapie,3250,7601000113184,,,,14.0,,,14,hcp,servier
-Jarno Zierle,Rorschach,CH,FMH Psychiatrie und Psychotherapie,9400,7601000764287,,,477.0,622.0,,,1099,hcp,servier
-Jean Bérubé,Lugano,CH,FMH Cardiologia,6900,7601000187673,,,,,400.0,,400,hcp,servier
-Jens Barthelmes,Zürich,CH,Assistenzarzt Klinik für Kardiologie Universitätsspital ,8091,7601003374230,,,397.0,932.0,,,1329,hcp,servier
-Jens Brinken,Lausanne,CH,FMH psychiatrie et psychothérapie,1003,7601000735485,,,477.0,528.0,,,1005,hcp,servier
-Joëlle Michel-Némitz,Courtelary,CH,FMH médecine interne générale,2608,7601000050205,,,229.0,452.0,,,681,hcp,servier
-Johannes Berger,Rorschach,CH,FMH Psychiatrie und Psychotherapie  Praxis Lüneburg,9400,7601000777348,,,,-10.0,,,-10,hcp,servier
-Karin Zingg Brühlmann,Aarberg,CH,FMH Psychiatrie und Psychotherapie,3270,7601000082060,,,,14.0,,,14,hcp,servier
-Kurt Seiler,Cham,CH,FMH Allgemeine Innere Medizin,6330,7601000277800,,,,,1200.0,,1200,hcp,servier
-Laura Cirafici,Porrentruy,CH,Médecin agréé  Hôpital du Jura / Site de ,2900,7601000062543,,,,,800.0,,800,hcp,servier
-Lionel Jacquier,Martigny,CH,FMH médecine interne générale,1920,7601000641557,,,229.0,605.0,,,834,hcp,servier
-Lubica Gujanicic,Heiden,CH,FMH Psychiatrie und Psychotherapie,9410,7601000752383,,,,11.0,,,11,hcp,servier
-Lucilla Soulier-Parmeggiani,Meyrin,CH,FMH angiologie  Hôpital de La Tour SA,1217,7601000042934,,,,,1000.0,,1000,hcp,servier
-Marco Gebbers,Brunnen,CH,Chefarzt und Ärztlicher Direktor Psychotherapie / Psychosomatik Seeklinik ,6440,7601000533302,,,,14.0,,,14,hcp,servier
-Marco Kummer,Rheinfelden,CH,FMH Kardiologie  Herzpraxis am Rhein,4310,7601000777867,,,,,750.0,,750,hcp,servier
-Maria Carla Valli,Bellinzona,CH,Radio-oncologia/radioterapia IOSI Ospedale San Giovanni EOC Ospedale Regionale di  e Valli,6500,7601000876669,,,,,600.0,,600,hcp,servier
-Maria Grazia Rossi,Lugano,CH,Capoclinica Cardiologia interventistica Cardiocentro Ticino,6900,7601000437600,,,,,400.0,,400,hcp,servier
-Maria-Rosaria Ciavaglioli,Locarno,CH,FMH psichiatria e psicoterapia,6600,7601000859556,,,,147.0,,,147,hcp,servier
-Marino Urbinelli,Oensingen,CH,FMH Psychiatrie und Psychotherapie  Ärztezentrum Leuenfeld,4702,7601000626431,,,,14.0,,,14,hcp,servier
-Marius Dragos,Neuchâtel,CH,FMH psychiatrie et psychothérapie,2000,7601000070500,,,477.0,258.0,,,735,hcp,servier
-Maryam Pavlicek,Bern,CH,"Oberärztin Kardiologie Inselspital , Insel-Gruppe AG",3010,7601000811325,,,419.0,914.0,,,1333,hcp,servier
-Marzio Roberti-Maggiore,Giornico,CH,FMH medicina interna generale,6745,7601000180797,,,,,400.0,,400,hcp,servier
-Matthias Paul,Luzern,CH,Oberarzt Kardiologie / Herzzentrum  er Kantonsspital ,6004,7601000469519,,,397.0,972.0,,,1369,hcp,servier
-Mengistu Yared,Biel/Bienne,CH,FMH Psychiatrie und Psychotherapie,2502,7601000704597,,,477.0,597.0,,,1074,hcp,servier
-Michael Alexander Brabetz,Littenheid,CH,Leitender Arzt Internistischer Dienst Clienia  AG,9573,7601000086617,,,,,500.0,,500,hcp,servier
-Michael Fithal,Rheinfelden,CH,FMH Psychiatrie und Psychotherapie,4310,7601000336644,,,477.0,576.0,,,1053,hcp,servier
-Michael Henrich,Kreuzlingen,CH,FMH Psychiatrie und Psychotherapie,8280,7601000862594,,,,14.0,,,14,hcp,servier
-Michael Van Houte,Zug,CH,FMH Psychiatrie und Psychotherapie,6300,7601000777539,,,356.0,591.0,,,947,hcp,servier
-Myrvete Kryeziu,Bevaix,CH,Médecin praticien  Médecins de famille de la grande Béroche,2022,7601003421095,,,229.0,635.0,,,863,hcp,servier
-Natalie Fischer,Winterthur,CH,Leitende Ärztin Medizinische Onkologie Kantonsspital ,8400,7601000433190,,,564.0,1381.0,,,1945,hcp,servier
-Nicola Ferroni,Locarno,CH,FMH psichiatria e psicoterapia,6600,7601000183286,,,419.0,374.0,,,793,hcp,servier
-Oreste Mora,Mendrisio,CH,FMH oncologia medica  Centro Oncologico ,6850,7601000513014,,,712.0,1258.0,,,1971,hcp,servier
-Pascal Berney,Lausanne,CH,FMH médecine interne générale,1012,7601000016188,,,229.0,557.0,,,785,hcp,servier
-Petra Kästner,Brig,CH,Psychiatriezentrum Oberwallis (PZO) Spital  (SZO) Spital Wallis,3900,7601000407214,,,,14.0,,,14,hcp,servier
-Philipp Kloimstein,Wattwil,CH,FMH Psychiatrie und Psychotherapie,9630,7601000874818,,,356.0,597.0,,,954,hcp,servier
-Piercarlo Saletti,Viganello,CH,Viceprimario IOSI Istituto Oncologico Ospedale Regionale di Lugano Italiano,6962,7601000185815,,,,,1000.0,,1000,hcp,servier
-Pierre Kohler,Lausanne,CH,FMH médecine interne générale,1006,7601000007278,,,229.0,544.0,,,773,hcp,servier
-Pietro Foglia,Massagno,CH,FMH Cardiologia,6900,7601000524546,,,,,400.0,,400,hcp,servier
-Rafik Bouzegaou,Marsens,CH,Chef de clinique Réseau fribourgeois de santé mentale c/o Centre de soins hospitaliers,1633,7601003420951,,,,261.0,,,261,hcp,servier
-Raphaël Voide,Sion,CH,Médecin-chef Centre de psychiatrie et psychothérapie C.C.P.P. Antenne de ,1950,7601000648280,,,428.0,551.0,,,979,hcp,servier
-Renata Fatio,Zürich,CH,FMH Kardiologie,8032,7601000227911,,,,,1000.0,,1000,hcp,servier
-Renzo Dal Zotto,Neuchâtel,CH,FMH médecine interne générale,2000,7601000068743,,,229.0,613.0,,,842,hcp,servier
-Reto Kühne,Zürich,CH,Leitender Arzt Onkologie und Hämatologie Stadtspital Waid,8037,7601000147516,,,,,1200.0,,1200,hcp,servier
-Ridha Mekacher,Genève,CH,FMH psychiatrie et psychothérapie,1201,7601000680594,,,477.0,594.0,,,1071,hcp,servier
-Robert Rouhi,St. Moritz,CH,FMH Allgemeine Innere Medizin,7500,7601000736925,,,488.0,,,,488,hcp,servier
-Rodrigo Da Graça Santos,Lausanne,CH,FMH psychiatrie et psychothérapie,1004,7601000774231,,,,80.0,,,80,hcp,servier
-Roger Lehmann,Zürich,CH,Leitender Arzt Endokrinologie und Diabetologie Universitätsspital ,8091,7601000224248,,,,,2000.0,,2000,hcp,servier
-Rolf Köster,Bremgarten AG,CH,FMH Psychiatrie und Psychotherapie  Zentrum Sunne-Märt,5620,7601000208439,,,,801.0,,,801,hcp,servier
-Sabine Abele,Luzern,CH,FMH Psychiatrie und Psychotherapie,6006,7601000679666,,,,14.0,,,14,hcp,servier
-Sebastien Thalmann,Zürich,CH,FMH Endokrinologie und Diabetologie  Ärztezentrum Sihlcity,8045,7601000491640,,,,,1000.0,,1000,hcp,servier
-Silvia Peruffo,Chiasso,CH,FMH psichiatria e psicoterapia,6830,7601000744517,,,,147.0,,,147,hcp,servier
-Slawomir Weretka,Brunnen,CH,FMH Allgemeine Innere Medizin spez. FMH Kardiologie,6440,7601003392791,,,400.0,,,,400,hcp,servier
-Stéphane Reverdin,Lausanne,CH,FMH cardiologie,1004,7601000550248,,,,,800.0,,800,hcp,servier
-Sylvie Hüni Gallaz,Pully,CH,FMH psychiatrie et psychothérapie,1009,7601000495419,,,,168.0,,,168,hcp,servier
-Thi Nguyen,Lausanne,CH,FMH médecine interne générale,1012,7601000016157,,,,,600.0,,600,hcp,servier
-Thierry Currat,Clarens,CH,FMH psychiatrie et psychothérapie,1815,7601000050960,,,,162.0,,,162,hcp,servier
-Thierry Reymond,Lutry,CH,FMH médecine interne générale  med,1095,7601000018045,,,229.0,447.0,,,675,hcp,servier
-Thomas Baisch,St. Gallen,CH,FMH Psychiatrie und Psychotherapie  Ärztehaus Vadianus,9000,7601000448194,,,419.0,616.0,,,1035,hcp,servier
-Thomas Binder,Wettingen,CH,FMH Kardiologie,5430,7601000162052,,,419.0,1213.0,,,1632,hcp,servier
-Thomas Schwaller,Luzern,CH,Oberarzt Adipositaszentrum Schweiz er Kantonsspital ,6004,7601000478924,,,428.0,591.0,,,1018,hcp,servier
-Thomas Winder,Zürich,CH,FMH Medizinische Onkologie  Swiss Tumor Molecular Institute,8038,7601003321234,,,511.0,918.0,,,1429,hcp,servier
-Tobias Traupe,Bern,CH,"Leitender Arzt Kardiologie Spital Tiefenau, Insel-Gruppe AG",3004,7601000539755,,,419.0,1293.0,1200.0,,2912,hcp,servier
-Urs Schwarz,Breganzona,CH,FMH medicina interna generale,6932,7601000189752,,,,,400.0,,400,hcp,servier
-Valentina Forni,Locarno,CH,Caposervizio Nefrologia e dialisi Ospedale Regionale di  La Carità,6600,7601000818966,,,498.0,327.0,,,825,hcp,servier
-Victor Bancila,Genève,CH,FMH psychiatrie et psychothérapie,1205,7601000762320,,,428.0,551.0,,,979,hcp,servier
-Violetta Drögsler,Muri AG,CH,FMH Psychiatrie und Psychotherapie,5630,7601000165466,,,477.0,614.0,,,1091,hcp,servier
-Vito e Paola Spataro,Bellinzona,CH,FMH oncologia medica,6500,7601000013101,,,,,600.0,,600,hcp,servier
-William Vernieri,Lugano,CH,FMH psichiatria e psicoterapia,6900,7601000744692,,,428.0,473.0,,,901,hcp,servier
-Zacharie Nziya,La Chaux-de-Fonds,CH,FMH psychiatrie et psychothérapie,2300,7601000010919,,,356.0,607.0,,,964,hcp,servier
-Zoran Erlic,Zürich,CH,Klinikdirektor Endokrinologie und Diabetologie Universitätsspital ,8091,7601000226556,,,,,1000.0,,1000,hcp,servier
-Michail Kouros,Locarno,CH,FMH oncologia medica,6600,7601000806024,,,,,600.0,,600,hcp,servier
-Marzia Conti Beltraminelli,Pregassona,CH,FMH oncologia medica,6963,7601000187932,,,,,600.0,,600,hcp,servier
-Daniel Dindo,Zürich,CH,FMH Chirurgie spez. Proktologie Chirurgisches Zentrum  Klinik Hirslanden,8008,7601000429261,,,,,1500.0,,1500,hcp,servier
-Isabella Sudano,Zürich,CH,Oberärztin Klinik für Kardiologie Universitätsspital ,8091,7601000733641,,,,,3600.0,,3600,hcp,servier
-Martin Kammerer,Rüschlikon,CH,FMH Psychiatrie und Psychotherapie,8803,7601000256294,,,,441.0,,,441,hcp,servier
-Thomas Felix Lüscher,Schlieren,CH,Center for Molecular Cardiology Institut für Medizinische Genetik der Universität Zürich,8952,7601000089915,,,,,1956.0,,1956,hcp,servier
-Frank Ruschitzka,Zürich,CH,Leitender Arzt Klinik für Kardiologie Universitätsspital ,8091,7601000502186,,,,,1111.0,,1111,hcp,servier
-Antoinette Pechère-Bertschi,Genève,CH,Département spécialités de médecine Service Néphrologie Hôpitaux universitaires de ,1205,7601000005373,,,401.0,914.0,1800.0,,3115,hcp,servier
-Arnaud Roth,Genève,CH,Médecin chef Centre d'oncologie Hôpitaux Universitaires de ,1205,7601000033352,,,,,1500.0,,1500,hcp,servier
-Beatrice Amann-Vesti,Zürich,CH,FMH Angiologie  Klinik Im Park,8002,7601000517296,,,,,1500.0,,1500,hcp,servier
-Erich Seifritz,Zürich,CH,Direktor Klinik für Psychiatrie u. Psychotherapie Psychiatrische Universitätsklinik ,8008,7601000117823,,,,,2500.0,,2500,hcp,servier
-Giatgen Spinas,Zürich,CH,Klinikdirektor Endokrinologie und Diabetologie Universitätsspital ,8091,7601000226556,,,,,3000.0,,3000,hcp,servier
-Gregor Hasler,Bern,CH,Extraordinarius und Chefarzt  Universitäre Psych. Dienste  (UPD),3000,7601000353290,,,,,5100.0,,5100,hcp,servier
-Hans Rickli,St. Gallen,CH,Chefarzt Klinik für Kardiologie / Haus 01 Kantonsspital ,9007,7601000264701,,,,,1500.0,,1500,hcp,servier
-Markus Borner,Bern,CH,FMH Medizinische Onkologie Oncocare Onkologisches Zentrum Engeriedspital,3012,7601000090256,,,,,1500.0,,1500,hcp,servier
-Peter Wiesli,Frauenfeld,CH,"Chefarzt Med. Klinik, Endokrinologie/Diabetologie Kantonsspital ",8500,7601000243041,,,,,1500.0,,1500,hcp,servier
-Vitalij Kazin,Schaffhausen,CH,FMH Psychiatrie und Psychotherapie,8200,7601003540581,,,428.0,627.0,,,1055,hcp,servier
-Yves Allemann,Bulle,CH,FMH cardiologie  Cardiologie Pré-Vert ,1630,7601000056719,,,,,1800.0,,1800,hcp,servier
-Mme Christelle Royer,Carouge GE,CH,"27, rue vautier",1227,RoyerChristelleCarouge,,,,,1300.0,,1300,hcp,servier
+Alen Tschurr,Horgen,CH,Seestrasse 126,8810,7601000548795,,,,14.0,,,14,hcp,servier
+Alessandra Franzetti Pellanda,Lugano,CH,Via Moncucco 10,6900,7601000435392,,,,,600.0,,600,hcp,servier
+Alessandro Meyerhans,Wädenswil,CH,Fuhrstrasse 15,8820,7601000480057,,,310.0,,,,310,hcp,servier
+Alexander Meisel,Zürich,CH,Tièchestrasse 99,8037,7601003319125,,,,474.0,1000.0,,1474,hcp,servier
+Alexander Siebenhüner,Zürich,CH,Rämistrasse 100,8091,7601000781642,,,,474.0,1000.0,,1474,hcp,servier
+Alexandra Rageth,Genève,CH,Rue du Mont-Blanc 24,1201,7601000633019,,,428.0,735.0,,,1163,hcp,servier
+Alexandre Christinat,Lugano,CH,Via Fogazzaro 3,6900,7601000715500,,,,,600.0,,600,hcp,servier
+Alexandre Morais Cravador,Genève,CH,FMH psychiatrie et psychothérapie Rue de Lausanne 65,1202,7601000981752,,,,185.0,,,185,hcp,servier
+Alfredo Velardi,Neuchâtel,CH,Avenue du 1er-Mars 6,2000,7601000008305,,,,206.0,,,206,hcp,servier
+Andrea Menafoglio,Bellinzona,CH,medico caposervizio medicina - cardiologia,6500,7601000013798,,,,,500.0,,500,hcp,servier
+Anne Cherpillod,Lausanne,CH,Avenue Louis-Ruchonnet 57,1003,7601000353283,,,,,800.0,,800,hcp,servier
+Ann-Kristin Hörsting,Embrach,CH,Wieshofstrasse 102,8424,7601003357509,,,479.0,519.0,,,997,hcp,servier
+Anton Camprubi,Gland,CH,Rue Mauverney 22B,1196,7601000418227,,,,158.0,,,158,hcp,servier
+Antonello Calderoni,Lugano,CH,via Fogazzaro 3,6900,7601000088062,,,,,600.0,,600,hcp,servier
+Augusto Pedrazzini,Locarno,CH,Via Vela 11,6600,7601000183309,,,,,600.0,,600,hcp,servier
+Aurélie Dupouy,Montagny-près-Yverdon,CH,UTAD Unité de traitement des addictions - Secteur psychiatrique nord - Ruelle Vautier 5,1442,7601003405576,,,,120.0,,,120,hcp,servier
+Baris Karpuz,Sion,CH,Avenue de la Gare 25,1950,7601003993547,,,315.0,112.0,,,427,hcp,servier
+Boris Gojanovic,Meyrin,CH,Avenue Jean Daniel Maillard 3,1217,7601000618603,,,,,1500.0,,1500,hcp,servier
+Carlos De Mendonça Lima,Lausanne,CH,Avenue des Mousquines 4,1005,7601000997654,,,471.0,430.0,,,901,hcp,servier
+Charles-Alphonse Reynard,Sion,CH,Avenue de la Gare 25,1950,7601000066220,,,,,800.0,,800,hcp,servier
+Christian Schmied,Zürich,CH,nan,8091,7601000493606,,,,,2000.0,,2000,hcp,servier
+Christina Bornivelli,Lugano,CH,Via delle Scuole 1,6900,7601000945617,,,428.0,707.0,,,1135,hcp,servier
+Christophe Pasche,Romanel-sur-Lausanne,CH,Chemin des Esserpys 20,1032,7601000621870,,,229.0,480.0,,,709,hcp,servier
+Claudia Ariemma,Mendrisio,CH,Via Turconi 23,6850,7601000990938,,,,147.0,,,147,hcp,servier
+Claudius Irlé,Meyrin,CH,Avenue J.-D.- Maillard 11,1217,7601000042736,,,,,1200.0,,1200,hcp,servier
+Concepcion Colastra,Bulle,CH,Chemin de Bouleyres 10,1630,7601000054234,,,,180.0,,,180,hcp,servier
+Dagmar Astrid Schmid,St. Gallen,CH,Rorschacher Strasse 95,9007,7601000748621,,,419.0,733.0,,,1152,hcp,servier
+Daniel Blickenstorfer,Wädenswil,CH,Fuhrstr. 15,8820,7601000366177,,,310.0,,,,310,hcp,servier
+Daniel Helbling,Zürich,CH,Seestrasse 259,8038,7601000456021,,,564.0,1437.0,,,2000,hcp,servier
+Daniel Koychev,Rapperswil SG,CH,nan,8640,7601003407839,,,,,390.0,,390,hcp,servier
+David Kabashi,Bremgarten AG,CH,Zürcherstrasse 4,5620,7601000989307,,,,11.0,,,11,hcp,servier
+Dezsö Körmendy,Bern,CH,nan,3008,7601000910226,,,419.0,1313.0,,,1732,hcp,servier
+Dimitrios Agiakatsikas,Bellinzona,CH,nan,6500,7601003408027,,,229.0,539.0,,,767,hcp,servier
+Elena Angela Intzes,Caslano,CH,nan,6987,7601000651952,,,229.0,364.0,,,593,hcp,servier
+Elke Broos-Könitz,St. Gallen,CH,santémed Gesundheitszentren AG - Vadianstrasse 26,9016,7601000761002,,,,11.0,,,11,hcp,servier
+Enrico Roggero,Bellinzona,CH,nan,6500,7601000181176,,,,,600.0,,600,hcp,servier
+Ermira Gasser-Hoti,Crissier,CH,nan,1023,7601000714527,,,503.0,734.0,,,1236,hcp,servier
+Ernst Gröchenig,Aarau,CH,nan,5001,7601000528339,,,,,1200.0,,1200,hcp,servier
+Eva Daiana Pusca,Neuchâtel,CH,nan,2000,7601000957344,,,477.0,632.0,,,1109,hcp,servier
+Eva Hesse,Cheseaux-sur-Lausanne,CH,nan,1033,7601000017239,,,229.0,509.0,,,738,hcp,servier
+Ferdinand Jaggi,Zürich,CH,Rütihofstrasse 49,8049,7601000193995,,,,,2400.0,,2400,hcp,servier
+Fiorenzo Acquati,Mendrisio,CH,Via Giuseppe Motta 35,6850,7601000668059,,,,,1100.0,,1100,hcp,servier
+Flavio Acquistapace,Manno,CH,nan,6928,7601000933263,,,,,700.0,,700,hcp,servier
+Francesca Domenghini Tettamanti,Paradiso,CH,nan,6900,7601000189493,,,356.0,473.0,,,830,hcp,servier
+Francesca Tavarini,Lugano,CH,nan,6900,7601000652492,,,229.0,364.0,,,593,hcp,servier
+Francesco Zappa,Lugano,CH,nan,6900,7601000180926,,,,,600.0,,600,hcp,servier
+Frank Günter Wilhelmus,Regensdorf,CH,Adlikerstrasse 236,8105,7601000967039,,,,14.0,,,14,hcp,servier
+Friederike Matter-Tanski,Heiligenschwendi,CH,Schwendi 299,3625,7601000736208,,,419.0,1105.0,,,1524,hcp,servier
+Gabriella Guzzo,Sion,CH,nan,1950,7601000923585,,,401.0,839.0,,,1241,hcp,servier
+Geoffrey Delmore,Frauenfeld,CH,nan,8500,7601000243164,,,,,1200.0,,1200,hcp,servier
+Georg Umenhofer,St. Gallen,CH,nan,9000,7601000714749,,,419.0,530.0,,,949,hcp,servier
+Grégoire Girod,Sion,CH,Chemin Isabelle de Montolieu 34A,1950,7601000056078,,,,,800.0,,800,hcp,servier
+Gurpreet Anand,Zürich,CH,Im Herrenholz 4,8091,7601000725301,,,,,1000.0,,1000,hcp,servier
+Hansjörg Meier,Zofingen,CH,nan,4800,7601000152176,,,419.0,1337.0,,,1756,hcp,servier
+Heinz Schutzbach,Dietikon,CH,Clienia  - Neumattstrasse 7,8953,7601000714985,,,,14.0,,,14,hcp,servier
+James Tataw,Moutier,CH,nan,2740,7601000974860,,,401.0,883.0,,,1285,hcp,servier
+Jan Dieter Schmid,Lyss,CH,Marktplatz 7,3250,7601000113184,,,,14.0,,,14,hcp,servier
+Jarno Zierle,Rorschach,CH,nan,9400,7601000764287,,,477.0,622.0,,,1099,hcp,servier
+Jean Bérubé,Lugano,CH,nan,6900,7601000187673,,,,,400.0,,400,hcp,servier
+Jens Barthelmes,Zürich,CH,nan,8091,7601003374230,,,397.0,932.0,,,1329,hcp,servier
+Jens Brinken,Lausanne,CH,nan,1003,7601000735485,,,477.0,528.0,,,1005,hcp,servier
+Joëlle Michel-Némitz,Courtelary,CH,nan,2608,7601000050205,,,229.0,452.0,,,681,hcp,servier
+Johannes Berger,Rorschach,CH,Neugasse 14,9400,7601000777348,,,,-10.0,,,-10,hcp,servier
+Karin Zingg Brühlmann,Aarberg,CH,Lyss-Strasse 7,3270,7601000082060,,,,14.0,,,14,hcp,servier
+Kurt Seiler,Cham,CH,nan,6330,7601000277800,,,,,1200.0,,1200,hcp,servier
+Laura Cirafici,Porrentruy,CH,nan,2900,7601000062543,,,,,800.0,,800,hcp,servier
+Lionel Jacquier,Martigny,CH,nan,1920,7601000641557,,,229.0,605.0,,,834,hcp,servier
+Lubica Gujanicic,Heiden,CH,Paradies 4,9410,7601000752383,,,,11.0,,,11,hcp,servier
+Lucilla Soulier-Parmeggiani,Meyrin,CH,nan,1217,7601000042934,,,,,1000.0,,1000,hcp,servier
+Marco Gebbers,Brunnen,CH,Freiestrasse 71,6440,7601000533302,,,,14.0,,,14,hcp,servier
+Marco Kummer,Rheinfelden,CH,nan,4310,7601000777867,,,,,750.0,,750,hcp,servier
+Maria Carla Valli,Bellinzona,CH,nan,6500,7601000876669,,,,,600.0,,600,hcp,servier
+Maria Grazia Rossi,Lugano,CH,nan,6900,7601000437600,,,,,400.0,,400,hcp,servier
+Maria-Rosaria Ciavaglioli,Locarno,CH,Piazza Muraccio 3,6600,7601000859556,,,,147.0,,,147,hcp,servier
+Marino Urbinelli,Oensingen,CH,Ärztezentrum Leuenfeld - Leuenstrasse 2,4702,7601000626431,,,,14.0,,,14,hcp,servier
+Marius Dragos,Neuchâtel,CH,nan,2000,7601000070500,,,477.0,258.0,,,735,hcp,servier
+Maryam Pavlicek,Bern,CH,nan,3010,7601000811325,,,419.0,914.0,,,1333,hcp,servier
+Marzio Roberti-Maggiore,Giornico,CH,Via Cantonale,6745,7601000180797,,,,,400.0,,400,hcp,servier
+Matthias Paul,Luzern,CH,nan,6004,7601000469519,,,397.0,972.0,,,1369,hcp,servier
+Mengistu Yared,Biel/Bienne,CH,nan,2502,7601000704597,,,477.0,597.0,,,1074,hcp,servier
+Michael Alexander Brabetz,Littenheid,CH,nan,9573,7601000086617,,,,,500.0,,500,hcp,servier
+Michael Fithal,Rheinfelden,CH,nan,4310,7601000336644,,,477.0,576.0,,,1053,hcp,servier
+Michael Henrich,Kreuzlingen,CH,Nationalstrasse 17,8280,7601000862594,,,,14.0,,,14,hcp,servier
+Michael Van Houte,Zug,CH,nan,6300,7601000777539,,,356.0,591.0,,,947,hcp,servier
+Myrvete Kryeziu,Bevaix,CH,nan,2022,7601003421095,,,229.0,635.0,,,863,hcp,servier
+Natalie Fischer,Winterthur,CH,nan,8400,7601000433190,,,564.0,1381.0,,,1945,hcp,servier
+Nicola Ferroni,Locarno,CH,nan,6600,7601000183286,,,419.0,374.0,,,793,hcp,servier
+Oreste Mora,Mendrisio,CH,nan,6850,7601000513014,,,712.0,1258.0,,,1971,hcp,servier
+Pascal Berney,Lausanne,CH,nan,1012,7601000016188,,,229.0,557.0,,,785,hcp,servier
+Petra Kästner,Brig,CH,Spital  / Spital Wallis - Überlandstrasse 14,3900,7601000407214,,,,14.0,,,14,hcp,servier
+Philipp Kloimstein,Wattwil,CH,nan,9630,7601000874818,,,356.0,597.0,,,954,hcp,servier
+Piercarlo Saletti,Viganello,CH,nan,6962,7601000185815,,,,,1000.0,,1000,hcp,servier
+Pierre Kohler,Lausanne,CH,nan,1006,7601000007278,,,229.0,544.0,,,773,hcp,servier
+Pietro Foglia,Massagno,CH,nan,6900,7601000524546,,,,,400.0,,400,hcp,servier
+Rafik Bouzegaou,Marsens,CH,Réseau fribourgeois de santé mentale - c/o Centre de soins hospitaliers - L'Hôpital 140,1633,7601003420951,,,,261.0,,,261,hcp,servier
+Raphaël Voide,Sion,CH,nan,1950,7601000648280,,,428.0,551.0,,,979,hcp,servier
+Renata Fatio,Zürich,CH,nan,8032,7601000227911,,,,,1000.0,,1000,hcp,servier
+Renzo Dal Zotto,Neuchâtel,CH,nan,2000,7601000068743,,,229.0,613.0,,,842,hcp,servier
+Reto Kühne,Zürich,CH,nan,8037,7601000147516,,,,,1200.0,,1200,hcp,servier
+Ridha Mekacher,Genève,CH,nan,1201,7601000680594,,,477.0,594.0,,,1071,hcp,servier
+Robert Rouhi,St. Moritz,CH,nan,7500,7601000736925,,,488.0,,,,488,hcp,servier
+Rodrigo Da Graça Santos,Lausanne,CH,Rue du Petit-Beaulieu 1,1004,7601000774231,,,,80.0,,,80,hcp,servier
+Roger Lehmann,Zürich,CH,Rotbuchstrasse 43,8091,7601000224248,,,,,2000.0,,2000,hcp,servier
+Rolf Köster,Bremgarten AG,CH,nan,5620,7601000208439,,,,801.0,,,801,hcp,servier
+Sabine Abele,Luzern,CH,Fluhmattweg 4,6006,7601000679666,,,,14.0,,,14,hcp,servier
+Sebastien Thalmann,Zürich,CH,nan,8045,7601000491640,,,,,1000.0,,1000,hcp,servier
+Silvia Peruffo,Chiasso,CH,Via Soldini 14,6830,7601000744517,,,,147.0,,,147,hcp,servier
+Slawomir Weretka,Brunnen,CH,nan,6440,7601003392791,,,400.0,,,,400,hcp,servier
+Stéphane Reverdin,Lausanne,CH,Avenue Jomini 8,1004,7601000550248,,,,,800.0,,800,hcp,servier
+Sylvie Hüni Gallaz,Pully,CH,Avenue des Collèges 6,1009,7601000495419,,,,168.0,,,168,hcp,servier
+Thi Nguyen,Lausanne,CH,nan,1012,7601000016157,,,,,600.0,,600,hcp,servier
+Thierry Currat,Clarens,CH,Avenue Alexandre Vinet 30,1815,7601000050960,,,,162.0,,,162,hcp,servier
+Thierry Reymond,Lutry,CH,med - Rue Verdaine 8A,1095,7601000018045,,,229.0,447.0,,,675,hcp,servier
+Thomas Baisch,St. Gallen,CH,nan,9000,7601000448194,,,419.0,616.0,,,1035,hcp,servier
+Thomas Binder,Wettingen,CH,nan,5430,7601000162052,,,419.0,1213.0,,,1632,hcp,servier
+Thomas Schwaller,Luzern,CH,nan,6004,7601000478924,,,428.0,591.0,,,1018,hcp,servier
+Thomas Winder,Zürich,CH,nan,8038,7601003321234,,,511.0,918.0,,,1429,hcp,servier
+Tobias Traupe,Bern,CH,nan,3004,7601000539755,,,419.0,1293.0,1200.0,,2912,hcp,servier
+Urs Schwarz,Breganzona,CH,nan,6932,7601000189752,,,,,400.0,,400,hcp,servier
+Valentina Forni,Locarno,CH,nan,6600,7601000818966,,,498.0,327.0,,,825,hcp,servier
+Victor Bancila,Genève,CH,nan,1205,7601000762320,,,428.0,551.0,,,979,hcp,servier
+Violetta Drögsler,Muri AG,CH,nan,5630,7601000165466,,,477.0,614.0,,,1091,hcp,servier
+Vito e Paola Spataro,Bellinzona,CH,nan,6500,7601000013101,,,,,600.0,,600,hcp,servier
+William Vernieri,Lugano,CH,nan,6900,7601000744692,,,428.0,473.0,,,901,hcp,servier
+Zacharie Nziya,La Chaux-de-Fonds,CH,nan,2300,7601000010919,,,356.0,607.0,,,964,hcp,servier
+Zoran Erlic,Zürich,CH,Toggwilerstrasse 23,8091,7601000884503,,,,,1000.0,,1000,hcp,servier
+Michail Kouros,Locarno,CH,nan,6600,7601000806024,,,,,600.0,,600,hcp,servier
+Marzia Conti Beltraminelli,Pregassona,CH,nan,6963,7601000187932,,,,,600.0,,600,hcp,servier
+Daniel Dindo,Zürich,CH,nan,8008,7601000429261,,,,,1500.0,,1500,hcp,servier
+Isabella Sudano,Zürich,CH,Klinik für Kardiologie - Universitätsspital  - Rämistrasse 100,8091,7601000733641,,,,,3600.0,,3600,hcp,servier
+Martin Kammerer,Rüschlikon,CH,nan,8803,7601000256294,,,,441.0,,,441,hcp,servier
+Thomas Felix Lüscher,Schlieren,CH,nan,8952,7601000089915,,,,,1956.0,,1956,hcp,servier
+Frank Ruschitzka,Zürich,CH,Ramistrasse 100,8091,7601000502186,,,,,1111.0,,1111,hcp,servier
+Antoinette Pechère-Bertschi,Genève,CH,nan,1205,7601000005373,,,401.0,914.0,1800.0,,3115,hcp,servier
+Arnaud Roth,Genève,CH,214 Route de Florissant,1205,7601000033352,,,,,1500.0,,1500,hcp,servier
+Beatrice Amann-Vesti,Zürich,CH,nan,8002,7601000517296,,,,,1500.0,,1500,hcp,servier
+Erich Seifritz,Zürich,CH,Ruettelerweg 3,8008,7601000117823,,,,,2500.0,,2500,hcp,servier
+Giatgen Spinas,Zürich,CH,Toggwilerstrasse 23,8091,7601000226556,,,,,3000.0,,3000,hcp,servier
+Gregor Hasler,Bern,CH,nan,3000,7601000353290,,,,,5100.0,,5100,hcp,servier
+Hans Rickli,St. Gallen,CH,Oberfeldweg 8,9007,7601000264701,,,,,1500.0,,1500,hcp,servier
+Markus Borner,Bern,CH,nan,3012,7601000090256,,,,,1500.0,,1500,hcp,servier
+Peter Wiesli,Frauenfeld,CH,nan,8500,7601000243041,,,,,1500.0,,1500,hcp,servier
+Vitalij Kazin,Schaffhausen,CH,nan,8200,7601003540581,,,428.0,627.0,,,1055,hcp,servier
+Yves Allemann,Bulle,CH,Chemin de Boulèyres 53,1630,7601000056719,,,,,1800.0,,1800,hcp,servier
+Mme Christelle Royer,Carouge GE,CH,nan,1227,RoyerChristelleCarouge,,,,,1300.0,,1300,hcp,servier
 ADAEL - Association D'Aesculape En Lavaux,Lutry,CH,Rue Verdaine,1095,AssociationD'AesculapeEnLavauxLutry,,2000.0,,,,,2000,hco,servier
 Aerztenetzwerk Grauholz,Ittigen,CH,Worblentalstrasse 99,3063,AerztenetzwerkGrauholzIttigen,,2000.0,,,,,2000,hco,servier
 AMC - Association Médecins de la Côte,Nyon,CH,Rue Neuve 6,1260,AMCNyon,,750.0,,,,,750,hco,servier
@@ -9524,26 +9524,26 @@ Filippo Scacchi,Locarno,CH,Via Antonio Ciseri 13,,,,,0.0,,500.0,63.0,563,hcp,tev
 Claudio Bonetti,Mendrisio,CH,Via Turconi 10,,,,,0.0,,500.0,29.0,529,hcp,teva
 Jochen Vehoff,St. Gallen,CH,Rorschacher Strasse 95,,,,,0.0,,500.0,,500,hcp,teva
 Stefanie Müller,St. Gallen,CH,Rorschacherstrasse 95,,,,,0.0,,1000.0,,1000,hcp,teva
-Anna‐Katarina Kovacic,St. Gallen,CH,Rorschacherstrasse 95,,,,,0.0,,500.0,,500,hcp,teva
+Anna-Katarina Kovacic,St. Gallen,CH,Rorschacherstrasse 95,,,,,0.0,,500.0,,500,hcp,teva
 Oleg Kurlandchikov,St. Gallen,CH,Schreinerstrasse 7,,,,,0.0,,500.0,,500,hcp,teva
 Till Patrick Betz,Münsterlingen,CH,Spitalcampus 1,,,,,0.0,,500.0,73.0,573,hcp,teva
 Robert Käufeler,St. Gallen,CH,Poststrasse 18,,,,,0.0,,500.0,,500,hcp,teva
 Philip Siebel,Frauenfeld,CH,Rosenbergstrasse 12/13,,,,,0.0,,500.0,,500,hcp,teva
 Karsten Beer,Wil SG,CH,Obere Bahnhofstrasse 49,,,,,0.0,,500.0,,500,hcp,teva
 Benedikt Buse,Luzern,CH,Alpenstrasse 4,,,,,0.0,,500.0,,500,hcp,teva
-Eva‐Maria Voss,Luzern,CH,Haldenstrasse 11,,,,,0.0,,500.0,,500,hcp,teva
+Eva-Maria Voss,Luzern,CH,Haldenstrasse 11,,,,,0.0,,500.0,,500,hcp,teva
 Petra Stellmes,Luzern,CH,Zürichstrasse 5,,,,,0.0,,500.0,,500,hcp,teva
 Regula Ehrbar,Luzern,CH,Alpenstrasse 1,,,,,0.0,,500.0,,500,hcp,teva
 Jürgen Schneider,Nottwil,CH,Guido A. Zäch Strasse 1,,,,,0.0,,500.0,50.0,550,hcp,teva
-Eva Gütling‐Vozenilek,Winterthur,CH,Marktgasse 44,,,,,0.0,,500.0,,500,hcp,teva
+Eva Gütling-Vozenilek,Winterthur,CH,Marktgasse 44,,,,,0.0,,500.0,,500,hcp,teva
 Joubin Gandjour,Lachen,CH,Oberdorfstrasse 41,,,,,0.0,,500.0,,500,hcp,teva
 Roland Mähler,Wohlen AG,CH,Bärengässli 7,,,,,0.0,,500.0,,500,hcp,teva
 Thomas Flückiger,St. Gallen,CH,Museumstrasse 41,,,,,0.0,,500.0,135.0,635,hcp,teva
 Andreas Horst,Winterthur,CH,Brauerstrasse 15,,,,,0.0,,500.0,,500,hcp,teva
 Katharina Kötter,Wohlen AG,CH,Bärengässli 7,,,,,0.0,,500.0,,500,hcp,teva
-Hansjörg Hungerbühler,Luzern,CH,St. Anna‐Strasse 32,,,,,0.0,,500.0,,500,hcp,teva
-Peter Christian Wyss‐Zuppiger,Winterthur,CH,Gertrudstrasse 1,,,,,0.0,,500.0,,500,hcp,teva
-Pierre‐Olivier Bridevaux,Genève,CH,Chemin Beau‐Soleil 4,,,,,0.0,,1050.0,,1050,hcp,teva
+Hansjörg Hungerbühler,Luzern,CH,St. Anna-Strasse 32,,,,,0.0,,500.0,,500,hcp,teva
+Peter Christian Wyss-Zuppiger,Winterthur,CH,Gertrudstrasse 1,,,,,0.0,,500.0,,500,hcp,teva
+Pierre-Olivier Bridevaux,Genève,CH,Chemin Beau-Soleil 4,,,,,0.0,,1050.0,,1050,hcp,teva
 Christian Clarenbach,Zürich,CH,Rämistrasse 100,,,,,0.0,,900.0,,900,hcp,teva
 Martin Frey,Rombach,CH,Gislifluhweg 12,,,,,0.0,,1050.0,,1050,hcp,teva
 Thomas Rothe,Feldis,CH,Dimurs 7,,,,,0.0,,2250.0,350.0,2600,hcp,teva
@@ -9568,10 +9568,10 @@ Sandra Schmid,Sarnen,CH,Brünigstrasse 181,,,,,303.0,419.0,,,722,hcp,teva
 Stefan Greuter,Sargans,CH,Bahnhofpark 2b,,,,,0.0,533.0,,,533,hcp,teva
 Meinrad Mannhart,Cham,CH,Rigistrasse 1,,,,,304.0,230.0,,,533,hcp,teva
 Adrian Schmidt,Zürich,CH,Birmendorferstrasse 497,,,,,304.0,630.0,,,933,hcp,teva
-Elisabeth Schmidt‐Weiss,Baden‐Dättwil,CH,Im Ergel 4,,,,,304.0,536.0,,,840,hcp,teva
+Elisabeth Schmidt-Weiss,Baden-Dättwil,CH,Im Ergel 4,,,,,304.0,536.0,,,840,hcp,teva
 Astrid Schönenberger,Langenthal,CH,Spital ,,,,,304.0,461.0,,,765,hcp,teva
 Roman Inauen,Münsterlingen,CH,Spitalcampus 1,,,,,304.0,437.0,,,740,hcp,teva
-Karl‐Theo Vinzent,Appenzell,CH,Rütistrasse 6,,,,,304.0,295.0,,,598,hcp,teva
+Karl-Theo Vinzent,Appenzell,CH,Rütistrasse 6,,,,,304.0,295.0,,,598,hcp,teva
 Andreas Bock,Zofingen,CH,Mühletalstrasse 27,,,,,0.0,261.0,,,261,hcp,teva
 Joseph Früh,Breitenbach,CH,Passwangstrasse 10,,,,,693.0,863.0,,,1556,hcp,teva
 Maja Strasser,Solothurn,CH,Hauptgsse 5,,,,,256.0,874.0,,,1130,hcp,teva
@@ -9584,8 +9584,8 @@ Eduna Grandjean,Onex,CH,24 Rue des Bossons,,,,,483.0,978.0,,,1462,hcp,teva
 Christophe Henny,LAUSANNE,CH,Avenue Bergiéres 2,,,,,483.0,972.0,,,1455,hcp,teva
 Peter John Myers,Genève,CH,"7, Ruelle du Couchant",,,,,483.0,1086.0,,,1570,hcp,teva
 Christopher Naegeli,Morges,CH,Chemin de la Brume 2/ CP,3144,,,,523.0,1008.0,,,1531,hcp,teva
-Phillipe Vuadens,Sion,CH,Avenue Grand ‐ Champsec 90,,,,,483.0,1086.0,,,1569,hcp,teva
-Christophe Bonvin,Sion,CH,Av. du Grand‐Champsec 80,,,,,483.0,1101.0,,,1585,hcp,teva
+Phillipe Vuadens,Sion,CH,Avenue Grand - Champsec 90,,,,,483.0,1086.0,,,1569,hcp,teva
+Christophe Bonvin,Sion,CH,Av. du Grand-Champsec 80,,,,,483.0,1101.0,,,1585,hcp,teva
 Ana Maria Gimeno Carrasco,Winterthur,CH,"Brauerstrasse 15, Postfach834",,,,,536.0,225.0,,,761,hcp,teva
 Gabriela Fuchs,Aarau,CH,Tellstrasse,,,,,536.0,333.0,,,869,hcp,teva
 Gabriela Popescu,Aarau,CH,Rain 34,,,,,536.0,434.0,,,970,hcp,teva
@@ -9600,33 +9600,33 @@ Marcus D'Souza,Basel,CH,Neurologie,,,,,429.0,574.0,,,1003,hcp,teva
 Jan Voss,Luzern,CH,Haldenstrasse 11,,,,,574.0,1155.0,,,1729,hcp,teva
 Stefanie Karin Müller,St. Gallen,CH,Rorschacherstrasse 95,,,,,429.0,1118.0,,,1547,hcp,teva
 Carla Andrea Wicki,Zürich,CH,Frauenklinikstrasse 26,,,,,0.0,1109.0,,,1109,hcp,teva
-Lucien Csizy‐Botond,Liestal,CH,Rheinstrasse 16,,,,,458.0,806.0,,,1264,hcp,teva
+Lucien Csizy-Botond,Liestal,CH,Rheinstrasse 16,,,,,458.0,806.0,,,1264,hcp,teva
 Claude Henri Diesch,Liestal,CH,Rheinstrasse 16,,,,,458.0,806.0,,,1264,hcp,teva
 Roger Eltbogen,Solothurn,CH,Rossmarktplatz 12,,,,,458.0,823.0,,,1280,hcp,teva
 Helene Esther Huldi,Solothurn,CH,Theatergasse 26,,,,,458.0,823.0,,,1280,hcp,teva
-Franziska Maurer‐Marti,Solothurn,CH,Schöngrünstrasse 42,,,,,458.0,823.0,,,1280,hcp,teva
+Franziska Maurer-Marti,Solothurn,CH,Schöngrünstrasse 42,,,,,458.0,823.0,,,1280,hcp,teva
 Daniel Thomann,Biel,CH,Blumenrain 105,,,,,458.0,925.0,,,1383,hcp,teva
-Suzanne Zakher‐Spichtig,Solothurn,CH,Schöngrünstrasse 42,,,,,458.0,799.0,,,1257,hcp,teva
-Alicia Caicedo Garcia,Morges,CH,Places‐Charles Dufour 3,,,,,458.0,727.0,,,1185,hcp,teva
-Dolores Carbajo Gonzalez,Morges,CH,Places‐Charles Dufour 3,,,,,458.0,725.0,,,1183,hcp,teva
+Suzanne Zakher-Spichtig,Solothurn,CH,Schöngrünstrasse 42,,,,,458.0,799.0,,,1257,hcp,teva
+Alicia Caicedo Garcia,Morges,CH,Places-Charles Dufour 3,,,,,458.0,727.0,,,1185,hcp,teva
+Dolores Carbajo Gonzalez,Morges,CH,Places-Charles Dufour 3,,,,,458.0,725.0,,,1183,hcp,teva
 Luis Eduardo Heer,Lausanne,CH,Avenue de Rumine 6,,,,,458.0,727.0,,,1185,hcp,teva
 Fernando Blanco,Yverdon-les-Bains,CH,Rue Entremonts 13,,,,,458.0,731.0,,,1188,hcp,teva
-Steffi Leu‐Heuse,Sarnen,CH,Brünigstrasse 181,,,,,458.0,912.0,,,1370,hcp,teva
+Steffi Leu-Heuse,Sarnen,CH,Brünigstrasse 181,,,,,458.0,912.0,,,1370,hcp,teva
 Dan Rauch,Luzern,CH,Weggisgasse 1,,,,,458.0,907.0,,,1365,hcp,teva
 Marco Steiner,Luzern,CH,Mühlenplatz 6,,,,,458.0,801.0,,,1259,hcp,teva
 Gabriela Beatrice Herrmann Stavarache,Luzern,CH,Winkelriedstrasse 35,,,,,458.0,836.0,,,1294,hcp,teva
 Alexandra Prtilo,Luzern,CH,Obergrundstrasse 44,,,,,458.0,813.0,,,1271,hcp,teva
 Beatrice Elisabeth Vollenweider,Männedorf,CH,Bergstrasse 37,,,,,458.0,832.0,,,1289,hcp,teva
 Claus Platten,Schaffhausen,CH,Vordersteig 23,,,,,458.0,804.0,,,1262,hcp,teva
-Sylvia Baumann Kurer,Winterthur,CH,St. Georgen‐Strasse 70,,,,,286.0,989.0,,,1275,hcp,teva
+Sylvia Baumann Kurer,Winterthur,CH,St. Georgen-Strasse 70,,,,,286.0,989.0,,,1275,hcp,teva
 Dirk Lars Kienle,Chur,CH,Loëstrasse 170,,,,,557.0,1017.0,,,1574,hcp,teva
-Christina Elisabeth Schneider‐Taverna,Münsterlingen,CH,Spitalcampus 1,,,,,286.0,666.0,,,953,hcp,teva
+Christina Elisabeth Schneider-Taverna,Münsterlingen,CH,Spitalcampus 1,,,,,286.0,666.0,,,953,hcp,teva
 Christian Johannes Taverna,Münsterlingen,CH,Spitalcampus 1,,,,,286.0,666.0,,,953,hcp,teva
 Beate Theresia Maria Gleissner,Bäch,CH,Seestrasse 164,,,,,557.0,1236.0,,,1793,hcp,teva
 Nerbil Kilic,Zürich,CH,Dept. Innere Medizin undSpezialdiszipl.,,,,,0.0,1017.0,,,1017,hcp,teva
 David Thorn,Basel,CH,Lange Gasse 78,,,,,286.0,920.0,,,1206,hcp,teva
 Kathi Ging,Buchs,CH,Aarauerstrasse 8,,,,,0.0,429.0,,,429,hcp,teva
-Andrea Tasalan‐Skupin,Gossau,CH,Herisauerstrasse 36,,,,,304.0,740.0,,,1044,hcp,teva
+Andrea Tasalan-Skupin,Gossau,CH,Herisauerstrasse 36,,,,,304.0,740.0,,,1044,hcp,teva
 Anne Sabine Mugglin Vitiello,Solothurn,CH,Schöngrünstrasse 42,,,,,304.0,517.0,,,821,hcp,teva
 Barbara Vogel Wigger,Zürich,CH,Talstrasse 6,,,,,340.0,0.0,,,340,hcp,teva
 Carlo Albani,Zürich,CH,"Bahnhofplatz 5, Postfach",,,,,304.0,527.0,,,831,hcp,teva
@@ -9634,7 +9634,7 @@ Laura Urben,Gümligen,CH,Worbstrasse 312,,,,,304.0,521.0,,,825,hcp,teva
 Manuela Weik,Amriswil,CH,Bahnhofstrasse 42,,,,,304.0,740.0,,,1044,hcp,teva
 Sven Schippling,Zürich,CH,Rämistrasse 100,,,,,,,2700.0,,2700,hcp,teva
 Andrea Monika Humm,Fribourg,CH,Chemin des Pensionnats 2,,,,,304.0,517.0,,,821,hcp,teva
-"GRSSGO, c/o meeting.com Sàrl, CongressOrganisation",Cheseaux‐sur‐Lausanne,CH,Rue des Pâquis 1,,,,3310.0,,,,,3310,hco,teva
+"GRSSGO, c/o meeting.com Sàrl, CongressOrganisation",Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,,,,3310.0,,,,,3310,hco,teva
 "20. Ostschweizer Symposium für praktischeGynäkologie und Geburtshilfe, KMS KongressManagementSwiss",Bern,CH,Postfach,2756,,,2995.0,,,,,2995,hco,teva
 "Schweizerische Gesellschaft fürPsychoonkolgoie (SGPO), Sekretariat SGPO c/o Krebsliga Schweiz",Bern,CH,Effingerstrasse 40Postfach,8219,,,2000.0,,,,,2000,hco,teva
 SAKK,Bern,CH,Effingerstrasse 33,,,,4000.0,,,,,4000,hco,teva
@@ -9644,7 +9644,7 @@ Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,,2500.0,,,,,2500,hco,t
 "Stadtspital Triemli Zürich, Klinik für Medizinische Onkologie und Hämatologie",Zürich,CH,Birmernsdorferstrasse 497,,,,2000.0,,,,,2000,hco,teva
 "UniversitätsSpital Zürich, Klinik für Onkologie",Zürich,CH,Rämistrasse 100,,,,2500.0,,,,,2500,hco,teva
 Kantonspital Baden AG,Baden,CH,Im Ergel 1,,,,2000.0,,,,,2000,hco,teva
-Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher‐Strasse 95,,,,1000.0,,,,,1000,hco,teva
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher-Strasse 95,,,,1000.0,,,,,1000,hco,teva
 "Servizio di Ematologia, Instituto Oncologicodella Svizzera Italiana e Laboratorio di Ematologia, EOLAB",Bellinzona,CH,Ospedale San Giovanni,,,,2000.0,,,,,2000,hco,teva
 "Universitätsspital Basel, Onkologie",Basel,CH,Petersgraben 4,,,,1500.0,,,,,1500,hco,teva
 Diakonie Bethanien,Zürich,CH,Buckhauserstrasse 36,,,,1500.0,,,,,1500,hco,teva
@@ -9655,15 +9655,15 @@ Kantonsspital Graubünden,Chur,CH,Loëstrasse 170,,,,1500.0,,,,,1500,hco,teva
 Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,,1400.0,,,,,1400,hco,teva
 Schweizerische Gesellschaft fürReproduktionsmedizin,Worb,CH,nan,,,,3260.0,,,,,3260,hco,teva
 Onkologiepflege Schweiz,Kleinandelfingen,CH,Hirstigstrasse 13,,,,3750.0,,,,,3750,hco,teva
-"Freiburger Verein der Palliative‐Care, p.a. AFIPA",Fribourg,CH,Route Saint‐Nicolas‐de‐ Flüe 2,,,,1000.0,,,,,1000,hco,teva
-Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher‐Strasse 95,,,,5280.0,,,,,5280,hco,teva
+"Freiburger Verein der Palliative-Care, p.a. AFIPA",Fribourg,CH,Route Saint-Nicolas-de- Flüe 2,,,,1000.0,,,,,1000,hco,teva
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher-Strasse 95,,,,5280.0,,,,,5280,hco,teva
 Schweizerische Gesellschaft für Gynäkologieund Geburtshilfe,Bern,CH,nan,,,,19500.0,,,,,19500,hco,teva
 Zentrum für Integrative Onkologie (ZIO AG),Zürich,CH,Hardturmstrasse 133,,,,3000.0,,,,,3000,hco,teva
 Palliative so,Laufen,CH,Wahlenstrasse 56,,,,1000.0,,,,,1000,hco,teva
 Tumorzentrum ZeTuP,Rapperswil,CH,Alte Jonastrasse 24,,,,500.0,,,,,500,hco,teva
 "Universitätsspital Basel, Onkologie",Basel,CH,Petersgraben 4,,,,1500.0,,,,,1500,hco,teva
-CHUV,Lausanne,CH,Avenue Pierre‐Decker 2,,,,0.0,,,900.0,,900,hco,teva
-CHUV,Lausanne,CH,Avenue Pierre‐Decker 2,,,,0.0,,,1350.0,767.0,2117,hco,teva
+CHUV,Lausanne,CH,Avenue Pierre-Decker 2,,,,0.0,,,900.0,,900,hco,teva
+CHUV,Lausanne,CH,Avenue Pierre-Decker 2,,,,0.0,,,1350.0,767.0,2117,hco,teva
 Kantonsspital Baselland,Liestal,CH,Mühlenmattstrasse 26,,,,0.0,,,1350.0,,1350,hco,teva
 fertisuisse AG,Olten,CH,Tannwaldstrasse 2,,,,0.0,,,1350.0,,1350,hco,teva
 fertisuisse AG,Olten,CH,Tannwaldstrasse 2,,,,0.0,,,1350.0,51.0,1401,hco,teva
@@ -9681,12 +9681,12 @@ Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,,1500.0,,,,,1500,
 "Kantonsspital Aarau AG, Neurologische Klinik",Aarau,CH,Tellstrasse,,,,3000.0,,,,,3000,hco,teva
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,,2000.0,,,,,2000,hco,teva
 "Inselgruppe AG, Inselspital Bern",Bern,CH,Freiburgstrasse,,,,3000.0,,,,,3000,hco,teva
-"Inselgruppe AG, Inselspital Bern,Universitäres Schlaf‐Wach‐Epilepsie‐Zentrum SWEZ",Bern,CH,Freiburgstrasse 4,,,,1000.0,,,,,1000,hco,teva
+"Inselgruppe AG, Inselspital Bern,Universitäres Schlaf-Wach-Epilepsie-Zentrum SWEZ",Bern,CH,Freiburgstrasse 4,,,,1000.0,,,,,1000,hco,teva
 "Schweizerische Neurologische Gesellschaft, c/o IMK AG",Basel,CH,Münsterberg 1,,,,18000.0,,,,,18000,hco,teva
 "Universitätsspital Basel, Neurologische Klinikund Poliklinik",Basel,CH,Petersgraben 4,,,,2000.0,,,,,2000,hco,teva
 "Neurozentrum Aarau, Hirslanden Medical Center",Aarau,CH,Rain 34,,,,2000.0,,,,,2000,hco,teva
 Ospedale Regionale di Lugano,Lugano,CH,Via Tesserete 46,,,,2500.0,,,,,2500,hco,teva
-Hôpital Riviera‐Chablais,Monthey,CH,Rte de Morgins,,,,1500.0,,,,,1500,hco,teva
+Hôpital Riviera-Chablais,Monthey,CH,Rte de Morgins,,,,1500.0,,,,,1500,hco,teva
 Ospedale Regionale di Lugano,Lugano,CH,Via Tesserete 46,,,,2500.0,,,,,2500,hco,teva
 Schweizerische Multiple Sklerose Gesellschaft,Zürich,CH,Josefstrasse 129,,,,20000.0,,,,,20000,hco,teva
 "Insel Gruppe AG, Inselspital Bern,Universitätsklinik für Neurologie",Bern,CH,Freiburgstrasse 18,,,20000.0,,,,,,20000,hco,teva
@@ -9695,7 +9695,7 @@ Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,,,10000.0,,,,,,10000,hco,teva
 Ospedale Regionale di Lugano,Lugano,CH,Via Tesserete 46,,,45000.0,,,,,,45000,hco,teva
 Schweizerische Multiple Sklerose Gesellschaft,Zürich,CH,Josefstrasse 129,,,15000.0,,,,,,15000,hco,teva
 "Schweizerische Gesellschaft fürIntensivmedizin, c/o IMK Institut für Medizin und Kommunikation AG",Basel,CH,Münsterberg 1,,,,2560.0,,,,,2560,hco,teva
-"Geschäftsstelle SNG‐SSN, IMK Institut für Medizin und Kommunikation AG",Basel,CH,Münsterberg 1,,,,24040.0,,,,,24040,hco,teva
+"Geschäftsstelle SNG-SSN, IMK Institut für Medizin und Kommunikation AG",Basel,CH,Münsterberg 1,,,,24040.0,,,,,24040,hco,teva
 "Insel Gruppe AG, Universitätsklinik fürNeurologie",Bern,CH,Freiburgstrasse,,,,0.0,,,1000.0,,1000,hco,teva
 "Luzerner Kantonsspital, Zentrum fürNeurologie und Neurorehabilitation",Luzern,CH,Spitalstrasse,,,,0.0,,,1000.0,,1000,hco,teva
 "Kantonsspital St. Gallen, Klinik für Pneumologie und Schlafmedizin",St. Gallen,CH,Rorschacherstrasse 95,,,,0.0,,,1050.0,,1050,hco,teva
@@ -10344,7 +10344,7 @@ SGNP - Schweiz. Gesellschaft für Neuropädiatrie,Oberentfelden,CH,Blumenweg 13,
 SGPGHE/SSGHNP - Schweizerische Gesellschaft für Pädiatrische Gastroenterologie,Rorschacherberg,CH,Hepatologie und Ernärung,,,,1500.0,,,,,1500.0,hco,vifor
 SGPP - Schweizerische Gesellschaft für Psychiatrie und Psychotherapie,Bern,CH,Postfach 686,,,,46872.0,,,,,46872.0,hco,vifor
 SGZ - Schweizerische Gesellschaft für Zwangsstörungen,Zürich,CH,Culmannstrasse 8,,,,2000.0,,,,,2000.0,hco,vifor
-SMCCV Schweiz. Morbus Crohn Colitis ulcerosa Vereinigung,Aarau,CH,--,,,,2000.0,,,,,2000.0,hco,vifor
+SMCCV Schweiz. Morbus Crohn Colitis ulcerosa Vereinigung,Aarau,CH,,,,,2000.0,,,,,2000.0,hco,vifor
 Società Svizzera di Medicina Interna Generale del Canton Ticino (SSMIG - TI),Paradiso,CH,Via General Guisan 10,,,,1000.0,,,,,1000.0,hco,vifor
 Société Suisse pour la mucoviscidose (CFCH),Bern,CH,Alterbergstrasse 29,,,,,,,21800.0,,21800.0,hco,vifor
 Solothurner Spitäler AG soH,Solothurn,CH,Schöngrünstrasse 36a,,,,,,,850.0,,850.0,hco,vifor
