@@ -22,6 +22,24 @@ pip install -r requirements.txt
 For OCR-Recognition, we used Abbeyy Finereader. It's not for free, but worth it.
 https://www.abbyy.com/de-de/finereader/
 
+**Install libPostal**  
+Have a look at the [GitHub Repository](https://github.com/openvenues/libpostal/). On Mac, do the following:
+```bash
+brew install curl autoconf automake libtool pkg-config
+
+git clone https://github.com/openvenues/libpostal
+cd libpostal
+./bootstrap.sh
+./configure --datadir=[...some dir with a few GB of space...]
+make -j4
+sudo make install
+
+# On Linux it's probably a good idea to run
+sudo ldconfig
+```
+
+If `pip install postal` throws an error, install `pip install nose` first.
+
 ## Procedure
 ### Step 1 - Export data
 In the Folder [data/1. pdfexport/files](data/1.%20pdfexport/files/) you will find a subfolder for each pharmaceutical company. Put the PDFs (if available) there. Each folder needs to files:
