@@ -13,8 +13,8 @@ import time
 # ## Read Data
 
 #%%
-df = pd.read_csv('2. list_expanded.csv')
-#df = pd.read_csv('../../data/3. transformation/2. list_expanded.csv')
+#f = pd.read_csv('2. list_expanded.csv')
+d#f = pd.read_csv('../../data/3. transformation/2_list_expanded.csv')
 df_hcp = df[df.type == 'hco'].copy()
 df_hcp['address'] = df_hcp['address'].fillna("")
 
@@ -89,7 +89,7 @@ print('Finished in: ' + str(round(elapsed_time / 60, 2)) + ' minutes')
 
 #%%
 df_hcp.to_csv('3. hco_matches.csv', index=True)
-#df_hcp.to_csv('../../data/3. transformation/3. hco_matches.csv', index=True)
+#df_hcp.to_csv('../../data/3. transformation/3_hco_matches.csv', index=True)
 
 
 #%%
