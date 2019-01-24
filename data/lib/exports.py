@@ -9,12 +9,12 @@ import consts
     Export to Excel
 
 """
-def write_to_excel(dataset, exportfile, open=False):
+def write_to_excel(dataset, exportfile, open=False, index=False):
     #select writer
     writer = pd.ExcelWriter(exportfile, options={'encoding':'utf-8'})
 
     # Write the frame to excel
-    dataset.to_excel(writer, 'daten', index=False) 
+    dataset.to_excel(writer, 'daten', index=index) 
     
     writer.save()
 
