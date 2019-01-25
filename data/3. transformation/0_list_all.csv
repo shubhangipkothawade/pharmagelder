@@ -453,7 +453,7 @@ Universitätsspital Basel,Basel,CH,Spitalstrasse 21,,,50000.0,25450.0,1112.0,172
 UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,,,3000.0,24200.0,,,4568.0,138.0,31906.0,hco,abbvie
 VBA Vereinigung Bernischer Anästhesiologen,Bern,CH,c/o Dr. med Rafael Knüsel,,,,1000.0,,,,,1000.0,hco,abbvie
 Verein klinischer Krebsforschung Zentralschweiz,Luzern,CH,Spitalstrasse,,,,1000.0,,,,,1000.0,hco,abbvie
-vertreten durch Dr. Masimo Valerio,Basel,CH,"c/o: Congrex Schweiz AG, Peter Merian-Str. 80",,,,5000.0,,,,,5000.0,hco,abbvie
+Congrex Schweiz AG,Basel,CH,Peter Merian-Str. 80,,,,5000.0,,,,,5000.0,hco,abbvie
 VGZ Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 60,,,,3500.0,,,,,3500.0,hco,abbvie
 Zentralschweizer Dermatologen,Luzern,CH,Löwengraben 14,,,,1000.0,,,,,1000.0,hco,abbvie
 Alexandra Maria Groth,Zürich,CH,Rämistrasse 100,,,,,707.0,1456.0,,,2163.0,hcp,actelion
@@ -4089,7 +4089,7 @@ Mouna Skaria,Vevey,CH,Rue de Lausanne 15,,7601000669216,,,,,1269.25,,1269.25,hcp
 Marco Adrian Stieger,Bern,CH,"Dermatologische Klinik Inselspital Inselspital Bern, Insel Gruppe AG Freiburgstrasse 18",,7601000865397,,,,,1000.0,,1000.0,hcp,galderma
 Christian Tschager,Zuchwil,CH,Gemeinschaftspraxis am Kreisel Hauptstrasse 60,,7601000922984,,,,522.0,,,522.0,hcp,galderma
 Nicholas Waughlock,Zurich,CH,Klausstrasse 10,,7601003523348,,,,,1242.7,,1242.7,hcp,galderma
-Volker Wedler,Kreuzlingen,CH,NAN,,7601000404282,,,,,8311.45,,8311.45,hcp,galderma
+Volker Wedler,Kreuzlingen,CH,,,7601000404282,,,,,8311.45,,8311.45,hcp,galderma
 Ingo Wollenschläger,Grenchen,CH,Artemedic AG Kirchstrasse 10,,7601003391091,,,,829.25,,,829.25,hcp,galderma
 Myriam Wyss,Meilen,CH,Dorfstrasse 94,,7601000224293,,,,,1230.85,,1230.85,hcp,galderma
 Thomas Würsch,Zürich,CH,Bahnhofstrasse 14,,7601000199874,,,,,1400.7,,1400.7,hcp,galderma
@@ -4108,7 +4108,7 @@ Groupe des Dermatologues Genève GDG,Genève,CH,Chemin Malombré 5,,Groupe_des_D
 Hôpitaux Universitaire Genève - Unité de Dermatopathologie,Geneve,CH,Rue Gabrielle-Perret- Gentil 4,,HUG- Unite_de_Dermatopat hologie,,500.0,,,1000.0,,1500.0,hco,galderma
 Hôpitaux Universitaire Genève,Genève,CH,Rue Gabrielle-Perret- Gentil 4,,Hopitaux_Universitaire _Geneve,,3000.0,,,,,3000.0,hco,galderma
 Inselspital / Institut für Pharmakologie,Bern,CH,Freiburgstrasse 4,,Inselspital_Institut_fur_ Pharmakologie,,,,,3150.0,,3150.0,hco,galderma
-Kantonssital Aarau AG / Klinik für Kinder und Jugendliche,Aarau,CH,Tellstrasse,,Kantonssital_Aarau_A G_Klinik_fur_Kinder_u nd_Jugendliche,,500.0,,,,,500.0,hco,galderma
+Kantonsspital Aarau AG / Klinik für Kinder und Jugendliche,Aarau,CH,Tellstrasse,,Kantonssital_Aarau_A G_Klinik_fur_Kinder_u nd_Jugendliche,,500.0,,,,,500.0,hco,galderma
 "Kantonsspital St. Gallen / Klinik für Dermatologie, Venerologie, Allergologie",St. Gallen,CH,Rorschacher Strasse 95,,,,4500.0,,,,,4500.0,hco,galderma
 LE CHUV,Lausanne,CH,Rue du Bugnon 21,,LE_CHUV_1011,,5000.0,,,5000.0,,10000.0,hco,galderma
 Luzerner Kantonsspital / Kinderspital,Luzern,CH,Spitalstrasse,,Luzerner_Kantonsspit al_Kinderspital,,500.0,,,,,500.0,hco,galderma
