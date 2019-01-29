@@ -123,7 +123,7 @@
 2612,Alex Steinacher,Müllheim,CH,Hintere Gärten 8,,7601000233738,,,0.0,0.0,200.0,0.0,200.0,hcp,glaxosmithkline,hintere gaerten 8,muellheim,4009,30,29,39,98,"name=100,location=100,address=100,total=300"
 4009,Alex Steinacher,Müllheim Dorf,CH,"Ärztezentrum Müllheim AG, Hintere Gärten 8",,,0,0,150.00,351.00,0,0,501.00,hcp,novartis,aerztezentrum muellheim ag hintere gaerten 8,muellheim dorf,4010,30,21,31,82,"name=80,location=100,address=100,total=280"
 2653,Alex Straumann,Olten,CH,Römerstrasse 7,,7601000150080,,,0.0,0.0,889.12,0.0,889.12,hcp,glaxosmithkline,roemerstrasse 7,olten,2653,31,20,55,106,
-4032,Alexandar Tzankov,Basel,CH,"Universitätsspit al  Pathologie, Schönbeinstrasse 40",,,0,0,0,0,800.00,0,800.00,hcp,novartis,universitaetsspit allee pathologie schoenbeinstrasse 40,basel,4032,34,100,29,163,
+4032,Alexandar Tzankov,Basel,CH,"Universitätsspital  Pathologie, Schönbeinstrasse 40",,,0,0,0,0,800.00,0,800.00,hcp,novartis,universitaetsspital pathologie schoenbeinstrasse 40,basel,4032,34,100,31,165,
 2806,Alexander Andreas Navarini,Zürich,CH,Gloriastrasse 31,8091,,,,,,1250.0,,1250.0,hcp,leo,gloriastrasse 31,zuerich,1930,26,17,40,83,"name=100,location=100,address=100,total=300"
 1930,Alexander Andreas Navarini,Zürich,CH,Gloriastrasse 31,,WCHM05136114,,,595.65,117.92,,311.1,1024.67,hcp,celgene,gloriastrasse 31,zuerich,3901,26,17,40,83,"name=100,location=100,address=100,total=300"
 3496,Alexander Brandenberger,Basel,CH,Universitäre Psychiatrische Dienste,,,,,81.0,561.0,,,642.0,hcp,mundipharma,universitaere psychiatrische dienste,basel,3496,34,100,32,166,
@@ -158,9 +158,9 @@
 852,Alexander Möller,Zürich,CH,Universitäts-Kinderspital  Steinwiesstrasse 75,,,0.0,0.0,0.0,0.0,3375.0,0.0,3375.0,hcp,astrazeneca,universitaets-kinderspital steinwiesstrasse 75,zuerich,852,37,17,30,84,
 186,Alexander Müller,Schlieren,CH,Urdorferstrasse 100,,,,,316.0,971.0,,,1287.0,hcp,abbvie,urdorferstrasse 100,schlieren,3107,37,29,42,108,"name=100,location=100,address=97,total=297"
 3107,Alexander Müller,Schlieren,CH,Urdortferstrasse 100,,,,,196.1,235.8,5900.0,,6331.9,hcp,menarini,urdortferstrasse 100,schlieren,3107,37,29,47,113,
-3901,Alexander Navarini,Zürich,CH,"Universitätsspit al  Dermatologische Klinik, Gloriastrasse 31",,,0,0,0,0,1250.00,0,1250.00,hcp,novartis,universitaetsspit allee dermatologische klinik gloriastrasse 31,zuerich,2806,33,17,26,76,"name=100,location=100,address=100,total=300"
+3901,Alexander Navarini,Zürich,CH,"Universitätsspital  Dermatologische Klinik, Gloriastrasse 31",,,0,0,0,0,1250.00,0,1250.00,hcp,novartis,universitaetsspital dermatologische klinik gloriastrasse 31,zuerich,2806,33,17,27,77,"name=100,location=100,address=100,total=300"
 3457,Alexander Pavlovic,Carouge,CH,Centre cardio-pulmonaire,,,,,147.0,523.0,,,670.0,hcp,mundipharma,centre cardio-pulmonaire,carouge,3457,33,33,32,98,
-3925,Alexander Petersen,Zürich,CH,"Universitätsspit al  Medizin Neurologie, Frauenklinikstra sse 26",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,universitaetsspit allee medizin neurologie frauenklinikstra sse 26,zuerich,3925,33,17,22,72,
+3925,Alexander Petersen,Zürich,CH,"Universitätsspital  Medizin Neurologie, Frauenklinikstrasse 26",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,universitaetsspital medizin neurologie frauenklinikstrasse 26,zuerich,3925,33,17,24,74,
 4255,Alexander Pinzello,Bülach,CH,Grabengasse 12,,,,,,398.0,1000.0,,1398,hcp,novo,grabengasse 12,buelach,3130,40,50,50,140,"name=100,location=100,address=100,total=300"
 5492,Alexander Pinzello,B CH ach,CH,Gemeinschaftspraxis Grabengasse 12,8180,,0,0,0,0,500.00,0,500.00,hcp,takeda,gemeinschaftspraxis grabengasse 12,bas chemin ancien chemin,5492,40,36,46,122,
 3130,Alexander Pinzello-Hürlimann,Bülach,CH,Grabengasse 12,,,,,58.6,620.1,,,678.7,hcp,menarini,grabengasse 12,buelach,5213,36,50,50,136,"name=100,location=100,address=100,total=300"
@@ -212,7 +212,7 @@
 4269,Alexandre Rey,Lausanne,CH,Rue Bellefontaine 2,,,,,813.0,4196.0,,,5009,hcp,novo,rue bellefontaine 2,lausanne,5219,40,46,36,122,"name=100,location=100,address=100,total=300"
 5219,Alexandre Rey,Lausanne,CH,Cabinet de groupe  Rue Bellefontaine 2,1003,,,,,,800.0,,800.0,hcp,sanofi,cabinet de groupe rue bellefontaine 2,lausanne,5219,40,46,27,113,
 3959,Alexandre Ronga,Lausanne,CH,"Centre Medical de La Source, Avenue Alexandre-Vinet 30 / 32",,,0,0,0,0,600.00,0,600.0,hcp,novartis,centre medical de la source avenue alexandre-vinet 30 32,lausanne,3959,37,46,23,106,
-4022,Alexandre Theocharides,Zürich,CH,"Universitätsspit al  Medizin Hämatologie, Ränistrasse 106",,,0,0,0,0,2700.00,0,2700.00,hcp,novartis,universitaetsspit allee medizin haematologie raenistrasse 106,zuerich,4022,29,17,27,73,
+4022,Alexandre Theocharides,Zürich,CH,"Universitätsspital  Medizin Hämatologie, Rämistrasse 106",,,0,0,0,0,2700.00,0,2700.00,hcp,novartis,universitaetsspital medizin haematologie raemistrasse 106,zuerich,4022,29,17,28,74,
 4194,Alexis Hyde,Genève,CH,Rue de Contamines 26,,,,,,,800.0,,800,hcp,novo,rue de contamines 26,geneve,4194,35,18,35,88,
 5789,Alf Corsenca,Uster,CH,"Nieren- und Dialysezentrum, Oberlandstrasse 102",,,,,346.73,729.46,800.0,,1876.19,hcp,vifor,nieren und dialysezentrum oberlandstrasse 102,uster,5789,33,40,34,107,
 3079,Alfons Loher,St. Gallen,CH,Vadianstrasse 59,,,,,130.7,157.2,,,287.9,hcp,menarini,vadianstrasse 59,saint gallen,5932,33,24,33,90,"name=100,location=100,address=100,total=300"
@@ -315,9 +315,9 @@
 5791,Andreas Dällenbach,Basel,CH,"Praxis Dr. Dällenbach Andreas, Weisse Gasse 3",,,,,304.68,426.2,,,730.88,hcp,vifor,praxis doktor daellenbach andreas weisse gasse 3,basel,5791,21,100,26,147,
 359,Andreas Ebneter,Bern,CH,"Inselgruppe AG, Freiburgstrasse 4",3010,,,,,,800.0,70.0,870.0,hcp,allergan,inselgruppe ag freiburgstrasse 4,bern,359,30,44,39,113,
 862,Andreas Fischer,Schaffhausen,CH,"Medizinische Klinik, Kardiologie Geissbergstrasse 81",,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca,medizinische klinik kardiologie geissbergstrasse 81,schaffhausen,862,30,35,28,93,
-3726,Andreas Flammer,Zürich,CH,"Universitätsspit al  Medizin Kardiologie, Ränistrasse 100",,,0,0,0,0,3935.00,0,3935.00,hcp,novartis,universitaetsspit allee medizin kardiologie raenistrasse 100,zuerich,3726,30,17,24,71,
-5824,Andreas Flammer,Zürich,CH,"UniversitätsSpital , Rämistrasse 100",,,,,,,1500.0,,1500.0,hcp,vifor,universitaetsspital raemistrasse 100,zuerich,4339,30,17,32,79,"name=100,location=100,address=94,total=294"
-4339,Andreas Flammer,Zürich,CH,"Universitätsspital ,Rämistr.100",8091,,,,,1053.24,,,1053.24,hcp,orion,universitaetsspital raemistr.100,zuerich,4339,30,17,35,82,
+3726,Andreas Flammer,Zürich,CH,"Universitätsspital  Medizin Kardiologie, Rämistrasse 100",,,0,0,0,0,3935.00,0,3935.00,hcp,novartis,universitaetsspital medizin kardiologie raemistrasse 100,zuerich,5824,30,17,26,73,"name=100,location=100,address=100,total=300"
+5824,Andreas Flammer,Zürich,CH,"UniversitätsSpital , Rämistrasse 100",,,,,,,1500.0,,1500.0,hcp,vifor,universitaetsspital raemistrasse 100,zuerich,4339,30,17,32,79,"name=100,location=100,address=100,total=300"
+4339,Andreas Flammer,Zürich,CH,"Universitätsspital ,Rämistr. 100",8091,,,,,1053.24,,,1053.24,hcp,orion,universitaetsspital raemistrasse 100,zuerich,3726,30,17,32,79,"name=100,location=100,address=100,total=300"
 3212,Andreas Gantenbein,Bad Zurzach,CH,Quellenstrasse 34,,,,,0.0,,1500.0,,1500,hcp,mepha,quellenstrasse 34,bad zurzach,458,27,25,52,104,"name=100,location=100,address=100,total=300"
 458,Andreas Gantenbein,Bad Zurzach,CH,Quellenstrasse 34,,,,,,,1000.0,,1000.0,hcp,almirall,quellenstrasse 34,bad zurzach,3739,27,25,52,104,"name=100,location=100,address=100,total=300"
 3739,Andreas Gantenbein,Bad Zurzach,CH,"RehaClinic  Medizin Neurologie, Quellenstrasse 34",,,0,0,0,0,6625.00,2678.70,9303.70,hcp,novartis,rehaclinic medizin neurologie quellenstrasse 34,bad zurzach,3212,27,25,33,85,"name=100,location=100,address=100,total=300"
@@ -333,7 +333,7 @@
 3038,Andreas Hartmann,Rorschach,CH,Marktplatz 9,,,,,207.6,561.9,,,769.5,hcp,menarini,marktplatz 9,rorschach,3038,29,14,23,66,
 4383,Andreas Himmelmann,Luzern,CH,Sankt Annastrasse 32,,,,,,,1000.0,,1000.0,hcp,otsuka,sankt annastrasse 32,luzern,3784,27,18,35,80,"name=100,location=100,address=100,total=300"
 3784,Andreas Himmelmann,Luzern,CH,OnkoZentrum « St. Anna-Strasse 32,,,0,0,0,0,850.00,0,850.00,hcp,novartis,onkozentrum sankt annastrasse 32,luzern,3784,27,18,30,75,
-3785,Andreas Hochstrasser,Männedorf,CH,Spital  AG Medizin Onkologie« Asylstrasse 10,,,0,0,0,0,800.00,0,800.00,hcp,novartis,spital ag medizin onkologie<< asylstrasse 10,maennedorf,4825,25,27,21,73,"name=100,location=100,address=100,total=300"
+3785,Andreas Hochstrasser,Männedorf,CH,Spital  AG Medizin Onkologie Asylstrasse 10,,,0,0,0,0,800.00,0,800.00,hcp,novartis,spital ag medizin onkologie asylstrasse 10,maennedorf,4825,25,27,21,73,"name=100,location=100,address=100,total=300"
 864,Andreas Hochstrasser,Männedorf,CH,Onkologie Zentrum Asylstrasse 10,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca,onkologie zentrum asylstrasse 10,maennedorf,4825,25,27,30,82,"name=100,location=100,address=100,total=300"
 593,Andreas Hochstrasser,St. Gallen,CH,Rorschacherstrasse 95,,,,,117.0,58.5,,,175.5,hcp,amgen,rorschacherstrasse 95,saint gallen,593,25,24,40,89,
 4825,Andreas Hochstrasser,Männedorf,CH,Asylstrasse 10,8708,,,,794.5,743.63,0.0,0.0,1538.13,hcp,roche,asylstrasse 10,maennedorf,4825,25,27,36,88,
@@ -602,11 +602,11 @@
 3670,Astrid Busslinger,Schlieren,CH,"Gruppenpraxis, Zürcherstrasse 4",,,0,0,0,0,1200.00,0,1200.00,hcp,novartis,gruppenpraxis zuercherstrasse 4,schlieren,3670,41,29,44,114,
 4577,Astrid Jüngel,Zürich,CH,Gloriastrasse 25,,,,0,551,1088,0,0,1640,hcp,pfizer,gloriastrasse 25,zuerich,4577,33,17,40,90,
 1120,Astrid Pechtel,Altstätten,CH,Rorschacherstrasse 14a,,,,,0.0,815.4,0.0,0.0,815.4,hcp,baxter,rorschacherstrasse 14a,altstaetten,1120,23,38,44,105,
-3980,Astrid Schmidt,Bern,CH,"Rheumatologische Praxis, Bremgartenstrass e 119",,,0,0,860.00,300.00,0,0,1160.00,hcp,novartis,rheumatologische praxis bremgartenstrass e 119,bern,3980,23,44,30,97,
+3980,Astrid Schmidt,Bern,CH,"Rheumatologische Praxis, Bremgartenstrasse 119",,,0,0,860.00,300.00,0,0,1160.00,hcp,novartis,rheumatologische praxis bremgartenstrasse 119,bern,4692,23,44,31,98,"name=100,location=100,address=100,total=300"
 5584,Astrid Schönenberger,Langenthal,CH,Spital ,,,,,304.0,461.0,,,765,hcp,teva,spital,langenthal,5584,32,40,30,102,
 721,Astrid Schönenberger,Aarau,CH,Tellstrasse,,,,,290.25,1306.19,,,1596.44,hcp,amgen,tellstrasse,aarau,721,32,20,48,100,
 4692,Astrid-Maria Schmidt,Bern,CH,Bremgartenstrasse 119,,,,0,0,0,930,0,930,hcp,pfizer,bremgartenstrasse 119,bern,1946,25,44,46,115,"name=100,location=100,address=100,total=300"
-1946,Astrid-Maria Schmidt,Bern,CH,Bremgartenstrasse 119,,WCHM00006236,,,842.51,608.7,,,1451.21,hcp,celgene,bremgartenstrasse 119,bern,1946,25,44,46,115,
+1946,Astrid-Maria Schmidt,Bern,CH,Bremgartenstrasse 119,,WCHM00006236,,,842.51,608.7,,,1451.21,hcp,celgene,bremgartenstrasse 119,bern,3980,25,44,46,115,"name=100,location=100,address=100,total=300"
 5610,Athina Papadopoulou,Basel,CH,Neurologie,,,,,429.0,569.0,,,998,hcp,teva,neurologie,basel,5610,19,100,33,152,
 2289,Attila Kollàr,Bern,CH,"Inselspital, Freiburgstrasse 18",,,,,,,,1172.0,1172,hcp,eli,inselspital freiburgstrasse 18,bern,2289,42,44,36,122,
 2222,Attila Kollàr,BERN,CH,Inselspital Bern Medizinische Onkologie Medizinische Onkologie Inselspital Bern,3010,,,,,,1500.0,51.0,1551.0,hcp,eisei,inselspital bern medizinische onkologie medizinische onkologie inselspital bern,bern,2222,42,44,26,112,
@@ -614,7 +614,7 @@
 4421,Augusto Aragão,Regensdorf,CH,Watterstrasse 59,,,,0,0,504,0,0,504,hcp,pfizer,watterstrasse 59,regensdorf,4421,24,13,53,90,
 4101,Augusto Bernasconi,Lugano,CH,Via Serafino Balestra 27,,,,,140.0,428.0,,,568,hcp,novo,via serafino balestra 27,lugano,4101,20,18,42,80,
 1274,Augusto Franco Gallino,Bellinzona,CH,Via Ospedale,6500,40751362,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer,via ospedale,bellinzona,1274,24,40,31,95,
-3920,Augusto Pedrazzini,Locarno,CH,Studio medico. Via Vincenzo Vela 11,,,0,0,0,0,800.00,0,800.00,hcp,novartis,studio medico via vincenzo vela 11,locarno,207,27,17,29,73,"name=100,location=100,address=100,total=300"
+3920,Augusto Pedrazzini,Locarno,CH,Studio medico Via Vincenzo Vela 11,,,0,0,0,0,800.00,0,800.00,hcp,novartis,studio medico via vincenzo vela 11,locarno,207,27,17,29,73,"name=100,location=100,address=100,total=300"
 207,Augusto Pedrazzini,Locarno,CH,Via Vincenzo Vela 11,,,,,1000.0,950.0,,,1950.0,hcp,abbvie,via vincenzo vela 11,locarno,5282,27,17,29,73,"name=100,location=100,address=100,total=300"
 5282,Augusto Pedrazzini,Locarno,CH,Via Vela 11,6600,7601000183309,,,,,600.0,,600,hcp,servier,via vela 11,locarno,3920,27,17,24,68,"name=100,location=100,address=100,total=300"
 3472,Augusto Pedrazzini,Locarno,CH,Praxis,,,,,103.0,859.0,,,962.0,hcp,mundipharma,praxis,locarno,3472,27,17,30,74,
@@ -758,7 +758,7 @@
 881,Benno Röthlisberger,Aarau,CH,Zentrum für Labormedizin / Haus 1 Tellstrasse 25,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca,zentrum fuer labormedizin haus 1 tellstrasse 25,aarau,881,27,20,30,77,
 4316,Benno Weissenberger,Basel,CH,Hardstrasse 111,,,,,389.0,1058.0,,,1447,hcp,novo,hardstrasse 111,basel,4316,19,100,41,160,
 4358,Benny Osdowski,Zürich,CH,"Adecco Human Resources SA, Uetlibergstr. 134",8045,,,,,,600.0,,600.0,hcp,orion,adecco human resources salerno uetlibergstrasse 134,zuerich,4358,23,17,31,71,
-4357,Benny Osdowski,St.Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstr.95",9007,,,,,,500.0,,500.0,hcp,orion,kantonsspital sankt gallen rorschacherstr.95,stora gallen,4357,23,24,31,78,
+4357,Benny Osdowski,St.Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstr. 95",9007,,,,,,500.0,,500.0,hcp,orion,kantonsspital sankt gallen rorschacherstrasse 95,stora gallen,4357,23,24,32,79,
 4848,Berchtold Elmiger,Bern,CH,Spitalgasse 37,3011,,,,462.4,496.7,0.0,0.0,959.1,hcp,roche,spitalgasse 37,bern,4848,41,44,43,128,
 2241,Bernard Chappuis,Burgdorf,CH,Oberburgstrasse 54,,,,,221.0,575.0,,,796,hcp,eli,oberburgstrasse 54,burgdorf,2241,21,15,50,86,
 1608,Bernard Chevaux,Yverdon-les-Bains,CH,Rue d'Entremonts 11,1400,,,,,2830.26,,,2830.26,hcp,boehringer,rue d'entremonts 11,yverdon-les-bains,2243,22,36,42,100,"name=100,location=100,address=100,total=300"
@@ -860,7 +860,7 @@
 2366,Boris Fischer,Zürich,CH,Stadtspital Triemli / Birmensdorferstr. 497,,,,,766.0,892.0,,,1658,hcp,ferring,stadtspital triemli birmensdorferstrasse 497,zuerich,2366,24,17,31,72,
 5285,Boris Gojanovic,Meyrin,CH,Avenue Jean Daniel Maillard 3,1217,7601000618603,,,,,1500.0,,1500,hcp,servier,avenue jean daniel maillard 3,meyrin,5285,22,18,28,68,
 5856,Boris Guignet,Sierre,CH,"Hôpital de  (CHCVs/RSV), Rue Saint-Charles 14",,,,,591.95,807.2,,,1399.15,hcp,vifor,hopital de  chcvs rsv rue saint-charles 14,sierre,5856,24,36,33,93,
-3790,Boris Hübenthal,Glarus,CH,"Zentrum für Integrative Onkologie, Schweizerhofstra sse 3",,,0,0,0,0,850.00,0,850.00,hcp,novartis,zentrum fuer integrative onkologie schweizerhofstra sse 3,glarus,3790,15,36,28,79,
+3790,Boris Hübenthal,Glarus,CH,"Zentrum für Integrative Onkologie, Schweizerhofstrasse 3",,,0,0,0,0,850.00,0,850.00,hcp,novartis,zentrum fuer integrative onkologie schweizerhofstrasse 3,glarus,3790,15,36,29,80,
 1954,Boris Hübenthal,Zürich,CH,Hardturmstrasse 133,,WCHM00004122,,,382.95,22.95,,,405.9,hcp,celgene,hardturmstrasse 133,zuerich,3303,15,17,42,74,"name=100,location=100,address=100,total=300"
 3303,Boris Hübenthal,Zürich,CH,Hardturmstrasse 133,,,,,,,750.0,,750.0,hcp,merck,hardturmstrasse 133,zuerich,3303,15,17,42,74,
 4853,Boris Schleiffenbaum,Zürich,CH,Bellariastrasse 38,8038,,,,0.0,1669.93,1200.0,0.0,2869.93,hcp,roche,bellariastrasse 38,zuerich,3976,19,17,44,80,"name=100,location=100,address=100,total=300"
@@ -903,7 +903,7 @@
 305,Burdet Luc,Payerne,CH,Ave. de la Colline 3,,,,,452.0,1229.0,,,1681.0,hcp,actelion,avenue de la colline 3,payerne,4965,18,33,22,73,"name=100,location=100,address=100,total=300"
 5266,Burg Philippe Von,Solothurn,CH,Bürgerspital  Schöngrünstrasse 38,4500,,,,400.2,246.67,1650.0,,2296.87,hcp,sanofi,buergerspital schoengruenstrasse 38,solothurn,1874,28,29,37,94,"name=100,location=100,address=100,total=300"
 5513,Burg Philippe von,Solothurn,CH,Onkologiezentrum Schöngrünstrasse 38,4500,,0,0,0,0,700.00,0,700.00,hcp,takeda,onkologiezentrum schoengruenstrasse 38,solothurn,5575,28,29,35,92,"name=100,location=100,address=100,total=300"
-3788,Burkhard Hornig,Basel,CH,Herzpraxis Warteckhof Grenzacherstrass e 62,,,0,0,0,0,1500.00,0,1500.00,hcp,novartis,herzpraxis warteckhof grenzacherstrass e 62,basel,3788,30,100,28,158,
+3788,Burkhard Hornig,Basel,CH,Herzpraxis Warteckhof Grenzacherstrasse 62,,,0,0,0,0,1500.00,0,1500.00,hcp,novartis,herzpraxis warteckhof grenzacherstrasse 62,basel,3788,30,100,29,159,
 3053,Burkhard Jeske,Wittenbach,CH,Ringstrasse 22,,,,,330.6,501.5,,,832.1,hcp,menarini,ringstrasse 22,wittenbach,3053,23,27,43,93,
 177,Burkhard Möller,Bern,CH,Freiburgstrasse 18,,,,,676.0,361.0,,,1037.0,hcp,abbvie,freiburgstrasse 18,bern,177,31,44,44,119,
 1721,Bá Thanh-Trúc Ngô,Basel,CH,Lukas Legrand-Strasse 4,4058,,,,,,1050.0,,1050.0,hcp,boehringer,lukas legrandstrasse 4,basel,747,23,100,44,167,"name=100,location=100,address=100,total=300"
@@ -1116,7 +1116,7 @@
 6013,Christian Rüegg,St. Gallen,CH,"Hausarztpraxis Dr. Rüegg, Spisergasse 41",,,,,,,400.0,,400.0,hcp,vifor,hausarztpraxis doktor rueegg spisergasse 41,saint gallen,6013,31,24,32,87,
 3240,Christian Schlegel,Bad Ragaz,CH,Medizinisches Zentrum,,,,,0.0,,800.0,,800,hcp,mepha,medizinisches zentrum,bad ragaz,3240,27,29,29,85,
 246,Christian Schmidt,Wetzikon ZH,CH,Kirchgasse 4,,,,,631.0,2145.0,,,2776.0,hcp,abbvie,kirchgasse 4,wetzikon zh,3154,21,12,46,79,"name=100,location=100,address=100,total=300"
-3154,Christian Schmidt,Wetzikon ZH,CH,Kirchgasse 4,,,,,137.2,730.3,,,867.5,hcp,meinarini,kirchgasse 4,wetzikon zh,3154,21,12,46,79,
+3154,Christian Schmidt,Wetzikon ZH,CH,Kirchgasse 4,,,,,137.2,730.3,,,867.5,hcp,menarini,kirchgasse 4,wetzikon zh,3154,21,12,46,79,
 4693,Christian Schmied,Zürich,CH,Rämistrasse 100,,,,0,483,1133,0,0,1616,hcp,pfizer,raemistrasse 100,zuerich,3423,21,17,40,78,"name=100,location=100,address=100,total=300"
 1836,Christian Schmied,Zürich,CH,Rämistrasse 100,,,,,,,3613.0,130.0,3743,hcp,bristol,raemistrasse 100,zuerich,3423,21,17,40,78,"name=100,location=100,address=100,total=300"
 5288,Christian Schmied,Zürich,CH,,8091,7601000493606,,,,,2000.0,,2000,hcp,servier,nan,zuerich,1446,21,17,24,62,"name=100,location=100,address=11,total=211"
@@ -1139,15 +1139,15 @@
 897,Christian Templin,Zürich,CH,Universitätsspital  Rämistrasse 100,,,0.0,0.0,0.0,0.0,1200.0,198.8,1398.8,hcp,astrazeneca,universitaetsspital raemistrasse 100,zuerich,897,21,17,32,70,
 6060,Christian Tiefenthaller,Münsterlingen,CH,"Kantonsspital , Spitalcampus 1",,,,,,457.06,,,457.06,hcp,vifor,kantonsspital spitalcampus 1,muensterlingen,6060,23,32,24,79,
 1496,Christian Toso,Genève,CH,Rue Gabrielle Perret-Gentil 4,1211,40739583,0.0,0.0,373.35,0.0,0.0,0.0,373.35,hcp,bayer,rue gabrielle perret-gentil 4,geneve,1700,23,18,37,78,"name=83,location=100,address=100,total=283"
-4368,Christian Trachsel,Uster,CH,"Spital ,Brunnenstr.42",8610,,,,272.42,917.9,,,1190.32,hcp,orion,spital brunnenstr.42,uster,4368,27,40,41,108,
+4368,Christian Trachsel,Uster,CH,"Spital ,Brunnenstr. 42",8610,,,,272.42,917.9,,,1190.32,hcp,orion,spital brunnenstrasse 42,uster,4368,27,40,37,104,
 2491,Christian Tschager,Zuchwil,CH,Gemeinschaftspraxis am Kreisel Hauptstrasse 60,,7601000922984,,,,522.0,,,522.0,hcp,galderma,gemeinschaftspraxis am kreisel hauptstrasse 60,zuchwil,2491,33,17,27,77,
 2600,Christian Van Delden,Genève,CH,Rue Gabrielle-Perret -Gentil 4,,,,,,2257.0,2352.0,45.0,4656.0,hcp,gilead,rue gabrielle-perret gentil 4,geneve,2600,25,18,37,80,
 2343,Christian Weisshaupt,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Strasse 95",,,,,290.0,933.0,,,1223,hcp,eli,kantonsspital sankt gallen rorschacher strasse 95,saint gallen,2343,19,24,29,72,
-3783,Christian Wilhelm Himmelberger,Mels,CH,Praxis Christian Wilhelm Himmelberger« Valenistrasse 6,,,0,0,167.00,391.00,0,0,558.00,hcp,novartis,praxis christian wilhelm himmelberger<< valenistrasse 6,mels,3783,24,44,27,95,
+3783,Christian Wilhelm Himmelberger,Mels,CH,Praxis Christian Wilhelm Himmelberger Valenistrasse 6,,,0,0,167.00,391.00,0,0,558.00,hcp,novartis,praxis christian wilhelm himmelberger valenistrasse 6,mels,3783,24,44,27,95,
 770,Christian Zanchin,Bern,CH,"Inselspital,Freiburgstrasse18",,,,,,379.62,,,379.62,hcp,amgen,inselspital freiburgstrasse18,bern,770,28,44,33,105,
 3595,Christian von Briel,Aarau,CH,Tumorzentrum  AG,,,,,,,1000.0,,1000.0,hcp,mundipharma,tumorzentrum ag,aarau,3595,26,20,34,80,
 898,Christiane Brugnolaro,Ittigen,CH,West Pathologie Länggasse Bern Worblentalstrasse 32,,,0.0,0.0,0.0,628.8,0.0,0.0,628.8,hcp,astrazeneca,west pathologie laenggasse bern worblentalstrasse 32,ittigen,898,18,17,27,62,
-4349,Christiane Fr. Köbler,Aarau,CH,"Kantonsspital  AG,Tellstr.25",5001,,,,107.6,656.6,,,764.2,hcp,orion,kantonsspital ag tellstr.25,aarau,4349,26,20,29,75,
+4349,Christiane Fr. Köbler,Aarau,CH,"Kantonsspital  AG,Tellstr. 25",5001,,,,107.6,656.6,,,764.2,hcp,orion,kantonsspital ag tellstrasse 25,aarau,4349,26,20,36,82,
 1334,Christiane Kluckert,St. Gallen,CH,St. Leonhard-Strasse 20,9000,40533543,0.0,0.0,-150.0,361.9,0.0,0.0,211.9,hcp,bayer,sankt leonhardstrasse 20,saint gallen,5907,26,24,42,92,"name=100,location=100,address=100,total=300"
 5907,Christiane Kluckert,St. Gallen,CH,"Praxis Dr. Kluckert, St. Leonhard-Strasse 20",,,,,,,600.0,,600.0,hcp,vifor,praxis doktor kluckert sankt leonhardstrasse 20,saint gallen,5907,26,24,33,83,
 230,Christiane Rörig,Zürich,CH,Forchstrasse 340,,,,,348.0,413.0,,,761.0,hcp,abbvie,forchstrasse 340,zuerich,3142,30,17,47,94,"name=100,location=100,address=100,total=300"
@@ -1243,7 +1243,7 @@
 5494,Christoph Renner,Zürich,CH,Onkozentrum Hirslanden Witellikerstrasse 40,8032,,0,0,0,0,400.00,0,400.00,hcp,takeda,onkozentrum hirslanden witellikerstrasse 40,zuerich,5218,21,17,35,73,"name=100,location=100,address=100,total=300"
 2574,Christoph Renner,Zürich,CH,Witellikerstrass e 40,,,,,1190.0,6860.0,,,8050.0,hcp,gilead,witellikerstrass east 40,zuerich,1968,21,17,47,85,"name=100,location=100,address=86,total=286"
 3947,Christoph Reutter,Winterthur,CH,"Neurowinterthur, Brunngasse 6",,,0,0,0,0,250.00,0,250.00,hcp,novartis,neurowinterthur brunngasse 6,winterthur,3947,21,13,29,63,
-3957,Christoph Rochlitz,Basel,CH,"Universitätsspit al  Medizin Onkologie, Petersgraben 4",,,0,0,0,0,400.00,0,400.00,hcp,novartis,universitaetsspit allee medizin onkologie petersgraben 4,basel,902,27,100,100,227,"name=100,location=100,address=100,total=300"
+3957,Christoph Rochlitz,Basel,CH,"Universitätsspital  Medizin Onkologie, Petersgraben 4",,,0,0,0,0,400.00,0,400.00,hcp,novartis,universitaetsspital medizin onkologie petersgraben 4,basel,902,27,100,100,227,"name=100,location=100,address=100,total=300"
 902,Christoph Rochlitz,Basel,CH,Onkologie Petersgraben 4,,,0.0,0.0,0.0,0.0,1750.0,0.0,1750.0,hcp,astrazeneca,onkologie petersgraben 4,basel,902,27,100,100,227,
 2778,Christoph Rudin,Basel,CH,Spitalstrasse 33,,,,,0,0,2340,0,2340.0,hcp,jansen,spitalstrasse 33,basel,2778,22,100,47,169,
 4685,Christoph Schalcher,Greifensee,CH,Tumigerstrasse 49,,,,0,483,1058,0,0,1541,hcp,pfizer,tumigerstrasse 49,greifensee,4685,19,27,58,104,
@@ -1269,7 +1269,7 @@
 4869,Christophe Henny,Lausanne,CH,Avenue des Bergières 2,1004,,,,0.0,0.0,600.0,0.0,600.0,hcp,roche,avenue des bergieres 2,lausanne,5596,14,46,39,99,"name=100,location=100,address=100,total=300"
 5596,Christophe Henny,LAUSANNE,CH,Avenue Bergiéres 2,,,,,483.0,972.0,,,1455,hcp,teva,avenue bergieres 2,lausanne,460,14,46,44,104,"name=100,location=100,address=100,total=300"
 3042,Christophe Hentsch,Genève,CH,Rue de Moillebeau 33,,,,,127.2,103.3,,,230.5,hcp,menarini,rue de moillebeau 33,geneve,3778,13,18,29,60,"name=100,location=100,address=100,total=300"
-3778,Christophe Hentsch,Genève,CH,"Cabinet de grcxipe, Rue de Moillebeau 33",,,0,0,0,0,800.00,0,800.00,hcp,novartis,cabinet de grcxipe rue de moillebeau 33,geneve,3778,13,18,32,63,
+3778,Christophe Hentsch,Genève,CH,"Cabinet de groupe, Rue de Moillebeau 33",,,0,0,0,0,800.00,0,800.00,hcp,novartis,cabinet de groupe rue de moillebeau 33,geneve,3778,13,18,33,64,
 122,Christophe Hugonnet,Bulle,CH,Rue Du Pays-d'enhaut 50,,,,,184.0,819.0,,,1003.0,hcp,abbvie,rue du pays-denhaut 50,bulle,122,19,40,33,92,
 5290,Christophe Pasche,Romanel-sur-Lausanne,CH,Chemin des Esserpys 20,1032,7601000621870,,,229.0,480.0,,,709,hcp,servier,chemin des esserpys 20,romanel-sur-lausanne,5290,14,32,28,74,
 3124,Christophe Persoz,Neuchâtel,CH,Rue de l'Hôpital 11,,,,,207.6,512.1,,,719.7,hcp,menarini,rue de l'hopital 11,neuchatel,3124,21,43,30,94,
@@ -1357,9 +1357,9 @@
 3040,Claudius Heimgartner,Visp,CH,Kantonsstrasse 1,,,,,330.6,516.5,,,847.1,hcp,menarini,kantonsstrasse 1,visp,3040,38,22,40,100,
 5292,Claudius Irlé,Meyrin,CH,Avenue J.-D.- Maillard 11,1217,7601000042736,,,,,1200.0,,1200,hcp,servier,avenue j d maillard 11,meyrin,1970,42,18,22,82,"name=100,location=100,address=100,total=300"
 1970,Claudius Irlé,Meyrin,CH,Avenue J.-D.-Maillard 11,,WCHM03586574,,,891.6,3902.17,,,4793.77,hcp,celgene,avenue j.-d.-maillard 11,meyrin,603,42,18,22,82,"name=100,location=100,address=100,total=300"
-4876,Claudius Irlé,Meyrin,CH,Avenue Jacob-Daniel Maillard 11,1217,,,,1249.69,6057.47,2300.0,0.0,9607.16,hcp,roche,avenue jacob-daniel maillard 11,meyrin,5292,42,18,22,82,"name=100,location=100,address=90,total=290"
+4876,Claudius Irlé,Meyrin,CH,Avenue Jacob-Daniel Maillard 11,1217,,,,1249.69,6057.47,2300.0,0.0,9607.16,hcp,roche,avenue jacob-daniel maillard 11,meyrin,3804,42,18,22,82,"name=100,location=100,address=100,total=300"
 3520,Claudius Irlé,Meyrin,CH,Praxis,,,,,667.0,804.0,,,1471.0,hcp,mundipharma,praxis,meyrin,3520,42,18,30,90,
-3804,Claudius Irlé,Meyrin,CH,"Cabinet de groupe oncologie, Avenue lacob-Daniel Maillard 11",,,0,0,0,0,1550.00,0,1550.00,hcp,novartis,cabinet de groupe oncologie avenue lacob-daniel maillard 11,meyrin,5292,42,18,25,85,"name=100,location=100,address=90,total=290"
+3804,Claudius Irlé,Meyrin,CH,"Cabinet de groupe oncologie, Avenue Jacob-Daniel Maillard 11",,,0,0,0,0,1550.00,0,1550.00,hcp,novartis,cabinet de groupe oncologie avenue jacob-daniel maillard 11,meyrin,5292,42,18,25,85,"name=100,location=100,address=90,total=290"
 603,Claudius Irlé,Meyrin,CH,Avenue J.-D.-Maillard 11,,,,,377.06,4926.66,1800.0,180.0,7283.72,hcp,amgen,avenue j.-d.-maillard 11,meyrin,5292,42,18,22,82,"name=100,location=100,address=100,total=300"
 1385,Claudius Möckel,Schaffhausen,CH,Rietstrasse 30,8200,40755465,0.0,0.0,403.35,626.0,0.0,0.0,1029.35,hcp,bayer,rietstrasse 30,schaffhausen,1385,31,35,50,116,
 5729,Claus Aichmüller,Meiringen,CH,"Privatklinik , Willigen",,,,,508.53,1077.08,,,1585.61,hcp,vifor,privatklinik willigen,meiringen,5729,30,14,29,73,
@@ -1450,7 +1450,7 @@
 106,Dagmar Hauser,Baar,CH,Landhausstrasse 11,,,,,348.0,564.0,,,912.0,hcp,abbvie,landhausstrasse 11,baar,106,24,44,31,99,
 2968,Dagmar Heidrun Becker,Beckenried,CH,Mondmattli 3,,,,,330.6,501.5,,,832.1,hcp,menarini,mondmattli 3,beckenried,2968,18,27,15,60,
 3215,Dagmar Keller Lang,Zürich,CH,Schmelzbergstrasse 8,,,,,0.0,,1500.0,,1500,hcp,mepha,schmelzbergstrasse 8,zuerich,3215,33,17,47,97,
-3611,Dagmar Schmid,St. Gallen,CH,Kantonsspital ,,,,,,,900.0,,900.0,hcp,neurim,kantonsspital,saint gallen,3611,24,24,22,70,
+3611,Dagmar Schmid,St. Gallen,CH,Kantonsspital ,9000,,,,,,900.0,,900.0,hcp,neurim,kantonsspital,saint gallen,3611,24,24,22,70,
 291,Dagmar Wildpaner,Zürich,CH,Birmensdorferstrasse 497,,,,,348.0,591.0,,,939.0,hcp,abbvie,birmensdorferstrasse 497,zuerich,291,29,17,47,93,
 4217,Dagmar l'Allemand,St. Gallen,CH,Claudiusstrasse 6,,,,,39.0,205.0,,,244,hcp,novo,claudiusstrasse 6,saint gallen,4217,41,24,32,97,
 4014,Daiana Stolz,Basel,CH,"Universitätsspital  Medizin Pneumologie, Petersgraben 4",,,0,0,0,0,2125.00,0,2125.00,hcp,novartis,universitaetsspital medizin pneumologie petersgraben 4,basel,4014,33,100,100,233,
@@ -1465,7 +1465,7 @@
 4881,Dan Adler,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,576.74,1071.07,0.0,0.0,1647.81,hcp,roche,rue gabrielle-perret-gentil 4,geneve,1576,38,18,37,93,"name=100,location=100,address=100,total=300"
 1576,Dan Adler,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1250.0,,1250.0,hcp,boehringer,rue gabrielle-perret-gentil 4,geneve,1576,38,18,37,93,
 5627,Dan Rauch,Luzern,CH,Weggisgasse 1,,,,,458.0,907.0,,,1365,hcp,teva,weggisgasse 1,luzern,5627,29,18,44,91,
-4008,Dan Steffel,Zürich,CH,"Universitätsspit al  Medizin Kardiologie, Ränistrasse 100",,,0,0,0,0,6945.00,0,6945.00,hcp,novartis,universitaetsspit allee medizin kardiologie raenistrasse 100,zuerich,4008,17,17,24,58,
+4008,Dan Steffel,Zürich,CH,"Universitätsspital  Medizin Kardiologie, Ränistrasse 100",,,0,0,0,0,6945.00,0,6945.00,hcp,novartis,universitaetsspital medizin kardiologie raenistrasse 100,zuerich,4008,17,17,26,60,
 4275,Dana Roulin,Lausanne,CH,Av. de Rumine 35,,,,,,,1600.0,,1600,hcp,novo,avenue de rumine 35,lausanne,5225,26,46,30,102,"name=100,location=100,address=100,total=300"
 5225,Dana Roulin,Lausanne,CH,Cabinet médical FMH Médecine interne générale Avenue de Rumine 35,1005,,,,,,700.0,,700.0,hcp,sanofi,cabinet medical fmh medecine interne generale avenue de rumine 35,lausanne,5225,26,46,23,95,
 5496,Dana Roulin,Lausanne,CH,Cabinet Dr Roulin Dana Avenue de Rumine 35,1005,,0,0,0,0,500.00,0,500.00,hcp,takeda,cabinet docteur roulin dana avenue delaware rumine 35,lausanne,4275,26,46,21,93,"name=100,location=100,address=91,total=291"
@@ -1722,7 +1722,7 @@
 1795,Dominik Schneider,Männedorf,CH,Asylstrasse 10,,,,,,,600.0,,600,hcp,bristol,asylstrasse 10,maennedorf,1795,34,27,36,97,
 1895,Dominik Seitz,Goldach,CH,Sägestrasse 4,,,,,688.0,,,,688,hcp,bristol,saegestrasse 4,goldach,1895,40,17,57,114,
 768,Dominik Wyssmann,Solothurn,CH,Schöngrünstrasse 42,,,,,569.95,730.25,,,1300.2,hcp,amgen,schoengruenstrasse 42,solothurn,768,29,29,46,104,
-4331,Dominique Bettex,Zürich,CH,"Universitätsspital ,Rämistr.100",8091,,,,,664.0,2350.0,,3014.0,hcp,orion,universitaetsspital raemistr.100,zuerich,4331,21,17,35,73,
+4331,Dominique Bettex,Zürich,CH,"Universitätsspital ,Rämistr. 100",8091,,,,,664.0,2350.0,,3014.0,hcp,orion,universitaetsspital raemistrasse 100,zuerich,4331,21,17,32,70,
 2619,Dominique Braun,Zürich,CH,Sonneggstrasse 63,,7601000725691,,,0.0,0.0,1400.0,0.0,1400.0,hcp,glaxosmithkline,sonneggstrasse 63,zuerich,2619,30,17,39,86,
 5769,Dominique Burgener,Genève,CH,"Clinique des Grangettes SA, Route De Chêne 11",,,,,322.61,1319.55,,,1642.16,hcp,vifor,clinique des grangettes son altesse route de chene 11,geneve,5769,20,18,27,65,
 3599,Dominique Durrer,Vevey,CH,Praxis,,,,,,,141.0,,141.0,hcp,mundipharma,praxis,vevey,3599,36,20,30,86,
@@ -1751,7 +1751,7 @@
 449,Doris Zürcher,Biel/Bienne,CH,"Praxis Dr. Zürcher, Mühlebrücke 8l",,,,,,,500.0,,500.0,hcp,allergan,praxis doktor zuercher muehlebrucke 8l,biel bienne,449,42,38,27,107,
 1083,Dorohea Mai,Bern,CH,Schänzlihalde 11,,,,,0.0,181.4,0.0,0.0,181.4,hcp,baxter,schaenzlihalde 11,bern,1083,17,44,32,93,
 3984,Dosef Schönbächler,Zürich,CH,"Gruppenpraxis, Bederstrasse 51",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,gruppenpraxis bederstrasse 51,zuerich,3155,21,17,42,80,"name=94,location=100,address=100,total=294"
-4335,Dragan Despotovic,Zürich,CH,"Universitätsspital ,Rämistr.100",8091,,,,490.11,800.65,,,1290.76,hcp,orion,universitaetsspital raemistr.100,zuerich,4335,28,17,35,80,
+4335,Dragan Despotovic,Zürich,CH,"Universitätsspital ,Rämistr. 100",8091,,,,490.11,800.65,,,1290.76,hcp,orion,universitaetsspital raemistrasse 100,zuerich,4335,28,17,32,77,
 4019,Duan Sztajzel,Carouge GE,CH,"Cabinet Duan Sztajzel, Avenue Cardinal-Mermill od 5",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,cabinet duan sztajzel avenue cardinal-mermill od 5,carouge ge,4019,24,27,25,76,
 3755,Ducommun Eduna Grandjean,Onex,CH,"Cabinet Eduna Grandjean Ducommun, Rue des Bossons 24",,,0,0,0,0,700.00,0,700.00,hcp,novartis,cabinet eduna grandjean ducommun rue des bossons 24,onex,5595,22,22,34,78,"name=100,location=100,address=100,total=300"
 311,Ducrey Nicolas,Sion,CH,Rue de lausanne 37,,,,,539.0,392.0,,,931.0,hcp,actelion,rue de lausanne 37,sion,311,23,22,31,76,
@@ -1765,7 +1765,7 @@
 5100,Edith Holsboer-Trachsl er,Basel,CH,Willhelm Klein Strasse 27,,,,,,,871.0,,871.0,hcp,sandoz,willhelm klein strasse 27,basel,2864,27,100,31,158,"name=90,location=100,address=96,total=286"
 2864,Edith Holsboer-Trachsler,Basel,CH,Wilhelm Klein-Strasse 27,,,,,,,3500.0,,3500.0,hcp,lundbeck,wilhelm kleinstrasse 27,basel,2864,28,100,32,160,
 3582,Edith Oechslin,Chur,CH,Praxis,,,,,,,1000.0,,1000.0,hcp,mundipharma,praxis,chur,3582,31,0,30,61,
-3912,Edith Oechslin- Decurtins,Chur,CH,Medizinisches Zentrum gleis d« Gürtelstrasse 46,,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,medizinisches zentrum gleis d<< guertelstrasse 46,chur,3912,22,0,33,55,
+3912,Edith Oechslin- Decurtins,Chur,CH,Medizinisches Zentrum gleis d Gürtelstrasse 46,,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,medizinisches zentrum gleis damm guertelstrasse 46,chur,3912,22,0,31,53,
 3186,Edith von Arx-Steiner,Baar,CH,Leihgasse 28,,,,,330.6,265.6,,,596.2,hcp,menarini,leihgasse 28,baar,3186,30,44,38,112,
 1185,Edoardo Baglivo,Onex,CH,Avenue Bois-de-la-Chapelle 15,1213,40541391,0.0,0.0,600.7,1802.65,0.0,0.0,2403.35,hcp,bayer,avenue bois-de-la-chapelle 15,onex,8,37,22,28,87,"name=100,location=100,address=100,total=300"
 8,Edoardo Baglivo,Onex,CH,Avenue Bois-de-la-Chapelle 15,,,,,,,2000.0,,2000.0,hcp,abbvie,avenue bois-de-la-chapelle 15,onex,8,37,22,28,87,
@@ -1815,7 +1815,7 @@
 3064,Elisabeth Koch,Subingen,CH,Luzernstrasse 30,,,,,207.6,667.7,,,875.3,hcp,menarini,luzernstrasse 30,subingen,3064,23,31,47,101,
 1692,Elisabeth Langenskiöld,Carouge GE,CH,Place du Temple 15,1227,,,,,1394.95,,,1394.95,hcp,boehringer,place du temple 15,carouge ge,1692,24,27,38,89,
 3454,Elisabeth Marque,Délémont,CH,Praxis,,,,,147.0,585.0,,,732.0,hcp,mundipharma,praxis,delemont,3454,29,31,30,90,
-3915,Elisabeth Oppliger Leibundgut,Bern,CH,"Inselspital , Insei-Gruppe AG Labor HäMtologie, Freiburgstrasse 18",,,0,0,0,0,0,1266.61,1266.61,hcp,novartis,inselspital  insei-gruppe ag labor haemtologie freiburgstrasse 18,bern,3915,34,44,26,104,
+3915,Elisabeth Oppliger Leibundgut,Bern,CH,"Inselspital , Insei-Gruppe AG Labor Hämotologie, Freiburgstrasse 18",,,0,0,0,0,0,1266.61,1266.61,hcp,novartis,inselspital  insei-gruppe ag labor haemotologie freiburgstrasse 18,bern,3915,34,44,25,103,
 6001,Elisabeth Renftle,Langenthal,CH,"Praxis Dr. Renftle Elisabeth, Jurastrasse 37",,,,,,248.3,,,248.3,hcp,vifor,praxis doktor renftle elisabeth jurastrasse 37,langenthal,6001,28,40,30,98,
 5583,Elisabeth Schmidt-Weiss,Baden-Dättwil,CH,Im Ergel 4,,,,,304.0,536.0,,,840,hcp,teva,im ergel 4,baden-daettwil,5583,23,42,50,115,
 1491,Elisabeth Tanner,Glarus,CH,Bärengasse 1,8750,40516702,0.0,0.0,538.57,668.8,0.0,0.0,1207.37,hcp,bayer,baerengasse 1,glarus,1491,29,36,44,109,
@@ -1918,7 +1918,7 @@
 314,Esther Irene Schwarz,Zürich,CH,Rämistrasse 100,,,,,666.0,808.0,750.0,340.58,2564.58,hcp,actelion,raemistrasse 100,zuerich,3425,19,17,40,76,"name=100,location=100,address=100,total=300"
 1665,Esther Katrin Hostettler,Basel,CH,Petersgraben 4,4031,,,,,1854.68,2200.0,,4054.68,hcp,boehringer,petersgraben 4,basel,4897,17,100,100,217,"name=100,location=100,address=100,total=300"
 4897,Esther Katrin Hostettler,Basel,CH,Petersgraben 4,4031,,,,0.0,0.0,1200.0,0.0,1200.0,hcp,roche,petersgraben 4,basel,4897,17,100,100,217,
-3990,Esther Schwarz,Zürich,CH,"Universitätsspit al  Medizin Pneumologie, Ränistrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,universitaetsspit allee medizin pneumologie raenistrasse 100,zuerich,3425,15,17,27,59,"name=100,location=100,address=89,total=289"
+3990,Esther Schwarz,Zürich,CH,"Universitätsspital  Medizin Pneumologie, Ränistrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,universitaetsspital medizin pneumologie raenistrasse 100,zuerich,3425,15,17,29,61,"name=100,location=100,address=82,total=282"
 3425,Esther Schwarz,Zürich,CH,Universitätsspit al  - Klinik für Pneumologie Rämistrasse 100,,7601000892836,,,786.2,1496.7,,,2282.9,hcp,msd,universitaetsspit allee klinik fuer pneumologie raemistrasse 100,zuerich,3425,15,17,26,58,
 4898,Etienne Perrin,Genève,CH,Chemin des Clochettes 8A,1206,,,,142.9,555.2,0.0,0.0,698.1,hcp,roche,chemin des clochettes 8a,geneve,1727,23,18,32,73,"name=100,location=100,address=100,total=300"
 3592,Etienne Perrin,Genève,CH,Praxis,,,,,,,787.0,,787.0,hcp,mundipharma,praxis,geneve,3592,23,18,30,71,
@@ -1997,7 +1997,7 @@
 5202,Fellay Cristina Nay,Sion,CH,Hôpital de  Hôpital du Valais Avenue du Grand-Champsec 80,1950,,,,400.2,246.67,,,646.87,hcp,sanofi,hopital de hopital du valais avenue du grand-champsec 80,sion,4879,26,22,27,75,"name=100,location=100,address=100,total=300"
 5308,Ferdinand Jaggi,Zürich,CH,Rütihofstrasse 49,8049,7601000193995,,,,,2400.0,,2400,hcp,servier,ruetihofstrasse 49,zuerich,2869,30,17,50,97,"name=100,location=100,address=100,total=300"
 2869,Ferdinand Jaggi,Zürich,CH,Rütihofstrasse 49,,,,,,,1200.0,,1200.0,hcp,lundbeck,ruetihofstrasse 49,zuerich,3808,30,17,50,97,"name=100,location=100,address=100,total=300"
-3808,Ferdinand Jaggi,Zürich,CH,"Praxis Ferdinand 3aggi, RütihofStrasse 49",,,0,0,0,0,625.00,0,625.00,hcp,novartis,praxis ferdinand 3aggi ruetihofstrasse 49,zuerich,5308,30,17,33,80,"name=100,location=100,address=100,total=300"
+3808,Ferdinand Jaggi,Zürich,CH,"Praxis Ferdinand Jaggi, RütihofStrasse 49",,,0,0,0,0,625.00,0,625.00,hcp,novartis,praxis ferdinand jaggi ruetihofstrasse 49,zuerich,5308,30,17,33,80,"name=100,location=100,address=100,total=300"
 2868,Ferdinand Jaggi,Zürich,CH,Rütihofstrasse 49,,,,,,,500.0,,500.0,hcp,lundbeck,ruetihofstrasse 49,zuerich,5308,30,17,50,97,"name=100,location=100,address=100,total=300"
 5625,Fernando Blanco,Yverdon-les-Bains,CH,Rue Entremonts 13,,,,,458.0,731.0,,,1188,hcp,teva,rue entremonts 13,yverdon-les-bains,5625,22,36,45,103,
 4485,Fernando Colla,Winterthur,CH,Theaterstrasse 1,,,,0,614,467,0,0,1081,hcp,pfizer,theaterstrasse 1,winterthur,5663,31,13,60,104,"name=100,location=100,address=100,total=300"
@@ -2145,7 +2145,7 @@
 3002,Fritz-Georg Fark,Aegerten,CH,Grenzstrasse 5,,,,,192.9,147.2,,,340.1,hcp,menarini,grenzstrasse 5,aegerten,2621,43,31,43,117,"name=100,location=100,address=100,total=300"
 2621,Fritz-Georg Fark,Aegerten,CH,Grenzstrasse 5,,7601000077363,,,0.0,0.0,300.0,0.0,300.0,hcp,glaxosmithkline,grenzstrasse 5,aegerten,2621,43,31,43,117,
 2991,Frédéric Dominé,Biasca,CH,Via Stetano Franscini 6,,,,,391.3,936.9,,,1328.2,hcp,menarini,via stetano franscini 6,biasca,2991,33,55,27,115,
-3745,Frédéric Gerber,Moutier,CH,"Cabinets mädical Viaduc, Rue du Viaduc 34",,,0,0,0,0,800.00,0,800.00,hcp,novartis,cabinets madical viaduc rue du viaduc 34,moutier,3745,40,17,30,87,
+3745,Frédéric Gerber,Moutier,CH,"Cabinets médical Viaduc, Rue du Viaduc 34",,,0,0,0,0,800.00,0,800.00,hcp,novartis,cabinets medical viaduc rue du viaduc 34,moutier,3745,40,17,30,87,
 214,Frédéric Poffet,Bulle,CH,Rue de L'Europe 12,,,,,492.0,950.0,,,1442.0,hcp,abbvie,rue de l'europe 12,bulle,214,24,40,38,102,
 2671,Frédéric Schaub,Rheinfelden,CH,Salinenstrasse 98,,,,,124.0,240.0,0.0,0.0,364.0,hcp,gruenenthal,salinenstrasse 98,rheinfelden,2671,24,25,39,88,
 2597,Frédéric Tissot,Lausanne,CH,Chemin Porchat 24,,,,,860.0,636.0,,,1497.0,hcp,gilead,chemin porchat 24,lausanne,2597,24,46,32,102,
@@ -2238,7 +2238,7 @@
 229,Gerhard Rogler,Zürich,CH,Rämistrasse 100,,,,,,,5600.0,,5600.0,hcp,abbvie,raemistrasse 100,zuerich,5708,38,17,40,95,"name=100,location=100,address=100,total=300"
 2672,Gerhard Weber,Zürich,CH,Buchzelgstrasse 116,,,,,40.0,160.0,0.0,0.0,200.0,hcp,gruenenthal,buchzelgstrasse 116,zuerich,2672,32,17,36,85,
 2873,Gerhard Wolfgang Dammann,Münsterlingen,CH,Psychiatrische Dienste Thurgau Postfach 154,,,,,,,1400.0,,1400.0,hcp,lundbeck,psychiatrische dienste thurgau postfach 154,muensterlingen,2873,22,32,32,86,
-3787,Gernod Hoffmann,Weinfelden,CH,HausarztZentrum « Bankstrasse 2,,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis,hausarztzentrum bankstrasse 2,weinfelden,3787,15,27,33,75,
+3787,Gernod Hoffmann,Weinfelden,CH,HausarztZentrum  Bankstrasse 2,,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis,hausarztzentrum bankstrasse 2,weinfelden,3787,15,27,33,75,
 5759,Gernot Bonkat,Basel,CH,"alta uro AG, Centralbahnplatz 6",,,,,,,800.0,,800.0,hcp,vifor,alta uro ag centralbahnplatz 6,basel,5759,32,100,32,164,
 5522,Gerrit Borchard,Genève,CH,"CMU, Rue Michel Servet 1",,,,,0.0,,1000.0,,1000,hcp,teva,cmu rue michel servet 1,geneve,5522,37,18,32,87,
 931,Gertruda Capova,Davos Clavadel,CH,Nederlands Astmacentrum Davos Klinikstrasse 6,,,0.0,0.0,579.59,1776.92,0.0,0.0,2356.51,hcp,astrazeneca,nederlands astmacentrum davos klinikstrasse 6,davos clavadel,931,30,32,31,93,
@@ -2250,7 +2250,7 @@
 1641,Giacomo Gastaldi,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1200.0,,1200.0,hcp,boehringer,rue gabrielle-perret-gentil 4,geneve,3382,43,18,37,98,"name=100,location=100,address=100,total=300"
 5838,Giacomo Gastaldi,Genève,CH,"Hopitaux Universitaires de Genève, 14 rue Gabrielle Perret- Gentil",,,,,,,3766.67,574.19,4340.86,hcp,vifor,hopitaux universitaires de geneve 14 rue gabrielle perret gentil,geneve,5152,43,18,26,87,"name=100,location=100,address=98,total=298"
 4164,Giacomo Gastaldi,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,1000.0,,1000,hcp,novo,rue gabrielle-perret-gentil 4,geneve,3382,43,18,37,98,"name=100,location=100,address=100,total=300"
-3727,Gian Flury,Scuol,CH,"Ospidal  Innere Medizin, Via da 1' Ospidal 286",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,ospidal innere medizin via da 1 ospidal 286,scuol,3727,27,40,20,87,
+3727,Gian Flury,Scuol,CH,"Ospidal  Innere Medizin, Via da 1'Ospidal 286",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,ospidal innere medizin via da 1'ospidal 286,scuol,3727,27,40,20,87,
 4495,Gian Marco De Marchis,Basel,CH,Petersgraben 4,,,,0,0,467,0,0,467,hcp,pfizer,petersgraben 4,basel,4495,30,100,100,230,
 1435,Gian-Marco Sarra,Burgdorf,CH,Poststrasse 9,3400,40760071,0.0,0.0,620.7,3325.0,0.0,0.0,3945.7,hcp,bayer,poststrasse 9,burgdorf,1435,21,15,52,88,
 5734,Gian-Marie Annoni,Fribourg,CH,"HFR -Hôpital Cantonal, Chemin des Pensionnats 2",,,,,,,600.0,,600.0,hcp,vifor,hfr hopital cantonal chemin des pensionnats 2,fribourg,452,34,15,27,76,"name=88,location=100,address=81,total=269"
@@ -2354,9 +2354,9 @@
 2004,Günter Friedrich Bernhard Frings,Biel/Bienne,CH,Marktgasse 17,,WCHM00009331,,,390.14,-16.83,500.0,,873.31,hcp,celgene,marktgasse 17,biel bienne,2004,33,38,37,108,
 2462,Günter Hofbauer,Zürich,CH,Dermatologische Klinik USZ Dermatologische KlinikUniversitätsspit al Gloriastrasse 31,,7601000194640,,,,,3504.17,271.21,3775.38,hcp,galderma,dermatologische klinik usz dermatologische klinikuniversitaetsspit allee gloriastrasse 31,zuerich,2462,15,17,23,55,
 5102,Günter Krämer,Zürich,CH,Neurozentrum Bellevue Theaterstrasse 8,,,,,,,12500.0,,12500.0,hcp,sandoz,neurozentrum bellevue theaterstrasse 8,zuerich,5102,17,17,35,69,
-2952,Günther Hofbauer,Wetzikon ZH,CH,Guyer-Zeller-Strasse 10,,,,,,,1200.0,,1200.0,hcp,meda,guyer-zellerstrasse 10,wetzikon zh,2814,15,12,44,71,"name=100,location=100,address=100,total=300"
-3786,Günther Hofbauer,Wetzikon ZH,CH,allderm« Guyer-Zeller-Str asse 10,,,0,0,0,0,3075.00,326.84,3401.84,hcp,novartis,allderm<< guyer-zeller-str asse 10,wetzikon zh,3786,15,12,30,57,
-2814,Günther Hofbauer,Wetzikon ZH,CH,Guyer-Zeller-Strasse 10,8620,,,,,,3650.0,169.57,3819.57,hcp,leo,guyer-zellerstrasse 10,wetzikon zh,2814,15,12,44,71,
+2952,Günther Hofbauer,Wetzikon ZH,CH,Guyer-Zeller-Strasse 10,,,,,,,1200.0,,1200.0,hcp,meda,guyer-zellerstrasse 10,wetzikon zh,3786,15,12,44,71,"name=100,location=100,address=100,total=300"
+3786,Günther Hofbauer,Wetzikon ZH,CH,allderm Guyer-Zeller-Strasse 10,,,0,0,0,0,3075.00,326.84,3401.84,hcp,novartis,allderm guyer-zellerstrasse 10,wetzikon zh,2814,15,12,36,63,"name=100,location=100,address=100,total=300"
+2814,Günther Hofbauer,Wetzikon ZH,CH,Guyer-Zeller-Strasse 10,8620,,,,,,3650.0,169.57,3819.57,hcp,leo,guyer-zellerstrasse 10,wetzikon zh,2952,15,12,44,71,"name=100,location=100,address=100,total=300"
 4366,Günther Sumann,Grabs,CH,"Spital ,Spitalstrasse 44",9472,,,,210.05,395.02,,,605.06,hcp,orion,spital spitalstrasse 44,grabs,4366,16,40,43,99,
 4771,Günther Zech,Basel,CH,Gellertstrasse 144,,,,0,614,366,0,0,980,hcp,pfizer,gellertstrasse 144,basel,4771,17,100,56,173,
 2180,H. Pilz,Kandersteg,CH,Äussere Dorfstrasse 39,3718,,,,,,500.0,,500.0,hcp,daiichi,aeussere dorfstrasse 39,kandersteg,2180,33,40,43,116,
@@ -2385,9 +2385,9 @@
 5171,Hans Jung,Zürich,CH,UniversitätsSpital  Frauenklinikstrasse 26,8091,,,,,,2085.0,,2085.0,hcp,sanofi,universitaetsspital frauenklinikstrasse 26,zuerich,1556,29,17,29,75,"name=100,location=100,address=100,total=300"
 1556,Hans Jung,Zürich,CH,Frauenklinikstrasse 26,,,,,,,1575.0,90.0,1665,hcp,biogen,frauenklinikstrasse 26,zuerich,1556,29,17,33,79,
 2274,Hans Jörg Häuselmann,Zürich,CH,Seestrasse 220,,,,,,,2500.0,,2500,hcp,eli,seestrasse 220,zuerich,2274,27,17,50,94,
-1317,Hans Jürg Huber,Würenlos,CH,Juchstrasse 15,5436,40528765,0.0,0.0,124.65,1022.7,0.0,0.0,1147.35,hcp,bayer,juchstrasse 15,wuerenlos,461,23,29,36,88,"name=100,location=100,address=100,total=300"
-3792,Hans Jürg Huber,Würenlos,CH,"Gruppenpraxis, luchstrasse 15",,,0,0,0,0,1600.00,0,1600.00,hcp,novartis,gruppenpraxis luchstrasse 15,wuerenlos,3792,23,29,38,90,
-461,Hans Jürg Huber,Würenlos,CH,Juchstrasse 15,,,,,,,1000.0,,1000.0,hcp,almirall,juchstrasse 15,wuerenlos,3048,23,29,36,88,"name=100,location=100,address=97,total=297"
+1317,Hans Jürg Huber,Würenlos,CH,Juchstrasse 15,5436,40528765,0.0,0.0,124.65,1022.7,0.0,0.0,1147.35,hcp,bayer,juchstrasse 15,wuerenlos,3792,23,29,36,88,"name=100,location=100,address=100,total=300"
+3792,Hans Jürg Huber,Würenlos,CH,"Gruppenpraxis, Juchstrasse 15",,,0,0,0,0,1600.00,0,1600.00,hcp,novartis,gruppenpraxis juchstrasse 15,wuerenlos,461,23,29,38,90,"name=100,location=100,address=100,total=300"
+461,Hans Jürg Huber,Würenlos,CH,Juchstrasse 15,,,,,,,1000.0,,1000.0,hcp,almirall,juchstrasse 15,wuerenlos,1317,23,29,36,88,"name=100,location=100,address=100,total=300"
 1903,Hans Martin Grünig,Liestal,CH,Bahnhofstrasse 3,,,,,,,1600.0,,1600,hcp,bristol,bahnhofstrasse 3,liestal,1903,21,33,33,87,
 5407,Hans Rickli,St. Gallen,CH,Oberfeldweg 8,9007,7601000264701,,,,,1500.0,,1500,hcp,servier,oberfeldweg 8,saint gallen,5407,35,24,30,89,
 1736,Hans Rickli,St. Gallen,CH,Rorschacher Strasse 95,9007,,,,,,1900.0,,1900.0,hcp,boehringer,rorschacher strasse 95,saint gallen,1736,35,24,39,98,
@@ -2455,7 +2455,7 @@
 2460,Heini Grob,Reinach BL,CH,Praxis Reinacherhof Im Reinacherhof 53,,7601000134943,,,,650.05,,,650.05,hcp,galderma,praxis reinacherhof im reinacherhof 53,reinach bulvari,2460,18,30,36,84,
 4660,Heino Prillwitz,St. Gallen,CH,Rorschacher Strasse 95,,,,0,0,0,770,0,770,hcp,pfizer,rorschacher strasse 95,saint gallen,4660,30,24,39,93,
 2514,Heinrich Bucher,Zofingen,CH,Bärengasse 23,,,,,,138.0,,,138.0,hcp,gilead,baerengasse 23,zofingen,2514,15,15,43,73,
-3746,Heinrich Gerding,Olten,CH,"Pallas Klinik Ophthalmologisch e Klinik, Louis Giroud-Strasse 20",,,0,0,0,0,250.00,0,250.00,hcp,novartis,pallas klinik ophthalmologisch e klinik louis giroudstrasse 20,olten,363,29,20,23,72,"name=100,location=100,address=76,total=276"
+3746,Heinrich Gerding,Olten,CH,"Pallas Klinik Ophthalmologische Klinik, Louis Giroud-Strasse 20",,,0,0,0,0,250.00,0,250.00,hcp,novartis,pallas klinik ophthalmologische klinik louis giroudstrasse 20,olten,3746,29,20,21,70,
 363,Heinrich Gerding,Olten,CH,"Klinik Pallas AG, Louis Giraud Strasse 20",,,,,,,1800.0,75.0,1875.0,hcp,allergan,klinik pallas ag louis giraud strasse 20,olten,363,29,20,22,71,
 939,Heinrich Kläui,Bern,CH,Bühlstrasse 59,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca,buehlstrasse 59,bern,939,24,44,41,109,
 1369,Heinrich Mattle,Bern,CH,Freiburgstrasse 18,3010,40539815,0.0,0.0,0.0,0.0,1590.0,0.0,1590.0,hcp,bayer,freiburgstrasse 18,bern,1369,22,44,44,110,
@@ -2532,9 +2532,9 @@
 5909,Igor Kordish,Weisslingen,CH,"Praxis Dr. Holzer / Dr. Kordish, Rössligasse 1",,,,,,,800.0,,800.0,hcp,vifor,praxis doktor holzer doktor kordish roessligasse 1,weisslingen,5909,25,25,28,78,
 4711,Ileana Argentina Stauber,Leibstadt,CH,Oelhofstrasse 377,,,,0,0,387,0,0,387,hcp,pfizer,oelhofstrasse 377,leibstadt,4711,28,29,39,96,
 4597,Ilias Lazarou,Genève,CH,Avenue de Beau-Séjour 26,,,,0,348,413,0,0,761,hcp,pfizer,avenue de beau-sejour 26,geneve,4597,48,18,26,92,
-1431,Ilka Rüsges-Wolter,Bern,CH,Bremgartenstrasse 117,3012,40540789,0.0,0.0,213.35,432.65,0.0,0.0,646.0,hcp,bayer,bremgartenstrasse 117,bern,1431,34,44,46,124,
+1431,Ilka Rüsges-Wolter,Bern,CH,Bremgartenstrasse 117,3012,40540789,0.0,0.0,213.35,432.65,0.0,0.0,646.0,hcp,bayer,bremgartenstrasse 117,bern,3966,34,44,46,124,"name=100,location=100,address=100,total=300"
 706,Ilka Rüsges-Wolter,Bern,CH,Freiburgstrasse18,,,,,361.15,891.84,,,1252.99,hcp,amgen,freiburgstrasse18,bern,706,34,44,39,117,
-3966,Ilka Rüsges-Wolter,Bern,CH,Prolindo Onkologie- und Häaatologie-Team » Bremgartenstrass e 117,,,0,0,300.00,344.93,1000.00,0,1644.93,hcp,novartis,prolindo onkologie und haeaatologie-team bremgartenstrass e 117,bern,3966,34,44,26,104,
+3966,Ilka Rüsges-Wolter,Bern,CH,Prolindo Onkologie- und Hämatologie-Team Bremgartenstrasse 117,,,0,0,300.00,344.93,1000.00,0,1644.93,hcp,novartis,prolindo onkologie und haematologie-team bremgartenstrasse 117,bern,3966,34,44,26,104,
 4666,Ilse Rennich-Wiesler,Rheinfelden,CH,Salinenstrasse 98,,,,0,0,454,0,0,454,hcp,pfizer,salinenstrasse 98,rheinfelden,4666,31,25,39,95,
 4447,Ina Bluzaite,St. Gallen,CH,Rorschacher Strasse 95,,,,0,0,453,0,0,453,hcp,pfizer,rorschacher strasse 95,saint gallen,4447,33,24,39,96,
 4211,Ina Krull,St. Gallen,CH,Rorschacher Strasse 95,,,,,456.0,1427.0,,,1883,hcp,novo,rorschacher strasse 95,saint gallen,4211,29,24,39,92,
@@ -2559,7 +2559,7 @@
 4929,Ioannis Metaxas,Chur,CH,Loëstrasse 170,7000,,,,0.0,0.0,1000.0,0.0,1000.0,hcp,roche,loestrasse 170,chur,4929,22,0,43,65,
 4930,Ioannis Papadopoulos,Münchenstein,CH,Reinacherstrasse 28,4142,,,,462.4,294.97,500.0,0.0,1257.37,hcp,roche,reinacherstrasse 28,muenchenstein,4930,19,22,48,89,
 4648,Ioannis Papadopoulos,Muttenz,CH,Münchensteinerstrasse 10,,,,0,551,1008,1400,0,2960,hcp,pfizer,muenchensteinerstrasse 10,muttenz,4648,19,17,46,82,
-3926,Ioannis Petropoulos,Genève,CH,"Centre Ophtalnologique de Rive SA, Rue Pierre.Patio 15",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,centre ophtalnologique de rive son altesse rue pierre patio 15,geneve,1413,26,18,24,68,"name=100,location=100,address=81,total=281"
+3926,Ioannis Petropoulos,Genève,CH,"Centre Ophtalnologique de Rive SA, Rue Pierre Patio 15",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,centre ophtalnologique de rive son altesse rue pierre patio 15,geneve,1413,26,18,24,68,"name=100,location=100,address=81,total=281"
 1413,Ioannis Petropoulos,Genève,CH,Rue Pierre-Fatio 15,1204,40540196,0.0,0.0,934.65,7090.65,0.0,0.0,8025.3,hcp,bayer,rue pierre-fatio 15,geneve,1413,26,18,36,80,
 4409,Ioannis Zachariadis,Zürich,CH,Lenggstrasse 31,,,,,,,1600.0,596.0,2196.0,hcp,otsuka,lenggstrasse 31,zuerich,4409,32,17,41,90,
 1534,Irena Zivanovic,Baar,CH,Landhausstrasse 11,6340,40763887,0.0,0.0,-150.0,361.9,0.0,0.0,211.9,hcp,bayer,landhausstrasse 11,baar,1534,22,44,31,97,
@@ -2683,7 +2683,7 @@
 3471,Jasmine Noetzli,Lausanne,CH,Praxis,,,,,103.0,619.0,,,722.0,hcp,mundipharma,praxis,lausanne,3471,37,46,30,113,
 2566,Jasmine Nötzli,Lausanne,CH,Avenue de Rumine 35,,,,,1000.0,612.0,,,1612.0,hcp,gilead,avenue de rumine 35,lausanne,5419,40,46,30,116,"name=100,location=100,address=100,total=300"
 5419,Jasmine Nötzli,Lausanne,CH,Avenue de Rumine 35,,,,,225.25,545.75,,,771.0,hcp,shire,avenue de rumine 35,lausanne,3910,40,46,30,116,"name=100,location=100,address=100,total=300"
-3910,Jasmine Nötzli,Lausanne,CH,Cabinet de groupe« Avenue de Rumine 35,,,0,0,0,0,1800.00,0,1800.00,hcp,novartis,cabinet de groupe<< avenue de rumine 35,lausanne,2566,40,46,33,119,"name=100,location=100,address=100,total=300"
+3910,Jasmine Nötzli,Lausanne,CH,Cabinet de groupe Avenue de Rumine 35,,,0,0,0,0,1800.00,0,1800.00,hcp,novartis,cabinet de groupe avenue de rumine 35,lausanne,2566,40,46,33,119,"name=100,location=100,address=100,total=300"
 2882,Jasminka Cvetanovic,Gallen,CH,Neugasse 30,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck,neugasse 30,gallen,2882,19,36,40,95,
 5731,Jasna Aljinovic,Bern,CH,"Gemeinschaftspraxis Aljinovic, Laupenstrasse 4",,,,,,248.3,,,248.3,hcp,vifor,gemeinschaftspraxis aljinovic laupenstrasse 4,bern,5731,37,44,31,112,
 943,Jean Bérubé,Lugano,CH,Via Maggio 13,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca,via maggio 13,lugano,2972,10,18,22,50,"name=100,location=100,address=100,total=300"
@@ -2902,7 +2902,7 @@
 4943,Julian Cooper,Langenthal,CH,Hasenmattstrasse 37,4900,,,,462.4,448.54,0.0,0.0,910.94,hcp,roche,hasenmattstrasse 37,langenthal,4489,16,40,42,98,"name=100,location=100,address=100,total=300"
 4489,Julian Cooper,Langenthal,CH,Hasenmattstrasse 37,,,,0,0,0,80,0,80,hcp,pfizer,hasenmattstrasse 37,langenthal,1872,16,40,42,98,"name=100,location=100,address=100,total=300"
 1872,Julian Cooper,Langenthal,CH,Hasenmattstrasse 37,,,,,590.0,30.0,,,620,hcp,bristol,hasenmattstrasse 37,langenthal,4943,16,40,42,98,"name=100,location=100,address=100,total=300"
-3972,Julian Schardt,Bern,CH,"Inselspital , Insei-Gruppe AG Medizin Onkologie, Freiburgstrasse 18",,,0,0,0,0,2810.00,0,2810.00,hcp,novartis,inselspital  insei-gruppe ag medizin onkologie freiburgstrasse 18,bern,5232,31,44,26,101,"name=100,location=100,address=100,total=300"
+3972,Julian Schardt,Bern,CH,"Inselspital , Insel-Gruppe AG Medizin Onkologie, Freiburgstrasse 18",,,0,0,0,0,2810.00,0,2810.00,hcp,novartis,inselspital  insel-gruppe ag medizin onkologie freiburgstrasse 18,bern,5232,31,44,26,101,"name=100,location=100,address=100,total=300"
 5232,Julian Schardt,Bern,CH,Inselspital  Freiburgstrasse 18,3010,,,,400.2,,,,400.2,hcp,sanofi,inselspital freiburgstrasse 18,bern,1858,31,44,36,111,"name=100,location=100,address=100,total=300"
 1858,Julian Schardt,Bern,CH,Freiburgstrasse 18,,,,,235.0,477.0,750.0,,1462,hcp,bristol,freiburgstrasse 18,bern,3972,31,44,44,119,"name=100,location=100,address=100,total=300"
 1516,Julian Wampfler,Bern,CH,Freiburgstrasse 18,3010,1060197219,0.0,0.0,52.8,1221.84,0.0,0.0,1274.64,hcp,bayer,freiburgstrasse 18,bern,1516,30,44,44,118,
@@ -3130,7 +3130,7 @@
 4955,Konstantin Dedes,Zürich,CH,Frauenklinikstrasse 10,8091,,,,952.93,1947.09,500.0,0.0,3400.02,hcp,roche,frauenklinikstrasse 10,zuerich,4955,14,17,33,64,
 3696,Konstantin Dedes,Zürich,CH,"Universitätsspit al  Gynäkologische Klinik, Frauenklinikstra sse 10",,,0,0,0,0,800.00,0,800.00,hcp,novartis,universitaetsspit allee gynaekologische klinik frauenklinikstra sse 10,zuerich,3696,14,17,21,52,
 2728,Konstantin Ebauer,Wattwil,CH,Steig,,,,,135,851,0,0,986.0,hcp,jansen,steig,wattwil,2728,14,33,32,79,
-3764,Konstantin Gugleta,Basel,CH,"Universitätsspit al  Ophthalmologisch e Klinik, Mittlere Strasse 91",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,universitaetsspit allee ophthalmologisch e klinik mittlere strasse 91,basel,3764,13,100,24,137,
+3764,Konstantin Gugleta,Basel,CH,"Universitätsspital  Ophthalmologische Klinik, Mittlere Strasse 91",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,universitaetsspital ophthalmologische klinik mittlere strasse 91,basel,3764,13,100,23,136,
 5180,Konstantinos Koskinas,Bern,CH,Inselspital  Freiburgstrasse 18,3010,,,,,,2000.0,,2000.0,hcp,sanofi,inselspital freiburgstrasse 18,bern,5180,18,44,36,98,
 4654,Konstantinos Petsanis,Givisiez,CH,Route André Piller 16,,,,0,0,740,0,0,740,hcp,pfizer,route andre piller 16,givisiez,4654,18,31,34,83,
 754,Konstantinos Tyriakidis,Baden,CH,Im Ergel 1,,,,,256.46,483.16,,,739.62,hcp,amgen,im ergel 1,baden,3336,23,60,42,125,"name=100,location=100,address=100,total=300"
@@ -3248,8 +3248,8 @@
 1418,Leonidas Politoff,Vevey,CH,Rue du Collège 3,1800,40536043,0.0,0.0,188.65,495.55,0.0,0.0,684.2,hcp,bayer,rue du college 3,vevey,1418,28,20,33,81,
 6085,Leonora Zajmi,Wil SG,CH,"Praxis Dr. Zajmi Leonora, Obere Bahnhofstrasse 38",,,,,,269.3,,,269.3,hcp,vifor,praxis doktor zajmi leonora obere bahnhofstrasse 38,wil sargento segundo,2895,24,32,25,81,"name=100,location=100,address=100,total=300"
 2895,Leonora Zajmi,Wil SG,CH,Obere Bahnhofstrasse 38,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck,obere bahnhofstrasse 38,wil sargento segundo,2895,24,32,32,88,
-1735,Lesek Purek,Malans GR,CH,Karlihofstrasse 14a,7208,,,,,649.64,,,649.64,hcp,boehringer,karlihofstrasse 14a,malans grand,3936,26,24,42,92,"name=100,location=100,address=88,total=288"
-3936,Lesek Purek,Malans GR,CH,"Medical Center Karlihof, KarlihofStrasse 14 a",,,0,0,0,0,750.00,0,750.00,hcp,novartis,medical center karlihof karlihofstrasse 14 allee,malans grand,3936,26,24,32,82,
+1735,Lesek Purek,Malans GR,CH,Karlihofstrasse 14a,7208,,,,,649.64,,,649.64,hcp,boehringer,karlihofstrasse 14a,malans grand,1735,26,24,42,92,
+3936,Lesek Purek,Malans GR,CH,"Medical Center Karlihof, Karlihof Strasse 14 a",,,0,0,0,0,750.00,0,750.00,hcp,novartis,medical center karlihof karlihof strasse 14 allee,malans grand,3936,26,24,37,87,
 323,Lichtblau Mona,Zürich,CH,Rämistrasse 100,,,,,707.0,126.0,,,833.0,hcp,actelion,raemistrasse 100,zuerich,323,31,17,40,88,
 3037,Lienhard Hämmerle,Elsau,CH,Untere Egg 1,,,,,130.7,157.2,,,287.9,hcp,menarini,untere egg 1,elsau,3037,29,40,46,115,
 3194,Lienhard Widmer-Davidson,Wettingen,CH,Neustrasse 29,,,,,330.6,501.5,,,832.1,hcp,menarini,neustrasse 29,wettingen,4067,33,14,44,91,"name=100,location=100,address=100,total=300"
@@ -3257,7 +3257,7 @@
 2630,Lilian Junker,Thun,CH,Spital STS AG/Pneumologie,,7601000706836,,,0.0,0.0,450.0,0.0,450.0,hcp,glaxosmithkline,spital sts ag pneumologie,thun,2630,32,0,31,63,
 1674,Lilian Junker,Thun,CH,Krankenhausstrasse 12,3600,,,,,780.73,200.0,,980.73,hcp,boehringer,krankenhausstrasse 12,thun,5890,32,0,34,66,"name=100,location=100,address=100,total=300"
 5890,Lilian Junker,Thun,CH,"Spital  - STS AG, Krankenhausstrasse 12",,,,,330.26,454.95,,,785.21,hcp,vifor,spital  sts ag krankenhausstrasse 12,thun,5890,32,0,24,56,
-4064,Lilian Weiss,Zürich,CH,"Stadtspital Triemli Medizin Onkologie, Birmensdorferstr asse 497",,,0,0,360.00,234.50,0,0,594.50,hcp,novartis,stadtspital triemli medizin onkologie birmensdorferstr asse 497,zuerich,4064,42,17,23,82,
+4064,Lilian Weiss,Zürich,CH,"Stadtspital Triemli Medizin Onkologie, Birmensdorferstrasse 497",,,0,0,360.00,234.50,0,0,594.50,hcp,novartis,stadtspital triemli medizin onkologie birmensdorferstrasse 497,zuerich,4064,42,17,26,85,
 5880,Liliana Ilic,Muri b. Bern,CH,"Praxis Dr. Ilic Liliana, Egghölzliweg 1",,,,,,248.3,,,248.3,hcp,vifor,praxis doktor ilic liliana egghoelzliweg 1,muri bei bern,5880,33,22,21,76,
 4480,Liliane Christophe,Genève,CH,Rue de Villereuse 5,,,,0,0,176,630,0,806,hcp,pfizer,rue de villereuse 5,geneve,4480,27,18,36,81,
 5855,Liliane Gschwind,Genève,CH,"Hôpitaux Universitaires , Rue Gabrielle-Perret-Gentil 4",,,,,361.8,743.59,,,1105.39,hcp,vifor,hopitaux universitaires rue gabrielle-perret-gentil 4,geneve,5855,29,18,30,77,
@@ -3318,7 +3318,7 @@
 5106,Luca Milesi,Agno,CH,Viale Reina 1,,,,,,,300.0,,300.0,hcp,sandoz,viale reina 1,agno,5106,35,22,30,87,
 4964,Luca Quagliata,Basel,CH,Schönbeinstrasse 40,4031,,,,0.0,0.0,500.0,0.0,500.0,hcp,roche,schoenbeinstrasse 40,basel,967,23,100,47,170,"name=100,location=100,address=100,total=300"
 967,Luca Quagliata,Basel,CH,Institut für Pathologie Schönbeinstrasse 40,,,0.0,0.0,0.0,0.0,1256.62,537.1,1793.72,hcp,astrazeneca,institut fuer pathologie schoenbeinstrasse 40,basel,3938,23,100,31,154,"name=100,location=100,address=82,total=282"
-3938,Luca Quagliata,Basel,CH,"Universitätsspit al  Pathologie, Schönbeinstrasse 40",,,0,0,0,0,1125.00,2107.87,3232.87,hcp,novartis,universitaetsspit allee pathologie schoenbeinstrasse 40,basel,4964,23,100,29,152,"name=100,location=100,address=100,total=300"
+3938,Luca Quagliata,Basel,CH,"Universitätsspital  Pathologie, Schönbeinstrasse 40",,,0,0,0,0,1125.00,2107.87,3232.87,hcp,novartis,universitaetsspital pathologie schoenbeinstrasse 40,basel,4964,23,100,31,154,"name=100,location=100,address=100,total=300"
 1324,Lucas Jörg,St. Gallen,CH,Rorschacherstrasse 95,9007,40709082,0.0,0.0,740.0,963.08,0.0,0.0,1703.08,hcp,bayer,rorschacherstrasse 95,saint gallen,1324,10,24,40,74,
 2478,Lucas Leu,Zollikon,CH,Klinik Tiefenbrunnen Dammstrasse 29,,7601000213532,,,,,1600.7,,1600.7,hcp,galderma,klinik tiefenbrunnen dammstrasse 29,zollikon,2478,19,15,29,63,
 2586,Lucas Sponagel,Basel,CH,Grenzacherstrass e 62,,,,,526.0,,,,526.0,hcp,gilead,grenzacherstrass e 62,basel,2586,23,100,40,163,
@@ -3345,9 +3345,9 @@
 651,Ludivine Mercier-Vogel,Delémont,CH,Faubourg Descapucins 30,,,,,290.25,1306.19,,,1596.44,hcp,amgen,faubourg descapucins 30,delemont,651,35,31,27,93,
 4119,Ludmilla But,Aarau,CH,Bahnhofplatz 3C,,,,,693.0,2202.0,,,2895,hcp,novo,bahnhofplatz 3c,aarau,4119,33,20,21,74,
 1069,Ludovic Fleury,Lausanne,CH,Avenue Ruchonnet 53,,,,,0.0,679.0,0.0,0.0,679.0,hcp,baxter,avenue ruchonnet 53,lausanne,1069,31,46,30,107,
-3923,Ludwig Perger,Zürich,CH,"Universitätsspit al  Innere Medizin, Ränistrasse 100",,,0,0,0,0,800.00,0,800.00,hcp,novartis,universitaetsspit allee innere medizin raenistrasse 100,zuerich,3923,48,17,26,91,
+3923,Ludwig Perger,Zürich,CH,"Universitätsspital  Innere Medizin, Rämistrasse 100",,,0,0,0,0,800.00,0,800.00,hcp,novartis,universitaetsspital innere medizin raemistrasse 100,zuerich,4652,48,17,28,93,"name=100,location=100,address=100,total=300"
 4652,Ludwig Perger,Zürich,CH,Rämistrasse 100,,,,0,0,519,0,0,519,hcp,pfizer,raemistrasse 100,zuerich,677,48,17,40,105,"name=100,location=100,address=100,total=300"
-677,Ludwig Perger,Zürich,CH,Rämistrasse 100,,,,,457.5,1728.6,,,2186.1,hcp,amgen,raemistrasse 100,zuerich,677,48,17,40,105,
+677,Ludwig Perger,Zürich,CH,Rämistrasse 100,,,,,457.5,1728.6,,,2186.1,hcp,amgen,raemistrasse 100,zuerich,3923,48,17,40,105,"name=100,location=100,address=100,total=300"
 4520,Luigia Elzi,Locarno,CH,Via all'Ospedale 1,,,,0,258,565,0,0,823,hcp,pfizer,via allospedale 1,locarno,4520,43,17,32,92,
 5624,Luis Eduardo Heer,Lausanne,CH,Avenue de Rumine 6,,,,,458.0,727.0,,,1185,hcp,teva,avenue de rumine 6,lausanne,5624,28,46,31,105,
 481,Lukas Altwegg,Basel,CH,Kleinriehenstrasse 30,,,,,916.95,4091.45,,,5008.4,hcp,amgen,kleinriehenstrasse 30,basel,481,24,100,40,164,
@@ -3496,7 +3496,7 @@
 3982,Marcel Schmuki,St. Gallen,CH,"Gruppenpraxis, Poststrasse 12",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis,gruppenpraxis poststrasse 12,saint gallen,3982,23,24,38,85,
 3238,Marcel Tschopp,Zürich,CH,Forchstrasse 340,,,,,0.0,,500.0,,500,hcp,mepha,forchstrasse 340,zuerich,3238,23,17,47,87,
 2047,Marcel Walder,Dübendorf,CH,Strehlgasse 3,,WCHM07407627,,,391.11,68.85,,,459.96,hcp,celgene,strehlgasse 3,duebendorf,2047,32,27,44,103,
-4062,Marcel Weber,Zürich,CH,"Stadtspital Triemli Rheumatologische Klinik, Birmensdorferstr asse 497",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis,stadtspital triemli rheumatologische klinik birmensdorferstr asse 497,zuerich,4062,33,17,22,72,
+4062,Marcel Weber,Zürich,CH,"Stadtspital Triemli Rheumatologische Klinik, Birmensdorferstrasse 497",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis,stadtspital triemli rheumatologische klinik birmensdorferstrasse 497,zuerich,288,33,17,24,74,"name=100,location=100,address=100,total=300"
 288,Marcel Weber,Zürich,CH,Birmensdorferstrasse 497,,,,,,,750.0,,750.0,hcp,abbvie,birmensdorferstrasse 497,zuerich,288,33,17,47,97,
 3700,Marcello Di Valentino,Bellinzona,CH,"Ospedale Regionale di  e Valli Medizin Kardiologie, Via Ospedale",,,0,0,0,0,800.00,0,800.00,hcp,novartis,ospedale regionale di e valli medizin kardiologie via ospedale,bellinzona,3700,24,40,24,88,
 202,Marcello Orlandi,Solothurn,CH,Obachstrasse 23,,,,,552.0,1279.0,,,1831.0,hcp,abbvie,obachstrasse 23,solothurn,202,36,29,34,99,
@@ -3520,8 +3520,8 @@
 5338,Marco Kummer,Rheinfelden,CH,Habich-Dietschy-Strasse 18,4310,7601000777867,,,,,750.0,,750,hcp,servier,habich-dietschystrasse 18,rheinfelden,1342,17,25,36,78,"name=100,location=100,address=100,total=300"
 1342,Marco Kummer,Rheinfelden,CH,Habich-Dietschy-Strasse 18,4310,40761423,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer,habich-dietschystrasse 18,rheinfelden,1878,17,25,36,78,"name=100,location=100,address=100,total=300"
 1695,Marco Laures,Münsterlingen,CH,Spitalcampus 1,8596,,,,,643.0,,,643.0,hcp,boehringer,spitalcampus 1,muensterlingen,1695,25,32,29,86,
-1109,Marco Maggiorini,Zürich,CH,Rämistrasse 100,,,,,0.0,90.0,1000.0,0.0,1090.0,hcp,baxter,raemistrasse 100,zuerich,1109,36,17,40,93,
-4352,Marco Maggiorini,Zürich,CH,"Universitätsspital ,Rämistr.100",8091,,,,,,585.0,,585.0,hcp,orion,universitaetsspital raemistr.100,zuerich,4352,36,17,35,88,
+1109,Marco Maggiorini,Zürich,CH,Rämistrasse 100,,,,,0.0,90.0,1000.0,0.0,1090.0,hcp,baxter,raemistrasse 100,zuerich,4352,36,17,40,93,"name=100,location=100,address=100,total=300"
+4352,Marco Maggiorini,Zürich,CH,"Universitätsspital ,Rämistr. 100",8091,,,,,,585.0,,585.0,hcp,orion,universitaetsspital raemistrasse 100,zuerich,4352,36,17,32,85,
 174,Marco Messikommer,Visp,CH,Balfrinstrasse 14,,,,,348.0,459.0,,,807.0,hcp,abbvie,balfrinstrasse 14,visp,174,21,22,45,88,
 1061,Marco Miozzari,Schaffhausen,CH,Geissbergstrasse 81,,,,,158.8,240.0,750.0,0.0,1148.8,hcp,baxter,geissbergstrasse 81,schaffhausen,1061,38,35,48,121,
 3127,Marco Piergiovanni,Neuchâtel,CH,Avenue du Premier-Mars 33,,,,,380.3,,,,380.3,hcp,menarini,avenue du 1er-mars 33,neuchatel,819,20,43,29,92,"name=100,location=100,address=100,total=300"
@@ -3542,7 +3542,7 @@
 973,Marco Waser,Luzern,CH,Obergrundstrasse 88,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca,obergrundstrasse 88,luzern,1785,26,18,42,86,"name=100,location=100,address=100,total=300"
 1785,Marco Waser,Luzern,CH,Obergrundstrasse 88,6005,,,,,,750.0,,750.0,hcp,boehringer,obergrundstrasse 88,luzern,1517,26,18,42,86,"name=100,location=100,address=100,total=300"
 3462,Marcos Coronado,Vevey,CH,Hôpital Site de Samaritain,,,,,147.0,577.0,,,724.0,hcp,mundipharma,hopital site de samaritain,vevey,3462,30,20,35,85,
-3916,Marcos Ortega,Zürich,CH,"Neuromed , Stampfenbachstra sse 63",,,0,0,0,0,700.00,0,700.00,hcp,novartis,neuromed stampfenbachstra sse 63,zuerich,3916,24,17,30,71,
+3916,Marcos Ortega,Zürich,CH,"Neuromed , Stampfenbachstrasse 63",,,0,0,0,0,700.00,0,700.00,hcp,novartis,neuromed stampfenbachstrasse 63,zuerich,3916,24,17,36,77,
 5611,Marcus D'Souza,Basel,CH,Neurologie,,,,,429.0,574.0,,,1003,hcp,teva,neurologie,basel,5611,23,100,33,156,
 5162,Marcus Hassemer,Volketswil,CH,Hausarztpraxis   Im Tödiweg 1,8604,,,,,,250.0,,250.0,hcp,sanofi,hausarztpraxis im toediweg 1,volketswil,5162,22,27,24,73,
 2898,Marcus Herdener,Zürich,CH,"Zentrum für Abhängigkeitserkrankungen PUK, Selnaustrasse 9",,,,,,,1500.0,,1500.0,hcp,lundbeck,zentrum fuer abhaengigkeitserkrankungen puk selnaustrasse 9,zuerich,2898,22,17,27,66,
@@ -3571,7 +3571,7 @@
 5128,Maria Elisabete Coelho,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,431.12,420.34,,,851.46,hcp,sanofi,rue gabrielle-perret-gentil 4,geneve,5128,29,18,37,84,
 3019,Maria Francesco Galassi,Zürich,CH,Winterthurerstrasse 190,,,,,,,1800.0,,1800.0,hcp,menarini,winterthurerstrasse 190,zuerich,3019,29,17,49,95,
 5340,Maria Grazia Rossi,Lugano,CH,Via Tesserete 48,6900,7601000437600,,,,,400.0,,400,hcp,servier,via tesserete 48,lugano,5340,33,18,47,98,
-4058,Maria Haizel,Basel,CH,"Universitätsspit al  Ophthalmologisch e Klinik, Mittlere Strasse 91",,,0,0,0,0,800.00,0,800.00,hcp,novartis,universitaetsspit allee ophthalmologisch e klinik mittlere strasse 91,basel,4058,50,100,24,174,
+4058,Maria Haizel,Basel,CH,"Universitätsspital  Ophthalmologisch e Klinik, Mittlere Strasse 91",,,0,0,0,0,800.00,0,800.00,hcp,novartis,universitaetsspital ophthalmologisch e klinik mittlere strasse 91,basel,4058,50,100,25,175,
 3058,Maria Katchaluba,Clarens,CH,Rue Gambetta 27,,,,,127.2,103.3,,,230.5,hcp,menarini,rue gambetta 27,clarens,3058,29,33,34,96,
 541,Maria Luisa De Perna,Basel,CH,Petersgraben 4,,,,,259.95,185.5,,,445.45,hcp,amgen,petersgraben 4,basel,541,31,100,100,231,
 2050,Maria Mappoura,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,WCHM00009965,,,655.82,485.52,,,1141.34,hcp,celgene,rue gabrielle-perret-gentil 4,geneve,2050,23,18,37,78,
@@ -3728,7 +3728,7 @@
 2550,Marthe Than Lecompte,Genève,CH,Rue Gabrielle-Perret -Gentil 4,,,,,546.0,106.0,,,653.0,hcp,gilead,rue gabrielle-perret gentil 4,geneve,2550,19,18,37,74,
 1208,Martien Bontekoe,Luzern,CH,Spitalstrasse,6004,40755014,0.0,0.0,169.35,478.0,0.0,0.0,647.35,hcp,bayer,spitalstrasse,luzern,1208,14,18,44,76,
 5,Martin Andres,Bern,CH,Freiburgstrasse 18,,,,,933.0,1195.0,,,2128.0,hcp,abbvie,freiburgstrasse 18,bern,5,32,44,44,120,
-4328,Martin Balmer,Aarau,CH,"Kantonsspital  AG,Tellstr.25",5001,,,,,,400.0,,400.0,hcp,orion,kantonsspital ag tellstr.25,aarau,4328,32,20,29,81,
+4328,Martin Balmer,Aarau,CH,"Kantonsspital  AG,Tellstr. 25",5001,,,,,,400.0,,400.0,hcp,orion,kantonsspital ag tellstrasse 25,aarau,4328,32,20,36,88,
 2161,Martin Brüesch,Zürich,CH,Rämistrasse 100,,,,,,,1169.4,70.15,1239.55,hcp,cls,raemistrasse 100,zuerich,2161,16,17,40,73,
 516,Martin Buess,Basel,CH,Kleinriehenstrasse 30,,,,,615.18,2051.92,,,2667.1,hcp,amgen,kleinriehenstrasse 30,basel,516,17,100,40,157,
 5560,Martin Frey,Rombach,CH,Gislifluhweg 12,,,,,0.0,,1050.0,,1050,hcp,teva,gislifluhweg 12,rombach,5560,26,33,21,80,
@@ -3776,7 +3776,7 @@
 3412,Martin Oehri,Frauenfeld,CH,Rheuma- und Schmerzzentrum -  RSZF Rheinstrasse 23,,7601000468413,,,73.15,99.05,,,172.2,hcp,msd,rheuma und schmerzzentrum rszf rheinstrasse 23,frauenfeld,4645,33,40,30,103,"name=100,location=100,address=100,total=300"
 4645,Martin Oehri,Frauenfeld,CH,Rheinstrasse 23,,,,0,0,0,1480,0,1480,hcp,pfizer,rheinstrasse 23,frauenfeld,4980,33,40,41,114,"name=100,location=100,address=100,total=300"
 4980,Martin Oehri,Frauenfeld,CH,Rheinstrasse 23,8500,,,,0.0,0.0,500.0,0.0,500.0,hcp,roche,rheinstrasse 23,frauenfeld,3412,33,40,41,114,"name=100,location=100,address=100,total=300"
-3913,Martin Oehri,Frauenfeld,CH,Rheuma- und Schmerzzentrum« Rheinstrasse 23,,,0,0,0,0,700.00,0,700.00,hcp,novartis,rheuma und schmerzzentrum<< rheinstrasse 23,frauenfeld,3412,33,40,33,106,"name=100,location=100,address=100,total=300"
+3913,Martin Oehri,Frauenfeld,CH,Rheuma- und Schmerzzentrum Rheinstrasse 23,,,0,0,0,0,700.00,0,700.00,hcp,novartis,rheuma und schmerzzentrum rheinstrasse 23,frauenfeld,3412,33,40,33,106,"name=100,location=100,address=100,total=300"
 671,Martin Osranek,Dübendorf,CH,Adlerstrasse 1,,,,,503.45,935.24,,,1438.69,hcp,amgen,adlerstrasse 1,duebendorf,671,31,27,50,108,
 244,Martin Peter Schelling,Pfäffikon SZ,CH,Churerstrasse 54,,,,,312.0,611.0,,,923.0,hcp,abbvie,churerstrasse 54,pfaeffikon sz,244,29,22,53,104,
 5227,Martin Sachs,Aarau,CH,Hirslanden Klinik  Schänisweg,5001,,,,,,700.0,,700.0,hcp,sanofi,hirslanden klinik schaenisweg,aarau,3144,25,20,23,68,"name=100,location=100,address=100,total=300"
@@ -3798,7 +3798,7 @@
 619,Martina Kleber,Basel,CH,Petersgraben 4,,,,,500.92,3499.11,,,4000.03,hcp,amgen,petersgraben 4,basel,619,23,100,100,223,
 2756,Martina Lehnen-Schmauss,Rapperswil SG,CH,Kniestrasse 29,,,,,135,884,0,0,1019.0,hcp,jansen,kniestrasse 29,rapperswil sg,2756,17,33,43,93,
 2378,Martina Nordin,Baden-Dättwil,CH,Kinderwunschzentrum-Baden AG,,,,,300.0,713.0,,,1013,hcp,ferring,kinderwunschzentrum-baden ag,baden-daettwil,2378,31,42,33,106,
-3983,Martina Schneebeli,Zürich,CH,"Universitätsspit al , Ränistrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,universitaetsspit allee raenistrasse 100,zuerich,3983,27,17,33,77,
+3983,Martina Schneebeli,Zürich,CH,"Universitätsspital , Ränistrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,universitaetsspital raenistrasse 100,zuerich,3983,27,17,32,76,
 422,Marva Safa,Neuchâtel,CH,Rue de l'hôpital 18,2000,,,,,,4000.0,,4000.0,hcp,allergan,rue de l'hopital 18,neuchatel,422,18,43,30,91,
 2714,Maryam Ackermann-Zare,Genève,CH,Rue des Gares 12,,,,,350,0,0,0,350.0,hcp,jansen,rue des gares 12,geneve,2714,30,18,40,88,
 5344,Maryam Pavlicek,Bern,CH,,3010,7601000811325,,,419.0,914.0,,,1333,hcp,servier,nan,bern,5344,30,44,24,98,
@@ -3930,7 +3930,7 @@
 4601,Melanie Löffler-Baumann,Basel,CH,Kleinriehenstrasse 30,,,,0,224,962,0,0,1186,hcp,pfizer,kleinriehenstrasse 30,basel,4601,24,100,40,164,
 3535,Melanie Rehli,Chur,CH,Kantonsspital Graubünden,,,,,482.0,1070.0,,,1552.0,hcp,mundipharma,kantonsspital graubuenden,chur,3535,32,0,31,63,
 439,Melanie Timmermann,Olten,CH,"Klinik Pallas Augenzentrum , Louis Giroud-Strasse 20",,,,,,,500.0,,500.0,hcp,allergan,klinik pallas augenzentrum louis giroudstrasse 20,olten,4023,27,20,29,76,"name=100,location=100,address=85,total=285"
-4023,Melanie Timmermann,Olten,CH,"Pallas Klinik Ophthalmologisch e Klinik, Louis Giroud-Strasse 20",,,0,0,0,0,250.00,0,250.00,hcp,novartis,pallas klinik ophthalmologisch e klinik louis giroudstrasse 20,olten,4023,27,20,23,70,
+4023,Melanie Timmermann,Olten,CH,"Pallas Klinik Ophthalmologische Klinik, Louis Giroud-Strasse 20",,,0,0,0,0,250.00,0,250.00,hcp,novartis,pallas klinik ophthalmologische klinik louis giroudstrasse 20,olten,4023,27,20,21,68,
 5347,Mengistu Yared,Biel/Bienne,CH,,2502,7601000704597,,,477.0,597.0,,,1074,hcp,servier,nan,biel bienne,5347,23,38,24,85,
 2439,Mercedes Samira Sadowski,Genève,CH,Rue Gabrielle-Perret -Gentil 4,,7601000520661,,,,271.07,,,271.07,hcp,future,rue gabrielle-perret gentil 4,geneve,2439,28,18,37,83,
 327,Merminod Thierry,Nyon,CH,Avenue Viollier 8,,,,,539.0,422.0,,,961.0,hcp,actelion,avenue viollier 8,nyon,1378,21,0,26,47,"name=100,location=100,address=100,total=300"
@@ -3997,10 +3997,10 @@
 3896,Michael Müntener,Zürich,CH,"Stadtspital Triemli Urologische Klinik, Birmensdorferstr asse 497",,,0,0,0,0,500.00,0,500.00,hcp,novartis,stadtspital triemli urologische klinik birmensdorferstr asse 497,zuerich,3896,30,17,23,70,
 2765,Michael Müntener,Zürich,CH,Birmensdorferstrasse 497,,,,,0,0,2150,0,2150.0,hcp,jansen,birmensdorferstrasse 497,zuerich,2765,30,17,47,94,
 1396,Michael Nagler,Bern,CH,Freiburgstrasse 18,3010,40743559,0.0,0.0,410.0,1659.41,0.0,0.0,2069.41,hcp,bayer,freiburgstrasse 18,bern,1396,38,44,44,126,
-3906,Michael Nissen,Genève,CH,"Hôpitaux universitaires de  Rheumatologische Klinik, Avenue de Beau-S6jour 26",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,hopitaux universitaires de rheumatologische klinik avenue de beau-s6jour 26,geneve,4991,23,18,21,62,"name=100,location=100,address=83,total=283"
+3906,Michael Nissen,Genève,CH,"Hôpitaux universitaires de  Rheumatologische Klinik, Avenue de Beau-Séjour 26",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,hopitaux universitaires de rheumatologische klinik avenue de beau-sejour 26,geneve,4991,23,18,21,62,"name=100,location=100,address=100,total=300"
 4991,Michael Nissen,Genève,CH,Avenue de Beau-Séjour 26,1205,,,,549.27,782.53,0.0,0.0,1331.8,hcp,roche,avenue de beau-sejour 26,geneve,198,23,18,26,67,"name=100,location=100,address=100,total=300"
-198,Michael Nissen,Genève,CH,Avenue de Beau-Séjour 26,,,,,,,1000.0,,1000.0,hcp,abbvie,avenue de beau-sejour 26,geneve,2311,23,18,26,67,"name=100,location=100,address=100,total=300"
-2311,Michael Nissen,Genève,CH,Avenue de Beau- Séjour 26,,,,,,,3700.0,538.0,4238,hcp,eli,avenue de beau sejour 26,geneve,4991,23,18,26,67,"name=100,location=100,address=100,total=300"
+198,Michael Nissen,Genève,CH,Avenue de Beau-Séjour 26,,,,,,,1000.0,,1000.0,hcp,abbvie,avenue de beau-sejour 26,geneve,3906,23,18,26,67,"name=100,location=100,address=100,total=300"
+2311,Michael Nissen,Genève,CH,Avenue de Beau- Séjour 26,,,,,,,3700.0,538.0,4238,hcp,eli,avenue de beau sejour 26,geneve,3906,23,18,26,67,"name=100,location=100,address=100,total=300"
 4646,Michael Osthoff,Basel,CH,Petersgraben 4,,,,0,258,496,0,0,754,hcp,pfizer,petersgraben 4,basel,4646,22,100,100,222,
 817,Michael Oswald,Hergiswil,CH,"Urologie Zentrum , Sonnenbergstr. 9",,,,,0.0,1500.0,0.0,0.0,1500.0,hcp,astellas,urologie zentrum sonnenbergstrasse 9,hergiswil,5208,23,29,36,88,"name=100,location=100,address=100,total=300"
 5208,Michael Oswald,Hergiswil NW,CH,Urologie Zentrum Hergiswil  Sonnenbergstrasse 9,6052,,,,,,500.0,,500.0,hcp,sanofi,urologie zentrum hergiswil sonnenbergstrasse 9,hergiswil nordwest,204,23,17,30,70,"name=100,location=100,address=100,total=300"
@@ -4027,7 +4027,7 @@
 2684,Michael Sinnreich,Basel,CH,Petersgraben 4,,,,,0.0,0.0,1800.0,140.0,1940.0,hcp,gruenenthal,petersgraben 4,basel,2684,28,100,100,228,
 5717,Michael Späth,Uznach,CH,Gasterstrasse 25,,7601003818857,,,112.85,72.07,,,184.92,hcp,ucb,gasterstrasse 25,uznach,5717,25,18,53,96,
 4300,Michael Strunz,Zürich,CH,bergstrasse 70,,,,,456.0,1276.0,,,1732,hcp,novo,bergstrasse 70,zuerich,4300,31,17,50,98,
-4020,Michael Tamm,Basel,CH,"Universitätsspit al  Medizin Pneumologie, Petersgraben 4",,,0,0,0,0,3750.00,677.20,4427.20,hcp,novartis,universitaetsspit allee medizin pneumologie petersgraben 4,basel,4020,25,100,100,225,
+4020,Michael Tamm,Basel,CH,"Universitätsspital  Medizin Pneumologie, Petersgraben 4",,,0,0,0,0,3750.00,677.20,4427.20,hcp,novartis,universitaetsspital medizin pneumologie petersgraben 4,basel,4020,25,100,100,225,
 988,Michael Tamm,Basel,CH,Departement für Innere Medizin Petersgraben 4,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca,departement fuer innere medizin petersgraben 4,basel,988,25,100,100,225,
 5351,Michael Van Houte,Zug,CH,,6300,7601000777539,,,356.0,591.0,,,947,hcp,servier,nan,zug,5351,21,0,24,45,
 3589,Michael Weller,Zürich,CH,Universitätsspital,,,,,,,800.0,,800.0,hcp,mundipharma,universitaetsspital,zuerich,3589,31,17,30,78,
@@ -4399,7 +4399,7 @@
 1759,Oliver Sperisen,Zürich,CH,Birmensdorferstrasse 497,8063,,,,,999.33,,,999.33,hcp,boehringer,birmensdorferstrasse 497,zuerich,1759,30,17,47,94,
 4021,Oliver Tanneberger,Oberwil BL,CH,"Praxis Oliver Tanneberger, Bahnhofstrasse 19",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis,praxis oliver tanneberger bahnhofstrasse 19,oberwil boulevard,3564,33,36,28,97,"name=97,location=100,address=100,total=297"
 4307,Oliver Tschopp,Zürich,CH,Rämistrasse 100,,,,,456.0,1427.0,,,1883,hcp,novo,raemistrasse 100,zuerich,4030,23,17,40,80,"name=100,location=100,address=100,total=300"
-4030,Oliver Tschopp,Zürich,CH,"Universitätsspit al  Medizin Endo/Diabetologi e, Rämistrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,universitaetsspit allee medizin endo diabetologi e raemistrasse 100,zuerich,1497,23,17,25,65,"name=100,location=100,address=100,total=300"
+4030,Oliver Tschopp,Zürich,CH,"Universitätsspital  Medizin Endo/Diabetologie, Rämistrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,universitaetsspital medizin endo diabetologie raemistrasse 100,zuerich,1497,23,17,26,66,"name=100,location=100,address=100,total=300"
 1497,Oliver Tschopp,Zürich,CH,Rämistrasse 100,8091,40752190,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,bayer,raemistrasse 100,zuerich,4307,23,17,40,80,"name=100,location=100,address=100,total=300"
 5491,Olivia Pagani,Mortaio Inferiore,CH,Via Vela 11,6834,,0,0,0,0,5100.00,0,5100.00,hcp,takeda,via vela 11,mortaio inferiore,5491,40,9,24,73,
 5016,Olivia Pagani-Santoro,Viganello,CH,Viale Pietro Capelli 1,6962,,,,0.0,0.0,1500.0,0.0,1500.0,hcp,roche,viale pietro capelli 1,viganello,3917,36,43,39,118,"name=100,location=100,address=100,total=300"
@@ -4447,7 +4447,7 @@
 391,Panagotis Kouros,Glattzentrum,CH,Neue Winterthurerstrasse 99,8301,,,,,,500.0,70.0,570.0,hcp,allergan,neue winterthurerstrasse 99,glattzentrum,391,14,24,44,82,
 2077,Paola Chevallier,Cologny,CH,Chemin Frank-Thomas 68bis,,WCHM06239446,,,526.82,296.08,,236.76,1059.66,hcp,celgene,chemin frank-thomas 68bis,cologny,2077,36,17,26,79,
 5662,Paola Chevallier,Lausanne,CH,Avenue Pierre-Decker 4,,7601000500427,,,,,250.0,,250.0,hcp,ucb,avenue pierre-decker 4,lausanne,5662,36,46,39,121,
-4353,Paola Massarotto,Zürich,CH,"Universitätsspital ,Rämistr.100",8091,,,,,,500.0,,500.0,hcp,orion,universitaetsspital raemistr.100,zuerich,4353,14,17,35,66,
+4353,Paola Massarotto,Zürich,CH,"Universitätsspital ,Rämistr. 100",8091,,,,,,500.0,,500.0,hcp,orion,universitaetsspital raemistrasse 100,zuerich,4353,14,17,32,63,
 2385,Paola Minikus-Bacilieri,Zürich,CH,Gyn A.R.T. AG,,,,,597.0,320.0,,,917,hcp,ferring,gyn art aguascalientes,zuerich,2385,29,17,33,79,
 2915,Paolo Cottone,Orselina,CH,Via al Parco 27,,,,,586.0,1161.0,,,1747.0,hcp,lundbeck,via alessandria parco 27,orselina,2915,16,46,26,88,
 4544,Paolo Gozzi,Zürich,CH,Usteristrasse 12,,,,0,0,322,0,0,322,hcp,pfizer,usteristrasse 12,zuerich,4544,26,17,53,96,
@@ -4503,7 +4503,7 @@
 5196,Patrick Monnier,La Chaux-de- Fonds,CH,Cabinet médical FMH cardiologie Avenue Léopold-Robert 12,2300,,,,,,500.0,,500.0,hcp,sanofi,cabinet medical fmh cardiologie avenue leopold-robert 12,la chaux-de fonds,5196,22,27,23,72,
 2948,Patrick Nemeshazy,Langenthal,CH,Marktgasse 18,,,,,,636.0,,,636.0,hcp,lundbeck,marktgasse 18,langenthal,2948,28,40,37,105,
 2080,Patrick Oberholzer,Biel/Bienne,CH,General-Dufour-Strasse 17,,WCHM00002473,,,,,500.0,,500.0,hcp,celgene,general-dufourstrasse 17,biel bienne,2080,27,38,37,102,
-3914,Patrick Omoumi,Lausanne,CH,CH JV Radiologische Klinik« Rue du Bugnon 46,,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,chemin jv radiologische klinik<< rue du bugnon 46,lausanne,3914,23,46,23,92,
+3914,Patrick Omoumi,Lausanne,CH,CH JV Radiologische Klinik Rue du Bugnon 46,,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,chemin jv radiologische klinik rue du bugnon 46,lausanne,3914,23,46,23,92,
 3136,Patrick Rein,Heerbrugg,CH,Aechelistrasse 4,,,,,,,1200.0,,1200.0,hcp,menarini,aechelistrasse 4,heerbrugg,821,33,14,53,100,"name=100,location=100,address=100,total=300"
 821,Patrick Rein,Heerbrugg,CH,Praxis Dr. Rein Patrick Aechelistrasse 4,,,,,0.0,0.0,750.0,0.0,750.0,hcp,astellas,praxis doktor rein patrick aechelistrasse 4,heerbrugg,821,33,14,35,82,
 1831,Patrick Roth,Zürich,CH,Frauenklinikstrasse 26,,,,,,,1500.0,,1500,hcp,bristol,frauenklinikstrasse 26,zuerich,1831,33,17,33,83,
@@ -4681,15 +4681,15 @@
 5852,Philipp Grob-Blum,Spiez,CH,"Praxis Dr. BettschenHans Ulrich, Oberlandstrasse 9",,,,,330.26,444.1,,,774.36,hcp,vifor,praxis doktor bettschenhans ulrich oberlandstrasse 9,spiez,5852,28,40,27,95,
 579,Philipp Grosse,Chur,CH,Loestrasse 170,,,,,819.2,1175.35,,,1994.55,hcp,amgen,loestrasse 170,chur,579,23,0,43,66,
 3596,Philipp Hengstler,Wil,CH,Praxis,,,,,,,500.0,,500.0,hcp,mundipharma,praxis,wil,3596,28,25,30,83,
-3793,Philipp Huber,Bern,CH,"Praxis Philipp Huber, Bremgartenstrass e 119",,,0,0,0,0,250.00,0,250.00,hcp,novartis,praxis philipp huber bremgartenstrass e 119,bern,3793,24,44,32,100,
+3793,Philipp Huber,Bern,CH,"Praxis Philipp Huber, Bremgartenstrasse 119",,,0,0,0,0,250.00,0,250.00,hcp,novartis,praxis philipp huber bremgartenstrasse 119,bern,3793,24,44,32,100,
 2919,Philipp Kloimstein,Wattwil,CH,Psychiatrisches Zentrum ,,,,,,,500.0,,500.0,hcp,lundbeck,psychiatrisches zentrum,wattwil,5358,27,33,32,92,"name=100,location=100,address=100,total=300"
 5358,Philipp Kloimstein,Wattwil,CH,Psychiatrisches Zentrum,9630,7601000874818,,,356.0,597.0,,,954,hcp,servier,psychiatrisches zentrum,wattwil,5358,27,33,32,92,
 4795,Philipp Maletzki,Winterthur,CH,Brauerstrasse 15,,7601003847734,,,276.71,662.89,,,939.6,hcp,pierre,brauerstrasse 15,winterthur,4795,36,13,47,96,
-1366,Philipp Martin,Allschwil,CH,Baslerstrasse 96,4123,40539130,0.0,0.0,125.35,744.65,0.0,0.0,870.0,hcp,bayer,baslerstrasse 96,allschwil,3087,31,43,47,121,"name=100,location=100,address=100,total=300"
-3087,Philipp Martin,Allschwil,CH,Baslerstrasse 96,,,,,207.6,547.1,,,754.7,hcp,menarini,baslerstrasse 96,allschwil,3087,31,43,47,121,
+3087,Philipp Martin,Allschwil,CH,Baslerstrasse 96,,,,,207.6,547.1,,,754.7,hcp,menarini,baslerstrasse 96,allschwil,1366,31,43,47,121,"name=100,location=100,address=100,total=300"
+1366,Philipp Martin,Allschwil,CH,Baslerstrasse 96,4123,40539130,0.0,0.0,125.35,744.65,0.0,0.0,870.0,hcp,bayer,baslerstrasse 96,allschwil,1366,31,43,47,121,
 5711,Philipp Schreiner,Zürich,CH,Rämistrasse 100,,7601000940377,,,422.51,71.42,,,493.93,hcp,ucb,raemistrasse 100,zuerich,5711,34,17,40,91,
-2090,Philipp Spring,Epalinges,CH,Route de la Corniche 1,,WCHM00003236,,,,,500.0,,500.0,hcp,celgene,route de la corniche 1,epalinges,5454,38,29,28,95,"name=100,location=100,address=100,total=300"
-5454,Philipp Spring,Epalinges,CH,Route de la Corniche 1,,,,,,,500.0,,500.0,hcp,stallergenes,route de la corniche 1,epalinges,5454,38,29,28,95,
+5454,Philipp Spring,Epalinges,CH,Route de la Corniche 1,,,,,,,500.0,,500.0,hcp,stallergenes,route de la corniche 1,epalinges,2090,38,29,28,95,"name=100,location=100,address=100,total=300"
+2090,Philipp Spring,Epalinges,CH,Route de la Corniche 1,,WCHM00003236,,,,,500.0,,500.0,hcp,celgene,route de la corniche 1,epalinges,2090,38,29,28,95,
 1764,Philipp Stocker,Sarnen,CH,Brünigstrasse 181,6060,,,,,2720.24,,,2720.24,hcp,boehringer,bruenigstrasse 181,sarnen,1764,37,36,38,111,
 3563,Philipp Stocker,Sarnen,CH,Kantonsspital Obwalden,,,,,326.0,446.0,,,772.0,hcp,mundipharma,kantonsspital obwalden,sarnen,3563,37,36,33,106,
 4752,Philipp Wagdi,St. Gallen,CH,Notkerstrasse 10,,,,0,0,504,0,0,504,hcp,pfizer,notkerstrasse 10,saint gallen,4752,40,24,53,117,
@@ -4698,12 +4698,12 @@
 2969,Philippe Beissner,Zollikerberg,CH,Rietholzstrasse 4,,,,,196.1,35.8,1500.0,,1931.9,hcp,menarini,rietholzstrasse 4,zollikerberg,2969,21,24,52,97,
 349,Philippe Bichard,Genève,CH,Rue Gabrielle Perret Gentil 4,,,,,,1605.0,,,1605.0,hcp,allergan,rue gabrielle perret gentil 4,geneve,349,36,18,37,91,
 4479,Philippe Chassagne,Lausanne,CH,Chemin de Mont-Paisible 16,,,,0,0,268,0,0,268,hcp,pfizer,chemin de mont-paisible 16,lausanne,4479,27,46,30,103,
-1232,Philippe Cordey,Zollikofen,CH,Kirchlindachstrasse 7,3052,40525788,0.0,0.0,125.35,586.0,0.0,0.0,711.35,hcp,bayer,kirchlindachstrasse 7,zollikofen,5788,30,13,34,77,"name=100,location=100,address=100,total=300"
-5788,Philippe Cordey,Zollikofen,CH,"Gemeinschaftspraxis, Kirchlindachstrasse 7",,,,,474.7,758.81,1500.0,,2733.51,hcp,vifor,gemeinschaftspraxis kirchlindachstrasse 7,zollikofen,5788,30,13,29,72,
+5788,Philippe Cordey,Zollikofen,CH,"Gemeinschaftspraxis, Kirchlindachstrasse 7",,,,,474.7,758.81,1500.0,,2733.51,hcp,vifor,gemeinschaftspraxis kirchlindachstrasse 7,zollikofen,1232,30,13,29,72,"name=100,location=100,address=100,total=300"
+1232,Philippe Cordey,Zollikofen,CH,Kirchlindachstrasse 7,3052,40525788,0.0,0.0,125.35,586.0,0.0,0.0,711.35,hcp,bayer,kirchlindachstrasse 7,zollikofen,1232,30,13,34,77,
 1234,Philippe Cottagnoud,Bern,CH,Schänzlihalde 11,3013,40711684,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer,schaenzlihalde 11,bern,1234,32,44,32,108,
 5668,Philippe Duroux,Sion,CH,Avenue du Midi 9,,7601000066114,,,557.82,993.73,,,1551.55,hcp,ucb,avenue du midi 9,sion,5668,30,22,27,79,
-5469,Philippe Eddé,Lausanne,CH,Cabinet Dr Eddé Philippe Rue de la Barre 7,1005,,0,0,0,0,500.00,0,500.00,hcp,takeda,cabinet docteur edde philippe rue de la barre 7,lausanne,4145,33,46,23,102,"name=100,location=100,address=100,total=300"
-4145,Philippe Eddé,Lausanne,CH,Rue de la Barre 7,,,,,,,1600.0,,1600,hcp,novo,rue de la barre 7,lausanne,4145,33,46,32,111,
+4145,Philippe Eddé,Lausanne,CH,Rue de la Barre 7,,,,,,,1600.0,,1600,hcp,novo,rue de la barre 7,lausanne,5469,33,46,32,111,"name=100,location=100,address=100,total=300"
+5469,Philippe Eddé,Lausanne,CH,Cabinet Dr Eddé Philippe Rue de la Barre 7,1005,,0,0,0,0,500.00,0,500.00,hcp,takeda,cabinet docteur edde philippe rue de la barre 7,lausanne,5469,33,46,23,102,
 4515,Philippe Eggimann,Lausanne,CH,Rue du Bugnon 46,,,,0,0,0,2847,823,3670,hcp,pfizer,rue du bugnon 46,lausanne,4515,28,46,33,107,
 2949,Philippe Frédéric Ray,Fribourg,CH,"Av, Général-Guisan 56",,,,,,479.0,,,479.0,hcp,lundbeck,avenida calle general-guisan 56,fribourg,2949,39,15,31,85,
 5835,Philippe Gaillard,Martigny,CH,"Cabinet Dr Gaillard Philippe, Avenue de la Gare 19",,,,,322.61,1235.54,,,1558.15,hcp,vifor,cabinet docteur gaillard philippe avenue de la gare 19,martigny,5835,41,15,26,82,
@@ -4724,8 +4724,8 @@
 1874,Philippe Von Burg,Solothurn,CH,Schöngrünstrasse 38,,,,,,,3750.0,,3750,hcp,bristol,schoengruenstrasse 38,solothurn,5513,28,29,40,97,"name=100,location=100,address=100,total=300"
 5508,Philippe Vuillemin,Lausanne,CH,Cabinet Médical des Eterpeys Chemin des Eterpeys 1,1010,,0,0,0,0,500.00,0,500.00,hcp,takeda,cabinet medical des eterpeys chemin des eterpeys 1,lausanne,5508,27,46,27,100,
 5028,Philippe von Burg,Solothurn,CH,Schöngrünstrasse 38,4500,,,,387.67,1335.35,750.0,0.0,2473.02,hcp,roche,schoengruenstrasse 38,solothurn,5266,28,29,40,97,"name=100,location=100,address=100,total=300"
-4048,Philippe von Burg,Solothurn,CH,"Bürgerspital  Medizin Onkologie, Schöngrünstrasse 38",,,0,0,0,0,2050.00,0,2050.00,hcp,novartis,buergerspital medizin onkologie schoengruenstrasse 38,solothurn,5266,28,29,27,84,"name=100,location=100,address=100,total=300"
 4747,Philippe von Burg,Solothurn,CH,Schöngrünstrasse 38,,,,0,0,0,1400,0,1400,hcp,pfizer,schoengruenstrasse 38,solothurn,5266,28,29,40,97,"name=100,location=100,address=100,total=300"
+4048,Philippe von Burg,Solothurn,CH,"Bürgerspital  Medizin Onkologie, Schöngrünstrasse 38",,,0,0,0,0,2050.00,0,2050.00,hcp,novartis,buergerspital medizin onkologie schoengruenstrasse 38,solothurn,5266,28,29,27,84,"name=100,location=100,address=100,total=300"
 1780,Philippe von Burg,Solothurn,CH,Schöngrünstrasse 38,4500,,,,,,440.0,,440.0,hcp,boehringer,schoengruenstrasse 38,solothurn,5266,28,29,40,97,"name=100,location=100,address=100,total=300"
 3699,Philippe-Michel Desmangles,Genève,CH,"Centre Ophtalmologique de Rive SA, Rue Pierre-Fatio 15",,,0,0,0,0,250.00,0,250.00,hcp,novartis,centre ophtalmologique de rive son altesse rue pierre-fatio 15,geneve,3699,26,18,21,65,
 5599,Phillipe Vuadens,Sion,CH,Avenue Grand - Champsec 90,,,,,483.0,1086.0,,,1569,hcp,teva,avenue grand champsec 90,sion,5599,29,22,42,93,
@@ -4744,17 +4744,17 @@
 5030,Piero Pancaldi,Muralto,CH,Via della Stazione 3,6600,,,,0.0,0.0,1000.0,0.0,1000.0,hcp,roche,via della stazione 3,muralto,5030,46,33,29,108,
 219,Pierre André Rapin,Lavigny,CH,Route Du Vignoble 60,,,,,235.0,762.0,,,997.0,hcp,abbvie,route du vignoble 60,lavigny,219,34,17,35,86,
 2694,Pierre Antaki,Lausanne,CH,Route Aloys Fauquez 121,,,,,0.0,0.0,600.0,0.0,600.0,hcp,gruenenthal,route aloys fauquez 121,lausanne,2694,32,46,22,100,
+2233,Pierre Bohanes,Lausanne,CH,Avenue Vinet 28,,,,,175.0,369.0,300.0,,844,hcp,eli,avenue vinet 28,lausanne,1594,23,46,28,97,"name=100,location=100,address=100,total=300"
 1206,Pierre Bohanes,Fribourg,CH,Route de Villars 37,1700,40540224,0.0,0.0,356.4,152.0,0.0,0.0,508.4,hcp,bayer,route de villars 37,fribourg,1206,23,15,36,74,
-1594,Pierre Bohanes,Lausanne,CH,Avenue Alexandre-Vinet 28,1004,,,,,1653.2,,,1653.2,hcp,boehringer,avenue alexandre-vinet 28,lausanne,2233,23,46,31,100,"name=100,location=100,address=100,total=300"
-2233,Pierre Bohanes,Lausanne,CH,Avenue Vinet 28,,,,,175.0,369.0,300.0,,844,hcp,eli,avenue vinet 28,lausanne,2233,23,46,28,97,
+1594,Pierre Bohanes,Lausanne,CH,Avenue Alexandre-Vinet 28,1004,,,,,1653.2,,,1653.2,hcp,boehringer,avenue alexandre-vinet 28,lausanne,1594,23,46,31,100,
 1010,Pierre Chappuis,Genève,CH,Dép. de gynécologie et d'obstétrique Boulevard de la Cluse 30,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca,dep de gynecologie etage d'obstetrique boulevard de la cluse 30,geneve,1010,30,18,24,72,
 1267,Pierre Fontana,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1211,40540166,0.0,0.0,516.65,-299.65,0.0,0.0,217.0,hcp,bayer,rue gabrielle-perret-gentil 4,geneve,4159,23,18,37,78,"name=100,location=100,address=100,total=300"
 4159,Pierre Fontana,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,364.0,272.0,,,636,hcp,novo,rue gabrielle-perret-gentil 4,geneve,4159,23,18,37,78,
 595,Pierre Hoesli,Yverdon-les-Bains,CH,Rued'Entremonts 11,,,,,377.06,3326.27,,,3703.33,hcp,amgen,ruedentremonts 11,yverdon-les-bains,595,32,36,39,107,
 2143,Pierre Kaeser,Corcelles NE,CH,Rue du Petit-Berne 14,,,,,562.15,1231.3,,,1793.45,hcp,cls,rue du petit-berne 14,corcelles noreste,2143,24,18,40,82,
 5360,Pierre Kohler,Lausanne,CH,,1006,7601000007278,,,229.0,544.0,,,773,hcp,servier,nan,lausanne,5360,24,46,24,94,
-3407,Pierre Michetti,Lausanne,CH,Centre de Gastroentérologi e Beaulieu S.A Avenue Jomini 8,,7601000011961,,,,,12550.0,3150.0,15700.0,hcp,msd,centre de gastroenterologi e beaulieu son altesse avenue jomini 8,lausanne,2397,30,46,20,96,"name=100,location=100,address=100,total=300"
 5945,Pierre Michetti,Lausanne,CH,"Centre de Gastroentérologie, Avenue Jomini 8",,,,,,,3000.0,,3000.0,hcp,vifor,centre de gastroenterologie avenue jomini 8,lausanne,2397,30,46,28,104,"name=100,location=100,address=100,total=300"
+3407,Pierre Michetti,Lausanne,CH,Centre de Gastroentérologi e Beaulieu S.A Avenue Jomini 8,,7601000011961,,,,,12550.0,3150.0,15700.0,hcp,msd,centre de gastroenterologi e beaulieu son altesse avenue jomini 8,lausanne,2397,30,46,20,96,"name=100,location=100,address=100,total=300"
 2397,Pierre Michetti & Christian Felley,Lausanne,CH,Avenue Jomini 8,,,,,,,2000.0,,2000,hcp,ferring,avenue jomini 8,lausanne,5822,27,46,28,101,"name=100,location=100,address=100,total=300"
 3456,Pierre Mo Costabella,Lausanne,CH,Praxis,,,,,147.0,553.0,,,700.0,hcp,mundipharma,praxis,lausanne,3456,31,46,30,107,
 4662,Pierre Quadri,St-Imier,CH,Rue du Temple 3,,,,0,0,0,1450,0,1450,hcp,pfizer,rue du temple 3,st-imier,3132,24,15,34,73,"name=100,location=100,address=100,total=300"
@@ -4765,12 +4765,12 @@
 4463,Pierre-Alain Buchard,Sion,CH,Avenue Grand-Champsec 90,,,,0,224,709,0,0,933,hcp,pfizer,avenue grand-champsec 90,sion,4463,31,22,42,95,
 5093,Pierre-Alain Buchs,Sion,CH,Pharmacie du Midi Place du Midi,,,,,,,600.0,,600.0,hcp,sandoz,pharmacie du midi place du midi,sion,5093,33,22,27,82,
 3763,Pierre-Andrä Guerne,Genève,CH,"Hôpitaux universitaires de  Rheumatologische Klinik, Avenue de Beau-Séjour 26",,,0,0,0,0,3500.00,0,3500.00,hcp,novartis,hopitaux universitaires de rheumatologische klinik avenue de beau-sejour 26,geneve,5679,33,18,21,72,"name=100,location=100,address=100,total=300"
-5679,Pierre-André Guerne,Genève,CH,Avenue de Beau-Séjour 26,,7601000036742,,,,,1500.0,,1500.0,hcp,ucb,avenue de beau-sejour 26,geneve,1867,33,18,26,77,"name=100,location=100,address=100,total=300"
+5679,Pierre-André Guerne,Genève,CH,Avenue de Beau-Séjour 26,,7601000036742,,,,,1500.0,,1500.0,hcp,ucb,avenue de beau-sejour 26,geneve,99,33,18,26,77,"name=100,location=100,address=100,total=300"
+99,Pierre-André Guerne,Genève,CH,Avenue de Beau-Séjour 26,,,,,,,1925.0,,1925.0,hcp,abbvie,avenue de beau-sejour 26,geneve,3763,33,18,26,77,"name=100,location=100,address=100,total=300"
 1867,Pierre-André Guerne,Genève,CH,Avenue de Beau-Séjour 26,,,,,,,1500.0,,1500,hcp,bristol,avenue de beau-sejour 26,geneve,3763,33,18,26,77,"name=100,location=100,address=100,total=300"
 3032,Pierre-André Guerne,Genève,CH,Avenue de Beau-Séjour 26,,,,,,,1500.0,,1500.0,hcp,menarini,avenue de beau-sejour 26,geneve,3763,33,18,26,77,"name=100,location=100,address=100,total=300"
-99,Pierre-André Guerne,Genève,CH,Avenue de Beau-Séjour 26,,,,,,,1925.0,,1925.0,hcp,abbvie,avenue de beau-sejour 26,geneve,3763,33,18,26,77,"name=100,location=100,address=100,total=300"
 4548,Pierre-André Guerne,Bellevue,CH,Chemin de la Chenaie 7,,,,0,0,0,4000,0,4000,hcp,pfizer,chemin de la chenaie 7,bellevue,4548,33,46,28,107,
-3930,Pierre-André Piletta,Genève,CH,"Sk inpuls Dermatology Center, Rond-Point de Plainpalais 5",,,0,0,0,0,800.00,0,800.00,hcp,novartis,sk inpuls dermatology center rond-point de plainpalais 5,geneve,3930,26,18,23,67,
+3930,Pierre-André Piletta,Genève,CH,"Skinpuls Dermatology Center, Rond-Point de Plainpalais 5",,,0,0,0,0,800.00,0,800.00,hcp,novartis,skinpuls dermatology center rond-point de plainpalais 5,geneve,3930,26,18,23,67,
 4751,Pierre-André von Zeerleder,Bern,CH,Bremgartenstrasse 117,,,,0,572,567,0,0,1138,hcp,pfizer,bremgartenstrasse 117,bern,4751,32,44,46,122,
 3814,Pierre-Antoine Jauslin,Genève,CH,"Cabinet de groupe, Rue De-Candolle 14",,,0,0,0,0,700.00,0,700.00,hcp,novartis,cabinet de groupe rue de-candolle 14,geneve,3814,35,18,34,87,
 3932,Pierre-Antonio Pilotto,Genève,CH,"Cabinet Pierre-Antonio Pilotto, Chemin Malombrl 5",,,0,0,0,0,1700.00,0,1700.00,hcp,novartis,cabinet pierre-antonio pilotto chemin malombrl 5,geneve,3932,24,18,23,65,
@@ -4782,12 +4782,12 @@
 1671,Pierre-Yves Jayet,Lausanne,CH,Boulevard de Grancy 7,1006,,,,,1876.93,,,1876.93,hcp,boehringer,boulevard de grancy 7,lausanne,1671,21,46,40,107,
 1704,Pierre-Yves Martin,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1300.0,,1300.0,hcp,boehringer,rue gabrielle-perret-gentil 4,geneve,4391,27,18,37,82,"name=100,location=100,address=100,total=300"
 4391,Pierre-Yves Martin,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,1000.0,,1000.0,hcp,otsuka,rue gabrielle-perret-gentil 4,geneve,4391,27,18,37,82,
-5361,Pietro Foglia,Massagno,CH,Via Cabione 1a /via Madonna della Salute,6900,7601000524546,,,,,400.0,,400,hcp,servier,via cabione 1a via madonna della salute,massagno,3006,32,31,24,87,"name=100,location=100,address=100,total=300"
-3006,Pietro Foglia,Massagno,CH,Via Cabione 1a /via Madonna della Salute,,,,,391.3,762.2,,,1153.5,hcp,menarini,via cabione 1a via madonna della salute,massagno,3006,32,31,24,87,
+3006,Pietro Foglia,Massagno,CH,Via Cabione 1a /via Madonna della Salute,,,,,391.3,762.2,,,1153.5,hcp,menarini,via cabione 1a via madonna della salute,massagno,5361,32,31,24,87,"name=100,location=100,address=100,total=300"
+5361,Pietro Foglia,Massagno,CH,Via Cabione 1a /via Madonna della Salute,6900,7601000524546,,,,,400.0,,400,hcp,servier,via cabione 1a via madonna della salute,massagno,5361,32,31,24,87,
 4165,Pietro Gerber,Lugano,CH,Via Massagno 20,,,,,1077.0,2437.0,,,3514,hcp,novo,via massagno 20,lugano,4165,16,18,28,62,
 1642,Pietro Gianella,Lugano,CH,Via Tesserete 46,6900,,,,,,1200.0,,1200.0,hcp,boehringer,via tesserete 46,lugano,1642,37,18,47,102,
-5977,Pietro Peghini,Zürich,CH,"Praxis Dr. Peghini Pietro, Schaffhauserstrasse 359",,,,,200.83,659.68,,,860.51,hcp,vifor,praxis dottore peghini pietro schaffhauserstrasse 359,zuerich,3921,31,17,30,78,"name=100,location=100,address=91,total=291"
-3921,Pietro Peghini,Zürich,CH,"Praxis Pietro Peghini, Schaffhauserstra sse 359",,,0,0,0,0,2550.00,0,2550.00,hcp,novartis,praxis pietro peghini schaffhauserstra sse 359,zuerich,3921,31,17,33,81,
+5977,Pietro Peghini,Zürich,CH,"Praxis Dr. Peghini Pietro, Schaffhauserstrasse 359",,,,,200.83,659.68,,,860.51,hcp,vifor,praxis dottore peghini pietro schaffhauserstrasse 359,zuerich,3921,31,17,30,78,"name=100,location=100,address=100,total=300"
+3921,Pietro Peghini,Zürich,CH,"Praxis Pietro Peghini, Schaffhauserstrasse 359",,,0,0,0,0,2550.00,0,2550.00,hcp,novartis,praxis pietro peghini schaffhauserstrasse 359,zuerich,3921,31,17,34,82,
 589,Pirmin Häuptle,Basel,CH,Petersgraben 4,,,,,466.05,2200.92,,,2666.97,hcp,amgen,petersgraben 4,basel,589,24,100,100,224,
 293,Pirmin Wolfsgruber,Aarau,CH,Tellstrasse 25,,,,,316.0,935.0,,,1251.0,hcp,abbvie,tellstrasse 25,aarau,293,33,20,50,103,
 3234,Pius Brühlmann,Zürich,CH,Toblerstrasse 51,,,,,0.0,,2500.0,,2500,hcp,mepha,toblerstrasse 51,zuerich,3234,16,17,53,86,
@@ -4798,23 +4798,23 @@
 682,Quan Pham,Luzern,CH,Bundesplatz 15,,,,,117.0,58.5,,,175.5,hcp,amgen,bundesplatz 15,luzern,682,19,18,29,66,
 4127,Quinto Censi,Mendrisio,CH,Via Luigi Lavizzari 15,,,,,140.0,637.0,,,777,hcp,novo,via luigi lavizzari 15,mendrisio,4127,17,14,22,53,
 2201,R. Louma,Bern,CH,Südbahnhofstrasse 2,3007,,,,,,350.0,,350.0,hcp,daiichi,suedbahnhofstrasse 2,bern,2643,32,44,35,111,"name=83,location=100,address=100,total=283"
-4453,Racem Bouzguenda,Neuchâtel,CH,Rue de la Maladière 45,,,,0,0,0,1000,0,1000,hcp,pfizer,rue de la maladiere 45,neuchatel,5125,21,43,39,103,"name=100,location=100,address=100,total=300"
-5125,Racem Bouzguenda,Neuchâtel,CH,Hôpital neuchâtelois Rue de la Maladière 45,2000,,,,400.2,310.56,,,710.76,hcp,sanofi,hopital neuchatelois rue de la maladiere 45,neuchatel,5125,21,43,32,96,
+5125,Racem Bouzguenda,Neuchâtel,CH,Hôpital neuchâtelois Rue de la Maladière 45,2000,,,,400.2,310.56,,,710.76,hcp,sanofi,hopital neuchatelois rue de la maladiere 45,neuchatel,4453,21,43,32,96,"name=100,location=100,address=100,total=300"
+4453,Racem Bouzguenda,Neuchâtel,CH,Rue de la Maladière 45,,,,0,0,0,1000,0,1000,hcp,pfizer,rue de la maladiere 45,neuchatel,4453,21,43,39,103,
 32,Rachel Bregy,Bern,CH,Freiburgstrasse 4,,,,,564.0,700.0,,,1264.0,hcp,abbvie,freiburgstrasse 4,bern,32,25,44,52,121,
 3261,Radmila Moudry,Chur,CH,Institut für Spitalpharmazie Loëstrasse 170,,,,,499.0,,,,499,hcp,mepha,institut fuer spitalpharmazie loestrasse 170,chur,3261,38,0,31,69,
 3100,Rafael Meister,Chexbres,CH,Chemin de Chauderan 1,,,,,127.2,103.3,,,230.5,hcp,menarini,chemin de chauderan 1,chexbres,3100,23,31,34,88,
-4406,Rafael Traber,Viganello,CH,Via Luganetto 5,,,,,,,990.0,124.0,1114.0,hcp,otsuka,via luganetto 5,viganello,2921,32,43,28,103,"name=100,location=100,address=100,total=300"
-2921,Rafael Traber,Viganello,CH,Via Luganetto 5,,,,,,,1527.0,,1527.0,hcp,lundbeck,via luganetto 5,viganello,2921,32,43,28,103,
+2921,Rafael Traber,Viganello,CH,Via Luganetto 5,,,,,,,1527.0,,1527.0,hcp,lundbeck,via luganetto 5,viganello,4406,32,43,28,103,"name=100,location=100,address=100,total=300"
+4406,Rafael Traber,Viganello,CH,Via Luganetto 5,,,,,,,990.0,124.0,1114.0,hcp,otsuka,via luganetto 5,viganello,4406,32,43,28,103,
 2922,Raffaella Ada Colombo,Mendrisio,CH,Via Agostino Maspoli 6,,,,,,,1500.0,,1500.0,hcp,lundbeck,via agostino maspoli 6,mendrisio,2922,30,14,22,66,
 521,Raffaella Carnevale,Lugano,CH,Via Beltramina 3,,,,,,,500.0,,500.0,hcp,amgen,via beltramina 3,lugano,521,26,18,40,84,
 2923,Raffaella Pozzi,Lugano,CH,Corso Enrico Pestalozzi 4A,,,,,184.0,372.0,,,556.0,hcp,lundbeck,corso enrico pestalozzi 4a,lugano,2923,30,18,30,78,
-5362,Rafik Bouzegaou,Marsens,CH,Réseau fribourgeois de santé mentale - c/o Centre de soins hospitaliers - L'Hôpital 140,1633,7601003420951,,,,261.0,,,261,hcp,servier,reseau fribourgeois de sante mentale centreo centre de soins hospitaliers l'hopital 140,marsens,5362,22,50,22,94,
 3480,Rafik Bouzegaou,Marsens,CH,RFSM,,,,,184.0,472.0,,,656.0,hcp,mundipharma,rfsm,marsens,3480,22,50,22,94,
+5362,Rafik Bouzegaou,Marsens,CH,Réseau fribourgeois de santé mentale - c/o Centre de soins hospitaliers - L'Hôpital 140,1633,7601003420951,,,,261.0,,,261,hcp,servier,reseau fribourgeois de sante mentale centreo centre de soins hospitaliers l'hopital 140,marsens,5362,22,50,22,94,
 1301,Rahel Hautle,St. Gallen,CH,Vadianstrasse 31,9000,40759253,0.0,0.0,254.65,428.05,0.0,0.0,682.7,hcp,bayer,vadianstrasse 31,saint gallen,1301,33,24,33,90,
+5973,Rahel Odermatt,Fribourg,CH,"HFR -Hôpital Cantonal, Chemin des Pensionnats 2",,,,,565.21,1355.95,,,1921.16,hcp,vifor,hfr hopital cantonal chemin des pensionnats 2,fribourg,2093,23,15,27,65,"name=100,location=100,address=100,total=300"
 3321,Rahel Odermatt,Bern,CH,Freiburgstrasse 18,,,,,,,750.0,,750.0,hcp,merck,freiburgstrasse 18,bern,3321,23,44,44,111,
 2093,Rahel Odermatt,Fribourg,CH,Chemin des Pensionnats 2,,WCHM05410526,,,761.7,552.15,,,1313.85,hcp,celgene,chemin des pensionnats 2,fribourg,1876,23,15,32,70,"name=100,location=100,address=100,total=300"
 1876,Rahel Odermatt,Fribourg,CH,Chemin des Pensionnats 2,,,,,,,1250.0,,1250,hcp,bristol,chemin des pensionnats 2,fribourg,5973,23,15,32,70,"name=100,location=100,address=100,total=300"
-5973,Rahel Odermatt,Fribourg,CH,"HFR -Hôpital Cantonal, Chemin des Pensionnats 2",,,,,565.21,1355.95,,,1921.16,hcp,vifor,hfr hopital cantonal chemin des pensionnats 2,fribourg,2093,23,15,27,65,"name=100,location=100,address=100,total=300"
 5978,Rahel Pfammatter,Baden,CH,"Kantonsspital  AG, Im Ergel 1",,,,,335.94,982.17,,,1318.11,hcp,vifor,kantonsspital ag im ergel 1,baden,5978,21,60,29,110,
 2094,Rahel Ruth Hiltebrand,St. Gallen,CH,Rorschacher Strasse 95,,WCHM00008553,,,664.92,1027.2,,,1692.12,hcp,celgene,rorschacher strasse 95,saint gallen,2094,30,24,39,93,
 3131,Rail Polikar,Nyon,CH,Chemin Monastier 10,,,,,311.7,1871.6,1500.0,,2883.3,hcp,menarini,chemin monastier 10,nyon,687,33,0,30,63,"name=92,location=100,address=97,total=289"
@@ -4857,23 +4857,23 @@
 6108,Rebecca Wallimann Sommer,Winterthur,CH,Unterer Graben 35,,,,,234.0,91.0,0.0,0.0,325.0,hcp,zambon,unterer graben 35,winterthur,6108,22,13,45,80,
 1095,Rebekka Schmid,Zürich,CH,Witellikerstrasse 40,,,,,0.0,170.0,0.0,0.0,170.0,hcp,baxter,witellikerstrasse 40,zuerich,1095,15,17,53,85,
 2529,Regina Esser,Zürich,CH,Sihlhallenstrass e 30,,,,,667.0,715.0,,,1383.0,hcp,gilead,sihlhallenstrass e 30,zuerich,2529,17,17,34,68,
-6098,Regina Graf-Kirchbach,Schlieren,CH,Pflugstrasse 18,,,,,234.0,91.0,0.0,0.0,325.0,hcp,zambon,pflugstrasse 18,schlieren,3754,24,29,41,94,"name=100,location=100,address=100,total=300"
-3754,Regina Graf-Kirchbach,Schlieren,CH,"Gruppenpraxis, Pflugstrasse 18",,,0,0,0,0,800.00,0,800.00,hcp,novartis,gruppenpraxis pflugstrasse 18,schlieren,3754,24,29,42,95,
+3754,Regina Graf-Kirchbach,Schlieren,CH,"Gruppenpraxis, Pflugstrasse 18",,,0,0,0,0,800.00,0,800.00,hcp,novartis,gruppenpraxis pflugstrasse 18,schlieren,6098,24,29,42,95,"name=100,location=100,address=100,total=300"
+6098,Regina Graf-Kirchbach,Schlieren,CH,Pflugstrasse 18,,,,,234.0,91.0,0.0,0.0,325.0,hcp,zambon,pflugstrasse 18,schlieren,6098,24,29,41,94,
 1298,Regina Haldemann Heusler,Zürich,CH,Witellikerstrasse 40,8032,40762682,0.0,0.0,0.0,305.2,0.0,0.0,305.2,hcp,bayer,witellikerstrasse 40,zuerich,1298,33,17,53,103,
 1101,Regina Jampen,Bern,CH,Schänzlihalde 11,,,,,0.0,252.7,0.0,0.0,252.7,hcp,baxter,schaenzlihalde 11,bern,1101,24,44,32,100,
 4298,Regina Streuli,Lachen SZ,CH,Oberdorfstrasse 41,,,,,327.0,634.0,,,961,hcp,novo,oberdorfstrasse 41,lachen sz,4298,23,29,50,102,
 3341,Regina Woelky,Frauenfeld,CH,Pfaffenholzstrasse 4,,,,,,,750.0,,750.0,hcp,merck,pfaffenholzstrasse 4,frauenfeld,767,16,40,47,103,"name=100,location=100,address=100,total=300"
 767,Regina Woelky,Frauenfeld,CH,Pfaffenholzstrasse 4,,,,,259.25,213.08,,,472.33,hcp,amgen,pfaffenholzstrasse 4,frauenfeld,767,16,40,47,103,
-140,Regine Koepke,Luzern,CH,Löwengraben 14,,,,,280.0,232.0,,,512.0,hcp,abbvie,loewengraben 14,luzern,2823,16,18,69,103,"name=100,location=100,address=100,total=300"
-2823,Regine Koepke,Luzern,CH,Löwengraben 14,6004,,,,163.17,426.2,,,589.37,hcp,leo,loewengraben 14,luzern,2823,16,18,69,103,
+2823,Regine Koepke,Luzern,CH,Löwengraben 14,6004,,,,163.17,426.2,,,589.37,hcp,leo,loewengraben 14,luzern,140,16,18,69,103,"name=100,location=100,address=100,total=300"
+140,Regine Koepke,Luzern,CH,Löwengraben 14,,,,,280.0,232.0,,,512.0,hcp,abbvie,loewengraben 14,luzern,140,16,18,69,103,
 2640,Regula Capaul,Zürich,CH,Franklinstrasse 1,,7601000222374,,,0.0,0.0,750.0,0.0,750.0,hcp,glaxosmithkline,franklinstrasse 1,zuerich,2640,32,17,39,88,
 5548,Regula Ehrbar,Luzern,CH,Alpenstrasse 1,,,,,0.0,,500.0,,500,hcp,teva,alpenstrasse 1,luzern,5548,24,18,50,92,
 3704,Regula Erna Doggweiler,Zürich,CH,"KontinenzZentrum Hirslanden, Witellikerstrass e 46",,,0,0,0,0,800.00,0,800.00,hcp,novartis,kontinenzzentrum hirslanden witellikerstrass e 46,zuerich,3704,29,17,29,75,
+3390,Regula Honegger,Horgen,CH,Arztpraxis am Bahnhof Seestrasse 117,,7601000274762,,,,,1000.0,,1000.0,hcp,msd,arztpraxis am bahnhof seestrasse 117,horgen,1011,15,18,32,65,"name=100,location=100,address=100,total=300"
 1011,Regula Honegger,Horgen,CH,Seestrasse 117,,,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0,hcp,astrazeneca,seestrasse 117,horgen,5165,15,18,50,83,"name=100,location=100,address=100,total=300"
 5165,Regula Honegger,Horgen,CH,Arztpraxis am Bahnhof  Seestrasse 117,8810,,,,,,1550.0,,1550.0,hcp,sanofi,arztpraxis am bahnhof seestrasse 117,horgen,3390,15,18,32,65,"name=100,location=100,address=100,total=300"
-3390,Regula Honegger,Horgen,CH,Arztpraxis am Bahnhof Seestrasse 117,,7601000274762,,,,,1000.0,,1000.0,hcp,msd,arztpraxis am bahnhof seestrasse 117,horgen,1011,15,18,32,65,"name=100,location=100,address=100,total=300"
-2278,Regula Honegger,Horgen,CH,Seestrasse 117,,,,,,,1200.0,,1200,hcp,eli,seestrasse 117,horgen,1011,15,18,50,83,"name=100,location=100,address=100,total=300"
-4193,Regula Honegger,Horgen,CH,Seestrasse 117,,,,,369.0,1427.0,1000.0,,2796,hcp,novo,seestrasse 117,horgen,1011,15,18,50,83,"name=100,location=100,address=100,total=300"
+4193,Regula Honegger,Horgen,CH,Seestrasse 117,,,,,369.0,1427.0,1000.0,,2796,hcp,novo,seestrasse 117,horgen,3390,15,18,50,83,"name=100,location=100,address=100,total=300"
+2278,Regula Honegger,Horgen,CH,Seestrasse 117,,,,,,,1200.0,,1200,hcp,eli,seestrasse 117,horgen,3390,15,18,50,83,"name=100,location=100,address=100,total=300"
 3203,Regula Kaufmann,Zug,CH,Baarerstrasse 8,,,,,0.0,,330.0,,330,hcp,mepha,baarerstrasse 8,zug,3203,22,0,48,70,
 6119,Regula Meier Rüfenacht,Derendingen,CH,Hauptstrasse 7,,,,,234.0,91.0,0.0,0.0,325.0,hcp,zambon,hauptstrasse 7,derendingen,3098,24,12,50,86,"name=100,location=100,address=100,total=300"
 3098,Regula Rüfenacht Meier,Derendingen,CH,Hauptstrasse 7,,,,,207.6,547.1,,,754.7,hcp,menarini,hauptstrasse 7,derendingen,3098,24,12,50,86,
@@ -4883,24 +4883,24 @@
 2696,Reinhard Imoberdorf,Winterthur,CH,Brauerstrasse 15,,,,,0.0,0.0,1500.0,0.0,1500.0,hcp,gruenenthal,brauerstrasse 15,winterthur,2696,19,13,47,79,
 2096,Reinhard Lehner,Sarnen,CH,Marktstrasse 7,,WCHM00003674,,,465.43,239.39,,,704.82,hcp,celgene,marktstrasse 7,sarnen,2096,22,36,43,101,
 236,Reinhard Rüesch,St. Gallen,CH,Rorschacher Strasse 95,,,,,,,1000.0,127.0,1127.0,hcp,abbvie,rorschacher strasse 95,saint gallen,236,31,24,39,94,
-2346,Reinhard Zenhäusern,Brig,CH,"Spitalzentrum Oberwallis, Ueberlandstrasse 14",,,,,290.0,988.0,,,1278,hcp,eli,spitalzentrum oberwallis ueberlandstrasse 14,brigada,5264,33,33,38,104,"name=100,location=100,address=100,total=300"
-5264,Reinhard Zenhäusern,Brig,CH,Spitalzentrum Oberwallis Ueberlandstrasse 14,3900,,,,400.2,220.11,,,620.31,hcp,sanofi,spitalzentrum oberwallis ueberlandstrasse 14,brigada,5035,33,33,38,104,"name=100,location=100,address=100,total=300"
-5035,Reinhard Zenhäusern,Brig,CH,Überlandstrasse 14,3900,,,,0.0,75.33,0.0,0.0,75.33,hcp,roche,ueberlandstrasse 14,brigada,2346,33,33,55,121,"name=100,location=100,address=100,total=300"
-3724,Ren4 Fiechter,Wetzikon ZH,CH,"GZO Spital Wetzikon Medizin Pneumologie, Spitalstrasse 66",,,0,0,0,0,1875.00,0,1875.00,hcp,novartis,gzo spital wetzikon medizin pneumologie spitalstrasse 66,wetzikon zh,1012,24,12,26,62,"name=96,location=100,address=100,total=296"
+2346,Reinhard Zenhäusern,Brig,CH,"Spitalzentrum Oberwallis, Ueberlandstrasse 14",,,,,290.0,988.0,,,1278,hcp,eli,spitalzentrum oberwallis ueberlandstrasse 14,brigada,5035,33,33,38,104,"name=100,location=100,address=100,total=300"
+5035,Reinhard Zenhäusern,Brig,CH,Überlandstrasse 14,3900,,,,0.0,75.33,0.0,0.0,75.33,hcp,roche,ueberlandstrasse 14,brigada,5264,33,33,55,121,"name=100,location=100,address=100,total=300"
+5264,Reinhard Zenhäusern,Brig,CH,Spitalzentrum Oberwallis Ueberlandstrasse 14,3900,,,,400.2,220.11,,,620.31,hcp,sanofi,spitalzentrum oberwallis ueberlandstrasse 14,brigada,2346,33,33,38,104,"name=100,location=100,address=100,total=300"
 3997,Ren6 Siebenschein,Wettingen,CH,"Doktor Zentrum  AG, Bahnhofstrasse 88",,,0,0,0,0,750.00,0,750.00,hcp,novartis,doktor zentrum ag bahnhofstrasse 88,wettingen,1754,14,14,29,57,"name=97,location=100,address=100,total=297"
 5364,Renata Fatio,Zürich,CH,,8032,7601000227911,,,,,1000.0,,1000,hcp,servier,nan,zuerich,5364,33,17,24,74,
 1122,Renata Simatovic,Zürich,CH,Rämistrasse 100,,,,,0.0,65.0,0.0,0.0,65.0,hcp,baxter,raemistrasse 100,zuerich,1122,21,17,40,78,
-4611,Renate Mathieu,Solothurn,CH,Hauptbahnhofstrasse 12,,,,0,0,0,700,0,700,hcp,pfizer,hauptbahnhofstrasse 12,solothurn,2760,31,29,39,99,"name=100,location=100,address=100,total=300"
-2760,Renate Mathieu,Solothurn,CH,Hauptbahnhofstrasse 12,,,,,0,532,0,0,532.0,hcp,jansen,hauptbahnhofstrasse 12,solothurn,2760,31,29,39,99,
+2760,Renate Mathieu,Solothurn,CH,Hauptbahnhofstrasse 12,,,,,0,532,0,0,532.0,hcp,jansen,hauptbahnhofstrasse 12,solothurn,4611,31,29,39,99,"name=100,location=100,address=100,total=300"
+4611,Renate Mathieu,Solothurn,CH,Hauptbahnhofstrasse 12,,,,0,0,0,700,0,700,hcp,pfizer,hauptbahnhofstrasse 12,solothurn,4611,31,29,39,99,
 6046,Renate Spinas,Zürich,CH,"Kinderspital , Steinwiesstrasse 75",,,,,361.5,892.58,,,1254.08,hcp,vifor,kinderspital steinwiesstrasse 75,zuerich,6046,16,17,35,68,
-4201,Renato Kamm,Schwanden GL,CH,Hauptstrasse 42,,,,,,,1600.0,,1600,hcp,novo,hauptstrasse 42,schwanden gammel,1851,26,29,55,110,"name=100,location=100,address=100,total=300"
-1851,Renato Kamm,Schwanden GL,CH,Hauptstrasse 42,,,,,,,600.0,,600,hcp,bristol,hauptstrasse 42,schwanden gammel,1851,26,29,55,110,
+1851,Renato Kamm,Schwanden GL,CH,Hauptstrasse 42,,,,,,,600.0,,600,hcp,bristol,hauptstrasse 42,schwanden gammel,4201,26,29,55,110,"name=100,location=100,address=100,total=300"
+4201,Renato Kamm,Schwanden GL,CH,Hauptstrasse 42,,,,,,,1600.0,,1600,hcp,novo,hauptstrasse 42,schwanden gammel,4201,26,29,55,110,
 5192,Renato Meier,Glarus,CH,Kantonsspital  Burgstrasse 99,8750,,,,259.77,1431.12,,,1690.89,hcp,sanofi,kantonsspital burgstrasse 99,glarus,5192,25,36,33,94,
 4658,Renaud Pichon,Yverdon-les-Bains,CH,Rue d'Entremonts 11,,,,0,572,435,0,0,1006,hcp,pfizer,rue d'entremonts 11,yverdon-les-bains,4658,24,36,42,102,
 5365,Renzo Dal Zotto,Neuchâtel,CH,,2000,7601000068743,,,229.0,613.0,,,842,hcp,servier,nan,neuchatel,5365,37,43,24,104,
 2975,René Blumenthal,Naters,CH,Kelchbachstrasse 18,,,,,330.6,516.5,,,847.1,hcp,menarini,kelchbachstrasse 18,naters,2975,31,36,36,103,
 1012,René Fiechter,Wetzikon ZH,CH,Pneumologie Spitalstrasse 66,,,0.0,0.0,0.0,0.0,400.0,0.0,400.0,hcp,astrazeneca,pneumologie spitalstrasse 66,wetzikon zh,331,25,12,38,75,"name=100,location=100,address=100,total=300"
-331,René Fiechter,Wetzikon,CH,Spitalstrasse 66,,,,,452.0,666.0,,,1118.0,hcp,actelion,spitalstrasse 66,wetzikon,3724,25,15,47,87,"name=96,location=100,address=100,total=296"
+331,René Fiechter,Wetzikon,CH,Spitalstrasse 66,,,,,452.0,666.0,,,1118.0,hcp,actelion,spitalstrasse 66,wetzikon,3724,25,15,47,87,"name=100,location=100,address=100,total=300"
+3724,René Fiechter,Wetzikon ZH,CH,"GZO Spital Wetzikon Medizin Pneumologie, Spitalstrasse 66",,,0,0,0,0,1875.00,0,1875.00,hcp,novartis,gzo spital wetzikon medizin pneumologie spitalstrasse 66,wetzikon zh,1012,25,12,26,63,"name=100,location=100,address=100,total=300"
 4183,René Haldemann,Richterswil,CH,Chrummbächliweg 2,,,,,,,800.0,,800,hcp,novo,chrummbaechliweg 2,richterswil,4183,40,25,25,90,
 5898,René Kasé,Valens,CH,"Kliniken , Taminaplatz 1",,,,,,269.3,,,269.3,hcp,vifor,kliniken taminaplatz 1,valens,5898,32,36,28,96,
 4584,René Knollmann,Einsiedeln,CH,Spitalstrasse 28,,,,0,0,397,0,0,397,hcp,pfizer,spitalstrasse 28,einsiedeln,4584,32,40,47,119,
@@ -4924,11 +4924,11 @@
 1259,Reto Engel,St. Gallen,CH,Schützengasse 2,9000,40539868,0.0,0.0,410.65,988.28,700.0,0.0,2098.93,hcp,bayer,schuetzengasse 2,saint gallen,1259,27,24,47,98,
 3211,Reto Kressig,Basel,CH,Universitäre Altersmedizin,,,,,0.0,,1500.0,,1500,hcp,mepha,universitaere altersmedizin,basel,3211,25,100,34,159,
 5174,Reto Kälin,Neukirch (Egnach),CH,Arztpraxis FMH Allgemeine Medizin Bahnhofstrasse 62,9315,,,,,,700.0,,700.0,hcp,sanofi,arztpraxis fmh allgemeine medizin bahnhofstrasse 62,neukirch egnach,5174,38,20,28,86,
-3843,Reto Kühne,Zürich,CH,"Stadtspital Waid Medizin Onkologie, Tifechestrasse 99",,,0,0,0,0,1850.00,0,1850.00,hcp,novartis,stadtspital waid medizin onkologie tifechestrasse 99,zuerich,3843,19,17,24,60,
-1690,Reto Kühne,Zürich,CH,Tièchestrasse 99,8037,,,,,,700.0,,700.0,hcp,boehringer,tiechestrasse 99,zuerich,3310,19,17,47,83,"name=100,location=100,address=100,total=300"
-3310,Reto Kühne,Zürich,CH,Tièchestrasse 99,,,,,,,750.0,,750.0,hcp,merck,tiechestrasse 99,zuerich,5366,19,17,47,83,"name=100,location=100,address=100,total=300"
-5366,Reto Kühne,Zürich,CH,Tièchestrasse 99,8037,7601000147516,,,,,1200.0,,1200,hcp,servier,tiechestrasse 99,zuerich,1690,19,17,47,83,"name=100,location=100,address=100,total=300"
-2097,Reto Kühne,Zürich,CH,Tièchestrasse 99,,WCHM04294996,,,655.82,368.08,,,1023.9,hcp,celgene,tiechestrasse 99,zuerich,1690,19,17,47,83,"name=100,location=100,address=100,total=300"
+3843,Reto Kühne,Zürich,CH,"Stadtspital Waid Medizin Onkologie, Tièchestrasse 99",,,0,0,0,0,1850.00,0,1850.00,hcp,novartis,stadtspital waid medizin onkologie tiechestrasse 99,zuerich,1690,19,17,25,61,"name=100,location=100,address=100,total=300"
+1690,Reto Kühne,Zürich,CH,Tièchestrasse 99,8037,,,,,,700.0,,700.0,hcp,boehringer,tiechestrasse 99,zuerich,2097,19,17,47,83,"name=100,location=100,address=100,total=300"
+2097,Reto Kühne,Zürich,CH,Tièchestrasse 99,,WCHM04294996,,,655.82,368.08,,,1023.9,hcp,celgene,tiechestrasse 99,zuerich,3843,19,17,47,83,"name=100,location=100,address=100,total=300"
+5366,Reto Kühne,Zürich,CH,Tièchestrasse 99,8037,7601000147516,,,,,1200.0,,1200,hcp,servier,tiechestrasse 99,zuerich,3843,19,17,47,83,"name=100,location=100,address=100,total=300"
+3310,Reto Kühne,Zürich,CH,Tièchestrasse 99,,,,,,,750.0,,750.0,hcp,merck,tiechestrasse 99,zuerich,3843,19,17,47,83,"name=100,location=100,address=100,total=300"
 2549,Reto Laffer,Langenthal,CH,St. Urbanstrasse 67,,,,,272.0,544.0,,,816.0,hcp,gilead,sankt urbanstrasse 67,langenthal,147,26,40,40,106,"name=100,location=100,address=100,total=300"
 147,Reto Laffer,Langenthal,CH,St. Urbanstrasse 67,,,,,,,1000.0,,1000.0,hcp,abbvie,sankt urbanstrasse 67,langenthal,147,26,40,40,106,
 4644,Reto Nüesch,Schwyz,CH,Waldeggstrasse 10,,,,0,361,601,0,0,963,hcp,pfizer,waldeggstrasse 10,schwyz,4644,18,18,39,75,
@@ -4954,25 +4954,25 @@
 4385,Rigobert Hervais Kamdem,Fribourg,CH,Boulevard de Pérolles 30,,,,,403.45,1320.68,,,1724.13,hcp,otsuka,boulevard de perolles 30,fribourg,4385,29,15,26,70,
 3478,Rita Annoni Manghi,Genève,CH,HUG,,,,,184.0,464.0,,,648.0,hcp,mundipharma,hug,geneve,3478,33,18,12,63,
 2410,Rita Berther,Ilanz,CH,Spitalstrasse 6,,,,,,186.0,,,186.0,hcp,future,spitalstrasse 6,ilanz,2410,17,20,48,85,
-4308,Rita Eugenia Turello,Lausanne,CH,Rue de l'Ale 25,,,,,,,1000.0,,1000,hcp,novo,rue de l'ale 25,lausanne,4739,25,46,34,105,"name=100,location=100,address=100,total=300"
-4739,Rita Eugenia Turello,Lausanne,CH,Rue de l'Ale 25,,,,0,0,762,0,0,762,hcp,pfizer,rue de l'ale 25,lausanne,5038,25,46,34,105,"name=100,location=100,address=100,total=300"
-5038,Rita Turello,Lausanne,CH,Rue de l'Ale 25,1003,,,,0.0,0.0,800.0,0.0,800.0,hcp,roche,rue de l'ale 25,lausanne,4308,25,46,34,105,"name=100,location=100,address=100,total=300"
-2153,Rita Turello,Lausanne,CH,Rue de l'ale 25,,,,,,,1000.0,,1000.0,hcp,cls,rue de l'ale 25,lausanne,4308,25,46,34,105,"name=100,location=100,address=100,total=300"
+4739,Rita Eugenia Turello,Lausanne,CH,Rue de l'Ale 25,,,,0,0,762,0,0,762,hcp,pfizer,rue de l'ale 25,lausanne,4308,25,46,34,105,"name=100,location=100,address=100,total=300"
+4308,Rita Eugenia Turello,Lausanne,CH,Rue de l'Ale 25,,,,,,,1000.0,,1000,hcp,novo,rue de l'ale 25,lausanne,2153,25,46,34,105,"name=100,location=100,address=100,total=300"
+2153,Rita Turello,Lausanne,CH,Rue de l'ale 25,,,,,,,1000.0,,1000.0,hcp,cls,rue de l'ale 25,lausanne,4739,25,46,34,105,"name=100,location=100,address=100,total=300"
+5038,Rita Turello,Lausanne,CH,Rue de l'Ale 25,1003,,,,0.0,0.0,800.0,0.0,800.0,hcp,roche,rue de l'ale 25,lausanne,4739,25,46,34,105,"name=100,location=100,address=100,total=300"
 1110,Rizwan Hamer,Coventry,UK,Clifford Bridge Road,,,,,0.0,1077.6,950.0,0.0,2027.6,hcp,baxter,clifford bridge road,coventry,1110,25,15,24,64,
 5955,Robert Alfred Mueller,Ittigen,CH,"Anderegg & Partner (AGP), Talgut-Zentrum 5",,,,,,,800.0,,800.0,hcp,vifor,anderegg und partner agp talgut-zentrum 5,ittigen,5955,36,17,33,86,
 4637,Robert Alfred Müller,Ittigen,CH,Talgutzentrum 5,,,,0,0,504,0,0,504,hcp,pfizer,talgutzentrum 5,ittigen,4637,39,17,34,90,
 4443,Robert Blank,Weinfelden,CH,Rathausstrasse 11,,,,0,0,551,0,0,551,hcp,pfizer,rathausstrasse 11,weinfelden,2974,25,27,39,91,"name=100,location=100,address=100,total=300"
 2974,Robert Blank,Weinfelden,CH,Rathausstrasse 11,,,,,306.5,858.6,,,1166.0,hcp,menarini,rathausstrasse 11,weinfelden,2974,25,27,39,91,
 351,Robert Borny,Aarau,CH,Tellstrasse 25,5000,,,,,,1000.0,70.0,1070.0,hcp,allergan,tellstrasse 25,aarau,351,25,20,50,95,
-5463,Robert Bründler,Luzern,CH,MAGEN DARM LEBER - Dr. Bründler Hertensteinstr 29,6004,,0,0,184.25,914.28,0,0,1098.53,hcp,takeda,magen darm leber doktor bruendler hertensteinstr 29,luzern,5768,31,18,31,80,"name=100,location=100,address=96,total=296"
 5768,Robert Bründler,Luzern,CH,"MAGEN DARM LEBER - Dr. Bründler, Hertensteinstrasse 29",,,,,304.68,525.36,,,830.04,hcp,vifor,magen darm leber doktor bruendler hertensteinstrasse 29,luzern,2511,31,18,32,81,"name=100,location=100,address=100,total=300"
 2511,Robert Bründler,Luzern,CH,Hertensteinstrasse 29,,,,,259.0,105.0,,,365.0,hcp,gilead,hertensteinstrasse 29,luzern,2511,31,18,46,95,
-123,Robert Emil Hunger,Bern,CH,Freiburgstrasse 18,,,,,334.0,504.0,3500.0,,4338.0,hcp,abbvie,freiburgstrasse 18,bern,3799,33,44,44,121,"name=100,location=100,address=100,total=300"
-3799,Robert Hunger,Bern,CH,"Inselspital , Insei-Gruppe AG Dermatologische Klinik, Freiburgstrasse 18",,,0,0,0,0,3400.00,0,3400.00,hcp,novartis,inselspital  insei-gruppe ag dermatologische klinik freiburgstrasse 18,bern,5039,16,44,24,84,"name=100,location=100,address=100,total=300"
+5463,Robert Bründler,Luzern,CH,MAGEN DARM LEBER - Dr. Bründler Hertensteinstr 29,6004,,0,0,184.25,914.28,0,0,1098.53,hcp,takeda,magen darm leber doktor bruendler hertensteinstr 29,luzern,5768,31,18,31,80,"name=100,location=100,address=96,total=296"
+123,Robert Emil Hunger,Bern,CH,Freiburgstrasse 18,,,,,334.0,504.0,3500.0,,4338.0,hcp,abbvie,freiburgstrasse 18,bern,2464,33,44,44,121,"name=100,location=100,address=100,total=300"
+2464,Robert Hunger,Bern,CH,"Dermatologische Klinik Inselspital Inselspital , Insel Gruppe AG Freiburgstrasse 18",,7601000704108,,,,865.05,1200.0,,2065.05,hcp,galderma,dermatologische klinik inselspital inselspital  insel gruppe ag freiburgstrasse 18,bern,3799,16,44,24,84,"name=100,location=100,address=100,total=300"
+3799,Robert Hunger,Bern,CH,"Inselspital , Insel-Gruppe AG Dermatologische Klinik, Freiburgstrasse 18",,,0,0,0,0,3400.00,0,3400.00,hcp,novartis,inselspital  insel-gruppe ag dermatologische klinik freiburgstrasse 18,bern,123,16,44,24,84,"name=100,location=100,address=100,total=300"
 601,Robert Hunger,Bern,CH,Freiburgstrasse18,,,,,,,3500.0,120.61,3620.61,hcp,amgen,freiburgstrasse18,bern,123,16,44,39,99,"name=100,location=100,address=86,total=286"
-2464,Robert Hunger,Bern,CH,"Dermatologische Klinik Inselspital Inselspital , Insel Gruppe AG Freiburgstrasse 18",,7601000704108,,,,865.05,1200.0,,2065.05,hcp,galderma,dermatologische klinik inselspital inselspital  insel gruppe ag freiburgstrasse 18,bern,123,16,44,24,84,"name=100,location=100,address=100,total=300"
 5039,Robert Hunger,Bern,CH,Freiburgstrasse 18,3010,,,,0.0,0.0,1500.0,0.0,1500.0,hcp,roche,freiburgstrasse 18,bern,123,16,44,44,104,"name=100,location=100,address=100,total=300"
-5609,Robert Höpner,Bern,CH,Freiburgstrasse 18,,,,,429.0,782.0,,,1211,hcp,teva,freiburgstrasse 18,bern,3799,17,44,44,105,"name=88,location=100,address=100,total=288"
+5609,Robert Höpner,Bern,CH,Freiburgstrasse 18,,,,,429.0,782.0,,,1211,hcp,teva,freiburgstrasse 18,bern,2464,17,44,44,105,"name=88,location=100,address=100,total=288"
 5893,Robert Kalicki,Bern,CH,"Inselspital , Freiburgstrasse 15",,,,,,419.15,,,419.15,hcp,vifor,inselspital freiburgstrasse 15,bern,5893,46,44,36,126,
 1129,Robert Kistler,Zürich,CH,Rämistrasse 100,,,,,0.0,65.0,0.0,0.0,65.0,hcp,baxter,raemistrasse 100,zuerich,1129,31,17,40,88,
 3834,Robert Kosek,Winterthur,CH,"Ärztzentrum Töss, Zürcherstrasse 129",,,0,0,170.00,398.00,0,0,568.00,hcp,novartis,aerztzentrum toess zuercherstrasse 129,winterthur,3834,17,13,35,65,
@@ -4981,8 +4981,8 @@
 4392,Robert Mc Shine,Winterthur,CH,Wieshofstrasse 102,,,,,767.05,1172.35,,,1939.4,hcp,otsuka,wieshofstrasse 102,winterthur,4392,15,13,38,66,
 5368,Robert Rouhi,St. Moritz,CH,,7500,7601000736925,,,488.0,,,,488,hcp,servier,nan,saint moritz,5368,17,12,24,53,
 1449,Robert Schneider,Thun,CH,Bahnhofstrasse 1,3600,40541166,0.0,0.0,173.35,840.6,700.0,0.0,1713.95,hcp,bayer,bahnhofstrasse 1,thun,1449,14,0,33,47,
-1066,Robert Schorn,Lachen,CH,Oberdorfstrasse 41,,,,,158.8,346.4,0.0,0.0,505.2,hcp,baxter,oberdorfstrasse 41,lachen,723,16,36,50,102,"name=100,location=100,address=100,total=300"
-723,Robert Schorn,Lachen Sz,CH,Oberdorfstrasse 41,,,,,129.28,747.58,,,876.86,hcp,amgen,oberdorfstrasse 41,lachen sz,723,16,29,50,95,
+723,Robert Schorn,Lachen Sz,CH,Oberdorfstrasse 41,,,,,129.28,747.58,,,876.86,hcp,amgen,oberdorfstrasse 41,lachen sz,1066,16,29,50,95,"name=100,location=100,address=100,total=300"
+1066,Robert Schorn,Lachen,CH,Oberdorfstrasse 41,,,,,158.8,346.4,0.0,0.0,505.2,hcp,baxter,oberdorfstrasse 41,lachen,1066,16,36,50,102,
 830,Robert Steffen,Laufen,CH,Praxis Dr. Robert Steffen Bahnhofstrasse 4,,,,,437.0,654.3,0.0,0.0,1091.3,hcp,astellas,praxis doktor robert steffen bahnhofstrasse 4,laufen,830,8,36,34,78,
 5503,Robert Steffen,Küsnacht ZH,CH,Praxis Dr. Angst / Dr. Steffen Schiedhaldenstr. 1,8700,,0,0,0,0,8600.00,7737.50,16337.50,hcp,takeda,praxis doktor angst doktor steffen schiedhaldenstrasse 1,kuesnacht zh,5503,8,12,29,49,
 1013,Robert Thomann,Solothurn,CH,Endokrinologie / Diabetologie Schöngrünstrasse 42,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca,endokrinologie diabetologie schoengruenstrasse 42,solothurn,1013,8,29,35,72,
@@ -5045,7 +5045,7 @@
 34,Rolf Brücker,Luzern,CH,Zentralstrasse 1,,,,,348.0,406.0,,,754.0,hcp,abbvie,zentralstrasse 1,luzern,34,17,18,53,88,
 5139,Rolf Engelberger,Fribourg,CH,HFR -Hôpital Cantonal Chemin des Pensionnats 2,1708,,,,,,1250.0,,1250.0,hcp,sanofi,hfr hopital cantonal chemin des pensionnats 2,fribourg,1260,21,15,27,63,"name=100,location=100,address=100,total=300"
 1260,Rolf Engelberger,Fribourg,CH,Chemin des Pensionnats 2,1708,1051758257,0.0,0.0,0.0,0.0,0.0,1133.53,1133.53,hcp,bayer,chemin des pensionnats 2,fribourg,1260,21,15,32,68,
-4336,Rolf Ensner,Aarau,CH,"Kantonsspital  AG,Tellstr.1",5001,,,,272.42,917.9,,,1190.32,hcp,orion,kantonsspital ag tellstr.1,aarau,4336,17,20,30,67,
+4336,Rolf Ensner,Aarau,CH,"Kantonsspital  AG,Tellstr. 1",5001,,,,272.42,917.9,,,1190.32,hcp,orion,kantonsspital ag tellstrasse 1,aarau,4336,17,20,36,73,
 3031,Rolf Grunder,Münsingen,CH,Bahnhotplatz 1,,,,,207.6,547.1,,,754.7,hcp,menarini,bahnhotplatz 1,muensingen,3031,25,27,21,73,
 1330,Rolf Kempf,Kerns,CH,Hobielstrasse 24,6064,40529435,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer,hobielstrasse 24,kerns,1330,18,20,47,85,
 5371,Rolf Köster,Bremgarten AG,CH,,5620,7601000208439,,,,801.0,,,801,hcp,servier,nan,bremgarten ag,5371,18,33,24,75,
@@ -5075,7 +5075,7 @@
 4399,Romeo Restellini,Lausanne,CH,Rue Du Bugnon 46,,,,,1582.77,4.12,,,1586.89,hcp,otsuka,rue du bugnon 46,lausanne,4399,36,46,33,115,
 3469,Ronald Kraemer,Genève,CH,Praxis,,,,,103.0,765.0,,,868.0,hcp,mundipharma,praxis,geneve,3469,23,18,30,71,
 625,Ronald Kraemer,Genève,CH,Rue Emile-Yung 4,,,,,361.15,856.59,,,1217.74,hcp,amgen,rue emile-yung 4,geneve,625,23,18,47,88,
-3854,Ronald Langner,Zollikon,CH,"KopfwehZentrum Hirslanden Zürich, Forchstrasse 424",,,0,0,0,0,1750.00,0,1750.00,hcp,novartis,kopfwehzentrum hirslanden zuerich forchstrasse 424,zollikon,3854,23,15,28,66,
+3854,Ronald Langner,Zollikon,CH,"Kopfweh Zentrum Hirslanden Zürich, Forchstrasse 424",,,0,0,0,0,1750.00,0,1750.00,hcp,novartis,kopfweh zentrum hirslanden zuerich forchstrasse 424,zollikon,3854,23,15,28,66,
 513,Ronny Büchel,Zürich,CH,Rämistrasse 100,,,,,916.95,4091.45,,,5008.4,hcp,amgen,raemistrasse 100,zuerich,513,26,17,40,83,
 5045,Rosanna Zanetti Dällenbach,Basel,CH,Kleinriehenstrasse 30,4002,,,,545.5,587.13,0.0,0.0,1132.63,hcp,roche,kleinriehenstrasse 30,basel,5045,22,100,40,162,
 4487,Rosaria Condorelli,Locarno,CH,Via Ospedale 1,,,,0,0,0,1400,0,1400,hcp,pfizer,via ospedale 1,locarno,4487,33,17,36,86,
@@ -5221,7 +5221,7 @@
 2304,Sarah Malacarne,Meyrin,CH,Avenue Jean- Daniel Maillard 3,,,,,,,1000.0,,1000,hcp,eli,avenue jean daniel maillard 3,meyrin,4229,30,18,28,76,"name=100,location=100,address=100,total=300"
 4229,Sarah Malacarne,Meyrin,CH,Ave. Jean-Daniel Maillard 3,,,,,,,400.0,,400,hcp,novo,avenue jean-daniel maillard 3,meyrin,4229,30,18,28,76,
 397,Sarah Marti,Zollikerberg,CH,Tirchterhauserstrasse 12,8125,,,,1000.0,490.0,,100.0,1590.0,hcp,allergan,tirchterhauserstrasse 12,zollikerberg,397,35,24,42,101,
-3964,Sarah Rückforth,Zollikofen,CH,"Kardiologisch-Xn ternistische, Kirchlindachstra sse 2",,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis,kardiologisch-xn ternistische kirchlindachstra sse 2,zollikofen,3964,15,13,24,52,
+3964,Sarah Rückforth,Zollikofen,CH,"Kardiologisch-Internistische, Kirchlindachstrasse 2",,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis,kardiologisch-internistische kirchlindachstrasse 2,zollikofen,3964,15,13,28,56,
 1456,Sarah Schuler,Winterthur,CH,Brauerstrasse 15,8400,1051547767,0.0,0.0,113.35,2108.35,0.0,0.0,2221.7,hcp,bayer,brauerstrasse 15,winterthur,1456,24,13,47,84,
 1074,Sarah Wicki,Zürich,CH,Birmensdorferstrasse 497,,,,,0.0,181.4,0.0,0.0,181.4,hcp,baxter,birmensdorferstrasse 497,zuerich,1074,26,17,47,90,
 3891,Sarareh Moshir,Aarau,CH,"Kantonsspital  AG Labor Zentral/Chemie, Tellstrasse 25",,,0,0,0,0,800.00,0,800.00,hcp,novartis,kantonsspital ag labor zentral chemie tellstrasse 25,aarau,3891,23,20,27,70,
@@ -5279,7 +5279,7 @@
 5442,Sietse Hogendijk,Genève,CH,Ruelle de Couchant 7,,,,,243.0,408.0,,,651.0,hcp,stallergenes,ruelle de couchant 7,geneve,5442,21,18,29,68,
 604,Sigrid Jehle-Kunz,Luzern,CH,St. Annastrasse32,,,,,269.7,1413.05,2550.0,,4232.75,hcp,amgen,saint annastrasse32,luzern,604,34,18,30,82,
 5121,Silke Biethahn,Aarau,CH,Hirslanden Medical Center Rain 34,5000,,,,673.9,373.03,,,1046.93,hcp,sanofi,hirslanden medical center rain 34,aarau,5121,23,20,43,86,
-3779,Silke Henzen-Bücking,Sevelen,CH,"Landarztpraxis , Velturrietstrass e S",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis,landarztpraxis  velturrietstrass east san,sevelen,3779,19,50,30,99,
+3779,Silke Henzen-Bücking,Sevelen,CH,"Landarztpraxis , Velturrietstrasse 5",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis,landarztpraxis velturrietstrasse 5,sevelen,3779,19,50,38,107,
 4573,Silke Jahr,Rapperswil SG,CH,Rathausstrasse 2,,,,0,551,1003,630,0,2184,hcp,pfizer,rathausstrasse 2,rapperswil sg,4573,27,33,40,100,
 2485,Sillard Philippe,Genève,CH,Rue de la Terrassi,,7601000730046,,,,,1400.7,,1400.7,hcp,galderma,rue de la terrassi,geneve,2485,36,18,44,98,
 2992,Silvia Dröschet,Thalwil,CH,Bahnhofstrasse 12,,,,,130.7,120.5,,,251.2,hcp,menarini,bahnhofstrasse 12,thalwil,2992,31,33,32,96,
@@ -5300,7 +5300,7 @@
 5773,Simon Johannes Bütikofer,Zürich,CH,"UniversitätsSpital , Rämistrasse 100",,,,,304.68,523.35,,,828.03,hcp,vifor,universitaetsspital raemistrasse 100,zuerich,5773,11,17,32,60,
 1894,Simon Jung,Bern,CH,Freiburgstrasse 18,,,,,,,688.0,,688,hcp,bristol,freiburgstrasse 18,bern,1325,9,44,44,97,"name=100,location=100,address=100,total=300"
 1325,Simon Jung,Bern,CH,Freiburgstrasse 18,3010,40713179,0.0,0.0,420.65,727.55,530.0,0.0,1678.2,hcp,bayer,freiburgstrasse 18,bern,1325,9,44,44,97,
-3962,Simon Paul Rothenbühler,Basel,CH,"Universitätsspit al  Ophthalmologisch e Klinik, Mittlere Strasse 91",,,0,0,0,0,750.00,0,750.00,hcp,novartis,universitaetsspit allee ophthalmologisch e klinik mittlere strasse 91,basel,3962,24,100,24,148,
+3962,Simon Paul Rothenbühler,Basel,CH,"Universitätsspital  Ophthalmologische Klinik, Mittlere Strasse 91",,,0,0,0,0,750.00,0,750.00,hcp,novartis,universitaetsspital ophthalmologische klinik mittlere strasse 91,basel,3962,24,100,23,147,
 5055,Simon Ramseier,Dättwil,CH,Mellingerstrasse 207,5405,,,,0.0,0.0,600.0,0.0,600.0,hcp,roche,mellingerstrasse 207,daettwil,3939,23,46,47,116,"name=100,location=100,address=100,total=300"
 3939,Simon Ramseier,Dättwil AG,CH,"Ärztezentrum Täfernhof, Mellingerstrasse 207",,,0,0,0,0,1950.00,0,1950.00,hcp,novartis,aerztezentrum taefernhof mellingerstrasse 207,daettwil ag,3939,23,38,34,95,
 3150,Simon Schläppi,Toben,CH,Bahnhofstrasse 7,,,,,192.9,147.2,,,340.1,hcp,menarini,bahnhofstrasse 7,toben,3150,24,40,33,97,
@@ -5486,8 +5486,8 @@
 3717,Susanna Enderlin Steiger,Zürich,CH,"Gruppenpraxis, Bederstrasse 51",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis,gruppenpraxis bederstrasse 51,zuerich,3717,33,17,42,92,
 78,Susanna Fistarol-Bohn,Basel,CH,Missionsstrasse 28,,,,,340.0,170.0,,,510.0,hcp,abbvie,missionsstrasse 28,basel,78,18,100,31,149,
 1035,Susanna Stoll,Zürich,CH,Medizinische Onkologie und Hämatologie Birmensdorferstrasse 497,,,0.0,0.0,0.0,0.0,1250.0,95.0,1345.0,hcp,astrazeneca,medizinische onkologie und haematologie birmensdorferstrasse 497,zuerich,5064,24,17,26,67,"name=100,location=100,address=100,total=300"
-5064,Susanna Stoll,Zürich,CH,Birmensdorferstrasse 497,8063,,,,654.6,562.06,0.0,0.0,1216.66,hcp,roche,birmensdorferstrasse 497,zuerich,5064,24,17,47,88,
-4013,Susanna Stoll,Zürich,CH,"Stadtspital Triemli Medizin Onkologie, Birmensdorferstr asse 497",,,0,0,0,0,1975.00,0,1975.00,hcp,novartis,stadtspital triemli medizin onkologie birmensdorferstr asse 497,zuerich,4013,24,17,23,64,
+5064,Susanna Stoll,Zürich,CH,Birmensdorferstrasse 497,8063,,,,654.6,562.06,0.0,0.0,1216.66,hcp,roche,birmensdorferstrasse 497,zuerich,4013,24,17,47,88,"name=100,location=100,address=100,total=300"
+4013,Susanna Stoll,Zürich,CH,"Stadtspital Triemli Medizin Onkologie, Birmensdorferstrasse 497",,,0,0,0,0,1975.00,0,1975.00,hcp,novartis,stadtspital triemli medizin onkologie birmensdorferstrasse 497,zuerich,4013,24,17,26,67,
 2111,Susanna Sylvia Crivelli,Frauenfeld,CH,Pfaffenholzstrasse 4,,WCHM00007274,,,382.95,369.58,,,752.53,hcp,celgene,pfaffenholzstrasse 4,frauenfeld,2111,23,40,47,110,
 2112,Susanne Bucher,Herrliberg,CH,Schulhausstrasse 12,,WCHM01648670,,,,,500.0,,500.0,hcp,celgene,schulhausstrasse 12,herrliberg,2112,8,27,30,65,
 4464,Susanne Buchholz,Zürich,CH,Toblerstrasse 51,,,,0,0,453,0,0,453,hcp,pfizer,toblerstrasse 51,zuerich,515,21,17,53,91,"name=100,location=100,address=84,total=284"
@@ -5606,7 +5606,7 @@
 5382,Thomas Binder,Wettingen,CH,"Praxis Thomas Binder, Etzelmatt 1",5430,7601000162052,,,419.0,1213.0,,,1632,hcp,servier,praxis thomas binder etzelmatt 1,wettingen,3649,16,14,30,60,"name=100,location=100,address=100,total=300"
 3649,Thomas Binder,Wettingen,CH,"Praxis Thomas Binder, Etzelmatt 1",,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis,praxis thomas binder etzelmatt 1,wettingen,3649,16,14,30,60,
 1596,Thomas Brack,Glarus,CH,Burgstrasse 99,8750,,,,,1154.77,,,1154.77,hcp,boehringer,burgstrasse 99,glarus,1596,17,36,43,96,
-4334,Thomas Brunner,St.Gallen,CH,"Hirslandenklinik Stephanshorn,Brauerstr.95",9016,,,,225.82,1009.36,,,1235.18,hcp,orion,hirslandenklinik stephanshorn brauerstr.95,stora gallen,4334,8,24,29,61,
+4334,Thomas Brunner,St.Gallen,CH,"Hirslandenklinik Stephanshorn,Brauerstr. 95",9016,,,,225.82,1009.36,,,1235.18,hcp,orion,hirslandenklinik stephanshorn brauerstrasse 95,stora gallen,4334,8,24,30,62,
 2941,Thomas Buder,St. Moritz,CH,Via Rosatsch 7,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck,via rosatsch 7,saint moritz,2941,17,12,29,58,
 3242,Thomas Böni,Zürich,CH,Forchstr. 340,,,,,0.0,,800.0,,800,hcp,mepha,forchstrasse 340,zuerich,3242,18,17,47,82,
 1868,Thomas Daikeler,Basel,CH,Petersgraben 4,,,,,590.0,772.0,,,1362,hcp,bristol,petersgraben 4,basel,1868,30,100,100,230,
@@ -5653,7 +5653,7 @@
 146,Thomas Krusche,Zug,CH,Baarerstrasse 8,,,,,,,500.0,,500.0,hcp,abbvie,baarerstrasse 8,zug,146,8,0,48,56,
 5925,Thomas Kurowski,Zürich,CH,"UniversitätsSpital , Rämistrasse 100",,,,,284.82,62.08,,,346.9,hcp,vifor,universitaetsspital raemistrasse 100,zuerich,5925,15,17,32,64,
 628,Thomas Kühne,Basel,CH,Spitalstrasse 33,,,,,,,2500.0,695.0,3195.0,hcp,amgen,spitalstrasse 33,basel,3844,9,100,47,156,"name=100,location=100,address=100,total=300"
-3844,Thomas Kühne,Basel,CH,Universitäts-Kin derspital (UKBB) Pädiatrie Onko-/Hämatologi •> Spitalstrasse 33,,,0,0,0,0,6129.70,0,6129.70,hcp,novartis,universitaets-kin derspital ukbb paediatrie onko haematologi • spitalstrasse 33,basel,4214,9,100,24,133,"name=100,location=100,address=100,total=300"
+3844,Thomas Kühne,Basel,CH,"Universitäts-Kinderspital (UKBB) Pädiatrie Onko-/Hämatologie, Spitalstrasse 33",,,0,0,0,0,6129.70,0,6129.70,hcp,novartis,universitaets-kinderspital ukbb paediatrie onko haematologie spitalstrasse 33,basel,4214,9,100,22,131,"name=100,location=100,address=100,total=300"
 2136,Thomas Kühne,Basel,CH,"Spitalstrasse 33, Postfach",,,,,421.5,935.5,1000.0,,2357.0,hcp,cls,spitalstrasse 33 postfach,basel,628,9,100,36,145,"name=100,location=100,address=100,total=300"
 4214,Thomas Kühne,Basel,CH,Spitalstrasse 33,,,,,,468.0,1500.0,,1968,hcp,novo,spitalstrasse 33,basel,628,9,100,47,156,"name=100,location=100,address=100,total=300"
 1341,Thomas Kühne,Basel,CH,Spitalstrasse 33,4056,40763580,0.0,0.0,460.65,6462.3,0.0,0.0,6922.95,hcp,bayer,spitalstrasse 33,basel,628,9,100,47,156,"name=100,location=100,address=100,total=300"
@@ -5693,7 +5693,7 @@
 3581,Thomas Rothe,Chur,CH,Kantonsspital Graubünden,,,,,326.0,386.0,,,712.0,hcp,mundipharma,kantonsspital graubuenden,chur,6010,8,0,31,39,"name=100,location=100,address=100,total=300"
 3961,Thomas Rothe,Chur,CH,"Kantonsspital Graubünden Medizin Pneumologie, Loestrasse 170",,,0,0,0,0,750.00,0,750.00,hcp,novartis,kantonsspital graubuenden medizin pneumologie loestrasse 170,chur,6010,8,0,24,32,"name=100,location=100,address=100,total=300"
 5561,Thomas Rothe,Feldis,CH,Dimurs 7,,,,,0.0,,2250.0,350.0,2600,hcp,teva,dimurs 7,feldis,5561,8,36,27,71,
-3965,Thomas Ruhstaller,St. Gallen,CH,"Kantonsspital  Brustzentrum/Chi rurgie, Rorschacher Strasse 95",,,0,0,0,0,400.00,0,480.00,hcp,novartis,kantonsspital brustzentrum chi rurgie rorschacher strasse 95,saint gallen,4677,28,24,24,76,"name=100,location=100,address=100,total=300"
+3965,Thomas Ruhstaller,St. Gallen,CH,"Kantonsspital  Brustzentrum/Chirurgie, Rorschacher Strasse 95",,,0,0,0,0,400.00,0,480.00,hcp,novartis,kantonsspital brustzentrum chirurgie rorschacher strasse 95,saint gallen,4677,28,24,25,77,"name=100,location=100,address=100,total=300"
 705,Thomas Ruhstaller,St. Gallen,CH,Rorschacherstrasse 95,,,,,,,546.0,,546.0,hcp,amgen,rorschacherstrasse 95,saint gallen,4677,28,24,40,92,"name=100,location=100,address=98,total=298"
 2321,Thomas Ruhstaller,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Strasse 95",,,,,,,2500.0,686.0,3186,hcp,eli,kantonsspital sankt gallen rorschacher strasse 95,saint gallen,4677,28,24,29,81,"name=100,location=100,address=100,total=300"
 4677,Thomas Ruhstaller,St. Gallen,CH,Rorschacher Strasse 95,,,,0,0,0,1600,0,1600,hcp,pfizer,rorschacher strasse 95,saint gallen,5070,28,24,39,91,"name=100,location=100,address=100,total=300"
@@ -5710,7 +5710,7 @@
 5383,Thomas Schwaller,Luzern,CH,,6004,7601000478924,,,428.0,591.0,,,1018,hcp,servier,nan,luzern,5383,29,18,24,71,
 2328,Thomas Seeger,Aarau,CH,"Haus 40, Tellstrasse 25",,,,,120.0,,,,120,hcp,eli,haus 40 tellstrasse 25,aarau,2328,16,20,44,80,
 1755,Thomas Sigrist,Barmelweid,CH,Chefarzt,5017,,,,,1806.51,,,1806.51,hcp,boehringer,chefarzt,barmelweid,1755,23,53,18,94,
-4001,Thomas Sonderegger,St. Gallen,CH,"Praxisgemeinscha ft Mövenstrasse, Mövenstrasse 12",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis,praxisgemeinscha ft moevenstrasse moevenstrasse 12,saint gallen,4001,20,24,36,80,
+4001,Thomas Sonderegger,St. Gallen,CH,"Praxisgemeinschaft Mövenstrasse, Mövenstrasse 12",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis,praxisgemeinschaft moevenstrasse moevenstrasse 12,saint gallen,4001,20,24,37,81,
 5502,Thomas Spühler,Zürich,CH,Praxis Dr. Spühler Thomas Dreispitz 19,8050,,0,0,0,0,500.00,0,500.00,hcp,takeda,praxis doktor spuehler thomas dreispitz 19,zuerich,5502,16,17,25,58,
 5071,Thomas Stoll,Schaffhausen,CH,Geissbergstrasse 81,8208,,,,0.0,0.0,500.0,0.0,500.0,hcp,roche,geissbergstrasse 81,schaffhausen,3172,25,35,48,108,"name=100,location=100,address=100,total=300"
 3172,Thomas Stoll,Schaffhausen,CH,Geissbergstrasse 81,,,,,,,1200.0,,1200.0,hcp,menarini,geissbergstrasse 81,schaffhausen,3172,25,35,48,108,
@@ -5733,7 +5733,7 @@
 2120,Till Elmar Mainka,Bern,CH,Theaterplatz 2,,WCHM05056806,,,,,500.0,,500.0,hcp,celgene,theaterplatz 2,bern,2120,21,44,43,108,
 5541,Till Patrick Betz,Münsterlingen,CH,Spitalcampus 1,,,,,0.0,,500.0,73.0,573,hcp,teva,spitalcampus 1,muensterlingen,3646,21,32,29,82,"name=100,location=100,address=100,total=300"
 3646,Till Patrick Betz,Münsterlingen,CH,"Kantonsspital  Medizin Neurologie, Spitalcampus 1",,,0,0,0,0,700.00,0,700.00,hcp,novartis,kantonsspital medizin neurologie spitalcampus 1,muensterlingen,3646,21,32,23,76,
-3909,Tilly Nothhelfer,Baden,CH,Kantonsspital  AG Medizin Onkologie« Im Ergel 1,,,0,0,0,0,1700.00,0,1700.00,hcp,novartis,kantonsspital ag medizin onkologie<< im ergel 1,baden,4643,21,60,24,105,"name=100,location=100,address=100,total=300"
+3909,Tilly Nothhelfer,Baden,CH,Kantonsspital  AG Medizin Onkologie Im Ergel 1,,,0,0,0,0,1700.00,0,1700.00,hcp,novartis,kantonsspital ag medizin onkologie im ergel 1,baden,4643,21,60,24,105,"name=100,location=100,address=100,total=300"
 4643,Tilly Nothhelfer,Baden,CH,Im Ergel 1,,,,0,331,510,0,0,842,hcp,pfizer,im ergel 1,baden,4643,21,60,42,123,
 2420,Tilman Drescher,St. Gallen,CH,Rorschacher Strasse 95 Kantonsspital  (KSSG),,7601000832627,,,,361.01,,,361.01,hcp,future,rorschacher strasse 95 kantonsspital kssg,saint gallen,2420,22,24,33,79,
 3707,Tim Dörflinger,Freienbach,CH,"Praxis Tim Dörflinger, Wiesenstrasse 9a",,,0,0,0,0,800.00,0,800.00,hcp,novartis,praxis tim doerflinger wiesenstrasse 9a,freienbach,3707,40,27,30,97,
@@ -5759,7 +5759,7 @@
 213,Tobias Plaza,Uster,CH,Oberlandstrasse 100,,,,,,,800.0,,800.0,hcp,abbvie,oberlandstrasse 100,uster,3934,25,40,42,107,"name=100,location=100,address=100,total=300"
 3934,Tobias Plaza,Uster,CH,"Haut und Allergie Zentrum Brunnenhof, Oberlandstrasse 100",,,0,0,1160.00,400.00,4550.00,0,6110.00,hcp,novartis,haut und allergie zentrum brunnenhof oberlandstrasse 100,uster,3934,25,40,29,94,
 4360,Tobias Renner,Zürich,CH,"Universitätsspital ,Rämistr.100",8091,,,,210.05,650.41,,,860.45,hcp,orion,universitaetsspital raemistr.100,zuerich,4360,8,17,35,60,
-4365,Tobias Straub,St.Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstr.95",9007,,,,,,500.0,,500.0,hcp,orion,kantonsspital sankt gallen rorschacherstr.95,stora gallen,4365,16,24,31,71,
+4365,Tobias Straub,St.Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstr. 95",9007,,,,,,500.0,,500.0,hcp,orion,kantonsspital sankt gallen rorschacherstrasse 95,stora gallen,4365,16,24,32,72,
 5385,Tobias Traupe,Bern,CH,Tiefenaustrasse 112,3004,7601000539755,,,419.0,1293.0,1200.0,,2912,hcp,servier,tiefenaustrasse 112,bern,4736,24,44,42,110,"name=100,location=100,address=100,total=300"
 4736,Tobias Traupe,Bern,CH,Tiefenaustrasse 112,,,,0,0,0,1360,477,1837,hcp,pfizer,tiefenaustrasse 112,bern,4736,24,44,42,110,
 4737,Tobias Trischler,Bern,CH,Freiburgstrasse 18,,,,0,65,330,0,0,395,hcp,pfizer,freiburgstrasse 18,bern,4737,29,44,44,117,
@@ -5800,7 +5800,7 @@
 3101,Ulrich Meister-Ganz,Schwerzenbach,CH,Zielackeistrasse 11,,,,,130.7,161.1,,,291.8,hcp,menarini,zielackeistrasse 11,schwerzenbach,3101,32,22,42,96,
 1483,Ulrich Sternkopf,Heimberg,CH,Stationsweg 7,3627,1052874500,0.0,0.0,0.0,405.0,0.0,0.0,405.0,hcp,bayer,stationsweg 7,heimberg,1483,14,31,30,75,
 4754,Ulrich Walker,Basel,CH,Petersgraben 4,,,,0,464,2184,0,0,2648,hcp,pfizer,petersgraben 4,basel,4754,32,100,100,232,
-3911,Ulrike Andrea Oberdieck,Zürich,CH,Praxis Ulrike Andrea Oberdieck« Stettbachstrasse 31,,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis,praxis ulrike andrea oberdieck<< stettbachstrasse 31,zuerich,3911,29,17,25,71,
+3911,Ulrike Andrea Oberdieck,Zürich,CH,Praxis Ulrike Andrea Oberdieck Stettbachstrasse 31,,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis,praxis ulrike andrea oberdieck stettbachstrasse 31,zuerich,3911,29,17,25,71,
 2944,Ulrike Caroline Garber,Schaan,CH,Im Gafos 3,,,,,403.0,1224.0,,,1627.0,hcp,lundbeck,im gafos 3,schaan,2944,35,18,25,78,
 216,Ulrike Gabriele Raff,Urdorf,CH,Bahnhofstrasse 104,,,,,365.0,983.0,,,1348.0,hcp,abbvie,bahnhofstrasse 104,urdorf,216,31,0,38,69,
 4562,Ulrike Held,Zürich,CH,Pestalozzistrasse 24,,,,0,0,0,480,0,480,hcp,pfizer,pestalozzistrasse 24,zuerich,4562,35,17,53,105,
@@ -5888,8 +5888,8 @@
 5529,Ursula ssa  Candrian,Lugano,CH,Via Tesserete 46,,,,,0.0,,500.0,,500,hcp,teva,via tesserete 46,lugano,5529,32,18,47,97,
 1912,Uta Cornelia Klöter Kündig,Heerbrugg,CH,Marktstrasse 11,,,,,688.0,,,,688,hcp,bristol,marktstrasse 11,heerbrugg,1912,28,14,41,83,
 5178,Uta Kliesch,Schwyz,CH,Neurologische Praxis   Maria-Hilf-Strasse 9,6430,,,,,,500.0,,500.0,hcp,sanofi,neurologische praxis maria-hilfstrasse 9,schwyz,3307,26,18,26,70,"name=100,location=100,address=100,total=300"
-3307,Uta Kliesch,Schwyz,CH,Maria Hilf-Str. 9,,,,,302.8,538.14,1000.0,,1840.94,hcp,merck,maria hilfstrasse 9,schwyz,5077,26,18,36,80,"name=100,location=100,address=100,total=300"
-3826,Uta Kliesch,Schwyz,CH,"Neurologische Praxis , Maria-Hilf-Stras se 9",,,0,0,0,0,700.00,0,700.00,hcp,novartis,neurologische praxis maria-hilf-stras se 9,schwyz,5178,26,18,25,69,"name=100,location=100,address=93,total=293"
+3307,Uta Kliesch,Schwyz,CH,Maria Hilf-Str. 9,,,,,302.8,538.14,1000.0,,1840.94,hcp,merck,maria hilfstrasse 9,schwyz,3826,26,18,36,80,"name=100,location=100,address=100,total=300"
+3826,Uta Kliesch,Schwyz,CH,"Neurologische Praxis , Maria-Hilf-Strasse 9",,,0,0,0,0,700.00,0,700.00,hcp,novartis,neurologische praxis maria-hilfstrasse 9,schwyz,5178,26,18,26,70,"name=100,location=100,address=100,total=300"
 5077,Uta Kliesch,Schwyz,CH,Maria-Hilf-Strasse 9,6430,,,,0.0,0.0,600.0,0.0,600.0,hcp,roche,maria-hilfstrasse 9,schwyz,5178,26,18,36,80,"name=100,location=100,address=100,total=300"
 1441,Uta Schär,Kreuzlingen,CH,Klosterhofstrasse 1,8280,40532784,0.0,0.0,465.35,695.6,0.0,0.0,1160.95,hcp,bayer,klosterhofstrasse 1,kreuzlingen,1441,10,25,48,83,
 1047,Ute Gick,Thun,CH,Onkologiezentrum -Berner Oberland Krankenhausstrasse 12,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca,onkologiezentrum berner oberland krankenhausstrasse 12,thun,569,20,0,29,49,"name=100,location=100,address=100,total=300"
@@ -5955,7 +5955,7 @@
 5169,Vincent Jéquier,Lausanne,CH,Cabinet médical FMH Médecine interne générale Route d'Oron 1,1010,,,,,,700.0,,700.0,hcp,sanofi,cabinet medical fmh medecine interne generale route d'oron 1,lausanne,5169,15,46,22,83,
 1387,Vincent Morard,Buix,CH,Chemin du Mont-Renaud 12k,2925,40540741,0.0,0.0,72.0,573.3,0.0,0.0,645.3,hcp,bayer,chemin du mont-renaud 12k,buix,1387,23,22,31,76,
 5843,Vincenzo Girardi,Bern,CH,"Lindenhofspital - Lindenhof AG, Bremgartenstrasse 119",,,,,,,800.0,,800.0,hcp,vifor,lindenhofspital  lindenhof ag bremgartenstrasse 119,bern,5843,36,44,28,108,
-4041,Vinzenz Vadasz,Luzern,CH,"er Kantonsspital  Ophtha lmologisch e Klinik, Spitalstrasse",,,0,0,0,0,800.00,0,800.00,hcp,novartis,er kantonsspital ophtha lmologisch e klinik spitalstrasse,luzern,4041,38,18,23,79,
+4041,Vinzenz Vadasz,Luzern,CH,"er Kantonsspital  Ophthalmologische Klinik, Spitalstrasse",,,0,0,0,0,800.00,0,800.00,hcp,novartis,er kantonsspital ophthalmologische klinik spitalstrasse,luzern,4041,38,18,23,79,
 5984,Violeta Plattner,Biel/Bienne,CH,"Praxis Dr. Plattner Violeta, Murtenstrasse 7",,,,,,248.3,,,248.3,hcp,vifor,praxis doktor plattner violeta murtenstrasse 7,biel bienne,5984,21,38,27,86,
 5389,Violetta Drögsler,Muri AG,CH,,5630,7601000165466,,,477.0,614.0,,,1091,hcp,servier,nan,muri ag,5389,21,17,24,62,
 1192,Virginie Bays,Vevey,CH,Rue de la Clergère 1,1800,40538230,0.0,0.0,188.65,495.55,0.0,0.0,684.2,hcp,bayer,rue de la clergere 1,vevey,1192,24,20,41,85,
@@ -6118,7 +6118,7 @@
 3609,pharm. Rudolf Brenneisen,Bern,CH,,,,,,,,2000.0,,2000.0,hcp,mundipharma,nan,bern,5763,17,44,24,85,"name=100,location=100,address=17,total=217"
 1180,phil. Rainer Alois Andenmatten,Münsterlingen,CH,Spitalcampus 1,8596,40753112,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,bayer,spitalcampus 1,muensterlingen,1180,34,32,29,95,
 3569,pract. Anne-Bettina Etter,Zürich,CH,Universitätsspital,,,,,307.0,495.0,,,802.0,hcp,mundipharma,universitaetsspital,zuerich,3569,22,17,30,69,
-3493,pract. Barbar Gugger,Bern,CH,Dr. Robert GmbH,,,,,162.0,606.0,,,768.0,hcp,mundipharma,doctor robert gmbh,bern,3493,26,44,38,108,
+3493,pract. Barbara Gugger,Bern,CH,Dr. Robert GmbH,,,,,162.0,606.0,,,768.0,hcp,mundipharma,doctor robert gmbh,bern,3493,25,44,38,107,
 2390,pract. Ioannis Linas,Bern,CH,"INSELSPITAL, Universitätsklinik ",,,,,657.0,220.0,,,877,hcp,ferring,inselspital universitaetsklinik,bern,2390,39,44,36,119,
 3501,pract. Katharina Hensel-Koch,St. Gallen,CH,Medizinisch-soziale Hilfsstelle 1,,,,,162.0,488.0,,,650.0,hcp,mundipharma,medizinisch-soziale hilfsstelle 1,saint gallen,3501,21,24,26,71,
 3503,pract. Thomas Krebs,Bern,CH,Klinik Südhang,,,,,162.0,622.0,,,784.0,hcp,mundipharma,klinik suedhang,bern,3503,13,44,28,85,
