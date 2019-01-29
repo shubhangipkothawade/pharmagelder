@@ -12,7 +12,7 @@ import os.path
 
 
 #%%
-version = 0.1
+version = 0.2
 
 #%% [markdown]
 # ## Check path
@@ -38,7 +38,7 @@ df_data = df[df.type == 'hco'].copy()
 df_data['address'] = df_data['address'].fillna("")
 
 #For Testing
-df_data = df_data[df_data.source.isin(['eli', 'shire', 'almirall'])]
+#df_data = df_data[df_data.source.isin(['eli', 'shire', 'almirall'])]
 
 #Reset index
 df_data = df_data.reset_index(drop=True)
@@ -67,10 +67,10 @@ df_data = df_data.sort_values('name')
 
 start_time = time.time()
 
-print("====================")
-print("Start fuzzy matcher %s" % version)
+print("===============================")
+print("Start fuzzy matcher HCO %s" % version)
 print("Rows to match: %s" % total_rows)
-print("====================")
+print("===============================")
 
 counter = 0
 for index, row in df_data.iterrows():
