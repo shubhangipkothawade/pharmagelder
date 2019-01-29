@@ -2,13 +2,13 @@ name,location,country,address,plz,uci,donations_grants,sponsorship,registration_
 Frank Achermann,Luzern,CH,Weggisgasse 40,,,,,,,500.0,,500,hcp,novo,
 Stefan Aczél,St. Gallen,CH,Rorschacherstrasse 95,,,,,381.0,826.0,1000.0,,2207,hcp,novo,
 Farhad Ahmad,Goldach,CH,Eschenstrasse 11,,,,,,507.0,,,507,hcp,novo,
-Beat Urs Althaus,Reinach,CH,Angensteinerstrasse 5,,,,,456.0,1061.0,,,1517,hcp,novo,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Althaus Beat Urs
-Safwan Elisabetta Andreani,Bellinzona,CH,Viale Stazione 30,,,,,736.0,1804.0,900.0,,3440,hcp,novo,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Andreani Safwan Elisabetta
+Beat Urs Althaus,Reinach,CH,Angensteinerstrasse 5,,,,,456.0,1061.0,,,1517,hcp,novo,
+Safwan Elisabetta Andreani,Bellinzona,CH,Viale Stazione 30,,,,,736.0,1804.0,900.0,,3440,hcp,novo,
 Birsen Arici,Rheinfelden,CH,Riburgerstrasse 12,,,,,545.0,634.0,1000.0,,2179,hcp,novo,
 Sara Bachmann,Basel,CH,Spitalstrasse 33,,,,,472.0,871.0,,,1343,hcp,novo,
 Andrea Baerlocher,Zurich,CH,Rötelstrasse 122,,,,,71.0,288.0,420.0,,779,hcp,novo,
 Piero Balice,Bellinzona,CH,Viale Portone 1,,,,,1269.0,7724.0,,,8993,hcp,novo,
-Annic Catherine Baumgartner,Aarau,CH,Tellstrasse 25,,,,,976.0,2255.0,,,3231,hcp,novo,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Baumgartner Annic Catherine
+Annic Catherine Baumgartner,Aarau,CH,Tellstrasse 25,,,,,976.0,2255.0,,,3231,hcp,novo,
 Sandra Beer,Lausanne,CH,Avenue de la Gare 11,,,,,140.0,123.0,,,263,hcp,novo,
 Svetlana Beglinger,Zürich,CH,Steinwiesstrasse 75,,,,,546.0,,,223.0,769,hcp,novo,
 Augusto Bernasconi,Lugano,CH,Via Serafino Balestra 27,,,,,140.0,428.0,,,568,hcp,novo,
@@ -25,7 +25,7 @@ Doris Braun,Winterthur,CH,Brungasse 6,,,,,125.0,248.0,,,373,hcp,novo,
 Alexandre Bria,Nyon,CH,Rue Neuve 6,,,,,,,1000.0,,1000,hcp,novo,
 Andreas Brunner,Thun,CH,Krankenhausstrasse 12,,,,,545.0,634.0,,,1179,hcp,novo,
 Peter Brunner,Thun,CH,Thierachernweg 2,,,,,,160.0,,,160,hcp,novo,
-Birgit Gerda Bucher,Aarau,CH,Tellstrasse 25,,,,,545.0,634.0,,,1179,hcp,novo,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Bucher Birgit Gerda
+Birgit Gerda Bucher,Aarau,CH,Tellstrasse 25,,,,,545.0,634.0,,,1179,hcp,novo,
 Annette Bühler-Christen,Embrach,CH,Römerweg 51,,,,,545.0,634.0,,,1179,hcp,novo,
 Charly Bulliard,Estavayer-le-Lac,CH,Rue de la Rochette,,,,,1083.0,6996.0,400.0,,8479,hcp,novo,
 Jürg Burgherr,Horw,CH,Gemeindehausplatz 6,,,,,,,1600.0,,1600,hcp,novo,
@@ -39,14 +39,14 @@ Michel Cauderay,Vevey,CH,Boulevard Paderewski 3,,,,,401.0,4886.0,,,5287,hcp,novo
 Mario Cavallini,Lugano,CH,Piazza Molino Nuovo 8,,,,,140.0,595.0,,,735,hcp,novo,
 Quinto Censi,Mendrisio,CH,Via Luigi Lavizzari 15,,,,,140.0,637.0,,,777,hcp,novo,
 Robin Chanda,Bellinzona,CH,Viale Stazione 30,,,,,823.0,1996.0,400.0,,3219,hcp,novo,
-Chambaz Isabelle Chatton,Genève,CH,Boulevard des Philosophes 5,,,,,685.0,1098.0,1000.0,,2783,hcp,novo,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Chatton Chambaz Isabelle
+Chambaz Isabelle Chatton,Genève,CH,Boulevard des Philosophes 5,,,,,685.0,1098.0,1000.0,,2783,hcp,novo,
 Emanuel Christ,Basel,CH,Petersgraben 4,,,,,1062.0,3952.0,,,5014,hcp,novo,
 Mirjam Christ-Crain,Basel,CH,Petersgraben 4,,,,,327.0,4688.0,,,5015,hcp,novo,
 Elisabeth Constam,Nürensdorf,CH,Haldenweidstrasse 5,,,,,369.0,1427.0,500.0,,2296,hcp,novo,
 Silvio Crestani,Stabio,CH,Via Giulia 43,,,,,261.0,957.0,,,1218,hcp,novo,
 Tatiana Daneva,Carouge GE,CH,Avenue Cardinal-Mermillod 5,,,,,140.0,600.0,,,740,hcp,novo,
-Doris Stalder Marco de,Bern,CH,Seilerstrasse 8,,,,,545.0,634.0,,,1179,hcp,novo,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: de Marco Stalder Doris
-Micheli Franco De,Chiasso,CH,Corso San Gottardo 54B,,,,,367.0,546.0,,,913,hcp,novo,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: De Micheli Franco
+Doris de Marco Stalder,Bern,CH,Seilerstrasse 8,,,,,545.0,634.0,,,1179,hcp,novo,
+Franco de Micheli,Chiasso,CH,Corso San Gottardo 54B,,,,,367.0,546.0,,,913,hcp,novo,
 Moustier Béatrice De,Petit-Lancy,CH,Chemin des Esserts 11B,,,,,140.0,233.0,,,373,hcp,novo,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: De Moustier Béatrice
 Barbara Dehos,St. Gallen,CH,Rorschacher Strasse 95,,,,,547.0,1712.0,,,2259,hcp,novo,
 Humberto Delgado,Gland,CH,La Lignière 5,,,,,,,400.0,,400,hcp,novo,
