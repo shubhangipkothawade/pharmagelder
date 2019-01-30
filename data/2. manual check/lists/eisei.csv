@@ -1,7 +1,7 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
 Christoph Beglinger,4410 LIESTAL,CH,BMR AG Oristalstrasse 29,4410,,,,,,810.0,,810.0,hcp,eisei
 Dominik Berthold,1011 LAUSANNE,CH,CHUV Departement d'Oncologie Rue du Bugnon 46,1011,,,,,,1000.0,91.4,1091.4,hcp,eisei
-Antonia Digklia,1011 LAUSANNE,CH,CHUV  Service d'oncologie Rue Du Bugnon 46,1011,,,,,,1000.0,,1000.0,hcp,eisei
+Antonia Digklia,1011 LAUSANNE,CH,CHUV Service d'oncologie Rue Du Bugnon 46,1011,,,,,,1000.0,,1000.0,hcp,eisei
 Thomas Grunwald,8008 ZüRICH,CH,Klinik Lengg AG Schweizerisches Epilepsie-Zentrum Medizin. Neurologie Bleulerstrasse 60,8008,,,,,,3300.0,,3300.0,hcp,eisei
 Markus Jörger,9007 ST. GALLEN,CH,"St. Gallen, Kantonsspital Onkologie Rorschacherstrasse 95",9007,,,,,,1454.49,,1454.49,hcp,eisei
 Dirk Klingbiel,3008 BERN,CH,Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung (SAKK) Effingerstrasse 33,3008,,,,,,1900.0,,1900.0,hcp,eisei
@@ -10,12 +10,12 @@ Johannes Rösche,8008 ZüRICH,CH,Klinik Lengg AG Schweizerisches Epilepsie Zentr
 Chuv- Hospices Service De Neurologie,1011 Lausanne,CH,Rue du Bugnon,1011,,,2660.0,,,625.0,,3285.0,hco,eisei
 Esmo,6962 Viganello-Lugano,CH,Via Luigi Taddei ESMO Head Office,6962,,,216540.24,,,,,216540.24,hco,eisei
 Ente Ospedaliero Cantonale Bellinzona,6900 Lugano,CH,Via Tesserete 46,6900,,,4050.0,,,,,4050.0,hco,eisei
-Forome Association Romande Pour La Formation,1011 LAusanne,CH,Rue du Bugnon,1011,,,1500.0,,,,,1500.0,hco,eisei
-Hopitaux Universitaire De Geneve Secteur Facturation Aux Tiers,1225 Chene-Bourg,CH,Chemin du Petit-Bel- Air 2,1225,,,2500.0,,,,,2500.0,hco,eisei
+Forome Association Romande Pour La Formation,1011 Lausanne,CH,Rue du Bugnon,1011,,,1500.0,,,,,1500.0,hco,eisei
+Hopitaux Universitaire De Geneve Secteur Facturation Aux Tiers,1225 Chene-Bourg,CH,Chemin du Petit-Bel-Air 2,1225,,,2500.0,,,,,2500.0,hco,eisei
 Inselspital,3010 Bern,CH,Universitätsspital Bern,3010,,,1620.0,,,,,1620.0,hco,eisei
 Kantonspital St.Gallen Brust Zentrum,9007 St. Gallen,CH,Kantonspital St.Gallen Brust Zentrum,9007,,,2160.0,,,,,2160.0,hco,eisei
 Kantonsspital Aarau Ag,5001 Aarau,CH,Tellstrasse,5001,,,1080.0,,,,,1080.0,hco,eisei
-Kantonsspital Graubuenden Department Finanzen Informatik Betriebe,7000 Chur,CH,Loestrasse,7000,,,1000.0,,,,,1000.0,hco,eisei
+Kantonsspital Graubünden Department Finanzen Informatik Betriebe,7000 Chur,CH,Loestrasse,7000,,,1000.0,,,,,1000.0,hco,eisei
 Kantonsspital St Gallen,9007 St Gallen,CH,Rorschacher Strasse,9007,,,1080.0,,,2750.0,112.0,3942.0,hco,eisei
 Kantonsspital Winterthur,8401 Winterthur,CH,Brauerstrasse,8401,,,1000.0,,,1000.0,,2000.0,hco,eisei
 Klinik Bethesda,3233 Tschugg,CH,Postfach,3233,,1000.0,2000.0,,,,,3000.0,hco,eisei
@@ -24,7 +24,7 @@ Luzerner Kantonsspital Medizinische Neurologie,6000 Luzern 16,CH,Buchhaltung,600
 Neurokränzli Luzern Regula Ehrbar & Jan Voss,6004 Luzern,CH,Alpenstrasse,6004,,,500.0,,,,,500.0,hco,eisei
 Rcc Net C/O Pro Medicus Gmbh,8001 Zürich,CH,Bahnhofplatz,8001,,,2500.0,,,,,2500.0,hco,eisei
 Sagb,8570 Weinfelden,CH,postfach 59,8570,,,1000.0,,,,,1000.0,hco,eisei
-Schweizerische Gesellschaft Fuer Klinische Nurophysiologie,5036 Oberentfelden,CH,Blumenweg,5036,,,1500.0,,,,,1500.0,hco,eisei
-Schweizerische Liga Gegen Epilepsie,8034 Zuerich,CH,Seefeldstrasse,8034,,,3500.0,,,,,3500.0,hco,eisei
-Universite D'Ete D'Eeg,1211 Geneve 4,CH,Rue Gabrielle Perret- Gentil,1211,,,3000.0,,,,,3000.0,hco,eisei
-Universitaetsspital Basel/Onkologie,4031 Basel,CH,Petersgraben 4,4031,,,1000.0,,,1620.0,,2620.0,hco,eisei
+Schweizerische Gesellschaft Für Klinische Nurophysiologie,5036 Oberentfelden,CH,Blumenweg,5036,,,1500.0,,,,,1500.0,hco,eisei
+Schweizerische Liga Gegen Epilepsie,8034 Zürich,CH,Seefeldstrasse,8034,,,3500.0,,,,,3500.0,hco,eisei
+Universite D'Ete D'Eeg,1211 Geneve 4,CH,Rue Gabrielle Perret-Gentil,1211,,,3000.0,,,,,3000.0,hco,eisei
+Universitätsspital Basel/Onkologie,4031 Basel,CH,Petersgraben 4,4031,,,1000.0,,,1620.0,,2620.0,hco,eisei
