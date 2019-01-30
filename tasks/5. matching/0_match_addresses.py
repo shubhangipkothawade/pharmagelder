@@ -49,7 +49,7 @@ df_data = df_data.reset_index(drop=True)
 df_data.index += 1
 
 #create empty matchlist
-df_matches = pd.DataFrame(columns=['node', 'child'])
+df_matchlist = pd.DataFrame(columns=['node', 'child'])
 
 total_rows = len(df_data)
 
@@ -95,14 +95,21 @@ for index, row in df_data.iterrows():
     else:
         condition1 = (df_data.r_name >= 80) & (df_data.r_location >= 85) & (df_data.r_address >= 75) & (condition_fix)
     
-    highest_match = df_data[(condition1)].nlargest(1, columns=['r_ratio'])
+    #Select by condition
+    df_matches = df_data[(condition1)]
+    
+    #This we dont need, but keep to reproduce matching
+    highest_match = df_matches.nlargest(1, columns=['r_ratio'])
     if len(highest_match) == 1:
         df_data.loc[index, 'parent'] = highest_match.iloc[0].name
         df_data.loc[index, 'log'] = "name=%s,location=%s,address=%s,total=%s" % (highest_match.iloc[0].r_name, highest_match.iloc[0].r_location, highest_match.iloc[0].r_address, highest_match.iloc[0].r_ratio)
     
-    #Matchlist Test
-    for match_index, match_row in df_data[(condition1)].iterrows():
-        df_matches = df_matches.append({'node': index, 'child': match_index}, ignore_index=True)
+    #Matchlist Add to matchlist
+    if len(highest_match) == 0:
+        df_matchlist = df_matchlist.append({'node': index, 'child': index}, ignore_index=True)
+    else:
+        for match_index, match_row in df_matches.iterrows():
+            df_matchlist = df_matchlist.append({'node': index, 'child': match_index}, ignore_index=True)
     
     counter += 1
 
@@ -113,10 +120,10 @@ print('\nFinished in: ' + str(round(elapsed_time / 60, 2)) + ' minutes')
 #%%
 if on_git:
     df_data.to_csv('../../data/3. transformation/3_%s_matches.csv' % run_for, index=True)
-    df_matches.to_csv('../../data/3. transformation/3_%s_matchlist.csv' % run_for, index=False)
+    df_matchlist.to_csv('../../data/3. transformation/3_%s_matchlist.csv' % run_for, index=False)
 else:
     df_data.to_csv('3_%s_matches.csv' % run_for, index=True)
-    df_matches.to_csv('3_%s_matchlist.csv' % run_for, index=False)
+    df_matchlist.to_csv('3_%s_matchlist.csv' % run_for, index=False)
 
 
 #%%
