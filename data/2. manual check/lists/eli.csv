@@ -21,7 +21,7 @@ Vanessa Chatelain Fontanella,Vevey,CH,Avenue de la Prairie 3,,,,,175.0,,,,175,hc
 Bernard Chevaux,Yverdon les Bains,CH,Rue d'Entremonts 11,,,,,175.0,,,,175,hcp,eli
 Amina Chouiter- Djebaili,La Chaux de Fonds,CH,Rue de Chasseral 20,,,,,262.0,553.0,,,815,hcp,eli
 Adrian Ciurea,Zürich,CH,Gloriastrasse 25,,,,,,,1200.0,,1200,hcp,eli
-Elisabeth Constam,Nürensdorf,CH,Haldenweidstras se 5,,,,,,,600.0,,600,hcp,eli
+Elisabeth Constam,Nürensdorf,CH,Haldenweidstrasse 5,,,,,,,600.0,,600,hcp,eli
 Antonio Cozzio,St  Gallen,CH,"Haus 31, Rorschacher Strasse 95",,,,,,,2700.0,,2700,hcp,eli
 Monique David,Epalinges,CH,Route de la Corniche 1,,,,,,,360.0,,360,hcp,eli
 Beatrice De Moustier,Petit Lancy,CH,Chemin des Esserts 11B,,,,,,,1500.0,,1500,hcp,eli
@@ -30,14 +30,14 @@ Marc Donath,Basel,CH,Petersgraben 4,,,,,,,1260.0,,1260,hcp,eli
 Julien Ducry,Fribourg,CH,"Hôpital Cantonal Fribourg, Chemin des Pensionnats 2",,,,,263.0,574.0,,,837,hcp,eli
 Jean Dudler,Fribourg,CH,Chemin des Pensionnats 2,,,,,,,5400.0,,5400,hcp,eli
 Jörg Eimers,Gisikon,CH,Wissehrli 1b,,,,,,,1250.0,,1250,hcp,eli
-Kathrin Ernst,Bern,CH,Bremgartenstras se 117,,,,,120.0,,,,120,hcp,eli
+Kathrin Ernst,Bern,CH,Bremgartenstrasse 117,,,,,120.0,,,,120,hcp,eli
 Sabina Ernst,Rheinfelden,CH,Kaiserstrasse 8,,,,,,168.0,,,168,hcp,eli
 Chiara Ferrario,Prilly,CH,Route De Renens 24,,,,,,,2000.0,,2000,hcp,eli
 Marc Fouradoulas,Adliswil,CH,Webereistrasse 49,,,,,,,1000.0,76.0,1076,hcp,eli
 Lars French,Zürich,CH,Gloriastrasse 31,,,,,,,3750.0,,3750,hcp,eli
 Giovanni Frisoni,Les Acacias,CH,Rue des Épinettes 19,,,,,,,,755.0,755,hcp,eli
 Bruno Fuchs,Winterthur,CH,Brauerstrasse 15,,,,,,,1000.0,,1000,hcp,eli
-Giacomo Gastaldi,Genève,CH,RueGabrielle- Perret-Gentil 4,,,,,,,1000.0,,1000,hcp,eli
+Giacomo Gastaldi,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,,,1000.0,,1000,hcp,eli
 Anne-Claude George,Genève,CH,Rue Maunoir 26,,,,,175.0,,,,175,hcp,eli
 Michel Gilliet,Lausanne,CH,Avenue de Beaumont 29,,,,,,,,249.0,249,hcp,eli
 Beate Gleissner,Rapperswil SG,CH,Neue Jonastrasse 79,,,,,306.0,553.0,,,859,hcp,eli
@@ -59,9 +59,9 @@ Christophe François Hsu,Genève,CH,Boulevard James-Fazy 4,,,,,,,375.0,,375,hcp,
 Hans-Dieter Hüllstrung,Liestal,CH,Weierweg 7,,,,,,630.0,,,630,hcp,eli
 Dimiter Iliev,Luzern,CH,Haldenstrasse 11,,,,,278.0,642.0,700.0,73.0,1693,hcp,eli
 Manuel Urs Jeschko- Flückiger,Bern,CH,Schänzlihalde 11,,,,,,553.0,,,553,hcp,eli
-Anne-Catherine Joly,Genève,CH,RueGabrielle- Perret-Gentil 4,,,,,292.0,651.0,,,943,hcp,eli
+Anne-Catherine Joly,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,292.0,651.0,,,943,hcp,eli
 Patricia Jörgensen,Rheinfelden,CH,Kaiserstrasse 8,,,,,,168.0,,,168,hcp,eli
-Martin Kägi,Zürich,CH,Schaffhauserstra sse 355,,,,,311.0,541.0,2600.0,750.0,4202,hcp,eli
+Martin Kägi,Zürich,CH,Schaffhauserstrasse 355,,,,,311.0,541.0,2600.0,750.0,4202,hcp,eli
 Nicola Keller,Morbio Inferiore,CH,Via al Ponte 2,,,,,,,1000.0,,1000,hcp,eli
 Barbara Kellerhals,Olten,CH,Baslerstrasse 150,,,,,120.0,,,,120,hcp,eli
 Attila Kollàr,Bern,CH,"Inselspital, Freiburgstrasse 18",,,,,,,,1172.0,1172,hcp,eli
@@ -186,7 +186,7 @@ Institut für Pharmakologie (UNIBE),Bern,CH,Friedbühlstrasse 49,,,,2000.0,,,,,2
 IOSI Istituto Oncologico della Svizzera Italiana,Bellinzona,CH,"Ospedale San Giovanni, Via Ospedale",,,,3000.0,,,,,3000,hco,eli
 Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,,1000.0,,56.0,4200.0,,5256,hco,eli
 "Kantonsspital Schaffhausen - Klinik für Rheumatologie, Geriatrie und Rehabilitation",Schaffhausen,CH,Geissbergstrasse 81,,,,2500.0,,,,,2500,hco,eli
-Kantonsspital St. Gallen,St  Gallen,CH,Rorschacher Strasse 95,,,,22060.0,,,1800.0,,23860,hco,eli
+Kantonsspital St. Gallen,St Gallen,CH,Rorschacher Strasse 95,,,,22060.0,,,1800.0,,23860,hco,eli
 Kantonsspital Winterthur - Medizinische Onkologie und Hämatologie,Winterthur,CH,Brauerstrasse 15,,,,5500.0,,,,,5500,hco,eli
 Kantonsspital Winterthur - Urologische Klinik,Winterthur,CH,Brauerstrasse 15,,,,1000.0,,,,,1000,hco,eli
 Kenes International - Kenes Group,Genève,CH,Rue François- Versonnex 7,,,,7467.0,,,,,7467,hco,eli
