@@ -13,7 +13,7 @@ import os.path
 
 
 #%%
-run_for = 'hcp'
+run_for = 'hco'
 version = 0.3
 
 #%% [markdown]
@@ -49,7 +49,7 @@ df_data = df_data.reset_index(drop=True)
 df_data.index += 1
 
 #create empty matchlist
-df_matchlist = pd.DataFrame(columns=['node', 'child'])
+df_matchlist = pd.DataFrame(columns=['source', 'target', 'r_name', 'r_address', 'r_location', 'r_ratio'])
 
 total_rows = len(df_data)
 
@@ -106,10 +106,22 @@ for index, row in df_data.iterrows():
     
     #Matchlist Add to matchlist
     if len(highest_match) == 0:
-        df_matchlist = df_matchlist.append({'node': index, 'child': index}, ignore_index=True)
+        df_matchlist = df_matchlist.append({'source': index,
+                                            'target': index,
+                                            'r_name': 100,
+                                            'r_address': 100,
+                                            'r_location': 100,
+                                            'r_ratio': 100,
+                                           }, ignore_index=True)
     else:
         for match_index, match_row in df_matches.iterrows():
-            df_matchlist = df_matchlist.append({'node': index, 'child': match_index}, ignore_index=True)
+            df_matchlist = df_matchlist.append({'source': index, 
+                                                'target': match_index,
+                                                'r_name': match_row['r_name'],
+                                                'r_address': match_row['r_address'],
+                                                'r_location': match_row['r_location'],
+                                                'r_ratio': match_row['r_ratio']
+                                               }, ignore_index=True)
     
     counter += 1
 
