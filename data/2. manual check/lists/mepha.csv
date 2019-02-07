@@ -63,11 +63,11 @@ Beat Michel,Winterthur,CH,Sonnenbergstrasse 12,,,,,0.0,,1700.0,,1700,hcp,mepha
 Thomas J. Müller,Meiringen,CH,Willigen,,,,,0.0,,1500.0,,1500,hcp,mepha
 Guido Bondolfi,Genève,CH,Rue Gabrielle‐Perret‐ Gentil 4,,,,,0.0,,1500.0,,1500,hcp,mepha
 Huldrych Günthard,Zürich,CH,Berninastrasse 116,,,,,0.0,,1295.0,,1295,hcp,mepha
-Oelepraxis AG Tiemann Karen,Wiedlisbach,CH,Oeleweg 3,,,,,367.0,0.0,0.0,0.0,367,hcp,mepha
-Localmed AG Portmann Bettina,Bern,CH,Schanzenstrasse 4A,,,,,260.0,0.0,0.0,0.0,260,hcp,mepha
-Localmed AG Torchetti Eleonora,Bern,CH,Schanzenstrasse 4A,,,,,245.0,0.0,0.0,0.0,245,hcp,mepha
-Hausarztpraxis Kalchofen AG Stüdi Katja,Hasle b. Burgdorf,CH,Kalchofenstrasse 24,,,,,600.0,0.0,0.0,0.0,600,hcp,mepha
-Hausarztpraxis KalchofenAG Sallin Bernard,Hasle b. Burgdorf,CH,Kalchofenstrasse 24,,,,,600.0,0.0,0.0,0.0,600,hcp,mepha
+Karen Tiemann,Wiedlisbach,CH,Oeleweg 3,,,,,367.0,0.0,0.0,0.0,367,hcp,mepha
+Bettina Portmann ,Bern,CH,Schanzenstrasse 4A,,,,,260.0,0.0,0.0,0.0,260,hcp,mepha
+Eleonora Torchetti,Bern,CH,Schanzenstrasse 4A,,,,,245.0,0.0,0.0,0.0,245,hcp,mepha
+Katja Stüdi ,Hasle b. Burgdorf,CH,Kalchofenstrasse 24,,,,,600.0,0.0,0.0,0.0,600,hcp,mepha
+Bernard Sallin ,Hasle b. Burgdorf,CH,Kalchofenstrasse 24,,,,,600.0,0.0,0.0,0.0,600,hcp,mepha
 Association Quadrimed,Crans‐Montana 1,CH,Case postale 299,,,,10427.0,,,,,10427,hco,mepha
 Spital Zweisimmen,Zweisimmen,CH,Karl Haueter‐Strasse21,,,,4000.0,,,,,4000,hco,mepha
 pharmaSuisse,Bern‐Liebefeld,CH,Stationstrasse 12,,,,12000.0,,,,,12000,hco,mepha
@@ -121,45 +121,45 @@ Hôpital Universitaire Genève,Genève,CH,Rue Gabrielle‐Perret‐Gentil 4,,,,0
 Universitätsspital Basel,Basel,CH,Petersgraben 4,,,,0.0,,,1295.0,,1295,hco,mepha
 Inselspital Bern,Bern,CH,Freiburgstrasse 8,,,,0.0,,,1050.0,,1050,hco,mepha
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher‐Strasse95,,,,0.0,,,1495.0,,1495,hco,mepha
-RSBJRéseau Santé Balcon du Jura,Sainte Croix 1450,CH,Rue des Rosiers 29,,,,1800.0,,,,,1830,hco,mepha
-GHOLGroupement Hospitalier de l'ouest Lémanique S.A.,Nyon 1260,CH,Rue du Vieux Marche 10,,,,1000.0,,,,,1030,hco,mepha
-HFR hôpital fribourgeois,Fribourg 1708,CH,,,,,1000.0,,,,,1050,hco,mepha
-Privatklinik Wyss,Münchenbuchsee 3053,CH,Fellenbergstrasse 34,,,,3000.0,,,,,3150,hco,mepha
-Kantonsspital St. Gallen,St. Gallen 9007,CH,Rorschacher Strasse 95,,,,4000.0,,,,,4120,hco,mepha
-Ospedale Regionale di Lugano,Lugano 6900,CH,Via Tesserete 46,,,,1600.0,,,,,1820,hco,mepha
-Spitäler fmi AG,Unterseen 3800,CH,Weissenaustrasse 27,,,,700.0,,,,,722,hco,mepha
-Privatklinik Obach,Solothurn 4500,CH,Leopoldstrasse 5,,,,2000.0,,,,,2100,hco,mepha
-Kopfwehzentrum Hirslanden,Zollikon 8702,CH,Forchstrasse 424,,,,500.0,,,,,780,hco,mepha
-"ADAEL""Association d'Aesculape en Lavaux""",Lutry 1095,CH,Rue Verdaine,,,,1500.0,,,,,1530,hco,mepha
-"GRIMM""Groupement de médecins valaisans""",Sion 1950,CH,Rue du Chanoine Berchtold 26,,,,2000.0,,,,,2030,hco,mepha
-Hôpital du Valais,Saxon 1907,CH,Gottefrey 11,,,,1500.0,,,,,1530,hco,mepha
-Hôpital du Valais,Sion 1951,CH,Ave sur Grand Champsec 86,,,,400.0,,,,,430,hco,mepha
-"ASROMM""Association Suisse Romande de médecine manuelle",Lausanne 1004,CH,Av Vinet 19,,,,800.0,,,,,830,hco,mepha
-"CHUV""Centre Hospitalier Universitaire Vaudois""",Lausanne 1011,CH,Rue du Bugnon 21,,,,2000.0,,,,,2130,hco,mepha
-MMMAssociazione Medical Meeting,Minusio 6648,CH,Via Cadogno 1,,,,1500.0,,,,,1820,hco,mepha
-Spitalregion Fürstenland Toggenburg,Wil 9500,CH,Fürstenlandstrasse 32,,,,2000.0,,,,,2080,hco,mepha
-PharmActuel Vaud,Fribourg 1700,CH,Chemin du Palatinat 11,,,,2000.0,,,,,2100,hco,mepha
-PharmActuel Basel,Binningen 4102,CH,Bleicherweg 5,,,,1282.0,,,,,1367,hco,mepha
-"IGSA"" Intressensgemeinschaft Schweizer Aerzte""",Luzern 6006,CH,Denkmalstrasse 2,,,,1000.0,,,,,1008,hco,mepha
-Reha Reinfelden,Rheinfelden 4310,CH,Salinenstrasse 98,,,,3000.0,,,,,3120,hco,mepha
-Hôpital du Valais CHCVS,Sion 1951,CH,Ave du Grand Champsec 80,,,,1500.0,,,,,1550,hco,mepha
-"VZI""Vereinigung Allgemeiner uns Spezialisierter Internistinnen und Internisten Zürich""",Zwillikon 8909,CH,Haldenrain 18,,,,2000.0,,,,,2100,hco,mepha
-Praxis am Bahnhof,Rüti 8630,CH,Dorfstrasse 43/44,,,,200.0,,,,,215,hco,mepha
-"Association ""Journée Jurassienne de Médecine""",Delémont 2800,CH,Rue de la Préfecture 1,,,,1600.0,,,,,1660,hco,mepha
-Université de Genève,Genève 1211,CH,Centre comptable Uni 2,,,,2500.0,,,,,2610,hco,mepha
-Pharmactuel Zentralschweiz,Luzern 6003,CH,Neustadtstrasse 43,,,,1817.0,,,,,1817,hco,mepha
-PharmActuel Regionalgruppe Bern,Zollikofen 3052,CH,Hübeliweg 14,,,,7500.0,,,,,7800,hco,mepha
-Société Valaisanne de pharmacie,Granges 3977,CH,,,,,2400.0,,,,,2480,hco,mepha
-Privatklinik Wyss,Münchenbuchsee 3053,CH,Fellenberg‐ strasse 34,,,,2000.0,,,,,2100,hco,mepha
-Ordine del Farmacisti del Canton Ticino,Lugano 6900,CH,Via al Forte 3,,,,2500.0,,,,,2600,hco,mepha
-Spitalregion Fürstenland Toggenburg,Wil 9500,CH,Fürstenlandstrasse 32,,,,4000.0,,,,,4120,hco,mepha
-Aerzteverien Davos,Davos Platz 7270,CH,Promenade 4,,,,3000.0,,,,,3120,hco,mepha
-"SGSM""schweizerische Gesellschaft für Sportmedizin""",Bern 3013,CH,Rabbentalstrasse 83,,,,1000.0,,,,,1020,hco,mepha
-"IGSA"" Intressensgemeinschaft Schweizer Aerzte""",Luzern 6006,CH,Denkmalstrasse 2,,,,1000.0,,,,,1030,hco,mepha
-PSOMA,Bern 3012,CH,Hochfeldstrasse 101,,,,1000.0,,,,,1080,hco,mepha
-"IHAM & CC Luzern""Institut für Hausarztmedizin & Community Care Luzern""",Luzern 6004,CH,Schwanenplatz 7,,,,3500.0,,,,,3520,hco,mepha
-Solothurner Spitäler AG,Solothurn 4500,CH,Schlössliweg 6,,,,500.0,,,,,530,hco,mepha
-Center da sandà Val Müstair,Sta. Maria 7536,CH,Sielva 1222,,,,2500.0,,,,,2520,hco,mepha
+RSBJRéseau Santé Balcon du Jura,Sainte Croix ,CH,Rue des Rosiers 29,,,,1800.0,,,,,1830,hco,mepha
+GHOLGroupement Hospitalier de l'ouest Lémanique S.A.,Nyon ,CH,Rue du Vieux Marche 10,,,,1000.0,,,,,1030,hco,mepha
+HFR hôpital fribourgeois,Fribourg ,CH,,,,,1000.0,,,,,1050,hco,mepha
+Privatklinik Wyss,Münchenbuchsee ,CH,Fellenbergstrasse 34,,,,3000.0,,,,,3150,hco,mepha
+Kantonsspital St. Gallen,St. Gallen ,CH,Rorschacher Strasse 95,,,,4000.0,,,,,4120,hco,mepha
+Ospedale Regionale di Lugano,Lugano ,CH,Via Tesserete 46,,,,1600.0,,,,,1820,hco,mepha
+Spitäler fmi AG,Unterseen ,CH,Weissenaustrasse 27,,,,700.0,,,,,722,hco,mepha
+Privatklinik Obach,Solothurn ,CH,Leopoldstrasse 5,,,,2000.0,,,,,2100,hco,mepha
+Kopfwehzentrum Hirslanden,Zollikon ,CH,Forchstrasse 424,,,,500.0,,,,,780,hco,mepha
+"ADAEL""Association d'Aesculape en Lavaux""",Lutry ,CH,Rue Verdaine,,,,1500.0,,,,,1530,hco,mepha
+"GRIMM""Groupement de médecins valaisans""",Sion ,CH,Rue du Chanoine Berchtold 26,,,,2000.0,,,,,2030,hco,mepha
+Hôpital du Valais,Saxon ,CH,Gottefrey 11,,,,1500.0,,,,,1530,hco,mepha
+Hôpital du Valais,Sion ,CH,Ave sur Grand Champsec 86,,,,400.0,,,,,430,hco,mepha
+"ASROMM""Association Suisse Romande de médecine manuelle",Lausanne ,CH,Av Vinet 19,,,,800.0,,,,,830,hco,mepha
+"CHUV""Centre Hospitalier Universitaire Vaudois""",Lausanne ,CH,Rue du Bugnon 21,,,,2000.0,,,,,2130,hco,mepha
+MMMAssociazione Medical Meeting,Minusio ,CH,Via Cadogno 1,,,,1500.0,,,,,1820,hco,mepha
+Spitalregion Fürstenland Toggenburg,Wil ,CH,Fürstenlandstrasse 32,,,,2000.0,,,,,2080,hco,mepha
+PharmActuel Vaud,Fribourg ,CH,Chemin du Palatinat 11,,,,2000.0,,,,,2100,hco,mepha
+PharmActuel Basel,Binningen ,CH,Bleicherweg 5,,,,1282.0,,,,,1367,hco,mepha
+"IGSA"" Intressensgemeinschaft Schweizer Aerzte""",Luzern ,CH,Denkmalstrasse 2,,,,1000.0,,,,,1008,hco,mepha
+Reha Reinfelden,Rheinfelden ,CH,Salinenstrasse 98,,,,3000.0,,,,,3120,hco,mepha
+Hôpital du Valais CHCVS,Sion ,CH,Ave du Grand Champsec 80,,,,1500.0,,,,,1550,hco,mepha
+"VZI""Vereinigung Allgemeiner uns Spezialisierter Internistinnen und Internisten Zürich""",Zwillikon ,CH,Haldenrain 18,,,,2000.0,,,,,2100,hco,mepha
+Praxis am Bahnhof,Rüti ,CH,Dorfstrasse 43/44,,,,200.0,,,,,215,hco,mepha
+"Association ""Journée Jurassienne de Médecine""",Delémont ,CH,Rue de la Préfecture 1,,,,1600.0,,,,,1660,hco,mepha
+Université de Genève,Genève ,CH,Centre comptable Uni 2,,,,2500.0,,,,,2610,hco,mepha
+Pharmactuel Zentralschweiz,Luzern ,CH,Neustadtstrasse 43,,,,1817.0,,,,,1817,hco,mepha
+PharmActuel Regionalgruppe Bern,Zollikofen ,CH,Hübeliweg 14,,,,7500.0,,,,,7800,hco,mepha
+Société Valaisanne de pharmacie,Granges ,CH,,,,,2400.0,,,,,2480,hco,mepha
+Privatklinik Wyss,Münchenbuchsee ,CH,Fellenberg‐ strasse 34,,,,2000.0,,,,,2100,hco,mepha
+Ordine del Farmacisti del Canton Ticino,Lugano ,CH,Via al Forte 3,,,,2500.0,,,,,2600,hco,mepha
+Spitalregion Fürstenland Toggenburg,Wil ,CH,Fürstenlandstrasse 32,,,,4000.0,,,,,4120,hco,mepha
+Aerzteverien Davos,Davos Platz ,CH,Promenade 4,,,,3000.0,,,,,3120,hco,mepha
+"SGSM""schweizerische Gesellschaft für Sportmedizin""",Bern ,CH,Rabbentalstrasse 83,,,,1000.0,,,,,1020,hco,mepha
+"IGSA"" Intressensgemeinschaft Schweizer Aerzte""",Luzern ,CH,Denkmalstrasse 2,,,,1000.0,,,,,1030,hco,mepha
+PSOMA,Bern ,CH,Hochfeldstrasse 101,,,,1000.0,,,,,1080,hco,mepha
+"IHAM & CC Luzern""Institut für Hausarztmedizin & Community Care Luzern""",Luzern ,CH,Schwanenplatz 7,,,,3500.0,,,,,3520,hco,mepha
+Solothurner Spitäler AG,Solothurn ,CH,Schlössliweg 6,,,,500.0,,,,,530,hco,mepha
+Center da sandà Val Müstair,Sta. Maria ,CH,Sielva 1222,,,,2500.0,,,,,2520,hco,mepha
 mednetbern AG,Bern,CH,Sidlerstrasse 4,,,,3000.0,,,,,3040,hco,mepha
 medswiss.net,Gümligen,CH,Moosstrasse 2,,,,4000.0,,,,,4200,hco,mepha
 Medbase AG,Winterthur,CH,Technikumstr. 73,,,,18800.0,,,,,19400,hco,mepha
