@@ -19,7 +19,7 @@ Baris Karpuz,1950 Sion,CH,Avenue de la Gare 25,1950,7601003993547,,,315.0,112.0,
 Boris Gojanovic,1217 Meyrin,CH,Avenue Jean Daniel Maillard 3,1217,7601000618603,,,,,1500.0,,1500,hcp,servier
 Carlos De Mendonça Lima,1005 Lausanne,CH,Avenue des Mousquines 4,1005,7601000997654,,,471.0,430.0,,,901,hcp,servier
 Charles-Alphonse Reynard,1950 Sion,CH,Avenue de la Gare 25,1950,7601000066220,,,,,800.0,,800,hcp,servier
-Christian Schmied,8091 Zürich,CH,,8091,7601000493606,,,,,2000.0,,2000,hcp,servier
+Christian Schmied,8091 Zürich,CH,Klinik für Kardiologie Universitätsspital Zürich,8091,7601000493606,,,,,2000.0,,2000,hcp,servier
 Christina Bornivelli,6900 Lugano,CH,Via delle Scuole 1,6900,7601000945617,,,428.0,707.0,,,1135,hcp,servier
 Christophe Pasche,1032 Romanel-sur-Lausanne,CH,Chemin des Esserpys 20,1032,7601000621870,,,229.0,480.0,,,709,hcp,servier
 Claudia Ariemma,6850 Mendrisio,CH,Via Turconi 23,6850,7601000990938,,,,147.0,,,147,hcp,servier
@@ -30,83 +30,83 @@ Daniel Blickenstorfer,8820 Wädenswil,CH,Fuhrstr. 15,8820,7601000366177,,,310.0,
 Daniel Helbling,8038 Zürich,CH,Seestrasse 259,8038,7601000456021,,,564.0,1437.0,,,2000,hcp,servier
 Daniel Koychev,8640 Rapperswil SG,CH,Alte Jonastrasse 24,8640,7601003407839,,,,,390.0,,390,hcp,servier
 David Kabashi,5620 Bremgarten AG,CH,Zürcherstrasse 4,5620,7601000989307,,,,11.0,,,11,hcp,servier
-Dezsö Körmendy,3008 Bern,CH,,3008,7601000910226,,,419.0,1313.0,,,1732,hcp,servier
-Dimitrios Agiakatsikas,6500 Bellinzona,CH,,6500,7601003408027,,,229.0,539.0,,,767,hcp,servier
-Elena Angela Intzes,6987 Caslano,CH,,6987,7601000651952,,,229.0,364.0,,,593,hcp,servier
+Dezsö Körmendy,3008 Bern,CH,Localmed Ärztezentrum Bern,3008,7601000910226,,,419.0,1313.0,,,1732,hcp,servier
+Dimitrios Agiakatsikas,6500 Bellinzona,CH,Centromedico,6500,7601003408027,,,229.0,539.0,,,767,hcp,servier
+Elena Angela Intzes,6987 Caslano,CH,via Stazione 23,6987,7601000651952,,,229.0,364.0,,,593,hcp,servier
 Elke Broos-Könitz,9016 St. Gallen,CH,santémed Gesundheitszentren AG - Vadianstrasse 26,9016,7601000761002,,,,11.0,,,11,hcp,servier
 Enrico Roggero,6500 Bellinzona,CH,Studio Dr. Roggero Enrico Viale Portone 5,6500,7601000181176,,,,,600.0,,600,hcp,servier
-Ermira Gasser-Hoti,1023 Crissier,CH,,1023,7601000714527,,,503.0,734.0,,,1236,hcp,servier
-Ernst Gröchenig,5001 Aarau,CH,,5001,7601000528339,,,,,1200.0,,1200,hcp,servier
-Eva Daiana Pusca,2000 Neuchâtel,CH,,2000,7601000957344,,,477.0,632.0,,,1109,hcp,servier
-Eva Hesse,1033 Cheseaux-sur-Lausanne,CH,,1033,7601000017239,,,229.0,509.0,,,738,hcp,servier
+Ermira Gasser-Hoti,1023 Crissier,CH,Rue du Jura 2,1023,7601000714527,,,503.0,734.0,,,1236,hcp,servier
+Ernst Gröchenig,5001 Aarau,CH,"Kantonsspital Aarau AG, Tellstrasse 25",5001,7601000528339,,,,,1200.0,,1200,hcp,servier
+Eva Daiana Pusca,2000 Neuchâtel,CH,Rue de la Serre 5,2000,7601000957344,,,477.0,632.0,,,1109,hcp,servier
+Eva Hesse,1033 Cheseaux-sur-Lausanne,CH,Route d'Yverdon 5,1033,7601000017239,,,229.0,509.0,,,738,hcp,servier
 Ferdinand Jaggi,8049 Zürich,CH,Rütihofstrasse 49,8049,7601000193995,,,,,2400.0,,2400,hcp,servier
 Fiorenzo Acquati,6850 Mendrisio,CH,Via Giuseppe Motta 35,6850,7601000668059,,,,,1100.0,,1100,hcp,servier
 Flavio Acquistapace,6928 Manno,CH,Via Cantonale 35d,6928,7601000933263,,,,,700.0,,700,hcp,servier
-Francesca Domenghini Tettamanti,6900 Paradiso,CH,,6900,7601000189493,,,356.0,473.0,,,830,hcp,servier
-Francesca Tavarini,6900 Lugano,CH,,6900,7601000652492,,,229.0,364.0,,,593,hcp,servier
+Francesca Domenghini Tettamanti,6900 Paradiso,CH,Via Guisan 13,6900,7601000189493,,,356.0,473.0,,,830,hcp,servier
+Francesca Tavarini,6900 Lugano,CH,Centromedico,6900,7601000652492,,,229.0,364.0,,,593,hcp,servier
 Francesco Zappa,6900 Lugano,CH,Clinica Luganese Moncucco SA Via Moncucco 10,6900,7601000180926,,,,,600.0,,600,hcp,servier
 Frank Günter Wilhelmus,8105 Regensdorf,CH,Adlikerstrasse 236,8105,7601000967039,,,,14.0,,,14,hcp,servier
 Friederike Matter-Tanski,3625 Heiligenschwendi,CH,Schwendi 299,3625,7601000736208,,,419.0,1105.0,,,1524,hcp,servier
 Gabriella Guzzo,1950 Sion,CH,Avenue Grand-Champsec 80,1950,7601000923585,,,401.0,839.0,,,1241,hcp,servier
 Geoffrey Delmore,8500 Frauenfeld,CH,"Kantonsspital Medizin Onkologie, Pfaffenholzstras se 4",8500,7601000243164,,,,,1200.0,,1200,hcp,servier
-Georg Umenhofer,9000 St. Gallen,CH,,9000,7601000714749,,,419.0,530.0,,,949,hcp,servier
+Georg Umenhofer,9000 St. Gallen,CH,Geltenwilenstrasse 17,9000,7601000714749,,,419.0,530.0,,,949,hcp,servier
 Grégoire Girod,1950 Sion,CH,Chemin Isabelle de Montolieu 34A,1950,7601000056078,,,,,800.0,,800,hcp,servier
 Gurpreet Anand,8091 Zürich,CH,Im Herrenholz 4,8091,7601000725301,,,,,1000.0,,1000,hcp,servier
-Hansjörg Meier,4800 Zofingen,CH,,4800,7601000152176,,,419.0,1337.0,,,1756,hcp,servier
+Hansjörg Meier,4800 Zofingen,CH,Herzpraxis Zofingen,4800,7601000152176,,,419.0,1337.0,,,1756,hcp,servier
 Heinz Schutzbach,8953 Dietikon,CH,Clienia - Neumattstrasse 7,8953,7601000714985,,,,14.0,,,14,hcp,servier
-James Tataw,2740 Moutier,CH,,2740,7601000974860,,,401.0,883.0,,,1285,hcp,servier
+James Tataw,2740 Moutier,CH,Hôpital du Jura bernois SA,2740,7601000974860,,,401.0,883.0,,,1285,hcp,servier
 Jan Dieter Schmid,3250 Lyss,CH,Marktplatz 7,3250,7601000113184,,,,14.0,,,14,hcp,servier
-Jarno Zierle,9400 Rorschach,CH,,9400,7601000764287,,,477.0,622.0,,,1099,hcp,servier
+Jarno Zierle,9400 Rorschach,CH,Scholastikastrasse 18,9400,7601000764287,,,477.0,622.0,,,1099,hcp,servier
 Jean Bérubé,6900 Lugano,CH,Via Maggio 13,6900,7601000187673,,,,,400.0,,400,hcp,servier
-Jens Barthelmes,8091 Zürich,CH,,8091,7601003374230,,,397.0,932.0,,,1329,hcp,servier
-Jens Brinken,1003 Lausanne,CH,,1003,7601000735485,,,477.0,528.0,,,1005,hcp,servier
-Joëlle Michel-Némitz,2608 Courtelary,CH,,2608,7601000050205,,,229.0,452.0,,,681,hcp,servier
+Jens Barthelmes,8091 Zürich,CH,Universitätsspital Zürich,8091,7601003374230,,,397.0,932.0,,,1329,hcp,servier
+Jens Brinken,1003 Lausanne,CH,Avenue de la Gare 36,1003,7601000735485,,,477.0,528.0,,,1005,hcp,servier
+Joëlle Michel-Némitz,2608 Courtelary,CH,rue de la Forge 9,2608,7601000050205,,,229.0,452.0,,,681,hcp,servier
 Johannes Berger,9400 Rorschach,CH,Neugasse 14,9400,7601000777348,,,,-10.0,,,-10,hcp,servier
 Karin Zingg Brühlmann,3270 Aarberg,CH,Lyss-Strasse 7,3270,7601000082060,,,,14.0,,,14,hcp,servier
-Kurt Seiler,6330 Cham,CH,,6330,7601000277800,,,,,1200.0,,1200,hcp,servier
+Kurt Seiler,6330 Cham,CH,Poststrasse 2,6330,7601000277800,,,,,1200.0,,1200,hcp,servier
 Laura Cirafici,2900 Porrentruy,CH,Chemin de l'Hôpital 9,2900,7601000062543,,,,,800.0,,800,hcp,servier
-Lionel Jacquier,1920 Martigny,CH,,1920,7601000641557,,,229.0,605.0,,,834,hcp,servier
+Lionel Jacquier,1920 Martigny,CH,Avenue de la Gare 17,1920,7601000641557,,,229.0,605.0,,,834,hcp,servier
 Lubica Gujanicic,9410 Heiden,CH,Paradies 4,9410,7601000752383,,,,11.0,,,11,hcp,servier
-Lucilla Soulier-Parmeggiani,1217 Meyrin,CH,,1217,7601000042934,,,,,1000.0,,1000,hcp,servier
+Lucilla Soulier-Parmeggiani,1217 Meyrin,CH,Hôpital de La Tour SA,1217,7601000042934,,,,,1000.0,,1000,hcp,servier
 Marco Gebbers,6440 Brunnen,CH,Freiestrasse 71,6440,7601000533302,,,,14.0,,,14,hcp,servier
 Marco Kummer,4310 Rheinfelden,CH,Habich-Dietschy-Strasse 18,4310,7601000777867,,,,,750.0,,750,hcp,servier
-Maria Carla Valli,6500 Bellinzona,CH,,6500,7601000876669,,,,,600.0,,600,hcp,servier
+Maria Carla Valli,6500 Bellinzona,CH,EOC Ospedale Regionale di Bellinzona,6500,7601000876669,,,,,600.0,,600,hcp,servier
 Maria Grazia Rossi,6900 Lugano,CH,Via Tesserete 48,6900,7601000437600,,,,,400.0,,400,hcp,servier
 Maria-Rosaria Ciavaglioli,6600 Locarno,CH,Piazza Muraccio 3,6600,7601000859556,,,,147.0,,,147,hcp,servier
 Marino Urbinelli,4702 Oensingen,CH,Ärztezentrum Leuenfeld - Leuenstrasse 2,4702,7601000626431,,,,14.0,,,14,hcp,servier
-Marius Dragos,2000 Neuchâtel,CH,,2000,7601000070500,,,477.0,258.0,,,735,hcp,servier
-Maryam Pavlicek,3010 Bern,CH,,3010,7601000811325,,,419.0,914.0,,,1333,hcp,servier
+Marius Dragos,2000 Neuchâtel,CH,Rue de la Serre 5,2000,7601000070500,,,477.0,258.0,,,735,hcp,servier
+Maryam Pavlicek,3010 Bern,CH,Insel-Gruppe AG,3010,7601000811325,,,419.0,914.0,,,1333,hcp,servier
 Marzio Roberti-Maggiore,6745 Giornico,CH,Via Cantonale,6745,7601000180797,,,,,400.0,,400,hcp,servier
 Matthias Paul,6004 Luzern,CH,"er Kantonsspital Medizin Kardiologie, Spitalstrasse",6004,7601000469519,,,397.0,972.0,,,1369,hcp,servier
-Mengistu Yared,2502 Biel/Bienne,CH,,2502,7601000704597,,,477.0,597.0,,,1074,hcp,servier
-Michael Alexander Brabetz,9573 Littenheid,CH,,9573,7601000086617,,,,,500.0,,500,hcp,servier
-Michael Fithal,4310 Rheinfelden,CH,,4310,7601000336644,,,477.0,576.0,,,1053,hcp,servier
+Mengistu Yared,2502 Biel/Bienne,CH,Murtenstrasse 54,2502,7601000704597,,,477.0,597.0,,,1074,hcp,servier
+Michael Alexander Brabetz,9573 Littenheid,CH,Clienia Littenheid AG,9573,7601000086617,,,,,500.0,,500,hcp,servier
+Michael Fithal,4310 Rheinfelden,CH,Kaiserstrasse 8,4310,7601000336644,,,477.0,576.0,,,1053,hcp,servier
 Michael Henrich,8280 Kreuzlingen,CH,Nationalstrasse 17,8280,7601000862594,,,,14.0,,,14,hcp,servier
-Michael Van Houte,6300 Zug,CH,,6300,7601000777539,,,356.0,591.0,,,947,hcp,servier
-Myrvete Kryeziu,2022 Bevaix,CH,,2022,7601003421095,,,229.0,635.0,,,863,hcp,servier
+Michael Van Houte,6300 Zug,CH,Poststrasse 16,6300,7601000777539,,,356.0,591.0,,,947,hcp,servier
+Myrvete Kryeziu,2022 Bevaix,CH,Rue du Temple 4,2022,7601003421095,,,229.0,635.0,,,863,hcp,servier
 Natalie Fischer,8400 Winterthur,CH,Brauerstrasse 15,8400,7601000433190,,,564.0,1381.0,,,1945,hcp,servier
-Nicola Ferroni,6600 Locarno,CH,,6600,7601000183286,,,419.0,374.0,,,793,hcp,servier
+Nicola Ferroni,6600 Locarno,CH,Piazza G. Pedrazzini 16,6600,7601000183286,,,419.0,374.0,,,793,hcp,servier
 Oreste Mora,6850 Mendrisio,CH,via Luigi Lavizzari 8,6850,7601000513014,,,712.0,1258.0,,,1971,hcp,servier
 Pascal Berney,1012 Lausanne,CH,Chemin de Rovéréaz 5,1012,7601000016188,,,229.0,557.0,,,785,hcp,servier
 Petra Kästner,3900 Brig,CH,Spital / Spital Wallis - Überlandstrasse 14,3900,7601000407214,,,,14.0,,,14,hcp,servier
 Philipp Kloimstein,9630 Wattwil,CH,Psychiatrisches Zentrum,9630,7601000874818,,,356.0,597.0,,,954,hcp,servier
-Piercarlo Saletti,6962 Viganello,CH,,6962,7601000185815,,,,,1000.0,,1000,hcp,servier
-Pierre Kohler,1006 Lausanne,CH,,1006,7601000007278,,,229.0,544.0,,,773,hcp,servier
+Piercarlo Saletti,6962 Viganello,CH,IOSI Istituto Oncologico Ospedale Regionale di Lugano,6962,7601000185815,,,,,1000.0,,1000,hcp,servier
+Pierre Kohler,1006 Lausanne,CH,Avenue de Montchoisi 28,1006,7601000007278,,,229.0,544.0,,,773,hcp,servier
 Pietro Foglia,6900 Massagno,CH,Via Cabione 1a /via Madonna della Salute,6900,7601000524546,,,,,400.0,,400,hcp,servier
 Rafik Bouzegaou,1633 Marsens,CH,Réseau fribourgeois de santé mentale - c/o Centre de soins hospitaliers - L'Hôpital 140,1633,7601003420951,,,,261.0,,,261,hcp,servier
-Raphaël Voide,1950 Sion,CH,,1950,7601000648280,,,428.0,551.0,,,979,hcp,servier
-Renata Fatio,8032 Zürich,CH,,8032,7601000227911,,,,,1000.0,,1000,hcp,servier
-Renzo Dal Zotto,2000 Neuchâtel,CH,,2000,7601000068743,,,229.0,613.0,,,842,hcp,servier
+Raphaël Voide,1950 Sion,CH,C.C.P.P. Antenne de Sion,1950,7601000648280,,,428.0,551.0,,,979,hcp,servier
+Renata Fatio,8032 Zürich,CH,Kasinostrasse 3,8032,7601000227911,,,,,1000.0,,1000,hcp,servier
+Renzo Dal Zotto,2000 Neuchâtel,CH,Rue Saint-Honoré 3,2000,7601000068743,,,229.0,613.0,,,842,hcp,servier
 Reto Kühne,8037 Zürich,CH,Tièchestrasse 99,8037,7601000147516,,,,,1200.0,,1200,hcp,servier
-Ridha Mekacher,1201 Genève,CH,,1201,7601000680594,,,477.0,594.0,,,1071,hcp,servier
-Robert Rouhi,7500 St. Moritz,CH,,7500,7601000736925,,,488.0,,,,488,hcp,servier
+Ridha Mekacher,1201 Genève,CH,rue du Mont-Blanc 26,1201,7601000680594,,,477.0,594.0,,,1071,hcp,servier
+Robert Rouhi,7500 St. Moritz,CH,Via Traunter plazzas 5,7500,7601000736925,,,488.0,,,,488,hcp,servier
 Rodrigo Da Graça Santos,1004 Lausanne,CH,Rue du Petit-Beaulieu 1,1004,7601000774231,,,,80.0,,,80,hcp,servier
 Roger Lehmann,8091 Zürich,CH,Rotbuchstrasse 43,8091,7601000224248,,,,,2000.0,,2000,hcp,servier
-Rolf Köster,5620 Bremgarten AG,CH,,5620,7601000208439,,,,801.0,,,801,hcp,servier
+Rolf Köster,5620 Bremgarten AG,CH,Zentrum Sunne-Märt,5620,7601000208439,,,,801.0,,,801,hcp,servier
 Sabine Abele,6006 Luzern,CH,Fluhmattweg 4,6006,7601000679666,,,,14.0,,,14,hcp,servier
-Sebastien Thalmann,8045 Zürich,CH,,8045,7601000491640,,,,,1000.0,,1000,hcp,servier
+Sebastien Thalmann,8045 Zürich,CH,Ärztezentrum Sihlcity,8045,7601000491640,,,,,1000.0,,1000,hcp,servier
 Silvia Peruffo,6830 Chiasso,CH,Via Soldini 14,6830,7601000744517,,,,147.0,,,147,hcp,servier
-Slawomir Weretka,6440 Brunnen,CH,,6440,7601003392791,,,400.0,,,,400,hcp,servier
+Slawomir Weretka,6440 Brunnen,CH,Bahnhofstrasse 53,6440,7601003392791,,,400.0,,,,400,hcp,servier
 Stéphane Reverdin,1004 Lausanne,CH,Avenue Jomini 8,1004,7601000550248,,,,,800.0,,800,hcp,servier
 Sylvie Hüni Gallaz,1009 Pully,CH,Avenue des Collèges 6,1009,7601000495419,,,,168.0,,,168,hcp,servier
 Thi Nguyen,1012 Lausanne,CH,Avenue de Chailly 25,1012,7601000016157,,,,,600.0,,600,hcp,servier
