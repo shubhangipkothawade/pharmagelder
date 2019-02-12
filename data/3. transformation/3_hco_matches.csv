@@ -393,11 +393,11 @@
 3826,CHUV Service de neurologie,Lausanne,CH,Rue du Bugnon 46,,,,2870.71,,614.72,,,3485.43,hco,shire,rue du bugnon 46,lausanne,704,34,48,25,107,"name=100,location=100,address=100,total=300"
 4023,CHUV centre hospitalier universitaire vaudois,Lausanne,CH,Rue Du Bugnon 21,,,,2500.0,,,,,2500,hco,teva,rue du bugnon 21,lausanne,1840,39,48,19,106,"name=100,location=100,address=100,total=300"
 2344,"CHUV""Centre Hospitalier Universitaire Vaudois""",Lausanne,CH,Rue du Bugnon 21,1011,,,2000.0,,,,,2130,hco,mepha,rue du bugnon 21,lausanne,1840,39,48,19,106,"name=100,location=100,address=100,total=300"
-2155,"CHUV, Centre Hospitalier Uni Vaudois",Lausanne,CH,Rue du Bugnon21,,,,.8000.0,311.7,662.3,2500.0,,11473.9,hco,menarini,rue du bugnon21,lausanne,1840,39,48,19,106,"name=100,location=100,address=84,total=284"
+2155,"CHUV, Centre Hospitalier Uni Vaudois",Lausanne,CH,Rue du Bugnon21,,,,8000.0,311.7,662.3,2500.0,,11473.9,hco,menarini,rue du bugnon21,lausanne,1840,39,48,19,106,"name=100,location=100,address=84,total=284"
 4054,"CHUV, Centre hospitalier universitaire vaudois",Lausanne,CH,Rue Du Bugnon 21,,,,0.0,,,1050.0,,1050,hco,teva,rue du bugnon 21,lausanne,1840,39,48,19,106,"name=100,location=100,address=100,total=300"
 4055,"CHUV, Centre hospitalier universitaire vaudois, service de neurologie",Lausanne,CH,Rue Du Bugnon 21,,,,0.0,,,600.0,96.0,696,hco,teva,rue du bugnon 21,lausanne,1840,42,48,19,109,"name=100,location=100,address=100,total=300"
 3574,"CHUV, DÉPARTEMENT DES PSYCHIATRIE",PRILLY-LAUSANNE,CH,SITE DE CERY,,,,5200.0,,,,,5200.0,hco,sandoz,site de cery,prilly-lausanne,3574,37,36,21,94,
-2156,"CHUV, Hôpital orthopédique. Service de rhumatologie",Lausanne,CH,Av. Pierre Decker,,,,.3500.0,,,1500.0,,5800.0,hco,menarini,avenue pierre decker,lausanne,4017,39,48,33,120,"name=100,location=100,address=100,total=300"
+2156,"CHUV, Hôpital orthopédique. Service de rhumatologie",Lausanne,CH,Av. Pierre Decker,,,,3500.0,,,1500.0,,5800.0,hco,menarini,avenue pierre decker,lausanne,4017,39,48,33,120,"name=100,location=100,address=100,total=300"
 1324,"CHUV, Service d'hématologie et Laboratoire central d'hématologie",Lausanne,CH,Rue du Bugnon 46,,,15000.0,3000.0,,,,,18000.0,hco,cls,rue du bugnon 46,lausanne,704,36,48,25,109,"name=100,location=100,address=100,total=300"
 2157,"CHUV, service d'immunologie et allergie",Lausanne,CH,Rue du Bugnon 46,,,,3000.0,,,,,2900.0,hco,menarini,rue du bugnon 46,lausanne,704,34,48,25,107,"name=100,location=100,address=100,total=300"
 1071,CIPRA / IGAPT Madame Kathleen Grant,Lausanne,CH,Rue de Bugnon,1011,,,1500.0,,,,,1500.0,hco,boehringer,rue de bugnon,lausanne,1071,36,48,21,105,
@@ -522,7 +522,7 @@
 2834,Circolo di Qualità Campagna Adoma c/o Dr. med. Lorenzo E. Binaghi,Coldrerio,CH,Via Mercole 2b,,,0,1500.00,0,0,0,0,1500.00,hco,novartis,via mercole 2b,coldrerio,2834,42,27,27,96,
 769,Circolo medico del Bellinzonese,Arbedo,CH,Via Orbello 22,6517,1051739729,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer,via orbello 22,arbedo,952,32,21,27,80,"name=100,location=100,address=100,total=300"
 952,Circolo medico del Bellinzonese,Arbedo,CH,Via Orbello 22,,,,500.0,,,,,500.0,hco,bgp,via orbello 22,arbedo,2158,32,21,27,80,"name=100,location=100,address=100,total=300"
-3916,Circolo medico del Bellinzonese,Arbedo,CH,Via Orbello 22,6517,,0,ERROR,0,0,0,0,ERROR,hco,takeda,via orbello 22,arbedo,2158,32,21,27,80,"name=100,location=100,address=100,total=300"
+3916,Circolo medico del Bellinzonese,Arbedo,CH,Via Orbello 22,6517,,0,0,0,0,0,0,0,hco,takeda,via orbello 22,arbedo,2158,32,21,27,80,"name=100,location=100,address=100,total=300"
 1430,Circolo medico di Locarno,Ascona,CH,Via al Lido 27,,,,1500.0,,,,,1500,hco,eli,via alabama lido 27,ascona,19,30,21,11,62,"name=100,location=100,address=100,total=300"
 3395,Circolo medico di Locarno,Ascona,CH,Via al Lido 27,,,,500.0,,,,,500.0,hco,pierre,via alabama lido 27,ascona,19,30,21,11,62,"name=100,location=100,address=100,total=300"
 770,Circolo medico di Locarno,Ascona,CH,Via al Lido 27,6612,40529109,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer,via alabama lido 27,ascona,19,30,21,11,62,"name=100,location=100,address=100,total=300"
@@ -612,7 +612,7 @@
 1078,DOXnet Aerztenetzwerk Bern Nord/WestHerr Dr. med. Köstner Beat,Neuenegg,CH,Oeleweg 2,3176,,,3000.0,,,,,3000.0,hco,boehringer,oeleweg 2,neuenegg,2534,40,48,48,136,"name=92,location=100,address=100,total=292"
 4324,DOXnet Ärztenetzwerk Bern Nord / West,Bremgarten,CH,Aeschenbrunnmattstrasse 9,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,zambon,aeschenbrunnmattstrasse 9,bremgarten,4324,35,35,24,94,
 3231,DOXnet Ärztenetzwerk Bern Nord / West,Hinterkappelen,CH,Kappelenring 6,,,0.0,1000,0,0,0,0,1000,hco,pfizer,kappelenring 6,hinterkappelen,2388,35,37,33,105,"name=100,location=100,address=100,total=300"
-2166,DOXnet Ärztenetzwerk Bern Nord/West,Laupen,CH,Bösingenstrasse 16,,,,.2000.0,,,,,2000.0,hco,menarini,boesingenstrasse 16,laupen,3399,35,53,29,117,"name=100,location=100,address=100,total=300"
+2166,DOXnet Ärztenetzwerk Bern Nord/West,Laupen,CH,Bösingenstrasse 16,,,,2000.0,,,,,2000.0,hco,menarini,boesingenstrasse 16,laupen,3399,35,53,29,117,"name=100,location=100,address=100,total=300"
 2844,DOXnet Ärztenetzwerk Bern Nord/West H Herr Dr. med. C Köstner Beat 0,Neuenegg,CH,Oeleweg 2,,,0,3000.00,600.00,200.00,0,0,3800.00,hco,novartis,oeleweg 2,neuenegg,1078,41,48,48,137,"name=88,location=100,address=100,total=288"
 160,Dachverband angeborene Herzfehler / herznetz.ch,Basel,CH,Lange Gasse 78,,,3875.0,,,,,,3875.0,hco,actelion,lange gasse 78,basel,160,36,33,27,96,
 2841,Dandelion Pflegezentrum f. demenzkranke Menschen,Basel,CH,Sperrstrasse 100,,,8000.00,0,0,0,0,0,8000.00,hco,novartis,sperrstrasse 100,basel,2841,37,33,19,89,
@@ -1741,7 +1741,7 @@
 2910,Kantonsspital Aarau AG,Aarau,CH,Teilstrasse 25,,,49200.00,10000.00,1224.01,2011.43,13500.00,0,75935.44,hco,novartis,teilstrasse 25,aarau,4079,26,22,27,75,"name=100,location=100,address=100,total=300"
 4044,Kantonsspital Aarau AG,Aarau,CH,Tellstrasse,,,15000.0,,,,,,15000,hco,teva,tellstrasse,aarau,828,26,22,22,70,"name=100,location=100,address=100,total=300"
 3408,Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,7601002001137,,2820.0,,,,,2820.0,hco,pierre,tellstrasse 25,aarau,828,26,22,27,75,"name=100,location=100,address=100,total=300"
-2203,Kantonsspital Aarau AG,Aarau,CH,Tellstrasse,,,,.6500.0,561.3,879.9,800.0,,8741.2,hco,menarini,tellstrasse,aarau,828,26,22,22,70,"name=100,location=100,address=100,total=300"
+2203,Kantonsspital Aarau AG,Aarau,CH,Tellstrasse,,,,6500.0,561.3,879.9,800.0,,8741.2,hco,menarini,tellstrasse,aarau,828,26,22,22,70,"name=100,location=100,address=100,total=300"
 71,Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,2700.0,9200.0,1790.0,4883.0,7250.0,,25823.0,hco,abbvie,tellstrasse 25,aarau,828,26,22,27,75,"name=100,location=100,address=100,total=300"
 4079,Kantonsspital Aarau AG,Aarau,CH,Teilstrasse 25,,,,1080.0,,,1500.0,,2580.0,hco,ucb,teilstrasse 25,aarau,828,26,22,27,75,"name=100,location=100,address=93,total=293"
 1364,Kantonsspital Aarau AG,Aarau,CH,Tellstrasse,5000,,,,3000.0,,,,3000.0,hco,daiichi,tellstrasse,aarau,828,26,22,22,70,"name=100,location=100,address=100,total=300"
@@ -2256,7 +2256,7 @@
 718,Medinorma GmbH,Rolle,CH,Grand-Rue 34,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,baxter,grand-rue 34,rolle,1333,18,33,36,87,"name=82,location=100,address=100,total=282"
 1333,Medinorma Sàrl,Rolle,CH,Grand Rue 34,,,,2000.0,,,,,2000.0,hco,cls,grand rue 34,rolle,1333,24,33,36,93,
 1230,Mediscience GmbH,Küssnacht am Rigi,CH,Bahnhofstrasse 17,,,,10000.0,,,,,10000,hco,bristol,bahnhofstrasse 17,kuessnacht am rigi,3952,23,32,30,85,"name=100,location=100,address=100,total=300"
-3952,Mediscience GmbH,Küssnacht am Rigi,CH,Bahnhofstrasse 17,6403,,0,ERROR,0,0,0,0,ERROR,hco,takeda,bahnhofstrasse 17,kuessnacht am rigi,3499,23,32,30,85,"name=100,location=100,address=100,total=300"
+3952,Mediscience GmbH,Küssnacht am Rigi,CH,Bahnhofstrasse 17,6403,,0,0,0,0,0,0,0,hco,takeda,bahnhofstrasse 17,kuessnacht am rigi,3499,23,32,30,85,"name=100,location=100,address=100,total=300"
 3499,Mediscience GmbH,Küssnacht am Rigi,CH,"Bahnhofstrasse 17, Küssnacht am Rigi",6403,,0.0,25000.0,0.0,0.0,0.0,0.0,25000.0,hco,roche,bahnhofstrasse 17 kuessnacht am rigi,kuessnacht am rigi,1230,23,32,31,86,"name=100,location=100,address=100,total=300"
 2731,Mediscience GmbH,Küssnacht am Rigi,CH,Küssnacht am Rigi,,,25000.0,,,,,,25000.0,hco,mundipharma,kuessnacht am rigi,kuessnacht am rigi,3499,23,32,29,84,"name=100,location=100,address=100,total=300"
 1336,Mediservice AG,Zuchwil,CH,Ausserfeldweg 1,,,,,,,26520.0,,26520.0,hco,cls,ausserfeldweg 1,zuchwil,1027,24,20,52,96,"name=100,location=100,address=100,total=300"
@@ -3604,7 +3604,7 @@
 2634,Stiftung meineimpfungen,Gümligen,CH,Mattenstrasse 9,,,,26000.0,,,20000.0,,46000.0,hco,msd,mattenstrasse 9,guemligen,1807,26,64,26,116,"name=100,location=100,address=100,total=300"
 1527,Stiftung und Fonds Inselspital,Bern,CH,Freiburgerstrasse 18,,,,25900.0,,,6100.0,,32000,hco,eli,freiburgerstrasse 18,bern,711,35,24,28,87,"name=100,location=100,address=95,total=295"
 1526,Stiftung und Fonds Inselspital,Bern,CH,Freiburgstrasse 4,,,,3000.0,,,,,3000,hco,eli,freiburgstrasse 4,bern,2312,35,24,30,89,"name=100,location=100,address=94,total=294"
-3970,Stiftung wiss. Forschung Stadtsptital Triemli,Zürich,CH,Birmensdorferstrasse 497,8063,,0,0,0,0,ERROR,0,ERROR,hco,takeda,birmensdorferstrasse 497,zuerich,1596,34,30,45,109,"name=95,location=100,address=100,total=295"
+3970,Stiftung wiss. Forschung Stadtsptital Triemli,Zürich,CH,Birmensdorferstrasse 497,8063,,0,0,0,0,0,0,0,hco,takeda,birmensdorferstrasse 497,zuerich,1596,34,30,45,109,"name=95,location=100,address=100,total=295"
 1579,Stiftung wissenschaft. Forschung Gastroenterologie,Zürich,CH,Birmensdorferstrasse 497,,,,,,,1000.0,,1000,hco,ferring,birmensdorferstrasse 497,zuerich,1580,38,30,45,113,"name=83,location=100,address=100,total=283"
 1580,Stiftung wissenschaft. Forschung Radio-Onkologie,Zürich,CH,Birmensdorferstrasse 497,,,,500.0,,,,,500,hco,ferring,birmensdorferstrasse 497,zuerich,1580,37,30,45,112,
 2998,Stiftung zur Förderung Medizinischer und biologischer Forschung c/o Prof. Dr. Christoph Beglinger,Arlesheim,CH,Bruggweg 28,,,0,0,0,0,2500.00,0,2500.00,hco,novartis,bruggweg 28,arlesheim,2998,45,36,37,118,
@@ -3886,7 +3886,7 @@
 1536,UniversitätsSpital Zürich - Dermatologische Klinik,Zürich,CH,Gloriastrasse 31,,,,16000.0,,,,,16000,hco,eli,gloriastrasse 31,zuerich,3881,39,30,25,94,"name=100,location=100,address=100,total=300"
 265,UniversitätsSpital Zürich - European Dermatology Forum,Zürich,CH,Gloriastrasse 31,,,,26817.42,,,,,26817.42,hco,almirall,gloriastrasse 31,zuerich,1907,39,30,25,94,"name=100,location=100,address=100,total=300"
 3976,UniversitätsSpital Zürich - Klinik für Hämatologie,Zürich,CH,Râmistrasse 100,8091,,0,1000.00,0,0,0,0,1000.00,hco,takeda,ramistrasse 100,zuerich,3372,40,30,26,96,"name=100,location=100,address=97,total=297"
-3977,UniversitätsSpital Zürich - Klinik für Immunologie,Zürich,CH,Gloriastrasse 23,8091,,ERROR,0,0,0,0,0,ERROR,hco,takeda,gloriastrasse 23,zuerich,1537,39,30,25,94,"name=100,location=100,address=100,total=300"
+3977,UniversitätsSpital Zürich - Klinik für Immunologie,Zürich,CH,Gloriastrasse 23,8091,,0,0,0,0,0,0,0,hco,takeda,gloriastrasse 23,zuerich,1537,39,30,25,94,"name=100,location=100,address=100,total=300"
 1537,UniversitätsSpital Zürich - Klinik für Immunologie Diagnostik Allergologie,Zürich,CH,"Universitätsspital Zürich, Gloriastrasse 23",,,,7500.0,,,,,7500,hco,eli,universitaetsspital zuerich gloriastrasse 23,zuerich,3859,40,30,27,97,"name=100,location=100,address=100,total=300"
 266,UniversitätsSpital Zürich - Klinik für Neurologie,Zürich,CH,Frauenklinikstra sse 26,,,,1080.0,,,,,1080.0,hco,almirall,frauenklinikstra sse 26,zuerich,4065,40,30,36,106,"name=100,location=100,address=98,total=298"
 1538,UniversitätsSpital Zürich - Klinik und Poliklinik für Innere Medizin,Zürich,CH,Rämistrasse 100,,,,2950.0,,,,,2950,hco,eli,raemistrasse 100,zuerich,3761,42,30,25,97,"name=100,location=100,address=100,total=300"
@@ -3933,7 +3933,7 @@
 1291,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,,WCHH02261648,15700.0,8750.0,,,3500.0,,27950.0,hco,celgene,spitalstrasse 21,basel,3168,28,33,25,86,"name=100,location=100,address=100,total=300"
 504,Universitätsspital Basel,Basel,CH,Petersgraben 4,,,0.0,19550.0,0.0,0.0,0.0,0.0,19550.0,hco,astrazeneca,petersgraben 4,basel,3820,28,33,33,94,"name=100,location=100,address=100,total=300"
 507,Universitätsspital Basel,Basel,CH,Petersgraben 4,,,0.0,0.0,0.0,0.0,19250.0,0.0,19250.0,hco,astrazeneca,petersgraben 4,basel,3820,28,33,33,94,"name=100,location=100,address=100,total=300"
-3980,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,4031,,0,ERROR,792.28,ERROR,0,0,ERROR,hco,takeda,spitalstrasse 21,basel,3168,28,33,25,86,"name=100,location=100,address=100,total=300"
+3980,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,4031,,0,0,792.28,0,0,0,0,hco,takeda,spitalstrasse 21,basel,3168,28,33,25,86,"name=100,location=100,address=100,total=300"
 3022,Universitätsspital Basel,Basel,CH,Petersgraben 4,,,383750.00,35260.00,1470.00,3010.42,70443.99,3703.07,497637.48,hco,novartis,petersgraben 4,basel,3820,28,33,33,94,"name=100,location=100,address=100,total=300"
 464,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,,,679.8,11990.0,1223.0,1670.0,6050.0,114.0,21726.8,hco,astellas,spitalstrasse 21,basel,3168,28,33,25,86,"name=100,location=100,address=100,total=300"
 421,Universitätsspital Basel,Basel,CH,Spitalstrasse 21,,,,54900.0,1685.33,6702.07,10750.0,237.0,74274.4,hco,amgen,spitalstrasse 21,basel,3168,28,33,25,86,"name=100,location=100,address=100,total=300"
