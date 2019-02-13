@@ -1,0 +1,537 @@
+Received: from AMSPR02MB216.eurprd02.prod.outlook.com (2603:10a6:206:1::39) by
+ DB4PR02MB221.eurprd02.prod.outlook.com with HTTPS via
+ AM5PR04CA0026.EURPRD04.PROD.OUTLOOK.COM; Mon, 3 Jul 2017 07:56:02 +0000
+Received: from HE1PR0201CA0035.eurprd02.prod.outlook.com
+ (2a01:111:e400:7a2f::45) by AMSPR02MB216.eurprd02.prod.outlook.com
+ (2a01:111:e400:8022::18) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.1.1220.11; Mon, 3
+ Jul 2017 07:56:00 +0000
+Received: from AM5EUR02FT060.eop-EUR02.prod.protection.outlook.com
+ (2a01:111:f400:7e1e::200) by HE1PR0201CA0035.outlook.office365.com
+ (2a01:111:e400:7a2f::45) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.1.1220.11 via
+ Frontend Transport; Mon, 3 Jul 2017 07:56:00 +0000
+Authentication-Results: spf=pass (sender IP is 148.168.100.84)
+ smtp.mailfrom=pfizer.com; beobachter.ch; dkim=pass (signature was verified)
+ header.d=pfizer.com;beobachter.ch; dmarc=pass action=none
+ header.from=pfizer.com;
+Received-SPF: Pass (protection.outlook.com: domain of pfizer.com designates
+ 148.168.100.84 as permitted sender) receiver=protection.outlook.com;
+ client-ip=148.168.100.84; helo=mopmsgo.pfizer.com;
+Received: from mopmsgo.pfizer.com (148.168.100.84) by
+ AM5EUR02FT060.mail.protection.outlook.com (10.152.9.179) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.1220.9 via Frontend Transport; Mon, 3 Jul 2017 07:55:58 +0000
+Received: from pps.filterd (somamrppa01.pfizer.com [127.0.0.1])
+	by somamrppa01.pfizer.com (8.16.0.17/8.16.0.17) with SMTP id v637tvtA035216
+	for <sylke.gruhnwald@beobachter.ch>; Mon, 3 Jul 2017 03:55:57 -0400
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=pfizer.com; h=from : to : subject :
+ date : message-id : references : in-reply-to : content-type :
+ mime-version; s=maila; bh=oPfI+m0C01G19g1/s9714lkhSTZq8id4pX6uRlM2x8s=;
+ b=NspcofdzFxT0mFvGjFzgLeoFI9/aIc3d3b62LNfkoCsgDHrvLF9epflI3+rrKmpPrv5M
+ aakDO8hcSp/h1kLxvvyi2SqrvObHuQ1hKDOus92USz13IpV61/EKFvEKe1pbJht+Vn9H
+ aa1kxLZJ3KTlO80xJ4ZYy3n3SGyIxB9JA00y82qbdwfQy9h/6MhjlZgbU9ITyKovhz4H
+ eI5ONXh85jEFKdTW2pB59krjchSNkCAvxW2zcSGkQ7cGSKY7eQNsTOqrZ9RnjPwsD+kI
+ HlwEvyRCSkexxvSKfwCgVh1WoCGCoKDEL+RwuS65/SjmakFjKlW3BIOJe9fRCptuKtFO zQ== 
+Received: from ndhamrexch10.amer.pfizer.com (ndhamrexch10.pfizer.com [170.116.148.151])
+	by somamrppa01.pfizer.com with ESMTP id 2bfg5qa74b-1
+	for <sylke.gruhnwald@beobachter.ch>; Mon, 03 Jul 2017 03:55:57 -0400
+Received: from NDHAMREXDG03.amer.pfizer.com ([169.254.3.186]) by
+ NDHAMREXCH10.amer.pfizer.com ([170.116.148.151]) with mapi id 14.03.0339.000;
+ Mon, 3 Jul 2017 03:55:57 -0400
+From: "Hoehener, Martin" <Martin.Hoehener@pfizer.com>
+To: Gruhnwald Sylke <sylke.gruhnwald@beobachter.ch>
+Subject: RE: Anfrage Beobachter: Offenlegung nach PKK
+Thread-Topic: Anfrage Beobachter: Offenlegung nach PKK
+Thread-Index: AQHS8MzhtZ9l5pMSMU2/kQOHfna5PaJBwXJQ
+Date: Mon, 3 Jul 2017 07:55:56 +0000
+Message-ID: <40E93C43767B294F92D891C26557F450C83AAFD2@NDHAMREXDG03.amer.pfizer.com>
+References: <D57AB46B.2678%sylke.gruhnwald@beobachter.ch>
+In-Reply-To: <D57AB46B.2678%sylke.gruhnwald@beobachter.ch>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.199.73.129]
+	boundary="_000_40E93C43767B294F92D891C26557F450C83AAFD2NDHAMREXDG03ame_"
+MIME-Version: 1.0
+X-Proofpoint-ONPrem-Virus-Version: vendor=fsecure engine=2.50.10432:,, definitions=2017-07-03_04:,,
+ signatures=0
+X-Proofpoint-ONPrem-Spam-Details: rule=notspam policy=default score=0 spamscore=0 suspectscore=0
+ malwarescore=0 phishscore=0 adultscore=0 bulkscore=0 classifier=spam
+ adjust=0 reason=mlx scancount=1 engine=8.0.1-1703280000
+ definitions=main-1707030132
+Return-Path: prvs=0357212e37=martin.hoehener@pfizer.com
+X-MS-Exchange-Organization-Network-Message-Id: 57e928d9-0a20-4e71-7337-08d4c1e8f17f
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 1315698d-7807-4365-a9eb-4eb41341e0d4:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-Forefront-Antispam-Report: CIP:148.168.100.84;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(8156002)(2980300002)(438002)(199003)(189002)(252514010)(345774005)(8676002)(6916009)(55846006)(53546010)(229853002)(1096003)(2950100002)(956001)(606006)(84326002)(7636002)(7596002)(7736002)(6246003)(110136004)(356003)(189998001)(5660300001)(33656002)(15974865002)(512934002)(50986999)(76176999)(54356999)(7696004)(626005)(102836003)(3846002)(575784001)(6116002)(106466001)(236005)(54896002)(15003)(6306002)(790700001)(55016002)(2920100001)(2900100001)(15669805003);DIR:INB;SFP:;SCL:1;SRVR:AMSPR02MB216;H:mopmsgo.pfizer.com;FPR:;SPF:Pass;MLV:sfv;A:1;MX:1;LANG:de;
+X-Microsoft-Exchange-Diagnostics: 1;AM5EUR02FT060;1:khXTQhhhvHld4ag/p7EAS8z3r5tNbAAig7MA8YurW9KVXwDLtoS1QzHDqsi7py8zLkeszETbqZkFJJuNhNl9c3c/V2tAOd2k9+4+1+oaNLdtpkjG5sLtG174ToHfLD5H3xQ/3gvJ8EfiHA0NSLn9uKyx+UccxTdO8McbUaFwkCniavSlvcvLErt/IjP4PRBlS7t6ZtZ639+i/5us2qMkubiJ6B8aoVyfpHJ5gu0X7Chj9d9menHZSfm8T822rd3daJ7YtR8ciT+ogkUcpaTXAQqpfEblIh2PMVF3+IoCPZbk+lxgSgJX3G9Bi6V/rIc9cRZ6Q24xnjE7a7N6FfFTMJx5PuSewaFw96kTbl2N5IaGjO8h52nE1jYxVeGz8lhJ4mmZRXi4yjxxnBQnfEka79Dw6h16sUeuu9s0Qa2kEcKm11dNS15pV3qspoCFPMjR/0qL4o0oIBzS0L3+plPdRYYHPvmV9DdB5nZYA88PD228dyTM/RJ0oxVS/yqzZgv8BcYizwrGDGNaXsR0E9voX+0IfBSGk5G38lm5P96oqqBhwdmt+XsZ+HiS/G/Poap1HLUPJsAMxiEzLiSG7Y+q4EjGZ564U7XG5KaGQ54Cia1QshJPm8wQtlk/wCG0f233o2URP4TGZOXOqnoRY8uhqa3l++eF68GeJ6JE4Cs2YeexbHeMYVhzpRflTFO5QlhsU3HrGuQYQgZ4uKZjyTwxVIlwYtId1TKMVR4FRoHpk13yVGQcM1mX1yzbQunsiLqpgI8qCMS9/QjvDakN6noB4lfqI+OlEqH/Lzj0+guqveCH0IKGspjz2TM0G5FU7Tne6MBZ6zGO1RY/edBA3hCcOmwoT1HZ5UKmPxigGiSSlOCENUAdD0Cwhzr/z5JgutA7dGpgCPDJQGke5EGecCPZdGFRDRF/9/BX/1jXfCt2OC0pE5bSyr
+ 3HaDPrXKrB7xxF
+X-MS-Exchange-Organization-AuthSource: AM5EUR02FT060.eop-EUR02.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 57e928d9-0a20-4e71-7337-08d4c1e8f17f
+X-DkimResult-Test: Passed
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(300000500095)(300135000095)(300000501095)(300135300095)(22001)(300000502095)(300135100095)(23075)(8251501002)(3001016)(300000503095)(300135400095)(3010002)(71702078)(300000504095)(300135200095)(300000505095)(300135600095)(300000506095)(300135500095);SRVR:AMSPR02MB216;
+X-Microsoft-Exchange-Diagnostics: 1;AMSPR02MB216;3:Kzhistzzk/8EQloXS9Gj75GRyy7jrIykjEgohe7CKZ6I2oyvfhB8Dqyf4QlNHzXFW3wFHagzRh2qWMqLjos/8YSE7b7GUaNvL4U2j9yjLdvAaQX5pf+RTK8iN5jSZLsogajL1HtfJOQN3wghFyQzur98G24MiHdzy+9+mL2UNhR2LurB6/A4uztW6vOl0FuJt36f5NKM/nN0US+8tVRj0cLVcF0I4HLEvg3ob5/Sns+LQm1VS5uj/2zsCO12fhYVSDrAmhQjLK5CJrOhZ66j5NpSA200MMDban1pzSLpkEtbLT4UBICcXhzCT32dU9IwSOmg8ZBmkFPsp4iabg8Ou66and+9OvTqHXlIdeXMGswKIA9DpmGdEfvvbBFZDwXLkqcBWrCilu6yu73f4e7lyA1wc3cATEiGXg6PqdIFcxKiRsmFUGij2zk2e1iCjoafIDdAvvKal98YpPoWOJP7uj4Flq+V+qBJjMy2cQpFLzwcwq/z1oj90sNDYc768AA+Ik0Vo3jjnUsp9qFYYKUpQGcXdORdJifZ+imYlJ3Y/kIPX9VufRg0WAcNzRGwISF6LnibJePxrVsSfWAyYEUH369abujmaQP3A3IbiLSRjcsnpoop1lvIqVvddhLxpojrAvi2x8siR/szyvC8ZQgU8OyQQftgCBD9BUyoFcWhu0FDOvUcvX2uw7MFNcVwTXMgAUBTvNximCX3dU7efSU8XJ6eeafaULnrPcBzLyLv8DEwR8o+hoyQ6FNP1mF+YUN82/vHDw9EUrG295FUeAOkauFYayaPwYRM0mycYUp61t+d4qxjTatCwROzI5LhAhvei+mP4PDWMUeGaQt+G0FQlIWNtC6yqWk+TLo0W4NXnyG+nMB7u/sUhgn+0NGowITn
+X-MS-TrafficTypeDiagnostic: AMSPR02MB216:
+X-Microsoft-Exchange-Diagnostics: 1;AMSPR02MB216;25:OLihdo085sLlKNdRvQox/sWe25yWSXx3aNTcEQs+v+TqYF35q3SQoU99IFGMQL2w5c0+FSFCMN+CzjjBVydZNwM31j4yJ6VBmXPST789AaBDY3IZxgLYTtCEamaqEekRpwoGKwuZYdVKB9JX+454I8EB/ebdK2oH1pS9yTd2L+MS7n7ZBP6j3C5Z7hVvlcumZ0iHOBYRlBnnTVdu9XtPPxhwQfD+ePQzj8ZoAE2IZi87LkHfs/ty/9bAXHwk1idr3bCo7E+lOoju+MYNhcq83x6nfdoYVB7qYBnuP2DGsEaB/MzZqZkpX5+4T+HU1+5sCNV/usjSqx9cS+wZnY+3RkYCJCnLaHSnK6KN65nuZCIiXHBbgSnPeLknbc4tJqHoh/dukR6QtNpwDyq4kagr4RRXvBsAoTDWz7Wley9N7SWG2vhA6ERDLva/BuHcT7tVrflzdeTkSn/Vxt+4g+xwNLvzjDDccxngYM0/y0vc4louPffSJxtWx5oFkLh0vj4WkFpY8+ynDlNzfuyjagA3Tsm5+nxzSbFcd3lWKRg0sZsUGfArpNsiancbdwy68yk3I2rssrjeTCRk50lH1J35PoBBxJoWWS50bZClubdDMJaY2Yy+0Nk/y0fY5V72yGw5LkJw3GL6dINt5Ywc+QYTsoptkRVoyAgFPyJC7XsLxH1dnLzljE0hgWBtzJcu/hyVEEEgv81mj+8OVUqJAxx8apG9WQIjOelPoLkWCDhle3fsuD36L/vmPhAZcu7SLS0MiC1xkC/gERL/cjb3xFPau3CFXN9YXQXlfHcVA7g8vdQG9cS6NSMtt0oNG4/ZXx8Bg7PZiNZkrqEgnZPxbu2f/yYPacDryWL5D46ajk+P25Jha4I68U/WYvG+a/PLc7/m1d6YzJSKHyft4sfhHnstlME8kvM3r95KfBM2q0MQhyM=
+X-Microsoft-Exchange-Diagnostics: 1;AMSPR02MB216;31:SfyvZD35uAt4cBYdiWDhCMcewpH+b1UQyMklztoKmoaWqys0/49ai3soNl+4E6Sp9x7NfB/KXDuQoZezNDJoB9o8dTKHvhOrpl+C5pDh0a3C039ow84IFR31IxSnTgD16ko699LnzbYnhWIH5qfxG6+xo6SoWZ3M12mFzK5gDbcCVQ6UOUPOTNslWY8vkiv+Y/CfaiBGMiLjf/ncWO4TsQ6uX/bguA5SNiDB0NyWfiAyTF9lcZNrZsTPerbzDtCurmx7D2H+hMSrELnRGQWQ1WdwbEX8RB2o470moxZwtPTcqsiruNoYGwokVvo2qx9bimBugON0yJPFJrQjcXb4x2SkcwsStgidP3A7M9RXmZhUR5kkTfQGCPcY0FIbDU/qP4bKCCz6M1j3bXZTnhd69CpCowJ/CVhvd3QpOyz8av0bXBgp2Y4j1F8LNEl6us7CnizzF8kSqXRy2n9A/dCTetdoXZLUH+2xlGbxjy8w7/pZ0PTsq0PA4WWnZhaoG4Id3xrIdHRM+AdLfWwgCvNnS0m/ggJfCpFIphk6nT7zq6MwZD67/lwc/DuRWnpN3kubniQFUbVMPlfdl2UwanqAgaPxlQxr2359cBzakNd++h7S8LisqpmYYZSdyMGDheYOfVv6QBOSiU/rd/swTdkE8TyzoqyOF5luhAhwEpYq+64VNLwVTZ81KM7G759sFJDcV/zpVzrPZXssxstV59PRk1WeS0blOZ+q6DpKsxTMYAMxJJJdtu83SgTFuEybse/QBCS71FSqDLfWN//WkSUDvw==
+X-Microsoft-Exchange-Diagnostics: 1;AMSPR02MB216;20:lkq/HwDL77g0f2IET0nTpwF/sq96ISbNcodc5q6op8R2+rALW8pwgd78/flI4LRJLXFY8key7Ux51UOZ9B0wcjeGwqImAoEydHyzRGgLg50gQ5Vto8xlgSS//FohtEOlEz0aJYkr/u+OHruU94istYwcoO48BWuTj9SDg7gQXgc=
+X-Exchange-Antispam-Report-Test: UriScan:(151999592597050)(10436049006162)(26388249023172)(236129657087228)(61652148154224)(48057245064654)(148574349560750)(209349559609743)(192535851752942);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(100000700101)(100105000095)(100000701101)(100105300095)(100000702101)(100105100095)(601004)(2401047)(13016025)(13018025)(8121501046)(9101536074)(3002001)(100000703101)(100105400095)(10201501046)(93006095)(93005095)(100000704101)(100105200095)(100000705101)(100105500095);SRVR:AMSPR02MB216;BCL:0;PCL:0;RULEID:(100000800101)(100110000095)(100000801101)(100110300095)(100000802101)(100110100095)(100000803101)(100110400095)(100000804101)(100110200095)(100000805101)(100110500095);SRVR:AMSPR02MB216;
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;AMSPR02MB216;4:vT9yXU50geTaIlNN22TEXshss1zh2pntfvKROPiXdC/?=
+ =?us-ascii?Q?Qf8ebZXGIC/6Dbd3dBW7qP4KfvvdQCaLXomEZj/9Ys8eGUfjojOXp5nqAtZi?=
+ =?us-ascii?Q?GIuDrZS6Iwfs7faVjCXsTgONEl3VQs3TkFI9NIw4DPDvOF+CGipI33QPBqNI?=
+ =?us-ascii?Q?OYY6pWVn2yAM0Y3tzBKuYuttlN8Me/hFsdYDfzA5LUSyfNxoon1Aa/U0IR0a?=
+ =?us-ascii?Q?HWlPgliT0tF1Ev63NFyhw2DL53Zxa4QHDCVdO0GdbbI7xa26uIkTcRZqqzNx?=
+ =?us-ascii?Q?BVMuP6s3wRbZ9OnkYTy/tEvfcIdL07I/U1bMDxgPuCrI9mUSEuaRB/CUTHKQ?=
+ =?us-ascii?Q?ib3hnt7Kx4Ke2b1ca5GiM/Sl66yI1HhSrcB7k5U2n8Y4fBeQTffJMi9br84y?=
+ =?us-ascii?Q?QekH3p59OwznJQbOx4pFyKURgG1NOQYgwSQO0v6ND+GCdVlrpvhPGQy9KR/7?=
+ =?us-ascii?Q?Y9prmVA3uJWNS8tjpSb/Ab7Qp5dOn118S0mYmkscjFTX8rmUTiRlOU7x2/4G?=
+ =?us-ascii?Q?Sgp/uApU7xjypKN/jlcPN5Kq3CvEoY2YNWc07LtduHaPW3gxhHX5xauBU3d1?=
+ =?us-ascii?Q?SX4ATFa1aqNkaRHxiDUfx/p5RO4mVNNhvrL6Z+z7y9TNmQEhRPovhJanB84u?=
+ =?us-ascii?Q?FR8D+5wbF8GF4p7eTHLk3zcmEez3VNZXGxyEY0BVeGgid1z4aB5G/soQaW/J?=
+ =?us-ascii?Q?OAhx8p9jDuYEb5auKl4gL9i4cqvvg+1G/hsrvoR3ap4AFUCOwyB+pgMfOLqa?=
+ =?us-ascii?Q?r5zUTZHtyn8Qt2XIS+6n8YJNU6wz1RSmpbkNi52pU45xH7ZCMdoPsr6cJXUy?=
+ =?us-ascii?Q?rsc8mk6OtlOBeHYu8QD7ndbWAlF9+LIl05OVyKNOI9rTcC0QDM++5/yTTKDS?=
+ =?us-ascii?Q?/W7YssmuUZtockFF86TjnLrZOaPI+0QO3tYTfmpz3dSJN5rPf9U2zK8zVZ3E?=
+ =?us-ascii?Q?O194Opo2HFdLkUtFzVDNJYnNFl3lJF5Eu/vy6wfhJs3xDfNGyal0YowJEVn6?=
+ =?us-ascii?Q?lfmV4UbE2CSge1dD8DMgcMerSG2yNgQxcYbGgxJlSR2frGnVjRbzmlefCRtH?=
+ =?us-ascii?Q?P3JHtTnB2E2Eb29PVmyo8+T0/BwNrTq3/F3NEdLvdBKquPF+iE6slattnG++?=
+ =?us-ascii?Q?6/mjQLa28k4wQp3wiE/UhkbZBuhR3?=
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;AMSPR02MB216;23:8tpNAvrKgP+uoKrG7F4o09jNFC42xjwLSIDYUeAZQv?=
+ =?us-ascii?Q?1RX1xm980cmp64wMavEy+UYHoXWiSJjpBFqdhE6PzOu0bdUkwlK2ggZpdAXD?=
+ =?us-ascii?Q?56auzo7YPeGydJzBMtCMoOtdYD0W9EmOwTf/883ULm3ejmpWa7fAe9q6ohCo?=
+ =?us-ascii?Q?VFpmz9gw9FByKolVr9YTRVjSYgdUcpFNukJ30YR6KW/tXbjVsnT4T6wt4fVN?=
+ =?us-ascii?Q?PXVUadygYZ1kSBR5LJMFjvD3NvG3V+tUaPGkVHas18vZDImjnyA1WxSwKUcE?=
+ =?us-ascii?Q?tXSm3yAexpxTVu1f3z0bA39S1oUIEopNEwNTlr7VW/b2Ez1HF2KzXZVzsX7l?=
+ =?us-ascii?Q?pzQlLZDS9u3p+GmsN2dUxqbJeHclbXq6tC7Qp9MW//sWd8eUK5hWKxJAqhEl?=
+ =?us-ascii?Q?kGkYo5cEdjrnwQW5+WHdXpRQgJnt9PwSv+Zfy4hY7DyoDJFX4nhaUPIpQtzn?=
+ =?us-ascii?Q?DZT4uwzP5GZjEfEWuHwJRuiNNEyS8SYyb1NjbDTfcDV3nHLuo9flVcc6dOX4?=
+ =?us-ascii?Q?tMQbetNdXCTlSyju54XJASs0pko7HiAJcsuwpEqemii9+nBP3CtWDdO2snt6?=
+ =?us-ascii?Q?gY8yZlZObSwrMSqSkc/YTiiThkdVeMNtoo8ZS0CtptnzMBGtmEbWGKR2QoTN?=
+ =?us-ascii?Q?xm7MRDppxA7+lhkjpkV2CM2u41H4aJg4OhNLBqokYWXTzchut84nqWd+WYpm?=
+ =?us-ascii?Q?jCnd2r2saGYVmece2E0vNFjMnTOJYPPj61qW7/nB0xIxlT+Yno6/4sCnMLah?=
+ =?us-ascii?Q?qsQ8xCXrhWGRGuGUppjzEzlSlGrVqd6CI63oorOTq+MWSRS0tvvbEZv0yp6w?=
+ =?us-ascii?Q?+NpTJw1HnKx7Nmo2JcEhhBYIib23IHmhdIlYUdQJIOTTfzdedmS4349bKGow?=
+ =?us-ascii?Q?4CahZdNG4hKI3VgTfx/gCV+DlOAbKEJzi7BY+p40R8HDTKxbt32AFUOR4zLm?=
+ =?us-ascii?Q?3VjHHuH2cFRVdVRvWX47ILBjeyQ28Vba/5nC7GuwQwK94RLCDDBSDsB+OO2k?=
+ =?us-ascii?Q?aGiHGQPqBqn3EDR8MSisYWVq2DYLzuvmXaav8Vg0peS3JxrL17X5vwLIzXJQ?=
+ =?us-ascii?Q?5XgTI3n83Y1GqZ68ah1aks/dmayV6Bw3ifqd0nhMm19mj26A=3D=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;AMSPR02MB216;6:9y3wZQ92f486Uv2lY+HfILISfNW1K/MDRm2cvAo0gakNO3PdhAzNY3MlHUM2tD9vYf8U+kk0fsQlCEdw2SJsjO1PL7Njwas0V8mldf345m0ISl7VKtLlBokCItf56g+YuMgV9WohV0bYNIlJmefIQO0EVmMOtN3JKoYuTaldPw7fVHpp6Jrdy4e3zorsjhF5sr+JGtt55tH0oF/jGz+lXt6hBjwzkdVImYUuSeaVTKJ6zQ2IhnpzNaThGzC/pmcHoR+zH9lUpfs0Wzp06Y5S/gtETaIcWA1Fv8+OHkXclJK4xYXjv320Vw8ETjOKOmK/0kHtDYOEOlyBhDge0lh0ax9bQZfWpjVLyR3TO5M+CqwszOEeeG+CmhfHRzmwFly9ckHw4XCCQbmIGpE8SOFNwypopNABDWf89CcOxr8B9aIiGoCJa/gOyRlrc9UTpDdZ85NtYmTmYk592gOYFa0mOljs5EzsU5zkIErlLS+nk5+665BNxpo7QV4zqrecBVXlKJJA64UqBw1IdJNyUp4rBhqNPAywsQWRTFZvNi9JvNsb5lTdPHkhqBLG2+p+oXSF/FHAy63j6dKm4jPgSdcbOyb++WlxEXglAut/pqWiMmQz1WtMy8VIn24Je0QSTOgwBM2TLyixdftJTHxHVavuxuHYmSwwgZZigUHUyrhB3IsOVbhFiXZB5heLgDhvy52PK/R9SnBTZ8/2LOQEK03FIV9ZnMlbY/RzqrDxjDrClX5DXXAKL/14sx0ffz9GIwE8XwakW8TPnfvhxbXgqrTIX3LguYKAGoCScfRjTtHLyWKYbZfy/bUYKZym7/MPrkbwGaq8+M7n5xH7rMt7IlAKoXFkMMRqH8shL8kkTXl9G/V+U/wJ8ZyJQHZPJq0wtLuWYEfT+e/4qbbqCp2SHP5riA==
+X-Microsoft-Exchange-Diagnostics: 1;AMSPR02MB216;5:irj3baTEm3qm7a0SZvmhd6ezTRngKrEwuz5IUzEAxDRUu3MSBssjASe1Ud8gV0qS7OlNp2Tj/fi1AmHNnr8bPbgyj18uLLvQ+oupCGjSXWVkN51f7MA9LPWG8WSWe87/ZBuSxdrafNbBQUyIstg3JfrRvRGm23NkjeGEPa6SJRDPKU4pziJYsa9RmkrCMdyGZ88RvXnV1Hz/g3AFNg77sdID7w32Q2n9LIkv5OCatV0Pxlh0iTWr4uCcoPZWFQdKpt81zMZkzgdLR8jAgcYIkGuGssj949c0w66PeS8hDqwyIxHjJ9sq/w5OPCcIdqB4R81bSjwmWDNT9SvwSQSuNdSxMVkdP3/eyHjTBW3NI6r83yJpI6vmEa1yh+mzWe/LLtICdCDnFFJ6KuBb2feqa67z3eu9qOMAvbPC1e8zWk5sG3coUWOvcmT8/TV/lOg1h1I+8yWHAF4EO1zvSoradTkynsUCyN9jCI5HZRUI8NvyKfM+syWAIO8ERrKdF5Sc;24:R8iDUD/NpflzMAuYozc9YmlNehICc1X6ePtm9mogC0g20gUoyodJIZ0cngew8Yaz8VEqFghg8PdtYl3iNq8eKe34eSZY1TR2PwRtPgA4zYs=
+SpamDiagnosticOutput: 1:99
+SpamDiagnosticMetadata: NSPM
+X-Microsoft-Exchange-Diagnostics: 1;AMSPR02MB216;7:Ix1JXjNbs41TFNriCufPP8ZEfIvw2WsJ9OwFehUqnfBoucfDCbf7rBOkkhXvHEXxUPn1rY9aZTboqYQEcogZwi8MZRZn6ELXYULO0dmNZ5SLYpb6yqzwGDjfEEQomGZM+cU32YIxN2jecQJcSlgdAzDyjI+RqUxuPr78D4KF179DxLVOMGuypYwe1nc0uHHqeJPz65QlBR+PrcTuUQ7QsnhVFz5j8mc/yV0o/rID3CIkcIYQKxEb7Oiu11NXgIWTeNe+Tl3Sq80twfhkV0W8cT9w/2W8L+mOm6mFANKHCgotMZkMhqpELQrEjVjuQLpjJvO1Hmm94eoqmuCXjCHkVgOAVQj5baLliRgZVB4E8Bo3cq4mlx5rOfwrZift1d9tetVRAIkZSYwnaji1pPsSKySEmvw77orMg3ujMz1Ffo3bmWrRPmQuDVeHce2GibuVgqh7Mj7FpPAcKKa9ZcUIe8oWtjb42KDEZE2w1fdIPx+qd6RbhvtjfDCLagRVZTX6seRzlMRdhBAUovuKLcq9FRWLPC+ab4a+XVnxvKZ//qgD+wueQR1op2kiQSt97HpjYXtq7sCqbBUoNCIAt72RxQmRF8Cb1cDgbnBdlbeagnI6fehJtUf7SKWohdUPP2MJeIsdUtYBnJyjUi/agXVHArxTLQtzTaj1KhG3x2G6DtuPxfJLQRDtZHavTx9pyi0fwqMGNGBqt4rdqTbPLstfFffHfCg7EL5v2/ELzNlTaXS1ABKpTfPj6dHZ56T81+vpcChSNsJLsV0gMu5uilH+CJMGR7ogagjlPhj3HVvXPwGjax0rcVbGwps7KR/nzl8C6fmmLuTz4aofIfOn18dC5IAlkwtWNj6WllPW+jJxyfM=
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 03 Jul 2017 07:55:58.9942
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: 1315698d-7807-4365-a9eb-4eb41341e0d4
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AMSPR02MB216
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.2109149
+X-Microsoft-Exchange-Diagnostics:
+	1;DB4PR02MB221;9:UkGZERUO74Nfv6MIc+ZFqLcrXMjyjdO6HUTJEbUrl/mIuAQgqPVnecr5kTU3US+SUjqoEHpld5PQzbR6UbRTXgjjzeiCZJKdxX/58xY4dhyeks5diTv9XUV6B15XC7mrriGPtjQ3x8ymIwtEBLUlwJd4ovOdNkPkEQ5HOSCfMf8bVaHC2y4a+7fofNqHUNl23fNf4l/5rwBm7b8wDWntuc92MTlO8H33AeKl+S3VJGhR2JW9HG1lL28iGXXPLhw+DiNHnYx1EqW2HdeRVBaQJIOznFAWZOFs3QqaOFaS3NuWpAcMJaox+SeueawpijrTRumb+Lx95shZrjfIEsSTURN1tkXF9pHGb6gzsIndn8w/yX0K4TfBLk2BtigKRhZai8aeanXTWmrC4CtIkTytQv+o+SHUBMY7WMY6u00HoIc=
+X-Microsoft-Exchange-Diagnostics:
+	1;DB4PR02MB221;27:JbKyABjpUCFcxfw8ipQvyYwfxjdOowMeMlVivzcBeju29yc9PoujEukTwziPG6FDlUwQ14TEOOsgHWDiVuchumGqUdvJCbO7WmpmAKzV/DVxqxsOLHdqmfvEZDJTkr7jDYYv2Wp18oqvyML1SRxOVg==
+Content-type: multipart/alternative;
+	boundary="B_3581922486_193230"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3581922486_193230
+Content-type: text/plain;
+	charset="ISO-8859-1"
+Content-transfer-encoding: quoted-printable
+
+Sehr geehrte Frau Gruhnwald
+=20
+Besten Dank f=FCr Ihre Anfrage zum PKK.
+Die Angaben zu den offengelegten Zahlungen gelten f=FCr Pfizer AG und Pfizer
+PFE.
+=20
+Freundliche Gr=FCsse
+=20
+Martin A. H=F6hener
+=20
+...................................................
+Martin A. Hoehener
+Director Market Access,
+Public Affairs and Communications
+=20
+Pfizer AG
+Sch=E4renmoosstrasse 99
+8052 Z=FCrich
+Switzerland
+=20
+Office:   +41 43 495 72 31
+Mobile: +41 79 173 19 02
+=20
+martin.hoehener@pfizer.com <mailto:daniel.tobler@pfizer.com>
+www.pfizer.com <http://www.pfizer.ch/>
+...................................................
+Important Note: This e-mail may contain trade  secrets or privileged,
+undisclosed or otherwise confidential information.
+If you have received this e-mail in error, you are hereby notified that any
+review, use, copying or distribution of it is strictly prohibited.
+Please inform us immediately and destroy the original transmittal. Thank yo=
+u
+for your cooperation.
+=20
+=20
+=20
+
+From: Gruhnwald Sylke [mailto:sylke.gruhnwald@beobachter.ch]
+Sent: Donnerstag, 29. Juni 2017 13:43
+To: Media.CH
+Subject: Anfrage Beobachter: Offenlegung nach PKK
+=20
+
+Sehr geehrte Damen und Herren,
+
+=20
+
+mein Name ist Sylke Gruhnwald, ich arbeite als Reporterin beim Beobachter.
+Wir arbeiten aktuell an einer Recherche zu den Zahlungen der
+Pharmaindustrie. Sowohl Pfizer AG als  auch Pfizer PFE haben den PKK
+unterzeichnet. Jedoch finde ich nur ein PDF zum Download mit den
+offengelegten Zahlungen. Gelten die Angaben f=FCr Pfizer AG als auch Pfizer
+PFE?
+
+=20
+
+Besten Dank im Voraus f=FCr Ihre R=FCckmeldung und freundliche Gr=FCsse, Sylke
+Gruhnwald
+
+=20
+
+=20
+
+Sylke Gruhnwald
+Reporterin
+=20
+Beobachter
+
+Ringier Axel Springer Schweiz AG
+
+Flurstrasse 55
+
+8021 Z=FCrich
+
+
+
+Tel: +41 (0)58 269 20 64
+
+Mobil: +41 (0)76 737 79 14 =AD Threema und Signal verf=FCgbar
+
+E-Mail: sylke.gruhnwald@beobachter.ch =AD PGP verf=FCgbar via keybase.io/sylke
+
+=20
+
+www.beobachter.ch=20
+<https://urldefense.proofpoint.com/v2/url?u=3Dhttp-3A__www.beobachter.ch&d=3DDw=
+M
+F-g&c=3DUE1eNsedaKncO0Yl_u8bfw&r=3DkqR5RECrA4is46oLmSn6ctAJAbA2Z-NcjJUXfuu7FBw&=
+m
+=3D-BObciLZb4ptWZY1qoqTT9MZZvJuq_oDgjkn1mvpogE&s=3DjswKPW1TydOQFUO-X-lypIV0RrgY=
+M
+T-MMilM4Wt87TA&e=3D>=20
+
+=20
+
+
+
+--B_3581922486_193230
+Content-type: text/html;
+	charset="ISO-8859-1"
+Content-transfer-encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"DE-CH" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:#1F497D">Sehr geehrte Frau Gruhnwald<o:=
+p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:#1F497D">Besten Dank f=FCr Ihre Anfrage z=
+um PKK.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:#1F497D">Die Angaben zu den offengelegt=
+en Zahlungen gelten f=FCr Pfizer AG und Pfizer PFE.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:#1F497D">Freundliche Gr=FCsse<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:#1F497D">Martin A. H=F6hener<o:p></o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-line-height-alt:9.75pt"><span lang=3D"EN-US" =
+style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quo=
+t;;color:black">...................................................<o:p></o:=
+p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-fam=
+ily:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:black">Martin A. Hoehen=
+er</span></b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Ca=
+libri&quot;,&quot;sans-serif&quot;;color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:black">Director Market Acc=
+ess,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:black">Public Affairs and =
+Communications<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-fam=
+ily:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:black">Pfizer AG</span>=
+</b><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-family:&quot;Helvetic=
+a&quot;,&quot;sans-serif&quot;;color:black"><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:black">Sch=E4renmoosstrasse 99&nbsp;</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,&quot;sans=
+-serif&quot;;color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:black">8052 Z=FCrich</span><span style=3D"f=
+ont-size:10.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;col=
+or:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:black">Switzerland</span><span style=3D"f=
+ont-size:10.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;col=
+or:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:black">Office:&nbsp;&nbsp; &#43;41 43 4=
+95 72 31<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:black">Mobile: &#43;41 79 173 19 02</sp=
+an><span style=3D"font-size:10.0pt;font-family:&quot;Helvetica&quot;,&quot;san=
+s-serif&quot;;color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><a href=3D"mailto:d=
+aniel.tobler@pfizer.com"><span lang=3D"DE-CH" style=3D"font-size:10.0pt">martin.=
+hoehener@pfizer.com</span></a></span><span style=3D"font-size:10.0pt;font-fami=
+ly:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:black"><br>
+</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family:&quot;Calibri=
+&quot;,&quot;sans-serif&quot;;color:#1F497D"><a href=3D"http://www.pfizer.ch/"=
+><span lang=3D"DE-CH" style=3D"font-size:10.0pt">www.pfizer.com</span></a></span=
+><span style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-se=
+rif&quot;;color:#1F497D"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-line-height-alt:9.75pt"><span lang=3D"EN-US" =
+style=3D"font-size:10.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quo=
+t;;color:black">...................................................<o:p></o:=
+p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:7.5pt;font-fami=
+ly:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:black">Important Note:</=
+span></b><span lang=3D"EN-US" style=3D"font-size:7.5pt;font-family:&quot;Calibri=
+&quot;,&quot;sans-serif&quot;;color:black"> This e-mail may contain trade
+ secrets or privileged, undisclosed or otherwise confidential information.&=
+nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:7.5pt;font-family:=
+&quot;Calibri&quot;,&quot;sans-serif&quot;;color:black">If you have received=
+ this e-mail in error, you are hereby notified that any review, use, copying=
+ or distribution of it is strictly prohibited.&nbsp;<br>
+Please inform us immediately and destroy the original transmittal. Thank yo=
+u for your cooperation.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p>=
+</span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-US" style=3D"font-size:11.0pt;font-family=
+:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p>=
+</span></p>
+<p class=3D"MsoNormal"><a name=3D"_MailEndCompose"><span lang=3D"EN-US"><o:p>&nbs=
+p;</o:p></span></a></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0c=
+m 0cm">
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:10.0pt;font-fam=
+ily:&quot;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span lang=3D"E=
+N-US" style=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-seri=
+f&quot;"> Gruhnwald Sylke [mailto:sylke.gruhnwald@beobachter.ch]
+<br>
+<b>Sent:</b> Donnerstag, 29. Juni 2017 13:43<br>
+<b>To:</b> Media.CH<br>
+<b>Subject:</b> Anfrage Beobachter: Offenlegung nach PKK<o:p></o:p></span><=
+/p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;font-family:Consolas;col=
+or:black">Sehr geehrte Damen und Herren,<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;font-family:Consolas;col=
+or:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;font-family:Consolas;col=
+or:black">mein Name ist Sylke Gruhnwald, ich arbeite als Reporterin beim Beo=
+bachter. Wir arbeiten aktuell an einer Recherche zu den Zahlungen der Pharma=
+industrie. Sowohl Pfizer AG als
+ auch Pfizer PFE haben den PKK unterzeichnet. Jedoch finde ich nur ein PDF =
+zum Download mit den offengelegten Zahlungen. Gelten die Angaben f=FCr Pfizer =
+AG als auch Pfizer PFE?<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;font-family:Consolas;col=
+or:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;font-family:Consolas;col=
+or:black">Besten Dank im Voraus f=FCr Ihre R=FCckmeldung und freundliche Gr=FCsse,=
+ Sylke Gruhnwald<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;font-family:Consolas;col=
+or:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;font-family:Consolas;col=
+or:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+<div>
+<div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;;color:black">Sylke Gruhnwald</span><span style=3D"color:black"><o:=
+p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;;color:black">Reporterin</span><span style=3D"color:black"><o:p></o=
+:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;;color:black">Beobachter</span><span style=3D"color:black"><o:p></o=
+:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;;color:black">Ringier Axel Springer Schweiz AG</span><span style=3D=
+"color:black"><o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;;color:black">Flurstrasse 55</span><span style=3D"color:black"><o:p=
+></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;;color:black">8021 Z=FCrich</span><span style=3D"color:black"><o:p></=
+o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;;color:black"><br>
+<br>
+</span><span style=3D"color:black"><o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;;color:black">Tel:&nbsp;&#43;41 (0)58 269 20 64</span><span style=
+=3D"color:black"><o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;;color:black">Mobil:&nbsp;&#43;41 (0)76 737 79 14&nbsp;=AD&nbsp;Thr=
+eema und Signal verf=FCgbar</span><span style=3D"color:black"><o:p></o:p></span>=
+</p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;;color:black">E-Mail:&nbsp;<a href=3D"mailto:sylke.gruhnwald@beobac=
+hter.ch">sylke.gruhnwald@beobachter.ch</a>&nbsp;=AD&nbsp;PGP verf=FCgbar via&nbs=
+p;<a href=3D"keybase.io/sylke">keybase.io/sylke</a></span><span style=3D"color:b=
+lack"><o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;;color:black">&nbsp;</span><span style=3D"color:black"><o:p></o:p><=
+/span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black"><a href=3D"https://urldefense.=
+proofpoint.com/v2/url?u=3Dhttp-3A__www.beobachter.ch&amp;d=3DDwMF-g&amp;c=3DUE1eNs=
+edaKncO0Yl_u8bfw&amp;r=3DkqR5RECrA4is46oLmSn6ctAJAbA2Z-NcjJUXfuu7FBw&amp;m=3D-BO=
+bciLZb4ptWZY1qoqTT9MZZvJuq_oDgjkn1mvpogE&amp;s=3DjswKPW1TydOQFUO-X-lypIV0RrgYM=
+T-MMilM4Wt87TA&amp;e=3D"><span style=3D"font-family:&quot;Arial&quot;,&quot;sans=
+-serif&quot;">www.beobachter.ch</span></a><o:p></o:p></span></p>
+</div>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.5pt;font-family:&quot;Calibr=
+i&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+
+--B_3581922486_193230--
+

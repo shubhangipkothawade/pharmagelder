@@ -1,0 +1,107 @@
+"SCHEDULE 2 - TEMPLATEDate of publication: 30 June 2017",,,,,,,,,,,,,
+"","Full Name(Art. 1.01)","HCPs: City of Principal Practice  HCOs:city where registered(Art. 3)","Country of PrincipalPractice(Schedule 1)","Principal Practice Address(Art. 3)","Unique countryidentifier OPTIONAL(Art. 3)","Donations andGrants  to HCOs(Art. 3.01.1.a)",Contribution to costs of Events (Art. 3.01.1.b & 3.01.2.a),"Fee for service and consultancy (Art.3.01.1.c & 3.01.2.c)",Other,,"TOTALOPTIONAL",,
+"",,,,,,"Sponsorshipagreements withHCOs / third partiesappointed by HCOsto manage an Event",Registration Fees,"Travel &Accommodation",Fees,"Related expensesagreed in the fee forservice orconsultancy contract,including travel &accommodationrelevant to thecontract",,,
+"","INDIVIDUAL NAMED DISCLOSURE - one line per HCP (i.e. all transfers of value during a year for an individual HCP will be summed up: itemization should be available for the individual Recipient or public authorities' consultation only, as appropriate)",,,,,,,,,,,,
+Ruth Aeschbacher,Frauenfeld,Switzerland,Pfaffenholzstrasse 4,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Felicitas Barnert,Lachen,Switzerland,Oberdorfstr. 41,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Romana Bebi,Zürich,Switzerland,Witellikerstrasse 40,,0.00,0.00,0.00,354.98,0.00,0.00,0.00,,354.98
+Dr. med. Katarina Benackova,Bern,Switzerland,Freiburgstrasse 18,,0.00,0.00,115.54,648.83,0.00,0.00,0.00,,764.37
+Alexander Berger,Zürich,Switzerland,Rämistrasse 100,,0.00,0.00,0.00,259.34,0.00,0.00,0.00,,259.34
+Dr. med. Daniel S. Borer,Winterthur,Switzerland,Brauerstrasse 15,,0.00,0.00,550.00,2'077.00,0.00,0.00,0.00,,2'627.00
+Eleonora Borovszky,Horgen,Switzerland,Asylstrasse 19,,0.00,0.00,0.00,259.34,0.00,0.00,0.00,,259.34
+Angelika Bublitz,Lachen,Switzerland,Oberdorfstr. 41,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Dr. Felix Burkhalter,Basel,Switzerland,Petersgraben 4,,0.00,0.00,184.80,2'477.10,0.00,0.00,0.00,,2'661.90
+Mario Carol,Zürich,Switzerland,Witellikerstrasse 40,,0.00,0.00,0.00,305.61,0.00,0.00,0.00,,305.61
+Daniel Cernicov,Zürich,Switzerland,Rämistrasse 100,,0.00,0.00,0.00,259.34,0.00,0.00,0.00,,259.34
+Dave Croft,Zürich,Switzerland,Witellikerstrasse 40,,0.00,0.00,0.00,305.61,0.00,0.00,0.00,,305.61
+Sabine Czerner,Winterthur,Switzerland,Schickstrasse 11,,0.00,0.00,184.80,2'477.10,0.00,0.00,0.00,,2'661.90
+Stefanie Diestel,Zürich,Switzerland,Rämistrasse 100,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Adrian Egli,Zürich,Switzerland,Birmensdorferstrasse 497,,0.00,0.00,0.00,354.98,0.00,0.00,0.00,,354.98
+Sabine Engelbert,Schaffhausen,Switzerland,Geissbergstrasse 81,,0.00,0.00,0.00,305.61,0.00,0.00,0.00,,305.61
+Andrea Epp,Frauenfeld,Switzerland,Postfach,,0.00,0.00,393.75,877.50,0.00,0.00,0.00,,1'271.25
+Eva Förtschbeck,Luzern,Switzerland,Spitalstrasse,,0.00,0.00,0.00,305.61,0.00,0.00,0.00,,305.61
+Marta Gabaglio,Bellinzona,Switzerland,Viale Officina 3,,0.00,0.00,0.00,1'266.33,0.00,0.00,0.00,,1'266.33
+Holger Giray,Zürich,Switzerland,Rämistrasse 100,,0.00,0.00,0.00,259.34,0.00,0.00,0.00,,259.34
+Martin Grimm,Schaffhausen,Switzerland,Geissbergstrasse 81,,0.00,0.00,0.00,259.34,0.00,0.00,0.00,,259.34
+Gabriele Gysau,Herisau,Switzerland,Spitalstrasse 6,,0.00,0.00,160.00,224.00,0.00,0.00,0.00,,384.00
+Margrit Heller,Baden,Switzerland,Im Ergel 1,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Jeannine Herren,Bern,Switzerland,Freiburgstrasse 18,,0.00,0.00,184.80,2'477.10,0.00,0.00,0.00,,2'661.90
+Carla Hertel,Basel,Switzerland,Petersgraben 4,,0.00,0.00,160.00,10'335.00,0.00,0.00,0.00,,10'495.00
+Dr. med. Matthias Hilty,Zürich,Switzerland,Rämistrasse 100,,0.00,0.00,2'484.00,0.00,0.00,0.00,0.00,,2'484.00
+Florian Holzheier,Herisau,Switzerland,Spitalstrasse 6,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Karin Honegger,Zürich,Switzerland,Birmensdorferstrasse 497,,0.00,0.00,0.00,500.00,0.00,0.00,500.00,,1'000.00
+Dr. Christian Hübner,Basel,Switzerland,Spitalstrasse 21,,0.00,0.00,184.80,2'477.10,0.00,0.00,0.00,,2'661.90
+Dr. med. Marc Huguenot,Bern,Switzerland,Freiburgstrasse 18,,0.00,0.00,115.54,561.83,0.00,0.00,0.00,,677.37
+Daniela Hui,Zürich,Switzerland,Rämistrasse 100,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Christine Hummel,Basel,Switzerland,Petersgraben 4,,0.00,0.00,160.00,224.00,0.00,0.00,0.00,,384.00
+Dr. Cédric Jäger,Basel,Switzerland,Petersgraben 4,,0.00,0.00,184.80,2'477.10,0.00,0.00,0.00,,2'661.90
+Joos Peer-Henning,Frauenfeld,Switzerland,Pfaffenholzstrasse 4,,0.00,0.00,0.00,1'251.49,0.00,0.00,0.00,,1'251.49
+Petra Jucker,Lachen,Switzerland,Oberdorfstr. 41,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Mariette Kamber,Altstätten SG,Switzerland,Rorschacherstrasse 14a,,0.00,0.00,0.00,1'132.71,0.00,0.00,15.00,,1'147.71
+Maja Kanutzer,Baden,Switzerland,Im Ergel 1,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Uwe Kastl,Zürich,Switzerland,Witellikerstrasse 40,,0.00,0.00,0.00,305.61,0.00,0.00,0.00,,305.61
+Simone Keller,Herisau,Switzerland,Spitalstrasse 6,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Andreas Kirtzel,Zürich,Switzerland,Birmensdorferstrasse 497,,0.00,0.00,0.00,305.61,0.00,0.00,0.00,,305.61
+Marta Kiss,Biel,Switzerland,Vogelsang 84,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Markus Kurzemann,Frauenfeld,Switzerland,Pfaffenholzstrasse 4,,0.00,0.00,0.00,1'000.00,0.00,0.00,0.00,,1'000.00
+Dr. med. Matthias Läng,Unterseen,Switzerland,Weissenaustrasse 27,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Dr. Lukas Löffel,Luzern,Switzerland,Theaterstrasse 13,,0.00,0.00,184.80,2'477.10,0.00,0.00,0.00,,2'661.90
+Lenuta Lucaci,Lachen,Switzerland,Oberdorft,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Dr. Anton Lukes,Bern,Switzerland,Bremgartenstrasse 119,,0.00,0.00,0.00,766.00,0.00,0.00,0.00,,766.00
+Dr. Luidmila Lüthi,Frauenfeld,Switzerland,Postfach,,0.00,0.00,666.00,1'155.40,0.00,0.00,0.00,,1'821.40
+Dr. Michael Mayr,Basel,Switzerland,Petersgraben 4,,0.00,0.00,0.00,0.00,0.00,0.00,1'500.00,,1'500.00
+Tatjana Müller,Zürich,Switzerland,Birmensdorferstrasse 497,,0.00,0.00,0.00,305.61,0.00,0.00,0.00,,305.61
+Anette Neher,Zürich,Switzerland,Rämistrasse 100,,0.00,0.00,160.00,224.00,0.00,0.00,0.00,,384.00
+Hanna Oberhänsli,Schaffhausen,Switzerland,Geissbergstrasse 80,,0.00,0.00,0.00,305.61,0.00,0.00,0.00,,305.61
+Dr. med. Gabriel Plitzko,Bern,Switzerland,Freiburgstrasse 18,,0.00,0.00,0.00,746.00,0.00,0.00,0.00,,746.00
+Ruza Rados,Zürich,Switzerland,Birmensdorferstrasse 497,,0.00,0.00,0.00,259.34,0.00,0.00,0.00,,259.34
+Doris Rehli,Bern,Switzerland,Schänzlihalde 11,,0.00,0.00,0.00,259.34,0.00,0.00,0.00,,259.34
+Dr. med. Luuk-Jon Rijzewijk,Baden,Switzerland,Im Ergel 1,,0.00,0.00,781.54,1'804.23,0.00,0.00,0.00,,2'585.77
+Dr. Saskia Rittirsch,Baden,Switzerland,Im Ergel 1,,0.00,0.00,0.00,0.00,0.00,0.00,1'500.00,,1'500.00
+Marianne Sägesser,Lachen,Switzerland,Oberdorfstr. 41,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Doris Sautter,Baden,Switzerland,Im Ergel 1,,0.00,0.00,0.00,81.30,0.00,0.00,15.00,,96.30
+Dr. Hermann Saxehofer,Bern,Switzerland,Bremgartenstrasse 119,,0.00,0.00,666.00,1'155.40,0.00,0.00,0.00,,1'821.40
+Petra Schmucker,Bern,Switzerland,Schänzlihalde 11,,0.00,0.00,0.00,305.61,0.00,0.00,0.00,,305.61
+Dr. Ann-Kathrin Schwarzkopf,Bern 25,Switzerland,Postfach,,0.00,0.00,666.00,1'155.40,0.00,0.00,0.00,,1'821.40
+Dr. med. Harald Seeger,Zürich,Switzerland,Rämistrasse 100,,0.00,0.00,666.00,1'155.40,0.00,0.00,1'500.00,,3'321.40
+Mandy Siegenthaler,Zürich,Switzerland,Witellikerstrasse 40,,0.00,0.00,0.00,259.34,0.00,0.00,0.00,,259.34
+Renata Simatovic,Zürich,Switzerland,Rämistrasse 100,,0.00,0.00,160.00,224.00,0.00,0.00,0.00,,384.00
+Monika Stamm,Bern,Switzerland,Freiburgstrasse 8,,0.00,0.00,0.00,305.61,0.00,0.00,0.00,,305.61
+Marija Stjepanovic,Frauenfeld,Switzerland,Postfach,,0.00,0.00,160.00,224.00,0.00,0.00,0.00,,384.00
+Prof. Dr. med. Reto Stocker,Zürich,Switzerland,Witellikerstrasse 40,,0.00,0.00,0.00,0.00,0.00,0.00,1'000.00,,1'000.00
+Edith Stöckmann,Baden,Switzerland,Im Ergel 1,,0.00,0.00,160.00,224.00,0.00,0.00,0.00,,384.00
+Silke  Thiel,Bern,Switzerland,Schänzlihalde 11,,0.00,0.00,0.00,259.34,0.00,0.00,0.00,,259.34
+Veronika Thürschweller,Zürich,Switzerland,Witellikerstrasse 40,,0.00,0.00,0.00,259.34,0.00,0.00,0.00,,259.34
+Ayse Turan,Luzern 16,Switzerland,Spitalstrasse,,0.00,0.00,0.00,259.34,0.00,0.00,0.00,,259.34
+Stefanie Waldvogel,Zürich,Switzerland,Birmensdorferstrasse 497,,0.00,0.00,0.00,259.34,0.00,0.00,0.00,,259.34
+Evelyn Weidner,Bern,Switzerland,Freiburgstrasse 8,,0.00,0.00,0.00,305.61,0.00,0.00,0.00,,305.61
+Melanie Weingartner,Luzern,Switzerland,Spitalstrasse,,0.00,0.00,0.00,305.61,0.00,0.00,0.00,,305.61
+Patrick Witschi,Zürich,Switzerland,Rämistrasse 100,,0.00,0.00,160.00,224.00,0.00,0.00,0.00,,384.00
+Dr. med. Patrick Wüthrich,Bern,Switzerland,Freiburgstrasse 18,,0.00,0.00,184.80,2'477.10,0.00,0.00,0.00,,2'661.90
+Sonja Zbinden,Bern,Switzerland,Schänzlihalde 11,,0.00,0.00,0.00,305.61,0.00,0.00,0.00,,305.61
+Regina Zimmermann,Luzern,Switzerland,St. Anna-Strasse 32,,0.00,0.00,0.00,259.34,0.00,0.00,0.00,,259.34
+Dr. Lorenzo Berwert,Bellinzona,Switzerland,Via Ospedale,,0.00,0.00,275.00,838.30,0.00,0.00,0.00,,1'113.30
+Madame Nadège Braichet,Porrentruy,Switzerland,Chemin de l'hôpital,,0.00,0.00,0.00,70.00,0.00,0.00,0.00,,70.00
+Nicole Crettol,Sion,Switzerland,Avenue du Grand-Champsec 80,,0.00,0.00,0.00,70.00,0.00,0.00,0.00,,70.00
+Elisabeth Remexido Da Costa,Riaz,Switzerland,Rue de l'Hôpital 9,,0.00,0.00,936.36,1'085.70,0.00,0.00,0.00,,2'022.06
+Carla Delgado,Sion,Switzerland,Avenue du Grand-Champsec 80,,0.00,0.00,0.00,70.00,0.00,0.00,0.00,,70.00
+Canisia Fumeaux,Sion,Switzerland,Avenue du Grand-Champsec 80,,0.00,0.00,250.00,210.00,0.00,0.00,0.00,,460.00
+Dr. Bonforte Giuseppe,Mendrisio,Switzerland,Casella postale 1652,,0.00,0.00,0.00,372.50,0.00,0.00,0.00,,372.50
+Dr. Corinne Gurtner,Sion,Switzerland,Case Postale,,0.00,0.00,0.00,1'920.00,0.00,0.00,0.00,,1'920.00
+Dr. Ould Maouloud Hemett,Fribourg,Switzerland,Chemin des Pensionnats 2-6,,0.00,0.00,605.00,484.10,0.00,0.00,0.00,,1'089.10
+Laure Jagger,Neuchâtel,Switzerland,Faubourg de l'hôpital 81,,0.00,0.00,0.00,70.00,0.00,0.00,0.00,,70.00
+Dr. Hatem Ksouri,Fribourg,Switzerland,Chemin des Pensionnats 2-6,,0.00,0.00,797.04,313.47,0.00,0.00,0.00,,1'110.51
+Sofia Laranjo,Sion,Switzerland,Avenue du Grand-Champsec 80,,0.00,0.00,0.00,70.00,0.00,0.00,0.00,,70.00
+Dr. med Frédéric Lelais,Gravesano,Switzerland,Via Cantonale,,0.00,0.00,0.00,1'920.00,0.00,0.00,0.00,,1'920.00
+Raffi Maghdessian,Meyrin,Switzerland,Avenue J.-D.-Maillard 3,,0.00,0.00,409.00,1'671.95,0.00,0.00,0.00,,2'080.95
+Dr. Laurence Perrin Barelli,Pompaples,Switzerland,,,0.00,0.00,0.00,1'920.00,0.00,0.00,0.00,,1'920.00
+Dr. Silvio Pianca,Lugano,Switzerland,Via Tesserete 46,,0.00,0.00,605.00,451.95,0.00,0.00,0.00,,1'056.95
+PD Dr. Giorgio Pietramaggiori,Nyon,Switzerland,Rue de la Môrache 9,,0.00,0.00,0.00,1'500.00,0.00,0.00,0.00,,1'500.00
+Dr. Roberto Poggi,Lugano,Switzerland,Via Tesserete 46,,0.00,0.00,0.00,975.71,0.00,0.00,0.00,,975.71
+Nadia Querido,Sion,Switzerland,Avenue du Grand-Champsec 80,,0.00,0.00,0.00,70.00,0.00,0.00,0.00,,70.00
+Dr. Emilie Solimando,Neuchâtel,Switzerland,,,0.00,0.00,0.00,940.31,0.00,0.00,0.00,,940.31
+Dr. med. Ashu James Tataw,Sion,Switzerland,Avenue du Grand-Champsec 80,,0.00,0.00,0.00,2'145.00,0.00,0.00,1'000.00,,3'145.00
+Dr. Isabelle Teuscher,Fribourg,Switzerland,Chemin des Pensionnats 2-6,,0.00,0.00,0.00,2'022.06,0.00,0.00,0.00,,2'022.06
+Anne Tornare,Fribourg,Switzerland,Route des Pensionnats 2-4,,0.00,0.00,0.00,1'145.00,0.00,0.00,0.00,,1'145.00
+Louise White,Sion,Switzerland,Avenue du Grand-Champsec 80,,0.00,0.00,0.00,40.00,0.00,0.00,0.00,,40.00
+Grand Total,,,,,0.00,0.00,13'555.37,76'146.08,0.00,0.00,7'240.00,,96'941.45

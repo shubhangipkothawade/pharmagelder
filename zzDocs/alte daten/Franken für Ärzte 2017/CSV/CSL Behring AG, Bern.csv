@@ -1,0 +1,94 @@
+name,location,country,address,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type
+PD Dr. med. Daniel Bolliger,Basel,Switzerland,Spitalstrasse 21,,,,,,1'000.00 CHF,116.00 CHF,1'116.00 CHF,hcp
+PD Dr. med. Jürg Hamacher,Bern,Switzerland,Bremgartenstrasse 119,,,,,,800.00 CHF,,800.00 CHF,hcp
+Prof. Dr. med. Hans Jung,Oetwil am See,Switzerland,Glärnischstrasse 69,,,,,,1'500.00 CHF,,1'500.00 CHF,hcp
+Prof. Dr. med. Guido Wanner,Zürich,Switzerland,Rämistrasse 100,,,,,,1'500.00 CHF,,1'500.00 CHF,hcp
+Dr. med. Hugo Ubieto,St. Gallen,Switzerland,Claudiusstrasse 6,,,,,,1'392.45 CHF,3'459.40 CHF,4'851.85 CHF,hcp
+Prof. Dr. med. Yves Chalandon,Genf,Switzerland,"4, rue Gabrielle-Perret- Gentil",,,,,,1'500.00 CHF,3'021.95 CHF,4'521.95 CHF,hcp
+PD Dr. med. Tayfun Güngör,Zürich,Switzerland,Steinwiesstrasse 75,,,,,,1'527.40 CHF,113.45 CHF,1'640.85 CHF,hcp
+Prof. Dr. med. Thierry Girard,Basel,Switzerland,Spitalstrasse 21,,,,,,1'091.00 CHF,342.60 CHF,1'433.60 CHF,hcp
+PD Dr. med. Johannes Rischewski,Luzern,Switzerland,Luzerner Kantonsspital,,,,,,1'538.30 CHF,1'364.70 CHF,2'903.00 CHF,hcp
+Dr. med. Caroline Roduit,Zürich,Switzerland,"Kinderspital Zürich, Steinwiesstrasse 75",,,,544.45 CHF,1'235.65 CHF,,,1'780.10 CHF,hcp
+Dr. med. Eleonora Gambillara Thacher,Ecublens,Switzerland,Cabinet les Arcades,,,,544.45 CHF,392.60 CHF,,,937.05 CHF,hcp
+Dr. med. Felicitas Langner-Vivani,Lausanne,Switzerland,"CHUV, Rue du Bugnon 44",,,,544.45 CHF,737.15 CHF,,,1'281.60 CHF,hcp
+Dr. med. Julien Vionnet,Lausanne,Switzerland,"CHUV, Rue du Bugnon 44",,,,544.45 CHF,644.90 CHF,,,1'189.35 CHF,hcp
+Dr. med. Stephanie Petitpierre,Ecublens,Switzerland,Cabinet les Arcades,,,,544.45 CHF,580.80 CHF,,,1'125.25 CHF,hcp
+Dr. med. Sylvie Maître,Lausanne,Switzerland,"CHUV, Rue du Bugnon 44",,,,544.45 CHF,863.35 CHF,,,1'407.80 CHF,hcp
+Prof Dr. med. Patrice Lalive d'Epiney,Chêne-Bougeries,Switzerland,103-C Route de Chêne,,,,550.90 CHF,409.50 CHF,,,960.40 CHF,hcp
+Dr. med. Aurélien Viaccoz,Genève,Switzerland,"HUG, Rue Gabrielle-Perret-Gentil 4",,,,306.90 CHF,372.25 CHF,,,679.15 CHF,hcp
+Dr. med. André Paul,Biel,Switzerland,"Anästhesiezentrum Linde, Blumenrain 105",,,,346.40 CHF,917.05 CHF,,,1'263.45 CHF,hcp
+PD Dr. med. Lars Asmis,Zürich,Switzerland,8008 Zürich,,,,,586.00 CHF,,,586.00 CHF,hcp
+Dr. med. Claude Guyot,Neuchâtel,Switzerland,"Hôpital Pourtalès, Maladière 45",,,,575.45 CHF,430.30 CHF,,,1'005.75 CHF,hcp
+Prof. Dr. med. Peter Schmid-Grendelmeier,Zürich,Switzerland,"USZ, Gloriastrasse 31",,,,408.30 CHF,336.60 CHF,,,744.90 CHF,hcp
+Dr. med. Urs Steiner,Zürich,Switzerland,"USZ, Klinik für Immunologie, Gloriastrasse 23",,,,408.30 CHF,403.30 CHF,,,811.60 CHF,hcp
+Prof. Dr. med. Walter A. Wuillemin,Luzern,Switzerland,Luzerner Kantonsspital,,,,371.35 CHF,311.60 CHF,,,682.95 CHF,hcp
+Prof. Dr. med. Paul Imbach,Uettligen,Switzerland,Lindenstrasse 25,,,,,4'118.85 CHF,,,4'118.85 CHF,hcp
+Dr. med. Patrick Schöttker,Lausanne,Switzerland,"CHUV, Rue du Bugnon 44",,,,,4'460.10 CHF,,,4'460.10 CHF,hcp
+Dr. med. Nicola Bonadies,Bern,Switzerland,"Inselspital, Freiburgstrasse",,,,347.00 CHF,7'387.05 CHF,,,7'734.05 CHF,hcp
+Prof. Dr. med. Johanna A. Kremer Hovinga Strebel,Bern,Switzerland,"Inselspital, Freiburgstrasse",,,,466.00 CHF,4'290.20 CHF,,,4'756.20 CHF,hcp
+Prof. Dr. med. Thomas Kühne,Basel,Switzerland,"UKS Basel, Spitalstrasse 33",,,,479.85 CHF,3'937.25 CHF,,,4'417.10 CHF,hcp
+Prof. Dr. med. Erich Russi,Luzern,Switzerland,Praxisgemeinschaft Lungdocs,,,,433.30 CHF,1'272.20 CHF,,,1'705.50 CHF,hcp
+Associazione Medici Anestesisti del Canton Ticino (AMACTi),Lugano,Switzerland,Via Tesserete 48,,,3'500.00 CHF,,,,,3'500.00 CHF,hco
+"Association Genevoise d'Asthme, d'Allergologie, d'Immunologie clinique (AGAIA)",Genève,Switzerland,"11, Rue Emile Yung",,,1'000.00 CHF,,,,,1'000.00 CHF,hco
+BBS Congress GmbH,Bern,Switzerland,Rabbentalstrasse 83,,,9'596.00 CHF,,,,,9'596.00 CHF,hco
+Blutspende SRK Schweiz AG,Bern,Switzerland,Laupenstrasse 37,,,4'000.00 CHF,,,,,4'000.00 CHF,hco
+Blutspendezentrum SRK beider Basel,Basel,Switzerland,Hebelstrasse 10,,40'000.00 CHF,,,,,,40'000.00 CHF,hco
+Cansearch: Fondation contre le cancer de l'enfant ,Thônex,Switzerland,"6, chemin Pont-Perrin",,,5'000.00 CHF,,,,,5'000.00 CHF,hco
+Centre Hospitalier Universitaire Vaudois,Lausanne,Switzerland,Rue du Bugnon 46,,,18'560.00 CHF,,,,,18'560.00 CHF,hco
+Centro Pediatrico del Mendrisiotto,Mendrisio,Switzerland,Via Beroldingen 26,,,1'500.00 CHF,,,,,1'500.00 CHF,hco
+Coagulation Latine (COALAT),Lausanne,Switzerland,Rue du Bugnon 46,,,30'000.00 CHF,,,,,30'000.00 CHF,hco
+Fondation du Centre de Chimiothérapie Anti-Cancéreuse (CCAC),Lausanne,Switzerland,Avenue Vinet 19 bis,,,3'500.00 CHF,,,,,3'500.00 CHF,hco
+"Hôpitaux universitaires de Genève (HUG), Service d'immunologie et d'allergologie",Genève,Switzerland,Rue Gabrielle Perret-Gentil 4,,,15'000.00 CHF,,,,,15'000.00 CHF,hco
+"Hôpitaux Universitaires de Genève (HUG), le service de dermatologie et le service d'immunologie et d'allergologie",Genève,Switzerland,Rue Gabrielle Perret-Gentil 4,,,2'500.00 CHF,,,,,2'500.00 CHF,hco
+"Hôpitaux Universitaires de Genève (HUG), Unité d'hémostase",Genève,Switzerland,Rue Gabrielle Perret-Gentil 4,,,1'500.00 CHF,,,,,1'500.00 CHF,hco
+"Hôpitaux Universitaires de Genève (HUG), Service d'anesthésiologie ",Genève,Switzerland,Rue Gabrielle Perret-Gentil 4,,,1'700.00 CHF,,,,,1'700.00 CHF,hco
+IMK - Institut für Medizin und Kommunikation AG,Basel,Switzerland,Münsterberg 1,,,53'476.00 CHF,,,,,53'476.00 CHF,hco
+"Inselspital, Frauenklinik Inselspital ",Bern,Switzerland,Effingerstrasse 102,,,4'900.00 CHF,,,,,4'900.00 CHF,hco
+"Inselspital, Universitätsklinik für Neurologie ",Bern,Switzerland,Freiburgstrasse,,,8'400.00 CHF,,,,,8'400.00 CHF,hco
+"Inselspital, Universitätsklinik für Anästhesie",Bern,Switzerland,Freiburgstrasse,,,5'000.00 CHF,,,,,5'000.00 CHF,hco
+"Inselspital, Universitätsklinik für Dermatologie",Bern,Switzerland,Freiburgstrasse,,,5'000.00 CHF,,,,,5'000.00 CHF,hco
+"Inselspital, Department of Visceral & Transplant Surgery",Bern,Switzerland,Freiburgstrasse,,,12'000.00 CHF,,,,,12'000.00 CHF,hco
+"Inselspital, Universitätsklinik für Hämatologie & Hämatologisches Zentrallabor",Bern,Switzerland,Freiburgstrasse,,30'000.00 CHF,,,,2'400.00 CHF,,32'400.00 CHF,hco
+"Inselspital, Universitätsklinik für Rheumatologie, Immunologie & Allergologie (RIA)",Bern,Switzerland,Freiburgstrasse,,,5'000.00 CHF,,,,,5'000.00 CHF,hco
+"Kantonsspital Winterthur, Institut für Anästhesiologie und Schmerztherapie ",Winterthur,Switzerland,Brauerstrasse 15,,,3'000.00 CHF,,,,,3'000.00 CHF,hco
+Intercontinental Cooperative ITP Study Group (ICIS),Basel,Switzerland,Spitalstrasse 33,,,20'000.00 CHF,,,,,20'000.00 CHF,hco
+Kantonsspital Aarau AG,Aarau,Switzerland,Tellstrasse,,,30'000.00 CHF,,,,,30'000.00 CHF,hco
+"Kinderspital Zürich, Immunologie / Hämatologie",Zürich,Switzerland,Steinwiesstrasse 75,,,1'500.00 CHF,,,,,1'500.00 CHF,hco
+"Kinderspital Zürich, Departement Anästhesie",Zürich,Switzerland,Steinwiesstrasse 75,,30'000.00 CHF,4'000.00 CHF,,,,,34'000.00 CHF,hco
+Kinderspital Zürich - Eleonorenstiftung Zürich,Zürich,Switzerland,Steinwiesstrasse 75,,51'170.00 CHF,,,,,,51'170.00 CHF,hco
+La ligue pulmonaire genevoise,Carouge,Switzerland,Av. Cardinal-Mermillod 42-44,,,1'560.00 CHF,,,,,1'560.00 CHF,hco
+"Luzerner Kantonsspital, KLIFARIS - Klinik für Anästhesie, Chirurgische Intensivmendizin, Rettungsmedizin & Schmerztherapie",Luzern,Switzerland,Spitalstrasse,,,8'000.00 CHF,,,,,8'000.00 CHF,hco
+"Luzerner Kantonsspital, Hämatologie",Luzern,Switzerland,Spitalstrasse,,,,,,1'851.85 CHF,,1'851.85 CHF,hco
+MediService AG,Zuchwil,Switzerland,Ausserfeldweg 1,,,,,,10'960.00 CHF,,10'960.00 CHF,hco
+"Ospedale Regionale Bellinzona e Valli, Servizio di pediatria",Bellinzona,Switzerland,Via Ospedale,,,6'000.00 CHF,,,,,6'000.00 CHF,hco
+Pediatric Emergency Medicine Switzerland PEMS,Zürich,Switzerland,Steinwiesstrasse 75,,,1'500.00 CHF,,,,,1'500.00 CHF,hco
+"Hôpitaux Universitaires de Genève, Hemato-Oncology Unit",Genf,Switzerland,"4, rue Gabrielle-Perret-Gentil",,,,,,1'500.00 CHF,,1'500.00 CHF,hco
+"ProTransplant, fondation genevoise, en faveur du don d'organes",Genf,Switzerland,"24, rue Micheli-du-Crest",,,2'500.00 CHF,,,,,2'500.00 CHF,hco
+SAOA - Swiss Association of Obstetric Anaesthesia,Lausanne,Switzerland,Rue du Bugnon 46,,,3'500.00 CHF,,,,,3'500.00 CHF,hco
+Schweiz. Gesellschaft für Allergologie & Immunologie SGAI,Bern,Switzerland,Scheibenstrasse 20,,,23'500.00 CHF,,,,,23'500.00 CHF,hco
+Schweiz. Gesellschaft für Anästhesiologie und Reanimation SGAR,Bern,Switzerland,Rabbentalstrasse 83,,30'000.00 CHF,,,,,,30'000.00 CHF,hco
+Schweizer Gesellschaft für Hämatologie SGH,Münsingen,Switzerland,,,,500.00 CHF,,,,,500.00 CHF,hco
+Stiftung für wissenschaftliche Forschung am Stadtspital Triemli,Zürich,Switzerland,Birmensdorferstrasse 497,,,1'700.00 CHF,,,,,1'700.00 CHF,hco
+Swiss ICU Network,Aesch,Switzerland,Brüelweg 33,,,6'000.00 CHF,,,,,6'000.00 CHF,hco
+"Universitätsspital Basel, Klinik Innere Medizin",Basel,Switzerland,Petersgraben 4,,,10'000.00 CHF,,,,,10'000.00 CHF,hco
+"Universitätsspital Basel, Frauenklinik",Basel,Switzerland,Spitalstrasse 21,,,4'000.00 CHF,,,,,4'000.00 CHF,hco
+"Universitätsspital Basel, Neurologie",Basel,Switzerland,Petersgraben 4,,,2'000.00 CHF,,,,,2'000.00 CHF,hco
+"Universitätsspital Basel, Abteilung Pharmakologie",Basel,Switzerland,Hebelstrasse 2,,5'000.00 CHF,,,,,,5'000.00 CHF,hco
+"Universitätsspital Zürich, Klinik für Unfallchirurgie",Zürich,Switzerland,Rämistrasse 100,,,3'500.00 CHF,,,,,3'500.00 CHF,hco
+"Universitätsspital Zürich, Klinik für Pneumologie",Zürich,Switzerland,Rämistrasse 100,,,5'000.00 CHF,,,,,5'000.00 CHF,hco
+"Universität Bern, Institut für Pharmakologie",Bern,Switzerland,Friedbühlerstrasse 49,,,1'000.00 CHF,,,,,1'000.00 CHF,hco
+Association FoROMe,Lausanne,Switzerland,Rue du Bugnon 44,,,5'000.00 CHF,,,,,5'000.00 CHF,hco
+"Schweizer Paraplegiker-Zentrum, Intensiv-.Schmerz- und Operative Medizin",Nottwil,Switzerland,Guido A. Zäch Strasse 1,,,1'389.00 CHF,,,,,1'389.00 CHF,hco
+Groupe régional des Infirmiers-Anesthésistes Latins (GIAL),Sursee,Switzerland,"Stadthof, Bahnhofstrasse 7b",,,1'000.00 CHF,,,,,1'000.00 CHF,hco
+Haematology Nurses & Healthcare Professionals Group HNHCP,Winterthur,Switzerland,,,,1'500.00 CHF,,,,,1'500.00 CHF,hco
+Schweizer Gesellschaft für Pharmakologie und Toxikologie (SSPT),Bern,Switzerland,Friedbühlstrasse 49,,,1'000.00 CHF,,,,,1'000.00 CHF,hco
+Schweizerische Gesellschaft für Cystische Fibrose,Bern,Switzerland,,,,1'000.00 CHF,,,,,1'000.00 CHF,hco
+Schweiz. Akademie der Pharmazeutischen Wissenschaften (SAPhW),Bern,Switzerland,Matterstrasse 5,,,2'000.00 CHF,,,,,2'000.00 CHF,hco
+"Policlinique Médicale Universitaire, Pharmacie",Lausanne,Switzerland,Rue du Bugnon 44,,,,,,1'650.00 CHF,,1'650.00 CHF,hco
+Alternative Communication,Lausanne,Switzerland,Avenue Cecil 2,,,3'900.00 CHF,,,,,3'900.00 CHF,hco
+Universitätsspital Zürich,Zürich,Switzerland,Rämistrasse 100,,,4'700.00 CHF,,,,,4'700.00 CHF,hco
+Inselspital Universitätsklinik für Intensivmedizin,Bern,Switzerland,Freiburgstrassse,,,1'500.00 CHF,,,,,1'500.00 CHF,hco
+"Universitätsspital Zürich, Klinik für Neurologie",Zürich,Switzerland,Frauenklinikstrassse 26,,,1'500.00 CHF,,,,,1'500.00 CHF,hco
+Kenes International,Genf,Switzerland,Rue François-Versonnex 7,,,13'092.00 CHF,,,,,13'092.00 CHF,hco
+"GSASA, Schweizerischer Verein der Amts- und Spitalapotheker",Bern,Switzerland,Geschäftsstelle,,20'000.00 CHF,,,,3'000.00 CHF,,23'000.00 CHF,hco
+Swiss Paediatric Oncology Group,Bern,Switzerland,Effingerstrasse 40,,,8'000.00 CHF,,,,,8'000.00 CHF,hco

@@ -1,0 +1,33 @@
+// Various numerical formatting conversions
+
+\.([0-9]+[0-9]+[0-9]+) -> $1
+,([0-9][0-9]) CHF -> .$1 CHF
+ CHF -> ""
+' -> ""
+\s$ -> ""
+^\s -> ""
+([0-9]+)\,\s?([0-9][0-9]) -> $1.$2
+
+// To verify the totals column, check that this formula is close to 0 everywhere
+
+=L2-SUM(F2:K2)
+
+// To fix missing "Locations", take the last part of the address column using this formula
+
+=MID(D2;SEARCH("\s(\w+)$";D2;1)+1;50)
+
+// Remove numbers from location
+
+replace(value, /[0-9]+/, "")
+
+// Set to 0 if blank
+
+if(or(value=="",value==null), 0, value)
+
+// To select every first entry in the OpenRefine clustering dialoge
+
+$('.clustering-dialog-entry-table ul li:first-child a').click()
+
+// To merge names and addresses
+
+cells['name_unq'].value + '|' + cells['address'].value
