@@ -5,7 +5,7 @@ Martin Balmer,Aarau,CH,"Kantonsspital Aarau AG,Tellstr. 25",5001,,,,,,400.0,,400
 Marianne Barthelmy,Bern,CH,"Inselspital, Freiburgstr. 18",3010,,,,,,4800.0,,4800.0,hcp,orion,
 Karim Bendjelid,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4",1205,,,,490.11,641.46,,,1131.57,hcp,orion,
 Dominique Bettex,Zürich,CH,"Universitätsspital Zürich,Rämistr. 100",8091,,,,,664.0,2350.0,,3014.0,hcp,orion,
-Blum Thomas Böker,Lachen,CH,"Spital Lachen, Oberdorfstrasse 41",8853,,,,,,2000.0,,2000.0,hcp,orion,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Böker Blum Thomas
+Thomas Böker-Blum,Lachen,CH,"Spital Lachen, Oberdorfstrasse 41",8853,,,,,,2000.0,,2000.0,hcp,orion,
 Andreas Bosshard,Luzern,CH,"Luzerner Kantonsspital Luzern,Spitalstrasse",6004,,,,210.05,656.6,,,866.65,hcp,orion,
 Thomas Brunner,St.Gallen,CH,"Hirslandenklinik Stephanshorn,Brauerstr. 95",9016,,,,225.82,1009.36,,,1235.18,hcp,orion,
 Dragan Despotovic,Zürich,CH,"Universitätsspital Zürich,Rämistr. 100",8091,,,,490.11,800.65,,,1290.76,hcp,orion,
@@ -18,11 +18,11 @@ Raymond Friolet,St. Gallen,CH,"Hôpital de Sion, Avenue du Grand-Champsec 80",19
 Margreth Hermann,Glarus,CH,"Kantonsspital Glarus, Burgstrasse 99",8750,,,,,,300.0,,300.0,hcp,orion,
 Tobias Hübner,Münsterlingen,CH,"Kantonsspital Münsterlingen,Postfach 100",8596,,,,225.82,726.95,,,952.77,hcp,orion,
 Victor Jeger,Zürich,CH,"Universitätsspital Zürich,Rämistr.100",8091,,,,309.54,181.91,,,491.45,hcp,orion,
-Barcelos Gleicy Keli,Genève,CH,Hôpital Cantonal Universitaire de Genève,1205,,,,464.31,344.69,,,809.0,hcp,orion,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Keli Barcelos Gleicy
-Guillaume Dr Kembi,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4",1205,,,,464.31,239.5,,,703.81,hcp,orion,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Kembi Guillaume Dr
-Alexander D. Klarer,Langenthal,CH,"Spital Langenthal, Urbanstrasse 67",4900,,,,,509.54,,,509.54,hcp,orion,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Klarer Alexander D.
-Roland Urs Knöpfli,Bern,CH,"Hirslanden Bern AG, Klinik Beau-Site, Schänzlihalde 11",3013,,,,309.54,678.04,,,987.58,hcp,orion,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Knöpfli Roland Urs
-Christiane Fr. Köbler,Aarau,CH,"Kantonsspital Aarau AG,Tellstr. 25",5001,,,,107.6,656.6,,,764.2,hcp,orion,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Köbler Christiane Fr.
+Gleicy Keli Barcelos,Genève,CH,Hôpital Cantonal Universitaire de Genève,1205,,,,464.31,344.69,,,809.0,hcp,orion,
+Guillaume Kembi,Genève,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4",1205,,,,464.31,239.5,,,703.81,hcp,orion,
+Alexander D. Klarer,Langenthal,CH,"Spital Langenthal, Urbanstrasse 67",4900,,,,,509.54,,,509.54,hcp,orion,
+Roland Urs Knöpfli,Bern,CH,"Hirslanden Bern AG, Klinik Beau-Site, Schänzlihalde 11",3013,,,,309.54,678.04,,,987.58,hcp,orion,
+Christiane Fr. Köbler,Aarau,CH,"Kantonsspital Aarau AG,Tellstr. 25",5001,,,,107.6,656.6,,,764.2,hcp,orion,
 Bernard Krüger,Zürich,CH,"Universitätsspital Zürich,Rämistr.100",8091,,,,210.05,1369.82,,,1579.86,hcp,orion,
 Heidi Lederer,Basel,CH,"Universitätsspital Basel, Spitalstrasse 21",4031,,,,272.42,557.91,,,830.33,hcp,orion,
 Marco Maggiorini,Zürich,CH,"Universitätsspital Zürich,Rämistr. 100",8091,,,,,,585.0,,585.0,hcp,orion,
@@ -46,7 +46,10 @@ AMACTI,Lugano,CH,"c/o Cardiocentro Ticino, Via Tesserete 48",6900,,,3500.0,,,,,3
 BBS Congress GmbH,Bern,CH,Rabbentalstrasse 83,3013,,,5796.0,,,,,5796.0,hco,orion,
 Cardiocentro Lugano,Lugano,CH,Via Tesserete 48,6900,,,3000.0,,,,,3000.0,hco,orion,
 CHUV,Lausanne,CH,Rue du Bugnon 46,1011,,,5500.0,2258.91,3401.12,1200.0,,12360.03,hco,orion,
-Gemeinsame Jahrestagung SGK/SGHC/SGP,Basel,CH,Peter Merian-Strasse 80,4002,,,26600.0,,,,,26600.0,hco,orion,
+"Gemeinsame Jahrestagung Schweizerische Gesellschaft für Kardiologie 
+(SGK), Schweizerische Gesellschaft für Herz- und thorakale 
+Gefässchirurgie (SGHC), Schweizerische Gesellschaft für Pneumologie 
+(SGP)",Basel,CH,Peter Merian-Strasse 80,4002,,,26600.0,,,,,26600.0,hco,orion,
 Hôpital de Fribourg,Fribourg,CH,Chemin des Pensionnats 2-6,1708,,,1200.0,,,,,1200.0,hco,orion,
 Hôpital de la Tour Meyrin,Meyrin,CH,Avenue J.-D. Maillard 3,1217,,,650.0,,,,,650.0,hco,orion,
 Hôpital du Valais,Sion,CH,Av. Du Grand-Champsec 80,1951,,,2300.0,,,,,2300.0,hco,orion,
