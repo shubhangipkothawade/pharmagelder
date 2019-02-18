@@ -1,56 +1,56 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-A. Falbriard,Genève,CH,Rue du Nant 4-6,1207,,,,,,500.0,,500.0,hcp,daiichi
-A. Hassanzadah,Vevey,CH,Avenue du Général-Guisan 26,1800,,,,,,500.0,,500.0,hcp,daiichi
-B. Mosimann,La Neuveville,CH,Route de Neuchâtel 3,2520,,,,,,500.0,,500.0,hcp,daiichi
+Alain Falbriard,Genève,CH,Rue du Nant 4-6,1207,,,,,,500.0,,500.0,hcp,daiichi
+Annabel Hassanzadah,Vevey,CH,Avenue du Général-Guisan 26,1800,,,,,,500.0,,500.0,hcp,daiichi
+Bernard Mosimann,La Neuveville,CH,Route de Neuchâtel 3,2520,,,,,,500.0,,500.0,hcp,daiichi
 F. Acquistapace,Manno,CH,Via Cantonale 35d,6928,,,,,,1200.0,240.0,1440.0,hcp,daiichi
-A. Afridi,Bern,CH,Parketerrasse 10,3012,,,,,,350.0,,350.0,hcp,daiichi
-A. Garachemani,Bern,CH,Bremgartenstrasse 119,3012,,,,,,1400.0,,1400.0,hcp,daiichi
-B. Abbühl,Bern,CH,Münzgraben 4,3011,,,,,,350.0,,350.0,hcp,daiichi
-B. Blum,Biel/Bienne,CH,Neumarktstrasse 27,2503,,,,,,500.0,,500.0,hcp,daiichi
-B. Schnetzler,Nyon,CH,Place Bel-Air 6,1260,,,,,,1000.0,,1000.0,hcp,daiichi
-B. Suter,Bern,CH,Spitalackerstrasse 59,3013,,,,,,580.0,,580.0,hcp,daiichi
-C. Schild,Gümligen,CH,Worbstrasse 312,3073,,,,,,3180.0,,3180.0,hcp,daiichi
-C. Schmidt,Aarau,CH,Küttigerstrasse 42,5000,,,,,330.0,1750.0,,2080.0,hcp,daiichi
-D. Fournet,Meyrin,CH,Avenue J.-D.-Maillard 11,1217,,,,560.0,770.0,,,1330.0,hcp,daiichi
-D. Iliakis,Uznach,CH,Gasterstrasse 25,8730,,,,,,1200.0,,1200.0,hcp,daiichi
-D. Nobel,Wil SG,CH,Fürstenlandstrasse 32,9500,,,,,,1200.0,,1200.0,hcp,daiichi
-D. Rüegg,Bern,CH,Bottigenstrasse 6,3018,,,,,,580.0,,580.0,hcp,daiichi
-H. Pilz,Kandersteg,CH,Äussere Dorfstrasse 39,3718,,,,,,500.0,,500.0,hcp,daiichi
-H. Schläpfer,Biel/Bienne,CH,Blumenrain 94,2503,,,,,,1500.0,,1500.0,hcp,daiichi
-J. Brazy,Carouge GE,CH,Avenue Vibert 18,1227,,,,,,500.0,,500.0,hcp,daiichi
-J. Guzman,Neuchâtel,CH,Rue du Musée 9,2000,,,,,,500.0,,500.0,hcp,daiichi
-K. Tzvetanov,Sierre,CH,Avenue du Général-Guisan 12,3960,,,,,,500.0,,500.0,hcp,daiichi
-L. Find,Petit-Lancy,CH,Chemin de la Caroline 2,1213,,,,,,500.0,,500.0,hcp,daiichi
-M. Kummer,Rheinfelden,CH,Habich-Dietschy-Strasse 18,4310,,,,,,1500.0,,1500.0,hcp,daiichi
-M. Nagler,Bern,CH,Freiburgstrasse 18,3010,,,,,,3800.0,,3800.0,hcp,daiichi
-M. Namdar,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1200.0,,1200.0,hcp,daiichi
-M. Portier,Chêne-Bourg,CH,Rue de Genève 28,1225,,,,,,500.0,,500.0,hcp,daiichi
+Afridi,Bern,CH,Parketerrasse 10,3012,,,,,,350.0,,350.0,hcp,daiichi
+Ali Garachemani,Bern,CH,Bremgartenstrasse 119,3012,,,,,,1400.0,,1400.0,hcp,daiichi
+Bernhard Abbühl,Bern,CH,Münzgraben 4,3011,,,,,,350.0,,350.0,hcp,daiichi
+Bernhard Blum,Biel/Bienne,CH,Neumarktstrasse 27,2503,,,,,,500.0,,500.0,hcp,daiichi
+Bruno Schnetzler,Nyon,CH,Place Bel-Air 6,1260,,,,,,1000.0,,1000.0,hcp,daiichi
+Branco Suter,Bern,CH,Spitalackerstrasse 59,3013,,,,,,580.0,,580.0,hcp,daiichi
+Christoph Schild,Gümligen,CH,Worbstrasse 312,3073,,,,,,3180.0,,3180.0,hcp,daiichi
+Christoph Schmidt,Aarau,CH,Küttigerstrasse 42,5000,,,,,330.0,1750.0,,2080.0,hcp,daiichi
+Dominique Fournet,Meyrin,CH,Avenue J.-D.-Maillard 11,1217,,,,560.0,770.0,,,1330.0,hcp,daiichi
+Dimitrios Iliakis,Uznach,CH,Gasterstrasse 25,8730,,,,,,1200.0,,1200.0,hcp,daiichi
+Daniel Nobel,Wil SG,CH,Fürstenlandstrasse 32,9500,,,,,,1200.0,,1200.0,hcp,daiichi
+Daniel Rüegg,Bern,CH,Bottigenstrasse 6,3018,,,,,,580.0,,580.0,hcp,daiichi
+Hendrik Pilz,Kandersteg,CH,Äussere Dorfstrasse 39,3718,,,,,,500.0,,500.0,hcp,daiichi
+Heinz Schläpfer,Biel/Bienne,CH,Blumenrain 94,2503,,,,,,1500.0,,1500.0,hcp,daiichi
+Jacky Brazy,Carouge GE,CH,Avenue Vibert 18,1227,,,,,,500.0,,500.0,hcp,daiichi
+Juan Guzman,Neuchâtel,CH,Rue du Musée 9,2000,,,,,,500.0,,500.0,hcp,daiichi
+Kiril Tzvetanov,Sierre,CH,Avenue du Général-Guisan 12,3960,,,,,,500.0,,500.0,hcp,daiichi
+Léo Finci,Petit-Lancy,CH,Chemin de la Caroline 2,1213,,,,,,500.0,,500.0,hcp,daiichi
+Marco Kummer,Rheinfelden,CH,Habich-Dietschy-Strasse 18,4310,,,,,,1500.0,,1500.0,hcp,daiichi
+Michael Nagler,Bern,CH,Freiburgstrasse 18,3010,,,,,,3800.0,,3800.0,hcp,daiichi
+Mehdi Namdar,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1200.0,,1200.0,hcp,daiichi
+Michel Portier,Chêne-Bourg,CH,Rue de Genève 28,1225,,,,,,500.0,,500.0,hcp,daiichi
 M. Schär,Muri b. Bern,CH,Mettlengässli 2,3074,,,,,,1400.0,,1400.0,hcp,daiichi
-P. Egloff,Biel/Bienne,CH,Hans-Hugi-Strasse 10,2502,,,,,,500.0,,500.0,hcp,daiichi
-P. Kammer,Münchenbuchsee,CH,Bernstrasse 4,3053,,,,,,500.0,,500.0,hcp,daiichi
-S. Garoni,Genève,CH,Rue du Conseil Général 11,1205,,,,,,500.0,,500.0,hcp,daiichi
-S. Galli,Hölstein,CH,Frenkenstrasse 19,4434,,,,,,500.0,,500.0,hcp,daiichi
-S. Zaza,Meyrin,CH,Avenue J.-D.-Maillard 1bis,1217,,,,560.0,810.0,,,1370.0,hcp,daiichi
-T. Simic,Solothurn,CH,Bielstrasse 109,4500,,,,,,580.0,,580.0,hcp,daiichi
-U. Kaiser,Engelburg,CH,Breitschachenstrasse 10a,9032,,,,,,1200.0,,1200.0,hcp,daiichi
-U. Schafroth,Münsingen,CH,Bernstrasse 3,3110,,,,,,350.0,,350.0,hcp,daiichi
-Y. Pfister,Lyss,CH,Busswilstrasse 6,3250,,,,,,350.0,,350.0,hcp,daiichi
-J. Durand,Genève,CH,Rue De Carouge 24,1205,,,,,,500.0,,500.0,hcp,daiichi
-R. Louma,Bern,CH,Südbahnhofstrasse 2,3007,,,,,,350.0,,350.0,hcp,daiichi
-S. Rudolf,Port,CH,Hauptstrasse 9,2562,,,,,,500.0,,500.0,hcp,daiichi
-S. Tursun,Lyss,CH,Marktplatz 9a,3250,,,,,,500.0,,500.0,hcp,daiichi
-H. Sarikaya,Reinach BL,CH,Langenhagweg 12,4153,,,,,,500.0,,500.0,hcp,daiichi
-J. Steffel,Zürich,CH,Rämistrasse 100,8091,,,,,900.0,25250.0,250.0,26400.0,hcp,daiichi
-J. Sztajzel,Carouge GE,CH,Clos de la Fonderie 1,1227,,,,,,1200.0,170.0,1370.0,hcp,daiichi
-L. Asmis,Zurich,CH,Seefeldstrasse 224,8008,,,,,210.0,2400.0,,2610.0,hcp,daiichi
-M. Schindewolf,Bern,CH,Freiburgstrasse 18,3010,,,,,50.0,3600.0,,3650.0,hcp,daiichi
-P. Châtelain,Genève,CH,Rue Emile-Yung 4,1205,,,,,,3900.0,150.0,4050.0,hcp,daiichi
-B. Amann-Vesti,Zürich,CH,Seestrasse 220,8027,,,,,,1500.0,,1500.0,hcp,daiichi
-B. Meier,Bern,CH,Freiburgstrasse 18,3010,,,,,,1200.0,,1200.0,hcp,daiichi
-D. Shah,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1200.0,,1200.0,hcp,daiichi
-D. Tsakiris,Basel,CH,Petersgraben 4,4031,,,,,,1200.0,,1200.0,hcp,daiichi
-F. Mach,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,4000.0,,4000.0,hcp,daiichi
-M. Weller,Zürich,CH,Frauenklinikstrasse 26,8091,,,,,,600.0,720.0,1320.0,hcp,daiichi
+Peter Egloff,Biel/Bienne,CH,Hans-Hugi-Strasse 10,2502,,,,,,500.0,,500.0,hcp,daiichi
+Peter Kammer,Münchenbuchsee,CH,Bernstrasse 4,3053,,,,,,500.0,,500.0,hcp,daiichi
+Stefano Ciaroni,Genève,CH,Rue du Conseil Général 11,1205,,,,,,500.0,,500.0,hcp,daiichi
+Stefan Galli,Hölstein,CH,Frenkenstrasse 19,4434,,,,,,500.0,,500.0,hcp,daiichi
+Stéphane Zaza,Meyrin,CH,Avenue J.-D.-Maillard 1bis,1217,,,,560.0,810.0,,,1370.0,hcp,daiichi
+Tomislav Simic,Solothurn,CH,Bielstrasse 109,4500,,,,,,580.0,,580.0,hcp,daiichi
+Urs Kaiser,Engelburg,CH,Breitschachenstrasse 10a,9032,,,,,,1200.0,,1200.0,hcp,daiichi
+Ulrich Schafroth,Münsingen,CH,Bernstrasse 3,3110,,,,,,350.0,,350.0,hcp,daiichi
+Yves Pfister,Lyss,CH,Busswilstrasse 6,3250,,,,,,350.0,,350.0,hcp,daiichi
+Jean-Paul Durand,Genève,CH,Rue De Carouge 24,1205,,,,,,500.0,,500.0,hcp,daiichi
+Rudolf Louma,Bern,CH,Südbahnhofstrasse 2,3007,,,,,,350.0,,350.0,hcp,daiichi
+Stefanie Rudolf,Port,CH,Hauptstrasse 9,2562,,,,,,500.0,,500.0,hcp,daiichi
+Serik Tursun,Lyss,CH,Marktplatz 9a,3250,,,,,,500.0,,500.0,hcp,daiichi
+Hakan Sarikaya,Reinach BL,CH,Langenhagweg 12,4153,,,,,,500.0,,500.0,hcp,daiichi
+Jan Steffel,Zürich,CH,Rämistrasse 100,8091,,,,,900.0,25250.0,250.0,26400.0,hcp,daiichi
+Juan Sztajzel,Carouge GE,CH,Clos de la Fonderie 1,1227,,,,,,1200.0,170.0,1370.0,hcp,daiichi
+Lars Asmis,Zurich,CH,Seefeldstrasse 224,8008,,,,,210.0,2400.0,,2610.0,hcp,daiichi
+Marc Schindewolf,Bern,CH,Freiburgstrasse 18,3010,,,,,50.0,3600.0,,3650.0,hcp,daiichi
+Pascal Châtelain,Genève,CH,Rue Emile-Yung 4,1205,,,,,,3900.0,150.0,4050.0,hcp,daiichi
+Beatrice Amann-Vesti,Zürich,CH,Seestrasse 220,8027,,,,,,1500.0,,1500.0,hcp,daiichi
+Bernhard Meier,Bern,CH,Freiburgstrasse 18,3010,,,,,,1200.0,,1200.0,hcp,daiichi
+Dipen Shah,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,1200.0,,1200.0,hcp,daiichi
+Dimitrios Tsakiris,Basel,CH,Petersgraben 4,4031,,,,,,1200.0,,1200.0,hcp,daiichi
+François Mach,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1205,,,,,,4000.0,,4000.0,hcp,daiichi
+Michael Weller,Zürich,CH,Frauenklinikstrasse 26,8091,,,,,,600.0,720.0,1320.0,hcp,daiichi
 Ärzteverein Werdenberg/Sarganserland,Bad Ragaz,CH,Hans Albrecht-Strasse 1,7310,,,3700.0,,,,,3700.0,hco,daiichi
 praxis Kandersteg,Kandersteg,CH,Äussere Dorfstrasse 39,3718,,,960.0,,,,,960.0,hco,daiichi
 Cabinet Find,Petit-Lancy,CH,Chemin de la Caroline 2,1213,,,2000.0,,,,,2000.0,hco,daiichi
