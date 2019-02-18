@@ -1,402 +1,506 @@
 ,name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source,_export_information,year,address_expand,location_expand
-259,Abderrahim Benkortbi,Aigle,CH,Rue Farel 9,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,rue farel 9,aigle
-22,Adrian Ciurea,Zürich,CH,Gloriastrasse 25,,,,,,,1200.0,,1200.0,hcp,eli,,2017,gloriastrasse 25,zuerich
-260,Adrian Ciurea,Zürich,CH,Gloriastrasse 25,,,0.0,0.0,0.0,0.0,300.0,0.0,300.0,hcp,eli,,2015,gloriastrasse 25,zuerich
-261,Agostino Mattei,Luzern,CH,Spitalstrasse,,,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0,hcp,eli,,2015,spitalstrasse,luzern
-84,Agostino Mattei,Luzern,CH,Spitalstrasse,,,,,,,1000.0,,1000.0,hcp,eli,,2017,spitalstrasse,luzern
-147,"Alder, Heike",St. Gallen,CH,"Kantonsspital St. Gallen (KSSG), Rorschacherstrasse 95",,,,,,,360.0,,360.0,hcp,eli,,2016,kantonsspital sankt gallen kssg rorschacherstrasse 95,saint gallen
-262,Alessandra Curioni,Zürich,CH,Rämistrasse 100,,,0.0,0.0,725.0,621.0,0.0,0.0,1346.0,hcp,eli,,2015,raemistrasse 100,zuerich
-263,Alfredo Velardi,Neuchâtel,CH,Avenue du 1er- Mars 6,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,avenue du 1er marches 6,neuchatel
-117,Aline Veuve,Yverdon-les-Bains,CH,Rue d'Entremonts 11,,,,,,,540.0,,540.0,hcp,eli,,2017,rue d'entremonts 11,yverdon-les-bains
-264,Almut Meier,Zürich,CH,Seefeldstrasse 66,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,seefeldstrasse 66,zuerich
-265,Alois Gut,Oberuzwil,CH,Gerbestrasse 1,,,0.0,0.0,0.0,0.0,500.0,40.0,540.0,hcp,eli,,2015,gerbestrasse 1,oberuzwil
-21,Amina Chouiter- Djebaili,La Chaux-de-Fonds,CH,Rue de Chasseral 20,,,,,262.0,553.0,,,815.0,hcp,eli,,2017,rue de chasseral 20,la chaux-de-fonds
-113,Amineh Troendle,Bern,CH,Bremgartenstrasse 119,,,,,225.0,532.0,,,757.0,hcp,eli,,2017,bremgartenstrasse 119,bern
-148,"Anchisi, Sandro",Sion,CH,"(CHCVs/RSV), Avenue Grand- Champsec 80",,,,,,,800.0,,800.0,hcp,eli,,2016,chcvsreserve avenue grand champsec 80,sion
-45,Andreas Gschwend,Baar,CH,Landhausstrasse 11,,,,,306.0,467.0,,,773.0,hcp,eli,,2017,landhausstrasse 11,baar
-56,Andreas Horvath,Zürich,CH,Rothstrasse 54,,,,,,,2600.0,,2600.0,hcp,eli,,2017,rothstrasse 54,zuerich
-266,Andreas Uhl,Basel,CH,Wiesendamm 22,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,wiesendamm 22,basel
-124,André Zurn,Lausanne,CH,Galeries Benjamin- Constant 1,,,,,467.0,730.0,,,1197.0,hcp,eli,,2017,galeries benjamin constant 1,lausanne
-268,Angelika Jüngling,Bern,CH,Tiefenaustrasse 112,,,0.0,0.0,0.0,0.0,480.0,0.0,480.0,hcp,eli,,2015,tiefenaustrasse 112,bern
-267,Angelika Jüngling,Bern,CH,Tiefenaustrasse 112,,,0.0,0.0,0.0,0.0,480.0,0.0,480.0,hcp,eli,,2015,tiefenaustrasse 112,bern
-149,"Anliker, Mark David",Münsterlingen,CH,Spitalcampus 1,,,,,,,300.0,,300.0,hcp,eli,,2016,spitalcampus 1,muensterlingen
-269,Ann-Kristin Hörsting,Weinfelden,CH,Schützenstrasse 15,,,0.0,0.0,0.0,0.0,1500.0,932.0,2432.0,hcp,eli,,2015,schuetzenstrasse 15,weinfelden
-270,Ann-Kristin Hörsting,Weinfelden,CH,Schützenstrasse 15,,,0.0,0.0,0.0,0.0,1500.0,932.0,2432.0,hcp,eli,,2015,schuetzenstrasse 15,weinfelden
-61,Anne-Catherine Joly,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,292.0,651.0,,,943.0,hcp,eli,,2017,rue gabrielle perret-gentil 4,geneve
-40,Anne-Claude George,Genève,CH,Rue Maunoir 26,,,,,175.0,,,,175.0,hcp,eli,,2017,rue maunoir 26,geneve
-74,Anne-Karine Lapointe,Lausanne,CH,Avenue du Théatre 7,,,,,,373.0,1700.0,,2073.0,hcp,eli,,2017,avenue du theatre 7,lausanne
-54,Annekathrin Heinrich,Winterthur,CH,Brauerstrasse 15,,,,,366.0,517.0,,,883.0,hcp,eli,,2017,brauerstrasse 15,winterthur
-108,Annelis Sprenger,Olten,CH,Baslerstrasse 150,,,,,156.0,,,,156.0,hcp,eli,,2017,baslerstrasse 150,olten
-48,Annett Härtel,Basel,CH,Beim Goldenen Löwen 13,,,,,,126.0,700.0,,826.0,hcp,eli,,2017,beim goldenen loewen 13,basel
-24,Antonio Cozzio,St. Gallen,CH,"Haus 31, Rorschacher Strasse 95",,,,,,,2700.0,,2700.0,hcp,eli,,2017,haus 31 rorschacher strasse 95,saint gallen
-125,Antonios Kritikos,Lausanne,CH,Rue Du Bugnon 46,,,,,,948.76,,,948.76,hcp,shire,,2017,rue du bugnon 46,lausanne
-271,Aron Samuel Cohen,Zürich,CH,Goethestrasse 24,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,goethestrasse 24,zuerich
-90,Artemis Papandreou,Zürich,CH,Witellikerstrasse 36,,,,,221.0,707.0,,,928.0,hcp,eli,,2017,witellikerstrasse 36,zuerich
-66,Attila Kollàr,Bern,CH,"Inselspital, Freiburgstrasse 18",,,,,,,,1172.0,1172.0,hcp,eli,,2017,inselspital freiburgstrasse 18,bern
-77,Aurélie Loireau,Lausanne,CH,Route de Chavannes 11a,,,,,297.0,575.0,,,872.0,hcp,eli,,2017,route de chavannes 11a,lausanne
-11,Barbara Bolliger,St. Gallen,CH,"Hochhaus Silberturm, Rorschacherstrasse 150",,,,,,,1500.0,876.0,2376.0,hcp,eli,,2017,hochhaus silberturm rorschacherstrasse 150,saint gallen
-65,Barbara Kellerhals,Olten,CH,Baslerstrasse 150,,,,,120.0,,,,120.0,hcp,eli,,2017,baslerstrasse 150,olten
-67,Barbara Kopf,Bellinzona,CH,"Ospedale San Giovanni, Via Ospedale",,,,,,,800.0,,800.0,hcp,eli,,2017,ospedale san giovanni via ospedale,bellinzona
-272,Beat Schwegler,Baar,CH,Landhausstrasse 11,,,0.0,0.0,0.0,0.0,1960.0,0.0,1960.0,hcp,eli,,2015,landhausstrasse 11,baar
-104,Beat Schwegler,Baar,CH,Landhausstrasse 11,,,,,,,840.0,,840.0,hcp,eli,,2017,landhausstrasse 11,baar
-42,Beate Gleissner,Rapperswil SG,CH,Neue Jonastrasse 79,,,,,306.0,553.0,,,859.0,hcp,eli,,2017,neue jonastrasse 79,rapperswil sg
-273,Beatrice De Moustier,Onex,CH,Route De Chancy 98,,,0.0,0.0,0.0,0.0,7000.0,0.0,7000.0,hcp,eli,,2015,route de chancy 98,onex
-26,Beatrice De Moustier,Petit Lancy,CH,Chemin des Esserts 11B,,,,,,,1500.0,,1500.0,hcp,eli,,2017,chemin des esserts 11b,petit lancy
-71,Beatrice Kuhlmann,Basel,CH,Hirzbodenweg 48,,,,,,202.0,,,202.0,hcp,eli,,2017,hirzbodenweg 48,basel
-151,"Beer, Sandra",Lausanne,CH,Avenue De La Gare 11,,,,,,,600.0,,600.0,hcp,eli,,2016,avenue de la gare 11,lausanne
-18,Bernard Chappuis,Burgdorf,CH,Oberburgstrasse 54,,,,,221.0,575.0,,,796.0,hcp,eli,,2017,oberburgstrasse 54,burgdorf
-274,Bernard Chevaux,Vevey,CH,Avenue de la Prairie 3,,,0.0,0.0,152.0,0.0,0.0,0.0,152.0,hcp,eli,,2015,avenue delaware la prairie 3,vevey
-20,Bernard Chevaux,Yverdon-les-Bains,CH,Rue d'Entremonts 11,,,,,175.0,,,,175.0,hcp,eli,,2017,rue d'entremonts 11,yverdon-les-bains
-275,Bernhard Sorg,Wallisellen,CH,Zentralstrasse 6,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,zentralstrasse 6,wallisellen
-152,"Betticher, Daniel",Fribourg,CH,Chemin des Pensionnats 2,,,,,160.0,,1200.0,,1360.0,hcp,eli,,2016,chemin des pensionnats 2,fribourg
-276,Bettina Winzeler,Basel,CH,Petersgraben 4,,,0.0,0.0,0.0,0.0,960.0,0.0,960.0,hcp,eli,,2015,petersgraben 4,basel
-126,Bianca Link,Zürich,CH,Steinwiesstrasse 75,,,,,,571.52,1500.0,,2071.52,hcp,shire,,2017,steinwiesstrasse 75,zuerich
-153,"Bilke-Hentsch, Oliver",Winterthur,CH,Zum Park 20,,,,,,,1100.0,564.0,1664.0,hcp,eli,,2016,zum park 20,winterthur
-154,"Blaser, Samuel",Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,,,500.0,1385.0,,,1885.0,hcp,eli,,2016,hug rue gabrielle-perret gentil 4,geneve
-155,"Boehncke, Wolf-Henning",Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,,,4650.0,,4650.0,hcp,eli,,2016,rue gabrielle perret-gentil 4,geneve
-156,"Bohanes, Pierre",Lausanne,CH,Avenue Vinet 28,,,,,160.0,201.0,,,361.0,hcp,eli,,2016,avenue vinet 28,lausanne
-277,Boris Fischer,Zürich,CH,Birmensdorferstr asse 497,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,birmensdorferstr asse 497,zuerich
-157,"Borner, Markus Maximilian",Biel/Bienne,CH,Vogelsang 84,,,,,,,2200.0,,2200.0,hcp,eli,,2016,vogelsang 84,biel bienne
-158,"Bourgeois, Robert",Chardonne,CH,Route de Bellevue 3,,,,,,,600.0,,600.0,hcp,eli,,2016,route de bellevue 3,chardonne
-278,Brigitte Uebelhart,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
-38,Bruno Fuchs,Winterthur,CH,Brauerstrasse 15,,,,,,,1000.0,,1000.0,hcp,eli,,2017,brauerstrasse 15,winterthur
-114,Bruno Trossello,Gland,CH,La Lignière 5,,,,,226.0,591.0,,,817.0,hcp,eli,,2017,la ligniere 5,gland
-159,"Capraro, Joel",Aarau,CH,"Haus 7, Tellstrasse 25",,,,,,,840.0,32.0,872.0,hcp,eli,,2016,haus 7 tellstrasse 25,aarau
-279,Carlo Mainetti,Bellinzona,CH,Via Parco 3,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,eli,,2015,via parco 3,bellinzona
-80,Carlo Mainetti,Bellinzona,CH,Via Parco 3,,,,,,,1950.0,,1950.0,hcp,eli,,2017,via parco 3,bellinzona
-280,Catherine Mengis Bay,Brig,CH,"Spitalzentrum Oberwallis, Ueberlandstrasse 14",,,0.0,0.0,276.0,856.0,0.0,0.0,1132.0,hcp,eli,,2015,spitalzentrum oberwallis ueberlandstrasse 14,brigada
-115,Catrina Uhlmann Nussbaum,Olten,CH,Baslerstrasse 150,,,,,,236.0,,,236.0,hcp,eli,,2017,baslerstrasse 150,olten
-160,"Chevaux, Bernard",Vevey,CH,Avenue de la Prairie 3,,,,,160.0,,,,160.0,hcp,eli,,2016,avenue delaware la prairie 3,vevey
-34,Chiara Ferrario,Prilly,CH,Route De Renens 24,,,,,,,2000.0,,2000.0,hcp,eli,,2017,route de renens 24,prilly
-281,Christa Baumann,Bern,CH,Bremgartenstrasse 117,,,0.0,0.0,276.0,856.0,0.0,0.0,1132.0,hcp,eli,,2015,bremgartenstrasse 117,bern
-282,Christian Herzig,Flawil,CH,Bahnhofstrasse 17,,,0.0,0.0,0.0,0.0,500.0,32.0,532.0,hcp,eli,,2015,bahnhofstrasse 17,flawil
-283,Christian Schmidt,Wetzikon Zh,CH,Kirchgasse 4,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,kirchgasse 4,wetzikon zh
-120,Christian Weisshaupt,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstrasse 95",,,,,290.0,933.0,,,1223.0,hcp,eli,,2017,kantonsspital sankt gallen rorschacherstrasse 95,saint gallen
-107,Christina Sparla,Küssnacht am Rigi,CH,Bahnhofstrasse 15,,,,,278.0,307.0,,,585.0,hcp,eli,,2017,bahnhofstrasse 15,kuessnacht am rigi
-110,Christine Maria Thürig,Bern,CH,Monbijoustrasse 10,,,,,306.0,371.0,,,677.0,hcp,eli,,2017,monbijoustrasse 10,bern
-127,Christine Serratrice,Genève,CH,Chemin du Pont Bochet 2,,,,,,,1602.0,648.74,2250.74,hcp,shire,,2017,chemin du pont bochet 2,geneve
-57,Christophe François Hsu,Genève,CH,Boulevard James-Fazy 4,,,,,,,375.0,,375.0,hcp,eli,,2017,boulevard james-fazy 4,geneve
-284,Christophe Grandjean,Moudon,CH,Rue Saint- bernard 4,,,0.0,0.0,0.0,0.0,739.0,658.0,1397.0,hcp,eli,,2015,rue saint bernard 4,moudon
-285,Christopher Strey,St. Gallen,CH,Brauerstrasse 97,,,0.0,0.0,0.0,0.0,2000.0,18.0,2018.0,hcp,eli,,2015,brauerstrasse 97,saint gallen
-161,"Constam, Elisabeth",Winterthur,CH,Wülflingerstrasse 59,,,,,,,600.0,20.0,620.0,hcp,eli,,2016,wuelflingerstrasse 59,winterthur
-162,"Cozzio, Antonio",St. Gallen,CH,"Haus 31, Rorschacherstrasse 95",,,,,,,1375.0,,1375.0,hcp,eli,,2016,haus 31 rorschacherstrasse 95,saint gallen
-286,Cristina Studer,Bern,CH,Bremgartenstrasse 117,,,0.0,0.0,0.0,897.0,0.0,0.0,897.0,hcp,eli,,2015,bremgartenstrasse 117,bern
-163,"Curioni, Alessandra",Zürich,CH,Rämistrasse 100,,,,,241.0,401.0,,,642.0,hcp,eli,,2016,raemistrasse 100,zuerich
-5,Daniel Baumhoer,Basel,CH,"Medizinische Fakultät, Schönbeinstrass e 40",,,,,,,800.0,,800.0,hcp,eli,,2017,medizinische fakultaet schoenbeinstrass e 40,basel
-287,Daniel Noth,Unterseen,CH,Spitalweg 1,,,0.0,0.0,0.0,0.0,800.0,188.0,988.0,hcp,eli,,2015,spitalweg 1,unterseen
-288,Daniel Reding,Baar,CH,Landhausstrasse 11,,,0.0,0.0,381.0,704.0,0.0,0.0,1085.0,hcp,eli,,2015,landhausstrasse 11,baar
-289,Daniel Weil,Bern,CH,Effingerstrasse 17,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,effingerstrasse 17,bern
-290,Daniela Sofra,Lausanne,CH,Avenue De La Gare 11,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,avenue de la gare 11,lausanne
-291,David Infanger,Zürich,CH,Witellikerstrasse 36,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,witellikerstrasse 36,zuerich
-292,David Infanger,Zürich,CH,Witellikerstrasse 36,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,witellikerstrasse 36,zuerich
-164,"David, Monique",Epalinges,CH,Route De La Corniche 1,,,,,,,360.0,,360.0,hcp,eli,,2016,route de la corniche 1,epalinges
-165,"De Moustier, Beatrice",Onex,CH,Route De Chancy 98,,,,,,,2000.0,84.0,2084.0,hcp,eli,,2016,route de chancy 98,onex
-166,"Delgado, Humberto",Gland,CH,La Lignère 5,,,,,,,1200.0,,1200.0,hcp,eli,,2016,la lignere 5,gland
-128,Deolinda Alves,Lausanne,CH,Rue Du Bugnon 46,,,,,,888.33,,,888.33,hcp,shire,,2017,rue du bugnon 46,lausanne
-293,Derek Thalmann,Bellach,CH,Kaselfeldstrasse 15,,,0.0,0.0,0.0,0.0,500.0,8.0,508.0,hcp,eli,,2015,kaselfeldstrasse 15,bellach
-82,Diana Malin,Sargans,CH,Bahnhofpark 2b,,,,,120.0,,,,120.0,hcp,eli,,2017,bahnhofpark 2b,sargans
-53,Diane Hebert,Nyon,CH,"Hôpital de Zone de Nyon, Chemin Monastier 10",,,,,175.0,,,,175.0,hcp,eli,,2017,hopital de zone de nyon chemin monastier 10,nyon
-294,Didier Delouche,Vevey,CH,Avenue de la Prairie 3,,,0.0,0.0,229.0,704.0,0.0,0.0,933.0,hcp,eli,,2015,avenue delaware la prairie 3,vevey
-295,Didier Jallut,Lausanne,CH,Avenue du Théâtre 7,,,0.0,0.0,152.0,0.0,0.0,0.0,152.0,hcp,eli,,2015,avenue du theatre 7,lausanne
-296,Didier Jallut,Lausanne,CH,Avenue du Théâtre 7,,,0.0,0.0,152.0,0.0,0.0,0.0,152.0,hcp,eli,,2015,avenue du theatre 7,lausanne
-167,"Diem, Peter",Bern,CH,"Inselspital, Freiburgstrasse 18",,,,,,,1260.0,,1260.0,hcp,eli,,2016,inselspital freiburgstrasse 18,bern
-168,"Digklia, Antonia",Lausanne,CH,Rue du Bugnon 46,,,,,603.0,531.0,,,1134.0,hcp,eli,,2016,rue du bugnon 46,lausanne
-59,Dimiter Iliev,Luzern,CH,Haldenstrasse 11,,,,,278.0,642.0,700.0,73.0,1693.0,hcp,eli,,2017,haldenstrasse 11,luzern
-169,"Distler, Oliver",Zürich,CH,Gloriastrasse 25,,,,,,,1440.0,88.0,1528.0,hcp,eli,,2016,gloriastrasse 25,zuerich
-93,Dominique Piguet,Biel/Bienne,CH,Bahnhofstrasse 14,,,,,306.0,,,,306.0,hcp,eli,,2017,bahnhofstrasse 14,biel bienne
-170,"Dommann, Stephan",Feldmeilen,CH,General Wille- Strasse 59,,,,,,,700.0,,700.0,hcp,eli,,2016,general wille strasse 59,feldmeilen
-171,"Dudler, Jean",Fribourg,CH,Chemin des Pensionnats 2,,,,,,,2400.0,,2400.0,hcp,eli,,2016,chemin des pensionnats 2,fribourg
-172,"Eimers, Jörg",Luzern,CH,Tribschenstrasse 21,,,,,,,800.0,,800.0,hcp,eli,,2016,tribschenstrasse 21,luzern
-68,Elena Kralidis,Aarau,CH,"Haus 40, Tellstrasse 25",,,,,,245.0,,,245.0,hcp,eli,,2017,haus 40 tellstrasse 25,aarau
-23,Elisabeth Constam,Nürensdorf,CH,Haldenweidstrasse 5,,,,,,,600.0,,600.0,hcp,eli,,2017,haldenweidstrasse 5,nuerensdorf
-306,Elisabeth Constam,Winterthur,CH,Wülflingerstrasse 59,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,wuelflingerstrasse 59,winterthur
-99,Emanuela Salati,Monthey,CH,Route de Morgins 54,,,,,306.0,,,,306.0,hcp,eli,,2017,route de morgins 54,monthey
-307,Emmanuel Laffitte,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,0.0,0.0,0.0,0.0,2100.0,0.0,2100.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
-73,Emmanuel Laffitte,Genève,CH,"Service de dermatologie, Rue Gabrielle- Perret-Gentil 4",,,,,,,3900.0,,3900.0,hcp,eli,,2017,service de dermatologie rue gabrielle perret-gentil 4,geneve
-308,Eric Guth,Aigle,CH,Rue de la Fontaine 3,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,rue de la fontaine 3,aigle
-309,Eric Raymond,Lausanne,CH,Rue du Bugnon 27,,,0.0,0.0,0.0,0.0,5310.0,0.0,5310.0,hcp,eli,,2015,rue du bugnon 27,lausanne
-371,Erich Seifritz,Zürich,CH,Lenggstrasse 31,,,0.0,0.0,0.0,0.0,10700.0,0.0,10700.0,hcp,eli,,2015,lenggstrasse 31,zuerich
-310,Eugenio Fernandez,Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,0.0,0.0,152.0,1014.0,0.0,0.0,1166.0,hcp,eli,,2015,hug rue gabrielle-perret gentil 4,geneve
-85,Fabienne Matthys,Vevey,CH,Rue De Fribourg 40,,,,,,,360.0,,360.0,hcp,eli,,2017,rue de fribourg 40,vevey
-16,Fabio Cattaneo,Lugano,CH,Via Soldino 7,,,,,,,1000.0,,1000.0,hcp,eli,,2017,via soldino 7,lugano
-1,Farah Ahmanna Chakir,Fribourg,CH,Chemin des Pensionnats 2,,,,,,893.0,,,893.0,hcp,eli,,2017,chemin des pensionnats 2,fribourg
-173,"Farkas, Arpad",Glattbrugg,CH,Schaffhauserstrasse 99,,,,,,,700.0,,700.0,hcp,eli,,2016,schaffhauserstrasse 99,glattbrugg
-258,"Fassbender, Walter Josef",Zürich,CH,Wolfbachstrasse 17,,,,,,1320.82,1651.0,,2971.82,hcp,shire,,2016,wolfbachstrasse 17,zuerich
-174,"Faulenbach, Mirjam",Zürich,CH,Witellikerstrasse 36,,,,,,,1000.0,,1000.0,hcp,eli,,2016,witellikerstrasse 36,zuerich
-311,Felix Kühn,Luzern,CH,Weggisgasse 40,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,weggisgasse 40,luzern
-312,Ferenc Rákóczy,Lausanne,CH,Place Grand-St- Jean 1,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,place grand-st jean 1,lausanne
-175,"Ferrario, Chiara",Renens VD,CH,Avenue du quatorze Avril 12,,,,,,,1400.0,,1400.0,hcp,eli,,2016,avenue du 14 avril 12,renens van den
-313,Francesco Martucci,Bellinzona,CH,Via Ospedale,,,0.0,0.0,381.0,704.0,0.0,0.0,1085.0,hcp,eli,,2015,via ospedale,bellinzona
-91,Francesco Pelloni,Lugano,CH,Via Carlo Frasca 10,,,,,,,800.0,,800.0,hcp,eli,,2017,via carlo frasca 10,lugano
-314,François Kuntschen,Monthey,CH,Avenue de la Gare 36,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,avenue de la gare 36,monthey
-315,François Mach,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,0.0,0.0,0.0,0.0,1400.0,284.0,1684.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
-129,François Spertini,Lausanne,CH,Rue Du Bugnon 46,,,,,,,1650.0,,1650.0,hcp,shire,,2017,rue du bugnon 46,lausanne
-176,"French, Lars",Zürich,CH,Gloriastrasse 31,,,,,,,1275.0,,1275.0,hcp,eli,,2016,gloriastrasse 31,zuerich
-177,"Frisoni, Giovanni",Les Acacias,CH,Rue des Epinettes 19,,,,,,,,1249.0,1249.0,hcp,eli,,2016,rue des epinettes 19,les acacias
-178,"Froesch, Patrizia",Locarno,CH,Via all'Ospedale 1,,,,,,,1200.0,,1200.0,hcp,eli,,2016,via allospedale 1,locarno
-179,"Fuchs, Bruno",Zürich,CH,Forchstrasse 340,,,,,,,,239.0,239.0,hcp,eli,,2016,forchstrasse 340,zuerich
-180,"Gabay, Cem",Genève,CH,Avenue Beau- Séjour,,,,,,,2400.0,,2400.0,hcp,eli,,2016,avenue beau sejour,geneve
-316,Gabriele Cola,Aigle,CH,Rue de la Gare 4a,,,0.0,0.0,0.0,0.0,500.0,57.0,557.0,hcp,eli,,2015,rue de la gare 4a,aigle
-181,"Gastaldi, Giacomo",Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,,,1000.0,,1000.0,hcp,eli,,2016,rue gabrielle perret-gentil 4,geneve
-182,"Gay, Steffen",Zürich,CH,Gloriastrasse 25,,,,,,,1000.0,,1000.0,hcp,eli,,2016,gloriastrasse 25,zuerich
-183,"Georgescu, Dan",Windisch,CH,Zürcherstrasse 241,,,,,,,960.0,,960.0,hcp,eli,,2016,zuercherstrasse 241,windisch
-318,Giacomo Gastaldi,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
-39,Giacomo Gastaldi,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,,,1000.0,,1000.0,hcp,eli,,2017,rue gabrielle perret-gentil 4,geneve
-319,Giovanni Colpi,Lugano,CH,Via Clemente Maraini 8,,,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0,hcp,eli,,2015,via clemente maraini 8,lugano
-37,Giovanni Frisoni,Les Acacias,CH,Rue des Épinettes 19,,,,,,,,755.0,755.0,hcp,eli,,2017,rue des epinettes 19,les acacias
-320,Giovanni Frisoni,Thônex,CH,Chemin du Pont- Bochet 3,,,0.0,0.0,1545.0,0.0,0.0,887.0,2432.0,hcp,eli,,2015,chemin du pont bochet 3,thonex
-184,"Girardin, Céline Michèle",Onex,CH,Route De Chancy 98,,,,,39.0,350.0,,,389.0,hcp,eli,,2016,route de chancy 98,onex
-185,"Golay, Alain",Genève,CH,"Villa Soleillane, Chemin Venel 7",,,,,,,3160.0,918.0,4078.0,hcp,eli,,2016,villa soleillane chemin venel 7,geneve
-321,Gregory Wirth,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
-186,"Grillet, Jean-Pierre",Genève,CH,Chemin de Beau- Soleil 12,,,,,,,700.0,,700.0,hcp,eli,,2016,chemin de beau soleil 12,geneve
-187,"Guardia, Alberto",Grand Lancy,CH,Chemin Des Pontets 17,,,,,,,2600.0,,2600.0,hcp,eli,,2016,chemin des pontets 17,grand lancy
-188,"Gwerder, Christoph",Bern,CH,Monbijoustrasse 10,,,,,500.0,954.0,,,1454.0,hcp,eli,,2016,monbijoustrasse 10,bern
-317,Gérard Dorsaz,Clarens,CH,Rue des Vaudrès 5,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,rue des vaudres 5,clarens
-51,Hans Jörg Häuselmann,Zürich,CH,Seestrasse 220,,,,,,,2500.0,,2500.0,hcp,eli,,2017,seestrasse 220,zuerich
-58,Hans-Dieter Hüllstrung,Liestal,CH,Weierweg 7,,,,,,630.0,,,630.0,hcp,eli,,2017,weierw 7,liestal
-322,Hansjörg Häuselmann,Zürich,CH,Bellariastrasse 38,,,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0,hcp,eli,,2015,bellariastrasse 38,zuerich
-191,"Hebert, Diane",Nyon,CH,"de Nyon, Chemin Monastier 10",,,,,241.0,,,,241.0,hcp,eli,,2016,de nyon chemin monastier 10,nyon
-130,Heidi Martin-Braschler,Gossau SG,CH,Friedbergstrasse 1,,,,,,533.25,,,533.25,hcp,shire,,2017,friedbergstrasse 1,gossau sargento segundo
-72,Heike Labud,Yverdon-les-Bains,CH,Rue d'Entremonts 11,,,,,,,360.0,,360.0,hcp,eli,,2017,rue d'entremonts 11,yverdon-les-bains
-192,"Hirsbrunner, Pia",Zürich,CH,Hegarstrasse 18,,,,,,,1080.0,,1080.0,hcp,eli,,2016,hegarstrasse 18,zuerich
-193,"Hobi, Alexandre",Chernex,CH,"Les Villageoises B, Route de Chaulin 24",,,,,,,600.0,,600.0,hcp,eli,,2016,les villageoises b route de chaulin 24,chernex
-194,"Hochstrasser, Andreas",Männedorf,CH,Asylstrasse 10,,,,,,,600.0,,600.0,hcp,eli,,2016,asylstrasse 10,maennedorf
-195,"Honegger, Regula",Horgen,CH,Seestrasse 117,,,,,,,750.0,,750.0,hcp,eli,,2016,seestrasse 117,horgen
-196,"Hsu, Christophe François",Genève,CH,Boulevard James-Fazy 4,,,,,,,625.0,,625.0,hcp,eli,,2016,boulevard james-fazy 4,geneve
-323,Humberto Delgado,Gland,CH,La Lignière 5,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,la ligniere 5,gland
-27,Humberto Delgado,Gland,CH,La Lignière 5,,,,,,,,47.0,47.0,hcp,eli,,2017,la ligniere 5,gland
-189,"Häuselmann, Hans Jörg",Zürich,CH,Bellariastrasse 38,,,,,,,4700.0,,4700.0,hcp,eli,,2016,bellariastrasse 38,zuerich
-190,"Häusermann, Peter",Basel,CH,Petersgraben 4,,,,,,,1375.0,,1375.0,hcp,eli,,2016,petersgraben 4,basel
-197,"Hügle, Thomas",Basel,CH,Hirschgässlein 11-15,,,,,,,1000.0,,1000.0,hcp,eli,,2016,hirschgaesslein 11-15,basel
-198,"Hüllstrung, Hans Dieter",Liestal,CH,Weierweg 7,,,,,,,800.0,,800.0,hcp,eli,,2016,weierw 7,liestal
-76,Ingrid Linder,Uster,CH,Brunnenstrasse 42,,,,,,,360.0,,360.0,hcp,eli,,2017,brunnenstrasse 42,uster
-324,Isabella Sudano,Zürich,CH,Rämistrasse 100,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,eli,,2015,raemistrasse 100,zuerich
-78,Jann Lübbe,Nyon,CH,Rue Saint-jean 4,,,,,,,700.0,,700.0,hcp,eli,,2017,rue saint-jean 4,nyon
-131,Jasmine Nötzli,Lausanne,CH,Avenue de Rumine 35,,,,,225.25,545.75,,,771.0,hcp,shire,,2017,avenue de rumine 35,lausanne
-30,Jean Dudler,Fribourg,CH,Chemin des Pensionnats 2,,,,,,,5400.0,,5400.0,hcp,eli,,2017,chemin des pensionnats 2,fribourg
-325,Jean-François Anex,Aigle,CH,Place Du Centenaire 3,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,place du centenaire 3,aigle
-326,Jean-Jacques Grimm,Delémont,CH,Rue du Temple 45,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,rue du temple 45,delemont
-132,Jean-Marc Waldburger,Confignon,CH,Route de Loëx 99,,,,,560.5,2107.22,,,2667.72,hcp,shire,,2017,route de loex 99,confignon
-95,Jean-Pierre Randin,Lausanne,CH,Avenue de Rumine 35,,,,,,,600.0,,600.0,hcp,eli,,2017,avenue de rumine 35,lausanne
-327,Jean-Pierre Randin,Lausanne,CH,Avenue de Rumine 35,,,0.0,0.0,0.0,0.0,800.0,24.0,824.0,hcp,eli,,2015,avenue de rumine 35,lausanne
-328,Jean-Pierre Walker,Neuchâtel,CH,Rue du Trésor 9,,,0.0,0.0,0.0,0.0,1800.0,221.0,2021.0,hcp,eli,,2015,rue du tresor 9,neuchatel
-96,Jeannine Rinderknecht,St. Gallen,CH,"Haus 31, Rorschacherstrasse 95",,,,,278.0,463.0,,,741.0,hcp,eli,,2017,haus 31 rorschacherstrasse 95,saint gallen
-199,"Jochum, Wolfram",St. Gallen,CH,Rorschacherstrasse 95,,,,,,,800.0,,800.0,hcp,eli,,2016,rorschacherstrasse 95,saint gallen
-133,Johannes Rischewski,Luzern,CH,Spitalstrasse 16,,,,,,,1350.0,892.6,2242.6,hcp,shire,,2017,spitalstrasse 16,luzern
-15,Joël Capraro,Aarau,CH,Tellstrasse 25,,,,,,,600.0,,600.0,hcp,eli,,2017,tellstrasse 25,aarau
-109,Judit-Maria Steinmann,Basel,CH,Henric Petristrasse 19,,,,,278.0,525.0,,,803.0,hcp,eli,,2017,henric petristrasse 19,basel
-134,Julia Aguade Gorgorio,Zürich,CH,Steinwiesstrasse 75,,,,,,1271.35,,,1271.35,hcp,shire,,2017,steinwiesstrasse 75,zuerich
-29,Julien Ducry,Fribourg,CH,"Hôpital Cantonal Fribourg, Chemin des Pensionnats 2",,,,,263.0,574.0,,,837.0,hcp,eli,,2017,hopital cantonal fribourg chemin des pensionnats 2,fribourg
-31,Jörg Eimers,Gisikon,CH,Wissehrli 1b,,,,,,,1250.0,,1250.0,hcp,eli,,2017,wissehrli 1b,gisikon
-330,Jörn Kamradt,Bern,CH,Schänzlihalde 1,,,0.0,0.0,0.0,0.0,2800.0,0.0,2800.0,hcp,eli,,2015,schaenzlihalde 1,bern
-329,Jörn Kamradt,Bern,CH,Schänzlihalde 1,,,0.0,0.0,0.0,0.0,2800.0,0.0,2800.0,hcp,eli,,2015,schaenzlihalde 1,bern
-331,Jürg Zollikofer,Ossingen,CH,Truttikerstrasse 19,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,truttikerstrasse 19,ossingen
-135,Kai M. Rösler,Bern,CH,Freiburgstrasse 18,,,,,,,1500.0,,1500.0,hcp,shire,,2017,freiburgstrasse 18,bern
-332,Karin Oberbörsch,Zürich,CH,Gottfried Keller- Strasse 7,,,0.0,0.0,0.0,0.0,400.0,0.0,400.0,hcp,eli,,2015,gottfried keller strasse 7,zuerich
-32,Kathrin Ernst,Bern,CH,Bremgartenstrasse 117,,,,,120.0,,,,120.0,hcp,eli,,2017,bremgartenstrasse 117,bern
-200,"Keller, Isabelle",Winterthur,CH,Brauerstrasse 15,,,,,,,1000.0,,1000.0,hcp,eli,,2016,brauerstrasse 15,winterthur
-6,Kerstin Beauregard,Liestal,CH,Mühlegasse 3,,,,,278.0,307.0,,,585.0,hcp,eli,,2017,muehlegasse 3,liestal
-136,Kerstin Hagemann Gysling,Bern,CH,Freiburgstrasse 18,,,,,,,,1151.25,1151.25,hcp,shire,,2017,freiburgstrasse 18,bern
-202,"Kubli, Sandrine",Monthey,CH,Avenue de la Gare 36,,,,,,,1000.0,,1000.0,hcp,eli,,2016,avenue de la gare 36,monthey
-203,"Kuntschen, François",Monthey,CH,Avenue de la Gare 36,,,,,,,1200.0,,1200.0,hcp,eli,,2016,avenue de la gare 36,monthey
-201,"Kössler, Thibaud",Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,,,720.0,524.0,800.0,,2044.0,hcp,eli,,2016,hug rue gabrielle-perret gentil 4,geneve
-204,"Labud, Heike",Yverdon-les-Bains,CH,Rue d'Entremonts 11,,,,,,,360.0,,360.0,hcp,eli,,2016,rue d'entremonts 11,yverdon-les-bains
-205,"Laffitte, Emmanuel",Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,,,1750.0,,1750.0,hcp,eli,,2016,rue gabrielle perret-gentil 4,geneve
-206,"Lampert, Markus",Olten,CH,Baslerstrasse 150,,,,,,,800.0,,800.0,hcp,eli,,2016,baslerstrasse 150,olten
-207,"Lapointe, Anne-Karine",Lausanne,CH,Avenue du Théatre 7,,,,,,,700.0,,700.0,hcp,eli,,2016,avenue du theatre 7,lausanne
-36,Lars French,Zürich,CH,Gloriastrasse 31,,,,,,,3750.0,,3750.0,hcp,eli,,2017,gloriastrasse 31,zuerich
-333,Lars French,Zürich,CH,Gloriastrasse 31,,,0.0,0.0,0.0,0.0,3150.0,0.0,3150.0,hcp,eli,,2015,gloriastrasse 31,zuerich
-4,Laurence Bastien Pournaras,Lausanne,CH,Chemin de Pré- Fleuri 6,,,,,,,3000.0,,3000.0,hcp,eli,,2017,chemin de professeure fleuri 6,lausanne
-334,Laurent Rosset,Fribourg,CH,Route de Villars 37,,,0.0,0.0,276.0,889.0,0.0,0.0,1165.0,hcp,eli,,2015,route de villars 37,fribourg
-335,Lea Slahor,Luzern,CH,"Kantonsspital Luzern, Spitalstrasse",,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,kantonsspital luzern spitalstrasse,luzern
-208,"Lechmann, Armin",Gossau SG,CH,St. Gallerstrasse 124,,,,,,,600.0,,600.0,hcp,eli,,2016,sankt gallerstrasse 124,gossau sargento segundo
-255,"Link, Bianca",Zürich,CH,Steinwiesenstrasse 75,,,,,,1006.38,3298.72,,4305.0999999999985,hcp,shire,,2016,steinwiesenstrasse 75,zuerich
-12,Lorenzo Bosia,Locarno,CH,Via Castelrotto 18B,,,,,,,800.0,,800.0,hcp,eli,,2017,via castelrotto 18b,locarno
-49,Loretta Hasler,Biel/Bienne,CH,Hans-Hugi- Strasse 3,,,,,290.0,749.0,,,1039.0,hcp,eli,,2017,hans-hugi strasse 3,biel bienne
-336,Luciano Wannesson,Mendrisio,CH,"OBV - Ospedale Beata Vergine, Via Alfonso Turconi 23",,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,eli,,2015,obv ospedale beata vergine via alfonso turconi 23,mendrisio
-86,Ludivine Mercier- Vogel,Delémont,CH,Faubourg des Capucins 30,,,,,175.0,,,,175.0,hcp,eli,,2017,faubourg des capucins 30,delemont
-297,Lukas Villiger,Dättwil Ag,CH,Mellingerstrasse 207,,,0.0,0.0,0.0,0.0,900.0,0.0,900.0,hcp,eli,,2015,mellingerstrasse 207,daettwil ag
-118,Lukas Villiger,Baden Dättwil,CH,Mellingerstrasse 207,,,,,,,2350.0,,2350.0,hcp,eli,,2017,mellingerstrasse 207,baden daettwil
-122,Lukas Wildi,Winterthur,CH,Brauerstrasse 15,,,,,,,750.0,,750.0,hcp,eli,,2017,brauerstrasse 15,winterthur
-92,Luz Perrenoud,Genève,CH,Rue Willy-donzé 6,,,,,,,1830.0,,1830.0,hcp,eli,,2017,rue willy-donze 6,geneve
-337,Luz Perrenoud,Genève,CH,Rue Willy-Donzé 6,,,0.0,0.0,0.0,0.0,1545.0,0.0,1545.0,hcp,eli,,2015,rue willy-donze 6,geneve
-256,"Lückl-Boyer, Christina Theresia",Wünnewil,CH,Altschlossmatte 17,,,,,,807.07,,,807.07,hcp,shire,,2016,altschlossmatte 17,wuennewil
-209,"Mach, Nicolas",Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,,,277.0,,1200.0,,1477.0,hcp,eli,,2016,hug rue gabrielle-perret gentil 4,geneve
-210,"Mainetti, Carlo",Bellinzona,CH,Via Parco 3,,,,,,,1500.0,,1500.0,hcp,eli,,2016,via parco 3,bellinzona
-60,Manuel Urs Jeschko- Flückiger,Bern,CH,Schänzlihalde 11,,,,,,553.0,,,553.0,hcp,eli,,2017,schaenzlihalde 11,bern
-94,Manuela Pinto- Ventura,Fribourg,CH,Stadtberg 1,,,,,,,360.0,,360.0,hcp,eli,,2017,stadtberg 1,fribourg
-338,Manuela Rabaglio-Poretti,Bern,CH,"Inselspital, Freiburgstrasse 18",,,0.0,0.0,229.0,704.0,0.0,0.0,933.0,hcp,eli,,2015,inselspital freiburgstrasse 18,bern
-339,Marc Donath,Basel,CH,Petersgraben 4,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,eli,,2015,petersgraben 4,basel
-28,Marc Donath,Basel,CH,Petersgraben 4,,,,,,,1260.0,,1260.0,hcp,eli,,2017,petersgraben 4,basel
-35,Marc Fouradoulas,Adliswil,CH,Webereistrasse 49,,,,,,,1000.0,76.0,1076.0,hcp,eli,,2017,webereistrasse 49,adliswil
-340,Marc Wisard,Lausanne,CH,Rue de la Vigie 5,,,0.0,0.0,0.0,0.0,3400.0,0.0,3400.0,hcp,eli,,2015,rue de la vigie 5,lausanne
-2,Marco Albanese,Luzern,CH,Pilatusstrasse 3a/5,,,,,,,600.0,235.0,835.0,hcp,eli,,2017,pilatusstrasse 3a 5,luzern
-146,"Marco, Albanese",Luzern,CH,St. Annastrasse 32,,,,,,,600.0,99.0,699.0,hcp,eli,,2016,sankt annastrasse 32,luzern
-341,Marcus Klaus Charles Schories,Basel,CH,Gellertstrasse 142,,,0.0,0.0,0.0,0.0,1600.0,79.0,1679.0,hcp,eli,,2015,gellertstrasse 142,basel
-103,Marcus Klaus Charles Schories,Basel,CH,Gellertstrasse 142,,,,,,,1350.0,,1350.0,hcp,eli,,2017,gellertstrasse 142,basel
-342,Marcus Rosenhagen,Prangins,CH,chemin Oscar Forel 3,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,chemin oscar forel 3,prangins
-69,Marguerite Krasovec Rahmann,Schlieren,CH,"Lilie Zentrum, Uitikonerstrasse 9",,,,,311.0,718.0,,,1029.0,hcp,eli,,2017,lilie zentrum uitikonerstrasse 9,schlieren
-70,Marie-Noëlle Kronig,Bern,CH,"Inselspital, Freiburgstrasse 18",,,,,366.0,529.0,,,895.0,hcp,eli,,2017,inselspital freiburgstrasse 18,bern
-343,Marie-Noëlle Kronig,Brig,CH,"Spitalzentrum Oberwallis, Ueberlandstrasse 14",,,0.0,0.0,217.0,1023.0,0.0,0.0,1240.0,hcp,eli,,2015,spitalzentrum oberwallis ueberlandstrasse 14,brigada
-3,Mark David Anliker,Münsterlingen,CH,"Kantonsspital Münsterlingen, Spitalcampus 1",,,,,,,700.0,,700.0,hcp,eli,,2017,kantonsspital muensterlingen spitalcampus 1,muensterlingen
-137,Markus Lampert,Basel,CH,Peterplatz,,,,,,133.48,856.41,391.99,1381.88,hcp,shire,,2017,peterplatz,basel
-344,Markus Maximilian Borner,Biel/bienne,CH,Vogelsang 84,,,0.0,0.0,0.0,0.0,6500.0,0.0,6500.0,hcp,eli,,2015,vogelsang 84,biel bienne
-63,Martin Kägi,Zürich,CH,Schaffhauserstrasse 355,,,,,311.0,541.0,2600.0,750.0,4202.0,hcp,eli,,2017,schaffhauserstrasse 355,zuerich
-138,Matthias Sturzenegger,Bern,CH,Inselspital Neurologische Universitätsklinik,,,,,,,1500.0,,1500.0,hcp,shire,,2017,inselspital neurologische universitaetsklinik,bern
-116,Matthias Umbricht,Winterthur,CH,Stadthausstrasse 45,,,,,290.0,897.0,,,1187.0,hcp,eli,,2017,stadthausstrasse 45,winterthur
-345,Matthias Zimmermann,Zürich,CH,Birmensdorferstr asse 497,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,birmensdorferstr asse 497,zuerich
-211,"Matthys, Fabienne",Vevey,CH,Rue De Fribourg 40,,,,,,,360.0,,360.0,hcp,eli,,2016,rue de fribourg 40,vevey
-298,Mauro Dünki,Zollikerberg,CH,Trichtenhauserstr asse 2,,,0.0,0.0,0.0,0.0,500.0,25.0,525.0,hcp,eli,,2015,trichtenhauserstr asse 2,zollikerberg
-212,"Meier, Christian",Basel,CH,Missionsstrasse 24,,,,,,,1500.0,70.0,1570.0,hcp,eli,,2016,missionsstrasse 24,basel
-213,"Mengis Bay, Catherine",Brig,CH,"Spitalzentrum Oberwallis, Ueberlandstrasse 14",,,,,241.0,201.0,,,442.0,hcp,eli,,2016,spitalzentrum oberwallis ueberlandstrasse 14,brigada
-346,Michael Bagattini,Glattbrugg,CH,Thurgauerstrasse 106,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,thurgauerstrasse 106,glattbrugg
-347,Michael Brändle,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstrasse 95",,,0.0,0.0,0.0,0.0,0.0,311.0,311.0,hcp,eli,,2015,kantonsspital sankt gallen rorschacherstrasse 95,saint gallen
-13,Michael Brändle,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Strasse 95",,,,,,,1260.0,127.0,1387.0,hcp,eli,,2017,kantonsspital sankt gallen rorschacher strasse 95,saint gallen
-348,Michael Krause,Zürich,CH,Goethestrasse 24,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,goethestrasse 24,zuerich
-349,Michael Krause,Zürich,CH,Goethestrasse 24,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,goethestrasse 24,zuerich
-88,Michael Nissen,Genève,CH,Avenue de Beau- Séjour 26,,,,,,,3700.0,538.0,4238.0,hcp,eli,,2017,avenue de beau sejour 26,geneve
-41,Michel Gilliet,Lausanne,CH,Avenue de Beaumont 29,,,,,,,,249.0,249.0,hcp,eli,,2017,avenue de beaumont 29,lausanne
-299,Michel Hochuli,Zürich,CH,Rämistrasse 100,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,raemistrasse 100,zuerich
-139,Michel Magistris,Genève,CH,Rue Michel-Servet 1,,,,,,,2099.0,,2099.0,hcp,shire,,2017,rue michel-servet 1,geneve
-89,Michel Oberson,Biasca,CH,Piazzetta Cavalier Pellanda 1,,,,,297.0,589.0,,,886.0,hcp,eli,,2017,piazzetta cavalier pellanda 1,biasca
-25,Monique David,Epalinges,CH,Route de la Corniche 1,,,,,,,360.0,,360.0,hcp,eli,,2017,route de la corniche 1,epalinges
-350,Monique David,Epalinges,CH,Route De La Corniche 1,,,0.0,0.0,0.0,0.0,576.0,0.0,576.0,hcp,eli,,2015,route de la corniche 1,epalinges
-214,"Monsch, Andreas",Basel,CH,Burgfelderstrasse 101,,,,,,,,743.0,743.0,hcp,eli,,2016,burgfelderstrasse 101,basel
-215,"Montavon Salomon, Nicole",Genève,CH,Rue Pédro-Meylan 1,,,,,,,600.0,,600.0,hcp,eli,,2016,rue pedro-meylan 1,geneve
-216,"Moosmann, Peter",Aarau,CH,Tellstrasse 25,,,,,,,600.0,,600.0,hcp,eli,,2016,tellstrasse 25,aarau
-217,"Muggli, David",Zürich,CH,Gloriastrasse 31,,,,,240.0,,,,240.0,hcp,eli,,2016,gloriastrasse 31,zuerich
-351,Muriel Schneider,Nyon,CH,Rue Juste-Olivier 9,,,0.0,0.0,435.0,403.0,0.0,0.0,838.0,hcp,eli,,2015,rue juste-olivier 9,nyon
-218,"Müller, Thomas",Meiringen,CH,Willigen,,,,,,,1200.0,,1200.0,hcp,eli,,2016,willigen,meiringen
-352,Nadja Engel,Wetzikon Zh,CH,Kirchgasse 4,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,kirchgasse 4,wetzikon zh
-219,"Nay Fellay, Cristina",Sion,CH,"(CHCVs/RSV), Avenue Grand- Champsec 80",,,,,160.0,401.0,,,561.0,hcp,eli,,2016,chcvsreserve avenue grand champsec 80,sion
-353,Nazad Ghafoor,Basel,CH,Birmannsgasse 34,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,birmannsgasse 34,basel
-220,"Nicod, Pierre-Alain",Monthey,CH,Avenue de la Gare 36,,,,,,,1000.0,,1000.0,hcp,eli,,2016,avenue de la gare 36,monthey
-64,Nicola Keller,Morbio Inferiore,CH,Via al Ponte 2,,,,,,,1000.0,,1000.0,hcp,eli,,2017,via alessandria ponte 2,morbio inferiore
-79,Nicolas Mach,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,306.0,,,,306.0,hcp,eli,,2017,rue gabrielle perret-gentil 4,geneve
-354,Nicolas Von der Weid,Genève,CH,Chemin de Beau- Soleil 12,,,0.0,0.0,0.0,0.0,5400.0,199.0,5599.0,hcp,eli,,2015,chemin de beau soleil 12,geneve
-119,Nicolas von der Weid,Genève,CH,Chemin de Beau- Soleil 12,,,,,,,600.0,,600.0,hcp,eli,,2017,chemin de beau soleil 12,geneve
-355,Nicole Montavon Salomon,Genève,CH,Rue Pédro- Meylan 1,,,0.0,0.0,0.0,0.0,800.0,79.0,879.0,hcp,eli,,2015,rue pedro meylan 1,geneve
-221,"Nikolic, Damjan",Genève,CH,Quai Du Seujet 14,,,,,,,700.0,,700.0,hcp,eli,,2016,quai du seujet 14,geneve
-112,Nordwig Tomi,Weinfelden,CH,"Bernerhaus, Marktplatz 3",,,,,,,1300.0,,1300.0,hcp,eli,,2017,bernerhaus marktplatz 3,weinfelden
-222,"Noth, Daniel",Unterseen,CH,Spitalweg 1,,,,,,,600.0,95.0,695.0,hcp,eli,,2016,spitalweg 1,unterseen
-83,Numa Masina,Lugano,CH,Viale Castagnola 21a,,,,,,,800.0,4.0,804.0,hcp,eli,,2017,viale castagnola 21a,lugano
-356,Oliver Bilke- Hentsch,Winterthur,CH,Zum Park 20,,,0.0,0.0,0.0,0.0,2600.0,257.0,2857.0,hcp,eli,,2015,zum park 20,winterthur
-357,Oliver Christoph Zwermann,Basel,CH,Gellertstrasse 142,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,gellertstrasse 142,basel
-358,Oliver Distler,Zürich,CH,Gloriastrasse 25,,,0.0,0.0,0.0,0.0,300.0,0.0,300.0,hcp,eli,,2015,gloriastrasse 25,zuerich
-140,Oliver Hausmann,Luzern,CH,Zürichstrasse 12,,,,,,,1500.0,,1500.0,hcp,shire,,2017,zuerichstrasse 12,luzern
-359,Oliver Tschopp,Zürich,CH,Rämistrasse 100,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,raemistrasse 100,zuerich
-223,"Pache, Jean-Claude",Genève,CH,Rue Michel- Servet 4,,,,,,,800.0,40.0,840.0,hcp,eli,,2016,rue michel servet 4,geneve
-360,Pascal Vallotton,La Tour-de-peilz,CH,Avenue de Jaman 21,,,0.0,0.0,0.0,0.0,500.0,36.0,536.0,hcp,eli,,2015,avenue de jaman 21,la tour-de-peilz
-361,Patrice Holzer,Weisslingen,CH,Rössligasse 1,,,0.0,0.0,0.0,0.0,500.0,41.0,541.0,hcp,eli,,2015,roessligasse 1,weisslingen
-62,Patricia Jörgensen,Rheinfelden,CH,Kaiserstrasse 8,,,,,,168.0,,,168.0,hcp,eli,,2017,kaiserstrasse 8,rheinfelden
-362,Patrick Ammann,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,0.0,0.0,0.0,6300.0,575.0,6875.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
-363,Patrizia Froesch,Locarno,CH,Via all'Ospedale 1,,,0.0,0.0,381.0,469.0,500.0,0.0,1350.0,hcp,eli,,2015,via allospedale 1,locarno
-50,Paul Hasler,Aarau,CH,Tellstrasse 25,,,,,,,,413.0,413.0,hcp,eli,,2017,tellstrasse 25,aarau
-224,"Perrenoud, Luz",Genève,CH,Rue Willy-Donzé 6,,,,,,,4080.0,,4080.0,hcp,eli,,2016,rue willy-donze 6,geneve
-52,Peter Häusermann,Basel,CH,Petersgraben 4,,,,,,,1350.0,,1350.0,hcp,eli,,2017,petersgraben 4,basel
-364,Peter Häusermann,Basel,CH,Petersgraben 4,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,petersgraben 4,basel
-141,Peter Jandus,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,3750.0,310.76,4060.76,hcp,shire,,2017,rue gabrielle-perret-gentil 4,geneve
-365,Peter Moosmann,Aarau,CH,Tellstrasse,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,tellstrasse,aarau
-101,Peter Schiller,Liestal,CH,Mühlegasse 3,,,,,,404.0,700.0,,1104.0,hcp,eli,,2017,muehlegasse 3,liestal
-121,Peter Wiesli,Frauenfeld,CH,Pfaffenholzstrasse 4,,,,,,,1250.0,,1250.0,hcp,eli,,2017,pfaffenholzstrasse 4,frauenfeld
-366,Peter Wiesli,Frauenfeld,CH,Pfaffenholzstrass e 4,,,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0,hcp,eli,,2015,pfaffenholzstrass e 4,frauenfeld
-367,Petra Elsässer,Moutier,CH,Rue de Beausite 49,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,rue de beausite 49,moutier
-368,Philipp Schütz,Aarau,CH,Tellstrasse,,,0.0,0.0,0.0,0.0,1200.0,153.0,1353.0,hcp,eli,,2015,tellstrasse,aarau
-142,Philipp de Moerloose,Genève,CH,Rue Marignac 3,,,,,,1531.2,,,1531.2,hcp,shire,,2017,rue marignac 3,geneve
-369,Pia Hirsbrunner,Zürich,CH,Hegarstrasse 18,,,0.0,0.0,0.0,0.0,1952.0,57.0,2009.0,hcp,eli,,2015,hegarstrasse 18,zuerich
-303,Pierre Bohanes,Fribourg,CH,Route de Villars 37,,,0.0,0.0,263.0,0.0,0.0,0.0,263.0,hcp,eli,,2015,route de villars 37,fribourg
-10,Pierre Bohanes,Lausanne,CH,Avenue Vinet 28,,,,,175.0,369.0,300.0,,844.0,hcp,eli,,2017,avenue vinet 28,lausanne
-370,Pietro Scarone,Lugano,CH,"Ospedale Civico, Via Tesserete 46",,,0.0,0.0,0.0,0.0,0.0,298.0,298.0,hcp,eli,,2015,ospedale civico via tesserete 46,lugano
-225,"Plaza, Tobias",Uster,CH,Oberlandstrasse 100,,,,,,,250.0,,250.0,hcp,eli,,2016,oberlandstrasse 100,uster
-226,"Pless, Miklos",Winterthur,CH,Brauerstrasse 15,,,,,385.0,403.0,3600.0,862.0,5250.0,hcp,eli,,2016,brauerstrasse 15,winterthur
-150,"Pournaras, Laurence Marie Alice Bastien",Lausanne,CH,Fleuri 6,,,,,,,600.0,,600.0,hcp,eli,,2016,fleuri 6,lausanne
-227,"Randin, Jean-Pierre",Lausanne,CH,Avenue de Rumine 35,,,,,,,1600.0,78.0,1678.0,hcp,eli,,2016,avenue de rumine 35,lausanne
-374,Raphaël Léopold Delaloye,Zürich,CH,Rämistrasse 100,,,0.0,0.0,911.0,621.0,0.0,0.0,1532.0,hcp,eli,,2015,raemistrasse 100,zuerich
-55,Regula Honegger,Horgen,CH,Seestrasse 117,,,,,,,1200.0,,1200.0,hcp,eli,,2017,seestrasse 117,horgen
-376,Regula Honegger,Horgen,CH,Seestrasse 117,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,seestrasse 117,horgen
-377,Regula Honegger,Horgen,CH,Seestrasse 117,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,seestrasse 117,horgen
-123,Reinhard Zenhäusern,Brig,CH,"Spitalzentrum Oberwallis, Ueberlandstrasse 14",,,,,290.0,988.0,,,1278.0,hcp,eli,,2017,spitalzentrum oberwallis ueberlandstrasse 14,brigada
-228,"Relecom, Allan",Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,,,330.0,,,,330.0,hcp,eli,,2016,hug rue gabrielle-perret gentil 4,geneve
-378,Renato Werndli,Eichberg,CH,Jakob Oeschstrasse 1,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,jakob oeschstrasse 1,eichberg
-379,Reza Sohani,Leysin,CH,"Centre Coop, Chemin Des Fleurettes 10",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,centre coop chemin des fleurettes 10,leysin
-380,Robert Stein,Bern,CH,Schänzlihalde 11,,,0.0,0.0,229.0,704.0,600.0,72.0,1605.0,hcp,eli,,2015,schaenzlihalde 11,bern
-257,"Rogler, Gerhard",Zürich,CH,Rämistrasse 100,,,,,,,2500.0,,2500.0,hcp,shire,,2016,raemistrasse 100,zuerich
-372,Rolf Stahel,Bern,CH,Effingerstrasse 40,,,0.0,0.0,0.0,0.0,2625.0,0.0,2625.0,hcp,eli,,2015,effingerstrasse 40,bern
-375,Räto Strebel,Chur,CH,Loëstrasse 170,,,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0,hcp,eli,,2015,loestrasse 170,chur
-33,Sabina Ernst,Rheinfelden,CH,Kaiserstrasse 8,,,,,,168.0,,,168.0,hcp,eli,,2017,kaiserstrasse 8,rheinfelden
-381,Samuel Paris,Carouge Ge,CH,Avenue Industrielle 1,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,eli,,2015,avenue industrielle 1,carouge ge
-7,Sandra Beer,Lausanne,CH,Avenue de la Gare 11,,,,,,,600.0,,600.0,hcp,eli,,2017,avenue de la gare 11,lausanne
-382,Sandra Beer,Lausanne,CH,Avenue De La Gare 11,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,avenue de la gare 11,lausanne
-383,Sao-Nam Tran,Genève,CH,Route De Frontenex 90,,,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0,hcp,eli,,2015,route de frontenex 90,geneve
-143,Sara Nagy,Basel,CH,Hebelstrasse,,,,,912.0,740.61,,,1652.61,hcp,shire,,2017,hebelstrasse,basel
-81,Sarah Malacarne,Meyrin,CH,Avenue Jean- Daniel Maillard 3,,,,,,,1000.0,,1000.0,hcp,eli,,2017,avenue jean daniel maillard 3,meyrin
-229,"Sautter, Thomas",Rapperswil SG,CH,Kniestrasse 29,,,,,,,1000.0,,1000.0,hcp,eli,,2016,kniestrasse 29,rapperswil sg
-230,"Savaskan, Egemen",Zürich,CH,Minervastrasse 145,,,,,,,2600.0,,2600.0,hcp,eli,,2016,minervastrasse 145,zuerich
-231,"Schacher-Kaufmann, Sabina",Winterthur,CH,Brauerstrasse 15,,,,,603.0,,,,603.0,hcp,eli,,2016,brauerstrasse 15,winterthur
-384,Scherwin Talimi,Brugg Ag,CH,Fröhlichstrasse 5,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,froehlichstrasse 5,brugg ag
-232,"Schlapbach, Christoph",Bern,CH,Freiburgstrasse 18,,,,,,,1200.0,,1200.0,hcp,eli,,2016,freiburgstrasse 18,bern
-233,"Schories, Marcus Klaus Charles",Basel,CH,Gellertstrasse 142,,,,,,,600.0,87.0,687.0,hcp,eli,,2016,gellertstrasse 142,basel
-385,Sebastian Walther,Bern  Upd,CH,Bolligenstrasse 111,,,0.0,0.0,0.0,0.0,2500.0,0.0,2500.0,hcp,eli,,2015,bolligenstrasse 111,bern upd
-386,Sebastiano Franscella,Viganello,CH,Via Pietro Capelli 9,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,via pietro capelli 9,viganello
-234,"Seifritz, Erich",Zürich,CH,Lenggstrasse 31,,,,,,,7200.0,,7200.0,hcp,eli,,2016,lenggstrasse 31,zuerich
-235,"Sermier, Alain",Genolier,CH,Route du Muids 3,,,,,,,1000.0,,1000.0,hcp,eli,,2016,route du muids 3,genolier
-236,"Seydoux, Catherine",Fribourg,CH,"Fribourg, Chemin des Pensionnats 2",,,,,,,360.0,,360.0,hcp,eli,,2016,fribourg chemin des pensionnats 2,fribourg
-387,Sheila Ardigo,Genève,CH,Rue Du Nant 4-6,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,rue du nant 4-6,geneve
-102,Silvia Schmid,Chur,CH,Loestrasse 170,,,,,,141.0,,,141.0,hcp,eli,,2017,loestrasse 170,chur
-301,Simeun Blagojevic,Uzwil,CH,Bahnhofstrasse 75,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,bahnhofstrasse 75,uzwil
-237,"Spring, Philipp",Epalinges,CH,Route De La Corniche 1,,,,,,,700.0,,700.0,hcp,eli,,2016,route de la corniche 1,epalinges
-238,"Stahel, Rolf",Zürich,CH,Rämistrasse 100,,,,,,,6900.0,8225.0,15125.0,hcp,eli,,2016,raemistrasse 100,zuerich
-388,Stefan Bleuer,Münsingen,CH,Hunzigenallee 1,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,hunzigenallee 1,muensingen
-14,Stephan Büschl,Aarau,CH,"Haus 40, Tellstrasse 25",,,,,120.0,,,,120.0,hcp,eli,,2017,haus 40 tellstrasse 25,aarau
-44,Stephanie Graf,Bern,CH,"Eingang 31, Freiburgstrasse 15",,,,,,133.0,,,133.0,hcp,eli,,2017,eingang 31 freiburgstrasse 15,bern
-111,Stephanie Tölle,Zollikerberg,CH,Rietholzstrasse 4,,,,,,,3240.0,,3240.0,hcp,eli,,2017,rietholzstrasse 4,zollikerberg
-239,"Stoll, Thomas",Schaffhausen,CH,Geissbergstrasse 81,,,,,,,550.0,,550.0,hcp,eli,,2016,geissbergstrasse 81,schaffhausen
-240,"Strey, Christopher",St. Gallen,CH,Brauerstrasse 97,,,,,,,600.0,,600.0,hcp,eli,,2016,brauerstrasse 97,saint gallen
-75,Stéphanie Liardet,Lausanne,CH,Avenue du Théatre 7,,,,,447.0,730.0,,,1177.0,hcp,eli,,2017,avenue du theatre 7,lausanne
-304,Susanne Bucher,Herrliberg,CH,Schulhausstrass e 12,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,schulhausstrass e 12,herrliberg
-389,Susanne Reichert,Bülach,CH,Zürichstrasse 5,,,0.0,0.0,0.0,0.0,600.0,33.0,633.0,hcp,eli,,2015,zuerichstrasse 5,buelach
-305,Susanne Weindler,Winterthur,CH,Brauerstrasse 15,,,0.0,0.0,455.0,862.0,0.0,0.0,1317.0,hcp,eli,,2015,brauerstrasse 15,winterthur
-390,Sylvie Von der Weid,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,0.0,0.0,0.0,851.0,480.0,0.0,1331.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
-300,Sérgio Lenoir,St. Gallen,CH,Zürcher Strasse 170,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,zuercher strasse 170,saint gallen
-47,Tanja Haamberg,Bern,CH,Freiburgstrasse 18,,,,,,408.0,,,408.0,hcp,eli,,2017,freiburgstrasse 18,bern
-8,Tarcisio Bianda,Ascona,CH,Via Collina 4,,,,,,,1200.0,,1200.0,hcp,eli,,2017,via collina 4,ascona
-391,Thibaud Kössler,Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,0.0,0.0,46.0,0.0,0.0,0.0,46.0,hcp,eli,,2015,hug rue gabrielle-perret gentil 4,geneve
-392,Thibaud Kössler,Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,0.0,0.0,46.0,0.0,0.0,0.0,46.0,hcp,eli,,2015,hug rue gabrielle-perret gentil 4,geneve
-393,Thomas Dünner,Herrliberg,CH,Forchstrasse 61,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,forchstrasse 61,herrliberg
-144,Thomas Hauser,Zürich,CH,Walchestrasse 11,,,,,,,1000.0,,1000.0,hcp,shire,,2017,walchestrasse 11,zuerich
-87,Thomas Jörg Müller,Meiringen,CH,Willigen,,,,,,,1200.0,,1200.0,hcp,eli,,2017,willigen,meiringen
-394,Thomas Leyhe,Basel,CH,Wilhelm Kleinstrasse 27,,,0.0,0.0,0.0,0.0,3000.0,691.0,3691.0,hcp,eli,,2015,wilhelm kleinstrasse 27,basel
-373,Thomas Müller,Bern,CH,Murtenstrasse 21,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,murtenstrasse 21,bern
-98,Thomas Ruhstaller,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstrasse 95",,,,,,,2500.0,686.0,3186.0,hcp,eli,,2017,kantonsspital sankt gallen rorschacherstrasse 95,saint gallen
-100,Thomas Sautter,Rapperswil SG,CH,"Haus zur Tüchi, Kniestrasse 29",,,,,,,2000.0,,2000.0,hcp,eli,,2017,haus zur tuechi kniestrasse 29,rapperswil sg
-105,Thomas Seeger,Aarau,CH,"Haus 40, Tellstrasse 25",,,,,120.0,,,,120.0,hcp,eli,,2017,haus 40 tellstrasse 25,aarau
-395,Thomas Warzinek,Sargans,CH,Bahnhofstrasse 6,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,bahnhofstrasse 6,sargans
-396,Thomas Wehrle,Solothurn,CH,Luzernstrasse 5- 11,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,luzernstrasse 5 11,solothurn
-43,Tiziana Gozzi Graf,St. Gallen,CH,Claudiusstrasse 6,,,,,,155.0,,,155.0,hcp,eli,,2017,claudiusstrasse 6,saint gallen
-397,Tomislav Simic,Solothurn,CH,Bielstrasse 109,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,bielstrasse 109,solothurn
-241,"Tran, Sao-Nam",Genève,CH,Route De Frontenex 90,,,,,,,1000.0,,1000.0,hcp,eli,,2016,route de frontenex 90,geneve
-242,"Uhlmann Nussbaum, Catrina",Olten,CH,Baslerstrasse 150,,,,,160.0,401.0,,,561.0,hcp,eli,,2016,baslerstrasse 150,olten
-302,Ulrich Hemmeter,Wil Sg,CH,Zürcherstrasse 30,,,0.0,0.0,0.0,0.0,900.0,0.0,900.0,hcp,eli,,2015,zuercherstrasse 30,wil sargento segundo
-398,Ursula Bärtsch- Kohli,Langenthal,CH,St. Urbanstrasse 67,,,0.0,0.0,0.0,0.0,1600.0,0.0,1600.0,hcp,eli,,2015,sankt urbanstrasse 67,langenthal
-145,Uyen Huynh-Do,Bern,CH,Freiburgstrasse 15,,,,,,122.0,,,122.0,hcp,shire,,2017,freiburgstrasse 15,bern
-19,Vanessa Chatelain Fontanella,Vevey,CH,Avenue de la Prairie 3,,,,,175.0,,,,175.0,hcp,eli,,2017,avenue delaware la prairie 3,vevey
-243,"Vernez, Maxime",Epalinges,CH,Route De La Corniche 1,,,,,,,700.0,,700.0,hcp,eli,,2016,route de la corniche 1,epalinges
-244,"Villiger, Lukas",Dättwil AG,CH,Mellingerstrasse 207,,,,,,,6000.0,,6000.0,hcp,eli,,2016,mellingerstrasse 207,daettwil ag
-17,Vincent Cattin,Neuchâtel,CH,Faubourg de l'Hôpital 65,,,,,,,700.0,,700.0,hcp,eli,,2017,faubourg de l'hopital 65,neuchatel
-399,Vladka Cuchard,Renens Vd,CH,Avenue de Florissant 30,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,avenue de florissant 30,renens van den
-245,"Voegeli, Michèle",Liestal,CH,Mühlematt 13,,,,,,,800.0,,800.0,hcp,eli,,2016,muehlematt 13,liestal
-247,"Von der Weid, Nicolas",Genève,CH,Chemin de Beau- Soleil 12,,,,,,,2200.0,,2200.0,hcp,eli,,2016,chemin de beau soleil 12,geneve
-97,Véronique Ruff- Zemp,Genève,CH,Rue Maunoir 26,,,,,292.0,594.0,,,886.0,hcp,eli,,2017,rue maunoir 26,geneve
-400,Walter David Wimmersberger,Dietikon,CH,Steinmürlistrasse 21,,,0.0,0.0,0.0,0.0,500.0,15.0,515.0,hcp,eli,,2015,steinmuerlistrasse 21,dietikon
-248,"Walther, Sebastian",Bern 60 U,CH,Bolligenstrasse 111,,,,,,,2500.0,,2500.0,hcp,eli,,2016,bolligenstrasse 111,bern 60 utca
-46,Waltraut Gut,Bülach,CH,Spitalstrasse 24,,,,,298.0,900.0,,,1198.0,hcp,eli,,2017,spitalstrasse 24,buelach
-249,"Warzinek, Thomas",Sargans,CH,Bahnhofstrasse 6,,,,,,,600.0,,600.0,hcp,eli,,2016,bahnhofstrasse 6,sargans
-250,"Wehrhahn, Tobias",Aarau,CH,Tellstrasse 25,,,,,,,600.0,,600.0,hcp,eli,,2016,tellstrasse 25,aarau
-251,"Wiesli, Peter",Frauenfeld,CH,Pfaffenholzstrass e4,,,,,,,3050.0,58.0,3108.0,hcp,eli,,2016,pfaffenholzstrass e4,frauenfeld
-9,Wolf-Henning Boehncke,Genève,CH,"Service de dermatologie, Rue Gabrielle- Perret-Gentil 4",,,,,,,10470.0,6523.0,16993.0,hcp,eli,,2017,service de dermatologie rue gabrielle perret-gentil 4,geneve
-401,Wolf-Henning Boehncke,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,0.0,0.0,0.0,57.0,1200.0,0.0,1257.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
-252,"Zarkik, Yassine",Martigny,CH,"de Martigny, Avenue de la Fusion 27",,,,,,,600.0,,600.0,hcp,eli,,2016,de martigny avenue de la fusion 27,martigny
-106,Zehra Spadin,Lachen SZ,CH,Oberdorfstrasse 41,,,,,298.0,751.0,,,1049.0,hcp,eli,,2017,oberdorfstrasse 41,lachen sz
-253,"Zenhäusern, Reinhard",Brig,CH,"Spitalzentrum Oberwallis, Ueberlandstrasse",,,,,160.0,201.0,,,361.0,hcp,eli,,2016,spitalzentrum oberwallis ueberlandstrasse,brigada
-254,"Zwermann, Oliver Christoph",Basel,CH,Gellertstrasse 142,,,,,,,600.0,,600.0,hcp,eli,,2016,gellertstrasse 142,basel
-246,"von Burg, Philippe",Solothurn,CH,"Haus 7, Schöngrünstrasse 38",,,,,,,800.0,,800.0,hcp,eli,,2016,haus 7 schoengruenstrasse 38,solothurn
+363,Abderrahim Benkortbi,Aigle,CH,Rue Farel 9,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,rue farel 9,aigle
+49,Adrian Ciurea,Zürich,CH,Gloriastrasse 25,,,,,,,1200.0,,1200.0,hcp,eli,,2017,gloriastrasse 25,zuerich
+364,Adrian Ciurea,Zürich,CH,Gloriastrasse 25,,,0.0,0.0,0.0,0.0,300.0,0.0,300.0,hcp,eli,,2015,gloriastrasse 25,zuerich
+173,"Aebischer, Manfred",Muntelier,CH,Raffort 2,,,,,,495.66,,,495.66,hcp,almirall,,2016,raffort 2,muntelier
+111,Agostino Mattei,Luzern,CH,Spitalstrasse,,,,,,,1000.0,,1000.0,hcp,eli,,2017,spitalstrasse,luzern
+365,Agostino Mattei,Luzern,CH,Spitalstrasse,,,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0,hcp,eli,,2015,spitalstrasse,luzern
+206,"Alder, Heike",St. Gallen,CH,"Kantonsspital St. Gallen (KSSG), Rorschacherstrasse 95",,,,,,,360.0,,360.0,hcp,eli,,2016,kantonsspital sankt gallen kssg rorschacherstrasse 95,saint gallen
+366,Alessandra Curioni,Zürich,CH,Rämistrasse 100,,,0.0,0.0,725.0,621.0,0.0,0.0,1346.0,hcp,eli,,2015,raemistrasse 100,zuerich
+367,Alfredo Velardi,Neuchâtel,CH,Avenue du 1er- Mars 6,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,avenue du 1er marches 6,neuchatel
+144,Aline Veuve,Yverdon-les-Bains,CH,Rue d'Entremonts 11,,,,,,,540.0,,540.0,hcp,eli,,2017,rue d'entremonts 11,yverdon-les-bains
+368,Almut Meier,Zürich,CH,Seefeldstrasse 66,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,seefeldstrasse 66,zuerich
+369,Alois Gut,Oberuzwil,CH,Gerbestrasse 1,,,0.0,0.0,0.0,0.0,500.0,40.0,540.0,hcp,eli,,2015,gerbestrasse 1,oberuzwil
+48,Amina Chouiter- Djebaili,La Chaux-de-Fonds,CH,Rue de Chasseral 20,,,,,262.0,553.0,,,815.0,hcp,eli,,2017,rue de chasseral 20,la chaux-de-fonds
+140,Amineh Troendle,Bern,CH,Bremgartenstrasse 119,,,,,225.0,532.0,,,757.0,hcp,eli,,2017,bremgartenstrasse 119,bern
+16,Ammar Kassouha,Genève,CH,Avenue de Beau-Séjour 26,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,avenue de beau-sejour 26,geneve
+207,"Anchisi, Sandro",Sion,CH,"(CHCVs/RSV), Avenue Grand- Champsec 80",,,,,,,800.0,,800.0,hcp,eli,,2016,chcvsreserve avenue grand champsec 80,sion
+9,Andreas Gantenbein,Bad Zurzach,CH,Quellenstrasse 34,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,quellenstrasse 34,bad zurzach
+72,Andreas Gschwend,Baar,CH,Landhausstrasse 11,,,,,306.0,467.0,,,773.0,hcp,eli,,2017,landhausstrasse 11,baar
+83,Andreas Horvath,Zürich,CH,Rothstrasse 54,,,,,,,2600.0,,2600.0,hcp,eli,,2017,rothstrasse 54,zuerich
+18,Andreas Lutterotti,Zürich,CH,Frauenklinikstrasse 26,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,frauenklinikstrasse 26,zuerich
+370,Andreas Uhl,Basel,CH,Wiesendamm 22,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,wiesendamm 22,basel
+151,André Zurn,Lausanne,CH,Galeries Benjamin- Constant 1,,,,,467.0,730.0,,,1197.0,hcp,eli,,2017,galeries benjamin constant 1,lausanne
+371,Angelika Jüngling,Bern,CH,Tiefenaustrasse 112,,,0.0,0.0,0.0,0.0,480.0,0.0,480.0,hcp,eli,,2015,tiefenaustrasse 112,bern
+372,Angelika Jüngling,Bern,CH,Tiefenaustrasse 112,,,0.0,0.0,0.0,0.0,480.0,0.0,480.0,hcp,eli,,2015,tiefenaustrasse 112,bern
+208,"Anliker, Mark David",Münsterlingen,CH,Spitalcampus 1,,,,,,,300.0,,300.0,hcp,eli,,2016,spitalcampus 1,muensterlingen
+374,Ann-Kristin Hörsting,Weinfelden,CH,Schützenstrasse 15,,,0.0,0.0,0.0,0.0,1500.0,932.0,2432.0,hcp,eli,,2015,schuetzenstrasse 15,weinfelden
+373,Ann-Kristin Hörsting,Weinfelden,CH,Schützenstrasse 15,,,0.0,0.0,0.0,0.0,1500.0,932.0,2432.0,hcp,eli,,2015,schuetzenstrasse 15,weinfelden
+88,Anne-Catherine Joly,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,292.0,651.0,,,943.0,hcp,eli,,2017,rue gabrielle perret-gentil 4,geneve
+67,Anne-Claude George,Genève,CH,Rue Maunoir 26,,,,,175.0,,,,175.0,hcp,eli,,2017,rue maunoir 26,geneve
+101,Anne-Karine Lapointe,Lausanne,CH,Avenue du Théatre 7,,,,,,373.0,1700.0,,2073.0,hcp,eli,,2017,avenue du theatre 7,lausanne
+81,Annekathrin Heinrich,Winterthur,CH,Brauerstrasse 15,,,,,366.0,517.0,,,883.0,hcp,eli,,2017,brauerstrasse 15,winterthur
+135,Annelis Sprenger,Olten,CH,Baslerstrasse 150,,,,,156.0,,,,156.0,hcp,eli,,2017,baslerstrasse 150,olten
+75,Annett Härtel,Basel,CH,Beim Goldenen Löwen 13,,,,,,126.0,700.0,,826.0,hcp,eli,,2017,beim goldenen loewen 13,basel
+51,Antonio Cozzio,St. Gallen,CH,"Haus 31, Rorschacher Strasse 95",,,,,,,2700.0,,2700.0,hcp,eli,,2017,haus 31 rorschacher strasse 95,saint gallen
+152,Antonios Kritikos,Lausanne,CH,Rue Du Bugnon 46,,,,,,948.76,,,948.76,hcp,shire,,2017,rue du bugnon 46,lausanne
+375,Aron Samuel Cohen,Zürich,CH,Goethestrasse 24,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,goethestrasse 24,zuerich
+117,Artemis Papandreou,Zürich,CH,Witellikerstrasse 36,,,,,221.0,707.0,,,928.0,hcp,eli,,2017,witellikerstrasse 36,zuerich
+318,Athina Papadopoulou,Basel,CH,Petersgraben 4,,,0.0,0.0,0.0,144.47,0.0,0.0,144.47,hcp,almirall,,2015,petersgraben 4,basel
+93,Attila Kollàr,Bern,CH,"Inselspital, Freiburgstrasse 18",,,,,,,,1172.0,1172.0,hcp,eli,,2017,inselspital freiburgstrasse 18,bern
+104,Aurélie Loireau,Lausanne,CH,Route de Chavannes 11a,,,,,297.0,575.0,,,872.0,hcp,eli,,2017,route de chavannes 11a,lausanne
+174,"Aydemir, Aynur",Münsterlingen,CH,Spitalcampus 1,,,,,,262.7,,,262.7,hcp,almirall,,2016,spitalcampus 1,muensterlingen
+38,Barbara Bolliger,St. Gallen,CH,"Hochhaus Silberturm, Rorschacherstrasse 150",,,,,,,1500.0,876.0,2376.0,hcp,eli,,2017,hochhaus silberturm rorschacherstrasse 150,saint gallen
+92,Barbara Kellerhals,Olten,CH,Baslerstrasse 150,,,,,120.0,,,,120.0,hcp,eli,,2017,baslerstrasse 150,olten
+94,Barbara Kopf,Bellinzona,CH,"Ospedale San Giovanni, Via Ospedale",,,,,,,800.0,,800.0,hcp,eli,,2017,ospedale san giovanni via ospedale,bellinzona
+175,"Baumgartner, Marc",Herzogenbuchsee,CH,Fabrikstrasse 10,,,,,,495.66,,,495.66,hcp,almirall,,2016,fabrikstrasse 10,herzogenbuchsee
+376,Beat Schwegler,Baar,CH,Landhausstrasse 11,,,0.0,0.0,0.0,0.0,1960.0,0.0,1960.0,hcp,eli,,2015,landhausstrasse 11,baar
+131,Beat Schwegler,Baar,CH,Landhausstrasse 11,,,,,,,840.0,,840.0,hcp,eli,,2017,landhausstrasse 11,baar
+69,Beate Gleissner,Rapperswil SG,CH,Neue Jonastrasse 79,,,,,306.0,553.0,,,859.0,hcp,eli,,2017,neue jonastrasse 79,rapperswil sg
+377,Beatrice De Moustier,Onex,CH,Route De Chancy 98,,,0.0,0.0,0.0,0.0,7000.0,0.0,7000.0,hcp,eli,,2015,route de chancy 98,onex
+53,Beatrice De Moustier,Petit Lancy,CH,Chemin des Esserts 11B,,,,,,,1500.0,,1500.0,hcp,eli,,2017,chemin des esserts 11b,petit lancy
+98,Beatrice Kuhlmann,Basel,CH,Hirzbodenweg 48,,,,,,202.0,,,202.0,hcp,eli,,2017,hirzbodenweg 48,basel
+210,"Beer, Sandra",Lausanne,CH,Avenue De La Gare 11,,,,,,,600.0,,600.0,hcp,eli,,2016,avenue de la gare 11,lausanne
+176,"Bergmann, lost",Chur,CH,Quaderstrasse 15,,,,,,495.66,,,495.66,hcp,almirall,,2016,quaderstrasse 15,chur
+45,Bernard Chappuis,Burgdorf,CH,Oberburgstrasse 54,,,,,221.0,575.0,,,796.0,hcp,eli,,2017,oberburgstrasse 54,burgdorf
+378,Bernard Chevaux,Vevey,CH,Avenue de la Prairie 3,,,0.0,0.0,152.0,0.0,0.0,0.0,152.0,hcp,eli,,2015,avenue delaware la prairie 3,vevey
+47,Bernard Chevaux,Yverdon-les-Bains,CH,Rue d'Entremonts 11,,,,,175.0,,,,175.0,hcp,eli,,2017,rue d'entremonts 11,yverdon-les-bains
+8,Bernard Favrat,Lausanne,CH,Rue du Bugnon 44,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,rue du bugnon 44,lausanne
+21,Bernard Nater,Lausanne,CH,Chemin des Croix-Rouges 2,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,chemin des croix-rouges 2,lausanne
+5,Bernhard Decard,Basel,CH,Petersgraben 4,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,petersgraben 4,basel
+379,Bernhard Sorg,Wallisellen,CH,Zentralstrasse 6,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,zentralstrasse 6,wallisellen
+177,"Berrut, Eric",Monthey,CH,Avenue du Crochetan 2,,,,,,,1000.0,,1000.0,hcp,almirall,,2016,avenue du crochetan 2,monthey
+211,"Betticher, Daniel",Fribourg,CH,Chemin des Pensionnats 2,,,,,160.0,,1200.0,,1360.0,hcp,eli,,2016,chemin des pensionnats 2,fribourg
+380,Bettina Winzeler,Basel,CH,Petersgraben 4,,,0.0,0.0,0.0,0.0,960.0,0.0,960.0,hcp,eli,,2015,petersgraben 4,basel
+153,Bianca Link,Zürich,CH,Steinwiesstrasse 75,,,,,,571.52,1500.0,,2071.52,hcp,shire,,2017,steinwiesstrasse 75,zuerich
+212,"Bilke-Hentsch, Oliver",Winterthur,CH,Zum Park 20,,,,,,,1100.0,564.0,1664.0,hcp,eli,,2016,zum park 20,winterthur
+319,Björn Becker,St. Gallen,CH,Rorscchacherstrasse 95,,,0.0,0.0,0.0,614.94,0.0,0.0,614.94,hcp,almirall,,2015,rorscchacherstrasse 95,saint gallen
+213,"Blaser, Samuel",Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,,,500.0,1385.0,,,1885.0,hcp,eli,,2016,hug rue gabrielle-perret gentil 4,geneve
+214,"Boehncke, Wolf-Henning",Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,,,4650.0,,4650.0,hcp,eli,,2016,rue gabrielle perret-gentil 4,geneve
+215,"Bohanes, Pierre",Lausanne,CH,Avenue Vinet 28,,,,,160.0,201.0,,,361.0,hcp,eli,,2016,avenue vinet 28,lausanne
+381,Boris Fischer,Zürich,CH,Birmensdorferstr asse 497,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,birmensdorferstr asse 497,zuerich
+216,"Borner, Markus Maximilian",Biel/Bienne,CH,Vogelsang 84,,,,,,,2200.0,,2200.0,hcp,eli,,2016,vogelsang 84,biel bienne
+217,"Bourgeois, Robert",Chardonne,CH,Route de Bellevue 3,,,,,,,600.0,,600.0,hcp,eli,,2016,route de bellevue 3,chardonne
+382,Brigitte Uebelhart,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
+65,Bruno Fuchs,Winterthur,CH,Brauerstrasse 15,,,,,,,1000.0,,1000.0,hcp,eli,,2017,brauerstrasse 15,winterthur
+141,Bruno Trossello,Gland,CH,La Lignière 5,,,,,226.0,591.0,,,817.0,hcp,eli,,2017,la ligniere 5,gland
+218,"Capraro, Joel",Aarau,CH,"Haus 7, Tellstrasse 25",,,,,,,840.0,32.0,872.0,hcp,eli,,2016,haus 7 tellstrasse 25,aarau
+320,Carla Murer,Zürich,CH,Gloriastrasse 31,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,almirall,,2015,gloriastrasse 31,zuerich
+383,Carlo Mainetti,Bellinzona,CH,Via Parco 3,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,eli,,2015,via parco 3,bellinzona
+107,Carlo Mainetti,Bellinzona,CH,Via Parco 3,,,,,,,1950.0,,1950.0,hcp,eli,,2017,via parco 3,bellinzona
+384,Catherine Mengis Bay,Brig,CH,"Spitalzentrum Oberwallis, Ueberlandstrasse 14",,,0.0,0.0,276.0,856.0,0.0,0.0,1132.0,hcp,eli,,2015,spitalzentrum oberwallis ueberlandstrasse 14,brigada
+142,Catrina Uhlmann Nussbaum,Olten,CH,Baslerstrasse 150,,,,,,236.0,,,236.0,hcp,eli,,2017,baslerstrasse 150,olten
+219,"Chevaux, Bernard",Vevey,CH,Avenue de la Prairie 3,,,,,160.0,,,,160.0,hcp,eli,,2016,avenue delaware la prairie 3,vevey
+61,Chiara Ferrario,Prilly,CH,Route De Renens 24,,,,,,,2000.0,,2000.0,hcp,eli,,2017,route de renens 24,prilly
+385,Christa Baumann,Bern,CH,Bremgartenstrasse 117,,,0.0,0.0,276.0,856.0,0.0,0.0,1132.0,hcp,eli,,2015,bremgartenstrasse 117,bern
+321,Christa Prins,Onex,CH,Route De Chancy 98,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,route de chancy 98,onex
+386,Christian Herzig,Flawil,CH,Bahnhofstrasse 17,,,0.0,0.0,0.0,0.0,500.0,32.0,532.0,hcp,eli,,2015,bahnhofstrasse 17,flawil
+15,Christian Kamm,Bern,CH,Freiburgstrasse 18,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,freiburgstrasse 18,bern
+322,Christian Kamm,Bern,CH,Freiburgstrasse 18,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,almirall,,2015,freiburgstrasse 18,bern
+17,Christian Kätterer,Basel,CH,Im Burgfelderhof 40,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,im burgfelderhof 40,basel
+323,Christian Kätterer,Basel,CH,In Burgfelderhof 40,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,almirall,,2015,in burgfelderhof 40,basel
+387,Christian Schmidt,Wetzikon Zh,CH,Kirchgasse 4,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,kirchgasse 4,wetzikon zh
+147,Christian Weisshaupt,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstrasse 95",,,,,290.0,933.0,,,1223.0,hcp,eli,,2017,kantonsspital sankt gallen rorschacherstrasse 95,saint gallen
+134,Christina Sparla,Küssnacht am Rigi,CH,Bahnhofstrasse 15,,,,,278.0,307.0,,,585.0,hcp,eli,,2017,bahnhofstrasse 15,kuessnacht am rigi
+137,Christine Maria Thürig,Bern,CH,Monbijoustrasse 10,,,,,306.0,371.0,,,677.0,hcp,eli,,2017,monbijoustrasse 10,bern
+154,Christine Serratrice,Genève,CH,Chemin du Pont Bochet 2,,,,,,,1602.0,648.74,2250.74,hcp,shire,,2017,chemin du pont bochet 2,geneve
+84,Christophe François Hsu,Genève,CH,Boulevard James-Fazy 4,,,,,,,375.0,,375.0,hcp,eli,,2017,boulevard james-fazy 4,geneve
+388,Christophe Grandjean,Moudon,CH,Rue Saint- bernard 4,,,0.0,0.0,0.0,0.0,739.0,658.0,1397.0,hcp,eli,,2015,rue saint bernard 4,moudon
+11,Christophe Henny,Lausanne,CH,Avenue Bergières 2,,,,,,,2000.0,,2000.0,hcp,almirall,,2017,avenue bergieres 2,lausanne
+389,Christopher Strey,St. Gallen,CH,Brauerstrasse 97,,,0.0,0.0,0.0,0.0,2000.0,18.0,2018.0,hcp,eli,,2015,brauerstrasse 97,saint gallen
+26,Claude Vaney,Crans-Montana,CH,Imp. Palace Bellevue 1,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,impasse palace bellevue 1,crans-montana
+220,"Constam, Elisabeth",Winterthur,CH,Wülflingerstrasse 59,,,,,,,600.0,20.0,620.0,hcp,eli,,2016,wuelflingerstrasse 59,winterthur
+221,"Cozzio, Antonio",St. Gallen,CH,"Haus 31, Rorschacherstrasse 95",,,,,,,1375.0,,1375.0,hcp,eli,,2016,haus 31 rorschacherstrasse 95,saint gallen
+390,Cristina Studer,Bern,CH,Bremgartenstrasse 117,,,0.0,0.0,0.0,897.0,0.0,0.0,897.0,hcp,eli,,2015,bremgartenstrasse 117,bern
+222,"Curioni, Alessandra",Zürich,CH,Rämistrasse 100,,,,,241.0,401.0,,,642.0,hcp,eli,,2016,raemistrasse 100,zuerich
+324,Dagmar Simon,Bern,CH,Freiburgstrasse 18,,,0.0,0.0,0.0,667.59,4941.54,0.0,5609.13,hcp,almirall,,2015,freiburgstrasse 18,bern
+32,Daniel Baumhoer,Basel,CH,"Medizinische Fakultät, Schönbeinstrass e 40",,,,,,,800.0,,800.0,hcp,eli,,2017,medizinische fakultaet schoenbeinstrass e 40,basel
+391,Daniel Noth,Unterseen,CH,Spitalweg 1,,,0.0,0.0,0.0,0.0,800.0,188.0,988.0,hcp,eli,,2015,spitalweg 1,unterseen
+325,Daniel Pohl,Zürich,CH,Ränistrasse 100 Universitätsspital Zürich,,,0.0,0.0,0.0,0.0,4087.5,989.59,5077.09,hcp,almirall,,2015,raenistrasse 100 universitaetsspital zuerich,zuerich
+392,Daniel Reding,Baar,CH,Landhausstrasse 11,,,0.0,0.0,381.0,704.0,0.0,0.0,1085.0,hcp,eli,,2015,landhausstrasse 11,baar
+393,Daniel Weil,Bern,CH,Effingerstrasse 17,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,effingerstrasse 17,bern
+326,Daniel Zuder,St. Gallen,CH,St. Leonhard-Strasse 20,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,sankt leonhardstrasse 20,saint gallen
+394,Daniela Sofra,Lausanne,CH,Avenue De La Gare 11,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,avenue de la gare 11,lausanne
+395,David Infanger,Zürich,CH,Witellikerstrasse 36,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,witellikerstrasse 36,zuerich
+396,David Infanger,Zürich,CH,Witellikerstrasse 36,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,witellikerstrasse 36,zuerich
+223,"David, Monique",Epalinges,CH,Route De La Corniche 1,,,,,,,360.0,,360.0,hcp,eli,,2016,route de la corniche 1,epalinges
+224,"De Moustier, Beatrice",Onex,CH,Route De Chancy 98,,,,,,,2000.0,84.0,2084.0,hcp,eli,,2016,route de chancy 98,onex
+178,"Deglmann, Wolfgang Alexander",Liestal,CH,Wasserturmplatz 2,,,,,,495.66,,,495.66,hcp,almirall,,2016,wasserturmplatz 2,liestal
+225,"Delgado, Humberto",Gland,CH,La Lignère 5,,,,,,,1200.0,,1200.0,hcp,eli,,2016,la lignere 5,gland
+327,Delphine Lydie Perruchoud,Bern,CH,Freiburgstrasse 18,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,freiburgstrasse 18,bern
+179,"Denisjuk, Natalja",Herisau,CH,Bahnhofstrasse 21,,,,,,495.66,,,495.66,hcp,almirall,,2016,bahnhofstrasse 21,herisau
+155,Deolinda Alves,Lausanne,CH,Rue Du Bugnon 46,,,,,,888.33,,,888.33,hcp,shire,,2017,rue du bugnon 46,lausanne
+397,Derek Thalmann,Bellach,CH,Kaselfeldstrasse 15,,,0.0,0.0,0.0,0.0,500.0,8.0,508.0,hcp,eli,,2015,kaselfeldstrasse 15,bellach
+180,"Derzi, Rawa",Richterswil,CH,Seestrasse 15b,,,,,,495.66,,,495.66,hcp,almirall,,2016,seestrasse 15b,richterswil
+109,Diana Malin,Sargans,CH,Bahnhofpark 2b,,,,,120.0,,,,120.0,hcp,eli,,2017,bahnhofpark 2b,sargans
+80,Diane Hebert,Nyon,CH,"Hôpital de Zone de Nyon, Chemin Monastier 10",,,,,175.0,,,,175.0,hcp,eli,,2017,hopital de zone de nyon chemin monastier 10,nyon
+398,Didier Delouche,Vevey,CH,Avenue de la Prairie 3,,,0.0,0.0,229.0,704.0,0.0,0.0,933.0,hcp,eli,,2015,avenue delaware la prairie 3,vevey
+400,Didier Jallut,Lausanne,CH,Avenue du Théâtre 7,,,0.0,0.0,152.0,0.0,0.0,0.0,152.0,hcp,eli,,2015,avenue du theatre 7,lausanne
+399,Didier Jallut,Lausanne,CH,Avenue du Théâtre 7,,,0.0,0.0,152.0,0.0,0.0,0.0,152.0,hcp,eli,,2015,avenue du theatre 7,lausanne
+226,"Diem, Peter",Bern,CH,"Inselspital, Freiburgstrasse 18",,,,,,,1260.0,,1260.0,hcp,eli,,2016,inselspital freiburgstrasse 18,bern
+227,"Digklia, Antonia",Lausanne,CH,Rue du Bugnon 46,,,,,603.0,531.0,,,1134.0,hcp,eli,,2016,rue du bugnon 46,lausanne
+86,Dimiter Iliev,Luzern,CH,Haldenstrasse 11,,,,,278.0,642.0,700.0,73.0,1693.0,hcp,eli,,2017,haldenstrasse 11,luzern
+228,"Distler, Oliver",Zürich,CH,Gloriastrasse 25,,,,,,,1440.0,88.0,1528.0,hcp,eli,,2016,gloriastrasse 25,zuerich
+10,Dominique Gisler,Interlaken,CH,Mittengrabenstrasse 34,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,mittengrabenstrasse 34,interlaken
+120,Dominique Piguet,Biel/Bienne,CH,Bahnhofstrasse 14,,,,,306.0,,,,306.0,hcp,eli,,2017,bahnhofstrasse 14,biel bienne
+229,"Dommann, Stephan",Feldmeilen,CH,General Wille- Strasse 59,,,,,,,700.0,,700.0,hcp,eli,,2016,general wille strasse 59,feldmeilen
+230,"Dudler, Jean",Fribourg,CH,Chemin des Pensionnats 2,,,,,,,2400.0,,2400.0,hcp,eli,,2016,chemin des pensionnats 2,fribourg
+231,"Eimers, Jörg",Luzern,CH,Tribschenstrasse 21,,,,,,,800.0,,800.0,hcp,eli,,2016,tribschenstrasse 21,luzern
+95,Elena Kralidis,Aarau,CH,"Haus 40, Tellstrasse 25",,,,,,245.0,,,245.0,hcp,eli,,2017,haus 40 tellstrasse 25,aarau
+410,Elisabeth Constam,Winterthur,CH,Wülflingerstrasse 59,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,wuelflingerstrasse 59,winterthur
+50,Elisabeth Constam,Nürensdorf,CH,Haldenweidstrasse 5,,,,,,,600.0,,600.0,hcp,eli,,2017,haldenweidstrasse 5,nuerensdorf
+126,Emanuela Salati,Monthey,CH,Route de Morgins 54,,,,,306.0,,,,306.0,hcp,eli,,2017,route de morgins 54,monthey
+100,Emmanuel Laffitte,Genève,CH,"Service de dermatologie, Rue Gabrielle- Perret-Gentil 4",,,,,,,3900.0,,3900.0,hcp,eli,,2017,service de dermatologie rue gabrielle perret-gentil 4,geneve
+411,Emmanuel Laffitte,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,0.0,0.0,0.0,0.0,2100.0,0.0,2100.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
+412,Eric Guth,Aigle,CH,Rue de la Fontaine 3,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,rue de la fontaine 3,aigle
+413,Eric Raymond,Lausanne,CH,Rue du Bugnon 27,,,0.0,0.0,0.0,0.0,5310.0,0.0,5310.0,hcp,eli,,2015,rue du bugnon 27,lausanne
+475,Erich Seifritz,Zürich,CH,Lenggstrasse 31,,,0.0,0.0,0.0,0.0,10700.0,0.0,10700.0,hcp,eli,,2015,lenggstrasse 31,zuerich
+25,Eugen Paul Scheidegger,Brugg AG,CH,Bahnhofstrasse 25,,,,,,,500.0,,500.0,hcp,almirall,,2017,bahnhofstrasse 25,brugg ag
+414,Eugenio Fernandez,Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,0.0,0.0,152.0,1014.0,0.0,0.0,1166.0,hcp,eli,,2015,hug rue gabrielle-perret gentil 4,geneve
+112,Fabienne Matthys,Vevey,CH,Rue De Fribourg 40,,,,,,,360.0,,360.0,hcp,eli,,2017,rue de fribourg 40,vevey
+43,Fabio Cattaneo,Lugano,CH,Via Soldino 7,,,,,,,1000.0,,1000.0,hcp,eli,,2017,via soldino 7,lugano
+28,Farah Ahmanna Chakir,Fribourg,CH,Chemin des Pensionnats 2,,,,,,893.0,,,893.0,hcp,eli,,2017,chemin des pensionnats 2,fribourg
+232,"Farkas, Arpad",Glattbrugg,CH,Schaffhauserstrasse 99,,,,,,,700.0,,700.0,hcp,eli,,2016,schaffhauserstrasse 99,glattbrugg
+317,"Fassbender, Walter Josef",Zürich,CH,Wolfbachstrasse 17,,,,,,1320.82,1651.0,,2971.82,hcp,shire,,2016,wolfbachstrasse 17,zuerich
+233,"Faulenbach, Mirjam",Zürich,CH,Witellikerstrasse 36,,,,,,,1000.0,,1000.0,hcp,eli,,2016,witellikerstrasse 36,zuerich
+415,Felix Kühn,Luzern,CH,Weggisgasse 40,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,weggisgasse 40,luzern
+416,Ferenc Rákóczy,Lausanne,CH,Place Grand-St- Jean 1,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,place grand-st jean 1,lausanne
+234,"Ferrario, Chiara",Renens VD,CH,Avenue du quatorze Avril 12,,,,,,,1400.0,,1400.0,hcp,eli,,2016,avenue du 14 avril 12,renens van den
+181,"Filli, Linard",Zürich,CH,Frauenklinikstrasse 26,,,,,,,1084.93,464.57,1549.5,hcp,almirall,,2016,frauenklinikstrasse 26,zuerich
+328,Findling Oliver,Aarau,CH,Tellstrasse,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,almirall,,2015,tellstrasse,aarau
+417,Francesco Martucci,Bellinzona,CH,Via Ospedale,,,0.0,0.0,381.0,704.0,0.0,0.0,1085.0,hcp,eli,,2015,via ospedale,bellinzona
+118,Francesco Pelloni,Lugano,CH,Via Carlo Frasca 10,,,,,,,800.0,,800.0,hcp,eli,,2017,via carlo frasca 10,lugano
+330,Frank Schumacher,Frauenfeld,CH,Rüegerholzstrasse 3,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,rueegerholzstrasse 3,frauenfeld
+418,François Kuntschen,Monthey,CH,Avenue de la Gare 36,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,avenue de la gare 36,monthey
+329,François Kuonen,Lausanne,CH,Avenue de Beaumont 29,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,almirall,,2015,avenue de beaumont 29,lausanne
+419,François Mach,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,0.0,0.0,0.0,0.0,1400.0,284.0,1684.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
+156,François Spertini,Lausanne,CH,Rue Du Bugnon 46,,,,,,,1650.0,,1650.0,hcp,shire,,2017,rue du bugnon 46,lausanne
+235,"French, Lars",Zürich,CH,Gloriastrasse 31,,,,,,,1275.0,,1275.0,hcp,eli,,2016,gloriastrasse 31,zuerich
+182,"Freund-Kissling, Suzanne",Lenzburg,CH,Aarauerstrasse 8,,,,,,495.66,,,495.66,hcp,almirall,,2016,aarauerstrasse 8,lenzburg
+236,"Frisoni, Giovanni",Les Acacias,CH,Rue des Epinettes 19,,,,,,,,1249.0,1249.0,hcp,eli,,2016,rue des epinettes 19,les acacias
+237,"Froesch, Patrizia",Locarno,CH,Via all'Ospedale 1,,,,,,,1200.0,,1200.0,hcp,eli,,2016,via allospedale 1,locarno
+238,"Fuchs, Bruno",Zürich,CH,Forchstrasse 340,,,,,,,,239.0,239.0,hcp,eli,,2016,forchstrasse 340,zuerich
+239,"Gabay, Cem",Genève,CH,Avenue Beau- Séjour,,,,,,,2400.0,,2400.0,hcp,eli,,2016,avenue beau sejour,geneve
+420,Gabriele Cola,Aigle,CH,Rue de la Gare 4a,,,0.0,0.0,0.0,0.0,500.0,57.0,557.0,hcp,eli,,2015,rue de la gare 4a,aigle
+240,"Gastaldi, Giacomo",Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,,,1000.0,,1000.0,hcp,eli,,2016,rue gabrielle perret-gentil 4,geneve
+183,"Gaus, Barbara",St. Gallen,CH,Kugelgasse 8,,,,,,495.66,,,495.66,hcp,almirall,,2016,kugelgasse 8,saint gallen
+241,"Gay, Steffen",Zürich,CH,Gloriastrasse 25,,,,,,,1000.0,,1000.0,hcp,eli,,2016,gloriastrasse 25,zuerich
+242,"Georgescu, Dan",Windisch,CH,Zürcherstrasse 241,,,,,,,960.0,,960.0,hcp,eli,,2016,zuercherstrasse 241,windisch
+66,Giacomo Gastaldi,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,,,1000.0,,1000.0,hcp,eli,,2017,rue gabrielle perret-gentil 4,geneve
+422,Giacomo Gastaldi,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
+423,Giovanni Colpi,Lugano,CH,Via Clemente Maraini 8,,,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0,hcp,eli,,2015,via clemente maraini 8,lugano
+64,Giovanni Frisoni,Les Acacias,CH,Rue des Épinettes 19,,,,,,,,755.0,755.0,hcp,eli,,2017,rue des epinettes 19,les acacias
+424,Giovanni Frisoni,Thônex,CH,Chemin du Pont- Bochet 3,,,0.0,0.0,1545.0,0.0,0.0,887.0,2432.0,hcp,eli,,2015,chemin du pont bochet 3,thonex
+243,"Girardin, Céline Michèle",Onex,CH,Route De Chancy 98,,,,,39.0,350.0,,,389.0,hcp,eli,,2016,route de chancy 98,onex
+331,Giulio Disanto,Lugano,CH,Via Tesserete 46,,,0.0,0.0,0.0,889.8,0.0,0.0,889.8,hcp,almirall,,2015,via tesserete 46,lugano
+244,"Golay, Alain",Genève,CH,"Villa Soleillane, Chemin Venel 7",,,,,,,3160.0,918.0,4078.0,hcp,eli,,2016,villa soleillane chemin venel 7,geneve
+425,Gregory Wirth,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
+245,"Grillet, Jean-Pierre",Genève,CH,Chemin de Beau- Soleil 12,,,,,,,700.0,,700.0,hcp,eli,,2016,chemin de beau soleil 12,geneve
+246,"Guardia, Alberto",Grand Lancy,CH,Chemin Des Pontets 17,,,,,,,2600.0,,2600.0,hcp,eli,,2016,chemin des pontets 17,grand lancy
+247,"Gwerder, Christoph",Bern,CH,Monbijoustrasse 10,,,,,500.0,954.0,,,1454.0,hcp,eli,,2016,monbijoustrasse 10,bern
+421,Gérard Dorsaz,Clarens,CH,Rue des Vaudrès 5,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,rue des vaudres 5,clarens
+78,Hans Jörg Häuselmann,Zürich,CH,Seestrasse 220,,,,,,,2500.0,,2500.0,hcp,eli,,2017,seestrasse 220,zuerich
+12,Hans Jürg Huber,Würenlos,CH,Juchstrasse 15,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,juchstrasse 15,wuerenlos
+85,Hans-Dieter Hüllstrung,Liestal,CH,Weierweg 7,,,,,,630.0,,,630.0,hcp,eli,,2017,weierw 7,liestal
+426,Hansjörg Häuselmann,Zürich,CH,Bellariastrasse 38,,,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0,hcp,eli,,2015,bellariastrasse 38,zuerich
+185,"Hebel, Thomas",St. Gallen,CH,St. Leonhard-Strasse 20,,,,,,495.66,,,495.66,hcp,almirall,,2016,sankt leonhardstrasse 20,saint gallen
+250,"Hebert, Diane",Nyon,CH,"de Nyon, Chemin Monastier 10",,,,,241.0,,,,241.0,hcp,eli,,2016,de nyon chemin monastier 10,nyon
+157,Heidi Martin-Braschler,Gossau SG,CH,Friedbergstrasse 1,,,,,,533.25,,,533.25,hcp,shire,,2017,friedbergstrasse 1,gossau sargento segundo
+99,Heike Labud,Yverdon-les-Bains,CH,Rue d'Entremonts 11,,,,,,,360.0,,360.0,hcp,eli,,2017,rue d'entremonts 11,yverdon-les-bains
+251,"Hirsbrunner, Pia",Zürich,CH,Hegarstrasse 18,,,,,,,1080.0,,1080.0,hcp,eli,,2016,hegarstrasse 18,zuerich
+252,"Hobi, Alexandre",Chernex,CH,"Les Villageoises B, Route de Chaulin 24",,,,,,,600.0,,600.0,hcp,eli,,2016,les villageoises b route de chaulin 24,chernex
+253,"Hochstrasser, Andreas",Männedorf,CH,Asylstrasse 10,,,,,,,600.0,,600.0,hcp,eli,,2016,asylstrasse 10,maennedorf
+254,"Honegger, Regula",Horgen,CH,Seestrasse 117,,,,,,,750.0,,750.0,hcp,eli,,2016,seestrasse 117,horgen
+186,"Hradiskä, Andrea",Zürich,CH,Lintheschergasse 3,,,,,,495.66,,,495.66,hcp,almirall,,2016,lintheschergasse 3,zuerich
+255,"Hsu, Christophe François",Genève,CH,Boulevard James-Fazy 4,,,,,,,625.0,,625.0,hcp,eli,,2016,boulevard james-fazy 4,geneve
+427,Humberto Delgado,Gland,CH,La Lignière 5,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,la ligniere 5,gland
+54,Humberto Delgado,Gland,CH,La Lignière 5,,,,,,,,47.0,47.0,hcp,eli,,2017,la ligniere 5,gland
+184,"Härtel, Annett",Basel,CH,Beim Goldenen Löwen 13,,,,,,495.66,,,495.66,hcp,almirall,,2016,beim goldenen loewen 13,basel
+248,"Häuselmann, Hans Jörg",Zürich,CH,Bellariastrasse 38,,,,,,,4700.0,,4700.0,hcp,eli,,2016,bellariastrasse 38,zuerich
+249,"Häusermann, Peter",Basel,CH,Petersgraben 4,,,,,,,1375.0,,1375.0,hcp,eli,,2016,petersgraben 4,basel
+187,"Hübscher, Eugen",Biel/Bienne,CH,Dufourstrasse 17,,,,,,,800.0,,800.0,hcp,almirall,,2016,dufourstrasse 17,biel bienne
+256,"Hügle, Thomas",Basel,CH,Hirschgässlein 11-15,,,,,,,1000.0,,1000.0,hcp,eli,,2016,hirschgaesslein 11-15,basel
+257,"Hüllstrung, Hans Dieter",Liestal,CH,Weierweg 7,,,,,,,800.0,,800.0,hcp,eli,,2016,weierw 7,liestal
+24,Ieva Saulite,St. Gallen,CH,Rorschacherstrasse 95,,,,,,423.72,,,423.72,hcp,almirall,,2017,rorschacherstrasse 95,saint gallen
+103,Ingrid Linder,Uster,CH,Brunnenstrasse 42,,,,,,,360.0,,360.0,hcp,eli,,2017,brunnenstrasse 42,uster
+332,Irene Guldenschuh,Zürich,CH,Birmensdorferstrasse 1,,,0.0,0.0,0.0,614.94,0.0,0.0,614.94,hcp,almirall,,2015,birmensdorferstrasse 1,zuerich
+428,Isabella Sudano,Zürich,CH,Rämistrasse 100,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,eli,,2015,raemistrasse 100,zuerich
+188,"Izakovic, Jan",Basel,CH,Gempenstrasse 2a,,,,,,495.66,,,495.66,hcp,almirall,,2016,gempenstrasse 2a,basel
+333,Jacqueline Perriard,Genève,CH,Avenue de Frontenex 34,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,avenue de frontenex 34,geneve
+1,Jan Adolphsen,Crans-Montana,CH,Imp. Palace Bellevue 1,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,impasse palace bellevue 1,crans-montana
+334,Janek Binek,St. Gallen,CH,Rosenbergstrasse 42b,,,0.0,0.0,0.0,614.94,0.0,0.0,614.94,hcp,almirall,,2015,rosenbergstrasse 42b,saint gallen
+105,Jann Lübbe,Nyon,CH,Rue Saint-jean 4,,,,,,,700.0,,700.0,hcp,eli,,2017,rue saint-jean 4,nyon
+158,Jasmine Nötzli,Lausanne,CH,Avenue de Rumine 35,,,,,225.25,545.75,,,771.0,hcp,shire,,2017,avenue de rumine 35,lausanne
+57,Jean Dudler,Fribourg,CH,Chemin des Pensionnats 2,,,,,,,5400.0,,5400.0,hcp,eli,,2017,chemin des pensionnats 2,fribourg
+429,Jean-François Anex,Aigle,CH,Place Du Centenaire 3,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,place du centenaire 3,aigle
+430,Jean-Jacques Grimm,Delémont,CH,Rue du Temple 45,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,rue du temple 45,delemont
+159,Jean-Marc Waldburger,Confignon,CH,Route de Loëx 99,,,,,560.5,2107.22,,,2667.72,hcp,shire,,2017,route de loex 99,confignon
+3,Jean-Marie Annoni,Fribourg,CH,Chemins des Pensionnats 2,,,,,,,2000.0,,2000.0,hcp,almirall,,2017,chemins des pensionnats 2,fribourg
+431,Jean-Pierre Randin,Lausanne,CH,Avenue de Rumine 35,,,0.0,0.0,0.0,0.0,800.0,24.0,824.0,hcp,eli,,2015,avenue de rumine 35,lausanne
+122,Jean-Pierre Randin,Lausanne,CH,Avenue de Rumine 35,,,,,,,600.0,,600.0,hcp,eli,,2017,avenue de rumine 35,lausanne
+432,Jean-Pierre Walker,Neuchâtel,CH,Rue du Trésor 9,,,0.0,0.0,0.0,0.0,1800.0,221.0,2021.0,hcp,eli,,2015,rue du tresor 9,neuchatel
+123,Jeannine Rinderknecht,St. Gallen,CH,"Haus 31, Rorschacherstrasse 95",,,,,278.0,463.0,,,741.0,hcp,eli,,2017,haus 31 rorschacherstrasse 95,saint gallen
+23,Jens Petersen,Zürich,CH,Frauenklinikstrasse 26,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,frauenklinikstrasse 26,zuerich
+335,Jens Vorndamm,St. Gallen,CH,Rorschacherstrasse 95,,,0.0,0.0,0.0,614.94,0.0,0.0,614.94,hcp,almirall,,2015,rorschacherstrasse 95,saint gallen
+258,"Jochum, Wolfram",St. Gallen,CH,Rorschacherstrasse 95,,,,,,,800.0,,800.0,hcp,eli,,2016,rorschacherstrasse 95,saint gallen
+160,Johannes Rischewski,Luzern,CH,Spitalstrasse 16,,,,,,,1350.0,892.6,2242.6,hcp,shire,,2017,spitalstrasse 16,luzern
+336,Jonas Zeitz,Zürich,CH,Rämistrasse 100,,,0.0,0.0,0.0,614.94,0.0,0.0,614.94,hcp,almirall,,2015,raemistrasse 100,zuerich
+338,Jost Bergmann,Chur,CH,Quaderstrasse 15,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,quaderstrasse 15,chur
+337,José Bengoa,Genève,CH,Chemin de Beau-Soleil 12,,,0.0,0.0,0.0,614.94,0.0,0.0,614.94,hcp,almirall,,2015,chemin de beau-soleil 12,geneve
+42,Joël Capraro,Aarau,CH,Tellstrasse 25,,,,,,,600.0,,600.0,hcp,eli,,2017,tellstrasse 25,aarau
+136,Judit-Maria Steinmann,Basel,CH,Henric Petristrasse 19,,,,,278.0,525.0,,,803.0,hcp,eli,,2017,henric petristrasse 19,basel
+161,Julia Aguade Gorgorio,Zürich,CH,Steinwiesstrasse 75,,,,,,1271.35,,,1271.35,hcp,shire,,2017,steinwiesstrasse 75,zuerich
+56,Julien Ducry,Fribourg,CH,"Hôpital Cantonal Fribourg, Chemin des Pensionnats 2",,,,,263.0,574.0,,,837.0,hcp,eli,,2017,hopital cantonal fribourg chemin des pensionnats 2,fribourg
+58,Jörg Eimers,Gisikon,CH,Wissehrli 1b,,,,,,,1250.0,,1250.0,hcp,eli,,2017,wissehrli 1b,gisikon
+433,Jörn Kamradt,Bern,CH,Schänzlihalde 1,,,0.0,0.0,0.0,0.0,2800.0,0.0,2800.0,hcp,eli,,2015,schaenzlihalde 1,bern
+434,Jörn Kamradt,Bern,CH,Schänzlihalde 1,,,0.0,0.0,0.0,0.0,2800.0,0.0,2800.0,hcp,eli,,2015,schaenzlihalde 1,bern
+435,Jürg Zollikofer,Ossingen,CH,Truttikerstrasse 19,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,truttikerstrasse 19,ossingen
+162,Kai M. Rösler,Bern,CH,Freiburgstrasse 18,,,,,,,1500.0,,1500.0,hcp,shire,,2017,freiburgstrasse 18,bern
+436,Karin Oberbörsch,Zürich,CH,Gottfried Keller- Strasse 7,,,0.0,0.0,0.0,0.0,400.0,0.0,400.0,hcp,eli,,2015,gottfried keller strasse 7,zuerich
+189,"Kassouha, Ammar",Uster,CH,Avenue de Beau-Sejour 26,,,,,,,1000.0,,1000.0,hcp,almirall,,2016,avenue de beau-sejour 26,uster
+59,Kathrin Ernst,Bern,CH,Bremgartenstrasse 117,,,,,120.0,,,,120.0,hcp,eli,,2017,bremgartenstrasse 117,bern
+339,Katja Stoycheva Ivanova,Basel,CH,Petersgraben 4,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,almirall,,2015,petersgraben 4,basel
+259,"Keller, Isabelle",Winterthur,CH,Brauerstrasse 15,,,,,,,1000.0,,1000.0,hcp,eli,,2016,brauerstrasse 15,winterthur
+33,Kerstin Beauregard,Liestal,CH,Mühlegasse 3,,,,,278.0,307.0,,,585.0,hcp,eli,,2017,muehlegasse 3,liestal
+163,Kerstin Hagemann Gysling,Bern,CH,Freiburgstrasse 18,,,,,,,,1151.25,1151.25,hcp,shire,,2017,freiburgstrasse 18,bern
+340,Kerstin Haufe,Ibach,CH,Gotthardstrasse 62,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,gotthardstrasse 62,ibach
+191,"Krasovec Rahmann, Marguerite",Schlieren,CH,Uitikonerstrasse 9,,,,,,495.66,,,495.66,hcp,almirall,,2016,uitikonerstrasse 9,schlieren
+22,Krassen Nedeltchev,Aarau,CH,Tellstrasse,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,tellstrasse,aarau
+190,"Kränzlin, Pascale",Zürich,CH,Gloriastrasse 31,,,,,,600.8,,,600.8,hcp,almirall,,2016,gloriastrasse 31,zuerich
+261,"Kubli, Sandrine",Monthey,CH,Avenue de la Gare 36,,,,,,,1000.0,,1000.0,hcp,eli,,2016,avenue de la gare 36,monthey
+262,"Kuntschen, François",Monthey,CH,Avenue de la Gare 36,,,,,,,1200.0,,1200.0,hcp,eli,,2016,avenue de la gare 36,monthey
+260,"Kössler, Thibaud",Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,,,720.0,524.0,800.0,,2044.0,hcp,eli,,2016,hug rue gabrielle-perret gentil 4,geneve
+192,"Kündig, Thomas",Zürich,CH,Gloriastrasse 31,,,,,,495.66,,,495.66,hcp,almirall,,2016,gloriastrasse 31,zuerich
+263,"Labud, Heike",Yverdon-les-Bains,CH,Rue d'Entremonts 11,,,,,,,360.0,,360.0,hcp,eli,,2016,rue d'entremonts 11,yverdon-les-bains
+264,"Laffitte, Emmanuel",Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,,,1750.0,,1750.0,hcp,eli,,2016,rue gabrielle perret-gentil 4,geneve
+265,"Lampert, Markus",Olten,CH,Baslerstrasse 150,,,,,,,800.0,,800.0,hcp,eli,,2016,baslerstrasse 150,olten
+266,"Lapointe, Anne-Karine",Lausanne,CH,Avenue du Théatre 7,,,,,,,700.0,,700.0,hcp,eli,,2016,avenue du theatre 7,lausanne
+63,Lars French,Zürich,CH,Gloriastrasse 31,,,,,,,3750.0,,3750.0,hcp,eli,,2017,gloriastrasse 31,zuerich
+437,Lars French,Zürich,CH,Gloriastrasse 31,,,0.0,0.0,0.0,0.0,3150.0,0.0,3150.0,hcp,eli,,2015,gloriastrasse 31,zuerich
+4,Laura Boroleanu,Neuchâtel,CH,Rue J.-J.-Lallemand 11,,,,,,,800.0,,800.0,hcp,almirall,,2017,rue j.-j.-lallemand 11,neuchatel
+31,Laurence Bastien Pournaras,Lausanne,CH,Chemin de Pré- Fleuri 6,,,,,,,3000.0,,3000.0,hcp,eli,,2017,chemin de professeure fleuri 6,lausanne
+438,Laurent Rosset,Fribourg,CH,Route de Villars 37,,,0.0,0.0,276.0,889.0,0.0,0.0,1165.0,hcp,eli,,2015,route de villars 37,fribourg
+341,Laurent Schouler,Les Avanchets,CH,Rue du Grand-Bay 15,,,0.0,0.0,0.0,778.8,0.0,0.0,778.8,hcp,almirall,,2015,rue du grand-bay 15,les avanchets
+193,"Lautner, Reinhold",Aarau,CH,Bahnhofplatz 3c,,,,,300.0,,,,300.0,hcp,almirall,,2016,bahnhofplatz 3c,aarau
+439,Lea Slahor,Luzern,CH,"Kantonsspital Luzern, Spitalstrasse",,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,kantonsspital luzern spitalstrasse,luzern
+267,"Lechmann, Armin",Gossau SG,CH,St. Gallerstrasse 124,,,,,,,600.0,,600.0,hcp,eli,,2016,sankt gallerstrasse 124,gossau sargento segundo
+342,Letizia Panicari,Lugano,CH,Via Tesserete 46,,,0.0,0.0,0.0,243.0,0.0,0.0,243.0,hcp,almirall,,2015,via tesserete 46,lugano
+314,"Link, Bianca",Zürich,CH,Steinwiesenstrasse 75,,,,,,1006.38,3298.72,,4305.0999999999985,hcp,shire,,2016,steinwiesenstrasse 75,zuerich
+39,Lorenzo Bosia,Locarno,CH,Via Castelrotto 18B,,,,,,,800.0,,800.0,hcp,eli,,2017,via castelrotto 18b,locarno
+76,Loretta Hasler,Biel/Bienne,CH,Hans-Hugi- Strasse 3,,,,,290.0,749.0,,,1039.0,hcp,eli,,2017,hans-hugi strasse 3,biel bienne
+440,Luciano Wannesson,Mendrisio,CH,"OBV - Ospedale Beata Vergine, Via Alfonso Turconi 23",,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,eli,,2015,obv ospedale beata vergine via alfonso turconi 23,mendrisio
+113,Ludivine Mercier- Vogel,Delémont,CH,Faubourg des Capucins 30,,,,,175.0,,,,175.0,hcp,eli,,2017,faubourg des capucins 30,delemont
+145,Lukas Villiger,Baden Dättwil,CH,Mellingerstrasse 207,,,,,,,2350.0,,2350.0,hcp,eli,,2017,mellingerstrasse 207,baden daettwil
+401,Lukas Villiger,Dättwil Ag,CH,Mellingerstrasse 207,,,0.0,0.0,0.0,0.0,900.0,0.0,900.0,hcp,eli,,2015,mellingerstrasse 207,daettwil ag
+149,Lukas Wildi,Winterthur,CH,Brauerstrasse 15,,,,,,,750.0,,750.0,hcp,eli,,2017,brauerstrasse 15,winterthur
+119,Luz Perrenoud,Genève,CH,Rue Willy-donzé 6,,,,,,,1830.0,,1830.0,hcp,eli,,2017,rue willy-donze 6,geneve
+441,Luz Perrenoud,Genève,CH,Rue Willy-Donzé 6,,,0.0,0.0,0.0,0.0,1545.0,0.0,1545.0,hcp,eli,,2015,rue willy-donze 6,geneve
+315,"Lückl-Boyer, Christina Theresia",Wünnewil,CH,Altschlossmatte 17,,,,,,807.07,,,807.07,hcp,shire,,2016,altschlossmatte 17,wuennewil
+268,"Mach, Nicolas",Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,,,277.0,,1200.0,,1477.0,hcp,eli,,2016,hug rue gabrielle-perret gentil 4,geneve
+269,"Mainetti, Carlo",Bellinzona,CH,Via Parco 3,,,,,,,1500.0,,1500.0,hcp,eli,,2016,via parco 3,bellinzona
+87,Manuel Urs Jeschko- Flückiger,Bern,CH,Schänzlihalde 11,,,,,,553.0,,,553.0,hcp,eli,,2017,schaenzlihalde 11,bern
+6,Manuela Diederich,Basel,CH,Petersgraben 4,,,,,,,500.0,,500.0,hcp,almirall,,2017,petersgraben 4,basel
+121,Manuela Pinto- Ventura,Fribourg,CH,Stadtberg 1,,,,,,,360.0,,360.0,hcp,eli,,2017,stadtberg 1,fribourg
+442,Manuela Rabaglio-Poretti,Bern,CH,"Inselspital, Freiburgstrasse 18",,,0.0,0.0,229.0,704.0,0.0,0.0,933.0,hcp,eli,,2015,inselspital freiburgstrasse 18,bern
+55,Marc Donath,Basel,CH,Petersgraben 4,,,,,,,1260.0,,1260.0,hcp,eli,,2017,petersgraben 4,basel
+443,Marc Donath,Basel,CH,Petersgraben 4,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,eli,,2015,petersgraben 4,basel
+62,Marc Fouradoulas,Adliswil,CH,Webereistrasse 49,,,,,,,1000.0,76.0,1076.0,hcp,eli,,2017,webereistrasse 49,adliswil
+444,Marc Wisard,Lausanne,CH,Rue de la Vigie 5,,,0.0,0.0,0.0,0.0,3400.0,0.0,3400.0,hcp,eli,,2015,rue de la vigie 5,lausanne
+29,Marco Albanese,Luzern,CH,Pilatusstrasse 3a/5,,,,,,,600.0,235.0,835.0,hcp,eli,,2017,pilatusstrasse 3a 5,luzern
+205,"Marco, Albanese",Luzern,CH,St. Annastrasse 32,,,,,,,600.0,99.0,699.0,hcp,eli,,2016,sankt annastrasse 32,luzern
+130,Marcus Klaus Charles Schories,Basel,CH,Gellertstrasse 142,,,,,,,1350.0,,1350.0,hcp,eli,,2017,gellertstrasse 142,basel
+445,Marcus Klaus Charles Schories,Basel,CH,Gellertstrasse 142,,,0.0,0.0,0.0,0.0,1600.0,79.0,1679.0,hcp,eli,,2015,gellertstrasse 142,basel
+446,Marcus Rosenhagen,Prangins,CH,chemin Oscar Forel 3,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,chemin oscar forel 3,prangins
+96,Marguerite Krasovec Rahmann,Schlieren,CH,"Lilie Zentrum, Uitikonerstrasse 9",,,,,311.0,718.0,,,1029.0,hcp,eli,,2017,lilie zentrum uitikonerstrasse 9,schlieren
+97,Marie-Noëlle Kronig,Bern,CH,"Inselspital, Freiburgstrasse 18",,,,,366.0,529.0,,,895.0,hcp,eli,,2017,inselspital freiburgstrasse 18,bern
+447,Marie-Noëlle Kronig,Brig,CH,"Spitalzentrum Oberwallis, Ueberlandstrasse 14",,,0.0,0.0,217.0,1023.0,0.0,0.0,1240.0,hcp,eli,,2015,spitalzentrum oberwallis ueberlandstrasse 14,brigada
+343,Mariia Bär,Zürich,CH,Kalanderplatz 1,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,kalanderplatz 1,zuerich
+30,Mark David Anliker,Münsterlingen,CH,"Kantonsspital Münsterlingen, Spitalcampus 1",,,,,,,700.0,,700.0,hcp,eli,,2017,kantonsspital muensterlingen spitalcampus 1,muensterlingen
+7,Mark Emmenegger,Agno,CH,World Trade Center,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,world trade center,agno
+164,Markus Lampert,Basel,CH,Peterplatz,,,,,,133.48,856.41,391.99,1381.88,hcp,shire,,2017,peterplatz,basel
+448,Markus Maximilian Borner,Biel/bienne,CH,Vogelsang 84,,,0.0,0.0,0.0,0.0,6500.0,0.0,6500.0,hcp,eli,,2015,vogelsang 84,biel bienne
+344,Markus Sagmeister,Heerbrugg,CH,Auerstrasse 2,,,0.0,0.0,0.0,614.94,0.0,0.0,614.91,hcp,almirall,,2015,auerstrasse 2,heerbrugg
+345,Markus Weber,St. Gallen,CH,Greithstrasse 20,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,almirall,,2015,greithstrasse 20,saint gallen
+14,Martin Kägi,Zürich,CH,Schaffhauserstrasse 355,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,schaffhauserstrasse 355,zuerich
+90,Martin Kägi,Zürich,CH,Schaffhauserstrasse 355,,,,,311.0,541.0,2600.0,750.0,4202.0,hcp,eli,,2017,schaffhauserstrasse 355,zuerich
+346,Matthias Regli,Interlaken,CH,Marktgasse 1,,,0.0,0.0,415.8,1427.74,0.0,0.0,1843.54,hcp,almirall,,2015,marktgasse 1,interlaken
+347,Matthias Sturzenegger,Bern,CH,Freiburgstrasse 18,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,almirall,,2015,freiburgstrasse 18,bern
+165,Matthias Sturzenegger,Bern,CH,Inselspital Neurologische Universitätsklinik,,,,,,,1500.0,,1500.0,hcp,shire,,2017,inselspital neurologische universitaetsklinik,bern
+143,Matthias Umbricht,Winterthur,CH,Stadthausstrasse 45,,,,,290.0,897.0,,,1187.0,hcp,eli,,2017,stadthausstrasse 45,winterthur
+449,Matthias Zimmermann,Zürich,CH,Birmensdorferstr asse 497,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,birmensdorferstr asse 497,zuerich
+270,"Matthys, Fabienne",Vevey,CH,Rue De Fribourg 40,,,,,,,360.0,,360.0,hcp,eli,,2016,rue de fribourg 40,vevey
+402,Mauro Dünki,Zollikerberg,CH,Trichtenhauserstr asse 2,,,0.0,0.0,0.0,0.0,500.0,25.0,525.0,hcp,eli,,2015,trichtenhauserstr asse 2,zollikerberg
+348,Maya Ziegler,Zürich,CH,Gloriastrasse 31,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,gloriastrasse 31,zuerich
+271,"Meier, Christian",Basel,CH,Missionsstrasse 24,,,,,,,1500.0,70.0,1570.0,hcp,eli,,2016,missionsstrasse 24,basel
+272,"Mengis Bay, Catherine",Brig,CH,"Spitalzentrum Oberwallis, Ueberlandstrasse 14",,,,,241.0,201.0,,,442.0,hcp,eli,,2016,spitalzentrum oberwallis ueberlandstrasse 14,brigada
+450,Michael Bagattini,Glattbrugg,CH,Thurgauerstrasse 106,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,thurgauerstrasse 106,glattbrugg
+451,Michael Brändle,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstrasse 95",,,0.0,0.0,0.0,0.0,0.0,311.0,311.0,hcp,eli,,2015,kantonsspital sankt gallen rorschacherstrasse 95,saint gallen
+40,Michael Brändle,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Strasse 95",,,,,,,1260.0,127.0,1387.0,hcp,eli,,2017,kantonsspital sankt gallen rorschacher strasse 95,saint gallen
+349,Michael Fried,Zürich,CH,Ränistrasse 100,,,0.0,0.0,0.0,0.0,5372.92,891.17,6264.09,hcp,almirall,,2015,raenistrasse 100,zuerich
+453,Michael Krause,Zürich,CH,Goethestrasse 24,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,goethestrasse 24,zuerich
+452,Michael Krause,Zürich,CH,Goethestrasse 24,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,goethestrasse 24,zuerich
+115,Michael Nissen,Genève,CH,Avenue de Beau- Séjour 26,,,,,,,3700.0,538.0,4238.0,hcp,eli,,2017,avenue de beau sejour 26,geneve
+68,Michel Gilliet,Lausanne,CH,Avenue de Beaumont 29,,,,,,,,249.0,249.0,hcp,eli,,2017,avenue de beaumont 29,lausanne
+403,Michel Hochuli,Zürich,CH,Rämistrasse 100,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,raemistrasse 100,zuerich
+166,Michel Magistris,Genève,CH,Rue Michel-Servet 1,,,,,,,2099.0,,2099.0,hcp,shire,,2017,rue michel-servet 1,geneve
+116,Michel Oberson,Biasca,CH,Piazzetta Cavalier Pellanda 1,,,,,297.0,589.0,,,886.0,hcp,eli,,2017,piazzetta cavalier pellanda 1,biasca
+454,Monique David,Epalinges,CH,Route De La Corniche 1,,,0.0,0.0,0.0,0.0,576.0,0.0,576.0,hcp,eli,,2015,route de la corniche 1,epalinges
+52,Monique David,Epalinges,CH,Route de la Corniche 1,,,,,,,360.0,,360.0,hcp,eli,,2017,route de la corniche 1,epalinges
+273,"Monsch, Andreas",Basel,CH,Burgfelderstrasse 101,,,,,,,,743.0,743.0,hcp,eli,,2016,burgfelderstrasse 101,basel
+274,"Montavon Salomon, Nicole",Genève,CH,Rue Pédro-Meylan 1,,,,,,,600.0,,600.0,hcp,eli,,2016,rue pedro-meylan 1,geneve
+275,"Moosmann, Peter",Aarau,CH,Tellstrasse 25,,,,,,,600.0,,600.0,hcp,eli,,2016,tellstrasse 25,aarau
+276,"Muggli, David",Zürich,CH,Gloriastrasse 31,,,,,240.0,,,,240.0,hcp,eli,,2016,gloriastrasse 31,zuerich
+455,Muriel Schneider,Nyon,CH,Rue Juste-Olivier 9,,,0.0,0.0,435.0,403.0,0.0,0.0,838.0,hcp,eli,,2015,rue juste-olivier 9,nyon
+350,Myers Peter,Gmeve,CH,Ruelle du Couchant 7,,,0.0,0.0,0.0,155.23,0.0,0.0,155.23,hcp,almirall,,2015,ruelle du couchant 7,gmeve
+195,"Myers, Peter",Genève,CH,Ruelle du Couchant 7,,,,,,,1000.0,,1000.0,hcp,almirall,,2016,ruelle du couchant 7,geneve
+194,"Mähler, Roland",Wohlen AG,CH,Bärengässli 7,,,,,,,1000.0,,1000.0,hcp,almirall,,2016,baerengaessli 7,wohlen ag
+277,"Müller, Thomas",Meiringen,CH,Willigen,,,,,,,1200.0,,1200.0,hcp,eli,,2016,willigen,meiringen
+456,Nadja Engel,Wetzikon Zh,CH,Kirchgasse 4,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,kirchgasse 4,wetzikon zh
+351,Natalie Maile,Zürich,CH,Bleicherweg 68,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,bleicherw 68,zuerich
+13,Nathalie Irla Vuille,Zug,CH,Gartenstrasse 3,,,,,,,400.0,,400.0,hcp,almirall,,2017,gartenstrasse 3,zug
+278,"Nay Fellay, Cristina",Sion,CH,"(CHCVs/RSV), Avenue Grand- Champsec 80",,,,,160.0,401.0,,,561.0,hcp,eli,,2016,chcvsreserve avenue grand champsec 80,sion
+457,Nazad Ghafoor,Basel,CH,Birmannsgasse 34,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,birmannsgasse 34,basel
+279,"Nicod, Pierre-Alain",Monthey,CH,Avenue de la Gare 36,,,,,,,1000.0,,1000.0,hcp,eli,,2016,avenue de la gare 36,monthey
+91,Nicola Keller,Morbio Inferiore,CH,Via al Ponte 2,,,,,,,1000.0,,1000.0,hcp,eli,,2017,via alessandria ponte 2,morbio inferiore
+106,Nicolas Mach,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,306.0,,,,306.0,hcp,eli,,2017,rue gabrielle perret-gentil 4,geneve
+458,Nicolas Von der Weid,Genève,CH,Chemin de Beau- Soleil 12,,,0.0,0.0,0.0,0.0,5400.0,199.0,5599.0,hcp,eli,,2015,chemin de beau soleil 12,geneve
+146,Nicolas von der Weid,Genève,CH,Chemin de Beau- Soleil 12,,,,,,,600.0,,600.0,hcp,eli,,2017,chemin de beau soleil 12,geneve
+352,Nicole Christ,Arlesheim,CH,Neumattstrasse 4,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,neumattstrasse 4,arlesheim
+459,Nicole Montavon Salomon,Genève,CH,Rue Pédro- Meylan 1,,,0.0,0.0,0.0,0.0,800.0,79.0,879.0,hcp,eli,,2015,rue pedro meylan 1,geneve
+280,"Nikolic, Damjan",Genève,CH,Quai Du Seujet 14,,,,,,,700.0,,700.0,hcp,eli,,2016,quai du seujet 14,geneve
+139,Nordwig Tomi,Weinfelden,CH,"Bernerhaus, Marktplatz 3",,,,,,,1300.0,,1300.0,hcp,eli,,2017,bernerhaus marktplatz 3,weinfelden
+281,"Noth, Daniel",Unterseen,CH,Spitalweg 1,,,,,,,600.0,95.0,695.0,hcp,eli,,2016,spitalweg 1,unterseen
+110,Numa Masina,Lugano,CH,Viale Castagnola 21a,,,,,,,800.0,4.0,804.0,hcp,eli,,2017,viale castagnola 21a,lugano
+196,"Nägeli, Mirjam",Zürich,CH,Gloriastrasse 31,,,,,,495.66,,,495.66,hcp,almirall,,2016,gloriastrasse 31,zuerich
+460,Oliver Bilke- Hentsch,Winterthur,CH,Zum Park 20,,,0.0,0.0,0.0,0.0,2600.0,257.0,2857.0,hcp,eli,,2015,zum park 20,winterthur
+461,Oliver Christoph Zwermann,Basel,CH,Gellertstrasse 142,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,gellertstrasse 142,basel
+353,Oliver Das,Zürich,CH,Baumackerstrasse 46,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,baumackerstrasse 46,zuerich
+462,Oliver Distler,Zürich,CH,Gloriastrasse 25,,,0.0,0.0,0.0,0.0,300.0,0.0,300.0,hcp,eli,,2015,gloriastrasse 25,zuerich
+167,Oliver Hausmann,Luzern,CH,Zürichstrasse 12,,,,,,,1500.0,,1500.0,hcp,shire,,2017,zuerichstrasse 12,luzern
+463,Oliver Tschopp,Zürich,CH,Rämistrasse 100,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,raemistrasse 100,zuerich
+282,"Pache, Jean-Claude",Genève,CH,Rue Michel- Servet 4,,,,,,,800.0,40.0,840.0,hcp,eli,,2016,rue michel servet 4,geneve
+464,Pascal Vallotton,La Tour-de-peilz,CH,Avenue de Jaman 21,,,0.0,0.0,0.0,0.0,500.0,36.0,536.0,hcp,eli,,2015,avenue de jaman 21,la tour-de-peilz
+465,Patrice Holzer,Weisslingen,CH,Rössligasse 1,,,0.0,0.0,0.0,0.0,500.0,41.0,541.0,hcp,eli,,2015,roessligasse 1,weisslingen
+89,Patricia Jörgensen,Rheinfelden,CH,Kaiserstrasse 8,,,,,,168.0,,,168.0,hcp,eli,,2017,kaiserstrasse 8,rheinfelden
+466,Patrick Ammann,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,0.0,0.0,0.0,6300.0,575.0,6875.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
+354,Patrizia Carrozza,Bellinzona,CH,Viale Stazione 16,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,almirall,,2015,viale stazione 16,bellinzona
+467,Patrizia Froesch,Locarno,CH,Via all'Ospedale 1,,,0.0,0.0,381.0,469.0,500.0,0.0,1350.0,hcp,eli,,2015,via allospedale 1,locarno
+77,Paul Hasler,Aarau,CH,Tellstrasse 25,,,,,,,,413.0,413.0,hcp,eli,,2017,tellstrasse 25,aarau
+283,"Perrenoud, Luz",Genève,CH,Rue Willy-Donzé 6,,,,,,,4080.0,,4080.0,hcp,eli,,2016,rue willy-donze 6,geneve
+355,Peter Bures,Uster,CH,Oberlandstrasse 100,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,oberlandstrasse 100,uster
+356,Peter Hengstler,St. Gallen,CH,Rosenbergstrasse 42b,,,0.0,0.0,0.0,614.94,0.0,0.0,614.94,hcp,almirall,,2015,rosenbergstrasse 42b,saint gallen
+79,Peter Häusermann,Basel,CH,Petersgraben 4,,,,,,,1350.0,,1350.0,hcp,eli,,2017,petersgraben 4,basel
+468,Peter Häusermann,Basel,CH,Petersgraben 4,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,petersgraben 4,basel
+168,Peter Jandus,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,3750.0,310.76,4060.76,hcp,shire,,2017,rue gabrielle-perret-gentil 4,geneve
+469,Peter Moosmann,Aarau,CH,Tellstrasse,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,tellstrasse,aarau
+20,Peter Myers,Genève,CH,Ruelle du Couchant 7,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,ruelle du couchant 7,geneve
+128,Peter Schiller,Liestal,CH,Mühlegasse 3,,,,,,404.0,700.0,,1104.0,hcp,eli,,2017,muehlegasse 3,liestal
+470,Peter Wiesli,Frauenfeld,CH,Pfaffenholzstrass e 4,,,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0,hcp,eli,,2015,pfaffenholzstrass e 4,frauenfeld
+148,Peter Wiesli,Frauenfeld,CH,Pfaffenholzstrasse 4,,,,,,,1250.0,,1250.0,hcp,eli,,2017,pfaffenholzstrasse 4,frauenfeld
+471,Petra Elsässer,Moutier,CH,Rue de Beausite 49,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,rue de beausite 49,moutier
+472,Philipp Schütz,Aarau,CH,Tellstrasse,,,0.0,0.0,0.0,0.0,1200.0,153.0,1353.0,hcp,eli,,2015,tellstrasse,aarau
+169,Philipp de Moerloose,Genève,CH,Rue Marignac 3,,,,,,1531.2,,,1531.2,hcp,shire,,2017,rue marignac 3,geneve
+473,Pia Hirsbrunner,Zürich,CH,Hegarstrasse 18,,,0.0,0.0,0.0,0.0,1952.0,57.0,2009.0,hcp,eli,,2015,hegarstrasse 18,zuerich
+407,Pierre Bohanes,Fribourg,CH,Route de Villars 37,,,0.0,0.0,263.0,0.0,0.0,0.0,263.0,hcp,eli,,2015,route de villars 37,fribourg
+37,Pierre Bohanes,Lausanne,CH,Avenue Vinet 28,,,,,175.0,369.0,300.0,,844.0,hcp,eli,,2017,avenue vinet 28,lausanne
+474,Pietro Scarone,Lugano,CH,"Ospedale Civico, Via Tesserete 46",,,0.0,0.0,0.0,0.0,0.0,298.0,298.0,hcp,eli,,2015,ospedale civico via tesserete 46,lugano
+197,"Plaza, Tobias",Uster,CH,Oberlandstrasse 100,,,,,,495.66,,,495.66,hcp,almirall,,2016,oberlandstrasse 100,uster
+284,"Plaza, Tobias",Uster,CH,Oberlandstrasse 100,,,,,,,250.0,,250.0,hcp,eli,,2016,oberlandstrasse 100,uster
+285,"Pless, Miklos",Winterthur,CH,Brauerstrasse 15,,,,,385.0,403.0,3600.0,862.0,5250.0,hcp,eli,,2016,brauerstrasse 15,winterthur
+209,"Pournaras, Laurence Marie Alice Bastien",Lausanne,CH,Fleuri 6,,,,,,,600.0,,600.0,hcp,eli,,2016,fleuri 6,lausanne
+357,Radu Tutuian,Langenthal,CH,Sankt Urbanstrasse 67,,,0.0,0.0,0.0,0.0,1300.0,0.0,1300.0,hcp,almirall,,2015,sankt urbanstrasse 67,langenthal
+286,"Randin, Jean-Pierre",Lausanne,CH,Avenue de Rumine 35,,,,,,,1600.0,78.0,1678.0,hcp,eli,,2016,avenue de rumine 35,lausanne
+478,Raphaël Léopold Delaloye,Zürich,CH,Rämistrasse 100,,,0.0,0.0,911.0,621.0,0.0,0.0,1532.0,hcp,eli,,2015,raemistrasse 100,zuerich
+358,Rawa Derzi,Richterswil,CH,Seestrasse 15b,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,seestrasse 15b,richterswil
+480,Regula Honegger,Horgen,CH,Seestrasse 117,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,seestrasse 117,horgen
+82,Regula Honegger,Horgen,CH,Seestrasse 117,,,,,,,1200.0,,1200.0,hcp,eli,,2017,seestrasse 117,horgen
+481,Regula Honegger,Horgen,CH,Seestrasse 117,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,seestrasse 117,horgen
+150,Reinhard Zenhäusern,Brig,CH,"Spitalzentrum Oberwallis, Ueberlandstrasse 14",,,,,290.0,988.0,,,1278.0,hcp,eli,,2017,spitalzentrum oberwallis ueberlandstrasse 14,brigada
+287,"Relecom, Allan",Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,,,330.0,,,,330.0,hcp,eli,,2016,hug rue gabrielle-perret gentil 4,geneve
+482,Renato Werndli,Eichberg,CH,Jakob Oeschstrasse 1,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,jakob oeschstrasse 1,eichberg
+2,Reto Agosti,Zollikon,CH,Forchstrasse 424,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,forchstrasse 424,zollikon
+483,Reza Sohani,Leysin,CH,"Centre Coop, Chemin Des Fleurettes 10",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,centre coop chemin des fleurettes 10,leysin
+484,Robert Stein,Bern,CH,Schänzlihalde 11,,,0.0,0.0,229.0,704.0,600.0,72.0,1605.0,hcp,eli,,2015,schaenzlihalde 11,bern
+316,"Rogler, Gerhard",Zürich,CH,Rämistrasse 100,,,,,,,2500.0,,2500.0,hcp,shire,,2016,raemistrasse 100,zuerich
+476,Rolf Stahel,Bern,CH,Effingerstrasse 40,,,0.0,0.0,0.0,0.0,2625.0,0.0,2625.0,hcp,eli,,2015,effingerstrasse 40,bern
+479,Räto Strebel,Chur,CH,Loëstrasse 170,,,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0,hcp,eli,,2015,loestrasse 170,chur
+60,Sabina Ernst,Rheinfelden,CH,Kaiserstrasse 8,,,,,,168.0,,,168.0,hcp,eli,,2017,kaiserstrasse 8,rheinfelden
+485,Samuel Paris,Carouge Ge,CH,Avenue Industrielle 1,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,eli,,2015,avenue industrielle 1,carouge ge
+34,Sandra Beer,Lausanne,CH,Avenue de la Gare 11,,,,,,,600.0,,600.0,hcp,eli,,2017,avenue de la gare 11,lausanne
+486,Sandra Beer,Lausanne,CH,Avenue De La Gare 11,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,avenue de la gare 11,lausanne
+487,Sao-Nam Tran,Genève,CH,Route De Frontenex 90,,,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0,hcp,eli,,2015,route de frontenex 90,geneve
+359,Sara Micaletto,Zürich,CH,Gloriastrasse 31,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,gloriastrasse 31,zuerich
+170,Sara Nagy,Basel,CH,Hebelstrasse,,,,,912.0,740.61,,,1652.61,hcp,shire,,2017,hebelstrasse,basel
+108,Sarah Malacarne,Meyrin,CH,Avenue Jean- Daniel Maillard 3,,,,,,,1000.0,,1000.0,hcp,eli,,2017,avenue jean daniel maillard 3,meyrin
+288,"Sautter, Thomas",Rapperswil SG,CH,Kniestrasse 29,,,,,,,1000.0,,1000.0,hcp,eli,,2016,kniestrasse 29,rapperswil sg
+289,"Savaskan, Egemen",Zürich,CH,Minervastrasse 145,,,,,,,2600.0,,2600.0,hcp,eli,,2016,minervastrasse 145,zuerich
+290,"Schacher-Kaufmann, Sabina",Winterthur,CH,Brauerstrasse 15,,,,,603.0,,,,603.0,hcp,eli,,2016,brauerstrasse 15,winterthur
+488,Scherwin Talimi,Brugg Ag,CH,Fröhlichstrasse 5,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,froehlichstrasse 5,brugg ag
+291,"Schlapbach, Christoph",Bern,CH,Freiburgstrasse 18,,,,,,,1200.0,,1200.0,hcp,eli,,2016,freiburgstrasse 18,bern
+198,"Schmid-Grendelmeier, Peter",Zürich,CH,Gloriastrasse 31,,,,,,495.66,,,495.66,hcp,almirall,,2016,gloriastrasse 31,zuerich
+199,"Schneiter, Thomas",Burgdorf,CH,Poststrasse 6,,,,,,495.66,,,495.66,hcp,almirall,,2016,poststrasse 6,burgdorf
+292,"Schories, Marcus Klaus Charles",Basel,CH,Gellertstrasse 142,,,,,,,600.0,87.0,687.0,hcp,eli,,2016,gellertstrasse 142,basel
+489,Sebastian Walther,Bern  Upd,CH,Bolligenstrasse 111,,,0.0,0.0,0.0,0.0,2500.0,0.0,2500.0,hcp,eli,,2015,bolligenstrasse 111,bern upd
+490,Sebastiano Franscella,Viganello,CH,Via Pietro Capelli 9,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,via pietro capelli 9,viganello
+293,"Seifritz, Erich",Zürich,CH,Lenggstrasse 31,,,,,,,7200.0,,7200.0,hcp,eli,,2016,lenggstrasse 31,zuerich
+294,"Sermier, Alain",Genolier,CH,Route du Muids 3,,,,,,,1000.0,,1000.0,hcp,eli,,2016,route du muids 3,genolier
+295,"Seydoux, Catherine",Fribourg,CH,"Fribourg, Chemin des Pensionnats 2",,,,,,,360.0,,360.0,hcp,eli,,2016,fribourg chemin des pensionnats 2,fribourg
+491,Sheila Ardigo,Genève,CH,Rue Du Nant 4-6,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,rue du nant 4-6,geneve
+129,Silvia Schmid,Chur,CH,Loestrasse 170,,,,,,141.0,,,141.0,hcp,eli,,2017,loestrasse 170,chur
+405,Simeun Blagojevic,Uzwil,CH,Bahnhofstrasse 75,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,bahnhofstrasse 75,uzwil
+200,"Simon, Dagmar",Bern,CH,Freiburgstrasse 18,,,,,,,1400.0,,1400.0,hcp,almirall,,2016,freiburgstrasse 18,bern
+360,Soares Paulo Jorge Castro,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,0.0,0.0,0.0,614.94,0.0,0.0,614.94,hcp,almirall,,2015,rue gabrielle-perret-gentil 4,geneve
+296,"Spring, Philipp",Epalinges,CH,Route De La Corniche 1,,,,,,,700.0,,700.0,hcp,eli,,2016,route de la corniche 1,epalinges
+297,"Stahel, Rolf",Zürich,CH,Rämistrasse 100,,,,,,,6900.0,8225.0,15125.0,hcp,eli,,2016,raemistrasse 100,zuerich
+492,Stefan Bleuer,Münsingen,CH,Hunzigenallee 1,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,hunzigenallee 1,muensingen
+361,Stefanie Karin Müller,St. Gallen,CH,Rorschacherstrasse 95,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,almirall,,2015,rorschacherstrasse 95,saint gallen
+19,Stefanie Müller,St. Gallen,CH,Rorschacherstrasse 95,,,,,,,1000.0,,1000.0,hcp,almirall,,2017,rorschacherstrasse 95,saint gallen
+41,Stephan Büschl,Aarau,CH,"Haus 40, Tellstrasse 25",,,,,120.0,,,,120.0,hcp,eli,,2017,haus 40 tellstrasse 25,aarau
+71,Stephanie Graf,Bern,CH,"Eingang 31, Freiburgstrasse 15",,,,,,133.0,,,133.0,hcp,eli,,2017,eingang 31 freiburgstrasse 15,bern
+138,Stephanie Tölle,Zollikerberg,CH,Rietholzstrasse 4,,,,,,,3240.0,,3240.0,hcp,eli,,2017,rietholzstrasse 4,zollikerberg
+298,"Stoll, Thomas",Schaffhausen,CH,Geissbergstrasse 81,,,,,,,550.0,,550.0,hcp,eli,,2016,geissbergstrasse 81,schaffhausen
+299,"Strey, Christopher",St. Gallen,CH,Brauerstrasse 97,,,,,,,600.0,,600.0,hcp,eli,,2016,brauerstrasse 97,saint gallen
+102,Stéphanie Liardet,Lausanne,CH,Avenue du Théatre 7,,,,,447.0,730.0,,,1177.0,hcp,eli,,2017,avenue du theatre 7,lausanne
+408,Susanne Bucher,Herrliberg,CH,Schulhausstrass e 12,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,schulhausstrass e 12,herrliberg
+493,Susanne Reichert,Bülach,CH,Zürichstrasse 5,,,0.0,0.0,0.0,0.0,600.0,33.0,633.0,hcp,eli,,2015,zuerichstrasse 5,buelach
+409,Susanne Weindler,Winterthur,CH,Brauerstrasse 15,,,0.0,0.0,455.0,862.0,0.0,0.0,1317.0,hcp,eli,,2015,brauerstrasse 15,winterthur
+494,Sylvie Von der Weid,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,0.0,0.0,0.0,851.0,480.0,0.0,1331.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
+404,Sérgio Lenoir,St. Gallen,CH,Zürcher Strasse 170,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,eli,,2015,zuercher strasse 170,saint gallen
+74,Tanja Haamberg,Bern,CH,Freiburgstrasse 18,,,,,,408.0,,,408.0,hcp,eli,,2017,freiburgstrasse 18,bern
+35,Tarcisio Bianda,Ascona,CH,Via Collina 4,,,,,,,1200.0,,1200.0,hcp,eli,,2017,via collina 4,ascona
+362,Teodor Karanfilov,Schaffhausen,CH,Geissbergstrasse 81,,,0.0,0.0,0.0,447.67,0.0,0.0,447.67,hcp,almirall,,2015,geissbergstrasse 81,schaffhausen
+495,Thibaud Kössler,Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,0.0,0.0,46.0,0.0,0.0,0.0,46.0,hcp,eli,,2015,hug rue gabrielle-perret gentil 4,geneve
+496,Thibaud Kössler,Genève,CH,"HUG, Rue Gabrielle-Perret- Gentil 4",,,0.0,0.0,46.0,0.0,0.0,0.0,46.0,hcp,eli,,2015,hug rue gabrielle-perret gentil 4,geneve
+497,Thomas Dünner,Herrliberg,CH,Forchstrasse 61,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,forchstrasse 61,herrliberg
+171,Thomas Hauser,Zürich,CH,Walchestrasse 11,,,,,,,1000.0,,1000.0,hcp,shire,,2017,walchestrasse 11,zuerich
+114,Thomas Jörg Müller,Meiringen,CH,Willigen,,,,,,,1200.0,,1200.0,hcp,eli,,2017,willigen,meiringen
+498,Thomas Leyhe,Basel,CH,Wilhelm Kleinstrasse 27,,,0.0,0.0,0.0,0.0,3000.0,691.0,3691.0,hcp,eli,,2015,wilhelm kleinstrasse 27,basel
+477,Thomas Müller,Bern,CH,Murtenstrasse 21,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,eli,,2015,murtenstrasse 21,bern
+125,Thomas Ruhstaller,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstrasse 95",,,,,,,2500.0,686.0,3186.0,hcp,eli,,2017,kantonsspital sankt gallen rorschacherstrasse 95,saint gallen
+127,Thomas Sautter,Rapperswil SG,CH,"Haus zur Tüchi, Kniestrasse 29",,,,,,,2000.0,,2000.0,hcp,eli,,2017,haus zur tuechi kniestrasse 29,rapperswil sg
+132,Thomas Seeger,Aarau,CH,"Haus 40, Tellstrasse 25",,,,,120.0,,,,120.0,hcp,eli,,2017,haus 40 tellstrasse 25,aarau
+499,Thomas Warzinek,Sargans,CH,Bahnhofstrasse 6,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,eli,,2015,bahnhofstrasse 6,sargans
+500,Thomas Wehrle,Solothurn,CH,Luzernstrasse 5- 11,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,luzernstrasse 5 11,solothurn
+201,"Thraen, Alice-Caroline",St. Gallen,CH,Rorschacherstrasse 95,,,,,,495.66,,,495.66,hcp,almirall,,2016,rorschacherstrasse 95,saint gallen
+70,Tiziana Gozzi Graf,St. Gallen,CH,Claudiusstrasse 6,,,,,,155.0,,,155.0,hcp,eli,,2017,claudiusstrasse 6,saint gallen
+501,Tomislav Simic,Solothurn,CH,Bielstrasse 109,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,bielstrasse 109,solothurn
+202,"Trafna, Renata",Solothurn,CH,Dornacherplatz 15,,,,,,495.66,,,495.66,hcp,almirall,,2016,dornacherplatz 15,solothurn
+300,"Tran, Sao-Nam",Genève,CH,Route De Frontenex 90,,,,,,,1000.0,,1000.0,hcp,eli,,2016,route de frontenex 90,geneve
+301,"Uhlmann Nussbaum, Catrina",Olten,CH,Baslerstrasse 150,,,,,160.0,401.0,,,561.0,hcp,eli,,2016,baslerstrasse 150,olten
+406,Ulrich Hemmeter,Wil Sg,CH,Zürcherstrasse 30,,,0.0,0.0,0.0,0.0,900.0,0.0,900.0,hcp,eli,,2015,zuercherstrasse 30,wil sargento segundo
+502,Ursula Bärtsch- Kohli,Langenthal,CH,St. Urbanstrasse 67,,,0.0,0.0,0.0,0.0,1600.0,0.0,1600.0,hcp,eli,,2015,sankt urbanstrasse 67,langenthal
+172,Uyen Huynh-Do,Bern,CH,Freiburgstrasse 15,,,,,,122.0,,,122.0,hcp,shire,,2017,freiburgstrasse 15,bern
+46,Vanessa Chatelain Fontanella,Vevey,CH,Avenue de la Prairie 3,,,,,175.0,,,,175.0,hcp,eli,,2017,avenue delaware la prairie 3,vevey
+203,"Vaney, Claude",Crans-Montana,CH,Imp. Palace Bellevue 1,,,,,,,2000.0,,2000.0,hcp,almirall,,2016,impasse palace bellevue 1,crans-montana
+302,"Vernez, Maxime",Epalinges,CH,Route De La Corniche 1,,,,,,,700.0,,700.0,hcp,eli,,2016,route de la corniche 1,epalinges
+303,"Villiger, Lukas",Dättwil AG,CH,Mellingerstrasse 207,,,,,,,6000.0,,6000.0,hcp,eli,,2016,mellingerstrasse 207,daettwil ag
+44,Vincent Cattin,Neuchâtel,CH,Faubourg de l'Hôpital 65,,,,,,,700.0,,700.0,hcp,eli,,2017,faubourg de l'hopital 65,neuchatel
+503,Vladka Cuchard,Renens Vd,CH,Avenue de Florissant 30,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,eli,,2015,avenue de florissant 30,renens van den
+304,"Voegeli, Michèle",Liestal,CH,Mühlematt 13,,,,,,,800.0,,800.0,hcp,eli,,2016,muehlematt 13,liestal
+306,"Von der Weid, Nicolas",Genève,CH,Chemin de Beau- Soleil 12,,,,,,,2200.0,,2200.0,hcp,eli,,2016,chemin de beau soleil 12,geneve
+124,Véronique Ruff- Zemp,Genève,CH,Rue Maunoir 26,,,,,292.0,594.0,,,886.0,hcp,eli,,2017,rue maunoir 26,geneve
+504,Walter David Wimmersberger,Dietikon,CH,Steinmürlistrasse 21,,,0.0,0.0,0.0,0.0,500.0,15.0,515.0,hcp,eli,,2015,steinmuerlistrasse 21,dietikon
+307,"Walther, Sebastian",Bern 60 U,CH,Bolligenstrasse 111,,,,,,,2500.0,,2500.0,hcp,eli,,2016,bolligenstrasse 111,bern 60 utca
+73,Waltraut Gut,Bülach,CH,Spitalstrasse 24,,,,,298.0,900.0,,,1198.0,hcp,eli,,2017,spitalstrasse 24,buelach
+308,"Warzinek, Thomas",Sargans,CH,Bahnhofstrasse 6,,,,,,,600.0,,600.0,hcp,eli,,2016,bahnhofstrasse 6,sargans
+309,"Wehrhahn, Tobias",Aarau,CH,Tellstrasse 25,,,,,,,600.0,,600.0,hcp,eli,,2016,tellstrasse 25,aarau
+204,"Weissenrieder, Hansjörg",Zug,CH,Bundesstrasse 6,,,,,,,500.0,,500.0,hcp,almirall,,2016,bundesstrasse 6,zug
+310,"Wiesli, Peter",Frauenfeld,CH,Pfaffenholzstrass e4,,,,,,,3050.0,58.0,3108.0,hcp,eli,,2016,pfaffenholzstrass e4,frauenfeld
+36,Wolf-Henning Boehncke,Genève,CH,"Service de dermatologie, Rue Gabrielle- Perret-Gentil 4",,,,,,,10470.0,6523.0,16993.0,hcp,eli,,2017,service de dermatologie rue gabrielle perret-gentil 4,geneve
+505,Wolf-Henning Boehncke,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,0.0,0.0,0.0,57.0,1200.0,0.0,1257.0,hcp,eli,,2015,rue gabrielle perret-gentil 4,geneve
+311,"Zarkik, Yassine",Martigny,CH,"de Martigny, Avenue de la Fusion 27",,,,,,,600.0,,600.0,hcp,eli,,2016,de martigny avenue de la fusion 27,martigny
+133,Zehra Spadin,Lachen SZ,CH,Oberdorfstrasse 41,,,,,298.0,751.0,,,1049.0,hcp,eli,,2017,oberdorfstrasse 41,lachen sz
+312,"Zenhäusern, Reinhard",Brig,CH,"Spitalzentrum Oberwallis, Ueberlandstrasse",,,,,160.0,201.0,,,361.0,hcp,eli,,2016,spitalzentrum oberwallis ueberlandstrasse,brigada
+313,"Zwermann, Oliver Christoph",Basel,CH,Gellertstrasse 142,,,,,,,600.0,,600.0,hcp,eli,,2016,gellertstrasse 142,basel
+305,"von Burg, Philippe",Solothurn,CH,"Haus 7, Schöngrünstrasse 38",,,,,,,800.0,,800.0,hcp,eli,,2016,haus 7 schoengruenstrasse 38,solothurn
+27,Özgür Yaldizli,Basel,CH,Petersgraben 4,,,,,,,1500.0,,1500.0,hcp,almirall,,2017,petersgraben 4,basel
