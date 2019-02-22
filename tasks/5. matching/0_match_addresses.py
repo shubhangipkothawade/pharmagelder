@@ -17,6 +17,10 @@ import datetime
 run_for = 'hcp'
 version = 0.3
 
+condition_location = 85
+condition_address = 75
+condition_name = 80
+
 #%% [markdown]
 # ## Check path
 # Check, if we run in in the git directory or on the server. If on a server, look for the files in the same directory
@@ -59,12 +63,12 @@ total_rows = len(df_data)
 
 #%%
 #Convert
-df_data['name'] = df_data['name'].astype("str")
+df_data['name_expand'] = df_data['name_expand'].astype("str")
 df_data['address_expand'] = df_data['address_expand'].astype("str")
 df_data['location_expand'] = df_data['location_expand'].astype("str")
 
 #Sort
-df_data = df_data.sort_values('name')
+df_data = df_data.sort_values('name_expand')
 
 start_time = time.time()
 
@@ -89,18 +93,17 @@ for index, row in df_data.iterrows():
     df_data['r_location'] = df_data['location_expand'].apply(lambda x: fuzz.token_set_ratio(x, row['location_expand']))
     
     #Fuzzy name, when r_location >= 85
-    lower_name = row['name'].lower()
-    df_data['r_name'] = df_data.loc[df_data.r_location >= 85, 'name'].apply(lambda x: fuzz.token_set_ratio(x.lower(), lower_name))
+    df_data['r_name'] = df_data.loc[df_data.r_location >= condition_location, 'name_expand'].apply(lambda x: fuzz.token_set_ratio(x.lower(), row['name_expand']))
     
     #Fuzzy address, when r_location > 85 & r_name >= 80
-    df_data['r_address'] = df_data.loc[(df_data.r_location >= 85) & (df_data.r_name >= 80), 'address_expand'].apply(lambda x: fuzz.token_set_ratio(x, row['address_expand']))
+    df_data['r_address'] = df_data.loc[(df_data.r_location >= condition_location) & (df_data.r_name >= condition_address), 'address_expand'].apply(lambda x: fuzz.token_set_ratio(x, row['address_expand']))
     
     #condition_fix = (df_data.index != index) & (df_data['parent'] != index)
     condition_fix = (df_data.index != index)
     if row['address'] == '':
-        condition1 = (df_data.r_name >= 80) & (df_data.r_location >= 85) & (condition_fix)
+        condition1 = (df_data.r_name >= condition_address) & (df_data.r_location >= condition_location) & (condition_fix)
     else:
-        condition1 = (df_data.r_name >= 80) & (df_data.r_location >= 85) & (df_data.r_address >= 75) & (condition_fix)
+        condition1 = (df_data.r_name >= condition_address) & (df_data.r_location >= condition_location) & (df_data.r_address >= condition_address) & (condition_fix)
     
     #Select by condition
     df_matches = df_data[(condition1)]
@@ -109,20 +112,18 @@ for index, row in df_data.iterrows():
     if len(df_matches) == 0:
         df_matchlist = df_matchlist.append({'source': index,
                                             'target': index,
-                                            #'r_name': 100,
-                                            #'r_address': 100,
-                                            #'r_location': 100,
-                                            #'r_ratio': 100,
+                                            'r_name': 100,
+                                            'r_address': 100,
+                                            'r_location': 100,
                                            }, ignore_index=True)
     else:
         for match_index, match_row in df_matches.iterrows():
 
             df_matchlist = df_matchlist.append({'source': index, 
                                                 'target': match_index,
-                                                #'r_name': match_row['r_name'],
-                                                #'r_address': match_row['r_address'],
-                                                #'r_location': match_row['r_location'],
-                                                #'r_ratio': match_row['r_ratio']
+                                                'r_name': match_row['r_name'],
+                                                'r_address': match_row['r_address'],
+                                                'r_location': match_row['r_location'],
                                                }, ignore_index=True)
 
     
@@ -134,7 +135,7 @@ print('\nFinished in: ' + str(round(elapsed_time / 60, 2)) + ' minutes')
 
 #%%
 #Drop columns
-df_data.drop(['r_name', 'r_location', 'r_address'], axis=1, inplace=True)
+#df_data.drop(['r_name', 'r_location', 'r_address'], axis=1, inplace=True)
 
 
 #%%
