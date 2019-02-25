@@ -2568,7 +2568,7 @@ Clinique de Valmont,Glion-Montreux,CH,Route de Valmont,,,,3500.0,,,,,3500.0,hco,
 HUG Hôpitaux Universitaire de Genève,Genève,CH,"4, rue Gabrielle Perret-Gentil",,,,2100.0,,,,,2100.0,hco,biotest,2016
 Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse,,,,2000.0,,,,,2000.0,hco,biotest,2016
 Robert Rieben Universität Bern,Bern,CH,Murtenstrasse 50,,,,,,293.0,1308.0,,1601.0,hco,biotest,2016
-Arthur Helbling Inselspital,Bern,CH,Freiburgstrasse,,,,,,303.0,,,303.0,hco,biotest,2016
+Arthur Helbling Inselspital,Bern,CH,Freiburgstrasse,,,,,,303.0,,,303.0,hcp,biotest,2016
 Bernard Egger,Rolle,CH,Route de l'Hôpital 26 1180 Rolle,,,,,0.0,0.0,1250.0,0.0,1250.0,hcp,boehringer,2016
 Chiara Ferrario,Prilly,CH,Route de Renens 24 1008 Prilly,,,,,0.0,0.0,1200.0,0.0,1200.0,hcp,boehringer,2016
 Christophe Uldry,Rolle,CH,Route de l'Hôpital 26 1180 Rolle,,,,,0.0,0.0,750.0,0.0,750.0,hcp,boehringer,2016

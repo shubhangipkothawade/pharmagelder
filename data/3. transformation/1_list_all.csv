@@ -226,7 +226,7 @@ Alexandre Restellini,Onex,CH,Route de Loëx 3,,,,,330.0,1243.0,,,1573.0,hcp,abbv
 Symi Richter,Münchenstein,CH,Reinacherstrasse 28,,,,,348.0,422.0,,,770.0,hcp,abbvie,,2017
 Maud Iris Richter-Wenkel,Bern,CH,Bümplizstrasse 75a,,,,,141.0,531.0,,,672.0,hcp,abbvie,,2017
 Florian Riniker,Aarau,CH,Buchserstrasse 18,,,,,312.0,436.0,,,748.0,hcp,abbvie,,2017
-Christa Ritter,Basel,CH,WCH02074500379,,,,,348.0,388.0,,,736.0,hcp,abbvie,,2017
+Christa Ritter,Basel,CH,Gellertstrasse 144,,WCH02074500379,,,348.0,388.0,,,736.0,hcp,abbvie,,2017
 Gerhard Rogler,Zürich,CH,Rämistrasse 100,,,,,,,5600.0,,5600.0,hcp,abbvie,,2017
 Christiane Rörig,Zürich,CH,Forchstrasse 340,,,,,348.0,413.0,,,761.0,hcp,abbvie,,2017
 Davide Rossi,Bellinzona,CH,Via Ospedale,,,,,,,,7387.0,7387.0,hcp,abbvie,,2017
@@ -13057,7 +13057,7 @@ Clinique de Valmont,Glion-Montreux,CH,Route de Valmont,,,,3500.0,,,,,3500.0,hco,
 HUG Hôpitaux Universitaire de Genève,Genève,CH,"4, rue Gabrielle Perret-Gentil",,,,2100.0,,,,,2100.0,hco,biotest,,2016
 Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse,,,,2000.0,,,,,2000.0,hco,biotest,,2016
 Robert Rieben Universität Bern,Bern,CH,Murtenstrasse 50,,,,,,293.0,1308.0,,1601.0,hco,biotest,,2016
-Arthur Helbling Inselspital,Bern,CH,Freiburgstrasse,,,,,,303.0,,,303.0,hco,biotest,,2016
+Arthur Helbling Inselspital,Bern,CH,Freiburgstrasse,,,,,,303.0,,,303.0,hcp,biotest,,2016
 Bernard Egger,Rolle,CH,Route de l'Hôpital 26 1180 Rolle,,,,,0.0,0.0,1250.0,0.0,1250.0,hcp,boehringer,,2016
 Chiara Ferrario,Prilly,CH,Route de Renens 24 1008 Prilly,,,,,0.0,0.0,1200.0,0.0,1200.0,hcp,boehringer,,2016
 Christophe Uldry,Rolle,CH,Route de l'Hôpital 26 1180 Rolle,,,,,0.0,0.0,750.0,0.0,750.0,hcp,boehringer,,2016
@@ -24436,11 +24436,11 @@ Spitalzentrum Biel AG,Biel/bienne,CH,Vogelsang 84,,,5591.9,0.0,0.0,0.0,0.0,0.0,5
 SRO AG Spital Langenthal,Langenthal,CH,Sankt Urbanstrasse 67,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,takeda,,2015
 SS BP Swiss Society of Biological Psychiatry,Basel,CH,Petersgraben 4,,,0.0,7000.0,0.0,0.0,0.0,0.0,7000.0,hco,takeda,,2015
 St. Claraspital AG,Basel,CH,Klemnehenstrasse 30,,,0.0,2160.0,0.0,0.0,0.0,0.0,2160.0,hco,takeda,,2015
-Stadtspital Triemli,Zürich,CH,,,,0.0,1000.0,0.0,0.0,1800.0,0.0,2800.0,hco,takeda,,2015
-Stadtspital Triemli -Gastroenterologie,Zürich,CH,,,,800.0,1030.0,85.93,4218.97,0.0,0.0,6134.89,hco,takeda,,2015
-Stadtspital Triemli -Klinik für Rheumatologie,Zürich,CH,Birmensdorferstrass e497,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,takeda,,2015
-Stadtspital Triemli -Stiftung für wissenschaftliche Forschung am Stadtspilal Triemli,Zürich,CH,Birmensdorferstrass e 497,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,takeda,,2015
-Stadtspital Triemli -Vlszeral-Thorax- und Gefässchirurgie,Zürich,CH,Birmensdorferstrass e 497,,,0.0,2500.0,257.95,484.68,0.0,0.0,3242.63,hco,takeda,,2015
+Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,0.0,1000.0,0.0,0.0,1800.0,0.0,2800.0,hco,takeda,,2015
+Stadtspital Triemli -Gastroenterologie,Zürich,CH,Birmensdorferstrasse 497,,,800.0,1030.0,85.93,4218.97,0.0,0.0,6134.89,hco,takeda,,2015
+Stadtspital Triemli -Klinik für Rheumatologie,Zürich,CH,Birmensdorferstrasse 497,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,takeda,,2015
+Stadtspital Triemli -Stiftung für wissenschaftliche Forschung am Stadtspilal Triemli,Zürich,CH,Birmensdorferstrasse 497,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,takeda,,2015
+Stadtspital Triemli -Vlszeral-Thorax- und Gefässchirurgie,Zürich,CH,Birmensdorferstrasse 497,,,0.0,2500.0,257.95,484.68,0.0,0.0,3242.63,hco,takeda,,2015
 Stadtspital Waid -Medizinische Klinik,Zürich,CH,Tiechestrasse 99,,,0.0,0.0,294.8,487.66,0.0,0.0,782.46,hco,takeda,,2015
 Studio   Mcntedoro Ezio,Arbedo,CH,Via Orbello 22,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,takeda,,2015
 Swiss Association for the Study of the Liver,Zürich,CH,Toblerstrasse 51,,,0.0,2888.0,0.0,0.0,0.0,0.0,2888.0,hco,takeda,,2015
