@@ -14,12 +14,24 @@ import datetime
 
 
 #%%
-run_for = 'hco'
+run_for = 'hcp'
 version = 0.3
 
-condition_location = 85
-condition_address = 75
-condition_name = 85
+# Conditions
+conditions ={
+    'hcp' :
+        {
+            'condition_location': 85,
+            'condition_address': 75,
+            'condition_name': 85
+        },
+    'hco' :
+        {
+            'condition_location': 85,
+            'condition_address': 75,
+            'condition_name': 85
+        },
+    }
 
 #%% [markdown]
 # ## Check path
@@ -70,6 +82,8 @@ df_data['location_expand'] = df_data['location_expand'].astype("str")
 #Sort
 df_data = df_data.sort_values('name_expand')
 
+cond = conditions[run_for]
+
 start_time = time.time()
 
 print("===============================")
@@ -93,17 +107,18 @@ for index, row in df_data.iterrows():
     df_data['r_location'] = df_data['location_expand'].apply(lambda x: fuzz.token_set_ratio(x, row['location_expand']))
     
     #Fuzzy name, when r_location >= 85
-    df_data['r_name'] = df_data.loc[df_data.r_location >= condition_location, 'name_expand'].apply(lambda x: fuzz.token_set_ratio(x.lower(), row['name_expand']))
+    
+    df_data['r_name'] = df_data.loc[df_data.r_location >= cond['condition_location'], 'name_expand'].apply(lambda x: fuzz.token_set_ratio(x.lower(), row['name_expand']))
     
     #Fuzzy address, when r_location > 85 & r_name >= 80
-    df_data['r_address'] = df_data.loc[(df_data.r_location >= condition_location) & (df_data.r_name >= condition_name), 'address_expand'].apply(lambda x: fuzz.token_set_ratio(x, row['address_expand']))
+    df_data['r_address'] = df_data.loc[(df_data.r_location >= cond['condition_location']) & (df_data.r_name >= cond['condition_name']), 'address_expand'].apply(lambda x: fuzz.token_set_ratio(x, row['address_expand']))
     
     #condition_fix = (df_data.index != index) & (df_data['parent'] != index)
     condition_fix = (df_data.index != index)
     if row['address'] == '':
-        condition1 = (df_data.r_name >= condition_name) & (df_data.r_location >= condition_location) & (condition_fix)
+        condition1 = (df_data.r_name >= cond['condition_name']) & (df_data.r_location >= cond['condition_location']) & (condition_fix)
     else:
-        condition1 = (df_data.r_name >= condition_name) & (df_data.r_location >= condition_location) & (df_data.r_address >= condition_address) & (condition_fix)
+        condition1 = (df_data.r_name >= cond['condition_name']) & (df_data.r_location >= cond['condition_location']) & (df_data.r_address >= cond['condition_address']) & (condition_fix)
     
     #Select by condition
     df_matches = df_data[(condition1)]
