@@ -14,12 +14,12 @@ import datetime
 
 
 #%%
-run_for = 'hcp'
+run_for = 'hco'
 version = 0.3
 
 condition_location = 85
 condition_address = 75
-condition_name = 80
+condition_name = 85
 
 #%% [markdown]
 # ## Check path
@@ -96,14 +96,14 @@ for index, row in df_data.iterrows():
     df_data['r_name'] = df_data.loc[df_data.r_location >= condition_location, 'name_expand'].apply(lambda x: fuzz.token_set_ratio(x.lower(), row['name_expand']))
     
     #Fuzzy address, when r_location > 85 & r_name >= 80
-    df_data['r_address'] = df_data.loc[(df_data.r_location >= condition_location) & (df_data.r_name >= condition_address), 'address_expand'].apply(lambda x: fuzz.token_set_ratio(x, row['address_expand']))
+    df_data['r_address'] = df_data.loc[(df_data.r_location >= condition_location) & (df_data.r_name >= condition_name), 'address_expand'].apply(lambda x: fuzz.token_set_ratio(x, row['address_expand']))
     
     #condition_fix = (df_data.index != index) & (df_data['parent'] != index)
     condition_fix = (df_data.index != index)
     if row['address'] == '':
-        condition1 = (df_data.r_name >= condition_address) & (df_data.r_location >= condition_location) & (condition_fix)
+        condition1 = (df_data.r_name >= condition_name) & (df_data.r_location >= condition_location) & (condition_fix)
     else:
-        condition1 = (df_data.r_name >= condition_address) & (df_data.r_location >= condition_location) & (df_data.r_address >= condition_address) & (condition_fix)
+        condition1 = (df_data.r_name >= condition_name) & (df_data.r_location >= condition_location) & (df_data.r_address >= condition_address) & (condition_fix)
     
     #Select by condition
     df_matches = df_data[(condition1)]
