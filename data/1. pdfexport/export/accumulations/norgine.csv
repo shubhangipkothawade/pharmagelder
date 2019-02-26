@@ -1,0 +1,6 @@
+type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
+hcp_amount,,,0.0,0.0,750.0,0.0,750.0,norgine
+hco_amount,0.0,38285.0,0.0,0.0,0.0,0.0,38285.0,norgine
+hcp_count,,,0.0,0.0,1.0,0.0,1.0,norgine
+hco_count,0.0,10.0,0.0,0.0,0.0,0.0,10.0,norgine
+rnd,,,,,,,87274.07,norgine
