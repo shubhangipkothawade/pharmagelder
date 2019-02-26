@@ -14,8 +14,8 @@ import datetime
 
 
 #%%
-run_for = 'hcp'
-version = 0.3
+run_for = 'hco'
+version = 0.4
 
 # Conditions
 conditions = {
@@ -111,7 +111,7 @@ for index, row in df_data.iterrows():
     df_data['r_name'] = df_data.loc[df_data.r_location >= cond['condition_location'], 'name_expand'].apply(lambda x: fuzz.token_set_ratio(x.lower(), row['name_expand']))
     
     #Fuzzy address, when r_location > 85 & r_name >= 80
-    df_data['r_address'] = df_data.loc[(df_data.r_location >= cond['condition_location']) & (df_data.r_name >= cond['condition_name']), 'address_expand'].apply(lambda x: fuzz.token_set_ratio(x, row['address_expand']))
+    df_data['r_address'] = df_data.loc[(df_data.r_location >= cond['condition_location']) & (df_data.r_name >= cond['condition_name']), 'address_expand'].apply(lambda x: np.amax([fuzz.token_set_ratio(x, row['address_expand']), fuzz.partial_ratio(x, row['address_expand'])]))
     
     #condition_fix = (df_data.index != index) & (df_data['parent'] != index)
     condition_fix = (df_data.index != index)
