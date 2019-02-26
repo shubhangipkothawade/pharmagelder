@@ -18,7 +18,7 @@ run_for = 'hcp'
 version = 0.3
 
 # Conditions
-conditions ={
+conditions = {
     'hcp' :
         {
             'condition_location': 85,
