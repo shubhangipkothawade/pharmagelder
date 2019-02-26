@@ -1,59 +1,59 @@
 pha_id,pha_key,pha_name
-1,abbvie,abbvie
-2,actelion,actelion
-3,alcon,alcon
-4,allergan,allergan
-5,almirall,almirall
-6,amgen,amgen
-7,astellas,astellas
-8,astrazeneca,astrazeneca
-9,baxalta,baxalta
-10,baxter,baxter
-11,bayer,bayer
-12,bgp,bgp
-13,biogen,biogen
-14,biotest,biotest
-15,boehringer,boehringer
-16,bristol,bristol
-17,celgene,celgene
-18,csl,csl
-19,daiichi,daiichi
-20,eisai,eisai
-21,eli,eli
-22,ferring,ferring
-23,future,future
-24,galderma,galderma
-25,genzyme,genzyme
-26,gilead,gilead
-27,glaxosmithkline,glaxosmithkline
-28,gruenenthal,gruenenthal
-29,hra,hra
-30,janssen,janssen
-31,leo,leo
-32,lundbeck,lundbeck
-33,meda,meda
-34,menarini,menarini
-35,mepha,mepha
-36,merck,merck
-37,msd,msd
-38,mundipharma,mundipharma
-39,neurim,neurim
-40,novartis,novartis
-41,nordic,nordic
-42,novo,novo
-43,orion,orion
-44,otsuka,otsuka
-45,pfizer,pfizer
-46,pierre,pierre
-47,roche,roche
-48,sandoz,sandoz
-49,sanofi,sanofi
-50,servier,servier
-51,sfl,sfl
-52,shire,shire
-53,stallergenes,stallergenes
-54,takeda,takeda
-55,teva,teva
-56,ucb,ucb
-57,vifor,vifor
-58,zambon,zambon
+1,abbvie,AbbVie
+2,actelion,Actelion
+3,alcon,Alcon
+4,allergan,Allergan
+5,almirall,Almirall
+6,amgen,Amgen
+7,astellas,Astellas Pharma AG
+8,astrazeneca,AstraZeneca
+9,baxalta,Baxalta
+10,baxter,Baxter AG
+11,bayer,Bayer AG
+12,bgp,BGP Products
+13,biogen,Biogen
+14,biotest,Biotest AG
+15,boehringer,Boehringer Ingelheim
+16,bristol,Bristol-Myers Squibb SA
+17,celgene,Celgene
+18,csl,CSL Behring
+19,daiichi,Daiichi Sankyō
+20,eisai,Eisai
+21,eli,Eli Lilly SA
+22,ferring,Ferring Pharmaceuticals
+23,future,Future Health Pharma GmbH
+24,galderma,Galderma
+25,genzyme,Sanofi Genzyme
+26,gilead,Gilead Sciences
+27,glaxosmithkline,GlaxoSmithKline
+28,gruenenthal,Grünenthal Pharma AG
+29,hra,HRA Pharma
+30,janssen,Janssen Pharmaceutica
+31,leo,LEO Pharma
+32,lundbeck,Lundbeck AG
+33,meda,Meda Pharma GmbH
+34,menarini,A. Menarini AG
+35,mepha,Mepha
+36,merck,Merck
+37,msd,MSD
+38,mundipharma,Mundipharma
+39,neurim,Neurim Pharmaceuticals AG
+40,novartis,Novartis
+41,nordic,Nordic Pharma GmbH
+42,novo,Novo Nordisk
+43,orion,Orion Pharma AG
+44,otsuka,Ōtsuka Seiyaku
+45,pfizer,Pfizer AG
+46,pierre,Pierre Fabre
+47,roche,Hoffmann-La Roche
+48,sandoz,Sandoz Pharmaceuticals AG
+49,sanofi,Sanofi
+50,servier,Servier
+51,sfl,SFL Pharma
+52,shire,Shire Pharmaceuticals
+53,stallergenes,Stallergenes Greer
+54,takeda,Takeda Pharmaceutical
+55,teva,Teva
+56,ucb,UCB Pharma GmbH
+57,vifor,Vifor Pharma
+58,zambon,Zambon

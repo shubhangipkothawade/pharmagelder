@@ -1,4 +1,4 @@
-phf_key,phf_source
+phs_key,phs_source
 abbvie,https://www.abbvie.ch/de/transparency/home.html?trackingSelection=Yes
 actelion,xxx
 alcon,xxx
@@ -7,6 +7,7 @@ almirall,xxx
 amgen,xxx
 astellas,xxx
 astrazeneca,xxx
+baxalta,xxx
 baxter,xxx
 bayer,xxx
 bgp,xxx
@@ -15,18 +16,19 @@ biotest,xxx
 boehringer,xxx
 bristol,xxx
 celgene,xxx
-cls,xxx
+csl,xxx
 daiichi,xxx
-eisei,xxx
+eisai,xxx
 eli,xxx
 ferring,xxx
 future,xxx
 galderma,xxx
+genzyme,xxx
 gilead,xxx
 glaxosmithkline,xxx
 gruenenthal,xxx
 hra,xxx
-jansen,xxx
+janssen,xxx
 leo,xxx
 lundbeck,xxx
 meda,xxx
