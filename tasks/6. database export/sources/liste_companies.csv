@@ -17,7 +17,7 @@ pha_id,pha_key,pha_name
 16,bristol,Bristol-Myers Squibb SA
 17,celgene,Celgene
 18,csl,CSL Behring
-19,daiichi,Daiichi Sankyō
+19,daiichi,Daiichi Sankyo
 20,eisai,Eisai
 21,eli,Eli Lilly SA
 22,ferring,Ferring Pharmaceuticals
@@ -57,3 +57,4 @@ pha_id,pha_key,pha_name
 56,ucb,UCB Pharma GmbH
 57,vifor,Vifor Pharma
 58,zambon,Zambon
+59,norgine,Norgine
