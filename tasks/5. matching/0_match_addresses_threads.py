@@ -17,7 +17,7 @@ import concurrent.futures
 
 #%%
 run_for = 'hco'
-num_process = 4
+num_process = mp.cpu_count()
 version = 0.4
 
 # Conditions
@@ -60,7 +60,7 @@ df_data = df[df.type == run_for].copy()
 df_data['address'] = df_data['address'].fillna("")
 
 #For Testing
-df_data = df_data[df_data.source.isin(['eli', 'shire', 'almirall'])]
+#df_data = df_data[df_data.source.isin(['eli', 'shire', 'almirall'])]
 
 #Reset index
 df_data = df_data.reset_index(drop=True)
@@ -91,6 +91,7 @@ start_time = time.time()
 
 print("===============================")
 print("Start fuzzy matcher THREADS %s %s" % (run_for, version))
+print("Cores detected: %s" % num_process)
 print("Rows to match: %s" % total_rows)
 print("Start time: %s" % datetime.datetime.now())
 print("===============================")
@@ -106,10 +107,6 @@ def run(datasets):
     counter = 0
     total_rows = len(df_part)
     for index, row in df_part.iterrows():
-
-        if counter % 10 == 0:
-            sys.stdout.write("\rProgress: %s%%" % round(100 / total_rows * counter, 2))
-            sys.stdout.flush()
 
         #Frist Fuzzynize only location
         df_data['r_location'] = 0
@@ -154,32 +151,42 @@ def run(datasets):
                                                    }, ignore_index=True)
 
 
+        if counter % 10 == 0:
+            sys.stdout.write("\rProgress: %s%%" % round(100 / total_rows * counter, 2))
+            sys.stdout.flush()
+                
         counter += 1
 
     #elapsed_time = time.time() - start_time
     #print('\nFinished in: ' + str(round(elapsed_time / 60, 2)) + ' minutes')
     return df_matchlist
     
-# Prepare Threads
-with concurrent.futures.ProcessPoolExecutor() as executor:
-    
-    #Create pool
-    pool = mp.Pool(processes = num_process)
-    
-    #Create Jobs
-    jobs = []
-    job_len = round(len(df_data) / num_process)
-    for x in range(0, num_process):
-        part = df_data[x * job_len : x * job_len + job_len]
-        jobs.append({"df_data": df_data.copy(), "df_part": part})
 
-    
-    matchlist_list = executor.map(run, jobs)
-    ds_matchlist = pd.concat(matchlist_list)
-    
-    elapsed_time = time.time() - start_time
+#Create pool
+pool = mp.Pool(processes = num_process)
 
-    print('\nFinished in: ' + str(round(elapsed_time / 60, 2)) + ' minutes')
+#Create Jobs
+jobs = []
+job_len = round(len(df_data) / num_process)
+for x in range(0, num_process):
+    part = df_data[x * job_len : x * job_len + job_len]
+    jobs.append({"df_data": df_data.copy(), "df_part": part})
+
+#Run Threats
+matchlist_list = pool.map(run, jobs)
+pool.close()
+pool.join()
+
+#Concat Results
+ds_matchlist_new = pd.concat(matchlist_list)
+#print(str(len(matchlist_list)))
+print("")
+print("len ds_mathclist_new " + str(len(ds_matchlist_new)))
+
+#Time Spend
+elapsed_time = time.time() - start_time
+
+print('\nFinished in: ' + str(round(elapsed_time / 60, 2)) + ' minutes')
     
 
 
@@ -190,11 +197,11 @@ with concurrent.futures.ProcessPoolExecutor() as executor:
 
 #%%
 if on_git:
-    df_data.to_csv('../../data/3. transformation/4_%s_matches_threads.csv' % run_for, index=True)
-    df_matchlist.to_csv('../../data/3. transformation/4_%s_matchlist_threads.csv' % run_for, index=False)
+    df_data.to_csv('../../data/3. transformation/4_%s_matches.csv' % run_for, index=True)
+    ds_matchlist_new.to_csv('../../data/3. transformation/4_%s_matchlist.csv' % run_for, index=False)
 else:
-    df_data.to_csv('4_%s_matches_threads.csv' % run_for, index=True)
-    df_matchlist.to_csv('4_%s_matchlist_threads.csv' % run_for, index=False)
+    df_data.to_csv('4_%s_matches.csv' % run_for, index=True)
+    ds_matchlist_new.to_csv('4_%s_matchlist.csv' % run_for, index=False)
 
 
 #%%
