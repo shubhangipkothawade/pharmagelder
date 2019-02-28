@@ -17,7 +17,7 @@ pha_id,pha_name
 16,Bristol-Myers Squibb SA
 17,Celgene
 18,CSL Behring
-19,Daiichi Sankyō
+19,Daiichi Sankyo
 20,Eisai
 21,Eli Lilly SA
 22,Ferring Pharmaceuticals
@@ -42,7 +42,7 @@ pha_id,pha_name
 41,Nordic Pharma GmbH
 42,Novo Nordisk
 43,Orion Pharma AG
-44,Ōtsuka Seiyaku
+44,Otsuka Seiyaku
 45,Pfizer AG
 46,Pierre Fabre
 47,Hoffmann-La Roche
@@ -57,3 +57,4 @@ pha_id,pha_name
 56,UCB Pharma GmbH
 57,Vifor Pharma
 58,Zambon
+59,Norgine
