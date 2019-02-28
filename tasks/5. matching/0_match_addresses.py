@@ -13,12 +13,13 @@ import os.path
 import datetime
 import multiprocessing as mp
 import concurrent.futures
+import math
 
 
 #%%
 run_for = 'hco'
-num_process = mp.cpu_count()
 version = 0.4
+num_process = mp.cpu_count()
 
 # Conditions
 conditions = {
@@ -69,7 +70,7 @@ df_data = df_data.reset_index(drop=True)
 df_data.index += 1
 
 #create empty matchlist
-df_matchlist = pd.DataFrame(columns=['source', 'target', 'r_name', 'r_address', 'r_location', 'r_ratio'])
+#df_matchlist = pd.DataFrame(columns=['source', 'target', 'r_name', 'r_address', 'r_location', 'r_ratio'])
 
 total_rows = len(df_data)
 
@@ -97,7 +98,7 @@ print("Start time: %s" % datetime.datetime.now())
 print("===============================")
 
 def run(datasets):
-    print("Run thread")
+    print("Thread startet")
     df_data = datasets['df_data']
     df_part = datasets['df_part']
     
@@ -167,12 +168,17 @@ pool = mp.Pool(processes = num_process)
 
 #Create Jobs
 jobs = []
-job_len = round(len(df_data) / num_process)
+job_len = math.ceil(len(df_data) / num_process)
 for x in range(0, num_process):
     part = df_data[x * job_len : x * job_len + job_len]
     jobs.append({"df_data": df_data.copy(), "df_part": part})
+    print('Thread Data len: ' + str(len(part)))
 
-#Run Threats
+    
+print("Total len: " + str(len(df_data)))
+print("")
+
+#Run Threats 
 matchlist_list = pool.map(run, jobs)
 pool.close()
 pool.join()
