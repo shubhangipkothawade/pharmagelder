@@ -1,0 +1,14 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Martin Behe,Villigen,CH,"PSI Aarebrucke, 5232 , martin.behe@psi.ch",,,,,0,804.93,2095,60.54,2960.47,hcp,norgine
+Laurent Spahr,Geneva,CH,"Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4, 1205",,,,,0,88.0,1500,0.0,1588.0,hcp,norgine
+Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,"Rue du Bugnon 44, 1011",,,0.0,3000.0,0,0.0,0,0.0,3000.0,hco,norgine
+"EndoSwiss,    Stefan Seewald, GastroZentrum Hirslanden",Zürich,CH,"Witellikerstraße 40, 8008",,,0.0,2000.0,0,0.0,0,0.0,2000.0,hco,norgine
+Hopital de Fribourg,Fribourg,CH,"Chemin des Pensionnats 2, 1700",,,0.0,1000.0,0,0.0,0,0.0,1000.0,hco,norgine
+"Hopital du Valais, Service de Médecine Interne Générale du CHVR,  Pierre-Auguste Petignat",Sion,CH,"Avenue Grand-Champsec 86 , 1950",,,0.0,4000.0,0,0.0,0,0.0,4000.0,hco,norgine
+"Inselgruppe AG, Stiftungen und Fonds",Bern,CH,"Freiburgstrasse 4, 3010",,,0.0,3000.0,0,0.0,0,0.0,3000.0,hco,norgine
+Kantonsspital St.Gallen,St. Gallen,CH,"Rorschacher-Strasse 95, 9007",,,0.0,3000.0,0,0.0,0,0.0,3000.0,hco,norgine
+Magen Darm Liga Schweiz,Bern,CH,"Postfach 7207, 3001",,,0.0,3000.0,0,0.0,0,0.0,3000.0,hco,norgine
+"Spital Wil, Spitalregion Fürstenland Toggenburg c/o Fent Event GmbH",Bronschhofen,CH,"Eggwilstrasse 16b, 9552",,,0.0,1650.0,0,0.0,0,0.0,1650.0,hco,norgine
+Stiftung für die Forschung in der Gastroenterologie und Hepatologie,Zürich,CH,"Rämistrasse 100, 8091",,,5000.0,0.0,0,0.0,0,0.0,5000.0,hco,norgine
+"SwissNGM The Neurogastro-Motility Network,  Daniel Pohl",Zürich,CH,"Rämistrasse 100, 8091",,,0.0,1089.6,0,0.0,0,0.0,1089.6,hco,norgine
+"Verein Interdigest,  Daniel Christen,  Beat Helbling",Zürich,CH,"Privatklinik Bethanien, Toblerstrasse 51, 8044",,,0.0,1000.0,0,0.0,0,0.0,1000.0,hco,norgine
