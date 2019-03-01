@@ -373,7 +373,7 @@ Alexander Frumkin,Düdingen,CH,"Praxiszentrum Düdingen, Bahnhofplatz 2A",,,0.0,
 Alexander Haab,Münsterlingen,CH,Kantonsspital Münsterlingen,,,,,145.0,550.0,,,695.0,hcp,allergan,2017,3732,1.0
 Alexander Hägeli,Binningen,CH,Hauptstrasse 7,,,0.0,0.0,291.0,392.0,0.0,0.0,684.0,hcp,pfizer,2015,3733,1.0
 Alexander Iseli,Liestal,CH,Weierweg 7,4410,,,,0.0,0.0,500.0,0.0,500.0,hcp,roche,2017,71,
-Alexander Iseli,Liestal,CH,Weierweg 7,,,,,307.0,672.0,,,79.0,hcp,menarini,2017,71,
+Alexander Iseli,Liestal,CH,Weierweg 7,,,,,307.0,672.0,,,979.0,hcp,menarini,2017,71,
 Alexander Iseli,Liestal,CH,"Gruppenpraxis, Weierweg 7",,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,novartis,2017,71,
 Alexander Iseli,Liestal,CH,"Gruppenpraxis, Weierweg 7",,,,,,,700.0,,700.0,hcp,novartis,2016,71,
 Alexander Iseli,Liestal,CH,Kantonsspital Baselland Liestal Rheumatologische Klinik Rheinstrasse 26,,,0.0,0.0,66.25,250.35,0.0,0.0,316.6,hcp,msd,2015,3734,1.0
@@ -764,7 +764,7 @@ Andrea Babians-Brunner,Schlieren,CH,"Endokrinologie & Diabetologie, Urdorferstra
 Andrea Badaracco,Lugano,CH,Via Soldino 7,,,,,,,210.0,,210.0,hcp,pfizer,2016,595,
 Andrea Badaracco,Lugano,CH,Via Soldino 7,,,,0.0,0.0,0.0,1380.0,0.0,1380.0,hcp,pfizer,2017,595,1.0
 Andrea Badaracco,Lugano,CH,Via Soldino 7,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,pfizer,2015,595,
-Andrea Badaracco,Lugano,CH,Via Soldino 7,,,,,353.4,669.2,,,1822.6,hcp,menarini,2017,595,
+Andrea Badaracco,Lugano,CH,Via Soldino 7,,,,,353.4,669.2,,,1022.6,hcp,menarini,2017,595,
 Andrea Badaracco,Lugano,CH,Via Soldino 7,,,0.0,0.0,293.0,217.0,0.0,0.0,510.0,hcp,abbvie,2015,595,
 Andrea Baerlocher,Zürich,CH,Rötelstrasse 122,,,,,71.0,288.0,420.0,,779.0,hcp,novo,2017,3827,1.0
 Andrea Bischof,Zürich,CH,Möhrlistrasse 69,,,,,156.0,56.0,,,212.0,hcp,novo,2017,2058,1.0
@@ -2208,7 +2208,7 @@ Bernhard Decard,Basel,CH,Petersgraben 4,,,,,,,1000.0,,1000.0,hcp,almirall,2017,4
 Bernhard Frühauf,Walenstadt,CH,,,,,,296.0,442.0,0.0,0.0,738.0,hcp,mundipharma,2016,890,
 Bernhard Frühauf,Walenstadt,CH,Stickereiweg 1,,,0.0,0.0,291.0,319.0,0.0,0.0,610.0,hcp,mundipharma,2015,890,
 Bernhard Frühauf,Walenstadt,CH,Stickereiweg 1,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,astrazeneca,2017,890,
-Bernhard Frühauf,Walenstadt,CH,"Praxis Bernhard Frühauf, Stickereiweg 1",,,0.0,0.0,0.0,0.0,1500.0,0.0,150000.0,hcp,novartis,2017,890,1.0
+Bernhard Frühauf,Walenstadt,CH,"Praxis Bernhard Frühauf, Stickereiweg 1",,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,novartis,2017,890,1.0
 Bernhard Gerber,Bellinzona,CH,Via Ospedale,,,,,,,1000.0,,1000.0,hcp,csl,2017,4271,1.0
 Bernhard Greder,Carouge Ge,CH,Rue de la Gabelle 28,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,novo,2015,4272,1.0
 Bernhard Henrich,Winterthur,CH,Brauerstrasse IS,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,novartis,2015,1357,
@@ -3181,7 +3181,7 @@ Christian Schuster,St. Gallen,CH,Kugelgasse 8,,WCHM03282019,,,,,917.0,,917.0,hcp
 Christian Schuster,St. Gallen,CH,Kugelgasse 8,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,celgene,2015,2284,
 Christian Schäli,Vevey,CH,Avenue Luis Ruchonnet 11,,,,,,,2400.0,,2400.0,hcp,pfizer,2016,4554,1.0
 Christian Semini,Viganello,CH,Coop Vitality Farmacia Via Molinazzo 1,,,,,,,600.0,,600.0,hcp,sandoz,2016,4555,1.0
-Christian Sigg,Zürich,CH,Regensbergstrasse 91,,,,,,,1800.0,,1000.0,hcp,menarini,2017,4556,1.0
+Christian Sigg,Zürich,CH,Regensbergstrasse 91,,,,,,,1000.0,,1000.0,hcp,menarini,2017,4556,1.0
 Christian Simon,Lausanne,CH,Rue du Bugnon 46,,,0.0,0.0,0.0,0.0,2966.0,763.87,3729.87,hcp,merck,2015,4557,1.0
 Christian Spirig,Luzern,CH,Hirslanden Klinik St. Anna St. Anna-Strasse 32,,,0.0,0.0,117.0,58.5,800.0,0.0,975.5,hcp,astrazeneca,2017,212,
 Christian Spirig,Luzern,CH,St. Anna-Strasse 32,,,,,0.0,0.0,800.0,0.0,800.0,hcp,roche,2016,212,
@@ -3891,7 +3891,7 @@ Constantin Protoulis,Genève,CH,Avenue Jules-Crosnier 4,,,,,,227.0,,,227.0,hcp,s
 Constantin Protoulis,Genève,CH,FMH psychiatrie et psychothérapieAvenue Jules-Crosnier 4,,,0.0,0.0,298.0,461.0,0.0,0.0,759.0,hcp,servier,2015,1432,
 Cooper Julian,Basel,CH,Burgfelderstrasse 101,,,0.0,0.0,524.88,977.6,0.0,0.0,1502.48,hcp,amgen,2015,2343,
 Coralie Amandin Blanche,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,507.0,,,507.0,hcp,actelion,2016,4767,1.0
-Cord von Restorff,Männedorf,CH,Asylstrasse 84,,,,,307.0,1805.1,,,1312.1,hcp,menarini,2017,78,
+Cord von Restorff,Männedorf,CH,Asylstrasse 84,,,,,307.0,1005.1,,,1312.1,hcp,menarini,2017,78,
 Cord von Restorff,Männedorf,CH,Asylstrasse 84,8708,,,,0.0,0.0,500.0,0.0,500.0,hcp,roche,2017,78,
 Cord von Restorff,Männedorf,CH,Asylstrasse 84,,,,,574.0,5180.0,0.0,0.0,5754.0,hcp,roche,2016,78,
 Cord von Restorff,Männedorf,CH,Asylstrasse 84,,WCHM07661211,,,1412.54,5500.6,,,6913.14,hcp,celgene,2017,78,1.0
@@ -3924,7 +3924,7 @@ Corinne Gurtner,Sion,CH,Avenue du Grand-Champsec 80,,,,,0.0,0.0,800.0,0.0,800.0,
 Corinne Isoz,Genève,CH,Rue Baudit 6,,,,,711.0,1560.0,,,2271.0,hcp,novo,2016,899,
 Corinne Isoz,Genève,CH,Rue Baudit 6,,,0.0,0.0,837.0,1612.0,0.0,0.0,2449.0,hcp,novo,2015,899,
 Corinne Isoz,Genève,CH,Cabinet Dr Isoz Corinne Rue Baudit 6,1201,,,,,120.5,,,120.5,hcp,sanofi,2017,899,
-Corinne Mischler,Lausanne,CH,Avenue de Rumine 25,,,,,391.3,611.9,,,1803.2,hcp,menarini,2017,2346,1.0
+Corinne Mischler,Lausanne,CH,Avenue de Rumine 25,,,,,391.3,611.9,,,1003.2,hcp,menarini,2017,2346,1.0
 Corinne Mischler,Lausanne,CH,Avenue de Rumine 25,,,,,397.0,865.0,,,1262.0,hcp,menarini,2016,2346,
 Corinne Miserez Zaugg,Genève,CH,Chemin de Beau-Soleil 22,,,,,342.0,445.0,,,788.0,hcp,ferring,2017,4781,1.0
 Corinne Rozain,Aubonne,CH,Chemin de Clamogne 27,1170,,,,,,200.0,,200.0,hcp,boehringer,2017,4782,1.0
@@ -4481,7 +4481,7 @@ Daniel Zuder,St. Gallen,CH,"Haut & Laserzentrum Dr. Zuder AG, St. Leonhard-Stras
 Daniel Zuder,St. Gallen,CH,Sankt Leonhard- Strasse 20,,7601000676986,,,,705.95,,,705.95,hcp,galderma,2017,80,
 Daniel Zwahlen,Chur,CH,"Kantonsspital Graubünden, Loëstrasse 170",,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astellas,2015,4909,1.0
 Daniel Zöllig,Romanshorn,CH,Bahnhofstrasse 16,,,,,422.0,375.0,,,797.0,hcp,sandoz,2016,4910,1.0
-Daniela Benz,Fribourg,CH,Rue Jacques-Vogt 3,,,,,561.3,1809.3,,,1571.1,hcp,menarini,2017,653,
+Daniela Benz,Fribourg,CH,Rue Jacques-Vogt 3,,,,,561.3,1009.3,,,1571.1,hcp,menarini,2017,653,
 Daniela Benz,Fribourg,CH,Rue Jacques-Vogt 3,,,,,576.0,619.0,0.0,0.0,1195.0,hcp,roche,2016,653,
 Daniela Benz,Fribourg,CH,Rue Jacques-Vogt 3,,,,0.0,0.0,0.0,660.0,0.0,660.0,hcp,pfizer,2017,653,1.0
 Daniela Benz,Fribourg,CH,Rue Jacques-Vogt 3,1700,,,,0.0,428.2,0.0,0.0,428.2,hcp,roche,2017,653,
@@ -4766,7 +4766,7 @@ Diego Bär,Thun,CH,Frutigenstrasse 6,,,,,293.0,471.0,,,764.0,hcp,abbvie,2016,149
 Diego Bär,Thun,CH,"Rheuma Zentrum Thun, Frutigenstrasse 6",,,,,,,1500.0,,1500.0,hcp,novartis,2016,149,
 Diego Bär,Thun,CH,Frutigenstrasse 6,,,,,164.0,873.0,750.0,,1787.0,hcp,bristol,2016,149,
 Diego Bär,Thun,CH,Frutigenstrasse 6,,,,,849.92,572.22,500.0,,1922.14,hcp,celgene,2016,149,
-Diego Bär,Thun,CH,Frutigenstrasse 6,,,,,873.0,1692.2,1500.0,,4865.2,hcp,menarini,2017,149,
+Diego Bär,Thun,CH,Frutigenstrasse 6,,,,,873.0,1692.2,1500.0,,4065.2,hcp,menarini,2017,149,
 Diego Bär,Thun,CH,Frutigenstrasse 6,,,,0.0,0.0,0.0,350.0,0.0,350.0,hcp,pfizer,2017,149,1.0
 Diego Bär,Thun,CH,Frutigenstrasse 6,3600,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,roche,2015,149,
 Diego Kyburz,Basel,CH,Petersgraben 4,4031,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,roche,2015,2430,
@@ -5039,7 +5039,7 @@ Dulien Morier,Chavannes-près-Renens,CH,"Cabinet de groupe, Rue de la Blancherie
 Dumitru Lacatis,Genève,CH,Rue Chantepoulet 5,,,,,100.0,,,,100.0,hcp,servier,2016,5094,1.0
 "Dumont-Berset, Magali",Villars sur Glâne,CH,Rue Du Centre 8,1752,,,,430.0,547.0,,44.0,1021.0,hcp,allergan,2016,2453,
 Dung Quach,Lausanne,CH,Chemin de Montelly 48,,,,,283.0,466.0,,,749.0,hcp,menarini,2016,5095,1.0
-Dunsim Ramadani,Nyon,CH,Chemin Monastier 10,,,,,380.3,641.2,,,1821.4,hcp,menarini,2017,973,
+Dunsim Ramadani,Nyon,CH,Chemin Monastier 10,,,,,380.3,641.2,,,1021.4,hcp,menarini,2017,973,
 Durrsim Ramadani,Nyon,CH,Chemin Monastier 10,,,,,641.2,774.23,,,1415.43,hcp,amgen,2016,973,
 Durrsim Ramadani,Nyon,CH,Chemin Monastier 10,,,,,706.0,753.0,,,1459.0,hcp,abbvie,2017,973,1.0
 Durrsim Ramadani,Nyon,CH,Chemin Monastier 10,,,0.0,0.0,352.0,598.0,0.0,0.0,950.0,hcp,menarini,2015,973,
@@ -5707,7 +5707,7 @@ Felix Burkhalter,Basel,CH,Petersgraben 4,,,0.0,0.0,184.8,2477.1,0.0,0.0,2661.9,h
 Felix Burkhalter Pirovino,Liestal,CH,Rheinstrasse 26,,,,,467.45,252.75,,,720.2,hcp,amgen,2017,5321,1.0
 Felix Gueissaz,Neuchätel,CH,"Cabinet Felix Gueissaz, Avenue du Premier-Mars 33",,,,,,,700.0,,700.0,hcp,novartis,2016,5322,1.0
 Felix Häberlin,St. Gallen,CH,FIORE,,,,,629.0,287.0,,,916.0,hcp,ferring,2016,5323,1.0
-Felix Häfelin,Schlieren,CH,Uitikonerstrasse 9,,,,,307.0,1805.1,,,1312.1,hcp,menarini,2017,1500,
+Felix Häfelin,Schlieren,CH,Uitikonerstrasse 9,,,,,307.0,1005.1,,,1312.1,hcp,menarini,2017,1500,
 Felix Häfelin,Schlieren,CH,Uitikonerstrasse 9,,,,0.0,551.0,1065.0,0.0,0.0,1616.0,hcp,pfizer,2017,1500,1.0
 Felix Häfelin,Schlieren,CH,Uitikonerstrasse 9,,,,,547.0,1433.0,,,1980.0,hcp,pfizer,2016,1500,
 Felix Kühn,Luzern,CH,Weggisgasse 40,,,0.0,0.0,438.0,1722.0,1400.0,0.0,3560.0,hcp,novo,2015,232,
@@ -6683,7 +6683,7 @@ Giovanni Ferrari,Lugano,CH,Corso Pestalozzi 11,,,0.0,0.0,418.0,247.0,0.0,0.0,665
 Giovanni Ferrari,Lugano,CH,Studio medico Lugano Corso Pestalozzi 11,,,,,,,1300.0,,1300.0,hcp,sanofi,2016,683,
 Giovanni Ferrari,Lugano,CH,Corso Pestalozzi 11,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,novartis,2015,683,
 Giovanni Ferrari,Lugano,CH,Corso Pestalozzi 11,,,,,418.0,247.0,,,665.0,hcp,stallergenes,2016,683,
-Giovanni Ferrari,Lugano,CH,"Studio medico, Corso Pestalozzi 11",,,0.0,0.0,0.0,0.0,1500.0,0.0,150000.0,hcp,novartis,2017,683,1.0
+Giovanni Ferrari,Lugano,CH,"Studio medico, Corso Pestalozzi 11",,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,novartis,2017,683,1.0
 Giovanni Foletti,Lavigny,CH,Institution de Lavigny Route Du Vignoble 60,,,0.0,0.0,0.0,0.0,1750.0,0.0,1750.0,hcp,eisai,2015,5588,1.0
 Giovanni Frisoni,Les Acacias,CH,Rue des Epinettes 19,1227,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,roche,2015,1519,
 Giovanni Frisoni,Thônex,CH,Chemin du Pont- Bochet 3,,,0.0,0.0,1545.0,0.0,0.0,887.0,2432.0,hcp,eli,2015,5589,1.0
@@ -6803,7 +6803,7 @@ Grégoire Girod,Sierre,CH,Rue Saint-Charles 14,,,,,,,1000.0,,1000.0,hcp,amgen,20
 Grégoire Girod,Sion,CH,Chemin Isabelle de Montolieu 34A,1950,7601000056078,,,,,800.0,,800.0,hcp,servier,2017,5625,1.0
 Grégoire Girod,Sion,CH,Avenue Grand-Champsec 80,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer,2015,1552,
 Grégoire Girod,Sion,CH,Avenue Grand-Champsec 80,1951,40754386,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer,2017,1552,1.0
-Grégoire Mayor,Neuchâtel,CH,Rue de la Maladière 45,,,,,380.3,651.8,,,1832.1,hcp,menarini,2017,2618,1.0
+Grégoire Mayor,Neuchâtel,CH,Rue de la Maladière 45,,,,,380.3,651.8,,,1032.1,hcp,menarini,2017,2618,1.0
 Grégoire Mayor,Neuchâtel,CH,Rue de la Maladière 45,2000,40719451,0.0,0.0,470.65,950.95,0.0,0.0,1421.6,hcp,bayer,2017,2618,
 Grégoire Schrago,Fribourg,CH,Route de Bretigny 34,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,sandoz,2015,5626,1.0
 Grégoire Würzner,Lausanne,CH,Chef de clinique Service de néphrologie et hypertension CHUV / BH 19 Rue du Bugnon 17,,,0.0,0.0,193.0,0.0,0.0,0.0,193.0,hcp,servier,2015,2568,1.0
@@ -7762,7 +7762,7 @@ Isabella Terrani,Zürich,CH,Herman-Greulich-Strasse 70,,,0.0,0.0,488.0,2668.0,0.
 Isabelle Arnet,Basel,CH,Klingelbergstrasse 50,,,0.0,0.0,0.0,312.45,0.0,0.0,312.45,hcp,bayer,2016,2706,1.0
 Isabelle Arnet,Basel,CH,Klingelbergstrasse 50,,,0.0,0.0,778.87,857.55,0.0,915.4,2551.82,hcp,bayer,2015,2706,
 Isabelle Brugger,Basel,CH,Praxis Dr. Brugger Isabelle Holbeinstrasse 21,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,2015,5888,1.0
-Isabelle Carey Berner,Lausanne,CH,Rue Saint-Pierre 1,,,,,353.4,652.2,,,1805.6,hcp,menarini,2017,2707,1.0
+Isabelle Carey Berner,Lausanne,CH,Rue Saint-Pierre 1,,,,,353.4,652.2,,,1005.6,hcp,menarini,2017,2707,1.0
 Isabelle Carey-Berner,Lausanne,CH,Rue Saint-Pierre 1,,,,,410.0,292.22,,,702.22,hcp,celgene,2016,2707,
 Isabelle Chatton Chambaz,Genève,CH,Boulevard des Philosophes 5,,,,,381.0,698.0,,,1079.0,hcp,novo,2016,1385,
 Isabelle Chatton Chambaz,Genève,CH,Cabinet de groupe Boulevard des Philosophes 5,,,,,,,1000.0,,1000.0,hcp,msd,2016,1385,
@@ -10211,7 +10211,7 @@ Maki Kashiwagi,Uster,CH,Bankstrasse 8,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,ba
 Maki Kashiwagi,Uster,CH,"gynosense AG, Bankstrasse 8",,,,,,,1500.0,,1500.0,hcp,vifor,2016,2942,1.0
 "Malclès, Ariane",Genève,CH,Rue Micheli-Du-Crest 24,1205,,,,435.0,1050.0,,,1485.0,hcp,allergan,2016,6590,1.0
 Malcolm Kohler,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,vifor,2015,63,
-Malcolm Kohler,Zürich,CH,"Universitätsspit al Zürich Medizin Pneumologie, Rämistrasse 100",,,0.0,0.0,0.0,0.0,4000.0,0.0,400000.0,hcp,novartis,2017,63,1.0
+Malcolm Kohler,Zürich,CH,"Universitätsspit al Zürich Medizin Pneumologie, Rämistrasse 100",,,0.0,0.0,0.0,0.0,4000.0,0.0,4000.0,hcp,novartis,2017,63,1.0
 Malcolm Kohler,Forch,CH,"Universitätsspital, rämistrasse 100",,,,,,,2000.0,,2000.0,hcp,mundipharma,2017,2943,1.0
 Malcolm Kohler,Zürich,CH,"Universitätsspital Zürich Medizin Pneumologie, Rämistrasse 100",,,,,,,12750.0,,12750.0,hcp,novartis,2016,63,
 Malcolm Kohler,Zürich,CH,"Universitätsspital Zürich, Rämistrasse 100",,,,,,,2000.0,,2000.0,hcp,csl,2016,63,
@@ -14135,7 +14135,7 @@ Philippe Babando,Les Brenets,CH,Rue de la Gare 3,,,0.0,0.0,0.0,0.0,6700.0,0.0,67
 Philippe Barazzone,Genève,CH,Rond-Point de Plainpalais 7,,,,,,99.0,350.0,,449.0,hcp,pfizer,2016,1828,
 Philippe Barazzone,Genève,CH,Rond-Point de Plainpalais 7,,,0.0,0.0,0.0,176.0,0.0,0.0,176.0,hcp,pfizer,2015,1828,
 Philippe Barazzone,Genève,CH,Rond-Point de Plainpalais 7,,,,0.0,0.0,150.0,760.0,0.0,910.0,hcp,pfizer,2017,1828,1.0
-Philippe Beissner,Zollikerberg,CH,Rietholzstrasse 4,,,,,196.1,35.8,1500.0,,1931.9,hcp,menarini,2017,3268,1.0
+Philippe Beissner,Zollikerberg,CH,Rietholzstrasse 4,,,,,196.1,235.8,1500.0,,1931.9,hcp,menarini,2017,3268,1.0
 Philippe Beissner,Zollikerberg,CH,Rietholzstrasse 4,,,,,183.0,235.0,1500.0,,1918.0,hcp,menarini,2016,3268,
 Philippe Beuret,Aigle,CH,Chemin du Grand-Chene,,,0.0,0.0,503.0,521.0,0.0,0.0,1024.0,hcp,novartis,2015,1363,
 Philippe Beuret,Aigle,CH,"Cabinet Philippe Beuret, Chemin du Grand-Chöne 1",,,,,,,700.0,,700.0,hcp,novartis,2016,1363,1.0
@@ -14359,7 +14359,7 @@ Pierre Monello,Colombier Ne,CH,FMH Médecine interne généraleChemin des Uttins
 Pierre Piletta,Genève,CH,Rond-point de Plainpalais 5,,,,,364.0,628.0,,,992.0,hcp,abbvie,2016,779,
 Pierre Piletta,Genève,CH,Rond-point de Plainpalais 5,1205,,,,,,1000.0,,1000.0,hcp,leo,2016,779,
 Pierre Quadri,St-imier,CH,Rue du Temple 3,,,0.0,0.0,481.0,1033.0,0.0,0.0,1513.0,hcp,pfizer,2015,548,
-Pierre Quadri,St-Imier,CH,Rue du Temple 3,,,,,561.3,1803.3,300.0,,1864.6,hcp,menarini,2017,548,
+Pierre Quadri,St-Imier,CH,Rue du Temple 3,,,,,561.3,1003.3,300.0,,1864.6,hcp,menarini,2017,548,
 Pierre Quadri,St-Imier,CH,Rue du Temple 3,,,,,,,770.0,,770.0,hcp,pfizer,2016,548,
 Pierre Quadri,St-Imier,CH,Rue du Temple 3,,,,,330.0,484.0,,,814.0,hcp,abbvie,2016,548,
 Pierre Quadri,St-Imier,CH,Rue Du Temple 3,,,,,551.26,1194.79,,,1746.05,hcp,amgen,2016,548,
@@ -14585,7 +14585,7 @@ Rahel Schwotzer,Zürich,CH,,,,0.0,0.0,666.0,724.0,0.0,0.0,1390.0,hcp,mundipharma
 Rahel Zimmermann,Glarus,CH,Postgasse 22,,,,,64.0,,,,64.0,hcp,mepha,2016,7797,1.0
 Rahmann Marguerite Krasovec,Schlieren,CH,Uitikonerstrasse 9,,,0.0,0.0,725.0,866.0,700.0,0.0,2291.0,hcp,novartis,2015,120,
 Rahul Gupta,Cazis,CH,"Klinik Beverin, La Nicca Strasse 17",,,,,,,2400.0,,2400.0,hcp,vifor,2016,7798,1.0
-Rail Polikar,Nyon,CH,Chemin Monastier 10,,,,,311.7,1871.6,1500.0,,2883.3,hcp,menarini,2017,374,
+Rail Polikar,Nyon,CH,Chemin Monastier 10,,,,,311.7,1071.6,1500.0,,2883.3,hcp,menarini,2017,374,
 Rainer Adam,Bern,CH,Junkerngasse 61,3011,40742150,0.0,0.0,577.35,5853.35,0.0,0.0,6430.7,hcp,bayer,2017,1846,1.0
 Rainer Adam,Bern,CH,Junkerngasse 61,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,bayer,2016,1846,
 Rainer Adam,Bern,CH,Junkerngasse 61,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,bayer,2015,1846,
@@ -14646,7 +14646,7 @@ Ralph Winterhaider,Luzern,CH,Spitalstrasse,,,,,290.0,493.0,,,783.0,hcp,teva,2016
 Ralph Winterhalder,Luzern,CH,"Spitalstrasse 31, Luzerner Kantonsspital",,,,,,475.64,,,475.64,hcp,future,2016,3302,
 Ralph Zachariah,Aarau,CH,Teilstrasse,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,novartis,2015,7812,1.0
 Raluca Alexe,Uvrier,CH,Chemin du Puits 3,,,,,500.0,,,,500.0,hcp,servier,2016,7813,1.0
-Raluca Alexe,Sion,CH,Avenue du Grand-Champsec 80,,,,,391.3,,,,1255.3,hcp,menarini,2017,7814,1.0
+Raluca Alexe,Sion,CH,Avenue du Grand-Champsec 80,,,,,391.3,864.0,,,1255.3,hcp,menarini,2017,7814,1.0
 Rames Mayer,Bellinzona,CH,Via Prato Carasso 7,,,,,,,400.0,,400.0,hcp,servier,2016,7815,1.0
 Rames Mayer,Bellinzona,CH,FMH cardiologiaVia Sergio Mordasini 12,,,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0,hcp,servier,2015,1177,
 Rames Mayer,Bellinzona,CH,Mayer Rames Va Mordasini 12,,,0.0,0.0,429.76,1474.35,1700.0,0.0,3604.11,hcp,takeda,2015,1177,
@@ -14866,7 +14866,7 @@ René Kasé,Valens,CH,"Kliniken Valens, Taminaplatz 1",,,,,,269.3,,,269.3,hcp,vi
 René Kasé,Valens,CH,"Kliniken Valens, Taminaplatz 1",,,,,,287.1,,,287.1,hcp,vifor,2016,3322,
 René Knollmann,Einsiedeln,CH,Spitalstrasse 28,,,,0.0,0.0,397.0,0.0,0.0,397.0,hcp,pfizer,2017,3323,1.0
 René Knollmann,Einsiedeln,CH,Spitalstrasse 28,,,,,,401.0,,,401.0,hcp,pfizer,2016,3323,
-René Krause,Thun,CH,Krankenhausstrasse12,,,,,306.5,768.0,,,1874.5,hcp,menarini,2017,1078,1.0
+René Krause,Thun,CH,Krankenhausstrasse12,,,,,306.5,768.0,,,1074.5,hcp,menarini,2017,1078,1.0
 René Krause,Thun,CH,Krankenhausstrasse 12,,,0.0,0.0,0.0,0.0,688.0,0.0,688.0,hcp,bristol,2015,1078,
 René Krause,Thun,CH,"Spital STS AG, Krankenhausstr. 12",3600,,0.0,0.0,154.67,304.35,0.0,0.0,459.02,hcp,orion,2015,1078,
 René Lacher,Niedergösgen,CH,Schlossrainstrasse 5,,,,,64.0,,,,64.0,hcp,mepha,2016,7884,1.0
@@ -15290,7 +15290,7 @@ Rolf Köster,Bremgarten AG,CH,Zentrum Sunne-Märt,5620,7601000208439,,,,801.0,,,
 Rolf Lagger,Grächen,CH,Dorfplatz,,,0.0,0.0,0.0,0.0,444.0,0.0,444.0,hcp,mepha,2015,7998,1.0
 Rolf Lehmann,Biel/Bienne,CH,"Praxis Rolf Lehmann, Reitschulstrasse S",,,,,,,800.0,,800.0,hcp,novartis,2016,1865,
 Rolf Lehmann,Biel/bienne,CH,Reitschulstrasse 5,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,novartis,2015,1865,
-Rolf Lehmann,Biel/Bienne,CH,"Praxis Rolf Lehmann, Reitschulstrasse 5",,,0.0,0.0,0.0,0.0,800.0,0.0,80000.0,hcp,novartis,2017,1865,1.0
+Rolf Lehmann,Biel/Bienne,CH,"Praxis Rolf Lehmann, Reitschulstrasse 5",,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,novartis,2017,1865,1.0
 Rolf Lindt,Lyss,CH,Aarbergstrasse 50,3250,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,boehringer,2015,1191,
 Rolf Lindt,LYSS,CH,Aarbergstrasse 50,,,,,0.0,0.0,400.0,0.0,400.0,hcp,glaxosmithkline,2016,1191,
 Rolf Lindt,Lyss,CH,"Praxis Rolf Lindt, Aarbergstrasse 50",,,,,,,800.0,,800.0,hcp,novartis,2016,1191,
@@ -15446,7 +15446,7 @@ Rudolf Bezel,Winterthur,CH,"Praxis Rudolf Bezel, Wartstrasse 14",,,,,,,800.0,,80
 Rudolf Brenneisen,Bern,CH,Gr. Muristalden 32,,,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0,hcp,takeda,2015,3368,
 Rudolf Brenneisen,Bern,CH,Gr. Muristalden 32,,,,,,,500.0,,500.0,hcp,vifor,2017,3368,1.0
 Rudolf Frank,Bern,CH,Thunstrasse 2,3005,40712119,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer,2017,114,1.0
-Rudolf Frank,Bern,CH,Thunstrasse 2,,,,,311.7,1862.5,1500.0,,2874.2,hcp,menarini,2017,114,
+Rudolf Frank,Bern,CH,Thunstrasse 2,,,,,311.7,1062.5,1500.0,,2874.2,hcp,menarini,2017,114,
 Rudolf Frank,Bern,CH,Kardiologische Praxis Kirchenfeld Thunstrasse 2,,7601000475619,,,,,1000.0,,1000.0,hcp,msd,2017,114,
 Rudolf Frank,Bern,CH,Thunstrasse 2,,,0.0,0.0,369.73,449.33,0.0,0.0,819.06,hcp,actelion,2015,114,
 Rudolf Frank,Bern,CH,"Kardiologische Praxis Kirchenfeld, Thunstrasse 2",,,0.0,0.0,0.0,0.0,1300.0,0.0,1300.0,hcp,novartis,2017,114,
@@ -16977,7 +16977,7 @@ Theo Signer,Binningen,CH,"Vista Klinik, Hauptstrasse 55",4102,,,,,600.0,1000.0,4
 Theodor Landis,Lausanne,CH,Avenue Jomini 8,1004,,,,0.0,0.0,600.0,0.0,600.0,hcp,roche,2017,1925,1.0
 Theodor Landis,Lausanne,CH,"Cabinet Theodor Landis, Avenue Domini 8",,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,novartis,2017,1925,
 Theodor Landis,Lausanne,CH,Avenue Jomini 8,1004,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,boehringer,2015,1925,
-Theodor Peter Nowak;Peter Theodor Nowak,Bern,CH,Asylstrasse 84,,,,,307.0,1805.1,,,1312.1,hcp,menarini,2017,8533,1.0
+Theodor Peter Nowak,Bern,CH,Asylstrasse 84,,,,,307.0,1005.1,,,1312.1,hcp,menarini,2017,8533,1.0
 Theodor Schlatter,Bern,CH,"Praxis Dr. Schlatter Theodor, Kramgasse 61",,,,,,248.3,,,248.3,hcp,vifor,2017,8534,1.0
 Theodor Sonderegger,Zürich,CH,Birmensdorferstrasse 501,,,0.0,0.0,490.0,744.6,0.0,0.0,1234.6,hcp,sandoz,2015,8535,1.0
 Theresa H. Meindl,Wohlen,CH,Aargauerstrasse 9,5610,,,,443.0,,,181.0,624.0,hcp,allergan,2017,8536,1.0
@@ -17333,7 +17333,7 @@ Thomas Ruhstaller,St. Gallen,CH,Rorschacherstrasse 95,,,,,,,546.0,,546.0,hcp,amg
 Thomas Ruhstaller,St. Gallen,CH,Rorschacherst Rasse 95,,,,,,,630.0,,630.0,hcp,amgen,2016,269,
 Thomas Ruhstaller,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstrasse 95",,,,,,,2500.0,686.0,3186.0,hcp,eli,2017,269,
 Thomas Ruhstaller,St. Gallen,CH,Rorschacher Strasse 95,,,,,0.0,0.0,4800.0,0.0,4800.0,hcp,roche,2016,269,
-Thomas Ruhstaller,St. Gallen,CH,"Kantonsspital St. Gallen Brustzentrum/Chirurgie, Rorschacher Strasse 95",,,0.0,0.0,0.0,0.0,400.0,0.0,480.0,hcp,novartis,2017,269,
+Thomas Ruhstaller,St. Gallen,CH,"Kantonsspital St. Gallen Brustzentrum/Chirurgie, Rorschacher Strasse 95",,,0.0,0.0,0.0,0.0,400.0,0.0,400.0,hcp,novartis,2017,269,
 Thomas Ruhstaller,St. Gallen,CH,Rorschacher Strasse 95,,,,0.0,0.0,0.0,1600.0,0.0,1600.0,hcp,pfizer,2017,269,1.0
 Thomas Ruhstaller,St. Gallen,CH,Rorschacher Strasse 95,9007,,,,0.0,0.0,1787.0,0.0,1787.0,hcp,roche,2017,269,
 Thomas Ruhstaller,St. Gallen,CH,Kantonsspital St.Gallen Brustzentrum Rorschacher Strasse 95,,,,,360.0,,,,360.0,hcp,astrazeneca,2016,269,
@@ -17734,7 +17734,7 @@ Urs Eriksson,Wetzikon Zh,CH,"Kardiologie, Spitalstrasse 66",8620,,0.0,0.0,0.0,0.
 Urs Eriksson,Wetzikon ZH,CH,Spitalstrasse 66,8620,,,,0.0,0.0,1200.0,,1200.0,hcp,boehringer,2016,1242,
 Urs Eriksson,Wetzikon ZH,CH,Spitalstrasse 66,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,bayer,2016,1242,
 Urs Fritschi,Yverdon-les-Bains,CH,Rue D'entremonts 13,,,,,254.0,485.0,,,739.0,hcp,abbvie,2017,3557,1.0
-Urs Fritschi,Yverdon-les-Bains,CH,Rue d'Entremonts 13,,,,,380.3,677.5,,,1857.8,hcp,menarini,2017,3557,
+Urs Fritschi,Yverdon-les-Bains,CH,Rue d'Entremonts 13,,,,,380.3,677.5,,,1057.8,hcp,menarini,2017,3557,
 Urs Fromm,Wohlen AG,CH,"Praxis Dr. Fromm Urs, Zentralstrasse 55a",,,,,,248.3,,,248.3,hcp,vifor,2017,3558,1.0
 Urs Fromm,Wohlen AG,CH,Zentralstrasse 55a,,,,,205.0,870.0,205.0,,1280.0,hcp,lundbeck,2016,3558,
 Urs Gassmann,Rapperswil SG,CH,"Bauchzentrum Rapperswil, Güterstrasse 21/23",,,,,304.68,552.96,,,857.64,hcp,vifor,2017,8719,1.0
