@@ -684,7 +684,7 @@ Universitätsspital Basel Neurologische Klinik,Basel,CH,"Petersgraben 4, 4031 Ba
 Universitätsspital Zürich Augenklinik,Zürich,CH,"Frauenklinikstrasse 24, 8091 Zürich",,,,4000.0,,,,,4000.0,hco,allergan,,2017
 Universitätsspital Zürich Stiftung Bruno Block,Zürich,CH,"Gloriastrasse 31, 8091 Zürich",,,,2880.0,,,,,2880.0,hco,allergan,,2017
 Universitätsspital Zürich Klinik für Neurologie,Zürich,CH,"Rämistrasse 100, 8091 Zürich",,,,12000.0,,,,,12000.0,hco,allergan,,2017
-Verein Gastroenterologie Zürich VGZ,Zürich,CH,"Seestrasse 90, 8002 Zürich",,,,2000.0,,,,,2000.0,hco,allergan,,2017
+VGZ - Verein Gastroenterologie Zürich VGZ,Zürich,CH,"Seestrasse 90, 8002 Zürich",,,,2000.0,,,,,2000.0,hco,allergan,,2017
 Vista Klinik,Binningen,CH,"Hauptstrasse 55, 4102 Binningen",,,,3500.0,,500.0,,,4000.0,hco,allergan,,2017
 Jan Adolphsen,Montana,CH,Imp. Palace Bellevue 1,,,,,,,1000.0,,1000.0,hcp,almirall,,2017
 Reto Agosti,Zollikon,CH,Forchstrasse 424,,,,,,,1000.0,,1000.0,hcp,almirall,,2017
@@ -1938,7 +1938,7 @@ Circolo medico tre Valli,Dongio,CH,Via Cantonale,6715,1051384597,0.0,2600.0,0.0,
 Clinica Luganese Moncucco SA,Lugano,CH,Via Moncucco 10,6900,40535174,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer,,2017
 Clinica Santa Chiara SA,Locarno,CH,Via Stefano Franscini 4,6600,40534865,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer,,2017
 Clinique de Carouge SA,Carouge GE,CH,Avenue Cardinal-Mermillod 1,1227,40699347,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer,,2017
-COALAT / Anesthesiology CHUV,Lausanne,CH,Rue Du Bugnon 46,1011,40535421,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,bayer,,2017
+COALAT / Anesthesiology,Lausanne,CH,Rue Du Bugnon 46,1011,40535421,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,bayer,,2017
 COR2ED,Bottmingen,CH,Bodenackerstrasse 17,4103,40537070,0.0,405325.22,0.0,0.0,193373.49,0.0,598698.71,hco,bayer,,2017
 Council for International Organizations of Medical Sciences (CIOMS),Le Grand-Saconnex,CH,Route des Morillons 1-5,1218,1065559018,0.0,30442.21,0.0,0.0,0.0,0.0,30442.21,hco,bayer,,2017
 DOXnet - Ärztenetzwerk Bern Nord / West,Laupen BE,CH,Bösingenstrasse 16,3177,40519916,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer,,2017
@@ -2553,7 +2553,7 @@ UniversitätsSpital Zürich - Neuroimmunologie,Zürich,CH,Frauenklinikstrasse 26
 Université de Genève,Genève,CH,Rue Général-Dufour 24,,,,2000.0,,,,,2000.0,hco,bgp,,2017
 Université de Genève,Genève,CH,Centre comptable Uni 2,,,,1500.0,,,,,1500.0,hco,bgp,,2017
 VBHK,Bern,CH,Effingerstrasse 2,,,,4950.0,,,,,4950.0,hco,bgp,,2017
-Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 90,,,,2500.0,,,,,2500.0,hco,bgp,,2017
+VGZ Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 90,,,,2500.0,,,,,2500.0,hco,bgp,,2017
 Verein Lunge Zürich,Zürich,CH,Pfingstweidstrasse 10,,,,11600.0,,,,,11600.0,hco,bgp,,2017
 "Vereinigung der Zürcher Internisten, vertreten durch Energy of events",Zollikon,CH,Niederfelbenweg 9,,,,3800.0,,,,,3800.0,hco,bgp,,2017
 Adam Czaplinski,Zürich,CH,Theaterstrasse 8,,,,,,88.0,1632.0,,1720.0,hcp,biogen,,2017
@@ -5828,8 +5828,8 @@ Schweiz. Gesellschaft für Reproduktionsmed izin SGRM,Worb,CH,Postfach 754,,,,10
 Schweiz. Multiple Sklerose Gesellschaft,Zürich,CH,Josefstr. 129,,,,,263.26,1080.76,,,1344.02,hco,merck,,2017
 Schweizerische Gesellschaft für Allergologie und Immunologie,Bern 22,CH,Scheibenstrasse 20,,,,14925.6,,,,,14925.6,hco,merck,,2017
 SfwF,Zürich,CH,Birmensdorferstr asse 497,,,,1500.0,,,,,1500.0,hco,merck,,2017
-SGP c/o BBS Congress GmbH,Bern 25,CH,Postfach 604,,,,2916.0,,,,,2916.0,hco,merck,,2017
-SIOG(The International Society of Geriatric Oncology  ),Geneva,CH,1-5 Route des Morillons; P.O Box 2100,,,7983.48,,,,,,7983.48,hco,merck,,2017
+SGP,Bern 25,CH,Postfach 604,,,,2916.0,,,,,2916.0,hco,merck,,2017
+SIOG (The International Society of Geriatric Oncology  ),Geneva,CH,1-5 Route des Morillons; P.O Box 2100,,,7983.48,,,,,,7983.48,hco,merck,,2017
 Spital Limmattal,Schlieren,CH,Urdorferstrasse 100,,,,,302.8,364.14,,,666.94,hco,merck,,2017
 Spital Linth,Uznach,CH,Gasterstrasse 25,,,,2500.0,,,,,2500.0,hco,merck,,2017
 Spital Männedorf AG,Männedorf,CH,Asylstrasse 10,,,,,,,750.0,,750.0,hco,merck,,2017
@@ -9276,7 +9276,7 @@ CHUV Departement medico-chirurgial de pediatrie,Lausanne,CH,Rue du Bugnon 21,,,,
 CHUV Service de laboratoire central d'hematologie,Lausanne,CH,Rue du Bugnon 21,,,20000.0,4750.0,,,2500.0,,27250.0,hco,shire,,2017
 CHUV Service de neurologie,Lausanne,CH,Rue du Bugnon 46,,,,2870.71,,614.72,,,3485.43,hco,shire,,2017
 Clinica Luganese SA FMH ematologia Ambulatorio di Oncologia,Lugano,CH,Via Moncucco 10,,,,571.18,,1182.15,,,1753.33,hco,shire,,2017
-COALAT / Anesthesiology CHUV,Lausanne,CH,Rue Du Bugnon 46,,,,3000.0,,,,,3000.0,hco,shire,,2017
+COALAT / Anesthesiology,Lausanne,CH,Rue Du Bugnon 46,,,,3000.0,,,,,3000.0,hco,shire,,2017
 Congrex Switzerland Ltd.,Basel,CH,Petermerian-Strasse,,,,2000.0,,,,,2000.0,hco,shire,,2017
 Ente Ospedaliero Cantonale(EOC),Bellinzona,CH,Viale Officina 3,,,,2000.0,,,,,2000.0,hco,shire,,2017
 Fondation Nutrition 2000plus,Vevey,CH,Route De Saint-légier 11,,,,5353.0,,,1220.5,312.0,6885.5,hco,shire,,2017
@@ -9712,7 +9712,7 @@ Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,,,10000.0,,,,,,10000.0,hco,teva,
 Ospedale Regionale di Lugano,Lugano,CH,Via Tesserete 46,,,45000.0,,,,,,45000.0,hco,teva,,2017
 Schweizerische Multiple Sklerose Gesellschaft,Zürich,CH,Josefstrasse 129,,,15000.0,,,,,,15000.0,hco,teva,,2017
 "Schweizerische Gesellschaft fürIntensivmedizin, c/o IMK Institut für Medizin und Kommunikation AG",Basel,CH,Münsterberg 1,,,,2560.0,,,,,2560.0,hco,teva,,2017
-"Geschäftsstelle SNG‐SSN, IMK Institut für Medizin und Kommunikation AG",Basel,CH,Münsterberg 1,,,,24040.0,,,,,24040.0,hco,teva,,2017
+Geschäftsstelle SNG-SSN,Basel,CH,Münsterberg 1,,,,24040.0,,,,,24040.0,hco,teva,,2017
 "Insel Gruppe AG, Universitätsklinik fürNeurologie",Bern,CH,Freiburgstrasse,,,,0.0,,,1000.0,,1000.0,hco,teva,,2017
 "Luzerner Kantonsspital, Zentrum fürNeurologie und Neurorehabilitation",Luzern,CH,Spitalstrasse,,,,0.0,,,1000.0,,1000.0,hco,teva,,2017
 "Kantonsspital St. Gallen, Klinik für Pneumologie und Schlafmedizin",St. Gallen,CH,Rorschacherstrasse 95,,,,0.0,,,1050.0,,1050.0,hco,teva,,2017
@@ -10894,7 +10894,7 @@ Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,17000.0,54500.0,4
 Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,,,10000.0,8000.0,,,,,18000.0,hco,abbvie,,2016
 Kinderspital Zürich Universitäts-Kinderklinik,Zürich,CH,Steinwiesstrasse 75,,,,5000.0,,,,,5000.0,hco,abbvie,,2016
 Klinik Bethesda / Neurorehabilitation Parkinson-Zentrum Epileptologie,Tschugg,CH,Oberdorf,,,,6926.0,64.0,396.0,,,7386.0,hco,abbvie,,2016
-Klinik für Gastroenterologie und Hepatologie,Zürich,CH,Rämistrasse 100,,,,,293.0,619.0,,,912.0,hco,abbvie,,2016
+UniversitätsSpital Zürich - Klinik für Gastroenterologie und Hepatologie,Zürich,CH,Rämistrasse 100,,,,,293.0,619.0,,,912.0,hco,abbvie,,2016
 Klinik Im Park AG,Zürich,CH,Seestrasse 220,,,,500.0,,,,,500.0,hco,abbvie,,2016
 Klinik Impuls,Wetzikon ZH,CH,Bahnhofstrasse 137,,,,3000.0,,,,,3000.0,hco,abbvie,,2016
 Luzerner Kantonsspital,Luzern,CH,Spitalstrasse 31,,,8000.0,10000.0,1873.0,3013.0,11219.0,65.0,34170.0,hco,abbvie,,2016
@@ -11272,7 +11272,7 @@ Kantonsspital St. Gallen -Muskelzentrum ALS Clinic,St. Gallen,CH,Greithstrasse 2
 Lenker Woche,Zweisimmen,CH,Karl Haueterstrasse,,,,4000.0,,,,,4000.0,hco,almirall,,2016
 Ospedale Bellinzona e Valli EOC -Dermatologia e allergologia,Bellinzona,CH,Via Ospedale,,,,500.0,,,,,500.0,hco,almirall,,2016
 Universitätsspitll Basel -Dermatologische Poliklinik,Basel,CH,Petersgraben 4,,,,6000.0,,,,,6000.0,hco,almirall,,2016
-UniversitätsSpit al Zürich -European Dermatology Forum,Zürich,CH,Gloriastrasse 31,,,,27094.1,,,,,27094.1,hco,almirall,,2016
+European Dermatology Forum,Zürich,CH,Gloriastrasse 31,,,,27094.1,,,,,27094.1,hco,almirall,,2016
 doccare,Fehraltorf,CH,Im Baumgarten 1,,,,5000.0,,,,,5000.0,hco,almirall,,2016
 EADV,Lugano,CH,Via Serafino Balestra 22b,,,,135461.71,,,,,135461.71,hco,almirall,,2016
 European Fed Medicinal Chemistry,Bern,CH,Laupenstrasse 7,,,,2189.55,,,,,2189.55,hco,almirall,,2016
@@ -16473,7 +16473,7 @@ Schweiz Gesellschaft für Endokrinologie und Diabetologie,Baden ,CH,Rütistrasse
 Schweiz Gesellschaft für Reproduktionsmedizin SGRM,Worb,CH,Postfach 754,,,10000.0,11000.0,,,,,21000.0,hco,merck,,2016
 Schweizerische Gesellschaft für Allergologie und Immunologie,Bern 22,CH,Scheibenstrasse 20,,,,14580.0,,,,,14580.0,hco,merck,,2016
 SfwF,Zürich ,CH,Birmensdorferstrasse 497,,,,3000.0,,,,,3000.0,hco,merck,,2016
-SGP c/o BBS Congress GmbH,Bern 25,CH,Postfach 604,,,,5211.0,,,,,5211.0,hco,merck,,2016
+SGP,Bern 25,CH,Postfach 604,,,,5211.0,,,,,5211.0,hco,merck,,2016
 Spital Langenthal (SRO AG),Langenthal,CH,St Urbanstrasse 67,,,,1000.0,,,,,1000.0,hco,merck,,2016
 Spital Linth,Uznach,CH,Gasterstrasse 25,,,,2500.0,28962.0,48606.0,,,80068.0,hco,merck,,2016
 SSEDP-SGPED,Baden ,CH,Rütistrasse 3a,,,,4000.0,,,,,4000.0,hco,merck,,2016
@@ -21223,16 +21223,16 @@ Verein Lunge Zürich (Ärztefortbildungskurs Davos),Zürich,CH,Pfingstweistrasse
 Energy Events (Vereinigung Züricher Internisten),Rotkeuz,CH,Lindenmatt,,,,3800.0,,,,,3800.0,hco,zambon,,2016
 "Inselspital, Universitätsklinik für Frauenheilkunde",Bern,CH,Effingerstrasse 102,,,,3300.0,,,,,3300.0,hco,zambon,,2016
 Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,,,,2500.0,,,,,2500.0,hco,zambon,,2016
-IMK (SSORL Swiss Society of ORL Head and Neck Surgery),Basel,CH,Münsterberg 1,,,,5200.0,,,,,5200.0,hco,zambon,,2016
+SSORL Swiss Society of ORL Head and Neck Surgery,Basel,CH,Münsterberg 1,,,,5200.0,,,,,5200.0,hco,zambon,,2016
 Associazione Mendrisio Medical Meeting,Bedano,CH,Via Belvedere 10,,,,3000.0,,,,,3000.0,hco,zambon,,2016
-BBS Congress GmbH (Jahresversammlung SGP&GSASA),Bern,CH,Postfach 604,,,,3400.0,,,,,3400.0,hco,zambon,,2016
+Jahresversammlung SGP&GSASA,Bern,CH,Postfach 604,,,,3400.0,,,,,3400.0,hco,zambon,,2016
 BV Congress Creating GmbH (Jahreskongress der Gynäkologie Schweiz SGGG Interlaken),Gossau,CH,Industriestrasse 37,,,,4160.0,,,,,4160.0,hco,zambon,,2016
 Medworld AG (KHM Fortbidlungsveranstaltung Hausarztmedizin),Steinhausen,CH,Sennweidstrasse 46,,,,4000.0,,,,,4000.0,hco,zambon,,2016
 Mediworld AG (ZAIM Medidays),Steinhausen,CH,Sennweidstrasse 46,,,,2940.0,,,,,2940.0,hco,zambon,,2016
 Kinderärzte Schweiz,Zürich,CH,Badenerstrasse 21,,,,2880.0,,,,,2880.0,hco,zambon,,2016
 GREPA Groupe Romande d'Etude en Pédiatrie Ambulatoire,Nyon,CH,Ch. du Joran 8 B,,,,1800.0,,,,,1800.0,hco,zambon,,2016
 GKaufmann (Jahreskongress SGG - SGVC - SASL),Bern,CH,Wattenwylweg 21,,,,3800.0,,,,,3800.0,hco,zambon,,2016
-IMK (SFCNS Swiss Federation of Clinical Neuro-Societies),Basel,CH,Münsterberg 1,,,,40000.0,,,,,40000.0,hco,zambon,,2016
+(SFCNS Swiss Federation of Clinical Neuro-Societies,Basel,CH,Münsterberg 1,,,,40000.0,,,,,40000.0,hco,zambon,,2016
 Gruppo Medico Formazione (Corso Aggiornamento Medico di Base),Giubiasco,CH,Via Ressega 5,,,,3300.0,,,,,3300.0,hco,zambon,,2016
 KMS Kongress Management Swiss (Ostschweizer Symposium für praktische Gynäkologie und Geburtshilfe),Bern,CH,Postfach 7213,,,,3840.0,,,,,3840.0,hco,zambon,,2016
 Meeting.Com Sàrl Congress Organisation (Journée d'Automne du GRSSGP),Cheseaux,CH,Rue des Pâquis 1,,,,5000.0,,,,,5000.0,hco,zambon,,2016
