@@ -429,7 +429,7 @@ Hôpital du Valais,Sion,CH,Avenue du Grand-Champsec 80,,,0.0,1296,0,0,0,0,1296,h
 Hôpital Neuchâtelois Pourtalès,Neuchâtel,CH,Rue de la Maladière 45,,,0.0,3400,0,0,2100,0,5500,hco,pfizer
 Hôpital Riviera Chablais VD-VS Vevey,Vevey,CH,Boulevard Paderewski 3,,,0.0,1620,0,0,0,0,1620,hco,pfizer
 HUG Hôpitaux Universitaires Genève,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,23684,0,0,0,0,23684,hco,pfizer
-HCOs,IBDnet,Zürich,CH,,Postfach,,0,55000,0,0,0,0,hco,pfizer
+IBDnet,Zürich,CH,Postfach,,,0,55000,0,0,0,0,55000.00,hco,pfizer
 iffm Institut für Forschung und Fortbildung in der Medizin,Langenthal,CH,Jurastrasse 15,,,0.0,1500,0,0,0,0,1500,hco,pfizer
 Innovamed,Basel,CH,Missionsstrasse 57,,,0.0,0,0,0,1200,0,1200,hco,pfizer
 Insel Gruppe AG,Bern,CH,Freiburgstrasse 18,,,13100.0,72519,809,6558,6110,925,100021,hco,pfizer
