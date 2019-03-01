@@ -62,11 +62,11 @@ Hôpital Pays d'Enhaut,Château-d'oex,CH,Route de l'Hôpital,,,0.0,1000.0,0.0,0.
 Hôpitaux Universitaires de Genève HUG,Chêne-bourg,CH,Chemin du Petit-Bel-Air 2,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,menarini,2015
 Hôpitaux Universitaires de Genève HUG,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,menarini,2015
 IGOMED,Thun,CH,Goldiwilstrasse 36a,,,0.0,7875.0,0.0,0.0,0.0,0.0,7875.0,hco,menarini,2015
-Inselspital Kardiologie,Bern,CH,,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,menarini,2015
+Inselspital Kardiologie,Bern,CH,Freiburgstrasse,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,menarini,2015
 "Inselspital, Allergologisch-immunologische Poliklinik",Bern,CH,PKT 2 A,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,menarini,2015
-"Inselspital, Präventive Kardiologie & Sportmedizin",Bern,CH,,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,menarini,2015
-"Inselspital, Rheumatologie, Immunologie, Allergologie",Bern,CH,,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,menarini,2015
-"Inselspital, Universitätsklinik für Nephrologie, Hypertonie, klinische Pharmakologie",Bern,CH,,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,menarini,2015
+"Inselspital, Präventive Kardiologie & Sportmedizin",Bern,CH,Freiburgstrasse,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,menarini,2015
+"Inselspital, Rheumatologie, Immunologie, Allergologie",Bern,CH,Freiburgstrasse,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,menarini,2015
+"Inselspital, Universitätsklinik für Nephrologie, Hypertonie, klinische Pharmakologie",Bern,CH,Freiburgstrasse,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,menarini,2015
 Kantonsspital Aarau AG,Aarau,CH,Tellstrasse,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hco,menarini,2015
 Kantonsspital Baselland,Bruderholz,CH,,,,0.0,4000.0,982.0,1648.0,0.0,0.0,6630.0,hco,menarini,2015
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,0.0,4000.0,626.0,533.0,0.0,0.0,5159.0,hco,menarini,2015
@@ -1473,7 +1473,7 @@ Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,0.0,2000.0,0.0,0.0,0.0
 Verein Lichtblick Hospiz Basel,Basel,CH,Gundeldingerstrasse 280,,,300.0,0.0,0.0,0.0,0.0,0.0,300.0,hco,gruenenthal,2015
 Wirbelsäulen-Schmerz-Klinik,Zürich,CH,Witellikerstrasse 40,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,gruenenthal,2015
 AMITI,Paradiso,CH,"Via Guisan 10, Paradiso",,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,janssen,2015
-antonsspital Münsterlingen,Münsterlingen,CH,"Spitalcampus 1, Münsterlingen",,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,janssen,2015
+Kantonsspital Münsterlingen,Münsterlingen,CH,"Spitalcampus 1, Münsterlingen",,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,janssen,2015
 Ärztegesellschaft d. Kantons Zug,Neuheim,CH,"Im Blatt B1, Neuheim",,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,janssen,2015
 Ärztekongress Arosa,Arosa,CH,"Postfach 68, Arosa",,,0.0,4680.0,0.0,0.0,0.0,0.0,4680.0,hco,janssen,2015
 Ärztenetzwerk Bern,Küsnacht Zh,CH,"Postfach, Küsnacht ZH",,,3500.0,0.0,0.0,0.0,0.0,0.0,3500.0,hco,janssen,2015
@@ -3318,7 +3318,7 @@ Universitätsspital Basel,Basel,CH,"Onkologie, Petersgraben 4,4031",,,0.0,1500.0
 Université de Fribourg,Fribourg,CH,"Université de Fribourg, Chemin du Musäe 5, 1700 Fribourg",,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,teva,2015
 CHUV,Lausanne,CH,Rue Du Bugnon 21,,,0.0,2660.0,0.0,0.0,2739.85,0.0,5399.85,hco,ucb,2015
 CRR SuvaCare,Sion,CH,Avenue Grand-Champsec 90,,,0.0,5400.0,0.0,0.0,0.0,0.0,5400.0,hco,ucb,2015
-École Polytechnique Fédérale,Lausanne,CH,Route Cantonale,,,0.0,1864.5,0.0,0.0,0.0,0.0,1864.5,hco,ucb,2015
+École Polytechnique Fédérale,Lausanne,CH,CE 3 316 (Centre Est) Station 1,,,0.0,1864.5,0.0,0.0,0.0,0.0,1864.5,hco,ucb,2015
 HFR Fribourg Hôpital Cantonal,Fribourg,CH,Chemin Des Pensionnats 2,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,ucb,2015
 Hôpital du Valais,Sion,CH,Avenue Grand-Champsec 80,,,0.0,1080.0,0.0,0.0,0.0,0.0,1080.0,hco,ucb,2015
 Inselspital,Bern,CH,Freiburgstrasse 18,,,0.0,17064.0,0.0,0.0,0.0,0.0,17064.0,hco,ucb,2015

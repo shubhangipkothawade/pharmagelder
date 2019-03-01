@@ -189,6 +189,11 @@ hcp_count,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nordic,2017
 hco_amount,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nordic,2017
 hco_count,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nordic,2017
 rnd,0.0,0.0,0.0,0.0,0.0,0.0,0.0,nordic,2017
+hcp_amount,,,0.0,0.0,750.0,0.0,750.0,norgine,2017
+hco_amount,0.0,38285.0,0.0,0.0,0.0,0.0,38285.0,norgine,2017
+hcp_count,,,0.0,0.0,1.0,0.0,1.0,norgine,2017
+hco_count,0.0,10.0,0.0,0.0,0.0,0.0,10.0,norgine,2017
+rnd,,,,,,,87274.07,norgine,2017
 hcp_amount,,,,,14389.37,,14389.37,novartis,2017
 hcp_count,,,,,8.0,,8.0,novartis,2017
 hco_amount,,1000.0,,,,,1000.0,novartis,2017

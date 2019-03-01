@@ -3364,7 +3364,7 @@ Schweizerische Gesellschaft für Neuropädiatrie,Oberentfelden,CH,Blumenweg 13,,
 Medinorma Sarl,Rolle,CH,Grand Rue 34,,,,1500.0,,,,,1500.0,hco,csl,2016
 "Kantonsspital St. Gallen, Klinik für Pneumologie und Schlafmedizin",St. Gallen,CH,Rorschacherstrasse 95,,,,5000.0,,,,,5000.0,hco,csl,2016
 "Kantonspital St. Gallen, Muskelzentrum / ALS Klinik",St. Gallen,CH,Rorschacherstrasse 111,,,,6000.0,,,,,6000.0,hco,csl,2016
-"HICC GmbH, Zentrum für Labormedizin",St. Gallen,CH,Frohbergstrasse 3,,,,5500.0,,,,,5500.0,hco,csl,2016
+HICC GmbH,St. Gallen,CH,Frohbergstrasse 3,,,,5500.0,,,,,5500.0,hco,csl,2016
 MediService AG,Zuchwil,CH,Ausserfeldweg 1,,,,,,,19630.0,,19630.0,hco,csl,2016
 Universitätsspital Zürich,Zürich,CH,Frauenklinikstrasse 26,,,1000.0,,,,,,1000.0,hco,csl,2016
 "Universitätsspital Zürich, Institut für Anästhesiologie",Zürich,CH,Rämistrasse 100,,,100000.0,4500.0,,,1500.0,,106000.0,hco,csl,2016
@@ -7129,7 +7129,7 @@ DELC AG DermaEsteticLase rCenter,Biel/Bienne,CH,Marktgasse 17,,,,,860.0,300.0,,,
 DoktorHaus Fislisbach,Fislisbach,CH,Schönbühlstrasse 5a,,,,,860.0,300.0,,,1160.0,hco,novartis,2016
 DOXnet Aerztenetzwerk Bern Nord/West   Köstner Beat,Neuenegg,CH,Oeleweg 2,,,,,600.0,200.0,3000.0,,3800.0,hco,novartis,2016
 Ente Ospedaliero Cantonale EOC Direzione Generale,Bellinzona,CH,Viale Officina 3,,,12400.0,21675.95,2584.46,3081.0,8281.5,,48022.91,hco,novartis,2016
-EPFL - Ecole polytechnique f^rale de Lausanne PRES,Lausanne,CH,CE 3 316 (Centre Est) Station 1,,,,,,,3000.0,2911.02,5911.02,hco,novartis,2016
+EPFL - Ecole polytechnique fédérale de Lausanne PRES,Lausanne,CH,CE 3 316 (Centre Est) Station 1,,,,,,,3000.0,2911.02,5911.02,hco,novartis,2016
 ERS European Respiratory Society ERS Headquarters,Lausanne,CH,Avenue Sainte-Luce 4,,,,691077.52,,,83722.2,,774799.72,hco,novartis,2016
 ETH Zürich Hauptgebäude,Zürich ETH Zentrum,CH,Rämistrasse 101,,,,15000.0,,,111080.0,,126080.0,hco,novartis,2016
 European Academy of Allergy and Clinical Immunology (EAACI),Zürich,CH,"Hagenholzstrasse 111, 3rd floor",,,,297511.0,9354.36,,,,306865.36,hco,novartis,2016
@@ -9148,7 +9148,7 @@ Stadtspital Triemli Zürich c/o  Lars Huber,Zürich,CH,Birmensdorferstr. 497,,,,
 Stadtspital Waid -    Patrice Ambühl,Zürich,CH,Tiéchestr. 99,,,,,,,10000.0,,10000.0,hco,sanofi,2016
 Stiftung für wissenschaftliche Forschung am Stadtspital Triemli,Zürich,CH,Birmensdorferstr. 497,,,,1080.0,,,,,1080.0,hco,sanofi,2016
 Swiss Federation of Ciinical - Neuro- Societies c/o IMK AG,Basel,CH,Muensterberg 1,,,,5600.0,,,,,5600.0,hco,sanofi,2016
-UNIVERSITATSSPIT AL ZURICH,Zürich,CH,RAMISTRASSE 100,,,,27450.43,,,,,27450.43,hco,sanofi,2016
+UNIVERSITATSSPITAL ZURICH,Zürich,CH,RAMISTRASSE 100,,,,27450.43,,,,,27450.43,hco,sanofi,2016
 UNIVERSITY HOSPITAL BASEL,BASEL,CH,PETERSGRABEN 4,,,,,,,1875.0,812.94,2687.94,hco,sanofi,2016
 Union des sociétés suisses - des maladies vasculaires,Aarau,CH,Bahnofstrasse 55,,,,,,,1334.5,,1334.5,hco,sanofi,2016
 Universitätsspital Basel - Medizin Onkologie,Basel,CH,Petersgraben 4,,,,13500.0,,,14375.93,640.04,28515.97,hco,sanofi,2016
@@ -9702,7 +9702,7 @@ Praxis  Abraham Schmitz Diana,Wattwil,CH,Wolkshausstrasse 21a,,,,,110.55,1407.45
 Privatklinik Obach AG,Solothurn,CH,Leopoldstrasse 5,,,,2160.0,,,,,2160.0,hco,takeda,2016
 Regionalspital Surselva AG - Innere Medizin,Ilanz,CH,Spitalstrasse 6,,,,,257.95,612.56,,,870.51,hco,takeda,2016
 SAKK - Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung,Bern,CH,Effingerstrasse 33,,,170036.0,15500.0,,,,,185536.0,hco,takeda,2016
-SAKK - Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung - Shcweizerische Pädiatrische Onkologie Gruppe,Bern,CH,Effingerstrasse 33,,,,5000.0,,,,,5000.0,hco,takeda,2016
+SAKK - Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung,Bern,CH,Effingerstrasse 33,,,,5000.0,,,,,5000.0,hco,takeda,2016
 Schulthess Klinik-Rheumatologie,Zürich,CH,Lengghalde 2,,,,,659.62,645.16,,,1304.78,hco,takeda,2016
 Schweiz. Gesellschaft der Vertrauens- und Versicherungsärzte,Winterthur,CH,c/o MBC Markus Bonelli Consulting Industriestrasse 24,,,,25000.0,,,,,25000.0,hco,takeda,2016
 Schweiz. Vereinig. gegen die Osteoporose/Assoc. Suisse contre l'Ostéoporose,Basel,CH,Missionsstrasse 24,,,,2500.0,,,,,2500.0,hco,takeda,2016
@@ -9976,7 +9976,7 @@ Centre Hospitalier Universitaire Vaudoise (CHUV),Lausanne,CH,"Rue du Bugnon 21, 
 Swiss Federation of Clinical Neuro-Societies IsFCNS,Basel,CH,"c/o IMK Institute for medicine and communication Ltd, Münsterberg 1",,,,20000.0,,,,,20000.0,hco,teva,2016
 Luzerner Kantonsspital,Luzern,CH,"Luzernei Kantonsspital, Zentrum für Neurologie und Neurorehabilitation, Spitalstrasse 4,6000 Luzern",,,,,,,500.0,,500.0,hco,teva,2016
 Luzerner Kantonsspital,Luzern,CH,"Luzernei- Kantonsspital, Zentrum für Neurologie und Neurorehabilitation, Spitalstrasse 4,6000 Luzern",,,,,,,1000.0,,1000.0,hco,teva,2016
-IcHUV Lausanne,Lausanne,CH,"CHUV, Service de Neurologie, Rue Du Bugnon 46, 1011 Lausanne",,,,,,,3000.0,808.0,3808.0,hco,teva,2016
+CHUV Lausanne,Lausanne,CH,"CHUV, Service de Neurologie, Rue Du Bugnon 46, 1011 Lausanne",,,,,,,3000.0,808.0,3808.0,hco,teva,2016
 Luzerner Kantonsspital,Luzern,CH,"Luzerner Kantonsspital, Spitalstrasse 4,6000 Luzern",,,,,,,2400.0,577.0,2977.0,hco,teva,2016
 lnsel Gruppe AG,Bern,CH,"insei bruppe Ab, Universitätsklinik für Neurologie, Freiburgstrasse, 3010 Bern",,,,,,,1000.0,,1000.0,hco,teva,2016
 lnsel Gruppe AG,Bern,CH,"Insel Gruppe AG, Universitätsklinik für Kinderheilkunde, Freiburgstrasse, 3010 Bern",,,,,,,500.0,,500.0,hco,teva,2016

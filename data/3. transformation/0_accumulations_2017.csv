@@ -189,6 +189,11 @@ hcp_count,0,0,0,0,0,0,0,nordic
 hco_amount,0,0,0,0,0,0,0,nordic
 hco_count,0,0,0,0,0,0,0,nordic
 rnd,0,0,0,0,0,0,0,nordic
+hcp_amount,,,0.0,0.0,750.0,0.0,750.0,norgine
+hco_amount,0.0,38285.0,0.0,0.0,0.0,0.0,38285.0,norgine
+hcp_count,,,0.0,0.0,1.0,0.0,1.0,norgine
+hco_count,0.0,10.0,0.0,0.0,0.0,0.0,10.0,norgine
+rnd,,,,,,,87274.07,norgine
 hcp_amount,,,,,14389.37,,14389.37,novartis
 hcp_count,,,,,8.0,,8.0,novartis
 hco_amount,,1000.0,,,,,1000.0,novartis
