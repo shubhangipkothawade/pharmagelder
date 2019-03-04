@@ -4558,7 +4558,7 @@ Ulrich Egermann,Winterthur,CH,"Stoffwechselmedizin Winterthur GmbH, Lagerhausstr
 Urs A. Gübelin,Luzern,CH,"Moosstrasse 2, 6003 Luzern",,,0.0,0.0,0.0,0.0,200.0,0.0,200.0,hcp,astrazeneca,2015
 Urs Beat Gröflin,Binningen,CH,"Hauptstrasse 3, 4102 Binningen",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,astrazeneca,2015
 Ursula Hasler-Strub,Gallen,CH,"Brustzentrum / Haus 06, Rorschacher Strasse 95, 9007 St. Gallen",,,0.0,0.0,655.0,0.0,800.0,0.0,1455.0,hcp,astrazeneca,2015
-Werner Bauer,Zh,CH,"Kohlrainstrasse 1, 8700 Küsnacht ZH",,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca,2015
+Werner Bauer,Küsnacht ZH,CH,"Kohlrainstrasse 1, 8700 Küsnacht ZH",,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca,2015
 Werner Knisel,Zürich,CH,"Diabetesberatung, Birmensdorferstrasse 497, 8063 Zürich",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,astrazeneca,2015
 Wilhard Kottmann,Wolfgang,CH,"Herz Reha Davos, Herman Burchard Strasse 1, 7265 Davos Wolfgang",,,0.0,0.0,0.0,0.0,4500.0,0.0,4500.0,hcp,astrazeneca,2015
 Wolf-Dieter Janthur,Aarau,CH,"Onkologie/Hämatologie / Haus 40, Tellstrasse, 5001 Aarau",,,0.0,0.0,0.0,0.0,250.0,0.0,250.0,hcp,astrazeneca,2015
@@ -5709,7 +5709,7 @@ Isabelle Streuli,Genève,CH,"HUG, Boulevard de la Cluse 30",,,0.0,0.0,0.0,0.0,0.
 Marc Germond,Lausanne,CH,"CPMA, Rue de la Vigie 5",,,0.0,0.0,0.0,0.0,788.0,646.0,1434.0,hcp,ferring,2015
 Marianne Vulliemoz Guirgis,Morges,CH,"Hôpital Morges, Chemin du Crêt 2",,,0.0,0.0,0.0,0.0,0.0,400.0,400.0,hcp,ferring,2015
 Beatrice Mosimann,Bern,CH,Universitätsklinik für Frauenheilkunde,,,0.0,0.0,656.0,160.0,0.0,0.0,816.0,hcp,ferring,2015
-Björn Becker,E Schiikon,CH,Büfelderstrasse 2,,,0.0,1139.0,0.0,0.0,0.0,0.0,1139.0,hcp,ferring,2015
+Björn Becker,Eschlikon,CH,Büfelderstrasse 2,,,0.0,1139.0,0.0,0.0,0.0,0.0,1139.0,hcp,ferring,2015
 Daniel Reinhardt,Zürich,CH,Generai-Wille-Strasse 11,,,0.0,0.0,656.0,160.0,0.0,0.0,816.0,hcp,ferring,2015
 Dominique Criblez,Luzern,CH,Luzerner Kantonsspital Luzern,,,0.0,0.0,618.0,280.0,0.0,0.0,898.0,hcp,ferring,2015
 Eviano Arrigoni,Genève,CH,Place Cornavin 18,,,0.0,0.0,363.0,543.0,0.0,0.0,906.0,hcp,ferring,2015
@@ -6234,7 +6234,7 @@ Wilfried Schwab,Rheinfelden,CH,Roberstenstrasse 31,,,0.0,0.0,0.0,183.0,0.0,0.0,1
 Wojciech Syrynski,Langenthal,CH,Sankt Urbanstrasse 67,,,0.0,0.0,479.6,523.25,0.0,0.0,1002.85,hcp,gruenenthal,2015
 Yves Collioud-Robert,Boudry,CH,Avenue du Collège 6,,,0.0,0.0,0.0,0.0,250.0,0.0,250.0,hcp,gruenenthal,2015
 Zdenek Skruzny,St. Gallen,CH,Schreinerstrasse 7,,,0.0,0.0,0.0,191.0,0.0,0.0,191.0,hcp,gruenenthal,2015
-Alexander Andreas Navarini,Bl,CH,"Therwilerstrasse 74 a, Reinach BL",,,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0,hcp,janssen,2015
+Alexander Andreas Navarini,Reinach BL,CH,"Therwilerstrasse 74 a, Reinach BL",,,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0,hcp,janssen,2015
 Amrein Ivo,Zollikofen,CH,"Lüfternweg 1, Zollikofen",,,0.0,0.0,0.0,0.0,1500.0,136.0,1636.0,hcp,janssen,2015
 Anastasios Stathis,Bellinzona,CH,"Via Ospedale, Bellinzona",,,0.0,0.0,0.0,0.0,338.0,0.0,338.0,hcp,janssen,2015
 Anita Riecher-Rössler,Basel,CH,"Kornhausgasse 7, Basel",,,0.0,0.0,0.0,0.0,1278.0,144.0,1422.0,hcp,janssen,2015
@@ -8328,7 +8328,7 @@ Radmila Moudry,Chur,CH,"Loëstrasse 170, 7000, Chur",,,0.0,0.0,489.0,671.0,0.0,0
 Rainer Klöti,Brugg Ag,CH,"Fröhlichstrasse 5, 5200, Brugg AG",,,0.0,0.0,280.0,334.0,0.0,0.0,614.0,hcp,roche,2015
 Rebekka Kleiner,St. Gallen,CH,"Rorschacher Strasse 95, 9007, St. Gallen",,,0.0,0.0,0.0,645.0,1500.0,0.0,2145.0,hcp,roche,2015
 Reinhard Zenhäusern,Brig,CH,"Überlandstrasse 14, 3900, Brig",,,0.0,0.0,1275.0,2216.0,0.0,0.0,3491.0,hcp,roche,2015
-Reto Arthur Frey,,CH,,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,roche,2015
+Reto Arthur Frey,Zürich,CH,Rheumapraxis Albisriederplatz Albisriederplatz 3,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,roche,2015
 Reto Kühne,Zürich,CH,"Tièchestrasse 99, 8037, Zürich",,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,roche,2015
 Reto Widrig,St. Gallen,CH,"Spisergasse 28, 9000, St. Gallen",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,roche,2015
 Roger Stucki,Vevey,CH,"Rue du Lac 39, 1800, Vevey",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,roche,2015
@@ -8392,7 +8392,7 @@ Wolfgang Korte,St. Gallen,CH,"Frohbergstrasse 3, 9000, St. Gallen",,,0.0,0.0,530
 Yodit Seium Neberay,Genève,CH,"Rue de Chantepoulet 21, 1201, Genève",,,0.0,0.0,462.0,941.0,0.0,0.0,1403.0,hcp,roche,2015
 Yves Trisconi,Lausanne,CH,"Rue Caroline 3, 1003, Lausanne",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,roche,2015
 Yvonne Claudia Hummel,Unknown / Relocated,CH,Unknown / Relocated,,,0.0,0.0,300.0,150.0,0.0,0.0,450.0,hcp,roche,2015
-Aapro Matti,Genolier,CH,Route du Muids 3,,,0.0,0.0,0.0,0.0,10930.8,12639.97,23570.77,hcp,sandoz,2015
+Matti Aapro,Genolier,CH,Route du Muids 3,,,0.0,0.0,0.0,0.0,10930.8,12639.97,23570.77,hcp,sandoz,2015
 Alexander Arnold,Solothurn,CH,Leopoldstrasse 1,,,0.0,0.0,353.0,360.0,0.0,0.0,713.0,hcp,sandoz,2015
 Alexandra Antonazzo-Grecu,Lausanne,CH,Av. du Tirage 5,,,0.0,0.0,315.0,893.0,0.0,0.0,1208.0,hcp,sandoz,2015
 Alfredo Velardi,Payerne,CH,Av. du 1er Mars 8,,,0.0,0.0,315.0,893.0,0.0,0.0,1208.0,hcp,sandoz,2015
@@ -8895,7 +8895,7 @@ Quinto Censi,Mendrisio,CH,Studio Dr. Censi Quinto Via Luigi Lavizzari 15,,,0.0,0
 Sergio Cereghetti,Mendrisio,CH,Studio Dr. Cereghetti Sergio Via Giacomo Rizzi 1,,,0.0,0.0,221.1,852.84,0.0,0.0,1073.94,hcp,takeda,2015
 Pascal Chatelain,Genève,CH,Cabinet mödical de groupe Rue Emile-Yung 4,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,2015
 Jean-Pierre Chevalley,Genolier,CH,Dr.Chevalley Jean-Pierre Route du Mulds 3,,,0.0,0.0,176.88,829.53,0.0,0.0,1006.41,hcp,takeda,2015
-Jean-Michel Chevey,Payeme,CH,Cabinet mödical de groupe Avenue de la Promenade 4,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,2015
+Jean-Michel Chevey,Payerne,CH,Cabinet mödical de groupe Avenue de la Promenade 4,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,2015
 Eggenberger Christoph,Lach,CH,Praxis Dr. Eggenberger/Dr. Am Kasernenstrasse 1,,,0.0,0.0,346.39,1157.98,0.0,0.0,1504.37,hcp,takeda,2015
 Andrei Cicotti,Vésenaz,CH,Cabinet medical route d'Hermance 2,,,0.0,0.0,325.89,1214.58,0.0,0.0,1540.46,hcp,takeda,2015
 Elizabeth Cicotti,Genève,CH,Rue Henri-blanvalet 1,,,0.0,0.0,325.89,391.28,0.0,0.0,717.17,hcp,takeda,2015

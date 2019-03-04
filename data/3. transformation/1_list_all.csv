@@ -6854,7 +6854,7 @@ Lukas Von Rohr,Biel/Bienne,CH,"Praxis Lukas Von Rohr, Rebenweg 34",,,0.0,0.0,0.0
 Friedrich von Toggenburg,Buchs SG,CH,"Praxis Friedrich von Toggenburg, Technikumstrasse 6",,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,novartis,,2017
 Jan Voss,Luzern,CH,"NeuroPraxis Luzern, Haldenstrasse 11",,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,novartis,,2017
 Marc Vuichoud,Lausanne,CH,"Cabinet Marc Vuichoud, Chemin Guiguer-de-Prang ins 5",,,0.0,0.0,0.0,0.0,200.0,0.0,200.0,hcp,novartis,,2017
-Cedric Vuille,Ny on,CH,"Cabinet de groupe, Avenue Viollier 8",,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,novartis,,2017
+Cedric Vuille,Nyon,CH,"Cabinet de groupe, Avenue Viollier 8",,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,novartis,,2017
 Michael Haber,Langenthal,CH,"Praxis Posthaus AG, Jurastrasse 41",,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,novartis,,2017
 Katharina Wächter,Aadorf,CH,"Praxis Untermoos AG, Untermoosstrasse 11",,,0.0,0.0,860.0,300.0,0.0,0.0,1160.0,hcp,novartis,,2017
 Bernard Waeber,Marly,CH,Route des Mouettes 20,,,0.0,0.0,0.0,0.0,7000.0,179.0,7179.0,hcp,novartis,,2017
@@ -9396,7 +9396,7 @@ Reto Arthur Frey,8003 Zurich,CH,Rheumapraxis Albisriederplatz Albisriederplatz 3
 Georgios Georgiou,1202 Genève,CH,Uniiabs Genève Sécheron Avenue Blanc 51,1202,,0.0,0.0,361.13,1123.45,0.0,0.0,1484.58,hcp,takeda,,2017
 Heinz Gloor,8041 Zürich,CH,Kleeweidstrasse 21,8041,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,,2017
 Jeroen Goede,8400 Winterthur,CH,Labor Onkologie/Hämatologie Brauerstrasse 15,8400,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,takeda,,2017
-Willy Gross,1202 Gen,CH,Rue de la Servette 81,1202,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,,2017
+Willy Gross,1202 Genève,CH,Rue de la Servette 81,1202,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,,2017
 Urs Beat Gröflin,4102 Binningen,CH,Hauptstrasse 3,4102,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,,2017
 Mahmud Hadinia,4132 Muttenz,CH,Jakob Eglin-Strasse 3,4132,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,,2017
 Claudine Helg,1207 Genève,CH,Centre d'oncologie Eaux Vives Rue Maunoir 26,1207,,0.0,0.0,884.4,5381.57,0.0,0.0,6265.97,hcp,takeda,,2017
@@ -9412,7 +9412,7 @@ Almut Meier,8008 Zürich,CH,Seefeldstrasse 66,8008,,0.0,0.0,0.0,0.0,500.0,0.0,50
 Piene Michetti,1096 Cully,CH,Des Colombaires 16,1096,,0.0,0.0,0.0,0.0,11600.0,0.0,11600.0,hcp,takeda,,2017
 Alberto Moccia Alden ,6500 Bellinzona,CH,Via Paradiso 7B,6500,,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,hcp,takeda,,2017
 Olivia Pagani,6834 Mortaio Inferiore,CH,Via Vela 11,6834,,0.0,0.0,0.0,0.0,5100.0,0.0,5100.0,hcp,takeda,,2017
-Alexander Pinzello,8180 B CH ach,CH,Gemeinschaftspraxis Grabengasse 12,8180,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,,2017
+Alexander Pinzello,8180 Bülach,CH,Gemeinschaftspraxis Grabengasse 12,8180,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,,2017
 Charles Racine,1006 Lausanne,CH,Avenue d'Ouchy 14,1006,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,,2017
 Christoph Renner,8032 Zürich,CH,"Onkozentrum Hirslanden, Witellikerstrasse 40",8032,,0.0,0.0,0.0,0.0,400.0,0.0,400.0,hcp,takeda,,2017
 Gerhard Rogler,8032 Zürich,CH,Kapfstrasse 16,8032,,0.0,0.0,250.0,7800.5,0.0,0.0,8050.5,hcp,takeda,,2017
@@ -11845,114 +11845,114 @@ Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,25000.0,5000.0,,,,,300
 Verein GUCH Schweiz,Basel,CH,Langen Gasse 78,,,,2000.0,,,,,2000.0,hco,actelion,,2016
 Zürcher Reha Zentrum Wald,Wald,CH,Faltigbergstrasse 7,,,750.0,,,,,,750.0,hco,actelion,,2016
 Zurich Heart House,Zürich,CH,Moussonstrasse 4,,,1000.0,,,,,,1000.0,hco,actelion,,2016
-"Agosti, Reto",Zollikon,CH,"Klinik Hirslanden, Forchstrasse 424,8702 Zollikon",,,,,,,750.0,,750.0,hcp,allergan,,2016
-"Alvarez, Roger",Zürich,CH,"Body Esthetic GmbH, Seefeldstrasse 75,8008 Zürich",,,,,430.0,680.0,,94.0,1204.0,hcp,allergan,,2016
-"Arnould, Veronique",Zürich,CH,Augenklinik Seefeld Holbeinstrasse 25 8008 Zürich,,,,,1125.0,1776.0,,100.0,3001.0,hcp,allergan,,2016
-"Aufdenblatten, Miriam",Bern,CH,"Bremgartenstrasse 119,3012 Bern",,,,,,,500.0,100.0,600.0,hcp,allergan,,2016
-"Baglivo, Edorado",Onex,CH,"Clinique de l'Oeil Av. Bois-de-la Chapelle 15,1213 Onex",,,,,,,300.0,100.0,400.0,hcp,allergan,,2016
-"Bartel, Peter",Sursee,CH,"Uro Sursee, Buchenstrasse 4,6210 Sursee",,,,,,706.0,,,706.0,hcp,allergan,,2016
-"Berrut, Sarah",Genève,CH,"HUG, Rue Perret-Gentil 4,1205 Genève",,,,,,103.0,,55.0,158.0,hcp,allergan,,2016
-"Bihl, Florian",Bellinzona,CH,"Vial Officina 3,6900 Bellinzona",,,,,,,750.0,,750.0,hcp,allergan,,2016
-"Branca, Fabricio",Basel,CH,"Centralbahnstrasse 20,4051 Basel",,,,,,,800.0,,800.0,hcp,allergan,,2016
-"Charalampos, Ganotis",Aarau,CH,"Bahnhofplatz 4,5000 Aarau",,,,,435.0,1562.0,,105.0,2102.0,hcp,allergan,,2016
-"Charilaos, Nichorlis",Reinach,CH,"Orasis AG, Tittlisstrasse 44,5734 Reinach",,,,,435.0,1562.0,500.0,105.0,2602.0,hcp,allergan,,2016
-"De Smet, Marc",Lausanne,CH,"MIOS SA, Avenue du Leman 32,1005 Lausanne",,,,,,,4500.0,100.0,4600.0,hcp,allergan,,2016
-"Delgadillo, Xavier",La Chaux-de-Fonds,CH,"Clinieu de Montbrillant SA, 2300 La-Chaux-de-Fonds",,,,,,,750.0,,750.0,hcp,allergan,,2016
-"Donati, Guy",Genève,CH,Aavenue de La Roseraie 76am 1205 Genève,,,,,,,800.0,,800.0,hcp,allergan,,2016
-"Drepper, Michael",Genève,CH,"HUG, Rue Gabrielle-Perret-Gentil 4,1211 Genève",,,,,,1524.0,,,1524.0,hcp,allergan,,2016
-"Dumont-Berset, Magali",Villars sur Glâne,CH,"Rue Du Centre 8,1752 Villars sur Glâne",,,,,430.0,547.0,,44.0,1021.0,hcp,allergan,,2016
-"Ferfoglia, lancu Ruxandra",Genève,CH,"HUG, Rue Gabrielle-Perret-Gentil 4,1211 Genève",,,,,,103.0,,50.0,153.0,hcp,allergan,,2016
-"Ferrini, Walter",Neuchâtel,CH,"Fbg de L- Hopital, 2000 Neuchâtel",,,,,,,300.0,100.0,400.0,hcp,allergan,,2016
-"Fleury-Nissen, Vanessa",Genève,CH,"HUG, Rue Perret-Gentil 4,1205 Genève",,,,,,103.0,750.0,50.0,903.0,hcp,allergan,,2016
-"Franscini, Lorenzo",Lugano,CH,"Via Torricelli 39a, 6900 Lugano",,,,,360.0,,,,360.0,hcp,allergan,,2016
-"Frossard, Jean-Louis",Genève,CH,"HUG, Rue Perret-Gentil 4,1205 Genève",,,,,,,2250.0,95.0,2345.0,hcp,allergan,,2016
-"Fuchs, Daniel",Zürich,CH,"Laternengasse 4,8001 Zürich",,,,,,1191.0,9900.0,,11091.0,hcp,allergan,,2016
-"Galati, Salvatore",Bellinzona,CH,"Viale Officina 3, 6900 Bellinzona",,,,,,,750.0,,750.0,hcp,allergan,,2016
-"Galli, Andrea",Viganello,CH,Via Pietro Capelli,,,,,,,1300.0,50.0,1350.0,hcp,allergan,,2016
-"Gerding, Heinrich",Olten,CH,"Louis-Giroud-Strasse 20,4600 Olten",,,,,290.0,678.0,,70.0,1038.0,hcp,allergan,,2016
-"Gugleta, Konstantin",Basel,CH,"Mittlere Strasse 91,4031 Basel",,,,,,758.0,,,758.0,hcp,allergan,,2016
-"Guggenbühl-Roy, Sharmistha",Zürich,CH,"Hofwiesenstarsse 3,8057 Zürich",,,,,2000.0,,,,2000.0,hcp,allergan,,2016
-"Gütling, Eva",Winterthur,CH,"Marktgasse 44,8400 Winterthur",,,,,,,750.0,35.0,785.0,hcp,allergan,,2016
-"Gütling, Michael",Winterthur,CH,"Marktgasse 46,8400 Winterthur",,,,,430.0,720.0,,44.0,1194.0,hcp,allergan,,2016
-"Hess-Schmid, Monika",Zürich,CH,"Clinic Dufour 31,8008 Zürich",,,,,430.0,687.0,,44.0,1161.0,hcp,allergan,,2016
-"llliev, Milko",Zürich,CH,Gubelstrasse 54,,,,,,170.0,2000.0,130.0,2300.0,hcp,allergan,,2016
-"Jäger, Sebastian",Zug,CH,"Bahnhofstrasse 32, 6300 Zug",,,,,,,800.0,,800.0,hcp,allergan,,2016
-"Junghardt, Armin",Baden,CH,"Weite Gasse 37,5400 Baden",,,,,,,800.0,,800.0,hcp,allergan,,2016
-"Juri, Olga",Zürich,CH,"Bahnhofplatz 2,8001 Zürich",,,,,430.0,680.0,,44.0,1154.0,hcp,allergan,,2016
-"Kälin, Alain",Lugano,CH,"Via Tesserete 46,6900 Lugano",,,,,1800.0,,,,1800.0,hcp,allergan,,2016
-"Kätterer, Christian",Basel,CH,Im Burgfelderhof 40,,,,,850.0,710.0,750.0,120.0,2430.0,hcp,allergan,,2016
-"Katamay, Robert",Binningen,CH,"Hauptstrasse 55,4102 Binningen",,,,,,,800.0,120.0,920.0,hcp,allergan,,2016
-"Kern, Hans-Peter",Zürich,CH,"Dufourstrasse 31,8008 Zürich",,,,,,,9450.0,50.0,9500.0,hcp,allergan,,2016
-"Keskinaslan, Iclal",Binningen,CH,"Hauptstrasse 55,4102 Binningen",,,,,1003.0,,,,1003.0,hcp,allergan,,2016
-"Kinzl, Stephan",Zürich,CH,"Birmensdorferstrasse 497,8063 Zürich",,,,,,,800.0,,800.0,hcp,allergan,,2016
-"Kleeberg, Jörg",Sion,CH,"Av. Du Grand-Champsec 90,1951, Sion",,,,,103.0,,,50.0,153.0,hcp,allergan,,2016
-"Klinkenberg, Frank",Sursee,CH,"Bahnhofstrasse 15, 6210 Sursee",,,,,,,800.0,,800.0,hcp,allergan,,2016
-"Kocer, Serdar",Porrentruy,CH,"Chemin de l'hôpital 9,2900 Porrentruy",,,,,,350.0,3500.0,50.0,3900.0,hcp,allergan,,2016
-"Kohler, André",Genève,CH,"Rue du Vallin 2,1201 Genève",,,,,,,750.0,,750.0,hcp,allergan,,2016
-"Kopietz, Martin",Zürich,CH,"Bahnhofplatz 2,8001 Zürich",,,,,430.0,687.0,,44.0,1161.0,hcp,allergan,,2016
-"Kreyden, Philip",Muttenz,CH,"Baselstrasse 9,4132 Muttenz",,,,,,,2000.0,,2000.0,hcp,allergan,,2016
-"Kuhn, Annette",Bern,CH,"Effingerstrasse 102,3010 Bern",,,,,735.0,755.0,4250.0,235.0,5975.0,hcp,allergan,,2016
-"Le Huu, Serge",Montreux,CH,"Collonges 43,1820 Montreux",,,,,691.0,904.0,,112.0,1707.0,hcp,allergan,,2016
-"Leidi, Linda",Lugano,CH,"Via Monte Boglia 5, 6900 Lugano",,,,,,2560.0,,,2560.0,hcp,allergan,,2016
-"Looden, Zamina",Basel,CH,"Gerbergasse 4,4001 Basel",,,,,691.0,926.0,,,1617.0,hcp,allergan,,2016
-"Maas, Silvester",Olten,CH,"Louis-Giroud-Strasse 26,4600 Olten",,,,,691.0,876.0,,111.0,1678.0,hcp,allergan,,2016
-"Malclès, Ariane",Genève,CH,"Rue Micheli-Du-Crest 24,1205 Genève",,,,,435.0,1050.0,,,1485.0,hcp,allergan,,2016
-"Mangioris, Georgios",Genève,CH,"Rue Pierre Fatio 15,1204 Genève",,,,,,,300.0,100.0,400.0,hcp,allergan,,2016
-"Mekler, Jolanda",Basel,CH,"Missionsstrasse 53,4055 Basel",,,,,,,1800.0,,1800.0,hcp,allergan,,2016
-"Menke, Marcel",Aarau,CH,"Teilstrasse 25,5000 Aarau",,,,,,,800.0,,800.0,hcp,allergan,,2016
-"Menkes, Sophie",Lausanne,CH,"Avenue d'Ouchy 14,1006 Lausanne",,,,,,891.0,8350.0,50.0,9291.0,hcp,allergan,,2016
-"Meyer, Carsten",Aarau,CH,"Bahnhofplatz 4,5000 Aarau",,,,,,,800.0,,800.0,hcp,allergan,,2016
-"Meyer, Manuel",Zürich,CH,"Theaterstrasse 8,8001 Zürich",,,,,,1990.0,,,1990.0,hcp,allergan,,2016
-"Meyer, Stephanie",Basel,CH,"Hebelstrasse 32,4031 Basel",,,,,,,800.0,120.0,920.0,hcp,allergan,,2016
-"Müller, Andreas",Zürich,CH,"Witellikerstrasse 40,8032 Zürich",,,,,,,1500.0,95.0,1595.0,hcp,allergan,,2016
-"Müllner, Julia",Bern,CH,"Freiburstrasse 4,3010 Bern",,,,,,2025.0,,,2025.0,hcp,allergan,,2016
-"Mustur, Dominique",Wallisellen,CH,"Winterthurerstrasse 99, Glattzentrum b. Wallisellen",,,,,,,500.0,,500.0,hcp,allergan,,2016
-"Neuenschwander, Eva",Zürich,CH,"Forchstrasse 4,8008 Zürich",,,,,430.0,747.0,250.0,94.0,1521.0,hcp,allergan,,2016
-"Ney, Roland",Vevey,CH,"Rue des Mooulins 4,1800 Vevey",,,,,,300.0,2300.0,50.0,2650.0,hcp,allergan,,2016
-"Orgül, Selim",Basel,CH,"Mittlere Strasse 91,4031 Basel",,,,,1125.0,1576.0,,100.0,2801.0,hcp,allergan,,2016
-"Padevit, Christian",Winterhtur,CH,"Burgstrasse 109c, 8408 Winterthur",,,,,,,750.0,35.0,785.0,hcp,allergan,,2016
-"Pantli, Selina",Zürich,CH,"Seefeldstrasse 75,8008 Zürich",,,,,547.0,1467.0,,,2014.0,hcp,allergan,,2016
-"Pilly, Bertrand",Neuchâtel,CH,"Rue des Poteaux 8,2000 Neuchâtel",,,,,,,500.0,,500.0,hcp,allergan,,2016
-"Pincherle, Alexander",Biel,CH,"Rue de L'Union 14,2500 Bienne",,,,,,1875.0,,,1875.0,hcp,allergan,,2016
-"Poglia, Davide",Neuchâtel,CH,"Maladiere 45,2000 Neuchâtel",,,,,,,750.0,,750.0,hcp,allergan,,2016
-"Psychiasis, Aristeidis",Glatttzentrum,CH,"Neue Winterthurerstrasse 99,8301 Glattzentrum",,,,,,,800.0,,800.0,hcp,allergan,,2016
-"Reichert, Susanne",Bülach,CH,"Zürichstrasse 5, 8180 Bülach",,,,,,,4000.0,,4000.0,hcp,allergan,,2016
-"Röscheisen, Corina",Zürich,CH,"Beethovenstrasse 43, 8002 Zürich",,,,,435.0,1517.0,500.0,105.0,2557.0,hcp,allergan,,2016
-"Safa, Marva",Neuchâtel,CH,"Rue de l'Hôpital 18, 2000 Neuchâtel",,,,,,,14000.0,,14000.0,hcp,allergan,,2016
-"Scheiner, David",Zürich,CH,"Bühlstrasse 45a, 8055 Zürich",,,,,400.0,1575.0,1500.0,,3475.0,hcp,allergan,,2016
-"Schindler, Valeria",Zürich,CH,"Rämistrasse 100, 8091 Zürich",,,,,500.0,1000.0,,,1500.0,hcp,allergan,,2016
-"Schöneborn, Peter",Zürich,CH,"Holbeinstrasse 25, 8008 Zürich",,,,,1560.0,3579.0,500.0,429.0,6068.0,hcp,allergan,,2016
-"Schramm, Holger",Rheinfelden,CH,"Salinestrasse 98, 4310 Rheinfelden",,,,,,,500.0,,500.0,hcp,allergan,,2016
-"Schreyer, Dick Line",Neuchâtel,CH,"Rue de l'Hôpital 18, 2000 Neuchâtel",,,,,,,800.0,,800.0,hcp,allergan,,2016
-"Snozzi, Philippe",Zürich,CH,"Bahnhofplatz 2, 8001 Zürich",,,,,691.0,867.0,11750.0,252.0,13560.0,hcp,allergan,,2016
-"Spirig, Raimund",St. Gallen,CH,"Sandrainstrasse 8, St. Gallen",,,,,200.0,623.0,,80.0,903.0,hcp,allergan,,2016
-"Starnawska, Agnieszka",Basel,CH,"Missionsstrasse 53, 4055 Basel",,,,,,526.0,,264.0,790.0,hcp,allergan,,2016
-"Strini, Gabriele",Monthey,CH,"Avdel Gare 24,1870 Monthey",,,,,423.0,889.0,,245.0,1557.0,hcp,allergan,,2016
-"Stummvoll, Martina",Biel,CH,"Marktgasse 17, 2502 Biel",,,,,,760.0,,,760.0,hcp,allergan,,2016
-"Stürmer, Jörg",Winterthur,CH,"Brauerstrasse 15, 8400 Winterthur",,,,,,170.0,130.0,2200.0,2500.0,hcp,allergan,,2016
-"Tanga, Antonella",Genève,CH,"Rue Perret-Gentil 4,1205 Genève",,,,,,103.0,,50.0,153.0,hcp,allergan,,2016
-"Tenorio, Xavier",Genève,CH,"Chemin Rieu 18,1208 Genève",,,,,,,4600.0,135.0,4735.0,hcp,allergan,,2016
-"Töteberg, Marc",Zürich,CH,"Frauenklinikstrasse 24, 8006 Zürich",,,,,,,1000.0,,1000.0,hcp,allergan,,2016
-"Trachsler, Stefan",Aarau,CH,"Teilstrasse 5, 5000 Aarau",,,,,435.0,605.0,,85.0,1125.0,hcp,allergan,,2016
-"Tran, Viet",Vevey,CH,"Rue du lac 39,1800 Vevey",,,,,,,300.0,100.0,400.0,hcp,allergan,,2016
-"Tschannen, Tanja",Zürich,CH,"Schaffhauserstrasse 355, 8050 Zürich",,,,,,,250.0,50.0,300.0,hcp,allergan,,2016
-"Türkesever, Cengiz",Binningen,CH,"Hauptstrasse 55, 4102 Binningen",,,,,245.0,923.0,1000.0,32.0,2200.0,hcp,allergan,,2016
-"Tutuian, Radu",Bern,CH,"Freiburstrasse 8, 3010 Bern",,,,,,,1500.0,,1500.0,hcp,allergan,,2016
-"Vaclavik, Veronika",Fribourg,CH,"Chemin des Pensionnats 2,1708 Fribourg",,,,,,,1000.0,,1000.0,hcp,allergan,,2016
-"Van Dommelen, Yaelle",Mollens,CH,"Route de Montana 13, 3974 Mollens",,,,,,100.0,,50.0,150.0,hcp,allergan,,2016
-"Vignanelli, Massimo",Lugano,CH,"Via Trevano 38, 6900 Lugano",,,,,,,800.0,50.0,850.0,hcp,allergan,,2016
-"Vuadens, Philippe",Sion,CH,"Avenue du Grand-Champsec 90,1950 Sion",,,,,,,750.0,,750.0,hcp,allergan,,2016
-"Wegener, Ahron",Freienbach,CH,"Kantonsstrasse 102, 8807 Freienbach",,,,,300.0,974.0,,500.0,1774.0,hcp,allergan,,2016
-"Wiesel, Paul",Lausanne,CH,"Avenue Vinet 30,1004 Lausanne",,,,,,,1500.0,95.0,1595.0,hcp,allergan,,2016
-"Wild, Andreas",Thun,CH,"Hohmadstrasse 1,3600 Thun",,,,,500.0,,2400.0,77.0,2977.0,hcp,allergan,,2016
-"Wirth, Raphael",Biel,CH,"General-Dufour-Strasse 17, 2502 Biel",,,,,430.0,553.0,,42.0,1025.0,hcp,allergan,,2016
-"Wolynski, Jana",Zürich,CH,"Theaterstrasse 8, 8001 Zürich",,,,,,462.0,,,462.0,hcp,allergan,,2016
-"Wyss, Simon",Jegenstorf,CH,"Bernstrasse 41,3303 Jegenstorf",,,,,300.0,640.0,4600.0,179.0,5719.0,hcp,allergan,,2016
-"Zandi, Souska",Bern,CH,"Bremgartenstrasse 119, 3012 Bern",,,,,,,800.0,,800.0,hcp,allergan,,2016
-"Zanzi, Michele",Lausanne,CH,"Avenue Marc-Dufour 4,1007 Lausanne",,,,,691.0,965.0,,112.0,1768.0,hcp,allergan,,2016
-"Zellweger, Ulrich",lllanz,CH,"Spitalstrasse 6, 2237 lllanz",,,,,435.0,1260.0,,237.0,1932.0,hcp,allergan,,2016
-"Zepter, Karoline",Florgen,CH,"Zugerstsrasse 35, 8810 Horgen",,,,,430.0,697.0,,42.0,1169.0,hcp,allergan,,2016
-"Zurn, Andre",Lausanne,CH,"Av. Benjamin constant 1,1003 Lausanne",,,,,435.0,701.0,,42.0,1178.0,hcp,allergan,,2016
+Reto Agosti,Zollikon,CH,"Klinik Hirslanden, Forchstrasse 424,8702 Zollikon",,,,,,,750.0,,750.0,hcp,allergan,,2016
+Roger Alvarez,Zürich,CH,"Body Esthetic GmbH, Seefeldstrasse 75,8008 Zürich",,,,,430.0,680.0,,94.0,1204.0,hcp,allergan,,2016
+Veronique Arnould,Zürich,CH,Augenklinik Seefeld Holbeinstrasse 25 8008 Zürich,,,,,1125.0,1776.0,,100.0,3001.0,hcp,allergan,,2016
+Miriam Aufdenblatten,Bern,CH,"Bremgartenstrasse 119,3012 Bern",,,,,,,500.0,100.0,600.0,hcp,allergan,,2016
+Edorado Baglivo,Onex,CH,"Clinique de l'Oeil Av. Bois-de-la Chapelle 15,1213 Onex",,,,,,,300.0,100.0,400.0,hcp,allergan,,2016
+Peter Bartel,Sursee,CH,"Uro Sursee, Buchenstrasse 4,6210 Sursee",,,,,,706.0,,,706.0,hcp,allergan,,2016
+Sarah Berrut,Genève,CH,"HUG, Rue Perret-Gentil 4,1205 Genève",,,,,,103.0,,55.0,158.0,hcp,allergan,,2016
+Florian Bihl,Bellinzona,CH,"Vial Officina 3,6900 Bellinzona",,,,,,,750.0,,750.0,hcp,allergan,,2016
+Fabricio Branca,Basel,CH,"Centralbahnstrasse 20,4051 Basel",,,,,,,800.0,,800.0,hcp,allergan,,2016
+Ganotis Charalampos,Aarau,CH,"Bahnhofplatz 4,5000 Aarau",,,,,435.0,1562.0,,105.0,2102.0,hcp,allergan,,2016
+Nichorlis Charilaos,Reinach,CH,"Orasis AG, Tittlisstrasse 44,5734 Reinach",,,,,435.0,1562.0,500.0,105.0,2602.0,hcp,allergan,,2016
+Marc De Smet,Lausanne,CH,"MIOS SA, Avenue du Leman 32,1005 Lausanne",,,,,,,4500.0,100.0,4600.0,hcp,allergan,,2016
+Xavier Delgadillo,La Chaux-de-Fonds,CH,"Clinieu de Montbrillant SA, 2300 La-Chaux-de-Fonds",,,,,,,750.0,,750.0,hcp,allergan,,2016
+Guy Donati,Genève,CH,Aavenue de La Roseraie 76am 1205 Genève,,,,,,,800.0,,800.0,hcp,allergan,,2016
+Michael Drepper,Genève,CH,"HUG, Rue Gabrielle-Perret-Gentil 4,1211 Genève",,,,,,1524.0,,,1524.0,hcp,allergan,,2016
+Magali Dumont-Berset,Villars sur Glâne,CH,"Rue Du Centre 8,1752 Villars sur Glâne",,,,,430.0,547.0,,44.0,1021.0,hcp,allergan,,2016
+lancu Ruxandra Ferfoglia,Genève,CH,"HUG, Rue Gabrielle-Perret-Gentil 4,1211 Genève",,,,,,103.0,,50.0,153.0,hcp,allergan,,2016
+Walter Ferrini,Neuchâtel,CH,"Fbg de L- Hopital, 2000 Neuchâtel",,,,,,,300.0,100.0,400.0,hcp,allergan,,2016
+Vanessa Fleury-Nissen,Genève,CH,"HUG, Rue Perret-Gentil 4,1205 Genève",,,,,,103.0,750.0,50.0,903.0,hcp,allergan,,2016
+Lorenzo Franscini,Lugano,CH,"Via Torricelli 39a, 6900 Lugano",,,,,360.0,,,,360.0,hcp,allergan,,2016
+Jean-Louis Frossard,Genève,CH,"HUG, Rue Perret-Gentil 4,1205 Genève",,,,,,,2250.0,95.0,2345.0,hcp,allergan,,2016
+Daniel Fuchs,Zürich,CH,"Laternengasse 4,8001 Zürich",,,,,,1191.0,9900.0,,11091.0,hcp,allergan,,2016
+Salvatore Galati,Bellinzona,CH,"Viale Officina 3, 6900 Bellinzona",,,,,,,750.0,,750.0,hcp,allergan,,2016
+Andrea Galli,Viganello,CH,Via Pietro Capelli,,,,,,,1300.0,50.0,1350.0,hcp,allergan,,2016
+Heinrich Gerding,Olten,CH,"Louis-Giroud-Strasse 20,4600 Olten",,,,,290.0,678.0,,70.0,1038.0,hcp,allergan,,2016
+Konstantin Gugleta,Basel,CH,"Mittlere Strasse 91,4031 Basel",,,,,,758.0,,,758.0,hcp,allergan,,2016
+Sharmistha Guggenbühl-Roy,Zürich,CH,"Hofwiesenstarsse 3,8057 Zürich",,,,,2000.0,,,,2000.0,hcp,allergan,,2016
+Eva Gütling,Winterthur,CH,"Marktgasse 44,8400 Winterthur",,,,,,,750.0,35.0,785.0,hcp,allergan,,2016
+Michael Gütling,Winterthur,CH,"Marktgasse 46,8400 Winterthur",,,,,430.0,720.0,,44.0,1194.0,hcp,allergan,,2016
+Monika Hess-Schmid,Zürich,CH,"Clinic Dufour 31,8008 Zürich",,,,,430.0,687.0,,44.0,1161.0,hcp,allergan,,2016
+Milko llliev,Zürich,CH,Gubelstrasse 54,,,,,,170.0,2000.0,130.0,2300.0,hcp,allergan,,2016
+Sebastian Jäger,Zug,CH,"Bahnhofstrasse 32, 6300 Zug",,,,,,,800.0,,800.0,hcp,allergan,,2016
+Armin Junghardt,Baden,CH,"Weite Gasse 37,5400 Baden",,,,,,,800.0,,800.0,hcp,allergan,,2016
+Olga Juri,Zürich,CH,"Bahnhofplatz 2,8001 Zürich",,,,,430.0,680.0,,44.0,1154.0,hcp,allergan,,2016
+Alain Kälin,Lugano,CH,"Via Tesserete 46,6900 Lugano",,,,,1800.0,,,,1800.0,hcp,allergan,,2016
+Christian Kätterer,Basel,CH,Im Burgfelderhof 40,,,,,850.0,710.0,750.0,120.0,2430.0,hcp,allergan,,2016
+Robert Katamay,Binningen,CH,"Hauptstrasse 55,4102 Binningen",,,,,,,800.0,120.0,920.0,hcp,allergan,,2016
+Hans-Peter Kern,Zürich,CH,"Dufourstrasse 31,8008 Zürich",,,,,,,9450.0,50.0,9500.0,hcp,allergan,,2016
+Iclal Keskinaslan,Binningen,CH,"Hauptstrasse 55,4102 Binningen",,,,,1003.0,,,,1003.0,hcp,allergan,,2016
+Stephan Kinzl,Zürich,CH,"Birmensdorferstrasse 497,8063 Zürich",,,,,,,800.0,,800.0,hcp,allergan,,2016
+Jörg Kleeberg,Sion,CH,"Av. Du Grand-Champsec 90,1951, Sion",,,,,103.0,,,50.0,153.0,hcp,allergan,,2016
+Frank Klinkenberg,Sursee,CH,"Bahnhofstrasse 15, 6210 Sursee",,,,,,,800.0,,800.0,hcp,allergan,,2016
+Serdar Kocer,Porrentruy,CH,"Chemin de l'hôpital 9,2900 Porrentruy",,,,,,350.0,3500.0,50.0,3900.0,hcp,allergan,,2016
+André Kohler,Genève,CH,"Rue du Vallin 2,1201 Genève",,,,,,,750.0,,750.0,hcp,allergan,,2016
+Martin Kopietz,Zürich,CH,"Bahnhofplatz 2,8001 Zürich",,,,,430.0,687.0,,44.0,1161.0,hcp,allergan,,2016
+Philip Kreyden,Muttenz,CH,"Baselstrasse 9,4132 Muttenz",,,,,,,2000.0,,2000.0,hcp,allergan,,2016
+Annette Kuhn,Bern,CH,"Effingerstrasse 102,3010 Bern",,,,,735.0,755.0,4250.0,235.0,5975.0,hcp,allergan,,2016
+Serge Le Huu,Montreux,CH,"Collonges 43,1820 Montreux",,,,,691.0,904.0,,112.0,1707.0,hcp,allergan,,2016
+Linda Leidi,Lugano,CH,"Via Monte Boglia 5, 6900 Lugano",,,,,,2560.0,,,2560.0,hcp,allergan,,2016
+Zamina Looden,Basel,CH,"Gerbergasse 4,4001 Basel",,,,,691.0,926.0,,,1617.0,hcp,allergan,,2016
+Silvester Maas,Olten,CH,"Louis-Giroud-Strasse 26,4600 Olten",,,,,691.0,876.0,,111.0,1678.0,hcp,allergan,,2016
+Ariane Malclès,Genève,CH,"Rue Micheli-Du-Crest 24,1205 Genève",,,,,435.0,1050.0,,,1485.0,hcp,allergan,,2016
+Georgios Mangioris,Genève,CH,"Rue Pierre Fatio 15,1204 Genève",,,,,,,300.0,100.0,400.0,hcp,allergan,,2016
+Jolanda Mekler,Basel,CH,"Missionsstrasse 53,4055 Basel",,,,,,,1800.0,,1800.0,hcp,allergan,,2016
+Marcel Menke,Aarau,CH,"Teilstrasse 25,5000 Aarau",,,,,,,800.0,,800.0,hcp,allergan,,2016
+Sophie Menkes,Lausanne,CH,"Avenue d'Ouchy 14,1006 Lausanne",,,,,,891.0,8350.0,50.0,9291.0,hcp,allergan,,2016
+Carsten Meyer,Aarau,CH,"Bahnhofplatz 4,5000 Aarau",,,,,,,800.0,,800.0,hcp,allergan,,2016
+Manuel Meyer,Zürich,CH,"Theaterstrasse 8,8001 Zürich",,,,,,1990.0,,,1990.0,hcp,allergan,,2016
+Stephanie Meyer,Basel,CH,"Hebelstrasse 32,4031 Basel",,,,,,,800.0,120.0,920.0,hcp,allergan,,2016
+Andreas Müller,Zürich,CH,"Witellikerstrasse 40,8032 Zürich",,,,,,,1500.0,95.0,1595.0,hcp,allergan,,2016
+Julia Müllner,Bern,CH,"Freiburstrasse 4,3010 Bern",,,,,,2025.0,,,2025.0,hcp,allergan,,2016
+Dominique Mustur,Wallisellen,CH,"Winterthurerstrasse 99, Glattzentrum b. Wallisellen",,,,,,,500.0,,500.0,hcp,allergan,,2016
+Eva Neuenschwander,Zürich,CH,"Forchstrasse 4,8008 Zürich",,,,,430.0,747.0,250.0,94.0,1521.0,hcp,allergan,,2016
+Roland Ney,Vevey,CH,"Rue des Mooulins 4,1800 Vevey",,,,,,300.0,2300.0,50.0,2650.0,hcp,allergan,,2016
+Selim Orgül,Basel,CH,"Mittlere Strasse 91,4031 Basel",,,,,1125.0,1576.0,,100.0,2801.0,hcp,allergan,,2016
+Christian Padevit,Winterthur,CH,"Burgstrasse 109c, 8408 Winterthur",,,,,,,750.0,35.0,785.0,hcp,allergan,,2016
+Selina Pantli,Zürich,CH,"Seefeldstrasse 75,8008 Zürich",,,,,547.0,1467.0,,,2014.0,hcp,allergan,,2016
+Bertrand Pilly,Neuchâtel,CH,"Rue des Poteaux 8,2000 Neuchâtel",,,,,,,500.0,,500.0,hcp,allergan,,2016
+Alexander Pincherle,Biel,CH,"Rue de L'Union 14,2500 Bienne",,,,,,1875.0,,,1875.0,hcp,allergan,,2016
+Davide Poglia,Neuchâtel,CH,"Maladiere 45,2000 Neuchâtel",,,,,,,750.0,,750.0,hcp,allergan,,2016
+Aristeidis Psychiasis,Glatttzentrum,CH,"Neue Winterthurerstrasse 99,8301 Glattzentrum",,,,,,,800.0,,800.0,hcp,allergan,,2016
+Susanne Reichert,Bülach,CH,"Zürichstrasse 5, 8180 Bülach",,,,,,,4000.0,,4000.0,hcp,allergan,,2016
+Corina Röscheisen,Zürich,CH,"Beethovenstrasse 43, 8002 Zürich",,,,,435.0,1517.0,500.0,105.0,2557.0,hcp,allergan,,2016
+Marva Safa,Neuchâtel,CH,"Rue de l'Hôpital 18, 2000 Neuchâtel",,,,,,,14000.0,,14000.0,hcp,allergan,,2016
+David Scheiner,Zürich,CH,"Bühlstrasse 45a, 8055 Zürich",,,,,400.0,1575.0,1500.0,,3475.0,hcp,allergan,,2016
+Valeria Schindler,Zürich,CH,"Rämistrasse 100, 8091 Zürich",,,,,500.0,1000.0,,,1500.0,hcp,allergan,,2016
+Peter Schöneborn,Zürich,CH,"Holbeinstrasse 25, 8008 Zürich",,,,,1560.0,3579.0,500.0,429.0,6068.0,hcp,allergan,,2016
+Holger Schramm,Rheinfelden,CH,"Salinestrasse 98, 4310 Rheinfelden",,,,,,,500.0,,500.0,hcp,allergan,,2016
+Dick Line Schreyer,Neuchâtel,CH,"Rue de l'Hôpital 18, 2000 Neuchâtel",,,,,,,800.0,,800.0,hcp,allergan,,2016
+Philippe Snozzi,Zürich,CH,"Bahnhofplatz 2, 8001 Zürich",,,,,691.0,867.0,11750.0,252.0,13560.0,hcp,allergan,,2016
+Raimund Spirig,St. Gallen,CH,"Sandrainstrasse 8, St. Gallen",,,,,200.0,623.0,,80.0,903.0,hcp,allergan,,2016
+Agnieszka Starnawska,Basel,CH,"Missionsstrasse 53, 4055 Basel",,,,,,526.0,,264.0,790.0,hcp,allergan,,2016
+Gabriele Strini,Monthey,CH,"Avdel Gare 24,1870 Monthey",,,,,423.0,889.0,,245.0,1557.0,hcp,allergan,,2016
+Martina Stummvoll,Biel,CH,"Marktgasse 17, 2502 Biel",,,,,,760.0,,,760.0,hcp,allergan,,2016
+Jörg Stürmer,Winterthur,CH,"Brauerstrasse 15, 8400 Winterthur",,,,,,170.0,130.0,2200.0,2500.0,hcp,allergan,,2016
+Antonella Tanga,Genève,CH,"Rue Perret-Gentil 4,1205 Genève",,,,,,103.0,,50.0,153.0,hcp,allergan,,2016
+Xavier Tenorio,Genève,CH,"Chemin Rieu 18,1208 Genève",,,,,,,4600.0,135.0,4735.0,hcp,allergan,,2016
+Marc Töteberg,Zürich,CH,"Frauenklinikstrasse 24, 8006 Zürich",,,,,,,1000.0,,1000.0,hcp,allergan,,2016
+Stefan Trachsler,Aarau,CH,"Teilstrasse 5, 5000 Aarau",,,,,435.0,605.0,,85.0,1125.0,hcp,allergan,,2016
+Viet Tran,Vevey,CH,"Rue du lac 39,1800 Vevey",,,,,,,300.0,100.0,400.0,hcp,allergan,,2016
+Tanja Tschannen,Zürich,CH,"Schaffhauserstrasse 355, 8050 Zürich",,,,,,,250.0,50.0,300.0,hcp,allergan,,2016
+Cengiz Türkesever,Binningen,CH,"Hauptstrasse 55, 4102 Binningen",,,,,245.0,923.0,1000.0,32.0,2200.0,hcp,allergan,,2016
+Radu Tutuian,Bern,CH,"Freiburstrasse 8, 3010 Bern",,,,,,,1500.0,,1500.0,hcp,allergan,,2016
+Veronika Vaclavik,Fribourg,CH,"Chemin des Pensionnats 2,1708 Fribourg",,,,,,,1000.0,,1000.0,hcp,allergan,,2016
+Yaelle Van Dommelen,Mollens,CH,"Route de Montana 13, 3974 Mollens",,,,,,100.0,,50.0,150.0,hcp,allergan,,2016
+Massimo Vignanelli,Lugano,CH,"Via Trevano 38, 6900 Lugano",,,,,,,800.0,50.0,850.0,hcp,allergan,,2016
+Philippe Vuadens,Sion,CH,"Avenue du Grand-Champsec 90,1950 Sion",,,,,,,750.0,,750.0,hcp,allergan,,2016
+Ahron Wegener,Freienbach,CH,"Kantonsstrasse 102, 8807 Freienbach",,,,,300.0,974.0,,500.0,1774.0,hcp,allergan,,2016
+Paul Wiesel,Lausanne,CH,"Avenue Vinet 30,1004 Lausanne",,,,,,,1500.0,95.0,1595.0,hcp,allergan,,2016
+Andreas Wild,Thun,CH,"Hohmadstrasse 1,3600 Thun",,,,,500.0,,2400.0,77.0,2977.0,hcp,allergan,,2016
+Raphael Wirth,Biel,CH,"General-Dufour-Strasse 17, 2502 Biel",,,,,430.0,553.0,,42.0,1025.0,hcp,allergan,,2016
+Jana Wolynski,Zürich,CH,"Theaterstrasse 8, 8001 Zürich",,,,,,462.0,,,462.0,hcp,allergan,,2016
+Simon Wyss,Jegenstorf,CH,"Bernstrasse 41,3303 Jegenstorf",,,,,300.0,640.0,4600.0,179.0,5719.0,hcp,allergan,,2016
+Souska Zandi,Bern,CH,"Bremgartenstrasse 119, 3012 Bern",,,,,,,800.0,,800.0,hcp,allergan,,2016
+Michele Zanzi,Lausanne,CH,"Avenue Marc-Dufour 4,1007 Lausanne",,,,,691.0,965.0,,112.0,1768.0,hcp,allergan,,2016
+Ulrich Zellweger,lllanz,CH,"Spitalstrasse 6, 2237 lllanz",,,,,435.0,1260.0,,237.0,1932.0,hcp,allergan,,2016
+Karoline Zepter,Horgen,CH,"Zugerstsrasse 35, 8810 Horgen",,,,,430.0,697.0,,42.0,1169.0,hcp,allergan,,2016
+Andre Zurn,Lausanne,CH,"Av. Benjamin constant 1,1003 Lausanne",,,,,435.0,701.0,,42.0,1178.0,hcp,allergan,,2016
 ADEL Association D'Esculape En Lavaux,Lutry,CH,"Grand-Rue 22,1095 Lutry",,,,2000.0,,,,,2000.0,hco,allergan,,2016
 AOCT Associazione Oculisti Canton Ticino,Lugano,CH,"Via Canova 18, 6900 Lugano",,,,1500.0,,,,,1500.0,hco,allergan,,2016
 Augenklinik Hohmad,Thun,CH,"Hohmadstrasse 1, 3600 Thun",,,,500.0,,,,,500.0,hco,allergan,,2016
@@ -14933,7 +14933,7 @@ Universitätsspital Basel/Onkoloqie,Basel,CH,Petersgraben 4,,,,1080.0,,,,,1080.0
 "Voegeli, Michèle",Liestal ,CH,Mühlematt 13,,,,,,,800.0,,800.0,hcp,eli,,2016
 "von Burg, Philippe",Solothurn ,CH,"Haus 7, Schöngrünstrasse 38",,,,,,,800.0,,800.0,hcp,eli,,2016
 "Von der Weid, Nicolas",Genève,CH,Chemin de Beau- Soleil 12 ,,,,,,,2200.0,,2200.0,hcp,eli,,2016
-"Walther, Sebastian",Bern 60 U ,CH,Bolligenstrasse 111 ,,,,,,,2500.0,,2500.0,hcp,eli,,2016
+"Walther, Sebastian",Bern,CH,Bolligenstrasse 111 ,,,,,,,2500.0,,2500.0,hcp,eli,,2016
 "Warzinek, Thomas",Sargans ,CH,Bahnhofstrasse 6 ,,,,,,,600.0,,600.0,hcp,eli,,2016
 "Wehrhahn, Tobias",Aarau ,CH,Tellstrasse 25 ,,,,,,,600.0,,600.0,hcp,eli,,2016
 "Wiesli, Peter",Frauenfeld ,CH,Pfaffenholzstrass e4 ,,,,,,,3050.0,58.0,3108.0,hcp,eli,,2016
@@ -16059,7 +16059,7 @@ Manuel Moser,Langenthal,CH,Marktgasse 18,,,,,205.0,870.0,205.0,,1280.0,hcp,lundb
 Marc Hofmann,Grüningen,CH,Klinik Sonnhalde - Pflegeheim Gerbi-Strasse 9,,,,,,,100.0,,100.0,hcp,lundbeck,,2016
 Marco Gebbers,Rain,CH,Wydemattrain 9,,,,,,,1000.0,,1000.0,hcp,lundbeck,,2016
 Marina Reznik,Basel,CH,Leimenstrasse 17,,,,,366.0,870.0,366.0,,1602.0,hcp,lundbeck,,2016
-Markus Kohler,Krankenhausstrasse 12,CH,Psychiatrische Dienste Spital STS AG,,,,,161.0,484.0,161.0,,806.0,hcp,lundbeck,,2016
+Markus Kohler,Thun,CH,Krankenhausstrasse 12,,,,,161.0,484.0,161.0,,806.0,hcp,lundbeck,,2016
 Markus Maggi,Richterswil,CH,Adlergasse 3,,,,,,,800.0,,800.0,hcp,lundbeck,,2016
 Martin Kammerer,Rüschlikon,CH,Dorfstrasse 3,,,,,161.0,624.0,161.0,,946.0,hcp,lundbeck,,2016
 Martin Minder,Münchenbuchsee,CH,Fellenbergstrasse 34,,,,,205.0,870.0,205.0,,1280.0,hcp,lundbeck,,2016
@@ -16073,7 +16073,7 @@ Michele Schuierer,Lommiswil,CH,Selzacherstrasse 1,,,,,,,650.0,,650.0,hcp,lundbec
 Michelle Montani-Novotni,Marin,CH,CNP Site de Préfargier,,,,,577.0,784.0,577.0,,1938.0,hcp,lundbeck,,2016
 Miguel Marset-Fernandez,Genève,CH,Rue de la Terrassière 58,,,,,249.0,655.0,249.0,,1153.0,hcp,lundbeck,,2016
 Mihran Lacinoglu,Biel/Bienne,CH,Bahnhofstrasse 1,,,,,205.0,870.0,205.0,,1280.0,hcp,lundbeck,,2016
-Monika Ridinger,Postfach 432,CH,Psychiatrische Klinik Königsfelden,,,,,,,5500.0,,5500.0,hcp,lundbeck,,2016
+Monika Ridinger,Königsfelder,CH,"Psychiatrische Klinik Königsfelden, Postfach 432",,,,,,,5500.0,,5500.0,hcp,lundbeck,,2016
 Myron Valvis,Yverdon-les-Bains,CH,Rue des Jordils 63,,,,,577.0,784.0,577.0,,1938.0,hcp,lundbeck,,2016
 Nexhat Rrustemi,Bulle,CH,Route de Riaz 8,,,,,,,500.0,,500.0,hcp,lundbeck,,2016
 Niccolò Morandotti,Pregassona,CH,Clinica Viarnetto Via Ceresio 34b,,,,,,836.0,,,836.0,hcp,lundbeck,,2016
@@ -16095,32 +16095,32 @@ Renata Werlen,Biel/Bienne,CH,Zentralstrasse 47,,,,,366.0,870.0,366.0,,1602.0,hcp
 Riaz Ahmad Khan,Genève,CH,Hôpitaux Universitaires de Genève Rue de Lausanne 20 bis,,,,,249.0,655.0,249.0,,1153.0,hcp,lundbeck,,2016
 Robert Maier,Kilchberg ZH,CH,Sanatorium Kilchberg AG Alte Landstrasse 70,,,,,,,100.0,,100.0,hcp,lundbeck,,2016
 Robert McShine,Winterthur,CH,Zentrum Hard Integrierte Psychiatrie Winterthur Postfach 144,,,,,366.0,870.0,366.0,,1602.0,hcp,lundbeck,,2016
-Roland Vauth,Kornhausgasse 7,CH,Universitäre Psychiatrische Kliniken Basel,,,,,,,1000.0,,1000.0,hcp,lundbeck,,2016
+Roland Vauth,Basel,CH,"Universitäre Psychiatrische Kliniken Basel, Kornhausgasse 7",,,,,,,1000.0,,1000.0,hcp,lundbeck,,2016
 Roland von Känel,Barmelweid,CH,Klinik Barmelweid AG,,,,,205.0,705.0,205.0,,1115.0,hcp,lundbeck,,2016
 Sabine Abele,Luzern,CH,"St,-Leodegar-Strasse 2",,,,,161.0,680.0,161.0,,1002.0,hcp,lundbeck,,2016
 Sehal Poyraz,Zürich,CH,Zentrum für Abhängigkeitserkrankungen Psychiatrische Universitätsklinik Zürich Selnaustrasse 9,,,,,132.0,680.0,132.0,,944.0,hcp,lundbeck,,2016
 Serge Zumbach,Marsens,CH,Réseau fribourgeois de santé mentale c/o Centre de soins hospitaliers Case postale 90,,,,,577.0,784.0,577.0,,1938.0,hcp,lundbeck,,2016
-Sérgio Lenoir,St,CH,Zürcherstrasse 170,,,,,161.0,598.0,161.0,,920.0,hcp,lundbeck,,2016
+Sérgio Lenoir,St. Gallen,CH,Zürcherstrasse 170,,,,,161.0,598.0,161.0,,920.0,hcp,lundbeck,,2016
 Simonetta Colmegna,Agno,CH,Clinica Psichiatrica di Giorno Via Lugano 1,,,,,577.0,784.0,577.0,,1938.0,hcp,lundbeck,,2016
 Slavica Romancuk-Bacinski,Glattbrugg,CH,Wright-Strasse 34,,,,,,,500.0,,500.0,hcp,lundbeck,,2016
-Stefan Kaiser,Lenggstrasse 31,CH,Psychiatrische Universitätsklinik Zürich,,,,,,,1000.0,,1000.0,hcp,lundbeck,,2016
+Stefan Kaiser,Zürich,CH,"Psychiatrische Universitätsklinik Zürich, Lenggstrasse 31",,,,,,,1000.0,,1000.0,hcp,lundbeck,,2016
 Stéphane Favre,Aigle,CH,"Policlinique psych,adulte Centre du Grand-Chêne Chemin du Grand-Chêne 1",,,,,577.0,784.0,577.0,,1938.0,hcp,lundbeck,,2016
 Susanne Harfmann,Brig,CH,Überlandstrasse 14,,,,,,675.0,,,675.0,hcp,lundbeck,,2016
-Sven Brockmüller,Zäch Strasse 1,CH,Zentrum für Schmerzmedizin Schweizer Paraplegiker-Zentrum Guido A,,,,,,870.0,,,870.0,hcp,lundbeck,,2016
+Sven Brockmüller,Nottwil,CH,"Zentrum für Schmerzmedizin Schweizer Paraplegiker-Zentrum Guido A, Zäch Strasse 1",,,,,,870.0,,,870.0,hcp,lundbeck,,2016
 Svjetlana Vinkovic-Glodjajic,Chur,CH,Poststrasse 36,,,,,205.0,870.0,205.0,,1280.0,hcp,lundbeck,,2016
 Tarek Bdeir Ibanez,Avenue des Mousquines 4,CH,Les Toises Centre de Psychiatrie & Psychothérapie,,,,,577.0,784.0,577.0,,1938.0,hcp,lundbeck,,2016
 Tatiana Miusskaya Fehr,Chur,CH,Psychiatrische Dienste Graubünden Klinik Waldhaus Loëstrasse 220,,,,,366.0,870.0,366.0,,1602.0,hcp,lundbeck,,2016
 Tatjana Zafirovska,Lugano,CH,Via delle Scuole 1,,,,,826.0,1599.0,826.0,,3251.0,hcp,lundbeck,,2016
 Thi Nguyen,Lausanne,CH,Avenue de Chailly 25,,,,,,,300.0,,300.0,hcp,lundbeck,,2016
-Thilo Beck,Konradstrasse 32,CH,Arud Geschäftsstelle Zürich,,,,,,,1500.0,,1500.0,hcp,lundbeck,,2016
-Thomas Jörg Müller,Dienste Bern (UPD) Murtenstrasse 21,CH,Uniklinik und Poliklinik Universitäre Psych,,,,,,,1400.0,,1400.0,hcp,lundbeck,,2016
-Thomas Jörg Müller,Dienste Bern (UPD) Murtenstrasse 21,CH,Uniklinik und Poliklinik Universitäre Psych,,,,,,,1000.0,,1000.0,hcp,lundbeck,,2016
+Thilo Beck,Zürich,CH,"Arud Geschäftsstelle Zürich, Konradstrasse 32",,,,,,,1500.0,,1500.0,hcp,lundbeck,,2016
+Thomas Jörg Müller,Bern,CH,"Uniklinik und Poliklinik Universitäre Psych, Dienste Bern (UPD) Murtenstrasse 21",,,,,,,1400.0,,1400.0,hcp,lundbeck,,2016
+Thomas Jörg Müller,Bern,CH,"Uniklinik und Poliklinik Universitäre Psych, Dienste Bern (UPD) Murtenstrasse 21",,,,,,,1000.0,,1000.0,hcp,lundbeck,,2016
 Thomas Leyhe,Basel,CH,UPK Basel Universitäte Psychiatrische Kliniken Wilhelm Klein-Strasse 27,,,,,,,1500.0,,1500.0,hcp,lundbeck,,2016
 Thomas Lüddeckens,Hasel 837,CH,Klinik Im Hasel AG,,,,,,,1500.0,,1500.0,hcp,lundbeck,,2016
 Thorsten Mikoteit,Basel,CH,UPK Basel Universitäte Psychiatrische Kliniken Wilhelm Klein-Strasse 27,,,,,,,1000.0,,1000.0,hcp,lundbeck,,2016
 Urs Fromm,Wohlen AG,CH,Zentralstrasse 55a,,,,,205.0,870.0,205.0,,1280.0,hcp,lundbeck,,2016
 Vera Popadic,Wil,CH,Bronschohofenstrasse 20,,,,,205.0,870.0,205.0,,1280.0,hcp,lundbeck,,2016
-Walter Heuberger,Will SG,CH,Psychiatrische Klinik Wil Postfach 573,,,,,161.0,605.0,161.0,,927.0,hcp,lundbeck,,2016
+Walter Heuberger,Wil SG,CH,Psychiatrische Klinik Wil Postfach 573,,,,,161.0,605.0,161.0,,927.0,hcp,lundbeck,,2016
 Wilhelm Breit,Brugg,CH,Psychiatrische Klinik Königsfelden Postfach 432,,,,,366.0,675.0,366.0,,1407.0,hcp,lundbeck,,2016
 Amicale TTC Valais Romand c/o  Daniel Antonioli,Sion,CH,Reue de la Dixence 21,,,,550.0,,,,,550.0,hco,lundbeck,,2016
 Anne Lévy,Basel,CH,UPK Basel Universitäte Psychiatrische Kliniken Wilhelm Klein-Strasse 27,,,,,,,1200.0,,1200.0,hcp,lundbeck,,2016
@@ -16190,7 +16190,7 @@ Psychiatrische Klinik Königsfelden Psychiatrische Dienste Aargau AG,Brugg AG,CH
 Psychiatrische Universitätsklinik Zürich,Zürich,CH,Selnaustrasse 9,,,,,,,1500.0,,1500.0,hco,lundbeck,,2016
 Psychiatrische Universitätsklinik Zürich (PUK),Zürich,CH,"Lenggstrasse 31, Postfach 1931",,,,16500.0,,,1400.0,378.0,18278.0,hco,lundbeck,,2016
 Psychiatrisches Zentrum Appenzell Ausserrhoden,Herisau,CH,Krombach 3,,,,1080.0,,,,,1080.0,hco,lundbeck,,2016
-PULSUS,Luzern 15,CH,Lidostrasse 6 Postfach 15127,,,,500.0,,,,,500.0,hco,lundbeck,,2016
+PULSUS,Luzern,CH,Lidostrasse 6 Postfach 15127,,,,500.0,,,,,500.0,hco,lundbeck,,2016
 Quadrimed,Crans-Montana,CH,Case postale 299,,,,9100.0,,,,,9100.0,hco,lundbeck,,2016
 Reha Rheinfelden,Rheinfelden,CH,Salinenstrasse 98,,,,1500.0,,,,,1500.0,hco,lundbeck,,2016
 Sanatorium Kilchberg,Kilchberg,CH,Alte Landstrasse 70,,,,1135.0,,,,,1135.0,hco,lundbeck,,2016
@@ -16486,7 +16486,7 @@ Françoise Tauxe,Vevey,CH,Rue du Lac 43,,,,,,,1000.0,,1000.0,hcp,menarini,,2016
 Daniel Tenthorey,Fully,CH,Rue Maison de Commune 17,,,,,283.0,514.0,,,797.0,hcp,menarini,,2016
 Marianne Terrettaz,Martigny,CH,Avenue de la Gare 17,,,,,283.0,466.0,,,749.0,hcp,menarini,,2016
 Bernard Terrier,Baden,CH,Bäderstrasse 16,,,,,,,1000.0,,1000.0,hcp,menarini,,2016
-Alexander Teufel,Kirchberg,CH,Tulpenstrasse 1,,,,,291.0,302.0,,,593.0,hcp,menarini,,2016
+Alexander Teufel,Kirchberg SG,CH,Tulpenstrasse 1,,,,,291.0,302.0,,,593.0,hcp,menarini,,2016
 Sao-Nam Tran,Genève,CH,Route de Frontenex 90,,,,,406.0,1004.0,,,1410.0,hcp,menarini,,2016
 Salvatore Tricarico,Flawil 1,CH,Bahnhofstrasse 17,,,,,,,400.0,,400.0,hcp,menarini,,2016
 Viviane Trollhagen,Dübendorf,CH,Ueberlandstrasse 212,,,,,214.0,118.0,,,332.0,hcp,menarini,,2016
@@ -17328,7 +17328,7 @@ Martin Alexander Lucas,Zürich,CH,Gruppenpraxis Wehntalerstrasse 536,,,,,,,200.0
 Roger Lussmann,Zürich,CH,Klinik Hirslanden -Inst. Anästhesiologie & Intensivmedizin Witellikerstrasse 40,,,,,231.0,1228.05,,,1459.05,hcp,msd,,2016
 Benedict Martina,Basel,CH,FMH Kardiologie St. Alban-Anlage 50,,,,,,,1000.0,,1000.0,hcp,msd,,2016
 Konrad Maurer,Zürich,CH,Universitätspital Zürich -Institut für Anästhesiologie Rämistrasse 100,,,,,719.98,1232.69,,,1952.67,hcp,msd,,2016
-Christoph Meili,Netzikon ZH,CH,FMH Kardiologie Bahnhofstrasse 210,,,,,,,1000.0,,1000.0,hcp,msd,,2016
+Christoph Meili,Wetzikon ZH,CH,FMH Kardiologie Bahnhofstrasse 210,,,,,,,1000.0,,1000.0,hcp,msd,,2016
 Pierre Michetti,Lausanne,CH,Gastroentérologie La Source-Beaulieu Avenue lomini 8,,,,,,,12700.0,,12700.0,hcp,msd,,2016
 Simon Michel Monnard,La Chaux-de-Fonds,CH,FMH cardiologie Rue du Tertre 1,,,,,,,500.0,,500.0,hcp,msd,,2016
 Patrick Monnier,Lausanne,CH,Clinique Cecil - Hirslanden Lausanne SA Avenue Ruchonnet 53,,,,,,,500.0,,500.0,hcp,msd,,2016
@@ -18414,7 +18414,7 @@ ERS European Respiratory Society ERS Headquarters,Lausanne,CH,Avenue Sainte-Luce
 ETH Zürich Hauptgebäude,Zürich ETH Zentrum,CH,Rämistrasse 101,,,,15000.0,,,111080.0,,126080.0,hco,novartis,,2016
 European Academy of Allergy and Clinical Immunology (EAACI),Zürich,CH,"Hagenholzstrasse 111, 3rd floor",,,,297511.0,9354.36,,,,306865.36,hco,novartis,,2016
 European Academy of Dermatology and Venerology (EADV) Headquarter,Lugano,CH,Via S. Balestra 22B,,,,405539.02,7849.58,,,,413388.6,hco,novartis,,2016
-European Association for the Study of the Liver (EASL),Genfeve,CH,Rue Daubin 7,,,,61475.9,,,,,61475.9,hco,novartis,,2016
+European Association for the Study of the Liver (EASL),Genève,CH,Rue Daubin 7,,,,61475.9,,,,,61475.9,hco,novartis,,2016
 European Committee for Treatment and Research in Multiple Sclerosis ECTRIMS Secretariat,Basel,CH,Peter Merian-Strasse 80,,,,323890.22,,,,,323890.22,hco,novartis,,2016
 "European Dermatology Forum c/o University Hospital Zürich Dept, of Dermatology",Zürich,CH,Gloriastrasse 31,,,10934.98,,,,,,10934.98,hco,novartis,,2016
 European League Against Rheumatism (EULAR) Executive Secretariat,Kilchberg ZH,CH,Seestrasse 240,,,,517433.09,,,,,517433.09,hco,novartis,,2016
@@ -26575,7 +26575,7 @@ Ulrich Egermann,Winterthur,CH,"Stoffwechselmedizin Winterthur GmbH, Lagerhausstr
 Urs A. Gübelin,Luzern,CH,"Moosstrasse 2, 6003 Luzern",,,0.0,0.0,0.0,0.0,200.0,0.0,200.0,hcp,astrazeneca,,2015
 Urs Beat Gröflin,Binningen,CH,"Hauptstrasse 3, 4102 Binningen",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,astrazeneca,,2015
 Ursula Hasler-Strub,Gallen,CH,"Brustzentrum / Haus 06, Rorschacher Strasse 95, 9007 St. Gallen",,,0.0,0.0,655.0,0.0,800.0,0.0,1455.0,hcp,astrazeneca,,2015
-Werner Bauer,Zh,CH,"Kohlrainstrasse 1, 8700 Küsnacht ZH",,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca,,2015
+Werner Bauer,Küsnacht ZH,CH,"Kohlrainstrasse 1, 8700 Küsnacht ZH",,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca,,2015
 Werner Knisel,Zürich,CH,"Diabetesberatung, Birmensdorferstrasse 497, 8063 Zürich",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,astrazeneca,,2015
 Wilhard Kottmann,Wolfgang,CH,"Herz Reha Davos, Herman Burchard Strasse 1, 7265 Davos Wolfgang",,,0.0,0.0,0.0,0.0,4500.0,0.0,4500.0,hcp,astrazeneca,,2015
 Wolf-Dieter Janthur,Aarau,CH,"Onkologie/Hämatologie / Haus 40, Tellstrasse, 5001 Aarau",,,0.0,0.0,0.0,0.0,250.0,0.0,250.0,hcp,astrazeneca,,2015
@@ -27726,7 +27726,7 @@ Isabelle Streuli,Genève,CH,"HUG, Boulevard de la Cluse 30",,,0.0,0.0,0.0,0.0,0.
 Marc Germond,Lausanne,CH,"CPMA, Rue de la Vigie 5",,,0.0,0.0,0.0,0.0,788.0,646.0,1434.0,hcp,ferring,,2015
 Marianne Vulliemoz Guirgis,Morges,CH,"Hôpital Morges, Chemin du Crêt 2",,,0.0,0.0,0.0,0.0,0.0,400.0,400.0,hcp,ferring,,2015
 Beatrice Mosimann,Bern,CH,Universitätsklinik für Frauenheilkunde,,,0.0,0.0,656.0,160.0,0.0,0.0,816.0,hcp,ferring,,2015
-Björn Becker,E Schiikon,CH,Büfelderstrasse 2,,,0.0,1139.0,0.0,0.0,0.0,0.0,1139.0,hcp,ferring,,2015
+Björn Becker,Eschlikon,CH,Büfelderstrasse 2,,,0.0,1139.0,0.0,0.0,0.0,0.0,1139.0,hcp,ferring,,2015
 Daniel Reinhardt,Zürich,CH,Generai-Wille-Strasse 11,,,0.0,0.0,656.0,160.0,0.0,0.0,816.0,hcp,ferring,,2015
 Dominique Criblez,Luzern,CH,Luzerner Kantonsspital Luzern,,,0.0,0.0,618.0,280.0,0.0,0.0,898.0,hcp,ferring,,2015
 Eviano Arrigoni,Genève,CH,Place Cornavin 18,,,0.0,0.0,363.0,543.0,0.0,0.0,906.0,hcp,ferring,,2015
@@ -28251,7 +28251,7 @@ Wilfried Schwab,Rheinfelden,CH,Roberstenstrasse 31,,,0.0,0.0,0.0,183.0,0.0,0.0,1
 Wojciech Syrynski,Langenthal,CH,Sankt Urbanstrasse 67,,,0.0,0.0,479.6,523.25,0.0,0.0,1002.85,hcp,gruenenthal,,2015
 Yves Collioud-Robert,Boudry,CH,Avenue du Collège 6,,,0.0,0.0,0.0,0.0,250.0,0.0,250.0,hcp,gruenenthal,,2015
 Zdenek Skruzny,St. Gallen,CH,Schreinerstrasse 7,,,0.0,0.0,0.0,191.0,0.0,0.0,191.0,hcp,gruenenthal,,2015
-Alexander Andreas Navarini,Bl,CH,"Therwilerstrasse 74 a, Reinach BL",,,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0,hcp,janssen,,2015
+Alexander Andreas Navarini,Reinach BL,CH,"Therwilerstrasse 74 a, Reinach BL",,,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0,hcp,janssen,,2015
 Amrein Ivo,Zollikofen,CH,"Lüfternweg 1, Zollikofen",,,0.0,0.0,0.0,0.0,1500.0,136.0,1636.0,hcp,janssen,,2015
 Anastasios Stathis,Bellinzona,CH,"Via Ospedale, Bellinzona",,,0.0,0.0,0.0,0.0,338.0,0.0,338.0,hcp,janssen,,2015
 Anita Riecher-Rössler,Basel,CH,"Kornhausgasse 7, Basel",,,0.0,0.0,0.0,0.0,1278.0,144.0,1422.0,hcp,janssen,,2015
@@ -30345,7 +30345,7 @@ Radmila Moudry,Chur,CH,"Loëstrasse 170, 7000, Chur",,,0.0,0.0,489.0,671.0,0.0,0
 Rainer Klöti,Brugg Ag,CH,"Fröhlichstrasse 5, 5200, Brugg AG",,,0.0,0.0,280.0,334.0,0.0,0.0,614.0,hcp,roche,,2015
 Rebekka Kleiner,St. Gallen,CH,"Rorschacher Strasse 95, 9007, St. Gallen",,,0.0,0.0,0.0,645.0,1500.0,0.0,2145.0,hcp,roche,,2015
 Reinhard Zenhäusern,Brig,CH,"Überlandstrasse 14, 3900, Brig",,,0.0,0.0,1275.0,2216.0,0.0,0.0,3491.0,hcp,roche,,2015
-Reto Arthur Frey,,CH,,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,roche,,2015
+Reto Arthur Frey,Zürich,CH,Rheumapraxis Albisriederplatz Albisriederplatz 3,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,roche,,2015
 Reto Kühne,Zürich,CH,"Tièchestrasse 99, 8037, Zürich",,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,roche,,2015
 Reto Widrig,St. Gallen,CH,"Spisergasse 28, 9000, St. Gallen",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,roche,,2015
 Roger Stucki,Vevey,CH,"Rue du Lac 39, 1800, Vevey",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,roche,,2015
@@ -30409,7 +30409,7 @@ Wolfgang Korte,St. Gallen,CH,"Frohbergstrasse 3, 9000, St. Gallen",,,0.0,0.0,530
 Yodit Seium Neberay,Genève,CH,"Rue de Chantepoulet 21, 1201, Genève",,,0.0,0.0,462.0,941.0,0.0,0.0,1403.0,hcp,roche,,2015
 Yves Trisconi,Lausanne,CH,"Rue Caroline 3, 1003, Lausanne",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,roche,,2015
 Yvonne Claudia Hummel,Unknown / Relocated,CH,Unknown / Relocated,,,0.0,0.0,300.0,150.0,0.0,0.0,450.0,hcp,roche,,2015
-Aapro Matti,Genolier,CH,Route du Muids 3,,,0.0,0.0,0.0,0.0,10930.8,12639.97,23570.77,hcp,sandoz,,2015
+Matti Aapro,Genolier,CH,Route du Muids 3,,,0.0,0.0,0.0,0.0,10930.8,12639.97,23570.77,hcp,sandoz,,2015
 Alexander Arnold,Solothurn,CH,Leopoldstrasse 1,,,0.0,0.0,353.0,360.0,0.0,0.0,713.0,hcp,sandoz,,2015
 Alexandra Antonazzo-Grecu,Lausanne,CH,Av. du Tirage 5,,,0.0,0.0,315.0,893.0,0.0,0.0,1208.0,hcp,sandoz,,2015
 Alfredo Velardi,Payerne,CH,Av. du 1er Mars 8,,,0.0,0.0,315.0,893.0,0.0,0.0,1208.0,hcp,sandoz,,2015
@@ -30912,7 +30912,7 @@ Quinto Censi,Mendrisio,CH,Studio Dr. Censi Quinto Via Luigi Lavizzari 15,,,0.0,0
 Sergio Cereghetti,Mendrisio,CH,Studio Dr. Cereghetti Sergio Via Giacomo Rizzi 1,,,0.0,0.0,221.1,852.84,0.0,0.0,1073.94,hcp,takeda,,2015
 Pascal Chatelain,Genève,CH,Cabinet mödical de groupe Rue Emile-Yung 4,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,,2015
 Jean-Pierre Chevalley,Genolier,CH,Dr.Chevalley Jean-Pierre Route du Mulds 3,,,0.0,0.0,176.88,829.53,0.0,0.0,1006.41,hcp,takeda,,2015
-Jean-Michel Chevey,Payeme,CH,Cabinet mödical de groupe Avenue de la Promenade 4,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,,2015
+Jean-Michel Chevey,Payerne,CH,Cabinet mödical de groupe Avenue de la Promenade 4,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,takeda,,2015
 Eggenberger Christoph,Lach,CH,Praxis Dr. Eggenberger/Dr. Am Kasernenstrasse 1,,,0.0,0.0,346.39,1157.98,0.0,0.0,1504.37,hcp,takeda,,2015
 Andrei Cicotti,Vésenaz,CH,Cabinet medical route d'Hermance 2,,,0.0,0.0,325.89,1214.58,0.0,0.0,1540.46,hcp,takeda,,2015
 Elizabeth Cicotti,Genève,CH,Rue Henri-blanvalet 1,,,0.0,0.0,325.89,391.28,0.0,0.0,717.17,hcp,takeda,,2015
