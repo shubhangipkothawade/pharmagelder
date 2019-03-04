@@ -60,12 +60,14 @@ Laufen;;Laufon;
 Schaffhausen;;Schaffhouse;Sciaffusa
 Appenzell;;;Appenzello
 St. Gallen;;Saint-Gall;San Gallo
+St. Gallen;St.Gallen;;;
 Chur;;Coire;Coira
 Zofingen;;Zofingue;
 Bellinzona;;Bellinzone;
 Lausanne;;;Losanna
 Lausanne;Lausanne 20;;
 Brig-Glis;;Brigue-Glis;Briga-Glis
+Brugg AG;Brugg;;
 Leuk;;Loèche-Ville;
 Leukerbad;;Loèche-les-Bains;
 Raron;;Rarogne;
@@ -92,6 +94,10 @@ Genève;Genève 19;;
 Genève;Genève 27;;
 Genève;Genève 4;;
 Genève;Genäve;;
+Genève;Genfcve;;
+Genève;Genfeve;;
+Genéve;Gmeve;;
+Richterswil;Richterwil;;
 Genève;Meyrin/Genève;;
 Delémont;Delsberg;;
 Porrentruy;Pruntrut;;
@@ -120,6 +126,7 @@ St. Gallen;St  Gallen;;
 St. Gallen;St Gallen;;
 St. Gallen;St .Gallen;;
 St. Gallen;St-Gallen;;
+St. Gallen;Gallen;;
 Villars-sur-Glâne;Villars‐sur‐Glane;;
 Vugelles-la-Mothe;Vugelles-La Mothe;;
 Wangen A.D. Aare;Wangen an der Aare;;
@@ -130,3 +137,6 @@ Yverdon-les-Bains;Yverdon les Bains;;
 Yverdon-les-Bains;yverdon-les-bains;;
 Yverdon-les-Bains;yverdon‐les‐bains;;
 Yverdon-les-Bains;yverdon-les-bain s;;
+Carouge GE;Carouge;;
+Chavannes-Renens;Chavannes-près-Renens;;
+Kloten;Ktoten;;
