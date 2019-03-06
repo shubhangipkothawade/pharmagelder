@@ -4586,7 +4586,7 @@ Konrad Maurer,Zürich,CH,"Institut für Anästhesiologie, Rämistrasse 100, 8091
 Lorenz Räber,Bern,CH,"Kardiologie, Freiburgstrasse 18, 3010 Bern",,,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0,hcp,astrazeneca,2015
 Matthias Hermann,Wald Zh,CH,"Kardiovaskuläre Rehabilitation, Faltigbergstrasse 7, 8636 Wald ZH",,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,astrazeneca,2015
 Michael Müntener,Zürich,CH,"Klinik für Urologie, Birmensdorferstrasse 497, 8063 Zürich",,,0.0,0.0,394.95,7701.9,800.0,0.0,8896.85,hcp,astrazeneca,2015
-Nilufar Mohebbi,Zürich,CH,"Klinik für Nephrologie, Rämistrasse 100, 8091 Zürich",,,0.0,0.0,0.0,0.0,2350.0,0.0,2350.0,hcp,astrazeneca,2015
+Nilufar Mohebbi,Zürich,CH,"UniversitätsSpital Zürich Klinik für Nephrologie, Rämistrasse 100, 8091 Zürich",,,0.0,0.0,0.0,0.0,2350.0,0.0,2350.0,hcp,astrazeneca,2015
 Räto Strebel,Chur,CH,"Urologie, Loëstrasse 170, 7000 Chur",,,0.0,0.0,0.0,7128.9,870.0,0.0,7998.9,hcp,astrazeneca,2015
 Stefan Toggweiler,Luzern,CH,"Kardiologie / Herzzentrum Luzern, Spitalstrasse, 6004 Luzern",,,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,hcp,astrazeneca,2015
 Peter Wiesli,Frauenfeld,CH,"Medizinische Klinik, Pfaffenholzstrasse 4, 8500 Frauenfeld",,,0.0,0.0,0.0,0.0,13023.0,58.0,13081.0,hcp,astrazeneca,2015
@@ -5019,7 +5019,7 @@ Heinrik Petroswky,Zürich,CH,Rämistrasse 100,,,0.0,0.0,0.0,1834.0,0.0,0.0,1834.
 Philipp Dutkowski,Zürich,CH,Rämistrasse 100,,,0.0,0.0,0.0,2073.0,0.0,0.0,2073.0,hcp,biotest,2015
 Paul Mohacsi,Bern,CH,Freiburgstrasse 8,,,0.0,0.0,0.0,560.0,1300.0,0.0,1860.0,hcp,biotest,2015
 Alec Martin Achard,Genève,CH,Chemin de Beau-Solell 12 1206 Genève,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,boehringer,2015
-Baya-Laure Pégard,Neuchâtel,CH,Avenue du ler-Mars 24 2000 Neuchâtel,,,0.0,0.0,0.0,0.0,300.0,0.0,300.0,hcp,boehringer,2015
+Baya-Laure Pégard,Neuchâtel,CH,Avenue du 1 er Mars 24 2000 Neuchâtel,,,0.0,0.0,0.0,0.0,300.0,0.0,300.0,hcp,boehringer,2015
 Bemard Egger,Rolle,CH,Route de l'Hôpital 26 1180 Rolle,,,0.0,0.0,496.45,1185.13,1350.0,0.0,3031.58,hcp,boehringer,2015
 Cédric Lehner,Fribourg,CH,Rue de Locarno 1 1700 Fribourg,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,boehringer,2015
 Chama Dibner,Genève,CH,Rue Gabrlelle-Perret-Gentll 4 1205 Geneve,,,0.0,0.0,0.0,0.0,0.0,306.09,306.09,hcp,boehringer,2015
@@ -5816,7 +5816,7 @@ Nicolas Arquint,Sarnen,CH,Hirslanden Klinik St. Anna AG Klinik Meggen Ärztehaus
 Valentin Audetat,Chur,CH,Arztpraxis FMH Gastroenterologie Grabenstrasse 9,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,genzyme,2015
 Michel Badan,Cully,CH,Cabinet medical FMH allergologie et immunologie clinique Rue Davei 11,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,genzyme,2015
 Sylvia Baer-Cornu,Confignon,CH,Cabinet de groupe Confignon Chemin Sous-Ie-Cios 12,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,genzyme,2015
-"Burkhard Becher,",Zürich,CH,Division for Neuroimmunology Neurology Dept. Y44 / J7 Winterthurerstrasse 190,,,0.0,0.0,0.0,0.0,1600.0,0.0,1600.0,hcp,genzyme,2015
+"Burkhard Becher,",Zürich,CH,"University of Zurich, Division for Neuroimmunology Neurology Dept. Y44 / J7 Winterthurerstrasse 190",,,0.0,0.0,0.0,0.0,1600.0,0.0,1600.0,hcp,genzyme,2015
 Lorenzo Binaghi,Coldrerio,CH,Studio medico Coldrerio Via Mercole 2b,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,genzyme,2015
 Katharina Binz-Siegmann,Zürich,CH,Arztpraxis FMFI Endokrinologie-Diabetologie Stockerstrasse 42,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,genzyme,2015
 Jacques-Philippe Blanc,Ponte Capriasca,CH,Studio medico Ponte Capriasca Via alle Scuole,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,genzyme,2015
@@ -5920,7 +5920,7 @@ Robert Schneider,Thun,CH,Uromed AG Thun Bahnhofstrasse 1,,,0.0,0.0,0.0,245.2,0.0
 Eva Christine Schneider-Naef,Lengnau Ag,CH,Praxis am Tüfebächli Lengnau AG Brunnengasse 11,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,genzyme,2015
 Marcus Schories,Basel,CH,Hormonpraxis Basel Gelle rtstrasse 142,,,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0,hcp,genzyme,2015
 Alfons Michael Schwarz,Basel,CH,Ambulatorium Wiesendamm Basel Wiesendamm 22,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,genzyme,2015
-Martin Schweiger,Zürich,CH,Universitäts-Kinderspital Zürich Chirurgie HerzfThorax/Gefäss e Steinwiesstrasse 75,,,0.0,0.0,0.0,0.0,800.0,239.84,1039.84,hcp,genzyme,2015
+Martin Schweiger,Zürich,CH,Herzchirurgie Steinwiesstrasse 75,,,0.0,0.0,0.0,0.0,800.0,239.84,1039.84,hcp,genzyme,2015
 Roland Segginger,Hinterkappelen,CH,Arztpraxis FMH Innere Medizin Kappeienring 6,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,genzyme,2015
 Daniela Sofra,Lausanne,CH,Cabinet de groupe Lausanne Avenue de la Gare 11,,,0.0,0.0,0.0,0.0,2124.0,0.0,2124.0,hcp,genzyme,2015
 Bernhard Sorg,Wallisellen,CH,Zentralpraxis Wallisellen AG Wallisellen Zentralstrasse 6,,,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0,hcp,genzyme,2015
@@ -7675,7 +7675,7 @@ Michelle Frank,Zürich,CH,"Universitätsspital, Rämistr. 100, 8091 Zürich",,,0
 Peter Gerstl,Wetzikon,CH,"GZO Spital Wetzikon, Spitalstr. 66, 8620 Wetzikon",,,0.0,0.0,200.95,651.47,0.0,0.0,852.42,hcp,orion,2015
 Raphaël Giraud,Genève,CH,"HUG Hôpitaux Universitaires de Genève, Rue Gabrielle-Perret-Gentil 4, 1211 Genève",,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,orion,2015
 Christine Gstrein,Aarau,CH,"Kantonsspital, Tellstrasse 25, 5001 Aarau",,,0.0,0.0,154.67,332.49,0.0,0.0,487.16,hcp,orion,2015
-Tobias Hübner,Münsterlingen,CH,"Kantonsspital, Spitalcampus 1, 8596 Münsterlingen",,,0.0,0.0,223.48,340.53,0.0,0.0,564.01,hcp,orion,2015
+Tobias Hübner,Münsterlingen,CH,"Kantonsspital Münsterlingen, Spitalcampus 1, 8596 Münsterlingen",,,0.0,0.0,223.48,340.53,0.0,0.0,564.01,hcp,orion,2015
 René Krause,Thun,CH,"Spital STS AG, Krankenhausstr. 12, 3600 Thun",,,0.0,0.0,154.67,304.35,0.0,0.0,459.02,hcp,orion,2015
 Bernard Krüger,Zürich,CH,"Universitätsspital, Rämistr. 100, 8091 Zürich",,,0.0,0.0,154.67,327.13,0.0,0.0,481.8,hcp,orion,2015
 Michael Lehmann,Baden,CH,"Kantonsspital Baden, Im Ergel 1, 5404 Baden",,,0.0,0.0,200.95,574.61,0.0,0.0,775.55,hcp,orion,2015
@@ -7711,7 +7711,7 @@ Logos Simian Curtis,Genève,CH,Psychiatrie Adulte - HUG Rue de Lausanne 67,,,0.0
 Amparo Dubach,Biel/bienne,CH,Centre therapeutique Nidaugasse 15,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,otsuka,2015
 Anke Berg,Embrach,CH,IPW- Psychiatrie-Zentr um Hard Römerweg 51,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,otsuka,2015
 Daniel Bielinski,Bern,CH,SGPP/SSPP Altenbergstrasse 29,,,0.0,0.0,0.0,0.0,260.0,0.0,260.0,hcp,otsuka,2015
-Diane Poster,Zürich,CH,Institut für Allgemeine Innere Medizin und Nephrologie,,,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0,hcp,otsuka,2015
+Diane Poster,Zürich,CH,"Institut für Allgemeine Innere Medizin und Nephrologie, Witellikerstrasse 40",,,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0,hcp,otsuka,2015
 Eva Wirz,Zürich,CH,Psychiatrische Uniklinik Heliosstrasse 32,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,otsuka,2015
 Ingo Butzke,Münsingen,CH,Psychiatriezentrur Münsingen Hunzigenallee 1,,,0.0,0.0,0.0,632.87,700.0,0.0,1332.87,hcp,otsuka,2015
 Jochen-Gerhard Uebel,Aarau,CH,Externer Psychiatrischer Dienst Bleichemattstras se 16,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,otsuka,2015
@@ -8488,7 +8488,7 @@ Tahiri Havush Murati,Stein,CH,Bäumliackerstras se 1,,,0.0,0.0,497.0,543.0,0.0,0
 Theodor Sonderegger,Zürich,CH,Birmensdorferstrasse 501,,,0.0,0.0,490.0,744.6,0.0,0.0,1234.6,hcp,sandoz,2015
 Théodore Hovaguimian,Genève,CH,Rue Verdaine 12,,,0.0,0.0,315.0,893.0,0.0,0.0,1208.0,hcp,sandoz,2015
 Thierry Michel Reymond,Lutry,CH,Rue du Bourg 15,,,0.0,0.0,217.0,665.0,0.0,0.0,882.0,hcp,sandoz,2015
-Thomas Kistler,Winterthur,CH,Nephrologie/Dialyse Kantonsspital Winterthur,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,sandoz,2015
+Thomas Kistler,Winterthur,CH,"Nephrologie/Dialyse Kantonsspital Winterthur, Brauerstrasse 15",,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,sandoz,2015
 Thomas Müller,Zürich,CH,Klinik für Nephrologie Universitätsspital Zürich,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hcp,sandoz,2015
 Thomas Müller,Bern,CH,Murtenstrasse 21,,,0.0,0.0,497.0,543.0,0.0,0.0,1040.0,hcp,sandoz,2015
 Thomas Zogg,Zug,CH,Poststrasse 22,,,0.0,0.0,392.0,374.0,0.0,0.0,766.0,hcp,sandoz,2015
@@ -8511,7 +8511,7 @@ Nicolas Arquint,Sarnen,CH,Hirslanden Klinik St. Anna AG Klinik Meggen Ärztehaus
 Valentin Audetat,Chur,CH,Arztpraxis FMH Gastroenterologie Grabenstrasse 9,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,sanofi,2015
 Michel Badan,Cully,CH,Cabinet médical FMH allergologie et immunologie clinique Rue Davel 11,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,sanofi,2015
 Sylvia Baer-Cornu,Confignon,CH,Cabinet de groupe Confignon Chemin Sous-le- Clos 12,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,sanofi,2015
-"Burkhard Becher,",Zürich,CH,Division for Neuroimmunology Neurology Dept. Y44 / J7 Winterthurerstrasse 190,,,0.0,0.0,0.0,0.0,1600.0,0.0,1600.0,hcp,sanofi,2015
+"Burkhard Becher,",Zürich,CH,"University of Zurich, Division for Neuroimmunology Neurology Dept. Y44 / J7 Winterthurerstrasse 190",,,0.0,0.0,0.0,0.0,1600.0,0.0,1600.0,hcp,sanofi,2015
 Lorenzo Binaghi,Coldrerio,CH,Studio medico Coldrerio Via Mercole 2b,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,sanofi,2015
 Katharina Binz-Siegmann,Zürich,CH,Arztpraxis FMH Endokrinologie- Diabetologie Stockerstrasse 42,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,sanofi,2015
 Jacques-Philippe Blanc,Ponte Capriasca,CH,Studio medico Ponte Capriasca Via alle Scuole,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,sanofi,2015
@@ -8713,16 +8713,16 @@ Leonardantonio Ancona,Bellinzona,CH,FMH psichiatria e psicoterapiaViale Guisan 3
 Mario Cavallini,Lugano,CH,FMH medicina interna generalePiazza Molino Nuovo 8,,,0.0,0.0,151.0,378.0,0.0,0.0,529.0,hcp,servier,2015
 Marzio Roberti,Giornico,CH,FMH Medicina interna generaleVia Cantonale,,,0.0,0.0,151.0,378.0,0.0,0.0,529.0,hcp,servier,2015
 Masseod Bazeghy,Bellinzona,CH,FMH psichiatria e psicoterapiaVia Giovanni Nizzola 11,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,servier,2015
-Mauro Capoferri,Chiasso,CH,FMH cardiologiaVia Giuseppe Mo ta 12,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,servier,2015
-Mirko Vuksic,Coldrerio,CH,FMH psichiatria e psicoterapiaVia Maslano 5,,,0.0,0.0,0.0,0.0,300.0,0.0,300.0,hcp,servier,2015
+Mauro Capoferri,Chiasso,CH,FMH cardiologia Via Giuseppe Motta 12,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,servier,2015
+Mirko Vuksic,Coldrerio,CH,FMH psichiatria e psicoterapia Via Maslano 5,,,0.0,0.0,0.0,0.0,300.0,0.0,300.0,hcp,servier,2015
 Rames Mayer,Bellinzona,CH,FMH cardiologiaVia Sergio Mordasini 12,,,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0,hcp,servier,2015
 Claudine Meindl-Fridez,Zürich,CH,Oberärztin Klinik und Poliklinik für Innere Medizin Universitätsspital Zürich Rämistrasse 100,,,0.0,0.0,380.0,808.0,0.0,0.0,1188.0,hcp,servier,2015
-Cornelia Probst,Luzern,CH,FMH Psychiatrie und PsychotherapieHofstrass  4,,,0.0,0.0,346.0,579.0,0.0,0.0,925.0,hcp,servier,2015
+Cornelia Probst,Luzern,CH,FMH Psychiatrie und Psychotherapie Hofstrass  4,,,0.0,0.0,346.0,579.0,0.0,0.0,925.0,hcp,servier,2015
 Elisabeth Kaufmann,Windisch,CH,Oberärztin Psychiatrische Klinik Königsfelden Psychiatrische Dienste Aargau AG Zürcherstrasse 241,,,0.0,0.0,346.0,596.0,0.0,0.0,942.0,hcp,servier,2015
-Esther Bänziger,Frauenfeld,CH,FMH Psychiatrie und PsychotherapieZürcherstrasse 191,,,0.0,0.0,346.0,579.0,0.0,0.0,925.0,hcp,servier,2015
+Esther Bänziger,Frauenfeld,CH,FMH Psychiatrie und Psychotherapie Zürcherstrasse 191,,,0.0,0.0,346.0,579.0,0.0,0.0,925.0,hcp,servier,2015
 Karin Peuschel,Zug,CH,Oberärztin Ambulatorium Psychiatrische Klinik Meissenberg AG Meisenbergstrasse 17,,,0.0,0.0,346.0,592.0,0.0,0.0,938.0,hcp,servier,2015
 Kathrin Roost,Frauenfeld,CH,Oberärztin Medizinische Klinik Kantonsspital Frauenfeld Pfaffenholzstrasse 4,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,servier,2015
-Kerstin Madaler,Zürich,CH,FMH Psychiatrie und PsychotherapieRothstrasse 54,,,0.0,0.0,346.0,596.0,0.0,0.0,942.0,hcp,servier,2015
+Kerstin Madaler,Zürich,CH,FMH Psychiatrie und Psychotherapie Rothstrasse 54,,,0.0,0.0,346.0,596.0,0.0,0.0,942.0,hcp,servier,2015
 Margarete Maier-Wölfle,St. Gallen,CH,FMH Endokrinologie-Diabetologie  Medbase St. Gallen - Zentrum Wassergasse 7,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,servier,2015
 Visnica Vincic,Wattwil,CH,Oberärztin Ambulatorium und Tagesklinik Psychiatrisches Zentrum Wattwil Hembergerstrasse 22,,,0.0,0.0,346.0,614.0,0.0,0.0,960.0,hcp,servier,2015
 Isabella Sudano,Zürich,CH,Oberärztin Klinik für Kardiologie Universitätsspital Zürich Rämistrasse 100,,,0.0,0.0,0.0,0.0,7050.0,0.0,7050.0,hcp,servier,2015
@@ -9110,7 +9110,7 @@ Aynur Aydemir,St. Gallen,CH,"Kantonsspital Münsterlingen, Spitalcampus 1,8596 M
 Irene Barone,Basel,CH,"FMH Neurologie,- Hirschgässlein 21,",,,0.0,0.0,0.0,0.0,1000.0,54.0,1054.0,hcp,teva,2015
 Aribert Bauerfeind,Zürich,CH,"Epilepsie Zentrum, Bleulerstrasse 60,8008",,,0.0,0.0,0.0,0.0,600.0,90.0,690.0,hcp,teva,2015
 Andreas Baumann,Langenthal,CH,"Spital Region Oberaargau (SRO AG), Urbanstrasse 67,4900 Langenthal",,,0.0,0.0,0.0,0.0,1500.0,90.0,1590.0,hcp,teva,2015
-Burkhard Becher,Zürich,CH,"Universitätsspital Zürich, Neurology Dept. Winterthurerstrasse 190,8057 Zürich",,,0.0,0.0,0.0,0.0,600.0,135.0,735.0,hcp,teva,2015
+Burkhard Becher,Zürich,CH,"University of Zurich Neurology Dept. Winterthurerstrasse 190,8057 Zürich",,,0.0,0.0,0.0,0.0,600.0,135.0,735.0,hcp,teva,2015
 Karsten Beer,Wil,CH,Neurologie W.l- Obere Bahnhofstrasse 9500 Wil,,,0.0,0.0,0.0,0.0,600.0,135.0,735.0,hcp,teva,2015
 Verena Blatter Arifi,Bremgarten,CH,"FMH Neurologie.- Aeschenbrunnmattstra sse 43, 3047",,,0.0,0.0,0.0,0.0,500.0,51.0,551.0,hcp,teva,2015
 Claudio Bonetti,Mendrisio,CH,"FMH neurologia, Via Turconi 10, 6850 Mendrisio",,,0.0,0.0,0.0,0.0,500.0,108.0,608.0,hcp,teva,2015
@@ -9161,7 +9161,7 @@ Christian Neumann,Bad Zurzach,CH,"Klinik für Schlafmedizin AG, Badstrasse 33, 5
 Letizia Panicari,Lugano,CH,"Ospedale Regionale di Lugano, Via Tesserete 46, 6900 Lugano",,,0.0,0.0,0.0,0.0,500.0,108.0,608.0,hcp,teva,2015
 Stefan Balabanov,Zürich,CH,"Universitätsspital Zürich, Hämatologie, Rämistrasse 100, 8091 Zürich",,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,teva,2015
 Hans-Albert Pihan,Bern,CH,"Neurozentrum Bern, Schänzlistrasse 33,",,,0.0,0.0,0.0,0.0,500.0,51.0,551.0,hcp,teva,2015
-Alexander Pincherle,Biel,CH,"Spitalzentrum Biel AG, Postfach 1664,2501",,,0.0,0.0,0.0,0.0,500.0,49.0,549.0,hcp,teva,2015
+Alexander Pincherle,Biel,CH,"Spitalzentrum Biel AG, Rue de l'Union 14",,,0.0,0.0,0.0,0.0,500.0,49.0,549.0,hcp,teva,2015
 Caterina Podella,Lugano,CH,"Diagnosi e Terapia, Via Luvini 7,6900 Lugano",,,0.0,0.0,0.0,0.0,500.0,108.0,608.0,hcp,teva,2015
 Sven Richter,St. Gallen,CH,"Medizinisches Zentrum Heilbad, Piazza Paracelsus 2,",,,0.0,0.0,0.0,0.0,500.0,69.0,569.0,hcp,teva,2015
 Biljana Rodic,Winterthur,CH,"Kantonsspital, Brauuerstrasse 15, 8400 Winterthur",,,0.0,0.0,0.0,0.0,500.0,68.0,568.0,hcp,teva,2015
@@ -9181,7 +9181,7 @@ Margrit Starkl,Zürich,CH,"Stadtspital Triemli, Birmensdorferstr. 497, 8063 Zür
 Margrit Starkl,Zürich,CH,"Stadtspital Triemli, Birmensdorferstr. 497, 8063 Zürich",,,0.0,0.0,0.0,0.0,500.0,58.0,558.0,hcp,teva,2015
 Saskia Steinheimer,Bern,CH,"Inselspital, Freiburgstrasse 4,3010",,,0.0,0.0,0.0,0.0,500.0,49.0,549.0,hcp,teva,2015
 Matthias Strub,Basel,CH,"Bethesda-Spital, Geliertstrasse 142, 4020 Basel",,,0.0,0.0,0.0,0.0,500.0,54.0,554.0,hcp,teva,2015
-Mehdi Tafti,Lausanne,CH,"Universum de Lausanne, Centre Integratif de Genomique (CIG), 1015 Lausanne",,,0.0,0.0,0.0,0.0,600.0,240.0,840.0,hcp,teva,2015
+Mehdi Tafti,Lausanne,CH,"Université de Lausanne, Centre Integratif de Genomique (CIG), 1015 Lausanne",,,0.0,0.0,0.0,0.0,600.0,240.0,840.0,hcp,teva,2015
 Reto Tscholl,Winterthur,CH,"FMH Neurologie, Oberer Graben 4,8400",,,0.0,0.0,0.0,0.0,500.0,58.0,558.0,hcp,teva,2015
 Claude mäd. Vaney,Crans-montana,CH,"Berner Klinik Montana, Imp. Palace Bellevue 1, 3963 Crans Montana",,,0.0,0.0,0.0,0.0,600.0,173.0,773.0,hcp,teva,2015
 Jürg Weik,Amriswil,CH,"Neurologie Amriswil, Bahnhofstrasse 42, 8580 Amriswil",,,0.0,0.0,0.0,0.0,500.0,69.0,569.0,hcp,teva,2015
