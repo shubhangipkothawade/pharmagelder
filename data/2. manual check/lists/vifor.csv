@@ -5,7 +5,7 @@ Bernhard Abbühl,Bern,CH,"Praxis Dr. Abbühl Bernhard, Münzgraben 4",,,,,,,400.
 Claus Aichmüller,Meiringen,CH,"Privatklinik Meiringen, Willigen",,,,,508.53,1077.08,,,1585.61,hcp,vifor
 Christian Alfaré,Uster,CH,"Spital Uster, Brunnenstrasse 42",,,,,330.26,480.28,,,810.54,hcp,vifor
 Jasna Aljinovic,Bern,CH,"Gemeinschaftspraxis Aljinovic, Laupenstrasse 4",,,,,,248.3,,,248.3,hcp,vifor
-Peter Allemann,Kirchlindach,CH,"Kompetenzzentrum, Südhang 1",,,,,508.53,933.01,,,1441.54,hcp,vifor
+Peter Allemann,Kirchlindach,CH,"Klinik Südhang Kompetenzzentrum, Südhang 1",,,,,508.53,933.01,,,1441.54,hcp,vifor
 Bernd Altenhofen,Embrach,CH,"IPW- Psychiatrie-Zentrum Hard, Römerweg 51",,,,,,269.3,,,269.3,hcp,vifor
 Gian-Marie Annoni,Fribourg,CH,"HFR Fribourg-Hôpital Cantonal, Chemin des Pensionnats 2",,,,,,,600.0,,600.0,hcp,vifor
 Antoine Ayer,Marly,CH,"Cabinet médical, Impasse du Nouveau Marché 3",,,,,,,600.0,,600.0,hcp,vifor
@@ -33,7 +33,7 @@ Laurent Bochatay,Nyon,CH,"Hôpital de Nyon - GHOL, Chemin Monastier 10",,,,,554.
 Zsolt Bohnhoff,Zürich,CH,"Praxis Dr. Bohnhoff Zsolt, Claridenstrasse 20",,,,,,269.3,,,269.3,hcp,vifor
 Tujana Boldanova,Basel,CH,"Universitätsspital Basel, Petersgraben 4",,,,,250.92,74.73,,,325.65,hcp,vifor
 Gernot Bonkat,Basel,CH,"alta uro AG, Centralbahnplatz 6",,,,,,,800.0,,800.0,hcp,vifor
-Stefan Borgwardt,Basel,CH,"Universitäre Psych. Kliniken UPK, Wilhelm Klein-Strasse 27",,,,,,,800.0,,800.0,hcp,vifor
+Stefan Borgwardt,Basel,CH,"Universitäre Psychiatrische Kliniken UPK, Wilhelm Klein-Strasse 27",,,,,,,800.0,,800.0,hcp,vifor
 Marion Bötschi,Herisau,CH,"Spital Herisau, Spitalstrasse 6",,,,,,,800.0,,800.0,hcp,vifor
 Frank Boxberger,Uznach,CH,"Spital Linth, Gasterstrasse 25",,,,,304.68,516.78,,,821.46,hcp,vifor
 Rudolf Brenneisen,Bern,CH,Gr. Muristalden 32,,,,,,,500.0,,500.0,hcp,vifor
@@ -176,7 +176,7 @@ Kathrin Kasé,Chur,CH,"Praxis Dr. Kasé Kathrin, Bahnhofstrasse 7",,,,,,269.3,,,
 Elisabeta Kaufmann,Windisch,CH,"Psychiatrische Dienste Aargau AG, Zürcherstrasse 241",,,,,423.78,1123.31,,,1547.09,hcp,vifor
 Vitalij Kazin,Schaffhausen,CH,"Praxis Kazin Vitalij, Bachstrasse 40",,,,,,269.3,,,269.3,hcp,vifor
 Vera Kessler Brondolo,Viganello,CH,"Ospedale Regionale di Lugano, Viale Pietro Capelli 1",,,,,554.76,1616.35,,,2171.11,hcp,vifor
-Petio Kintchev,Sargans,CH,"Praxis Bahnhofpark Dr. Kintchev, Salamanderweg 1",,,,,,269.3,,,269.3,hcp,vifor
+Petio Kintchev,Sargans,CH,"FMH Psychiatrie und Psychotherapie, Salamanderweg 1",,,,,,269.3,,,269.3,hcp,vifor
 Nicolas Kirchner,Collombey,CH,"Cabinet Médical du Verger, Chemin des Vergers 3",,,,2000.0,,,,,2000.0,hcp,vifor
 Thomas Kistler,Winterthur,CH,"Kantonsspital Winterthur, Brauerstrasse 15",,,,,346.73,729.46,,,1076.19,hcp,vifor
 Jacques Klein,Genève,CH,"Hôpitaux Universitaires Genève, Rue Gabrielle Perret-Gentil 4",,,,,900.31,952.87,,,1853.18,hcp,vifor
@@ -224,7 +224,7 @@ Max Misteli,Oensingen,CH,"Praxis Dr. Misteli Max, Bienkenstrasse 26",,,,,,,3000.
 Tatiana Miusskaya Fehr,Chur,CH,"Klinik Waldhaus, Loestrasse 220",,,,,,269.3,,,269.3,hcp,vifor
 Nilufar Mohebbi,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,,,800.0,,800.0,hcp,vifor
 Andreas Monsch,Basel,CH,"Memory Clinic, Burgfelderstrasse 101",,,,,,,2000.0,446.0,2446.0,hcp,vifor
-Anne Mornand,Genève,CH,"Hôpitaux Universitaires Genève, Rue Willy-Donzé 6",,,,,449.13,,,,449.13,hcp,vifor
+Anne Mornand,Genève,CH,"HUG, Rue Willy-Donzé 6",,,,,449.13,,,,449.13,hcp,vifor
 Beatrice Mosimann,Bern,CH,"Inselspital Bern, Effingerstrasse 102",,,,,195.98,272.8,,,468.78,hcp,vifor
 Christian Mottet,Sion,CH,"Hôpital du Valais, Avenue Grand-Champsec 80",,,,,322.61,1186.48,,,1509.09,hcp,vifor
 Abba Moussa,Corsier-sur-Vevey,CH,"Fondation de Nant, Route de Nant 15",,,,,591.95,756.95,,,1348.9,hcp,vifor
@@ -308,7 +308,7 @@ Jean-Paul Schmid,Barmelweid,CH,"Klinik Barmelweid, Klinik Barmelweid",,,,,,,800.
 Peter A. Schmid,Feldmeilen,CH,"Gastropraxis am See, General-Wille-Strasse 59",,,,,554.76,1438.56,,,1993.32,hcp,vifor
 Karol Schuster,Wetzikon ZH,CH,"GZO Spital Wetzikon, Spitalstrasse 66",,,,,,489.08,,,489.08,hcp,vifor
 Albin Schwarz,Zürich,CH,"Stadtspital Waid Zürich, Tièchestrasse 99",,,,,,,1250.0,,1250.0,hcp,vifor
-Nina Schweinfurth,Basel,CH,"Universitäre Psych. Kliniken UPK, Wilhelm Klein-Strasse 27",,,,,423.78,819.44,,,1243.22,hcp,vifor
+Nina Schweinfurth,Basel,CH,"Universitäre Psychiatrische Kliniken UPK, Wilhelm Klein-Strasse 27",,,,,423.78,819.44,,,1243.22,hcp,vifor
 Giorgia Sciotti,Baden,CH,"Kantonsspital Baden AG, Im Ergel 1",,,,,299.52,642.23,,,941.75,hcp,vifor
 Frank Werner Seibold,Bern,CH,"Gastroenterologische Praxis, Bremgartenstrasse 119",,,,,229.41,802.67,,,1032.08,hcp,vifor
 Marc Sidler,Basel,CH,"Universitäts-Kinderspital Basel, Spitalstrasse 33",,,,,,435.24,,,435.24,hcp,vifor
