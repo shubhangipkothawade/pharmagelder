@@ -12,21 +12,20 @@ import sys
 import os.path
 import datetime
 import multiprocessing as mp
-import concurrent.futures
 import math
 
 
 #%%
 run_for = 'hco'
-version = 0.4
-num_process = mp.cpu_count()
+version = 0.5
+num_process = mp.cpu_count() * 2
 
 # Conditions
 conditions = {
     'hcp' :
         {
             'condition_location': 85,
-            'condition_address': 75,
+            'condition_address': 0,
             'condition_name': 85
         },
     'hco' :
@@ -69,9 +68,6 @@ df_data = df_data.reset_index(drop=True)
 #Set Startindex to 1
 df_data.index += 1
 
-#create empty matchlist
-#df_matchlist = pd.DataFrame(columns=['source', 'target', 'r_name', 'r_address', 'r_location', 'r_ratio'])
-
 total_rows = len(df_data)
 
 #%% [markdown]
@@ -92,13 +88,14 @@ start_time = time.time()
 
 print("===============================")
 print("Start fuzzy matcher THREADS %s %s" % (run_for, version))
-print("Cores detected: %s" % num_process)
+print("Cores detected: %s" % mp.cpu_count())
+print("Threads started: %s" % num_process)
 print("Rows to match: %s" % total_rows)
 print("Start time: %s" % datetime.datetime.now())
 print("===============================")
 
 def run(datasets):
-    print("Thread startet")
+    print("Thread started")
     df_data = datasets['df_data']
     df_part = datasets['df_part']
     
@@ -168,7 +165,7 @@ pool = mp.Pool(processes = num_process)
 
 #Create Jobs
 jobs = []
-job_len = math.ceil(len(df_data) / num_process)
+job_len = int(math.ceil(len(df_data) / num_process))
 for x in range(0, num_process):
     part = df_data[x * job_len : x * job_len + job_len]
     jobs.append({"df_data": df_data.copy(), "df_part": part})
