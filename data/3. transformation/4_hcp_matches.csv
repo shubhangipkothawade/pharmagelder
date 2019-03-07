@@ -80,8 +80,8 @@
 9097,Adrian Forster,Winterthur,CH,Brauerstrasse 15,,,,,,,1000.0,,1000.0,hcp,menarini,2016,brauerstrasse 15,winterthur,adrian forster
 17001,Adrian Forster,Winterthur,CH,Brauerstrasse 15,,,0.0,0.0,0.0,0.0,3900.0,253.0,4153.0,hcp,pfizer,2015,brauerstrasse 15,winterthur,adrian forster
 4810,Adrian Forster,Zürich,CH,Lengghalde 2,8008,,,,779.07,0.0,0.0,0.0,779.07,hcp,roche,2017,lengghalde 2,zuerich,adrian forster
-11015,Adrian Forster,Diessenhofen,CH,Rheinstrasse 6,,,,,,,2600.0,,2600.0,hcp,pfizer,2016,rheinstrasse 6,diessenhofen,adrian forster
-4530,Adrian Forster,Diessenhofen,CH,Rheinstrasse 6,,,,0.0,0.0,0.0,1400.0,0.0,1400.0,hcp,pfizer,2017,rheinstrasse 6,diessenhofen,adrian forster
+11015,Adrian Forster,Diessenhofen,CH,St. Katharinental 1,,,,,,,2600.0,,2600.0,hcp,pfizer,2016,sankt katharinental 1,diessenhofen,adrian forster
+4530,Adrian Forster,Diessenhofen,CH,St. Katharinental 1,,,,0.0,0.0,0.0,1400.0,0.0,1400.0,hcp,pfizer,2017,sankt katharinental 1,diessenhofen,adrian forster
 3243,Adrian Forster,Winterthur,CH,"Brauerstrasse 15,Postfach 834",,,,,0.0,,800.0,,800.0,hcp,mepha,2017,brauerstrasse 15postfach 834,winterthur,adrian forster
 11296,Adrian Forster,Winterthur,CH,Brauerstrasse 15,,,,,0.0,2133.0,0.0,2400.0,4533.0,hcp,roche,2016,brauerstrasse 15,winterthur,adrian forster
 5834,Adrian Fröhlich,Grenchen,CH,"Praxis im Zentrum, Bielstrasse 2",,,,,,248.3,,,248.3,hcp,vifor,2017,praxis im zentrum bielstrasse 2,grenchen,adrian fröhlich
@@ -100,7 +100,7 @@
 12649,Adrian Suter,Meilen,CH,"Privatklinik Hohenegg, Hohenegg 1",,,,,565.98,725.51,,,1291.49,hcp,vifor,2016,privatklinik hohenegg hohenegg 1,meilen,adrian suter
 6141,Adriana Baserga,Lugano,CH,Via Soldino 5,,,,,757.0,1089.0,,,1846.0,hcp,abbvie,2016,via soldino 5,lugano,adriana baserga
 4778,Adriana Baumann,Schänis,CH,Rathausplatz 16,,7601000766281,,,389.23,344.37,,,733.6,hcp,pierre,2017,rathausplatz 16,schaenis,adriana baumann
-12366,Adriano Aguzzi,Zürich,CH,"USZ, Bellariastrasse 15",,,,,,,,1000.0,1000.0,hcp,vifor,2016,usz bellariastrasse 15,zuerich,adriano aguzzi
+12366,Adriano Aguzzi,Zürich,CH,"Institut für Neuropathologie USZ, Schmelzbergstrasse 12",,,,,,,,1000.0,1000.0,hcp,vifor,2016,institut fuer neuropathologie usz schmelzbergstrasse 12,zuerich,adriano aguzzi
 6132,Adriano Aguzzi,Zürich,CH,"Institut für Neuropathologie USZ, Schmelzbergstrasse 12",,,,,,,1050.0,239.0,1289.0,hcp,abbvie,2016,institut fuer neuropathologie usz schmelzbergstrasse 12,zuerich,adriano aguzzi
 3278,Adriano Bont,Winterthur,CH,Brunngasse 6,,,,,302.8,462.14,,,764.94,hcp,merck,2017,brunngasse 6,winterthur,adriano bont
 4811,Adriano Bont,Winterthur,CH,Brunngasse 6,8400,,,,0.0,0.0,600.0,0.0,600.0,hcp,roche,2017,brunngasse 6,winterthur,adriano bont
@@ -266,7 +266,7 @@
 3548,Albrecht Breitenbücher,Bruderholz,CH,Kantonsspital,4101,,,,326.0,386.0,,,712.0,hcp,mundipharma,2017,kantonsspital,bruderholz,albrecht breitenbücher
 9850,Albrecht Breitenbücher,Bruderholz,CH,,,,,,296.0,378.0,0.0,0.0,674.0,hcp,mundipharma,2016,nan,bruderholz,albrecht breitenbücher
 13409,Albrecht Popp,Bern,CH,Freiburgstrasse 18,,,0.0,0.0,42.5,301.85,0.0,0.0,344.35,hcp,amgen,2015,freiburgstrasse 18,bern,albrecht popp
-688,Albrecht Popp,Bern,CH,Zwinglistrasse14,,,,,,,2700.0,,2700.0,hcp,amgen,2017,zwinglistrasse14,bern,albrecht popp
+688,Albrecht Popp,Bern,CH,Zwinglistrasse 14,,,,,,,2700.0,,2700.0,hcp,amgen,2017,zwinglistrasse 14,bern,albrecht popp
 8666,Albrecht Popp,Bern,CH,Freiburgstrasse 18,,,,,,,1250.0,,1250.0,hcp,gilead,2016,freiburgstrasse 18,bern,albrecht popp
 12105,Albrecht Schönfelder,Bern,CH,Praxis Dr. Schönfelder Albrecht Hirschengraben 9,,,,,257.95,603.4,,,861.3499999999997,hcp,takeda,2016,praxis doktor schoenfelder albrecht hirschengraben 9,bern,albrecht schönfelder
 14496,Albéric Bressoud,Vevey,CH,Avenue de la Prairie 3,,,0.0,0.0,209.0,445.0,0.0,0.0,654.0,hcp,celgene,2015,avenue delaware la prairie 3,vevey,albéric bressoud
@@ -1494,7 +1494,7 @@
 9835,Antoine Pasche,Morges,CH,,,,,,424.0,1120.0,0.0,0.0,1544.0,hcp,mundipharma,2016,nan,morges,antoine pasche
 6985,Antoine Pasche,Morges,CH,Chemin du Crêt 2,,,,,,,600.0,,600.0,hcp,astrazeneca,2016,chemin du cret 2,morges,antoine pasche
 13426,Antoine Wildhaber,Neuchâtel,CH,Faubourg De L'hôpital 81,,,0.0,0.0,0.0,632.5,0.0,0.0,632.5,hcp,amgen,2015,faubourg de l'hopital 81,neuchatel,antoine wildhaber
-764,Antoine Wildhaber,Neuchâtel,CH,Ruelle Dupeyrou2,,,,,,451.18,,,451.18,hcp,amgen,2017,ruelle dupeyrou2,neuchatel,antoine wildhaber
+764,Antoine Wildhaber,Neuchâtel,CH,Ruelle Dupeyrou 2,,,,,,451.18,,,451.18,hcp,amgen,2017,ruelle dupeyrou 2,neuchatel,antoine wildhaber
 6889,Antoine Wildhaber,Neuchâtel,CH,Faubourg De L'Hôpital81,,,,,,481.48,,,481.48,hcp,amgen,2016,faubourg de l'hopital81,neuchatel,antoine wildhaber
 11821,Antoinette Al Amine-Odermatt,Genève,CH,Rue de Lausanne 54,,,,,100.0,,,,100.0,hcp,servier,2016,rue de lausanne 54,geneve,antoinette al amine-odermatt
 9474,Antoinette J. Föhr-Keller,Pfäffikon,CH,Rietbrunnen 26,,,,,64.0,,,,64.0,hcp,mepha,2016,rietbrunnen 26,pfaeffikon,antoinette j. föhr-keller
@@ -5609,7 +5609,7 @@
 14755,F. Jaggi,Zürich,CH,Rütihofstrasse 49,,,0.0,0.0,252.0,600.0,5000.0,0.0,5852.0,hcp,daiichi,2015,ruetihofstrasse 49,zuerich,f. jaggi
 14756,F. Salzer,Zürich,CH,Witellikerstrasse 36,,,0.0,0.0,607.0,640.0,0.0,0.0,1247.0,hcp,daiichi,2015,witellikerstrasse 36,zuerich,f. salzer
 922,Fabia Weisser,Schwyz,CH,Palliative Care Station Waldeggstrasse 10,,,0.0,0.0,117.0,58.5,0.0,0.0,175.5,hcp,astrazeneca,2017,palliative care station waldeggstrasse 10,schwyz,fabia weisser
-763,Fabia Weisser,Schwyz,CH,Waldeggstrasse10,,,,,117.0,58.5,,,175.5,hcp,amgen,2017,waldeggstrasse10,schwyz,fabia weisser
+763,Fabia Weisser,Schwyz,CH,Waldeggstrasse 10,,,,,117.0,58.5,,,175.5,hcp,amgen,2017,waldeggstrasse 10,schwyz,fabia weisser
 4903,Fabia Weisser,Schwyz,CH,Waldeggstrasse 10,6430,,,,249.0,124.5,0.0,0.0,373.5,hcp,roche,2017,waldeggstrasse 10,schwyz,fabia weisser
 11390,Fabia Weisser,Schwyz,CH,Waldeggstrasse 10,,,,,195.0,130.0,0.0,0.0,325.0,hcp,roche,2016,waldeggstrasse 10,schwyz,fabia weisser
 2800,Fabia Weisser,Schwyz,CH,Waldeggstrasse 10,,,,,350.0,0.0,0.0,0.0,350.0,hcp,janssen,2017,waldeggstrasse 10,schwyz,fabia weisser
@@ -8795,7 +8795,7 @@
 1779,Jérôme Vitry,Muraz (Collombey),CH,Z.A. des Plavaux 102,1893,,,,,,200.0,,200.0,hcp,boehringer,2017,zone d'activites des plavaux 102,muraz collombey,jérôme vitry
 8080,Jérôme Voegeli,La Chaux-de-Fonds,CH,Rue De La Montagne 2,,,,,541.94,527.41,,,1069.35,hcp,celgene,2016,rue de la mont 2,la chaux-de-fonds,jérôme voegeli
 2025,Jérôme Voegeli,La Chaux-de-Fonds,CH,Rue De La Montagne 2,,WCHM07349314,,,,,500.0,,500.0,hcp,celgene,2017,rue de la mont 2,la chaux-de-fonds,jérôme voegeli
-760,Jérôme Voegeli,La Chaux-De- Fonds,CH,Rue Numa-Droz187,,,,,202.65,935.99,,,1138.64,hcp,amgen,2017,rue numa-droz187,la chaux-de fonds,jérôme voegeli
+760,Jérôme Voegeli,La Chaux-De- Fonds,CH,Rue Numa-Droz 187,,,,,202.65,935.99,,,1138.64,hcp,amgen,2017,rue numa-droz 187,la chaux-de fonds,jérôme voegeli
 14589,Jérôme Vögeli,La Chaux-de-fonds,CH,Rue de la Montagne 2,,,0.0,0.0,1093.0,4583.0,1000.0,0.0,6676.0,hcp,celgene,2015,rue de la mont 2,la chaux-de-fonds,jérôme vögeli
 9516,Jörg Alexander Kuoni,Chur,CH,Paradiesgasse 1,,,,,64.0,,,,64.0,hcp,mepha,2016,paradiesgasse 1,chur,jörg alexander kuoni
 6666,Jörg Bautzmann,Luzern,CH,Tribschenstrasse 21,,,,,135.0,90.0,,,225.0,hcp,amgen,2016,tribschenstrasse 21,luzern,jörg bautzmann
@@ -15263,10 +15263,10 @@
 16907,Roland Zehnder,Buchrain,CH,Hauptstrasse 12,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,novo,2015,hauptstrasse 12,buchrain,roland zehnder
 16588,Roland Zehnder,Buchrain,CH,Hauptstrasse 12,,,0.0,0.0,0.0,1160.0,0.0,0.0,1160.0,hcp,novartis,2015,hauptstrasse 12,buchrain,roland zehnder
 1792,Roland Zehnder,Buchrain,CH,Hauptstrasse 12,6033,,,,,,300.0,,300.0,hcp,boehringer,2017,hauptstrasse 12,buchrain,roland zehnder
-3334,Rolf A. Stahel,Zürich,CH,Häldeliweg 4,,,,,,,24500.0,,24500.0,hcp,merck,2017,haeldeliweg 4,zuerich,rolf a. stahel
+3334,Rolf A. Stahel,Zürich,CH,Rämistrasse 100,,,,,,,24500.0,,24500.0,hcp,merck,2017,raemistrasse 100,zuerich,rolf a. stahel
 4711,Rolf A. Stahel,Zürich,CH,Rämistrasse 100,,,,0.0,0.0,0.0,2992.0,0.0,2992.0,hcp,pfizer,2017,raemistrasse 100,zuerich,rolf a. stahel
 9780,Rolf A. Stahel,Zürich,CH,Universitätspital Zürich -Klinik für Onkologie Rämistrasse 100,,,,,,255.0,26675.0,,26930.0,hcp,msd,2016,universitaetspital zuerich klinik fuer onkologie raemistrasse 100,zuerich,rolf a. stahel
-9676,Rolf A. Stahel,Zürich,CH,Häldeliweg 4,,,,,,,19250.0,,19250.0,hcp,merck,2016,haeldeliweg 4,zuerich,rolf a. stahel
+9676,Rolf A. Stahel,Zürich,CH,Rämistrasse 100,,,,,,,19250.0,,19250.0,hcp,merck,2016,raemistrasse 100,zuerich,rolf a. stahel
 1473,Rolf A. Stahel,Zürich,CH,Rämistrasse 100,8091,40757706,0.0,0.0,0.0,0.0,600.69,0.0,600.69,hcp,bayer,2017,raemistrasse 100,zuerich,rolf a. stahel
 1014,Rolf A. Streuli,Bruderholz,CH,Medizinische Universitätsklinik,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hcp,astrazeneca,2017,medizinische universitaetsklinik,bruderholz,rolf a. streuli
 16607,Rolf Anderhalden,Münsingen,CH,Belpbergstrasse 51,,,0.0,0.0,0.0,160.0,0.0,0.0,160.0,hcp,novo,2015,belpbergstrasse 51,muensingen,rolf anderhalden
@@ -15319,11 +15319,11 @@
 1015,Rolf Stahel,Zürich,CH,Universitätsspital Zürich Rämistrasse 100,,,0.0,0.0,0.0,13274.29,4000.0,90.0,17364.29,hcp,astrazeneca,2017,universitaetsspital zuerich raemistrasse 100,zuerich,rolf stahel
 13859,Rolf Stahel,Zürich,CH,"Klinik für Onkologie, Rämistrasse 100",8091,,0.0,0.0,0.0,0.0,3045.0,0.0,3045.0,hcp,astrazeneca,2015,klinik fuer onkologie raemistrasse 100,zuerich,rolf stahel
 10495,Rolf Stahel,Zürich,CH,"Universitätsspital Zürich Medizin Onkologie, Rämistrasse 100",,,,,,,2125.0,,2125.0,hcp,novartis,2016,universitaetsspital zuerich medizin onkologie raemistrasse 100,zuerich,rolf stahel
-14922,Rolf Stahel,Bern,CH,Effingerstrasse 40,,,0.0,0.0,0.0,0.0,2625.0,0.0,2625.0,hcp,eli,2015,effingerstrasse 40,bern,rolf stahel
+14922,Rolf Stahel,Bern,CH,Rämistrasse 100,,,0.0,0.0,0.0,0.0,2625.0,0.0,2625.0,hcp,eli,2015,raemistrasse 100,bern,rolf stahel
 6401,Rolf Stahel,Zürich,CH,Rämistrasse 100,,,,,,,1658.0,490.0,2148.0,hcp,abbvie,2016,raemistrasse 100,zuerich,rolf stahel
 17591,Rolf Stahel,Zürich,CH,Rämistrasse 100,8091,,0.0,0.0,0.0,0.0,3375.0,6827.0,10202.0,hcp,roche,2015,raemistrasse 100,zuerich,rolf stahel
 6868,Rolf Stahel,Zürich,CH,Rämistrasse 100,,,,,,,1550.0,,1550.0,hcp,amgen,2016,raemistrasse 100,zuerich,rolf stahel
-14479,Rolf Stahel,Bern,CH,Effingerstrasse 40,,,0.0,0.0,0.0,8010.0,9930.0,957.0,18897.0,hcp,bristol,2015,effingerstrasse 40,bern,rolf stahel
+14479,Rolf Stahel,Bern,CH,Rämistrasse 100,,,0.0,0.0,0.0,8010.0,9930.0,957.0,18897.0,hcp,bristol,2015,raemistrasse 100,bern,rolf stahel
 13586,Rolf Stahel,Zürich,CH,Rämistrasse 100,,,0.0,0.0,0.0,0.0,620.0,0.0,620.0,hcp,amgen,2015,raemistrasse 100,zuerich,rolf stahel
 7885,Rolf Stahel,Zürich,CH,Rämistrasse 100,,,,,,4471.0,1500.0,,5971.0,hcp,bristol,2016,raemistrasse 100,zuerich,rolf stahel
 5045,Rolf Stahel,Zürich,CH,Rämistrasse 100,8091,,,,0.0,0.0,17250.0,10354.96,27604.96,hcp,roche,2017,raemistrasse 100,zuerich,rolf stahel
@@ -16668,7 +16668,7 @@
 11807,Stéphane REVERDIN,Lausanne,CH,Avenue Jomini 8,,,,,595.0,628.0,,,1223.0,hcp,servier,2016,avenue jomini 8,lausanne,stéphane reverdin
 10768,Stéphane Reymond,Les Ponts-de-Martel,CH,Petit-Bois 11,,,,,,,400.0,,400.0,hcp,novo,2016,petit-bois 11,les ponts-de-martel,stéphane reymond
 6043,Stéphane Simonazzi,Aigle,CH,"Cabinet Dr. Simonazzi Stéphane, Chemin des Dents-du-Midi 46",,,,,,,4000.0,372.09,4372.09,hcp,vifor,2017,cabinet docteur simonazzi stephane chemin des dents-du-midi 46,aigle,stéphane simonazzi
-771,Stéphane Zaza,Meyrin,CH,Avenue J.-D.-Maillard 1Bis,,,,,916.95,3727.32,,,4644.27,hcp,amgen,2017,avenue j.-d.-maillard 1bis,meyrin,stéphane zaza
+771,Stéphane Zaza,Meyrin,CH,Avenue J.-D.-Maillard 1,,,,,916.95,3727.32,,,4644.27,hcp,amgen,2017,avenue j.-d.-maillard 1,meyrin,stéphane zaza
 12915,Stéphane Zaza,Meyrin,CH,Avenue J.-D.-Maillard 1,,,0.0,0.0,416.0,722.0,0.0,0.0,1138.0,hcp,menarini,2015,avenue j.-d.-maillard 1,meyrin,stéphane zaza
 2195,Stéphane Zaza,Meyrin,CH,Avenue J.-D.-Maillard 1bis,1217,,,,560.0,810.0,,,1370.0,hcp,daiichi,2017,avenue j.-d.-maillard 1bis,meyrin,stéphane zaza
 3000,Stéphane-André Eyholzer,Biel/Bienne,CH,Oberer Quai 8,,,,,207.6,547.1,,,754.7,hcp,menarini,2017,oberer quai 8,biel bienne,stéphane-andré eyholzer
@@ -16745,7 +16745,7 @@
 10860,Susanne Morf,Chur,CH,"Kantonsspital Graubünden, Löestrasse 170",7000,,,306.84,834.95,,,1141.79,2283.58,hcp,orion,2016,kantonsspital graubuenden loeestrasse 170,chur,susanne morf
 2562,Susanne Nagel-Helbling,Zürich,CH,Badenerstrasse 177,,,,,61.0,349.0,,,410.0,hcp,gilead,2017,badenerstrasse 177,zuerich,susanne nagel-helbling
 12193,Susanne Pratsch Peter,Zürich,CH,Ti&chestrasse 99,,,,,525.0,1382.0,,,1907.0,hcp,teva,2016,tiund chestrasse 99,zuerich,susanne pratsch peter
-689,Susanne Pratsch Peter,Winterthur,CH,Brauerstrasse15,,,,,290.25,1306.19,,,1596.44,hcp,amgen,2017,brauerstrasse15,winterthur,susanne pratsch peter
+689,Susanne Pratsch Peter,Winterthur,CH,Brauerstrasse 15,,,,,290.25,1306.19,,,1596.44,hcp,amgen,2017,brauerstrasse 15,winterthur,susanne pratsch peter
 17615,Susanne Pratsch Peter,Zürich,CH,Tièchestrasse 99,8037,,0.0,0.0,667.0,890.0,0.0,0.0,1557.0,hcp,roche,2015,tiechestrasse 99,zuerich,susanne pratsch peter
 13692,Susanne Reichert,Bülach,CH,"Uroviva, Zürichstrasse 5",,,0.0,0.0,591.6,474.5,0.0,33.3,1099.4,hcp,astellas,2015,uroviva zuerichstrasse 5,buelach,susanne reichert
 6587,Susanne Reichert,Bülach,CH,Zürichstrasse 5,8180,,,,,,4000.0,,4000.0,hcp,allergan,2016,zuerichstrasse 5,buelach,susanne reichert
@@ -16844,7 +16844,7 @@
 14329,Sylvia Montalvan Dobmayr,Thun,CH,Niesenstrasse 1,3600,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,boehringer,2015,niesenstrasse 1,thun,sylvia montalvan dobmayr
 17947,Sylvia Quayzin,Chêne-bourg,CH,FMH psychiatrie et psychothérapieRue de Genève 6,,,0.0,0.0,0.0,214.0,0.0,0.0,214.0,hcp,servier,2015,fmh psychiatrie etage psychotherapierue de geneve 6,chene-bourg,sylvia quayzin
 4666,Sylvia Reineke,Bern,CH,Schänzlistrasse 33,,,,0.0,483.0,1394.0,0.0,0.0,1877.0,hcp,pfizer,2017,schaenzlistrasse 33,bern,sylvia reineke
-694,Sylvia Reineke,Bern,CH,Schänzlistrasse33,,,,,259.95,639.01,,,898.96,hcp,amgen,2017,schanzlistrasse33,bern,sylvia reineke
+694,Sylvia Reineke,Bern,CH,Schänzlistrasse 33,,,,,259.95,639.01,,,898.96,hcp,amgen,2017,schaenzlistrasse 33,bern,sylvia reineke
 7547,Sylvia Reineke,Bern,CH,Schänzlistrasse 33,,,0.0,0.0,484.0,843.52,0.0,0.0,1327.52,hcp,bayer,2016,schaenzlistrasse 33,bern,sylvia reineke
 2934,Sylvia Vetter,Rheinau,CH,Alleestrasse 61A,,,,,484.0,1224.0,,,1708.0,hcp,lundbeck,2017,alleestrasse 61a,rheinau,sylvia vetter
 16145,Sylvie Bédat-Giddey,Genève,CH,Rue Michel-Chauvet 9,,,0.0,0.0,1150.0,1150.0,0.0,0.0,2300.0,hcp,novartis,2015,rue michel-chauvet 9,geneve,sylvie bédat-giddey

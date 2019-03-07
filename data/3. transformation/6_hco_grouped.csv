@@ -946,7 +946,7 @@ Betheada Spital AG - Zentrum Rheuma Rucken Schmerz,Basel,CH,Gellertstrasse 144,,
 Bethesda Spital,Basel,CH,Gellertstrasse 144,,,,2000.0,0.0,139.0,0.0,0.0,2139.0,hco,roche,2016,32,
 Bethesda Spital,Basel,CH,Gellertstrasse 144,,,,2500.0,,,,,2500.0,hco,bristol,2017,32,
 Bethesda Spital,Basel,CH,Gellertstrasse 144,,,,2000.0,,,,,2000.0,hco,ucb,2017,32,
-Bethesda Spital,Basel,CH,Gellertstrasse144,,,,3000.0,,,,,3000.0,hco,amgen,2017,32,
+Bethesda Spital,Basel,CH,Gellertstrasse 144,,,,3000.0,,,,,3000.0,hco,amgen,2017,32,
 Bethesda Spital,Basel,CH,Gellertstrasse 144,,,2000.0,,,,,,2000.0,hco,mundipharma,2017,32,
 Bethesda Spital,Basel,CH,Gellertstrasse 144,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,mundipharma,2016,32,
 Bethesda Spital,Basel,CH,Gellertstrasse 144,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,gruenenthal,2017,32,
@@ -1023,7 +1023,7 @@ BONADEA AG,Wald ZH,CH,Sonneckstrasse 1,,,,,,,600.0,,600.0,hco,sandoz,2017,493,
 Bonadea AG,Wald ZH,CH,Sonneckstrasse 1,,,,,,,1296.0,,1296.0,hco,pfizer,2016,493,
 Bonadea AG,Wald,CH,Sonneckstrasse 1,,,0.0,0.0,0.0,0.0,2592.0,0.0,2592.0,hco,pfizer,2015,493,
 Breast Cancer Study Group (IBCSG),Bern,CH,Effingerstrasse 40,,,10870.0,,,,,,10870.0,hco,pfizer,2016,309,
-Breast Cancer Study Group(Ibcsg),Bern,CH,Effingerstrasse40,,,5527.53,,,,,,5527.53,hco,amgen,2017,309,1.0
+Breast Cancer Study Group(Ibcsg),Bern,CH,Effingerstrasse 40,,,5527.53,,,,,,5527.53,hco,amgen,2017,309,1.0
 Breast Cancer Study Group(Ibcsg),Bern,CH,Effingerstrasse 40,,,5422.15,,,,,,5422.15,hco,amgen,2016,309,
 Breite-Apotheke,Basel,CH,Zürcherstrasse 97,,,0.0,0.0,232.0,431.0,0.0,0.0,663.0,hco,sandoz,2015,1329,1.0
 Brennpunkt Urologie,Liestal,CH,c/o LH Medical Management GmbH,,,,3000.0,,,,,3000.0,hco,abbvie,2017,818,1.0
@@ -1193,7 +1193,7 @@ Centre de Chimiothérapie CCAC SA,Lausanne,CH,Avenue D'Ouchy 35,,,,1000.0,,,,,10
 Centre de Chimiothérapie CCAC SA,Lausanne,CH,Avenue d'Ouchy 35,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,vifor,2015,113,
 Centre de Chimiothérapie CCAC SA,Lausanne,CH,Avenue d'Ouchy 35,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,janssen,2017,113,
 Centre de Chimiothérapie CCAC SA,Lausanne,CH,Avenue D'ouchy 35,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,amgen,2015,113,
-Centre De Chimiothérapie Ccac Sa,Lausanne,CH,Avenue D'Ouchy35,,,,1000.0,,,,,1000.0,hco,amgen,2017,113,
+Centre De Chimiothérapie Ccac Sa,Lausanne,CH,Avenue D'Ouchy 35,,,,1000.0,,,,,1000.0,hco,amgen,2017,113,
 Centre de Chimiothérapie CCAC SA,Lausanne,CH,Avenue D'Ouchy 35,,,,2000.0,,,,,2000.0,hco,bristol,2016,113,
 Centre de Chimiothérapie CCAC SA,Lausanne,CH,Avenue D'Ouchy 35,,WCHE07707967,,1000.0,,,,,1000.0,hco,celgene,2017,113,1.0
 Centre de Chimiothérapie CCAC SA,Lausanne,CH,Avenue Vinet 19bis,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,eisai,2015,51,
@@ -2348,7 +2348,7 @@ ETH Zürich Hauptgebäude,Zürich Sonderdienste,CH,Rämistrasse 101,,,199398.08,
 "ETH, Departement of Biology",Zürich,CH,Otto-Stern-Weg 7,,,716.0,,,,,,716.0,hco,meda,2017,1503,1.0
 ETOP,Bern,CH,Effingerstrasse 40,,,,25812.0,,,,,25812.0,hco,bristol,2016,276,
 ETOP,Bern,CH,Effingerstrasse 40,,,,25708.0,,,,,25708.0,hco,bristol,2017,276,1.0
-Etop,Bern,CH,Effingerstrasse40,,,7630.73,,,,,,7630.73,hco,amgen,2017,276,
+Etop,Bern,CH,Effingerstrasse 40,,,7630.73,,,,,,7630.73,hco,amgen,2017,276,
 Etop,Bern,CH,Effingerstrasse 40,,,11046.41,16266.44,,1083.46,2000.0,,30396.31,hco,amgen,2016,276,
 Etop,Bern,CH,Effingerstrasse 40,,,10443.57,0.0,0.0,0.0,0.0,0.0,10443.57,hco,amgen,2015,276,
 "EULAP, Euopean League Against Pain",Zürich,CH,Lintheschergasse 3,,,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0,hco,pfizer,2017,869,1.0
@@ -2946,7 +2946,7 @@ Foundation for Research in Rheumatology (FOREUM),,CH,,,,1067622.42,0.0,0.0,0.0,0
 Foundation for Research in Rheumatology (FOREUM),Kilchberg Zh,CH,Seestrasse 240,,,0.0,545523.0,0.0,0.0,0.0,0.0,545523.0,hco,abbvie,2015,231,
 Foundation for Research in Rheumatology (FOREUM),Kilchberg Zh,CH,Foundation for Research in Rheumatology - (FOREUM) Seestrasse 240,,,50369.87,0.0,0.0,0.0,0.0,0.0,50369.87,hco,msd,2015,231,
 Foundation for Research in Rheumatology(Foreum),Kilchberg,CH,Seestrasse 240,,,88724.14,0.0,0.0,0.0,0.0,0.0,88724.14,hco,glaxosmithkline,2017,231,
-Foundation For The Advancement Of Bmt Switzerland,Ebmatingen,CH,Vorderrainholzstrasse3,,,,,,,3840.0,185.0,4025.0,hco,amgen,2017,1575,1.0
+Foundation For The Advancement Of Bmt Switzerland,Ebmatingen,CH,Vorderrainholzstrasse 3,,,,,,,3840.0,185.0,4025.0,hco,amgen,2017,1575,1.0
 Foundation SAoO,Berneck,CH,Schüllenstrasse 19,9442,1055501532,0.0,20000.0,0.0,0.0,0.0,0.0,20000.0,hco,bayer,2017,1576,1.0
 Fragility Fracture Network (Ffn),Zürich,CH,"C/O Mci Schweizag,Schaffhauserstr. 550",,,,55841.91,,,,,55841.91,hco,amgen,2017,361,1.0
 Fragility Fracture Network (Ffn),Zürich,CH,"C/O Mci Schweiz Ag, Schaffhauserstr. 550",,,,34333.56,,,,,34333.56,hco,amgen,2016,361,
@@ -4846,7 +4846,7 @@ Institution de Lavigny Site de Lavigny / Direction glnlrale,Lavigny,CH,Route du 
 Instituto Oncologico della Svizzera Italiana,Bellinzona,CH,"Ospedale San Giovanni, Via Ospedale",,,3500.0,0.0,0.0,0.0,0.0,0.0,3500.0,hco,mundipharma,2016,9,
 Int. Osteopor Osis Found.,Nyon,CH,Rue Juste-Olivier 9,,,0.0,338428.9,0.0,0.0,0.0,0.0,338428.9,hco,amgen,2015,1768,1.0
 Int. Osteoporosis Foundation,Nyon,CH,Rue Juste-Olivier 9,,,,13600.0,,,,,13600.0,hco,ucb,2016,315,
-Int. Osteoporosis Foundation,Nyon,CH,Rue Juste-Olivier9,,,,436061.0,,,,,436061.0,hco,amgen,2017,315,1.0
+Int. Osteoporosis Foundation,Nyon,CH,Rue Juste-Olivier 9,,,,436061.0,,,,,436061.0,hco,amgen,2017,315,1.0
 Int. Osteoporosis Foundation,Nyon,CH,Rue Juste-Olivier 9,,,,441673.41,,,,,441673.41,hco,amgen,2016,315,
 Int. Osteoporosis Foundation,Nyon,CH,Rue Duste-Olivier 9,,,531032.8,,,,,,531032.8,hco,ucb,2017,315,
 Integrierte Psychiatrie,Winterthur,CH,Wieshofstrasse 102 Postfach 144,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,mundipharma,2016,212,
@@ -7116,7 +7116,7 @@ Osteoporoseplattform SGR,Zürich,CH,Bellariastrasse 38,,,,15093.0,,,,,15093.0,hc
 Osteoporoseplattform SGR,Zürich,CH,Bellariastrasse 38,,,,40000.0,,,,,40000.0,hco,eli,2016,672,
 Osteoporoserat Schweiz,Adliswil,CH,Webereistrasse 68,,,,49000.0,,,,,49000.0,hco,amgen,2016,671,1.0
 Osteoporosis Center,Carouge Ge,CH,Rue Du Cardinal Mermillod 36,,,0.0,2100.0,0.0,0.0,0.0,0.0,2100.0,hco,amgen,2015,1971,1.0
-Osteoswiss,Adliswil,CH,Webereistrasse68,,,,850.0,,,,,850.0,hco,amgen,2017,673,1.0
+Osteoswiss,Adliswil,CH,Webereistrasse 68,,,,850.0,,,,,850.0,hco,amgen,2017,673,1.0
 Osteoswiss,Adliswil,CH,Webereistrasse 68,,,,39500.0,,,,,39500.0,hco,amgen,2016,673,
 OsteoSwiss,Adliswil,CH,Webereistrasse 68,,,0.0,750.0,0.0,0.0,0.0,0.0,750.0,hco,eli,2015,673,
 Ostschw. Gesellschaft für Psychiatrie und Kinder- und Jugendpsychiatrie,St. Gallen,CH,,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,servier,2015,1010,
@@ -7652,7 +7652,7 @@ Psychiatrisches Zentrum Herisau,Herisau,CH,Psychiatrisches Zentrum Herisau Postf
 Psychiatrisches Zentrum Herisau -Sozialpsychiatrische Dienst,Herisau,CH,Krombach 3,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,2085,1.0
 Psychiatrisches Zentrum St. Gallen -Ambulatorium,Sl Gallen,CH,Teufener Strasse 26,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,2086,1.0
 "Schweizerische Gesellschaft fürPsychoonkolgoie (SGPO), Sekretariat SGPO c/o Krebsliga Schweiz",Bern,CH,"Effingerstrasse 40, Postfach",8219,,,2000.0,,,,,2000.0,hco,teva,2017,2087,1.0
-Public Health Schweiz,Bern,CH,Effingerstrasse54,,,,450.0,,,,,450.0,hco,amgen,2017,2088,1.0
+Public Health Schweiz,Bern,CH,Effingerstrasse 54,,,,450.0,,,,,450.0,hco,amgen,2017,2088,1.0
 PULSUS,Luzern,CH,Lidostrasse 6 Postfach,1512,,,500.0,,,,,500.0,hco,lundbeck,2016,1040,
 PULSUS c/o Brückner Rechtsanwälte,Luzern,CH,Lidostrasse 6,,,,500.0,,,,,500.0,hco,lundbeck,2017,1040,1.0
 PZM Psychiatriezentrum Münsingen,Münsingen,CH,Hunzigenallee 1,,,,1500.0,,,,,1500.0,hco,vifor,2017,153,
@@ -7958,7 +7958,7 @@ Roseau Sante Balcon du Jura.vd,Ste-Croix,CH,Rue des Rosiers 29,,,0.0,1800.0,0.0,
 Rotpunkt-Pharma,Zürich,CH,Falkenstrasse 21,,,,5000.0,,,,,5000.0,hco,bgp,2016,2133,1.0
 Rotpunkt-Pharma AG,Zürich,CH,Mühlebachstrasse 20,,,,20700.0,,,,,20700.0,hco,bgp,2017,2134,1.0
 RRDV - c/o SSDV,Bern,CH,Dalmazirain 11,,,0.0,3600.0,0.0,0.0,0.0,0.0,3600.0,hco,pfizer,2015,33,
-Rsbj,Ste-Croix,CH,Rue Des Rosiers29,,,,1800.0,,,,,1800.0,hco,amgen,2017,69,
+Rsbj,Ste-Croix,CH,Rue Des Rosiers 29,,,,1800.0,,,,,1800.0,hco,amgen,2017,69,
 Rsbj,Ste-Croix,CH,Rue Des Rosiers 29,,,,1000.0,,,,,1000.0,hco,amgen,2016,69,
 RSBJ,Ste-croix,CH,"Rue des Rosiers 29, Ste-Croix",,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,janssen,2015,69,
 RSBJ,Ste-Croix,CH,Rue des Rosiers 29,,,,2000.0,,,,,2000.0,hco,daiichi,2016,69,
@@ -8065,7 +8065,7 @@ SAKK - Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung,Bern,CH,
 SAKK - Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung,Bern,CH,Effingerstrasse 33,,,170036.0,15500.0,,,,,185536.0,hco,takeda,2016,16,
 SAKK Koordinationszen trum,Bern,CH,Effingerstrasse 33,,,,5000.0,5000.0,,,,10000.0,hco,pierre,2017,16,
 SAKK Koordinationszen trum,Bern,CH,Effingerstrasse 40,,,,5400.0,,,,,5400.0,hco,gilead,2017,16,
-Sakk Koordinationszentrum,Bern,CH,Effingerstrasse33,,,,86560.0,117.0,58.5,195.0,,86930.5,hco,amgen,2017,16,
+Sakk Koordinationszentrum,Bern,CH,Effingerstrasse 33,,,,86560.0,117.0,58.5,195.0,,86930.5,hco,amgen,2017,16,
 SAKK Koordinationszentrum,Bern,CH,Effingerstrasse 33,,,5000.0,57579.0,,,,,62579.0,hco,bristol,2017,16,
 SAKK Koordinationszentrum,Bern,CH,Effingerstrasse 33,,,30000.0,26360.0,0.0,0.0,0.0,0.0,56360.0,hco,astellas,2017,16,
 SAKK Koordinationszentrum,Bern,CH,Effingerstrasse 33,,,,3240.0,,,,,3240.0,hco,vifor,2016,16,
@@ -8128,7 +8128,7 @@ Samo - Geschäftsstelle,Bern,CH,Samo - Geschäftsstelle Effingerstrasse 40,,,150
 Samo - Geschäftsstelle,Bern,CH,"Samo, Effingerstrasse 40",,,0.0,9500.0,0.0,0.0,0.0,0.0,9500.0,hco,astellas,2015,26,
 Samo - Geschäftsstelle,Bern,CH,"c/o IBCSG Coordinating Center, Effingerstrasse 40",,,0.0,6389.0,0.0,0.0,0.0,0.0,6389.0,hco,eli,2015,26,
 Samo - Geschüftsstelle,Bern,CH,Effingerstrasse 40,,,,35640.0,,,,,35640.0,hco,bristol,2016,26,
-Samo -Geschäftsstelle,Bern,CH,Effingerstrasse40,,,,13000.0,,,,,13000.0,hco,amgen,2017,26,
+Samo -Geschäftsstelle,Bern,CH,Effingerstrasse 40,,,,13000.0,,,,,13000.0,hco,amgen,2017,26,
 SAMO Swiss academy of multidisciplinary oncology,Bern,CH,Effingerstrasse 40,,,,49500.0,,,,,49500.0,hco,astrazeneca,2016,26,
 SAMO Swiss Academy of Multidisciplinary Oncology,Bern,CH,Effingerstrasse 40,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,bayer,2016,26,
 SAMO Swiss Academy of Multidisciplinary Oncology,Bern,CH,Effingerstrasse 40,,,0.0,15660.0,0.0,0.0,0.0,0.0,15660.0,hco,pfizer,2015,26,
@@ -9460,7 +9460,7 @@ Spital Thurgau AG,Frauenfeld,CH,Debitorenbuchhaltung,,,0.0,1500.0,0.0,0.0,0.0,0.
 Spital Thurgau AG,Frauenfeld,CH,Waldeggstrasse 8a,,,0.0,0.0,1000.0,0.0,3000.0,0.0,4000.0,hco,celgene,2015,13,
 Spital Thurgau AG,Frauenfeld,CH,Waldeggstr. 8,,,0.0,1680.0,0.0,0.0,2160.0,0.0,3840.0,hco,genzyme,2015,13,
 Spital Thurgau AG,Frauenfeld,CH,Debitorenbuchhaltung,,,,4000.0,,,,,4000.0,hco,servier,2016,13,
-Spital Thurgau Ag,Frauenfeld,CH,Waldeggstrasse8A,,,,1000.0,,,,,1000.0,hco,amgen,2017,13,
+Spital Thurgau Ag,Frauenfeld,CH,Waldeggstrasse 8A,,,,1000.0,,,,,1000.0,hco,amgen,2017,13,
 Spital Thurgau AG,Frauenfeld,CH,Waldeggstrasse 8a,,,,1620.0,,,2575.0,,4195.0,hco,bristol,2016,13,
 Spital Thurgau AG,Frauenfeld,CH,8K5a0rl1 H Faruaeuteenr-fSeltdrasse 21,,,,2000.0,,,,,2000.0,hco,allergan,2017,13,
 Spital Thurgau Ag,Frauenfeld,CH,Waldeggstrasse 8A,,,,2500.0,,,1250.0,,3750.0,hco,amgen,2016,13,
@@ -10148,7 +10148,7 @@ SVA-ASAM,Bern,CH,Monbijoustrasse 35,,,0.0,0.0,3270.0,0.0,0.0,0.0,3270.0,hco,baye
 "SVA-MPA, Sektion SG/AR/AI",Oberuzwil,CH,Morgenwies 4 b,,,,600.0,,,,,600.0,hco,vifor,2016,1057,
 SVA-Sektion ZH/GL,Embrach,CH,Im Grund 11,,,,1700.0,,,,,1700.0,hco,vifor,2016,2379,1.0
 Svgo,Basel,CH,Missionsstrasse 24,,,,4000.0,,,,,4000.0,hco,amgen,2016,470,
-Svgo,Basel,CH,Missionsstrasse24,,,,3000.0,,,,,3000.0,hco,amgen,2017,470,1.0
+Svgo,Basel,CH,Missionsstrasse 24,,,,3000.0,,,,,3000.0,hco,amgen,2017,470,1.0
 Svgo,Basel,CH,Missionsstrasse 24,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,amgen,2015,470,
 SVGO,Basel,CH,Missionsstrasse 24,,,,2500.0,,,,,2500.0,hco,sandoz,2016,470,
 SVGO/ASCO,Basel,CH,Missionsstrasse 24,,,,1000.0,,,,,1000.0,hco,meda,2017,470,
@@ -10354,7 +10354,7 @@ Swiss Tumor Institute,Zürich,CH,Seefeldstrasse 214,,,0.0,9500.0,0.0,158.33,0.0,
 Swiss Tumor Institute,Zürich,CH,Witellikerstrasse 40,,,11500.0,0.0,0.0,0.0,0.0,0.0,11500.0,hco,mundipharma,2016,295,
 swiss tumor institute,Zürich,CH,Seestrasse 259,,,,12300.0,,,,,12300.0,hco,eli,2016,36,
 Swiss Tumor Institute,Zürich,CH,Witellikerstrasse 40,,,,8500.0,,,,,8500.0,hco,bristol,2016,295,
-Swiss Tumor Institute,Zürich,CH,Seefeldstrasse214,,,,13000.0,,,,,13000.0,hco,amgen,2017,36,
+Swiss Tumor Institute,Zürich,CH,Seefeldstrasse 214,,,,13000.0,,,,,13000.0,hco,amgen,2017,36,
 Swiss Tumor Institute,Zürich,CH,Seestrasse 259,,,,,,,390.0,87.75,477.75,hco,amgen,2017,36,
 Swiss Tumor Institute,Zürich,CH,Witellikerstrasse 40,,,12700.0,,,,,,12700.0,hco,mundipharma,2017,295,
 Swiss Tumor Institute,Zürich,CH,Seefeldstrasse 214,,,,11600.0,,,,,11600.0,hco,merck,2017,36,
@@ -10811,7 +10811,7 @@ Universitätsklinik Balgrist,Zürich,CH,Forchstrasse 340,,,3000.0,,,,,,3000.0,hc
 Universitätsklinik Balgrist,Zürich,CH,Forchstrasse 340,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hco,mundipharma,2015,170,
 Universitätsklinik Balgrist,Zürich,CH,Forchstrasse 340,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,mundipharma,2016,170,
 Universitätsklinik Balgrist,Zürich,CH,Forchstrasse 340,,,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0,hco,pfizer,2017,170,1.0
-Universitätsklinik Balgrist,Zürich,CH,Forchstrasse340,,,,,901.59,842.61,,,1744.2,hco,amgen,2017,170,
+Universitätsklinik Balgrist,Zürich,CH,Forchstrasse 340,,,,,901.59,842.61,,,1744.2,hco,amgen,2017,170,
 Universitätsklinik Balgrist,Zürich,CH,"Universitätsklinik Balgrist, Forchstrasse 340",,,4800.0,0.0,0.0,0.0,0.0,0.0,4800.0,hco,astellas,2015,170,
 Universitätsklinik Balgrist,Zürich,CH,Forchstrasse 340,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,gruenenthal,2015,170,
 Universitätsklinik Balgrist,Zürich,CH,Forchstrasse 340,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,novartis,2017,170,
@@ -11597,7 +11597,7 @@ World Health Organization (WHO),Genève,CH,"20, Avenue Appia",,,127548.05,,,,,,1
 World Health Organization (WHO),Genève,CH,"World Health Organization (WHO) 20, Avenue Appia",,,131437.8,0.0,0.0,0.0,0.0,0.0,131437.8,hco,msd,2015,1159,
 World Heart Federation,Genève,CH,Rue des Battoirs 7,1211,,109017.0,,,,,,109017.0,hco,boehringer,2017,2551,1.0
 World Heart Federation,Genève,CH,Rue De Malatrex 30,,,171794.76,,,,,,171794.76,hco,amgen,2016,404,
-World Heart Federation,Genève,CH,Rue De Malatrex30,,,149070.0,61808.5,,,,,210878.5,hco,amgen,2017,404,1.0
+World Heart Federation,Genève,CH,Rue De Malatrex 30,,,149070.0,61808.5,,,,,210878.5,hco,amgen,2017,404,1.0
 World Heart Federation ONG,Genève,CH,Rue de Malatrex 32,,,,162128.99,,,,269.93,162398.92,hco,novartis,2016,404,
 World Heart Federation ONG,Genève,CH,Rue de Malatrex 32,,,0.0,93500.99,0.0,0.0,0.0,0.0,93500.99,hco,novartis,2015,404,
 World Heart Federation ONG,Genève,CH,Rue de Malatrex 32,,,0.0,230224.05,0.0,0.0,0.0,0.0,230224.05,hco,novartis,2017,404,

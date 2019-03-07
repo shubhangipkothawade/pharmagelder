@@ -14,7 +14,7 @@ HUG - Hôpitaux Universitaires de Genève,Genève,Rue Gabrielle-Perret-Gentil 4,
 Kantonsspital St. Gallen,St. Gallen,Rorschacher Strasse 95,hco,2017,207195.88,833324.7599999999,47697.14,88331.40999999999,146853.84,2460.24,1333509.2699999998
 EULAR - Europäische Rheumaliga,Kilchberg ZH,Seestrasse 240,hco,2017,0.0,1319201.0,0.0,0.0,10000.0,0.0,1329201.0
 ESO-European Stroke Organisation,Basel,Peter Merian-Strasse 80,hco,2017,840259.42,299372.79000000004,0.0,0.0,0.0,0.0,1139632.21
-Int. Osteoporosis Foundation,Nyon,Rue Juste-Olivier9,hco,2017,531032.8,436061.0,0.0,0.0,0.0,0.0,967093.8
+Int. Osteoporosis Foundation,Nyon,Rue Juste-Olivier 9,hco,2017,531032.8,436061.0,0.0,0.0,0.0,0.0,967093.8
 ESCMID European Society of Clinical Microbiology and Infectious Diseases,Basel,Aeschenvorstadt 57,hco,2017,88517.56,808503.81,43406.01,0.0,0.0,0.0,940427.38
 MediService AG,Zuchwil,Ausserfeldweg 1,hco,2017,0.0,0.0,0.0,0.0,917191.0,0.0,917191.0
 SAKK,Bern,Effingerstrasse 33,hco,2017,365036.0,528739.0,5483.0,241.5,9805.0,0.0,909304.5
@@ -33,7 +33,7 @@ European Society of Gynaecological Oncology (ESGO) c/o Kenes International SA,Ge
 Universität Basel,Basel,Petersplatz 1,hco,2017,446011.16,61200.0,0.0,0.0,7427.65,83.0,514721.81
 Advisis AG,Bern,Effingerstrasse 55,hco,2017,0.0,456168.0,0.0,0.0,0.0,0.0,456168.0
 Stadtspital Triemli,Zürich,Birmensdorferstrasse 497,hco,2017,55500.0,283619.68,10086.630000000001,23847.67,73561.0,5127.82,451742.80000000005
-World Heart Federation,Genève,Rue De Malatrex30,hco,2017,149070.0,292032.55,0.0,0.0,0.0,0.0,441102.55
+World Heart Federation,Genève,Rue De Malatrex 30,hco,2017,149070.0,292032.55,0.0,0.0,0.0,0.0,441102.55
 Ecms Foundation,Zürich,Bleicherweg 45,hco,2017,440300.0,0.0,0.0,0.0,0.0,0.0,440300.0
 Stiftung für Herz-/Kreislaufforschung,Zürich,Moussonstrasse 4,hco,2017,135541.81,203080.0,38500.0,10000.0,30694.0,0.0,417815.81
 Eleonorenstiftung,Zürich,Steinwiesstrasse 75,hco,2017,234558.0,130369.26,458.0,13890.230000000001,23668.1,394.04,403337.63
@@ -230,7 +230,7 @@ Hopital Fribourgeois,Fribourg,Chemin Des Pensionnats,hco,2017,15000.0,15200.0,0.
 Schweizerische Gesellschaft fürReproduktionsmedizin,Worb,Postfach 754,hco,2017,3600.0,27120.0,0.0,0.0,0.0,0.0,30720.0
 Onkozentrum Zürich,Zürich,Seestrasse 259,hco,2017,0.0,21200.0,0.0,175.5,9161.0,44.45,30580.95
 Fondation étude Suisse de cohorte hépatite C,Genève,c/o Prof. Francesco Negro - HUG,hco,2017,20000.0,0.0,0.0,0.0,10500.0,0.0,30500.0
-Breast Cancer Study Group(Ibcsg),Bern,Effingerstrasse40,hco,2017,30461.309999999998,0.0,0.0,0.0,0.0,0.0,30461.309999999998
+Breast Cancer Study Group(Ibcsg),Bern,Effingerstrasse 40,hco,2017,30461.309999999998,0.0,0.0,0.0,0.0,0.0,30461.309999999998
 Council for International Organizations of Medical Sciences (CIOMS),Le Grand-Saconnex,Route des Morillons 1-5,hco,2017,0.0,30442.21,0.0,0.0,0.0,0.0,30442.21
 Fondation Asile des aveugles,Lausanne,Avenue de France 15,hco,2017,0.0,27269.63,0.0,0.0,3000.0,0.0,30269.63
 SGKN Schweizerische Gesellschaft Für Klinische Neurophysiologie,Oberentfelden,Blumenweg,hco,2017,0.0,30200.0,0.0,0.0,0.0,0.0,30200.0
@@ -704,7 +704,7 @@ pharmActuel Vaud,Fribourg,Chemin du Palatinat 11,hco,2017,0.0,4000.0,0.0,0.0,0.0
 Hausarztverein Gersag,Emmenbrücke,Rüeggisingerstrasse 29,hco,2017,0.0,3864.0,0.0,0.0,0.0,0.0,4064.0
 Ärztezentrum Attiswil-Wiedslichbach AG,Wiedlisbach,Oeleweg 3,hco,2017,0.0,4000.0,0.0,0.0,0.0,0.0,4032.0
 Ärztenetzwerk Oberaargau,Langenthal,Allmengasse 15,hco,2017,0.0,4000.0,0.0,0.0,0.0,0.0,4030.0
-Foundation For The Advancement Of Bmt Switzerland,Ebmatingen,Vorderrainholzstrasse3,hco,2017,0.0,0.0,0.0,0.0,3840.0,185.0,4025.0
+Foundation For The Advancement Of Bmt Switzerland,Ebmatingen,Vorderrainholzstrasse 3,hco,2017,0.0,0.0,0.0,0.0,3840.0,185.0,4025.0
 Centre de Chimiothérapie CCAC SA,Lausanne,Avenue D'Ouchy 35,hco,2017,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0
 Institution de Lavigny,Lavigny,Route du Vignoble 60,hco,2017,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0
 Sanatorium Kilchberg AG,Kilchberg ZH,Alte Landstrasse 70,hco,2017,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0
@@ -718,7 +718,7 @@ Verein der Pneumologen des Kantons Bern (VPB),Bern,Bremgartenstrasse 117,hco,201
 Gesundes Rheintal,Widnau,Zinggenstrasse 3,hco,2017,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0
 Groupement Vaudois des Gynécologues,Lausanne,Rue de la Vigie 5,hco,2017,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0
 Ligue pulmonaire neuchâteloise,Peseux,Rue de la Gare 4,hco,2017,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0
-Svgo,Basel,Missionsstrasse24,hco,2017,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0
+Svgo,Basel,Missionsstrasse 24,hco,2017,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0
 "Neurozentrum Aarau, Hirslanden Medical Center",Aarau,Rain 34,hco,2017,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0
 Sensler Ärzteverein Herr Dr. med. Alexander Kunz,Tafers,Zelgstrasse 25,hco,2017,1000.0,3000.0,0.0,0.0,0.0,0.0,4000.0
 ASSOCIAZIONE TRIANGOLO,Locarno,VIA CISERI 19,hco,2017,2000.0,2000.0,0.0,0.0,0.0,0.0,4000.0
@@ -1311,7 +1311,7 @@ Praxis für Onkologie,Zürich,Toblerstrasse 50,hco,2017,0.0,0.0,0.0,0.0,875.0,0.
 Privatklinik Lindberg,Winterthur,Schickstrasse 11,hco,2017,0.0,864.0,0.0,0.0,0.0,0.0,864.0
 Ärzte Netzwerk Grauholz,Zollikofen,Lüfternweg 1,hco,2017,0.0,0.0,0.0,0.0,864.0,0.0,864.0
 Ärzte Netzwerk Grauholz,Urtene- Schoenbuehl,Solothurnstr. 43,hco,2017,0.0,0.0,0.0,0.0,864.0,0.0,864.0
-Osteoswiss,Adliswil,Webereistrasse68,hco,2017,0.0,850.0,0.0,0.0,0.0,0.0,850.0
+Osteoswiss,Adliswil,Webereistrasse 68,hco,2017,0.0,850.0,0.0,0.0,0.0,0.0,850.0
 Groupe Moutier,Moutier,"c/o Frédéric Gerber, Rue du Viaduc 34",hco,2017,0.0,850.0,0.0,0.0,0.0,0.0,850.0
 Maison de la Santé,Sembrancher,route de la Gravenne 14,hco,2017,0.0,850.0,0.0,0.0,0.0,0.0,850.0
 Psychiatrie Zentrum Kreuzlingen EPD Thurgau,Kreuzlingen,Nationalstrasse 19,hco,2017,0.0,810.0,0.0,0.0,0.0,0.0,810.0
@@ -1426,7 +1426,7 @@ spyglass Ventures GmbH,Pfäffikon,Churerstrasse 47,hco,2017,0.0,480.0,0.0,0.0,0.
 Spital Rheinfelden Gesundheitszentrum Fricktal,Rheinfelden,Riburgerstrasse 12,hco,2017,0.0,0.0,0.0,475.93,0.0,0.0,475.93
 Augen Glattzentrum AG Einkaufszentrum Glatt,Wallisellen,Neue Winterthurerstrasse 99,hco,2017,462.96,0.0,0.0,0.0,0.0,0.0,462.96
 Spital Uster,Uster,Brunnenstrasse 42,hco,2017,460.0,0.0,0.0,0.0,0.0,0.0,460.0
-Public Health Schweiz,Bern,Effingerstrasse54,hco,2017,0.0,450.0,0.0,0.0,0.0,0.0,450.0
+Public Health Schweiz,Bern,Effingerstrasse 54,hco,2017,0.0,450.0,0.0,0.0,0.0,0.0,450.0
 Lung Cancer Europe (LUCE),Bern,Effingerstrasse 40,hco,2017,0.0,0.0,0.0,0.0,442.96,0.0,442.96
 Ärzteverein Leimental,Binningen,"Spezialarzt FMH Endokrinologie, Diabetologie & klinische Ernährung - Hauptstrasse 35",hco,2017,0.0,400.0,0.0,0.0,0.0,0.0,400.0
 Arnold endocrinologie et neurologie SA,Sion,Rue de Lausanne 35,hco,2017,0.0,0.0,0.0,0.0,400.0,0.0,400.0
