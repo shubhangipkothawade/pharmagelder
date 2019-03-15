@@ -43,7 +43,7 @@ Christian Dudli,Herisau,CH,Erienbachstrasse 3,,,,,207.6,547.1,,,754.7,hcp,menari
 Jürg Ebner,Pfäffikon SZ,CH,Churerstrasse 54,,,,,207.6,547.1,,,754.7,hcp,menarini
 Bernd Eigenberger,Kreuzlingen,CH,Brückenstrasse 11,,,,,,,500.0,,500.0,hcp,menarini
 Nadja Engel,Wetzikon ZH,CH,Kirchgasse 4,,,,,137.2,788.4,,,925.6,hcp,menarini
-Patrick Eppenberger,Zürich,CH,Winterthurersstrasse 190,,,,,,,1800.0,,1800.0,hcp,menarini
+Patrick Eppenberger,Zürich,CH,Winterthurersstrasse 190,,,,,,,1000.0,,1000.0,hcp,menarini
 Toni Estlinbaum,Ebingen,CH,Nonnenmattstrasse 2,,,,,307.0,676.0,,,983.0,hcp,menarini
 Stéphane-André Eyholzer,Biel/Bienne,CH,Oberer Quai 8,,,,,207.6,547.1,,,754.7,hcp,menarini
 Marco Facchini,Muralto,CH,Via della Stazione 9,,,,,391.3,766.2,,,1157.5,hcp,menarini
@@ -52,7 +52,7 @@ Wolfgang Fehlmann,Kleindöttingen,CH,Hauptstrasse 20,,,,,207.6,547.1,,,754.7,hcp
 Thomas Felkel,Buchs SG,CH,Grünaustrasse 8,,,,,306.5,858.6,,,1165.0,hcp,menarini
 Esther Fichmann,Birmensdorf ZH,CH,Zürcherstrasse 9,,,,,130.7,157.2,,,287.9,hcp,menarini
 Pietro Foglia,Massagno,CH,Via Cabione 1a /via Madonna della Salute,,,,,391.3,762.2,,,1153.5,hcp,menarini
-Adrian Forster,Winterthur,CH,Brauerstrasse 15,,,,,,,1800.0,,1800.0,hcp,menarini
+Adrian Forster,Winterthur,CH,Brauerstrasse 15,,,,,,,1000.0,,1000.0,hcp,menarini
 Julia Tognola Fox,Küsnacht ZH,CH,Oberwachtstrasse 7,,,,,130.7,120.5,,,251.2,hcp,menarini
 Rudolf Frank,Bern,CH,Thunstrasse 2,,,,,311.7,1062.5,1500.0,,2874.2,hcp,menarini
 Benedikt Frei,Oberriet SG,CH,Ballengasse 9,,,,,330.6,550.8,,,881.4,hcp,menarini
@@ -64,7 +64,7 @@ Diana Patricia Frey-Strehler,Zürich,CH,Gloriastraasse 25,,,,,561.3,265.1,,,826.
 Christoph Bernhard Friedli,Aarau,CH,Ziegelrain 23,,,,,306.5,855.6,,,1162.1,hcp,menarini
 Urs Fritschi,Yverdon-Ies-Bains,CH,Rue d'Entremonts 13,,,,,380.3,677.5,,,1057.8,hcp,menarini
 Daniel Fritschy,Meyrin,CH,Avenue J.-D.-Maillard 3,,,,,146.0,310.0,2750.0,,3206.0,hcp,menarini
-Maria Francesco Galassi,Zürich,CH,Winterthurerstrasse 190,,,,,,,1800.0,,1800.0,hcp,menarini
+Maria Francesco Galassi,Zürich,CH,Winterthurerstrasse 190,,,,,,,1000.0,,1000.0,hcp,menarini
 Peter Gancs,Rapperswil SG,CH,Alte Jonasstrasse 24,,,,,307.0,971.1,,,1278.2,hcp,menarini
 Amelia Maria Valles Garcia,Utzenstorf,CH,Oberdorfstrasse 4,,,,,,,1200.0,,1200.0,hcp,menarini
 Carmina-lucia Georgescu,Zürich,CH,Winterthurerstrasse 60,,,,,130.7,157.2,,,287.9,hcp,menarini
@@ -133,7 +133,7 @@ Francesco Madonia,Cama,CH,,,,,,353.4,828.0,,,1181.4,hcp,menarini
 Thierry Maître,Saingnelégier,CH,Place du 23 Juin 2,,,,,127.2,103.3,,,230.5,hcp,menarini
 Christopher Marti,Novaggio,CH,,,,,,353.4,826.0,,,1179.4,hcp,menarini
 Philipp Martin,Allschwil,CH,Baslerstrasse 96,,,,,207.6,547.1,,,754.7,hcp,menarini
-Benedict Martina,Basel,CH,St. Alban-Anlage 50,,,,,,,1800.0,,1800.0,hcp,menarini
+Benedict Martina,Basel,CH,St. Alban-Anlage 50,,,,,,,1000.0,,1000.0,hcp,menarini
 Alessandro Marzan,Zürich,CH,Bleicherweg 47,,,,,306.4,858.6,,,1165.0,hcp,menarini
 Maschio Andrist Maria-Lucia  ,Elsau,CH,Obere Schärerstrasse 2a,,,,,130.7,157.2,,,287.9,hcp,menarini
 Gianfranco Mattarelli,Liestal,CH,Hammerstrasse 35,,,,,,592.6,,,592.6,hcp,menarini
@@ -250,7 +250,9 @@ Christoph Zeller,Wetzikon ZH,CH,Wesststrasse 70,,,,2500.0,,,,,2500.0,hcp,menarin
 Christiane Zenklusen,Neuchâtel,CH,Faubourg de l'Hôpital 65,,,,,353.4,652.1,,,1005.5,hcp,menarini
 ADEL Association D'Esculape En Lavaux,Lutry,CH,Grand-Rue 22,,,,4000.0,,,,,4000.0,hco,menarini
 ADR-AC GmbH Adverse Drug Reactions - Analysis & Consulting,Bern,CH,Holligenstrasse 91,,,,4000.0,,,,,4000.0,hco,menarini
-Advisis AG,Bern,CH,Effingeratrasse 55,,,,51800.0,,,,,51800.0,hco,menarini
+Advisis AG,Bern,CH,Effingeratrasse 55,,,,51000.0,,,,,51000.0,hco,menarini
+Aerztegesellschaft Zürcher Oberland,Uster,CH,Quellenstrasse 4,,,,7000,,,,,7000,hco,menarini
+Aerztekongress Arosa,Arosa,CH,,,,,2340,,,,,2340,hco,menarini
 Ärzteverein Hinterthurgau,Aadorf,CH,"c/o Sonja Tacconi, Untermoosstrasse 11",,,,2200.0,,,,,2200.0,hco,menarini
 APA. Ärzte mit Patientenapotheke,St. Gallen,CH,Kolumbanstrasse 2,,,,3400.0,,,,,3400.0,hco,menarini
 Appenzellische Ärztegesellschaft,Bühler,CH,Dorfstrasse 50,,,,2000.0,,,,,2000.0,hco,menarini
