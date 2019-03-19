@@ -5377,7 +5377,7 @@ Ensemble Hospitalier de la Côte,Morges,CH,Chemin du Crêt 2,,,,2000.0,,,,,2000.
 "ERS, European Respiratory Society",Lausanne,CH,"4, Ave Sainte-Luce",,,,289054.4,,,,,289054.4,hco,menarini
 Formation Groupe Delémont,Delémont,CH,"c/o R. Rion, Route de Rossemaison 48",,,,800.0,,,,,800.0,hco,menarini
 Forte Echo GmbH,Baar,CH,"c/o PRV Provides Treuhandgesellschalt AG, Dorfstrasse 38",,,,20000.0,,,,,20000.0,hco,menarini
-"GECOR, Fondation pour la recherche de la cardiologie universitaire deGenève, Hôpitaux Universitaires de Genève",Genève 14,CH,Rue Gabrielle-Perrel-Gentil 4,,,,3500.0,,,,,3500.0,hco,menarini
+"GECOR, Fondation pour la recherche de la cardiologie universitaire de Genève",Genève 14,CH,Rue Gabrielle-Perrel-Gentil 4,,,,3500.0,,,,,3500.0,hco,menarini
 "GREC, Groupe Romand dEchographie Clinique",Pully,CH,Avenue de Lavaux 63,,,,500.0,,,,,500.0,hco,menarini
 "GRIMM, Groupe d'intervention Médicale en Montagne",Sion,CH,26. Av. du Chanoine Berchtold,,,,3200.0,,,,,3200.0,hco,menarini
 Groupe du Nord Vaudois de la SVM,Yverdon-Ies-Bains,CH,Yverdon-Entremonts 11,,,,1500.0,,,,,1500.0,hco,menarini
@@ -5449,7 +5449,7 @@ Schweizerische Interessengemeinschaft für Urologiepflege,Nottwil,CH,Guido A. Z�
 Schweizerische Gesellschaft für Allgemeine Innere Medizin SGAIM,Bern,CH,Monbijoustrasse 43,,,94904.0,67984.0,,,,,162888.0,hco,menarini
 "Schweizerische Gesellschalt für Rheumatologie, SGR ",Zürich,CH,Josefetr. 92,,,,11040.0,,,,,11040.0,hco,menarini
 "Schweizerische Gesellschalt für Ultraschall in der Medizin, SGUM ",Zürich,CH,Postfach 1816,,,,1920.0,,,,,1920.0,hco,menarini
-"Société Neuchàteloise de Médecine, SNM ",La Chaux-de-Fonds,CH,Rue de Chasseral 20,,,,3000.0,,,,,3000.0,hco,menarini
+"Société Neuchàteloise de Médecine, SNM",La Chaux-de-Fonds,CH,Rue de Chasseral 20,,,,3000.0,,,,,3000.0,hco,menarini
 Société Médicale du Canton du Jura,Delémont,CH,Rue de TAvenir 12,,,,1600.0,,,,,1600.0,hco,menarini
 Société Suisse de Sexologie,Lausanne,CH,3 rue Caroline,,,,2000.0,,,,,2000.0,hco,menarini
 Société Vaudoise de médecine,Lausanne,CH,Ch. de Momex 38,,,,6000.0,,,,,6000.0,hco,menarini
@@ -7533,10 +7533,7 @@ AMACTI,Lugano,CH,"c/o Cardiocentro Ticino, Via Tesserete 48",6900,,,3500.0,,,,,3
 BBS Congress GmbH,Bern,CH,Rabbentalstrasse 83,3013,,,5796.0,,,,,5796.0,hco,orion,
 Cardiocentro Lugano,Lugano,CH,Via Tesserete 48,6900,,,3000.0,,,,,3000.0,hco,orion,
 CHUV,Lausanne,CH,Rue du Bugnon 46,1011,,,5500.0,2258.91,3401.12,1200.0,,12360.03,hco,orion,
-"Gemeinsame Jahrestagung Schweizerische Gesellschaft für Kardiologie 
-(SGK), Schweizerische Gesellschaft für Herz- und thorakale 
-Gefässchirurgie (SGHC), Schweizerische Gesellschaft für Pneumologie 
-(SGP)",Basel,CH,Peter Merian-Strasse 80,4002,,,26600.0,,,,,26600.0,hco,orion,
+"Gemeinsame Jahrestagung Schweizerische Gesellschaft für Kardiologie (SGK), Schweizerische Gesellschaft für Herz- und thorakale Gefässchirurgie (SGHC), Schweizerische Gesellschaft für Pneumologie (SGP)",Basel,CH,Peter Merian-Strasse 80,4002,,,26600.0,,,,,26600.0,hco,orion,
 Hôpital de Fribourg,Fribourg,CH,Chemin des Pensionnats 2-6,1708,,,1200.0,,,,,1200.0,hco,orion,
 Hôpital de la Tour Meyrin,Meyrin,CH,Avenue J.-D. Maillard 3,1217,,,650.0,,,,,650.0,hco,orion,
 Hôpital du Valais,Sion,CH,Av. Du Grand-Champsec 80,1951,,,2300.0,,,,,2300.0,hco,orion,
@@ -10621,7 +10618,7 @@ SGSSC,Basel,CH,Wilhelm Klein-Strasse 27,,,,4000.0,,,,,4000.0,hco,ucb,
 Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,,3500.0,,,540.0,,4040.0,hco,ucb,
 Stiftung Forschung Gastno/Hep.,Zürich,CH,Rämistrasse 100,,,,4000.0,,,,,4000.0,hco,ucb,
 Stiftung für Pankinsonfonschu ng,Zürich,CH,Mühlebachstrasse 54,,,,6000.0,,,,,6000.0,hco,ucb,
-Stnongbones GmbH,Büron,CH,Galgerain 23,,,,,,,6175.0,,6175.0,hco,ucb,
+Strongbones GmbH,Büron,CH,Galgerain 23,,,,,,,6175.0,,6175.0,hco,ucb,
 SVA Sektion Graubünden,Chur,CH,Ringstrasse 180,,,,1000.0,,,,,1000.0,hco,ucb,
 Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,,5400.0,,,,,5400.0,hco,ucb,
 Universitätsspit al Basel,Basel,CH,Spitalstrasse 21,,,,14559.3,,,,,14559.3,hco,ucb,
