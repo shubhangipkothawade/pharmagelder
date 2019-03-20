@@ -47,7 +47,7 @@ Fulvio Bomio,Massagno,CH,Studio medico. Via Cabione la /via Madonna della Salute
 Lutz Bönig,Frauenfeld,CH,"Neurologie am Rosenberg, Thundorferstrass e 120",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Adriano Bont,Winterthur,CH,"Neurowinterthur, Brunngasse 6",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Jeannine Both-Skalsky,Stäfa,CH,"Praxis Deannine Both-Skalsky, Bahnhofstrasse 22",,,0,0,1160.00,400.00,0,0,1560.00,hcp,novartis
-Andrea Bräutigam,Olten,CH,"Pallas Klinik Ophthalmologisch e Klinik, Louis Giroud-Strasse 20",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Andrea Bräutigam,Olten,CH,"Pallas Klinik Ophthalmologische Klinik, Louis Giroud-Strasse 20",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Pierluigi Brazzola,Bellinzona,CH,"Ospedale Regionale di Bellinzona e Valli Kinderklinik, Via Ospedale",,,0,0,0,0,250.00,0,250.00,hcp,novartis
 Alexander Breitenstein,Zürich,CH,"Universitätsspital Zürich Medizin Kardiologie, Rämistrasse 100",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
 Patrick Brun,Heiligenschwendi,CH,"Berner Reha Zentrum Medizin Pneumologie, Schwendi 299",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
@@ -69,8 +69,8 @@ Claude-Andr£ Chätelat,Bern,CH,"Kardiologische Praxis Kirchenfeld, Thunstrasse 
 Stephane Chevallier,Yverdon-les-Bain ,CH,"Cabinet Stephane Chevallier, Avenue Haldimand 57",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Cécile Choudja Ouabo,Fribourg,CH,"HFR Fribourg - Hôpital cantonal Kinderklinik, Chemin des Pensionnats 2-6",,,0,0,0,0,2000.00,0,2000.00,hcp,novartis
 Jacek Cichon,Bern,CH,"Praxis Dacek Cichon, Bubenbergplatz 10",,,0,0,610.00,686.00,0,0,1296.00,hcp,novartis
-Adrian Ciurea,Zürich,CH,"Universitätsspit al Zürich Rheumatologische Klinik, Gloriastrasse 25",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
-Christian Clarenbach,Zürich,CH,"Universitätsspit al Zürich Medizin Pneumologie, Rämistrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
+Adrian Ciurea,Zürich,CH,"Universitätsspital Zürich Rheumatologische Klinik, Gloriastrasse 25",,,0,0,0,0,1500.00,0,1500.00,hcp,novartis
+Christian Clarenbach,Zürich,CH,"Universitätsspital Zürich Medizin Pneumologie, Rämistrasse 100",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Sergio Compagnoni,Silvaplana,CH,"Xundheitszentrum Silvaplana, Via Munterots 8",,,0,0,167.00,391.00,0,0,558.00,hcp,novartis
 Curdin Conrad,Pully,CH,Caudoz 48,,,0,0,0,0,7125.00,183.00,7308.00,hcp,novartis
 Marzia Conti Beltraminelli ,Pregassona,CH,"Praxis Marzia Conti Beltraminelli, Via alle Vigne 7",,,0,0,0,0,800.00,0,800.00,hcp,novartis
@@ -215,7 +215,7 @@ Martin Kistler,Leissigen,CH,"Praxis Martin Kistler, Dorfstrasse 20",,,0,0,0,0,60
 Dominik Klamp,Zürich,CH,"Medbase Zürich-Oerlikon, Baumackerstrasse 46",,,0,0,0,0,1200.00,0,1200.00,hcp,novartis
 Uta Kliesch,Schwyz,CH,"Neurologische Praxis Schwyz, Maria-Hilf-Strasse 9",,,0,0,0,0,700.00,0,700.00,hcp,novartis
 Michael Knauer,St. Gallen,CH,"Kantonsspital St. Gallen Brustzentrum/Chirurgie, Rorschacher Strasse 95",,,0,0,0,4238.80,0,0,4238.80,hcp,novartis
-Ludger Kneuper,Richterswil,CH,"Paracelsus-Spita 1 Richterswil AG Medizin Onkologie, Bergstrasse 16",,,0,0,0,0,850.00,0,850.00,hcp,novartis
+Ludger Kneuper,Richterswil,CH,"Paracelsus-Spital Richterswil AG Medizin Onkologie, Bergstrasse 16",,,0,0,0,0,850.00,0,850.00,hcp,novartis
 Christoph Kniestedt,Zürich,CH,"Talacker Augen-Zentrum, Pelikanstrasse 18",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
 Oskar Robert Köchli,Zürich,CH,"Frauengesundheit szentrum, Rämistrasse 35",,,0,0,0,0,1175.00,0,1175.00,hcp,novartis
 Mathias Koepke,Luzern,CH,"Gruppenpraxis, Löwengraben 14",,,0,0,0,0,1000.00,0,1000.00,hcp,novartis
@@ -281,7 +281,7 @@ Roland Moser,Zürich,CH,"Sanacare Gruppenpraxis Zürich-Wiedikon, Weststrasse 75
 Sarareh Moshir,Aarau,CH,"Kantonsspital Aarau AG Labor Zentral/Chemie, Tellstrasse 25",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Antonia Maria Müller,Zürich,CH,"Universitätsspital Zürich Medizin Hämatologie, Rämistrasse 100",,,0,0,0,0,750.00,0,750.00,hcp,novartis
 Pascal Müller,Laupen BE,CH,"Praxis Pascal Müller, Bösingenstrasse 16",,,0,0,0,0,1200.00,0,1200.00,hcp,novartis
-Rouven Müller,Zürich,CH,"Universitätsspit al Zürich Medizin Hämatologie, Räristrasse 100",,,0,0,0,0,800.00,0,800.00,hcp,novartis
+Rouven Müller,Zürich,CH,"Universitätsspital Zürich Medizin Hämatologie, Räristrasse 100",,,0,0,0,0,800.00,0,800.00,hcp,novartis
 Stefanie Müller,St. Gallen,CH,"Kantonsspital St. Gallen Medizin Neurologie, Rorschacher Strasse 95",,,0,0,0,0,500.00,0,500.00,hcp,novartis
 Michael Müntener,Zürich,CH,"Stadtspital Triemli Urologische Klinik, Birmensdorferstr asse 497",,,0,0,0,0,500.00,0,500.00,hcp,novartis
 Claudia Muntwiler,Rehetobel,CH,"Praxis Claudia Muntwiler, St. Gallerstrasse 11",,,0,0,1027.00,691.00,0,0,1718.00,hcp,novartis
