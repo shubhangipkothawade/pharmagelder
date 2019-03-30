@@ -48,7 +48,7 @@ hco_amount,,648759.19,90.0,345.46,14430.0,,663624.65,bayer
 hco_count,,48.0,1.0,2.0,11.0,,62.0,bayer
 hcp_amount,,20000.0,138027.85,437320.84,225450.62,44229.31,865028.62,bayer
 hcp_count,,1.0,362.0,504.0,157.0,26.0,1050.0,bayer
-rnd,,,,,,4641127.69,4641127.69,bayer
+rnd,,,,,,,4641127.69,bayer
 hcp_amount,,,,,2500.0,,2500.0,bgp
 hco_amount,,20000.0,,,4000.0,,24000.0,bgp
 hcp_count,,,,,2.0,2.0,4.0,bgp
@@ -148,7 +148,7 @@ hcp_amount,,,,,,,,lundbeck
 hcp_count,,,,,,,,lundbeck
 hco_amount,,,,,,,,lundbeck
 hco_count,,,,,,,,lundbeck
-rnd,1291864.0,,,,,,33390.25,lundbeck
+rnd,,,,,,,33390.25,lundbeck
 hcp_amount,,2024.0,3171.7,5884.44,3500.0,,14580.14,meda
 hco_amount,,158247.0,1217.35,2947.4,,,162411.75,meda
 hcp_count,,,7.0,8.0,2.0,11.0,28.0,meda
@@ -219,7 +219,7 @@ hco_amount,350477.0,646.0,761.0,30758.0,453.0,,478197.0,pfizer
 hcp_count,0.0,4.0,10.0,26.0,18.0,,31.0,pfizer
 hco_count,14.0,2.0,1.0,6.0,1.0,25.0,,pfizer
 rnd,,,,,,,2506402.0,pfizer
-hcp_amount,,,389.23,1710.07,6111.55,,8611.78,pierre
+hcp_amount,,,389.23,1710.07,6111.55,400.93,8611.78,pierre
 hco_amount,,14679.11,,,,,14679.11,pierre
 hcp_count,,,1.0,2.0,2.0,3.0,,pierre
 hco_count,,1.0,,,,1.0,,pierre
