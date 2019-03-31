@@ -2,6 +2,8 @@
 # # Match Address - Run twice! Multithreading
 # The magic! Here we match addresses. You can run this file on an external server - it will take some times.  
 # **You have to run this twice, for hcp and hco's! Change the variable `run_for`**
+# 
+# **Info next time: Try to set condition_address to 0 on HCO. To many not found pairs**
 
 #%%
 import pandas as pd
@@ -31,7 +33,7 @@ conditions = {
     'hco' :
         {
             'condition_location': 85,
-            'condition_address': 75,
+            'condition_address': 0,
             'condition_name': 85
         },
     }
