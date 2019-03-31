@@ -280,8 +280,8 @@ VFP,Bern,CH,Laupenstrasse 7,,,500.0,,,,,,500.0,hco,actelion,2016,1193,1.0
 1 SNG-SSN Schweizerische Neurolog sche Gesellschaft,Basel,CH,Münsterberg 1,,,16200.0,0.0,0.0,0.0,0.0,0.0,16200.0,hco,pfizer,2015,96,
 1. Schweizer Fachtag neuro.psycho.geriatrie,Hünibach,CH,c/o marketing connection - Parkweg 9,,,0.0,3240.0,0.0,0.0,0.0,0.0,3240.0,hco,zambon,2017,778,1.0
 19. Journées Franco-Suisse,Lausanne,CH,C/O PHARMACIE DU CHUV Rue du Bugnon 46,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,sandoz,2015,1194,1.0
-20. Ostschweizer Symposium für praktische Gynäkologie und Geburtshilfe,Bern,CH,c/o KMS KongressManagementSwiss- Postfach,2756,,0.0,4190.0,0.0,0.0,0.0,0.0,4190.0,hco,zambon,2017,81,
-"20. Ostschweizer Symposium für praktischeGynäkologie und Geburtshilfe, KMS KongressManagementSwiss",Bern,CH,Postfach,2756,,,2995.0,,,,,2995.0,hco,teva,2017,81,
+20. Ostschweizer Symposium für praktische Gynäkologie und Geburtshilfe,Bern,CH,c/o KMS KongressManagementSwiss- Postfach,2756,,0.0,4190.0,0.0,0.0,0.0,0.0,4190.0,hco,zambon,2017,10020,1.0
+"20. Ostschweizer Symposium für praktischeGynäkologie und Geburtshilfe, KMS KongressManagementSwiss",Bern,CH,Postfach,2756,,,2995.0,,,,,2995.0,hco,teva,2017,10020,
 360 GmbH,Zollikon,CH,Alte Landstrasse 112,,,,3000.0,,,,,3000.0,hco,ferring,2016,1195,1.0
 360° Kinderwunsch Zentrum Zürich,Zollikon,CH,Alte Landstrasse 112,,,0.0,800.0,0.0,0.0,0.0,0.0,800.0,hco,bayer,2015,350,
 360° Kinderwunsch Zentrum Zürich,Zollikon,CH,Alte Landstrasse 112,,,,1000.0,,,,,1000.0,hco,merck,2016,350,1.0
@@ -890,7 +890,7 @@ Bahnhof-Apotheke Wetzikon AG,Wetzikon,CH,Bahnofstr. 16,8620,,,,,,214.28,,214.28,
 Banff Foundation,Meggen,CH,Luzernerstrasse 36,,,58878.05,,,,,,58878.05,hco,shire,2017,1302,1.0
 Barmelweid Klinik,Barmelweid,CH,Kardiologie/Mediczin,,,,,,,1080.0,,1080.0,hco,sanofi,2016,193,
 Basel University Hospital,Basel,CH,Spitalstrasse 21,,,,,,,2000.0,,2000.0,hco,celgene,2017,6,
-Basel Universitätsspital,Basel,CH,Petersgraben 4,,,25000.0,3351.85,,,2050.0,,30401.85,hco,shire,2017,6,1.0
+Basel Universitätsspital,Basel,CH,Petersgraben 4,,,25000.0,3351.85,,,2050.0,,30401.85,hco,shire,2017,6,
 BBS Congress GmbH,Bern,CH,Rabbentalstrasse 83,,,,6480.0,,,,,6480.0,hco,lundbeck,2016,227,
 BBS Congress GmbH,Bern,CH,Rabbentalstrasse 83,,,,2550.0,,,,,2550.0,hco,pierre,2016,227,
 BBS Congress GmbH,Bern,CH,Postfach 604,,,0.0,26121.95,0.0,0.0,0.0,0.0,26121.95,hco,glaxosmithkline,2015,227,
@@ -922,23 +922,23 @@ beodocs Ärzte-Netzwerk Berner Oberland,Wilderswil,CH,Lehngasse 47,,,0.0,2500.0,
 beodocs Ärzte-Netzwerk Berner Oberland,Interlaken,CH,Rugenparkstrasse 7,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,mepha,2015,228,
 Beodocs Ärztenetzwerk Berner Oberland,Interlaken,CH,Kammistrasse 5,,,,6000.0,,,,,6000.0,hco,zambon,2016,310,
 Beratungssektion der SDG,Baden,CH,Rütistrasse 3A,,,,800.0,,,,,800.0,hco,novo,2017,1308,1.0
-Berner Augenklinik am Lindenhofspital,Bern,CH,Bremgartenstrasse 119,3012,,,4000.0,,,,,4000.0,hco,allergan,2017,99,
-Berner Augenklinik am Lindenhofspital,Bern,CH,Bremgartenstrasse 119,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer,2015,99,
-Berner Augenklinik am Lindenhofspital,Bern,CH,Bremgartenstrasse 119,3012,,,2400.0,,,,,2400.0,hco,allergan,2016,99,
-Berner Augenklinik am Lindenhofspital,Bern,CH,Bremgartenstrasse 119,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer,2016,99,
-Berner Augenklinik am Lindenhofspital AG,Bern,CH,Bremgartenstrasse 119,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,novartis,2017,99,
+Berner Augenklinik am Lindenhofspital,Bern,CH,Bremgartenstrasse 119,3012,,,4000.0,,,,,4000.0,hco,allergan,2017,10021,1.0
+Berner Augenklinik am Lindenhofspital,Bern,CH,Bremgartenstrasse 119,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer,2015,10021,
+Berner Augenklinik am Lindenhofspital,Bern,CH,Bremgartenstrasse 119,3012,,,2400.0,,,,,2400.0,hco,allergan,2016,10021,
+Berner Augenklinik am Lindenhofspital,Bern,CH,Bremgartenstrasse 119,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer,2016,10021,
+Berner Augenklinik am Lindenhofspital AG,Bern,CH,Bremgartenstrasse 119,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,novartis,2017,10021,
 Berner Diabetes Gesellschaft,Zürich,CH,P.O. box,8010,,,,,,1000.0,,1000.0,hco,sanofi,2017,1309,1.0
 Berner Fachhochschule,Bern,CH,Murtenstrasse 10,,,,1080.0,,,,,1080.0,hco,vifor,2016,812,1.0
 Berner Fachhochschule Fachbereich Gesundheit,Bern,CH,Murtenstrasse 10,,,,2000.0,,,,,2000.0,hco,mepha,2016,812,
 Berner IBD Study Group,Bern,CH,Gastroenterologie Spital Tiefenau,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,ferring,2015,1310,1.0
-Berner Institut für Hausarztmedizin,Bern,CH,Gesellschaftsstrasse 49,,,,7020.0,,,,,7020.0,hco,pfizer,2016,114,
-Berner Institut für Hausarztmedizin,Bern,CH,Gesellschaftsstrasse 49,,,0.0,5346.0,0.0,0.0,0.0,0.0,5346.0,hco,pfizer,2017,114,1.0
-Berner Institut für Hausarztmedizin & Verein Berner Haus- und Kinderärzte,Bern,CH,Gesellschaftsstrasse 49,,,6500.0,0.0,0.0,0.0,0.0,0.0,6500.0,hco,mundipharma,2016,114,
-Berner Institut für Hausarztmedizin (BIHAM),Bern,CH,Gesellschaftsstrasse 49,,,0.0,4950.0,0.0,0.0,0.0,0.0,4950.0,hco,astrazeneca,2017,114,
-Berner Institut für Hausarztmedizin BIHAM,Bern,CH,Gesellschaftsstrasse 49,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,menarini,2015,114,
-Berner Institut für Hausarztmedizin BIHAM,Bern,CH,Gesellschaftsstrasse 49,,,0.0,1250.0,0.0,0.0,0.0,0.0,1250.0,hco,eli,2015,114,
-Berner Institut für Hausarztmedizin BIHAM & Verein Berner Haus- und Kinderärzte,Bern,CH,Gesellschaftsstrasse 49,,,4950.0,,,,,,4950.0,hco,mundipharma,2017,114,
-"Berner Institut für Hausarztmedizin BIHAM, Universität Bern",Bern,CH,Gesellschaftsstrasse 49,,,,475.0,,,,,475.0,hco,vifor,2016,114,
+Berner Institut für Hausarztmedizin,Bern,CH,Gesellschaftsstrasse 49,,,,7020.0,,,,,7020.0,hco,pfizer,2016,188,
+Berner Institut für Hausarztmedizin,Bern,CH,Gesellschaftsstrasse 49,,,0.0,5346.0,0.0,0.0,0.0,0.0,5346.0,hco,pfizer,2017,188,1.0
+Berner Institut für Hausarztmedizin & Verein Berner Haus- und Kinderärzte,Bern,CH,Gesellschaftsstrasse 49,,,6500.0,0.0,0.0,0.0,0.0,0.0,6500.0,hco,mundipharma,2016,188,
+Berner Institut für Hausarztmedizin (BIHAM),Bern,CH,Gesellschaftsstrasse 49,,,0.0,4950.0,0.0,0.0,0.0,0.0,4950.0,hco,astrazeneca,2017,188,
+Berner Institut für Hausarztmedizin BIHAM,Bern,CH,Gesellschaftsstrasse 49,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,menarini,2015,188,
+Berner Institut für Hausarztmedizin BIHAM,Bern,CH,Gesellschaftsstrasse 49,,,0.0,1250.0,0.0,0.0,0.0,0.0,1250.0,hco,eli,2015,188,
+Berner Institut für Hausarztmedizin BIHAM & Verein Berner Haus- und Kinderärzte,Bern,CH,Gesellschaftsstrasse 49,,,4950.0,,,,,,4950.0,hco,mundipharma,2017,188,
+"Berner Institut für Hausarztmedizin BIHAM, Universität Bern",Bern,CH,Gesellschaftsstrasse 49,,,,475.0,,,,,475.0,hco,vifor,2016,188,
 Berner Reha Zentrum AG,HEILIGENSCHWENDI,CH,Schwendi 299,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,glaxosmithkline,2016,601,1.0
 Berner Reha Zentrum AG,Heiligenschwendi,CH,Schwendi 299,,,0.0,1200.0,0.0,0.0,1200.0,0.0,2400.0,hco,glaxosmithkline,2015,601,
 Berner Reha Zentrum AG,Heiligenschwendi,CH,Schwendi 299,,,0.0,600.0,0.0,0.0,0.0,0.0,600.0,hco,gruenenthal,2016,601,
@@ -988,9 +988,9 @@ Beupdated - Helbling Consulting and Research AG,Kilchberg,CH,Alte Landstrasse 55
 Beupdated-Helbling Consulting and Research AG,Kilchberg,CH,Alte Landstrasse55,,,,10000.0,,,,,10000.0,hco,merck,2016,602,1.0
 "BGP Products GmbH, Mylan EPD",Baar,CH,Neuhofstrasse 23,,,,1500.0,,,,,1500.0,hco,pierre,2016,813,1.0
 "BGP Products GmbH, Mylan EPD",Baar,CH,Neuhofstrasse 23,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,pierre,2015,813,
-BIHAM & VBKH - Berner Institut für Hausarztmedizin & Verein Berner Haus-und Kinderärzlinnen,Bern,CH,Universität Bern - Gesellschaftsstrasse 49 & Effingerstrasse 2,3012,BIHAMBern & VBKHBern,,4950.0,,,,,4950.0,hco,servier,2017,114,
-BIHAM Berner Institut für Hausarztmedizin,Bern,CH,Gesellschaftsstrasse 49,,,,3250.0,,,,,3250.0,hco,menarini,2016,114,
-"BIHAM, Berner Institut für Hausarztmedizin",Bern,CH,Geselbchaftsstrasse 49,,,,2475.0,,,,,2475.0,hco,menarini,2017,114,
+BIHAM & VBKH - Berner Institut für Hausarztmedizin & Verein Berner Haus-und Kinderärzlinnen,Bern,CH,Universität Bern - Gesellschaftsstrasse 49 & Effingerstrasse 2,3012,BIHAMBern & VBKHBern,,4950.0,,,,,4950.0,hco,servier,2017,188,
+BIHAM Berner Institut für Hausarztmedizin,Bern,CH,Gesellschaftsstrasse 49,,,,3250.0,,,,,3250.0,hco,menarini,2016,188,
+"BIHAM, Berner Institut für Hausarztmedizin",Bern,CH,Geselbchaftsstrasse 49,,,,2475.0,,,,,2475.0,hco,menarini,2017,188,
 Bildungsreihe Wie wollen wir alt werden?,Basel,CH,Dr. Edda Jaleel,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,mepha,2015,1312,1.0
 Bio Zentrum,Basel,CH,Klingelbergstrasse 50/70,,,,6000.0,,,,,6000.0,hco,bgp,2017,1313,1.0
 BioAlps Association,Plan-les Ouates,CH,Chemin du Pré-Fleuri 3,,,,300.0,,,,,300.0,hco,csl,2017,1314,1.0
@@ -1850,7 +1850,7 @@ Collège de Médecine de Premier Recours (CMPR),Fribourg,CH,Rue de l’Hôpital 
 Collège Médecine Premier Recours,Fribourg,CH,Rue de l'Hôpital 15,,,0.0,1685.0,0.0,0.0,0.0,0.0,1685.0,hco,pfizer,2015,44,
 Collège Médecine Premier Recours,Fribourg,CH,Rue de l'Hôpital 15,,,0.0,11140.0,0.0,0.0,0.0,0.0,11140.0,hco,almirall,2015,44,
 Collège Médecine Premier Recours,Fribourg,CH,Rue de l'Hôpital 15,,,,8100.0,,,,,8100.0,hco,pfizer,2016,44,
-Collège Médecine Premier Recours,Fribourg,CH,Rue de l'Hôpital 15,,,0.0,13932.0,0.0,0.0,0.0,0.0,13932.0,hco,pfizer,2017,44,1.0
+Collège Médecine Premier Recours,Fribourg,CH,Rue de l'Hôpital 15,,,0.0,13932.0,0.0,0.0,0.0,0.0,13932.0,hco,pfizer,2017,44,
 Comptabilité Médecine Université de Genève,Genève,CH,Rue Michel-Servet 1,,,,,,,2000.0,,2000.0,hco,servier,2016,146,
 Comunita Familiare Antenna Icaro,Murallo,CH,Via Sara Morley 6,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,1432,1.0
 "Conférence des médecins pénitent. suisse, Konferenz Schweizer Gefängnisärzte",Prilly,CH,Site de Cery,,,,1000.0,,,,,1000.0,hco,abbvie,2017,1433,1.0
@@ -2137,12 +2137,12 @@ EFORT European Federaöon ot National Associations ol Orthopaedics andTraumatolo
 EFORT Head Office,Rolle,CH,ZA La Pièce 2,,,,21492.0,,,,,21492.0,hco,eli,2016,617,
 Eiszellen GmbH,Bern,CH,Lombachweg 40,,,,500.0,,,,,500.0,hco,abbvie,2017,862,1.0
 Eiszellen GmbH,Bern,CH,Lombachweg 40,,,,2000.0,,,,,2000.0,hco,ferring,2017,862,
-Eleonorenstiftung,Zürich,CH,Steinwiesstrasse 75,,,0.0,1361.0,0.0,0.0,800.0,0.0,2161.0,hco,pfizer,2017,23,1.0
+Eleonorenstiftung,Zürich,CH,Steinwiesstrasse 75,,,0.0,1361.0,0.0,0.0,800.0,0.0,2161.0,hco,pfizer,2017,23,
 Emir Hrnjicevic,Baden,CH,Haselstrasse 1,,,,,,636.0,,,636.0,hco,lundbeck,2017,1472,1.0
 EndoDia Sàrl,Biel/Bienne,CH,Bahnhofstrasse 7,,,,,,,400.0,,400.0,hco,novo,2017,1473,1.0
-Endokrinologie Diabetologie Bern,Bern,CH,Seilerstrasse 8a,3011,,,8000.0,,,,,8000.0,hco,sanofi,2017,2,
-Endokrinologie und Diabetologie,Bern,CH,Freiburgstrasse 18,,,15000.0,0.0,0.0,0.0,0.0,0.0,15000.0,hco,pfizer,2015,2,
-Endokrinologie und Diabetologie Bern,Bern,CH,Seilerstrasse 8,,,12000.0,,,,,,12000.0,hco,novo,2016,2,
+Endokrinologie Diabetologie Bern,Bern,CH,Seilerstrasse 8a,3011,,,8000.0,,,,,8000.0,hco,sanofi,2017,10012,1.0
+Endokrinologie und Diabetologie,Bern,CH,Freiburgstrasse 18,,,15000.0,0.0,0.0,0.0,0.0,0.0,15000.0,hco,pfizer,2015,10012,
+Endokrinologie und Diabetologie Bern,Bern,CH,Seilerstrasse 8,,,12000.0,,,,,,12000.0,hco,novo,2016,10012,
 "EndoSwiss, Stefan Seewald, GastroZentrum Hirslanden",Zürich,CH,Witellikerstrasse 40,8008,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,norgine,2017,19,
 Energy Events (Vereinigung Züricher Internisten),Rotkeuz,CH,Lindenmatt,,,,3800.0,,,,,3800.0,hco,zambon,2016,172,
 Energy of Events,Rotkreuz,CH,Lindenmatt 34,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,pierre,2015,172,
@@ -2665,7 +2665,7 @@ Fondation GECOR,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,2000.0,0.0,0.0,0.
 Fondation Gecor,Genève,CH,Rue Micheli-du-Crest 24,,,,9250.0,,,1400.0,,10650.0,hco,pfizer,2016,48,
 Fondation GECOR,Genève,CH,Rue Micheli-du-Crest 24,,,,1000.0,,,,,1000.0,hco,daiichi,2016,48,
 Fondation GECOR,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,0.0,3000.0,0.0,0.0,1400.0,0.0,4400.0,hco,pfizer,2015,48,
-Fondation Gecor,Genève,CH,Rue Micheli-du-Crest 24,,,0.0,9500.0,0.0,0.0,2600.0,0.0,12100.0,hco,pfizer,2017,48,1.0
+Fondation GECOR,Genève,CH,Rue Micheli-du-Crest 24,,,0.0,9500.0,0.0,0.0,2600.0,0.0,12100.0,hco,pfizer,2017,48,1.0
 "Fondation GECOR, Fondation pour la recherche de la cardiologie universitaire de Genève",Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,3000.0,,,1800.0,,4800.0,hco,vifor,2017,48,
 Fondation Gentiana pour la Conaissance des Plantes Médicinales,Ravoire,CH,Chalet Gentianella,,,,6000.0,,,,,6000.0,hco,vifor,2017,1534,1.0
 Fondation Nutrition 2000plus,Vevey,CH,Route De Saint-légier 11,,,,5353.0,,,1220.5,312.0,6885.5,hco,shire,2017,878,1.0
@@ -2954,13 +2954,13 @@ GAAA Gesellschaft Aargauischer Anästhesieärztinnen und Ärzte,Mühlethal,CH,c/
 GAFFI,Genève,CH,Rue De L'ancien-port 14,,,0.0,15828.96,0.0,0.0,0.0,0.0,15828.96,hco,gilead,2015,1576,1.0
 Gardes Pédiatriques,Ecublens,CH,c/o Dr. François Clément,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,zambon,2015,1577,1.0
 Gastro Praxis Chur  Zala Gianfranco /  Werth Baseli,Chur,CH,Quaderstrasse 2,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,abbvie,2015,1578,1.0
-"Gastroenter. Praxis Balsiger, Seibold & Partner und Crohn-Colitis-Zentrum",Bern,CH,Bremgartenstrasse 119,,,0.0,1400.0,0.0,0.0,0.0,0.0,1400.0,hco,abbvie,2015,99,
-"Gastroenterolog.Praxis Balsiger, Seibold & Partner/Crohn-Colitis Zentrum",Bern,CH,Bremgartenstrasse 119,,,1800.0,16900.0,,,,,18700.0,hco,abbvie,2016,99,
+"Gastroenter. Praxis Balsiger, Seibold & Partner und Crohn-Colitis-Zentrum",Bern,CH,Bremgartenstrasse 119,,,0.0,1400.0,0.0,0.0,0.0,0.0,1400.0,hco,abbvie,2015,10022,
+"Gastroenterolog.Praxis Balsiger, Seibold & Partner/Crohn-Colitis Zentrum",Bern,CH,Bremgartenstrasse 119,,,1800.0,16900.0,,,,,18700.0,hco,abbvie,2016,10022,1.0
 Gastroenterologie,Basel,CH,30,,,0.0,0.0,321.6,372.12,0.0,0.0,693.72,hco,takeda,2015,63,
 Gastroenterologie Oberaargau,Langenthal,CH,Seilereistrasse 1,,,,1000.0,,,,,1000.0,hco,vifor,2016,1579,1.0
 "Gastroenterologie St. Anna Endoskopienzentrum, Klinik St. Anna",Luzern,CH,St. Anna-Strasse 32,,,,2000.0,,,,,2000.0,hco,vifor,2016,69,
 "Gastroenterologie St. Anna, Endoskopiezentrum",Luzern,CH,St. Anna-Strasse 32,,,,2000.0,,,,,2000.0,hco,vifor,2017,69,
-"Gastroenterologische Praxis Balsiger, Crohn-Colitis-Zentrum",Bern,CH,Bremgartenstrasse 119,,,,1534.0,,,,,1534.0,hco,vifor,2016,99,
+"Gastroenterologische Praxis Balsiger, Crohn-Colitis-Zentrum",Bern,CH,Bremgartenstrasse 119,,,,1534.0,,,,,1534.0,hco,vifor,2016,10022,
 Gastrointestin Ales Tumorzentrum,Zürich,CH,Seestrasse 259,,,,,,101.25,630.0,,731.25,hco,amgen,2016,520,
 Gastrointestinales Tumorzentrum,Zürich,CH,Seestrasse 259,,,3000.0,17000.0,,87.75,546.0,,20633.75,hco,amgen,2017,520,1.0
 Gastrointestinales Tumorzentrum,Zürich,CH,Seestrasse 259,,,0.0,11800.0,0.0,0.0,0.0,0.0,11800.0,hco,amgen,2015,520,
@@ -3019,9 +3019,9 @@ Ges. für Neurologie und Neurochirurgie Regio Basilensis c/o   Matthias Stallmac
 Ges. phys./Rehab./Rheumatol.,Kreuzlingen,CH,"Hauptstrasse 38/40, Kreuzlingen",,,0.0,900.0,0.0,0.0,0.0,0.0,900.0,hco,janssen,2015,894,
 Ges. phys./Rehab./Rheumatol.,Kreuzlingen,CH,Hauptstrasse 38/40,,,0.0,900.0,0.0,0.0,0.0,0.0,900.0,hco,janssen,2016,894,1.0
 Geschäftsstelle beodocs,Interlaken,CH,Rugenparkstrasse 7,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,bayer,2015,228,
-Geschäftsstelle Kollegium für Hausarztmedizin,Steinhausen,CH,Sennweidstrasse 46,,,,16200.0,,,,,16200.0,hco,lundbeck,2017,230,
+Geschäftsstelle Kollegium für Hausarztmedizin,Steinhausen,CH,Sennweidstrasse 46,,,,16200.0,,,,,16200.0,hco,lundbeck,2017,230,1.0
 Geschäftsstelle Kollegium für Hausarztmedizin,Steinhausen,CH,Sennweidstrasse 46,,,,37368.0,,,,,37368.0,hco,lundbeck,2016,230,
-Geschäftsstelle SNG-SSN,Basel,CH,Münsterberg 1,,,,24040.0,,,,,24040.0,hco,teva,2017,96,1.0
+Geschäftsstelle SNG-SSN,Basel,CH,Münsterberg 1,,,,24040.0,,,,,24040.0,hco,teva,2017,96,
 Geseilschaftsverein Schweizerischer Amts- und Spitalapotheker,Bern,CH,No Street address available,,,0.0,3600.0,0.0,0.0,0.0,0.0,3600.0,hco,takeda,2015,28,
 Gesellschaft Aargauischer Anästhesieärztinnen und -ärzte GAAA,Mühlethal,CH,Sekretariat,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,gruenenthal,2017,1597,1.0
 Gesellschaft der Aerzte des Zürcher Oberlandes AGZO,Dübendorf,CH,,,,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,hco,menarini,2015,895,
@@ -3064,7 +3064,7 @@ GFSMM Groupe Francophone Suisse de Medecine Manuelle,Genève,CH,"38, Rue de Verm
 GFSMM Groupe Francophone Suisse de Médecine Manuelle,Genève,CH,Rue de Vermont 38,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,pfizer,2015,251,
 GFSMM Groupe Francophone Suisse de Médecine Manuelle,Genève,CH,"38, Rue de Vermont",,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,gruenenthal,2015,251,
 GHOL SA,Nyon,CH,Chemin Monastier 10,,,,800.0,,,,,800.0,hco,servier,2016,45,
-GHOL SA c/o Hôpital de Nyon,Nyon,CH,Chemin Monastier 10,,,,400.0,,,,,400.0,hco,novo,2017,45,1.0
+GHOL SA c/o Hôpital de Nyon,Nyon,CH,Chemin Monastier 10,,,,400.0,,,,,400.0,hco,novo,2017,45,
 GHOL SA - Groupement Hospitalier de l'Ouest Lémanique SA,Nyon,CH,Chemin Monastier 10,1260,GHOLNyon,,400.0,,,,,400.0,hco,servier,2017,45,
 GHOL SA Hopital Nyon,Nyon,CH,Chemin Monastier 10,,,0.0,800.0,0.0,0.0,0.0,0.0,800.0,hco,bayer,2016,45,
 GHOL SA Hopital Nyon,Nyon,CH,Chemin Monastier 10,,,0.0,400.0,0.0,0.0,0.0,0.0,400.0,hco,bayer,2015,45,
@@ -3081,8 +3081,8 @@ GIOTI,Breganzona,CH,Via Carä 11,,,,350.0,,,,,350.0,hco,gilead,2016,366,
 GIOTI,Breganzona,CH,Via Carà 11,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,janssen,2017,366,
 GIOTI - Onkologiepflege Schweiz,Breganzona,CH,Via Carà 11,,,,500.0,,,,,500.0,hco,merck,2017,366,
 GIOTI - Onkologiepflege Schweiz,Breganzona,CH,Via Carà 11,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,merck,2015,366,
-GKaufmann (Jahreskongress SGG - SGVC - SASL),Bern,CH,Wattenwylweg 21,,,,3800.0,,,,,3800.0,hco,zambon,2016,61,
-GKaufmann (Jahreskongress SGG / SGVC / SASL),Bern,CH,Wattenwylweg 21,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,zambon,2015,61,
+GKaufmann (Jahreskongress SGG - SGVC - SASL),Bern,CH,Wattenwylweg 21,,,,3800.0,,,,,3800.0,hco,zambon,2016,10018,1.0
+GKaufmann (Jahreskongress SGG / SGVC / SASL),Bern,CH,Wattenwylweg 21,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,zambon,2015,10018,
 Global Research on Infectious Diseases (GRID),KÜSNACHT,CH,Grundwiesstrasse 24,,,0.0,0.0,0.0,0.0,0.0,2309.1,2309.1,hco,glaxosmithkline,2016,900,
 "Global Research on Infectious Diseases, Ltd.(GRID)",Küsnacht,CH,Grundwiesstrasse 24,,,0.0,0.0,0.0,0.0,2600.0,0.0,2600.0,hco,glaxosmithkline,2017,900,1.0
 GMFM Groupement des Médecins des Franches-Montagnes,Saignelégier,CH,Place du 23 juin,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,mepha,2015,110,
@@ -3256,7 +3256,7 @@ GRSSGO,Cheseaux-sur-lausanne,CH,Rue des Pâquis 1,,,0.0,4925.0,0.0,0.0,0.0,0.0,4
 GRSSGO,Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,,,0.0,11021.0,0.0,0.0,0.0,0.0,11021.0,hco,bayer,2016,105,
 GRSSGO,Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,,,,6660.0,,,,,6660.0,hco,ferring,2017,105,
 "GRSSGO ""Groupement Romand de la société Suisse""",Cheseaux,CH,Rue de Pâquis 1,,,,2410.0,,,,,2410.0,hco,mepha,2016,105,
-"GRSSGO, c/o meeting.com Sàrl, CongressOrganisation",Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,,,,3310.0,,,,,3310.0,hco,teva,2017,105,1.0
+"GRSSGO, c/o meeting.com Sàrl, CongressOrganisation",Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,,,,3310.0,,,,,3310.0,hco,teva,2017,105,
 "GRSSGO, Groupement Romand De la Societe Suisse de Gynecologie et Obstetrique",Lausanne,CH,"c/o Meeting-com Särl Congress Organisation, Rue des Päquis 1",1033,,,3500.0,,,,,3500.0,hco,teva,2016,105,
 Grundversorger-Vereins Baden,Würenlos,CH,Juchstrasse 15,,,,1600.0,,,,,1600.0,hco,vifor,2016,1634,1.0
 "Gruppenpraxis Basel, Föhrenstr. 2/Koechlln/Spoendlin",Basel,CH,Föhrenstrasse 2,4054,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,boehringer,2015,1635,1.0
@@ -3514,7 +3514,7 @@ HautZentrum Zürich AG,Zürich,CH,Schaffhauserstrasse 355,,,0.0,0.0,0.0,0.0,1250
 HautZentrum Zürich AG,Zürich,CH,Schaffhauserstrasse 355,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hco,novartis,2015,641,
 HAV Hausärzteverein Gossau,Gossau SG,CH,Lerchenstrasse 32,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,pfizer,2017,525,1.0
 HAV Hausärzteverein St. Gallen,St. Gallen,CH,Parkstrasse 16,,,,2000.0,,,,,2000.0,hco,menarini,2016,918,
-HAV St. Gallen,SL Gallen,CH,c/o Vladimir Sibalic. Partetrasse 16,,,,3000.0,,,,,3000.0,hco,menarini,2017,1673,1.0
+HAV St. Gallen,St. Gallen,CH,c/o Vladimir Sibalic. Partetrasse 16,,,,3000.0,,,,,3000.0,hco,menarini,2017,1673,1.0
 "HAV St, Gallen mmconsult volante gmbH",Basel,CH,Römergasse 7,,,,4320.0,,,,,4320.0,hco,lundbeck,2016,1673,
 HAV St. Gallen,St. Gallen,CH,Poststrasse 12,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,gruenenthal,2015,1673,
 HAV St. Gallen,St. Gallen,CH,Schreinerstrasse 7,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,gruenenthal,2017,1673,
@@ -3572,7 +3572,7 @@ Herzzentrum Hirslanden,Luzern,CH,St. Annastrasse 32,,,,,555.8,5307.94,,,5863.74,
 Herzzentrum Hirslanden,Luzern,CH,Sanktannastrasse 32,,,,5400.0,,,,,5400.0,hco,amgen,2017,69,
 Herzzentrum Hirslanden Zentralschweiz,Luzern,CH,St. Annastrasse 32,,,,5400.0,,,,,5400.0,hco,pfizer,2016,69,
 HerzZentrum Hirslanden Zentralschweiz,Luzern,CH,St. Annaspasse 32,6006,,,12500.0,,,,,12500.0,hco,daiichi,2017,69,
-Herzzentrum Hirslanden Zentralschweiz,Luzern,CH,St. Annastrasse 32,,,0.0,5400.0,0.0,0.0,0.0,0.0,5400.0,hco,pfizer,2017,69,1.0
+Herzzentrum Hirslanden Zentralschweiz,Luzern,CH,St. Annastrasse 32,,,0.0,5400.0,0.0,0.0,0.0,0.0,5400.0,hco,pfizer,2017,69,
 "Herzzentrum Hirslanden Zentralschweiz, Klinik St. Anna",Luzern,CH,Sankt-Anna-Strasse 32,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,menarini,2015,69,
 "Herzzentrum Hirslanden Zentralschweiz, Klinik St. Anna",Luzern,CH,Sankt-Anna-Strasse 32,,,,5000.0,,,,,5000.0,hco,menarini,2016,69,
 HESAV - Haute Ecole de Santé Vaud,Lausanne,CH,Avenue de Beaumont 21,,,1000.0,,,,,,1000.0,hco,abbvie,2017,1687,1.0
@@ -3652,7 +3652,7 @@ HICC,St. Gallen,CH,Frohbergstrasse 3,,,,5500.0,,,,,5500.0,hco,daiichi,2016,437,
 HICC GmbH,St. Gallen,CH,Frohbergstrasse 3,,,,5500.0,,,,,5500.0,hco,csl,2016,437,
 HICC GmbH - Haemostasis in Critical Care,St. Gallen,CH,Frohbergstrasse 3,,,,5500.0,,,,,5500.0,hco,csl,2017,437,1.0
 HICC Haemostasis in Critical Care GmbH,St. Gallen,CH,Frohbergstrasse 3,,,,5940.0,,,,,5940.0,hco,pfizer,2016,437,
-HICC Haemostasis in Critical Care GmbHZentrum für Labormedizin St. Gallen,St. Gallen,CH,Frohbergstrasse 3,9000,,,5500.0,,,,,5500.0,hco,boehringer,2017,437,
+HICC Haemostasis in Critical Care GmbH Zentrum für Labormedizin St. Gallen,St. Gallen,CH,Frohbergstrasse 3,9000,,,5500.0,,,,,5500.0,hco,boehringer,2017,437,
 High Tech Home Care AG,Rotkreuz,CH,Buonaserstrasse 30,,,,,,327.04,,,327.04,hco,merck,2017,1691,1.0
 Hirslanden AG,Zürich,CH,Seestrasse 220,,,,2500.0,,,,,2500.0,hco,mepha,2016,109,
 Hirslanden AG,Zuerich,CH,Seefeldstrasse 214,,,0.0,756.0,0.0,0.0,0.0,0.0,756.0,hco,bgp,2015,109,
@@ -3664,7 +3664,7 @@ Hirslanden Klinik Birshof,Münchenstein,CH,Reinacherstrasse 28,,,0.0,1000.0,0.0,
 Hirslanden Klinik Birshof,Münchenstein,CH,Reinacherstrasse 28,,,,1000.0,,,,,1000.0,hco,bristol,2016,926,1.0
 Hirslanden Klinik im Park,Zürich,CH,Seestrasse 220,,,,2000.0,,,,,2000.0,hco,shire,2017,109,1.0
 Hirslanden Klinik im Park,Zürich,CH,Seestrasse 220,,,,500.0,,,,,500.0,hco,pierre,2016,109,
-Hirslanden Klinik St. Anna,Luzern,CH,St. Annasstrasse 32,,,,,318.45,5071.73,,,5390.1799999999985,hco,takeda,2016,69,
+Hirslanden Klinik St. Anna,Luzern,CH,St. Annasstrasse 32,,,,,318.45,5071.73,,,5390.1799999999985,hco,takeda,2016,69,1.0
 Hirslanden Klinik St. Anna,Luzern,CH,St. Anna-Strasse 32,6006,,0.0,2500.0,0.0,0.0,1000.0,0.0,3500.0,hco,roche,2015,69,
 Hirslanden Klinik St. Anna,LUZERN,CH,ST. ANNA-STRASSE 32,,,,,462.96,,,,462.96,hco,celgene,2016,69,
 Hirslanden Klinik St. Anna,Luzern,CH,St. Annastrasse 32,,,0.0,0.0,488.0,817.0,0.0,0.0,1305.0,hco,pfizer,2015,69,
@@ -3742,7 +3742,7 @@ Hopitaux Universitaires des Genève (HUG),Genève,CH,Rue Gabrielle-Perret -Genti
 Hopitaux Universitares Geneve,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,2300.0,0.0,0.0,0.0,0.0,2300.0,hco,gruenenthal,2016,4,
 Hormon Zentrum Zürich,Zürich,CH,Witellikerstrasse 36,,,,2000.0,,,,,2000.0,hco,pfizer,2016,19,
 Hormon Zentrum Zürich AG,Zürich,CH,Witellikerstrasse 36,,,,3000.0,,,,,3000.0,hco,novo,2016,19,
-Hormon Zentrum Zürich AG,Zürich,CH,Witellikerstrasse 40,,,,1000.0,,,,,1000.0,hco,novo,2017,19,1.0
+Hormon Zentrum Zürich AG,Zürich,CH,Witellikerstrasse 40,,,,1000.0,,,,,1000.0,hco,novo,2017,19,
 Hormon Zentrum Zürich AG,Zürich,CH,Witellikerstrasse 36,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,novo,2015,19,
 Hormon Zentrum Zürich AG Klinik Hirslanden,Zürich,CH,Witellikerstrasse 36,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis,2017,19,
 Hospices cantonaux,Lausanne,CH,Comptabilité - Rue du Bugnon 21,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,servier,2015,1698,1.0
@@ -3851,7 +3851,7 @@ Hôpital de Morges Ensemble Hospitaller de la Côte (EHC),Morges,CH,Chemin du Cr
 Hôpital de Morqes (EHC),Morges,CH,Chemin du Crêt 2,,,,1000.0,,,,,1000.0,hco,daiichi,2016,68,
 Hôpital de Nyon,Nyon,CH,Chemin Monastier 10,,,0.0,2200.0,0.0,0.0,0.0,0.0,2200.0,hco,astrazeneca,2017,45,
 Hôpital de Nyon,Nyon,CH,Avenue Perdtemps 3,,,,1500.0,,,,,1500.0,hco,astrazeneca,2016,1713,1.0
-Hôpital de Nyon - GHOL,Nyon,CH,Chemin Monastier 10,,,,500.0,,,,,500.0,hco,eli,2016,45,
+Hôpital de Nyon - GHOL,Nyon,CH,Chemin Monastier 10,,,,500.0,,,,,500.0,hco,eli,2016,45,1.0
 Hôpital de Nyon - GHOL,Nyon,CH,Chemin Monastier 10,,,,800.0,,,,,800.0,hco,bristol,2016,45,
 Hôpital de Nyon - GHOL,Nyon,CH,Chemin Monastier 10,,,,1400.0,,,,,1400.0,hco,bristol,2017,45,
 Hôpital De Nyon -Ghol,Nyon,CH,Cheminmonastier 10,,,,3200.0,,,,,3200.0,hco,amgen,2017,45,
@@ -4365,20 +4365,20 @@ Höpital du Valais -Höpital de Sion -Chirugie vasculaire,Sion,CH,Avenue Grand-C
 Höpital neuchätelois Pourtales - Centre d'urgences psychiatriques (CUP),Neuchâtel,CH,Rue de la Maladiere 45,,,6430.34,0.0,0.0,0.0,0.0,0.0,6430.34,hco,takeda,2015,46,
 Höpital neuchätelois Pourtales - Chirurgie,Neuchâtel,CH,Rue de la Maladiere 45,,,0.0,0.0,331.65,720.99,0.0,0.0,1052.64,hco,takeda,2015,46,
 Höpital neuchätelois Pourtales -Oncologie,Neuchâtel,CH,Rue de la Maladiere 45,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hco,takeda,2015,46,
-Höpital Riviera Chablais Vaud-Valais. Site du Samaritain - Vevey -Pharmacie des Höpitaux de rEst Lemanique,Vevey,CH,Boulevard Paderewskl 3,,,6430.34,0.0,0.0,0.0,0.0,0.0,6430.34,hco,takeda,2015,106,
+Höpital Riviera Chablais Vaud-Valais. Site du Samaritain - Vevey -Pharmacie des Hôpitaux de rEst Lemanique,Vevey,CH,Boulevard Paderewskl 3,,,6430.34,0.0,0.0,0.0,0.0,0.0,6430.34,hco,takeda,2015,106,
 Höpital Yverdon-Ies-Bains eHnv -Pharmacie,Yverdon-les-Bains,CH,Rue d'Entremonts 11,,,5591.9,0.0,0.0,0.0,0.0,0.0,5591.9,hco,takeda,2015,440,
-"Höpitaux Universitaires de Geneve - Service d'endocrinologie, diabätologie et nutrition",Genève,CH,Rue Gabrielie-Perret-Gentii 4,,,0.0,0.0,0.0,0.0,2700.0,0.0,2700.0,hco,takeda,2015,4,
-Höpitaux Universitaires de Geneve - Service de Gastro-enterologie et hepatologie,Genève,CH,Rue GabrieHe-Perret-Gentil4,,,0.0,2800.0,0.0,866.75,0.0,0.0,3666.75,hco,takeda,2015,4,
-Höpitaux Universitaires de Genève,Genève,CH,Rue Gabrielle Perret-Genlil 4,,,0.0,29500.0,0.0,0.0,4841.89,176.57,34518.45,hco,takeda,2015,4,
-Höpitaux Universitaires de Genève - Direction mödicale,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,4,
-Höpitaux Universitaires de Genève - Service de Cardiologie,Genève,CH,Rue GabrieBe-Perret-Genbl4,,,0.0,0.0,429.76,1492.09,1200.0,0.0,3121.86,hco,takeda,2015,4,
-Höpitaux Universitaires de Genève - Service des maladies osseuses,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,0.0,1201.75,1650.0,0.0,0.0,2851.75,hco,takeda,2015,4,
-Höpitaux Universitaires de Genève - Unite d'Hömatologie-Oncologie,Genève,CH,Rue Gabrieile-Perret-Gentil4,,,0.0,0.0,666.65,5178.61,0.0,0.0,5845.26,hco,takeda,2015,4,
-Höpitaux Universitaires de Genève - Unite Senologie et Oncogynöcologie Chirurgicales,Genève,CH,Boulevard de la Cluse 30,,,0.0,0.0,412.72,490.37,0.0,0.0,903.09,hco,takeda,2015,4,
-Höpitaux Universitaires de Genève -Departement de mädecine communautaire et de Premier recours,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,4,
-Höpitaux Universitaires Geneve,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,121240.0,48893.2,4000.0,,,,174133.2,hco,gilead,2016,4,
-Höpitaux Universitaires Geneve,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1211,,,2500.0,,,,,2500.0,hco,teva,2016,4,
-Höpitaux Universitaires Geneve - Swiss Hepatitis C Cohort Study,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,120000.0,,,,,,120000.0,hco,gilead,2016,4,
+"Hôpitaux Universitaires de Geneve - Service d'endocrinologie, diabätologie et nutrition",Genève,CH,Rue Gabrielie-Perret-Gentii 4,,,0.0,0.0,0.0,0.0,2700.0,0.0,2700.0,hco,takeda,2015,4,
+Hôpitaux Universitaires de Geneve - Service de Gastro-enterologie et hepatologie,Genève,CH,Rue GabrieHe-Perret-Gentil4,,,0.0,2800.0,0.0,866.75,0.0,0.0,3666.75,hco,takeda,2015,4,
+Hôpitaux Universitaires de Genève,Genève,CH,Rue Gabrielle Perret-Genlil 4,,,0.0,29500.0,0.0,0.0,4841.89,176.57,34518.45,hco,takeda,2015,4,
+Hôpitaux Universitaires de Genève - Direction mödicale,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,4,
+Hôpitaux Universitaires de Genève - Service de Cardiologie,Genève,CH,Rue GabrieBe-Perret-Genbl4,,,0.0,0.0,429.76,1492.09,1200.0,0.0,3121.86,hco,takeda,2015,4,
+Hôpitaux Universitaires de Genève - Service des maladies osseuses,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,0.0,1201.75,1650.0,0.0,0.0,2851.75,hco,takeda,2015,4,
+Hôpitaux Universitaires de Genève - Unite d'Hömatologie-Oncologie,Genève,CH,Rue Gabrieile-Perret-Gentil4,,,0.0,0.0,666.65,5178.61,0.0,0.0,5845.26,hco,takeda,2015,4,
+Hôpitaux Universitaires de Genève - Unite Senologie et Oncogynöcologie Chirurgicales,Genève,CH,Boulevard de la Cluse 30,,,0.0,0.0,412.72,490.37,0.0,0.0,903.09,hco,takeda,2015,4,
+Hôpitaux Universitaires de Genève -Departement de mädecine communautaire et de Premier recours,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,4,
+Hôpitaux Universitaires Geneve,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,121240.0,48893.2,4000.0,,,,174133.2,hco,gilead,2016,4,
+Hôpitaux Universitaires Geneve,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1211,,,2500.0,,,,,2500.0,hco,teva,2016,4,
+Hôpitaux Universitaires Geneve - Swiss Hepatitis C Cohort Study,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,120000.0,,,,,,120000.0,hco,gilead,2016,4,
 IBD Net - Swiss Resarch and Communications Notwork,Zürich,CH,,,,31000.0,,,,,,31000.0,hco,takeda,2016,240,
 IBD Net - Swiss Research and Communications Network,Zürich,CH,,8000,,0.0,33000.0,0.0,0.0,0.0,0.0,33000.0,hco,takeda,2017,240,
 IBD Net – Swiss Research and Communications Network,Zürich,CH,,,,130000.0,31500.0,0.0,0.0,0.0,0.0,161500.0,hco,takeda,2015,240,
@@ -4397,15 +4397,15 @@ ICML,Bellinzona,CH,OSPEDALE SAN GIOVANNIDEI LINFOMI NEL TICINO,,,0.0,0.0,3757.0,
 ICML - International Conference on Malignant Lymphoma,Lugano,CH,,,,36250.0,,,,,,36250.0,hco,mundipharma,2017,1732,
 ICML Oncology Institute / Ospedale San Giovanni / EOC,Bellinzona,CH,Via Ospedale 12,,,,13572.62,,,,,13572.62,hco,sandoz,2017,1732,
 Idrizi Ismet Praktischer Arzt c/o Herr Dr.Mustafa Ghafier,Münchwilen TG,CH,Waldeggstrasse 18,9542,,,,,,200.0,,200.0,hco,boehringer,2017,1734,1.0
-IELSG,Bellinzona,CH,Ospedale San Giovanni,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hco,mundipharma,2015,9,
-IELSG - International Extranodal Lymphoma Study Group,Bellinzona,CH,Ospedale San Giovanni,,,3000.0,,,,,,3000.0,hco,mundipharma,2017,9,
-IELSG -International Extranodal Lymphoma Study Group,Bellinzona,CH,Ospedale San Giovanni,,,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,hco,roche,2016,9,
-IELSG -International Extranodal Lymphoma Study Group,Bellinzona,CH,Ospedale San Giovanni,6500,,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0,hco,roche,2015,9,
-IELSG -International Extranodal Lymphoma Study Group,Bellinzona,CH,Ospedale San Giovanni,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,celgene,2015,9,
-IELSG INTERNATIONAL EXTRANODAL LYMPHOMA STUDY GROUP,BELLINZONA,CH,STUDIES COORDINATION ONCOLOGY INSTITUTE OF SOUTHERN SWITZERLAND,,,6000.0,,,,,,6000.0,hco,celgene,2016,1735,1.0
-IELSG Unità Linfomi,Bellinzona,CH,Via Ospedale,,,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,hco,janssen,2017,9,
-IELSG Unità Linfomi,Bellinzona,CH,"Via Ospedale, Bellinzona",,,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,hco,janssen,2015,9,
-IELSG Unità Linfomi,Bellinzona,CH,Via Ospedale,,,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,hco,janssen,2016,9,
+IELSG,Bellinzona,CH,Ospedale San Giovanni,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hco,mundipharma,2015,1735,
+IELSG - International Extranodal Lymphoma Study Group,Bellinzona,CH,Ospedale San Giovanni,,,3000.0,,,,,,3000.0,hco,mundipharma,2017,1735,1.0
+IELSG -International Extranodal Lymphoma Study Group,Bellinzona,CH,Ospedale San Giovanni,,,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,hco,roche,2016,1735,
+IELSG -International Extranodal Lymphoma Study Group,Bellinzona,CH,Ospedale San Giovanni,6500,,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0,hco,roche,2015,1735,
+IELSG -International Extranodal Lymphoma Study Group,Bellinzona,CH,Ospedale San Giovanni,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,celgene,2015,1735,
+IELSG INTERNATIONAL EXTRANODAL LYMPHOMA STUDY GROUP,BELLINZONA,CH,STUDIES COORDINATION ONCOLOGY INSTITUTE OF SOUTHERN SWITZERLAND,,,6000.0,,,,,,6000.0,hco,celgene,2016,1735,
+IELSG Unità Linfomi,Bellinzona,CH,Via Ospedale,,,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,hco,janssen,2017,1735,
+IELSG Unità Linfomi,Bellinzona,CH,"Via Ospedale, Bellinzona",,,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,hco,janssen,2015,1735,
+IELSG Unità Linfomi,Bellinzona,CH,Via Ospedale,,,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,hco,janssen,2016,1735,
 iffm,Burgdorf,CH,Oberburgstrasse 10,,,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0,hco,bayer,2015,254,
 iffm,Burgdorf,CH,Kirchbergstrasse 23,,,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0,hco,bayer,2016,264,
 IFFM - Institut für Forschung und Fortbidlung in der Medizin GmbH,Burgdorf,CH,Oberburgstrasse 10,,,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0,hco,servier,2015,254,
@@ -4444,7 +4444,7 @@ IGOMED Ärztenetzwerk Raum Thun,Thun,CH,Goldiwilstrasse 36a,,,0.0,2000.0,0.0,0.0
 IGOMED-Ärztenetzwerk Raum Thun,Thun,CH,Goldiwilstrasse 36a,,,,4000.0,,,,,4280.0,hco,mepha,2017,128,1.0
 "IGSA ""Intressensgemeinschaft Schweizer Aerzte""",Luzern,CH,Denkmalstrasse 2,,,,1000.0,,,,,1008.0,hco,mepha,2017,637,1.0
 "IGSA ""Intressensgemeinschaft Schweizer Aerzte""",Luzern,CH,Denkmalstrasse 2,,,,1000.0,,,,,1030.0,hco,mepha,2017,637,
-IHAM & CC LUZERN,Luzern,CH,Schwanenplatz 7,,,,5000.0,,,,,5000.0,hco,bristol,2017,112,1.0
+IHAM & CC LUZERN,Luzern,CH,Schwanenplatz 7,,,,5000.0,,,,,5000.0,hco,bristol,2017,112,
 IHAM & CC LUZERN,Luzern,CH,Schwanenplatz 7,,,,5000.0,,,,,5000.0,hco,bristol,2016,112,
 "IHAM & CC Luzern""Institut für Hausarztmedizin & Community Care Luzern""",Luzern,CH,Schwanenplatz 7,,,,3500.0,,,,,3520.0,hco,mepha,2017,112,
 IHAM&CC Luzern,Luzern,CH,Schwanenplatz 7,6004,,,,10000.0,,,,10000.0,hco,daiichi,2017,112,
@@ -4600,7 +4600,7 @@ Inselspital,Bern,CH,Freiburgstrasse 15,,,0.0,34500.0,0.0,750.0,1200.0,0.0,36450.
 Inselspital (Endokr/Diab),Bern,CH,Freiburgstrasse 18,,,40000.0,4000.0,0.0,0.0,0.0,0.0,44000.0,hco,merck,2015,2,
 "Inselspital - DFKE Pädiatrische Endokrinologie, Diabetologie und Stoffwechsel",Bern,CH,"Kinderklinik, Freiburgstrasse 18",,,,15000.0,,,,,15000.0,hco,eli,2016,2,
 "Inselspital - Diabetologie, Endokrinologie, Ernährungsmedizin & Metabolismus (UDEM)",Bern,CH,"Inselspital, Freiburgstrasse 18",,,,4000.0,,,,,4000.0,hco,eli,2016,2,
-Inselspital - Institut für Pharmakologie(UNIB E),Bern,CH,Friedbühlstrasse 49,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,takeda,2015,2,
+Inselspital - Institut für Pharmakologie(UNIB E),Bern,CH,Friedbühlstrasse 49,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,takeda,2015,188,
 Inselspital - Klinik für Viszerale Chirurgie und Medizin,Bern,CH,Freiburgstrasse 4,,,10800.0,4500.0,515.9,925.46,0.0,0.0,16741.36,hco,takeda,2015,2,
 Inselspital - Klinik und Poliklinik für Gastroenteroloqie,Bern,CH,Freiburgstrasse 18,,,0.0,0.0,214.4,742.65,2150.0,0.0,3107.05,hco,takeda,2015,2,
 Inselspital - Klinik und Poliklinik für Kardiologie,Bern,CH,Freiburgstrasse 4,,,0.0,5700.0,429.76,1375.12,2200.0,0.0,9704.89,hco,takeda,2015,2,
@@ -4694,7 +4694,7 @@ Inselspital Rheumatologie,Bern,CH,Freiburgstrasse,,,,7500.0,,,,,7500.0,hco,biote
 Inselspital Stiftungen und Fords,Bern,CH,Freiburgstrasse 8,,,,5975.0,,,1000.0,,6975.0,hco,baxalta,2016,2,
 Inselspital Universitätsklinik für Intensivmedizin,Bern,CH,Freiburgstrassse,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,csl,2015,2,
 Inselspital Viszerale Chirurgie,Bern,CH,Freiburgstrasse,,,,3500.0,,,,,3500.0,hco,biotest,2016,2,
-Inselspital • Klinik für Nephrologie/ Hypertonie,Bern,CH,Freiburgstrasse 15,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,takeda,2015,2,
+Inselspital Klinik für Nephrologie/ Hypertonie,Bern,CH,Freiburgstrasse 15,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,takeda,2015,2,
 "Inselspital, Allergologisch-immunologische Poliklinik",Bern,CH,PKT 2 A,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,menarini,2015,2,
 "Inselspital, Allergologisch-Immunologische Poliklinik",Bern,CH,PKT 2A,,,,5000.0,,,,,5000.0,hco,menarini,2016,2,
 "Inselspital, Department of Visceral & Transplant Surgery",Bern,CH,Freiburgstrasse,,,0.0,12000.0,0.0,0.0,0.0,0.0,12000.0,hco,csl,2015,2,
@@ -4763,8 +4763,8 @@ Institut für Forschung und Fortbildung in der Medizin GmbH,Langenthal,CH,Jurast
 Institut für Forschung und Fortbildung in der Medizin GmbH,Burgdorf,CH,Oberburgstrasse 10,,,,1600.0,,,,,1600.0,hco,astrazeneca,2016,254,
 Institut für Forschung und Fortbildung in der Medizin GmbH,Burgdorf,CH,Oberburgstrasse 10,3400,,0.0,1600.0,0.0,0.0,0.0,0.0,1600.0,hco,boehringer,2016,254,
 Institut für Forschung und Fortbildung in der Medizin GmbH,Burgdorf,CH,Oberburgstrasse 10,,,,1600.0,,,1800.0,,3400.0,hco,novartis,2016,254,
-Institut für Hausarzmedizin & Community Care Luzern,Luzern,CH,Schwanenplatz 7,,,,11000.0,,,,,11000.0,hco,mepha,2016,112,
-Institut für Hausarztmedizin,Bern,CH,Gesellschaftsstrasse 49,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hco,mundipharma,2015,114,
+Institut für Hausarzmedizin & Community Care Luzern,Luzern,CH,Schwanenplatz 7,,,,11000.0,,,,,11000.0,hco,mepha,2016,112,1.0
+Institut für Hausarztmedizin,Bern,CH,Gesellschaftsstrasse 49,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hco,mundipharma,2015,188,
 Institut für Hausarztmedizin & Community Care,Luzern,CH,Institut für Hausarztmedizin - & Community Care Luzern Schwanenplatz 7,,,,10000.0,,,,,10000.0,hco,msd,2016,112,
 Institut für Hausarztmedizin & Community Care,Luzern,CH,Schwanenplatz 7,6004,,,6500.0,,,,,6500.0,hco,sanofi,2017,112,
 Institut für Hausarztmedizin & Community Care,Luzern,CH,Schwanenplatz 7,,,1500.0,,,,,,1500.0,hco,mundipharma,2017,112,
@@ -4785,11 +4785,11 @@ Institut für Medizin und Kommunikation AG,Basel,CH,Münsterberg,,,,4320.0,,,,,4
 Institut für morphologische Diagnostik Zum Regenbogen AG Konstanzerstrasse 27 Kreuzlingen,Kreuzlingen,CH,Konstanzerstrasse 27,8280,,0.0,0.0,0.0,0.0,4000.0,0.0,4000.0,hco,roche,2015,1747,1.0
 Institut für Pathologie,Basel,CH,Schönbeinstrasse 40,,,,,,,3328.0,,3328.0,hco,pfizer,2016,6,
 Institut für Pflegewissenschaft,Basel,CH,Bernoullistrasse 28,,,0.0,0.0,0.0,0.0,1850.0,82.8,1932.8,hco,astellas,2017,1748,1.0
-Institut für Pharmakologie,Bern,CH,Universität Bern,3010,,,1000.0,,,,,1000.0,hco,leo,2017,2,
-Institut für Pharmakologie,Bern,CH,Freiburgstrasse,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,janssen,2017,2,
-Institut für Pharmakologie,Bern,CH,Murtenstrasse 35,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,pfizer,2017,2,
-Institut für Pharmakologie (UNIBE),Bern,CH,Friedbühlstrasse 49,,,,2000.0,,,,,2000.0,hco,eli,2017,2,
-Institut für Pharmakologie (UNIBE),Bern,CH,Friedbühlstrasse 49,,,2500.0,32400.0,,,,,34900.0,hco,pfizer,2016,2,
+Institut für Pharmakologie,Bern,CH,Universität Bern,3010,,,1000.0,,,,,1000.0,hco,leo,2017,188,
+Institut für Pharmakologie,Bern,CH,Freiburgstrasse,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,janssen,2017,188,
+Institut für Pharmakologie,Bern,CH,Murtenstrasse 35,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,pfizer,2017,188,
+Institut für Pharmakologie (UNIBE),Bern,CH,Friedbühlstrasse 49,,,,2000.0,,,,,2000.0,hco,eli,2017,188,
+Institut für Pharmakologie (UNIBE),Bern,CH,Friedbühlstrasse 49,,,2500.0,32400.0,,,,,34900.0,hco,pfizer,2016,188,
 Institut für Präventivmedizin,Bern,CH,Finkenhubelweg 11,,,15670.0,0.0,0.0,0.0,0.0,0.0,15670.0,hco,gilead,2015,945,
 Institut für Präventivmedizin,Bern,CH,Finkenhubelweg 11,,,,1000.0,,,,,1000.0,hco,gilead,2016,945,1.0
 Institut für Radio- Onkologie - Medizinische Onkologie,Aarau,CH,Tellstrasse,,,0.0,1389.0,0.0,0.0,0.0,0.0,1389.0,hco,eli,2015,1751,1.0
@@ -4903,7 +4903,7 @@ IPW- Psychiatrie-Zentrum Hard,Embrach,CH,Römerweg 51,,,,2000.0,,,,,2000.0,hco,v
 IPW- Psychiatrie-Zentrum Hard,Embrach,CH,Römerweg 51,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,janssen,2017,443,1.0
 Iridis Lausanne S.A.,Lausanne,CH,Avenue Alexandre-Vinet 30,,,,5000.0,,,,,5000.0,hco,abbvie,2016,949,1.0
 Iridis Lausanne S.A.,Lausanne,CH,Avenue Alexandre-Vinet 30,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,abbvie,2015,949,
-"ISAKK, Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung",Bern,CH,"Koordinationszentru m, Effingerstrasse 40",3008,,,6000.0,,,,,6000.0,hco,teva,2016,18,
+"ISAKK, Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung",Bern,CH,"Koordinationszentru m, Effingerstrasse 40",3008,,,6000.0,,,,,6000.0,hco,teva,2016,18,1.0
 "Isamo, swiss academy of multidisciplinary oncology",Bern,CH,"c/o IBCSG, Effingerstrasse 40",3008,,,1500.0,,,,,1500.0,hco,teva,2016,26,
 "Isamo, swiss academy of multidisciplinary oncology",Bern,CH,"c/o IBCSG, Effingerstrasse 40",3008,,,1500.0,,,,,1500.0,hco,teva,2016,26,
 Iscm - International Society Onclinical Metagenomics,Chene- Bourg,CH,Rue De Geneve 18,,,,3000.0,,,,,3000.0,hco,amgen,2016,1773,1.0
@@ -4945,7 +4945,7 @@ Journées Franco-Suisses de Pharmacie Hospitalière (JFSPH),Lausanne,CH,,,,,3000
 Journées Franco-Suisses de Pharmacie Hospitalière (JFSPH),Lausanne,CH,Rue du Bugnon 21,,,,4800.0,,,,,4800.0,hco,bgp,2016,276,
 Journées jurassiennes d'endocrinologie et diabétologie,Delémont,CH,Rue du Temple 45,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,servier,2015,1783,1.0
 Journées postgraduées de l'Unité de Proctologie,Genève,CH,Rue Micheli-du-Crest 24,,,,500.0,,,,,500.0,hco,servier,2016,1784,1.0
-"jsamo, swiss academy of multidisciplinary oncology",Bern,CH,"c/o IBCSG, Effingerstrasse 40",3008,,,1500.0,,,,,1500.0,hco,teva,2016,26,
+"jsamo, swiss academy of multidisciplinary oncology",Bern,CH,"c/o IBCSG, Effingerstrasse 40",3008,,,1500.0,,,,,1500.0,hco,teva,2016,10016,1.0
 Junge Hausärzte Schweiz,Steinhausen,CH,Sennweidstrasse 46,,,,3456.0,,,,,3456.0,hco,bgp,2016,1785,1.0
 Junge Hausärztinnen und -ärzte (JHaS),Bern,CH,Effingerstrasse 2,,,3200.0,0.0,0.0,0.0,0.0,0.0,3200.0,hco,mundipharma,2015,180,
 Junge Hausärztinnen und -ärzte (JHaS),Bern,CH,Effingerstrasse 2,,,0.0,3456.0,0.0,0.0,0.0,0.0,3456.0,hco,glaxosmithkline,2015,180,
@@ -5651,7 +5651,7 @@ Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,24840.0,34477.05
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstr. 95,,,20000.0,8500.0,405.65,556.0,1000.0,47.0,30508.65,hco,merck,2017,5,
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,gruenenthal,2015,5,
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,,,,,135.0,,135.0,hco,astrazeneca,2016,5,
-Kantonsspital St. Gallen,Sl Gallen,CH,Rorschacherstrasse 95,,,0.0,3000.0,429.76,1322.53,4500.0,0.0,9252.29,hco,takeda,2015,5,
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,0.0,3000.0,429.76,1322.53,4500.0,0.0,9252.29,hco,takeda,2015,5,
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,,8000.0,,,,,8000.0,hco,astrazeneca,2016,5,
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,,12037.0,,,2800.0,,14837.0,hco,novo,2016,5,
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,,3000.0,,,,,3000.0,hco,astrazeneca,2016,5,
@@ -5665,7 +5665,7 @@ Kantonsspital St. Gallen - Dermatologie und Allergologie,St. Gallen,CH,Rorschach
 Kantonsspital St. Gallen - Klinik für Neurologie,St. Gallen,CH,Rorschacherstrasse 95,,,,3780.0,,,,,3780.0,hco,almirall,2017,5,
 Kantonsspital St. Gallen - Onkologie und Hämatologie,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstrasse 95",,,,80.0,,,,,80.0,hco,eli,2016,5,
 Kantonsspital St. Gallen - Onkologie und Hämatologie,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstrasse 95",,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,eli,2015,5,
-Kantonsspital St. Gallen - Zentrum für Labormedizin,St. Gallen,CH,Frohbergstrasse 3,,,,1000.0,,,,,1000.0,hco,gilead,2016,5,
+Kantonsspital St. Gallen - Zentrum für Labormedizin,St. Gallen,CH,Frohbergstrasse 3,,,,1000.0,,,,,1000.0,hco,gilead,2016,10014,
 Kantonsspital St. Gallen -Muskelzentrum ALS Clinic,St. Gallen,CH,Greithstrasse 20,,,,3000.0,,,,,3000.0,hco,almirall,2016,5,
 "Kantonsspital St. Gallen / Klinik für Dermatologie, Venerologie, Allergologie",St. Gallen,CH,Rorschacher Strasse 95,,,,4500.0,,,,,4500.0,hco,galderma,2017,5,
 Kantonsspital St. Gallen [H_K014],St. Gallen,CH,Kantonsspital St. Gallen Rorschacher Strasse 95,,,0.0,45962.94,3545.9,21030.2,2596.29,0.0,73135.33,hco,msd,2015,5,
@@ -5833,7 +5833,7 @@ Kinderpneumologie,Winterthur,CH,Brauerstrasse 15,8400,,500.0,0.0,0.0,0.0,0.0,0.0
 Kinderspitai Zürich,Zürich,CH,Steinwiesstrasse 75,,,0.0,926.0,0.0,0.0,0.0,0.0,926.0,hco,ferring,2015,23,
 Kinderspital,Zürich,CH,Steinwiesstrasse 75,,,39225.0,3000.0,0.0,0.0,0.0,0.0,42225.0,hco,baxter,2015,23,
 Kinderspital Luzern,Luzern,CH,Spitalstrasse,,,,1000.0,,,,,1000.0,hco,merck,2016,1799,1.0
-Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,61000.0,,,,5000.0,,66000.0,hco,actelion,2017,23,
+Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,61000.0,,,,5000.0,,66000.0,hco,actelion,2017,23,1.0
 Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,56926.0,4630.0,,,,,61556.0,hco,actelion,2016,23,
 Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,,6000.0,,,,,6000.0,hco,shire,2016,23,
 Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,astellas,2017,23,
@@ -5940,7 +5940,7 @@ Klinik für Psychiatrie Psychotherapie und Psychosomatik Psychiatrische Universi
 "Klinik für Psychiatrie u, Psychotherapie",Basel,CH,Clarastrasse 6,,,,2500.0,,,,,2500.0,hco,lundbeck,2016,1808,1.0
 "Klinik für Psychiatrie und Psychotherapie, Universität Zürich UZH",Zürich,CH,Culmannstrasse 8,,,,3240.0,,,,,3240.0,hco,vifor,2017,10008,
 Klinik für Rheumatologie,Zürich,CH,Gloriastrasse 25,,,,50112.0,,,2548.0,,52660.0,hco,bristol,2017,1,
-Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,WCHH09509631,,,,,1142.5,,1142.5,hco,celgene,2017,19,
+Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,WCHH09509631,,,,,1142.5,,1142.5,hco,celgene,2017,19,1.0
 Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,,,14000.0,,,,,14000.0,hco,msd,2017,19,
 Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,8032,,0.0,0.0,300.0,150.0,0.0,0.0,450.0,hco,roche,2015,19,
 Klinik Hirslanden,Zürich,CH,Klinik Hirslanden Witellikerstrass e 40,,,0.0,7400.0,0.0,0.0,0.0,0.0,7400.0,hco,msd,2015,19,
@@ -6042,15 +6042,15 @@ Kliniken Valens,Valens,CH,Taminaplatz 1,,,2000.0,,,,,,2000.0,hco,mundipharma,201
 Kliniken Valens Rehazentrum Valens,Valens,CH,Taminaplatz 1,,,,1500.0,,,,,1500.0,hco,abbvie,2017,92,
 "Kliniken Valens, Klinik für Rheumatologie und Muskuloskelettale Rehabilitation",Valens,CH,Taminaplatz 1,,,,2000.0,,,,,2000.0,hco,menarini,2017,92,
 "Kliniken Valens, Rehazentrum Valens",Valens,CH,Taminaplatz 1,,,,2000.0,,,,,2000.0,hco,menarini,2016,92,
-KMS,Bern,CH,Brunnmattstrasse 83,,,,2025.0,,,,,2025.0,hco,bgp,2017,81,
-KMS,Bern,CH,Brunnmattstrasse 83,,,,4282.2,,,,,4282.2,hco,pierre,2017,81,
-KMS Kongress Management Swiss,Bern,CH,Brunnmattstrasse 83,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,pierre,2015,81,
-KMS Kongress Management Swiss,Bern,CH,Postfach,7213,,0.0,1944.0,0.0,0.0,0.0,0.0,1944.0,hco,glaxosmithkline,2015,81,
-KMS Kongress Management Swiss,Bern,CH,,,,,3840.0,,,,,3840.0,hco,pierre,2016,81,
-KMS Kongress Management Swiss (Ostschweizer Symposium für praktische Gynäkologie und Geburtshilfe),Bern,CH,Postfach,7213,,,3840.0,,,,,3840.0,hco,zambon,2016,81,
-KMS KongressManagementSwiss,Bern,CH,Postfach,2756,,,2165.0,,,,,2165.0,hco,bgp,2016,81,
-"KMS, KongressManagementSwiss",Bern,CH,Postfach,2756,,,2280.0,,,,,2280.0,hco,teva,2017,81,
-Knntonsspital Aarau AG - Medzinischo Onkologie und Hämatologie,Aarau,CH,Tellstrasse 25,,,,,,,3800.0,,3800.0,hco,takeda,2016,10,
+KMS,Bern,CH,Brunnmattstrasse 83,,,,2025.0,,,,,2025.0,hco,bgp,2017,10019,
+KMS,Bern,CH,Brunnmattstrasse 83,,,,4282.2,,,,,4282.2,hco,pierre,2017,10019,
+KMS Kongress Management Swiss,Bern,CH,Brunnmattstrasse 83,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,pierre,2015,10019,1.0
+KMS Kongress Management Swiss,Bern,CH,Postfach,7213,,0.0,1944.0,0.0,0.0,0.0,0.0,1944.0,hco,glaxosmithkline,2015,10019,
+KMS Kongress Management Swiss,Bern,CH,,,,,3840.0,,,,,3840.0,hco,pierre,2016,10019,
+KMS Kongress Management Swiss (Ostschweizer Symposium für praktische Gynäkologie und Geburtshilfe),Bern,CH,Postfach,7213,,,3840.0,,,,,3840.0,hco,zambon,2016,10020,
+KMS KongressManagementSwiss,Bern,CH,Postfach,2756,,,2165.0,,,,,2165.0,hco,bgp,2016,10019,
+"KMS, KongressManagementSwiss",Bern,CH,Postfach,2756,,,2280.0,,,,,2280.0,hco,teva,2017,10019,
+Kantonsspital Aarau AG - Medzinischo Onkologie und Hämatologie,Aarau,CH,Tellstrasse 25,,,,,,,3800.0,,3800.0,hco,takeda,2016,10,
 Kollegium Brustkrebs,Zürich,CH,Ringstrasse 70,,,,2000.0,,,,,2000.0,hco,pierre,2017,531,1.0
 Kollegium Brustkrebs,Zürich,CH,Ringstrasse 70,,,0.0,21600.0,0.0,0.0,0.0,0.0,21600.0,hco,pfizer,2015,531,
 Kollegium Brustkrebs,Zürich,CH,Ringstrasse 70,,,,5400.0,,,,,5400.0,hco,pfizer,2016,531,
@@ -6232,7 +6232,7 @@ Lindenhofspital,Bern,CH,Bremgartenstrasse 117,3012,,0.0,1000.0,0.0,0.0,0.0,0.0,1
 Lindenhofspital,Bern,CH,Bremgartenstrasse 117,,,65.0,0.0,0.0,0.0,0.0,0.0,65.0,hco,baxter,2017,99,1.0
 Lindenhofspital,Bern,CH,Bremgartenstrasse 117,,,,,819.84,1493.04,,,2312.88,hco,amgen,2016,99,
 Lindenhofspital,Bern,CH,Bremgartenstrasse117,,,,8000.0,,,,,8000.0,hco,mepha,2017,99,
-"Lindenhofspital - Gastroenterolog. Praxis Balsinger, Seibold, & Partner/Crohn-Colitis Zentrum",Bern,CH,Bremgartenstrasse 119,,,,,40.54,900.56,200.0,,1141.1,hco,takeda,2016,99,
+"Lindenhofspital - Gastroenterolog. Praxis Balsinger, Seibold, & Partner/Crohn-Colitis Zentrum",Bern,CH,Bremgartenstrasse 119,,,,,40.54,900.56,200.0,,1141.1,hco,takeda,2016,10022,
 Lindenhofspital - Lindenhof AG,Bern,CH,Bremgartenstrasse 117,,,,500.0,,,,,500.0,hco,vifor,2017,99,
 Lindenplatz Apotheke,Allschwil,CH,Langmattwei 1,,,,,186.16,422.06,,,608.22,hco,sandoz,2016,1844,1.0
 lnsel Gruppe AG,Bern,CH,"Insel Gruppe AG, Universitätsklinik für Kinderheilkunde, Freiburgstrasse",3010,,,,,,500.0,,500.0,hco,teva,2016,2,
@@ -6605,12 +6605,12 @@ Medworld AG,Steinhausen,CH,Sennweidstrasse 46,,,,4320.0,,,,,4320.0,hco,pierre,20
 Medworld AG,Steinhausen,CH,Sennweidstrasse 46,,,,9540.0,,,,,9540.0,hco,daiichi,2016,259,
 Medworld AG,Steinhausen,CH,Sennweidstrasse 46,,,,7495.0,,,,,7495.0,hco,lundbeck,2016,259,
 Medworld AG,Steinhausen,CH,Sennweidstrasse 46,,,0.0,23920.0,0.0,0.0,0.0,0.0,23920.0,hco,pierre,2015,259,
-Meeting Com Congress Organisation,Cheseaux-sur-lausanne,CH,Rue des Pâquis 1,1033,,0.0,7000.0,0.0,0.0,0.0,0.0,7000.0,hco,roche,2015,105,
-Meeting Com Congress Organisation,Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,1033,,0.0,9000.0,0.0,405.0,0.0,0.0,9405.0,hco,roche,2017,105,
-Meeting Com Congress Organisation,Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,roche,2016,105,
+Meeting Com Congress Organisation,Cheseaux-sur-lausanne,CH,Rue des Pâquis 1,1033,,0.0,7000.0,0.0,0.0,0.0,0.0,7000.0,hco,roche,2015,10023,1.0
+Meeting Com Congress Organisation,Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,1033,,0.0,9000.0,0.0,405.0,0.0,0.0,9405.0,hco,roche,2017,10023,
+Meeting Com Congress Organisation,Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,roche,2016,10023,
 Meeting.COM Sarl Congress Organisation (Journée GRSSGO),Cheseaux,CH,Rue des Pâquis 1,,,0.0,4810.0,0.0,0.0,0.0,0.0,4810.0,hco,zambon,2015,105,
 Meeting.COM Sarl Congress Organisation (Journée GRSSGO),Cheseaux-sur-lausanne,CH,Rue des Pâquis 1,,,0.0,3230.0,0.0,0.0,0.0,0.0,3230.0,hco,pierre,2015,105,
-Meeting.com Sàrl,Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,janssen,2017,105,
+Meeting.com Sàrl,Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,janssen,2017,10023,
 Meeting.Com Sàrl Congress Organisation (Journée d'Automne du GRSSGP),Cheseaux,CH,Rue des Pâquis 1,,,,5000.0,,,,,5000.0,hco,zambon,2016,105,
 Meier Augen AG,Rapperswil SG,CH,Merkurstrasse 50,,,0.0,0.0,0.0,0.0,3300.0,623.33,3923.33,hco,novartis,2017,989,1.0
 Meier-Augen AG,Rapperswil,CH,Merkurstrasse 50,8640,,,,,200.0,1200.0,89.0,1489.0,hco,allergan,2017,989,
@@ -6705,10 +6705,10 @@ Netzwerk für Fortbildung am oberen Zürichsee,Jona,CH,c/o Tumorzentrum ZeTup Ra
 Netzwerk für Fortbildung am oberen Zürichsee,Rapperswil,CH,Alte Jonastrasse 24,8640,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,roche,2017,994,1.0
 Netzwerk für Fortbildung am oberen Zürichsee,Rapperswil SG,CH,Alte Jonastrasse 24,8640,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,roche,2015,994,
 Neurocentro della Svizzera Italiana (NSI),Lugano,CH,Via Tesserete 46,,,,2500.0,,,,,2500.0,hco,abbvie,2016,16,
-Neurocentro della Svizzera Italiana (NSI),Lugano,CH,Via Tesserete 46,,,25000.0,4000.0,,,,,29000.0,hco,abbvie,2017,16,1.0
+Neurocentro della Svizzera Italiana (NSI),Lugano,CH,Via Tesserete 46,,,25000.0,4000.0,,,,,29000.0,hco,abbvie,2017,16,
 Neurocentro della Svizzera Italiana (NSI),Lugano,CH,Via Tesserete 46,,,,4000.0,,,,,4000.0,hco,csl,2017,16,
 Neurocentro della Svizzera italiana NSI,Lugano,CH,Via Tesserete 46,,,0.0,4000.0,614.0,722.0,2600.0,1495.0,9431.0,hco,zambon,2017,16,
-Neurocentro della Svizzera Italiana NSI,Lugano,CH,Ospedale Regionale di Lugano,,,,2500.0,,,,,2500.0,hco,csl,2016,16,
+Neurocentro della Svizzera Italiana NSI,Lugano,CH,Ospedale Regionale di Lugano,,,,2500.0,,,,,2500.0,hco,csl,2016,16,1.0
 Neurokränzli Luzern,Luzern,CH,Alpenstrasse,,,,500.0,,,,,500.0,hco,eisai,2016,995,
 Neurokränzli Luzern Regula Ehrbar & Jan Voss,Luzern,CH,Alpenstrasse,6004,,,500.0,,,,,500.0,hco,eisai,2017,995,1.0
 Neurologica GmbH,Zollikon,CH,Forchstrasse 424,,,0.0,0.0,0.0,0.0,4000.0,0.0,4000.0,hco,novartis,2017,1919,1.0
@@ -7174,9 +7174,9 @@ Paul Josef Mohacsi Inselspital,Bern,CH,Freiburgstrasse,,,,,,750.0,,,750.0,hco,bi
 PDAG - Psychiatrische Dienste Aargau AG,Aarau,CH,Bleichemattstrasse 16,,,,1080.0,,,,,1080.0,hco,vifor,2017,1970,1.0
 PDAG - Pyschiatrische Dienste Aargau AG,Brugg AG,CH,Postfach 432,,,,2000.0,,,,,2000.0,hco,vifor,2016,541,
 PDAG_Psychiatrische Dienste Aargau,Windisch,CH,Zürcherstrasse 241,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,vifor,2015,122,
-Pediatric Emergency Medicine,Zürich,CH,Steinwiesstrasse 75,,,,1500.0,,,,,1500.0,hco,csl,2017,23,
-Pediatric Emergency Medicine of Switzerland (PEMS),Zürich,CH,Steinwiesstr. 75,8032,,,1000.0,,,,,1000.0,hco,sanofi,2017,23,
-Pediatric Emergency Medicine Switzerland PEMS,Zürich,CH,Steinwiesstrasse 75,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,csl,2015,23,
+Pediatric Emergency Medicine,Zürich,CH,Steinwiesstrasse 75,,,,1500.0,,,,,1500.0,hco,csl,2017,10015,1.0
+Pediatric Emergency Medicine of Switzerland (PEMS),Zürich,CH,Steinwiesstr. 75,8032,,,1000.0,,,,,1000.0,hco,sanofi,2017,10015,
+Pediatric Emergency Medicine Switzerland PEMS,Zürich,CH,Steinwiesstrasse 75,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,csl,2015,10015,
 PEZZ Pädiatrisch- Endokrinologisches Zentrum Zürich,Zürich,CH,Möhrlistrasse 69,,,,,,,2400.0,,2400.0,hco,eli,2017,383,
 PEZZ Pädiatrisch-Endo krinologisches Zentrum Zürich,Zürich,CH,Möhrlistrasse 69,,,48000.0,,,,2500.0,,50500.0,hco,merck,2017,383,
 PEZZ Pädiatrisch-Endokrinologisches Zentrum Zürich,Zürich,CH,Möhrlistrasse 69,,,48000.0,0.0,0.0,0.0,0.0,0.0,48000.0,hco,merck,2015,383,
@@ -7231,7 +7231,7 @@ pharmActuel Zürich,Zürich,CH,Hochstrasse 97,8044,1066839479,0.0,1800.0,0.0,0.0
 "PharmActuel, Baselstädtischer Apothekerverein",Binningen,CH,Bleicherweg 5,,,,1000.0,,,,,1000.0,hco,mepha,2016,1988,1.0
 PHARMACTUELVAUD,Cugy,CH,Case postale 62,,,,2000.0,,,,,2000.0,hco,gilead,2016,680,
 PharmaDavos,Biel/Bienne,CH,Bözingenstrasse 162,,,,1000.0,,,,,1000.0,hco,bgp,2017,1989,1.0
-Pharmakologie (UNIBE),Bern,CH,Friedbühlstrasse 49,,,0.0,41800.0,0.0,0.0,0.0,0.0,41800.0,hco,pfizer,2015,2,
+Pharmakologie (UNIBE),Bern,CH,Friedbühlstrasse 49,,,0.0,41800.0,0.0,0.0,0.0,0.0,41800.0,hco,pfizer,2015,188,
 Pharmakologisches Institut Bern,Bern,CH,Friedbühlstrasse 49,3010,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,roche,2015,1990,1.0
 Pharmashop SARL,Cologny,CH,Chemin du Joran 9,,,,400.0,,,,,400.0,hco,eli,2017,1991,1.0
 pharmaSuisse,Bern,CH,Stationsstrasse 12,,,0.0,5400.0,0.0,0.0,0.0,0.0,5400.0,hco,bgp,2015,184,
@@ -7253,9 +7253,9 @@ Pharmazeutische Gesellschaft Basel,Birsfelden,CH,Burenweg 39,,,,3000.0,,,,,3000.
 Pharmazeutische Gesellschaft Basel,Blauen,CH,Sodackerweg 2,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,glaxosmithkline,2015,1018,
 Pharmazeutische Gesellschaft Basel,Basel,CH,"c/o Sandra Holmegaard, Sodackerweg 2",4223,,,1500.0,,,,,1500.0,hco,teva,2016,1018,
 Pharmazeutische Gesellschaft BS,Blauen,CH,Sodackerweg 2,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,janssen,2016,1018,1.0
-Physiologisches Institut,Zürich,CH,Winterthurerstrasse 190,,,,,,,9740.0,,9740.0,hco,otsuka,2017,1,
-Physiologisches Institut,Zürich,CH,Winterthurerstrasse 190,,,0.0,0.0,0.0,0.0,6540.0,0.0,6540.0,hco,otsuka,2016,1,
-Physiologisches Institut,Zürich,CH,Winterthurerstrasse 190,,,0.0,0.0,0.0,0.0,2100.0,0.0,2100.0,hco,otsuka,2015,1,
+Physiologisches Institut,Zürich,CH,Winterthurerstrasse 190,,,,,,,9740.0,,9740.0,hco,otsuka,2017,10011,
+Physiologisches Institut,Zürich,CH,Winterthurerstrasse 190,,,0.0,0.0,0.0,0.0,6540.0,0.0,6540.0,hco,otsuka,2016,10011,
+Physiologisches Institut,Zürich,CH,Winterthurerstrasse 190,,,0.0,0.0,0.0,0.0,2100.0,0.0,2100.0,hco,otsuka,2015,10011,
 Pierre Michetti (Academic),Cully,CH,Chemin des Colombaires,,,0.0,0.0,0.0,0.0,4200.0,0.0,4200.0,hco,abbvie,2015,331,
 Pierre Michetti Academic,Cully,CH,Chemin des Colombaires 16,,,,,,,700.0,,700.0,hco,abbvie,2016,331,
 Pierre Michetti Academic,Cully,CH,Chemin des Colombaires 16,,,0.0,0.0,0.0,0.0,7210.0,0.0,7210.0,hco,pfizer,2017,331,1.0
@@ -7313,23 +7313,23 @@ PMES Réseau Romand de Médécin de l'Exercice et du Sport,Meyrin,CH,Avenue Jean
 PMSE SA,Le Lignon,CH,chemin du château bloch 11,,,,2700.0,,,,,2700.0,hco,bgp,2017,1997,1.0
 PMSE SA Prévention e Maintien de la santé en entreprise,Le Lignon,CH,chemin de la Muraille 12,,,0.0,2700.0,0.0,0.0,0.0,0.0,2700.0,hco,bgp,2015,1997,
 PMSE SA Prévention e Maintien de la santé en entreprise,Le Lignon,CH,Chemin de la Muraille 12,,,,3078.0,,,,,3078.0,hco,bgp,2016,1997,
-PMU Policlinique Médicale,Lausanne,CH,Rue Du Bugnon 44,,,,6480.0,,,,,6480.0,hco,vifor,2016,3,
-PMU Policlinique Médicale,Lausanne,CH,Rue du Bugnon 44,,,0.0,4320.0,0.0,0.0,0.0,0.0,4320.0,hco,pfizer,2015,3,
+PMU Policlinique Médicale,Lausanne,CH,Rue Du Bugnon 44,,,,6480.0,,,,,6480.0,hco,vifor,2016,10013,
+PMU Policlinique Médicale,Lausanne,CH,Rue du Bugnon 44,,,0.0,4320.0,0.0,0.0,0.0,0.0,4320.0,hco,pfizer,2015,10013,
 Pneumoclub Lugano Dr. med. CalderariGianluca,Lugano,CH,Corso Pestalozzi 11,6900,,,2800.0,,,,,2800.0,hco,boehringer,2017,1998,1.0
-Policlinique d'addictologie,Lausanne,CH,Rue du Bugnon 23,,,,,717.0,698.0,,,1415.0,hco,abbvie,2017,1999,1.0
-Policlinique Medicale Universit.,Lausanne,CH,Rue Du Bugnon 44,,,,,,,1000.0,,1000.0,hco,amgen,2016,3,
-Policlinique Médicale Universitaire,Lausanne,CH,Rue du Bugnon 44,,,0.0,21276.0,0.0,0.0,0.0,0.0,21276.0,hco,glaxosmithkline,2017,3,
-Policlinique Médicale Universitaire,Lausanne,CH,Rue du Bugnon 44,,,0.0,0.0,0.0,0.0,1650.0,0.0,1650.0,hco,csl,2015,3,
-Policlinique Médicale Universitaire,LAUSANNE,CH,Rue du Bugnon 44,,,0.0,29484.0,0.0,0.0,0.0,0.0,29484.0,hco,glaxosmithkline,2016,3,
-Policlinique Médicale Universitaire,Lausanne,CH,Rue du Bugnon 44,,,0.0,20488.15,0.0,0.0,0.0,0.0,20488.15,hco,glaxosmithkline,2015,3,
-Policlinique Médicale Universitaire,Lausanne,CH,Policlinique Médicale Universitaire Rue du Bugnon 44,,,0.0,3000.0,0.0,0.0,3500.0,0.0,6500.0,hco,msd,2015,3,
-Policlinique Médicale Universitaire,Lausanne,CH,Rue Du Bugnon 44,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,amgen,2015,3,
-Policlinique Médicale Universitaire,Lausanne,CH,Rue du Bugnon 44,,,,4320.0,,,,,4320.0,hco,vifor,2017,3,
-Policlinique Médicale Universitaire,Lausanne,CH,Rue du Bugnon 44,,,,,,,2750.0,,2750.0,hco,csl,2017,3,
-Policlinique Médicale Universitaire (PMU),Lausanne,CH,Rue du Bugnon 44,,,,4000.0,,,,,4000.0,hco,mepha,2016,3,
-Policlinique Médicale Universitaire (PMU),Lausanne,CH,Rue du Bugnon 44,,,,4000.0,,,,,4000.0,hco,mepha,2017,3,
-Policlinique Médicale Universitaire (PMU),Lausanne,CH,Rue du Bugnon 44,,,,3000.0,,,,,3000.0,hco,sandoz,2017,3,
-"Policlinique Médicale Universitaire, Pharmacie",Lausanne,CH,Rue du Bugnon 44,,,,,,,2090.0,,2090.0,hco,csl,2016,3,
+Policlinique d'addictologie,Lausanne,CH,Rue du Bugnon 23,,,,,717.0,698.0,,,1415.0,hco,abbvie,2017,10013,
+Policlinique Medicale Universit.,Lausanne,CH,Rue Du Bugnon 44,,,,,,,1000.0,,1000.0,hco,amgen,2016,10013,
+Policlinique Médicale Universitaire,Lausanne,CH,Rue du Bugnon 44,,,0.0,21276.0,0.0,0.0,0.0,0.0,21276.0,hco,glaxosmithkline,2017,10013,1.0
+Policlinique Médicale Universitaire,Lausanne,CH,Rue du Bugnon 44,,,0.0,0.0,0.0,0.0,1650.0,0.0,1650.0,hco,csl,2015,10013,
+Policlinique Médicale Universitaire,LAUSANNE,CH,Rue du Bugnon 44,,,0.0,29484.0,0.0,0.0,0.0,0.0,29484.0,hco,glaxosmithkline,2016,10013,
+Policlinique Médicale Universitaire,Lausanne,CH,Rue du Bugnon 44,,,0.0,20488.15,0.0,0.0,0.0,0.0,20488.15,hco,glaxosmithkline,2015,10013,
+Policlinique Médicale Universitaire,Lausanne,CH,Policlinique Médicale Universitaire Rue du Bugnon 44,,,0.0,3000.0,0.0,0.0,3500.0,0.0,6500.0,hco,msd,2015,10013,
+Policlinique Médicale Universitaire,Lausanne,CH,Rue Du Bugnon 44,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,amgen,2015,10013,
+Policlinique Médicale Universitaire,Lausanne,CH,Rue du Bugnon 44,,,,4320.0,,,,,4320.0,hco,vifor,2017,10013,
+Policlinique Médicale Universitaire,Lausanne,CH,Rue du Bugnon 44,,,,,,,2750.0,,2750.0,hco,csl,2017,10013,
+Policlinique Médicale Universitaire (PMU),Lausanne,CH,Rue du Bugnon 44,,,,4000.0,,,,,4000.0,hco,mepha,2016,10013,
+Policlinique Médicale Universitaire (PMU),Lausanne,CH,Rue du Bugnon 44,,,,4000.0,,,,,4000.0,hco,mepha,2017,10013,
+Policlinique Médicale Universitaire (PMU),Lausanne,CH,Rue du Bugnon 44,,,,3000.0,,,,,3000.0,hco,sandoz,2017,10013,
+"Policlinique Médicale Universitaire, Pharmacie",Lausanne,CH,Rue du Bugnon 44,,,,,,,2090.0,,2090.0,hco,csl,2016,10013,
 Polyarthritiker -Vereinigung,Zürich,CH,Feldeggstrasse 69,,,,6000.0,,,,,6000.0,hco,bristol,2017,1020,1.0
 PonteNet AG,Solothurn,CH,Rosenweg 2,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca,2017,1021,
 PonteNet AG,Solothurn,CH,Rosenweg 2,,,,1000.0,,,,,1040.0,hco,mepha,2017,1021,1.0
@@ -7363,8 +7363,8 @@ Praxis Warzinek Thomas,Sargans,CH,Bahnhofstrasse 6,,,,5000.0,,,,,5000.0,hco,abbv
 Praxis Weissenrieder Hansjörg,Zug,CH,Bundesstrasse 6,,,0.0,2700.0,0.0,0.0,0.0,0.0,2700.0,hco,otsuka,2015,2018,1.0
 Praxis Zerlauth Markus,Buchs SG,CH,Grünaustrasse 15,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,vifor,2015,2019,1.0
 Praxis am Bahnhof,Rüti,CH,Dorfstrasse 43/44,,,,200.0,,,,,215.0,hco,mepha,2017,2020,1.0
-"Praxis Balsiger, Seibold & Crohn-Colitis-Ze ntrum Hochhaus Lindenhofspital Bremgartenstrass",Bern,CH,"Praxis Balsiger, Seibold & Crohn-Colitis-Ze ntrum - Hochhaus Lindenhofspital Bremgartenstrasse 119",,,,,872.65,2244.3,,,3116.95,hco,msd,2016,99,
-"Praxis Balsiger, Seibold & Partner Crohn-Colitis",Bern,CH,"Zentrum Hochhaus Lindenhofspital, Bremgartenstrasse",,,,1500.0,,,,,1500.0,hco,msd,2017,99,
+"Praxis Balsiger, Seibold & Crohn-Colitis-Ze ntrum Hochhaus Lindenhofspital Bremgartenstrass",Bern,CH,"Praxis Balsiger, Seibold & Crohn-Colitis-Ze ntrum - Hochhaus Lindenhofspital Bremgartenstrasse 119",,,,,872.65,2244.3,,,3116.95,hco,msd,2016,10022,
+"Praxis Balsiger, Seibold & Partner Crohn-Colitis",Bern,CH,"Zentrum Hochhaus Lindenhofspital, Bremgartenstrasse",,,,1500.0,,,,,1500.0,hco,msd,2017,10022,
 Praxis Dr. Annen Noëlle / Dr. Annen Oliver,Root,CH,Bahnhofstrasse 24,6037,40673773,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0,hco,bayer,2017,2021,1.0
 Praxis Dr. Grizelj Branko,Schaan,CH,Landstrasse 97,9494,40676762,0.0,0.0,926.7,884.7,0.0,0.0,1811.4,hco,bayer,2017,2022,1.0
 Praxis Dr. Hasler Loretta Ag,Biel/Bienne,CH,Hans-Hugi-Strasse 3,,,,2000.0,,,,,2000.0,hco,amgen,2017,509,1.0
@@ -7450,7 +7450,7 @@ PRIVATKLINIK OBACH,Solothurn,CH,Leopoldstr. 5,,,,,,,4320.0,,4320.0,hco,sanofi,20
 Privatklinik Obach,Solothurn,CH,Leopoldstrasse 5,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,amgen,2015,38,
 Privatklinik Obach,Solothurn,CH,Leopoldstrasse 1,,,,1080.0,,,,,1080.0,hco,pfizer,2016,38,
 Privatklinik Obach,Solothurn,CH,Leopoldstr. 5,4500,,,,,,2160.0,,2160.0,hco,sanofi,2017,38,
-Privatklinik Obach,Solothurn,CH,Leopoldstrasse 5,4500,,,2160.0,,,,,2160.0,hco,boehringer,2017,38,
+Privatklinik Obach,Solothurn,CH,Leopoldstrasse 5,4500,,,2160.0,,,,,2160.0,hco,boehringer,2017,38,1.0
 Privatklinik Obach,Solothurn,CH,Leopoldstrasse 1,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,mundipharma,2015,38,
 Privatklinik Obach,Solothurn,CH,Leopoldstrasse 5,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,roche,2016,38,
 Privatklinik Obach,Solothurn,CH,Leopoldstrasse 5,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis,2017,38,
@@ -7597,14 +7597,14 @@ Psychiatrische Uniklinik,Zürich,CH,Lenggstrasse 31,,,,20000.0,,,,,20000.0,hco,o
 Psychiatrische Uniklinik,Zürich,CH,Lenggstrasse 31,,,0.0,7500.0,0.0,0.0,0.0,0.0,7500.0,hco,otsuka,2016,10008,
 Psychiatrische Universitätsklin ik Zürich,Zürich,CH,Lenggstrasse 31,,,,706.85,,,,,706.85,hco,sandoz,2017,10008,
 Psychiatrische Universitätsklinik,Zürich,CH,Lenggstrasse 31,,,,6480.0,,,,,6480.0,hco,vifor,2017,10008,1.0
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,8000.0,0.0,552.95,4000.0,0.0,12552.95,hco,takeda,2015,,10008,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,15000.0,0.0,0.0,0.0,0.0,15000.0,hco,otsuka,2015,,10008,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31 Postfach,1931,,0.0,818.0,0.0,0.0,0.0,0.0,818.0,hco,lundbeck,2015,,10008,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,takeda,2015,,10008,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,,1080.0,,,,,1080.0,hco,vifor,2016,,10008,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Selnaustrasse 9,,,,,,,1500.0,,1500.0,hco,lundbeck,2016,,10008,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,18000.0,0.0,0.0,0.0,0.0,18000.0,hco,eli,2015,,10008,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Selnaustrasse 9,,,0.0,0.0,368.5,712.92,0.0,0.0,1081.42,hco,takeda,2015,,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,8000.0,0.0,552.95,4000.0,0.0,12552.95,hco,takeda,2015,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,15000.0,0.0,0.0,0.0,0.0,15000.0,hco,otsuka,2015,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31 Postfach,1931,,0.0,818.0,0.0,0.0,0.0,0.0,818.0,hco,lundbeck,2015,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,takeda,2015,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,,1080.0,,,,,1080.0,hco,vifor,2016,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Selnaustrasse 9,,,,,,,1500.0,,1500.0,hco,lundbeck,2016,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,18000.0,0.0,0.0,0.0,0.0,18000.0,hco,eli,2015,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Selnaustrasse 9,,,0.0,0.0,368.5,712.92,0.0,0.0,1081.42,hco,takeda,2015,10008,
 Psychiatrische Universitätsklinik Zürich,Zürich,CH,Klinik f. Affektive Erkrankungen und Allgemeinpsychiatrie Zürich Ost - Lenggstrasse 31,8032,PsychiatrischeUniversitätsklinikZürich,,2000.0,,,,,2000.0,hco,servier,2017,10008,
 Psychiatrische Universitätsklinik Zürich,Zürich,CH,Klinik f. Affektive Erkrankungen und Allgemeinpsychiatrie Zürich Ost - Lenggstrasse 31,,,,6000.0,,,,,6000.0,hco,servier,2016,10008,
 Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,,4000.0,,,,,4000.0,hco,eli,2017,10008,
@@ -7614,7 +7614,7 @@ Psychiatrisches Zentrum Appenzell Ausserrhoden,Herisau,CH,Krombach 3,,,,1080.0,,
 Psychiatrisches Zentrum Appenzell Ausserrhoden,Herisau,CH,Krombach 3,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,mepha,2015,1033,
 Psychiatrisches Zentrum Herisau,Herisau,CH,Psychiatrisches Zentrum Herisau Postfach,,,0.0,1080.0,0.0,0.0,0.0,0.0,1080.0,hco,lundbeck,2015,2070,1.0
 Psychiatrisches Zentrum Herisau -Sozialpsychiatrische Dienst,Herisau,CH,Krombach 3,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,2070,
-Psychiatrisches Zentrum St. Gallen -Ambulatorium,Sl Gallen,CH,Teufener Strasse 26,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,2072,1.0
+Psychiatrisches Zentrum St. Gallen -Ambulatorium,St. Gallen,CH,Teufener Strasse 26,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,2072,1.0
 "Schweizerische Gesellschaft für Psychoonkolgoie (SGPO), Sekretariat SGPO c/o Krebsliga Schweiz",Bern,CH,"Effingerstrasse 40, Postfach",8219,,,2000.0,,,,,2000.0,hco,teva,2017,2073,1.0
 Public Health Schweiz,Bern,CH,Effingerstrasse 54,,,,450.0,,,,,450.0,hco,amgen,2017,2074,1.0
 PULSUS,Luzern,CH,Lidostrasse 6 Postfach,1512,,,500.0,,,,,500.0,hco,lundbeck,2016,1034,
@@ -8009,7 +8009,7 @@ Sagb,Weinfelden,CH,postfach 59,8570,,,1000.0,,,,,1000.0,hco,eisai,2017,547,1.0
 Sagb,Weinfelden,CH,Dr. med. Felix Brem Postfach 59,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,eisai,2015,547,
 SAGB c/o Dr. med Felix Brem,Weinfelden,CH,Postfach 59,,,,1500.0,,,,,1500.0,hco,sandoz,2017,547,
 SAKK,Bern,CH,"Birmensdorferstrasse 497, Zürich",,,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0,hco,mundipharma,2016,18,
-SAKK,Bern,CH,Effingerstrasse 33,,,,4000.0,,,,,4000.0,hco,teva,2017,18,1.0
+SAKK,Bern,CH,Effingerstrasse 33,,,,4000.0,,,,,4000.0,hco,teva,2017,18,
 SAKK,Bern,CH,"Effingerstrasse 40, Bern",,,30000.0,18250.0,0.0,0.0,0.0,0.0,48250.0,hco,janssen,2015,18,
 SAKK,Bern,CH,Effingerstrasse 33,,,5000.0,43080.0,,,,,48080.0,hco,bristol,2016,18,
 SAKK,Bern,CH,Effingerstrasse40,,,,29000.0,,,,,29000.0,hco,merck,2016,18,
@@ -8087,11 +8087,11 @@ SAMO - Geschäftsstelle,Bern,CH,Effingerstrasse 40,,,0.0,1500.0,0.0,0.0,0.0,0.0,
 SAMO - Geschäftsstelle,Bern,CH,Effingerstrasse 40,,,0.0,9500.0,0.0,0.0,0.0,0.0,9500.0,hco,janssen,2017,26,
 Samo - Geschäftsstelle,Bern,CH,Effingerstrasse 40,,,0.0,19500.0,0.0,0.0,0.0,0.0,19500.0,hco,amgen,2015,26,
 Samo - Geschäftsstelle,Bern,CH,Samo - Geschäftsstelle Effingerstrasse 40,,,1500.0,8000.0,,,,,9500.0,hco,astellas,2016,26,
-SAMO - Geschäftsstelle,Bern,CH,Effingerstrasse 40 c/o IBCSG Coordinating Center,,,,,11500.0,,,,11500.0,hco,pierre,2017,26,1.0
+SAMO - Geschäftsstelle,Bern,CH,Effingerstrasse 40 c/o IBCSG Coordinating Center,,,,,11500.0,,,,11500.0,hco,pierre,2017,26,
 Samo - Geschäftsstelle,Bern,CH,"c/o IBCSG Coordinating Center, Effingerstrasse 40",,,0.0,6389.0,0.0,0.0,0.0,0.0,6389.0,hco,eli,2015,26,
 Samo - Geschüftsstelle,Bern,CH,Effingerstrasse 40,,,,35640.0,,,,,35640.0,hco,bristol,2016,26,
 Samo -Geschäftsstelle,Bern,CH,Effingerstrasse 40,,,,13000.0,,,,,13000.0,hco,amgen,2017,26,
-SAMO Swiss Academy of Multidisciplinary Oncology,Bern,CH,Effingerstrasse 40,,,0.0,10260.0,0.0,0.0,0.0,0.0,10260.0,hco,pfizer,2017,26,
+SAMO Swiss Academy of Multidisciplinary Oncology,Bern,CH,Effingerstrasse 40,,,0.0,10260.0,0.0,0.0,0.0,0.0,10260.0,hco,pfizer,2017,26,1.0
 SAMO Swiss Academy of Multidisciplinary Oncology,Bern,CH,Effingerstrasse 40,3008,,14500.0,0.0,0.0,0.0,0.0,0.0,14500.0,hco,astrazeneca,2015,26,
 SAMO Swiss Academy of Multidisciplinary Oncology,Bern,CH,Effingerstrasse 40,,,,17820.0,,,,,17820.0,hco,pfizer,2016,26,
 SAMO Swiss Academy of Multidisciplinary Oncology,Bern,CH,Effingerstrasse 40,,,0.0,24500.0,0.0,0.0,0.0,0.0,24500.0,hco,bayer,2015,26,
@@ -8442,7 +8442,7 @@ Schweizerische Multiple Sklerose Gesellschaft,Zürich,CH,Josefstrasse 129,8031,,
 Schweizerische Multiple Sklerose Gesellschaft,Zürich,CH,Josefstrasse 129,,,0.0,39100.0,0.0,0.0,0.0,0.0,39100.0,hco,biogen,2015,200,
 Schweizerische Multiple Sklerose Gesellschaft,Zürich,CH,Josefstrasse 129,,,33750.0,20000.0,,,,,53750.0,hco,biogen,2017,200,
 Schweizerische Neurologische  Gesellschaft SNG,Basel,CH,c/o IMK Institut für Medizin und Kommunikation - Münsterberg 1,,,0.0,54135.0,0.0,0.0,0.0,0.0,54135.0,hco,zambon,2017,96,
-Schweizerische Neurologische Gesellchaft,Basel,CH,Münsterberg 1,4001,,,26700.0,,,,,26700.0,hco,allergan,2017,96,
+Schweizerische Neurologische Gesellchaft,Basel,CH,Münsterberg 1,4001,,,26700.0,,,,,26700.0,hco,allergan,2017,96,1.0
 Schweizerische Neurologische Gesellschaft,Basel,CH,Münsterberg 1,,,,24240.0,,,,,24240.0,hco,csl,2017,96,
 Schweizerische Neurologische Gesellschaft (SNG) c/o IMK AG,Basel,CH,Münsterberg 1,,,18800.0,,,,,,18800.0,hco,novartis,2016,96,
 Schweizerische Neurologische Gesellschaft - Société Suisse de Neurologie,Basel,CH,Münsterberg 1,4001,1051697731,0.0,53350.0,0.0,0.0,0.0,0.0,53350.0,hco,bayer,2017,96,
@@ -8583,7 +8583,7 @@ Second Chance Association,Meyrin,CH,Avenue Jean-Daniel-Maillard 1,,,10000.0,,,,,
 Second Chance Association,Meyrin,CH,Avenue Jean-Daniel-Maillard 1,1217,SecondChanceAssociationMeyrin,10000.0,,,,,,10000.0,hco,servier,2017,706,1.0
 Second Chance Association,Meyrin,CH,Avenue Jean-Daniel-Maillard 1,,,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0,hco,servier,2015,706,
 Secrétariat Du Cap Ofac,Nyon,CH,Rue Juste-Olivier 16,1260,,,1620.0,,,,,1620.0,hco,sanofi,2017,497,1.0
-Secrétariat du Groupement Romand de la Société Suisse de Gynécologie et Obstétrique,Cheseaux-sur-lausanne,CH,Rue des Pâquis 1,,,0.0,18000.0,0.0,0.0,0.0,0.0,18000.0,hco,vifor,2015,105,
+Secrétariat du Groupement Romand de la Société Suisse de Gynécologie et Obstétrique,Cheseaux-sur-lausanne,CH,Rue des Pâquis 1,,,0.0,18000.0,0.0,0.0,0.0,0.0,18000.0,hco,vifor,2015,105,1.0
 Secrétariat du GRSSGO,Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,,,,20225.8,,,,,20225.8,hco,vifor,2016,105,
 Section of Pharmaceutical Sciences University of Geneva,Genève,CH,Quai E-Ansermet 30,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca,2017,2210,1.0
 Sede cent Oncol. Svizz. Italiana,Bellinzona,CH,Via Ospedale,,,,1000.0,,,,,1000.0,hco,pierre,2017,2211,1.0
@@ -8684,7 +8684,7 @@ SGAI Schweiz. Ges. für Allergologie + Imm.,Bern,CH,Scheibenstrasse,,,,16180.0,,
 Sgai Schweiz. Gesellschaft Für Allergologie Und Immunologie,Bern,CH,Scheibenstrasse 20,,,,13500.0,,,,,13500.0,hco,shire,2017,60,
 SGAI Schweizerischen Gesellschaft für Allergologie und Immunologie,Bern,CH,Scheibenstrasse 20,,,0.0,14500.0,0.0,0.0,0.0,0.0,14500.0,hco,biotest,2015,60,
 SGAI Schweizerischen Gesellschaft für Allergologie und Immunologie,Bern,CH,Scheibenstrasse 20,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,biotest,2015,60,
-SGAIM,Bern,CH,Monbijoustrasse 43,,,,5640.0,,,,,5640.0,hco,pierre,2017,90,1.0
+SGAIM,Bern,CH,Monbijoustrasse 43,,,,5640.0,,,,,5640.0,hco,pierre,2017,90,
 Sgaim,Bern,CH,Monbijoustrasse 43,,,,15680.0,,,,,15680.0,hco,amgen,2016,90,
 SGAIM,Bern,CH,Monbijoustrasse 43,,,,8660.0,,,,,8660.0,hco,bgp,2017,90,
 SGAIM,Bern,CH,Monbijoustrasse 43,,,0.0,77170.0,0.0,0.0,0.0,0.0,77170.0,hco,bayer,2016,90,
@@ -8692,7 +8692,7 @@ SGAIM,Basel,CH,Schweiz.Ges. Allgemeine Innere Medizin,,,112495.0,,,,,,112495.0,h
 SGAIM,Bern,CH,SGAIM Monbijoustrasse 43,,,,17640.0,,,,,17640.0,hco,astellas,2016,90,
 SGAIM Schweizerische Gesellschaft für Allgemeine Innere Medizin,Bern,CH,Monbijoustrasse 43,,,,71561.0,,,,,71561.0,hco,pfizer,2016,90,
 SGAIM Schweizerische Gesellschaft für Allgemeine Innere Medizin,Bern,CH,Monbijoustrasse 43,,,0.0,23522.0,0.0,0.0,0.0,0.0,23522.0,hco,pfizer,2017,90,
-SGAIM - Schweizerische Gesellschaft für Allgemeine Innere Medizin,Bern,CH,Monbijoustrasse 43,,,,45057.6,,,,,45057.6,hco,vifor,2017,90,
+SGAIM - Schweizerische Gesellschaft für Allgemeine Innere Medizin,Bern,CH,Monbijoustrasse 43,,,,45057.6,,,,,45057.6,hco,vifor,2017,90,1.0
 SGAIM - Schweizerische Gesellschaft für Allgemeine Innere Medizin,Bern,CH,Monbijoustrasse 43,,,,8467.2,,,,,8467.2,hco,vifor,2016,90,
 SGAM,Liechtensteig,CH,Oberplattenstrasse 73,,,,5880.0,,,,,5880.0,hco,menarini,2016,761,1.0
 SGAMSP,Aarburg,CH,Geschäftsstelle / Sekretariat Postfach 100,,,,4000.0,,,,,4000.0,hco,sandoz,2017,223,
@@ -8849,8 +8849,8 @@ SGPGHE,Winterthur,CH,Brauerstrasse 15,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,as
 SGPGHE/SSGHNP,Basel,CH,"c/o Dr, med. M. Sidler, Kassier, Pädiatrische Gastroenterologie, Universitäts-Kinderspital beider Basel",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,vifor,2015,1070,
 SGPGHE/SSGHNP - Schweizerische Gesellschaft für Pädiatrische Gastroenterologie,Rorschacherberg,CH,Hepatologie und Ernärung,,,,1500.0,,,,,1500.0,hco,vifor,2017,1070,
 SGPH,Basel,CH,Münsterberg 1,,,0.0,25000.0,0.0,0.0,0.0,0.0,25000.0,hco,bayer,2015,483,
-SGPHEG (Schweizerische Gesellschaft für pädiatrische Gastroenterologie) Universitäts-Kinderspital be,Basel,CH,Spitalstrasse 33,,,,1000.0,,,,,1000.0,hco,msd,2017,47,
-SGPHEG (Schweizerische Gesellschaft für pädiatrische Gastroenterologie) Universitäts-Kinderspital be,Basel,CH,SGPHEG (Schweizerische Gesellschaft -für pädiatrische Gastroenterologi e) - Universitäts-Kinderspital beider Basel Spitalstrasse 33,,,,500.0,,,,,500.0,hco,msd,2016,47,
+SGPHEG (Schweizerische Gesellschaft für pädiatrische Gastroenterologie) Universitäts-Kinderspital,Basel,CH,Spitalstrasse 33,,,,1000.0,,,,,1000.0,hco,msd,2017,10017,1.0
+SGPHEG (Schweizerische Gesellschaft für pädiatrische Gastroenterologie) Universitäts-Kinderspital,Basel,CH,SGPHEG (Schweizerische Gesellschaft -für pädiatrische Gastroenterologi e) - Universitäts-Kinderspital beider Basel Spitalstrasse 33,,,,500.0,,,,,500.0,hco,msd,2016,10017,
 SGPMR Schweizerische Gesellschaft für physikalische Medizin und Rehabilitation,Steinhausen,CH,Sennweidstrasse 46,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,pfizer,2017,1071,1.0
 SGPMR Schweizerische Gesellschaft für physikalische Medizin und Rehabilitation,Steinhausen,CH,Sennweidstrasse 46,,,,2000.0,,,,,2000.0,hco,pfizer,2016,1071,
 SGPMR Schweizerische Gesellschaft für physikalische Medizin und Rehabilitation,Zürich,CH,Sonneggstrasse 84,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,pfizer,2015,1071,
@@ -9681,9 +9681,9 @@ St. Claraspital AG - Gastroenterologie,Basel,CH,Kleinriehenstrasse 30,,,,,257.95
 "St. Claraspital, Bauchzenturm",Basel,CH,Kleinriehenstrasse 30,,,,2000.0,,,,,2000.0,hco,vifor,2016,63,
 St. Gallen Incology Conferences,St. Gallen,CH,Rorschacherstrasse 150,,,,,5140.0,,,,5140.0,hco,pierre,2016,29,
 St. Gallen Kantonsspital St.Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,,10300.0,,,1000.0,124.0,11424.0,hco,baxalta,2016,5,
-St. Gallen Oncology Conferences (SONK),St. Gallen,CH,Rorschacher Strasse 150,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,astrazeneca,2017,29,
+St. Gallen Oncology Conferences (SONK),St. Gallen,CH,Rorschacher Strasse 150,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,astrazeneca,2017,29,1.0
 St. Gallen Oncology Conferences (SONK),St. Gallen,CH,Rorschacherstr 150,,,,7700.0,,,,,7700.0,hco,merck,2016,29,
-"St. Gallen Oncology Conferences, c/o Tumor und Brustzentrum ZeTuP AG",St. Gallen,CH,Rorschacher Strasse 150,,,,4260.0,,,,,4260.0,hco,teva,2017,29,1.0
+"St. Gallen Oncology Conferences, c/o Tumor und Brustzentrum ZeTuP AG",St. Gallen,CH,Rorschacher Strasse 150,,,,4260.0,,,,,4260.0,hco,teva,2017,29,
 St. Gallische Kantonale Psych. Dienste,Wil,CH,Zürcherstrasse 30,,,,5500.0,,,,,5500.0,hco,lundbeck,2017,255,1.0
 St. Gallische Kantonale Psychiatrische Dienste - Sektor Nord,Wil SG,CH,Zürcherstrasse 30,9501,StGallischePsychiatrischeDiensteSektorNordWilSG,,4300.0,,,,,4300.0,hco,servier,2017,255,
 St. Gallische Kantonale Psychiatrische Dienste - Sektor Nord,Wil SG,CH,Zürcherstrasse 30,,,,7343.0,,,,,7343.0,hco,servier,2016,255,
@@ -9836,7 +9836,7 @@ Stiftung Forschung Gastroent. & Hepatologie,Zürich,CH,c/o Universitätsspital,,
 Stiftung Forschung Gastroent. & Hepatologie,Zürich,CH,c/o Universitätsspital,,,,5000.0,,,,,5000.0,hco,ferring,2017,468,
 Stiftung Forschung Gastroent. & Hepatologie,Zürich,CH,c/o Universitätsspital,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,ferring,2015,468,
 Stiftung Fuer Wissenschaftliche Forschung Fonds Rheumatologie Triemli,Zuerich,CH,Birmensdorferstrasse 497,,,1000.0,,,,,,1000.0,hco,celgene,2017,8,
-STIFTUNG FUR WISSENSCHAFTLICH E,Zürich,CH,BIRMENSDORFERSTR ASSE 497,,,,2500.0,,,,,2500.0,hco,sandoz,2016,8,
+STIFTUNG FüR WISSCHENSCHAFTLICHE FORSCHUNG FONDS ONKOLOGIE/HAEMATOLOGIE TRIEMLIZürich,CH,BIRMENSDORFERSTR ASSE 497,,,,2500.0,,,,,2500.0,hco,sandoz,2016,8,
 Stiftung Förder. Ausb.  Rad.,Wallisellen,CH,Hertistrasse 26,,,0.0,5500.0,0.0,0.0,0.0,0.0,5500.0,hco,bayer,2015,1094,
 Stiftung Förder. Ausb.  Rad.,Wallisellen,CH,Hertistrasse 26,,,0.0,5500.0,0.0,0.0,0.0,0.0,5500.0,hco,bayer,2016,1094,1.0
 Stiftung für die Forschung in der Gastroenterologie und Hepatologie,Zürich,CH,Rämistrasse 100,8091,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,roche,2015,468,
@@ -9994,7 +9994,7 @@ Stiftung SONK,St. Gallen,CH,Rorschacherstrasse 150,,,,8813.0,,,,,8813.0,hco,pfiz
 Stiftung SONK,St. Gallen,CH,Rorschacher Strasse 150,,,0.0,0.0,8529.6,0.0,0.0,0.0,8529.6,hco,bayer,2016,29,
 Stiftung Sonk,St. Gallen,CH,Rorschacherstrasse 150,,,,99121.48,,,,,99121.48,hco,amgen,2017,29,
 Stiftung SONK,St. Gallen,CH,"Rorschacherstrasse 150, St. Gallen",,,0.0,16844.0,0.0,0.0,0.0,0.0,16844.0,hco,janssen,2015,29,
-Stiftung SONK,,CH,"c/o Tumor- und Brustzentrum ZeTuP, RorschacherStr. 150",9006,,0.0,5140.0,0.0,0.0,0.0,0.0,5140.0,hco,teva,2015,2327,1.0
+Stiftung SONK,,CH,"c/o Tumor- und Brustzentrum ZeTuP, RorschacherStr. 150",9006,,0.0,5140.0,0.0,0.0,0.0,0.0,5140.0,hco,teva,2015,29,
 Stiftung SONK,St. Gallen,CH,Rorschacher Strasse 150,,,0.0,12300.0,30.0,0.0,0.0,0.0,12330.0,hco,bayer,2015,29,
 Stiftung SONK,St. Gallen,CH,Stiftung SONK - St.Gallen Oncology Conferences Rorschacher Strasse 150,,,0.0,4400.0,0.0,0.0,0.0,0.0,4400.0,hco,msd,2015,29,
 Stiftung SONK,St. Gallen,CH,Rorschacherstrasse 150,,,0.0,3300.0,0.0,0.0,0.0,0.0,3300.0,hco,vifor,2015,29,
@@ -10473,7 +10473,7 @@ Universitäre Psychiatrische Dienste Bern,Bern,CH,Bolligenstrasse 111,,,,2000.0,
 "Uicc, Union For International Cancer Control",Genève,CH,62 Route Defrontenex,,,25157.5,188397.05,,,,,213554.55,hco,amgen,2017,260,
 "Uicc, Union For International Cancer Control",Genève,CH,62 Route De Frontenex,,,23608.25,0.0,0.0,0.0,0.0,0.0,23608.25,hco,amgen,2015,260,
 "Uicc, Union For International Cancer Control",Genève,CH,62 Route De Frontenex,,,24292.75,226458.43,,,,,250751.18,hco,amgen,2016,260,
-UKBB,Basel,CH,Postfach,,,,1500.0,,,,,1500.0,hco,stallergenes,2017,47,1.0
+UKBB,Basel,CH,Postfach,,,,1500.0,,,,,1500.0,hco,stallergenes,2017,47,
 UKBB Universitäts-Kinderspital,Basel,CH,Spitalstrasse,,,,,,,1250.0,,1250.0,hco,eisai,2016,47,
 UKBB Universitäts-Kinderspital beider Basel,Basel,CH,Spitalstrasse 33,,,,,,,1000.0,,1000.0,hco,galderma,2016,47,
 UKBB Universitätskinderspital beider Basel,Basel,CH,Postfach,,,,1500.0,,,,,1500.0,hco,ferring,2017,47,
@@ -10514,19 +10514,19 @@ Universite de Geneve,Genève,CH,Rue General-Dufour 24,,,139206.3,,,,,,139206.3,h
 Universite de Geneve (HUG),Genève,CH,1 rue Michel-Servet,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,otsuka,2016,146,
 Universite de Geneve (HUG),Genève,CH,1 rue Michel-Servet,,,,3969.0,,,500.0,,4469.0,hco,otsuka,2017,146,
 University de Lausanne (UNIL) Service Financier Quartier UNIL-Centre,Lausanne,CH,Bâtiment Unithèque,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,novartis,2017,2442,1.0
-University Hospital,Bern,CH,Freiburgstrasse 8,3010,,,3000.0,,,,,3000.0,hco,neurim,2017,6,
+University Hospital,Bern,CH,Freiburgstrasse 8,3010,,,3000.0,,,,,3000.0,hco,neurim,2017,2,
 University Hospital Basel,Basel,CH,Spitalstrasse 21,,,,,,,2100.0,1134.52,3234.52,hco,merck,2017,6,
 UNIVERSITY HOSPITAL BASEL,BASEL,CH,PETERSGRABEN 4,,,,,,,1875.0,812.94,2687.94,hco,sanofi,2016,6,
 University Hospital Basel - Departement Innere Medizin,Basel,CH,Petersgraben 4,,,2000.0,,,,,,2000.0,hco,actelion,2017,66,
 University Hospital Berne,Bern,CH,Freiburgstrasse 8,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,neurim,2015,66,
 University Hospital Berne,Bern,CH,Freiburgstrasse 8,,,,3000.0,,,,,3000.0,hco,neurim,2016,66,
-University Hospital Berne,Zürich,CH,Frauenklinikstrasse 26,8091,,,4000.0,,,,,4000.0,hco,neurim,2017,6,
+University Hospital Zurich,Zürich,CH,Frauenklinikstrasse 26,8091,,,4000.0,,,,,4000.0,hco,neurim,2017,1,
 University Hospital Zurich,Zürich,CH,Frauenklinikstrasse 26,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,neurim,2015,1,
 University Hospital Zurich,Zürich,CH,Frauenklinikstrasse 26,,,,4000.0,,,,,4000.0,hco,neurim,2016,1,
 University Hospital Zurich Foundation,Zürich,CH,Moussonstrasse 2,,,120000.0,,,,,,120000.0,hco,csl,2017,2443,1.0
 University of Basel - Institute of Pharmaceutical Medicine,BASEL,CH,Klingelbergstrasse 61,,,,,,,813.15,80.43,893.58,hco,celgene,2016,66,
 "University of Basel, Department of Pharmaceutical Sciences",Basel,CH,Klingelbergstrasse 50,,,,1000.0,,,,,1000.0,hco,csl,2016,66,
-UNIVERSITY OF ZURICH (UZH) Dermatology Department,Zürich,CH,Rämistrasse 100,,,,9504.0,,,,,9504.0,hco,galderma,2016,1
+UNIVERSITY OF ZURICH (UZH) Dermatology Department,Zürich,CH,Rämistrasse 100,,,,9504.0,,,,,9504.0,hco,galderma,2016,10011,
 "Università della Svizzera Italiana, Senoforum",Lugano,CH,Via Giuseppe Buffi 13,,,0.0,3500.0,0.0,0.0,0.0,0.0,3500.0,hco,pierre,2015,2438,
 Universitäre Psych Dienste Bern (UPD),Bern,CH,Bolligenstrasse 111,,,0.0,5500.0,0.0,0.0,0.0,0.0,5500.0,hco,novartis,2015,58,
 "Universitäre Psych, Dienste Bern Integrierter Drogendienst IDD",Bern,CH,Zieglerstrasse 7,,,,800.0,,,,,800.0,hco,lundbeck,2016,58,
@@ -10573,7 +10573,7 @@ Universitäres Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,2000.0,540.
 Universitäres Zentrum für Hausarztmedizin beider Basel uniham-bb,Liestal,CH,Rheinstrasse 26,,,0.0,13000.0,0.0,0.0,0.0,0.0,13000.0,hco,pfizer,2015,2449,1.0
 "Universitäres Zentrum für Hausarztmedizin beider Basel, Kantonsspital Baselland",Basel,CH,Rheinstrasse 26,,,0.0,18800.0,0.0,0.0,0.0,0.0,18800.0,hco,menarini,2015,650,
 "Universitäres Zentrum für Hausarztmedizin beider Basel, Kantonsspital Baselland",Basel,CH,Rheinstrasse 26,,,,18800.0,,,,,18800.0,hco,menarini,2016,650,
-Universität,Zürich,CH,Rämistrasse 100,,,44000.0,0.0,0.0,0.0,0.0,0.0,44000.0,hco,mundipharma,2015,1,
+Universität,Zürich,CH,Rämistrasse 100,,,44000.0,0.0,0.0,0.0,0.0,0.0,44000.0,hco,mundipharma,2015,10011,
 Universität Basel,Basel,CH,Petersplatz 1,,,25000.0,,,,,,25000.0,hco,amgen,2016,66,
 Universität Basel,Basel,CH,Petersplatz 1,,,,6000.0,,,,,6000.0,hco,abbvie,2017,66,1.0
 Universität Basel,Basel,CH,Petersplatz 1,,,20000.0,2000.0,0.0,0.0,0.0,0.0,22000.0,hco,janssen,2016,66,
@@ -10624,12 +10624,12 @@ Universität Bern,Bern,CH,Hochschulstrasse 4,,,,50000.0,,,,,50000.0,hco,abbvie,2
 Universität Bern,Bern,CH,Hochschulstrasse 4,,,165000.0,4475.0,0.0,0.0,2250.0,0.0,171725.0,hco,novartis,2017,188,
 Universität Bern,Bern,CH,Hochschulstrasse 6,3012,,0.0,5000.0,0.0,0.0,2200.0,0.0,7200.0,hco,roche,2017,188,
 Universität Bern,Bern,CH,Hochschulstrasse 4,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,novartis,2015,188,
-Universität Bern - Institut für Pharmakologie,Bern,CH,Freiburgstrasse 18,,,,1000.0,,,,,1000.0,hco,eli,2017,2,
-Universität Bern -Berner Institut für Hausarztmedizin BIHAN,Bern,CH,Gesellschaftsstrasse 49,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,takeda,2015,114,
-"Universität Bern, Berner Institut für Hausarztmedizin (BIHAM)",BERN,CH,Gesellschaftsstrasse 49,,,0.0,1900.0,0.0,0.0,0.0,0.0,1900.0,hco,glaxosmithkline,2016,114,
-"Universität Bern, Berner Institut für Hausarztmedizin (BIHAM)",Bern,CH,Gesellschaftsstrasse 49,,,0.0,2700.0,0.0,0.0,0.0,0.0,2700.0,hco,glaxosmithkline,2015,114,
-"Universität Bern, Berner Institut fürHausarztmedizin (BIHAM)",Bern,CH,Gesellschaftsstrasse 49,,,0.0,1533.6,0.0,0.0,0.0,0.0,1533.6,hco,glaxosmithkline,2017,114,
-"Universität Bern, BIHAM - Berner Institut für Hausarztmedizin",Bern,CH,Gesellschaftsstr. 49,,,,1533.6,,,,,1533.6,hco,vifor,2017,114,
+Universität Bern - Institut für Pharmakologie,Bern,CH,Freiburgstrasse 18,,,,1000.0,,,,,1000.0,hco,eli,2017,188,
+Universität Bern - Berner Institut für Hausarztmedizin BIHAN,Bern,CH,Gesellschaftsstrasse 49,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,takeda,2015,188,
+"Universität Bern, Berner Institut für Hausarztmedizin (BIHAM)",BERN,CH,Gesellschaftsstrasse 49,,,0.0,1900.0,0.0,0.0,0.0,0.0,1900.0,hco,glaxosmithkline,2016,188,
+"Universität Bern, Berner Institut für Hausarztmedizin (BIHAM)",Bern,CH,Gesellschaftsstrasse 49,,,0.0,2700.0,0.0,0.0,0.0,0.0,2700.0,hco,glaxosmithkline,2015,188,
+"Universität Bern, Berner Institut fürHausarztmedizin (BIHAM)",Bern,CH,Gesellschaftsstrasse 49,,,0.0,1533.6,0.0,0.0,0.0,0.0,1533.6,hco,glaxosmithkline,2017,188,
+"Universität Bern, BIHAM - Berner Institut für Hausarztmedizin",Bern,CH,Gesellschaftsstr. 49,,,,1533.6,,,,,1533.6,hco,vifor,2017,188,
 "Universität Bern, Departement für Chemie und Biochemie",Bern,CH,Freienstrasse 3,,,,2500.0,,,,,2500.0,hco,csl,2016,188,
 "Universität Bern, Departement für Klinische Forschung, SCRM Plattform",Bern,CH,Murtenstrasse 40,,,,3000.0,,,,,3000.0,hco,csl,2016,188,
 "Universität Bern, Institut für Pharmakologie",Bern,CH,Freiburgstrasse,,,,1500.0,,,,,1500.0,hco,csl,2016,188,
@@ -10640,75 +10640,75 @@ Universität Bern -Berner Institut für Hausarztmedizin BIHAN,Bern,CH,Gesellscha
 Universität St. Gallen,St. Gallen,CH,Dufourstrasse 40 A,,,,50000.0,,,,,50000.0,hco,shire,2017,742,1.0
 Universität St. Gallen,St. Gallen,CH,Dufourstrasse 50,,,,,,,1159.0,1222.0,2381.0,hco,astrazeneca,2016,742,
 Universität St. Gallen,St. Gallen,CH,Dufourstrasse 50,,,0.0,0.0,0.0,0.0,14239.2,0.0,14239.2,hco,astrazeneca,2017,742,
-Universität Zurich (UZH),Zürich,CH,Rämistrasse 71,,,40000.0,26210.0,,5325.15,,,71535.15,hco,gilead,2016,1,
-Universität Zürich,Zürich,CH,Winterthurerstrasse 190,,,78600.0,199814.96,11050.0,262.01,24993.49,0.0,314720.46,hco,novartis,2015,1,
-Universität Zürich,Zürich,CH,Rämistrasse 71,,,,13320.0,,,,,13320.0,hco,lundbeck,2017,1,
+Universität Zurich (UZH),Zürich,CH,Rämistrasse 71,,,40000.0,26210.0,,5325.15,,,71535.15,hco,gilead,2016,10011,
+Universität Zürich,Zürich,CH,Winterthurerstrasse 190,,,78600.0,199814.96,11050.0,262.01,24993.49,0.0,314720.46,hco,novartis,2015,10011,
+Universität Zürich,Zürich,CH,Rämistrasse 71,,,,13320.0,,,,,13320.0,hco,lundbeck,2017,10011,
 Universität Zürich,Zürich,CH,"Universität Zürich, Klinik für Neurologie, Frauenklinikstrasse 26, bchweizgrtche-",,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,teva,2015,1,
-Universität Zürich,Zürich,CH,Rämistrasse 71,,,,22680.0,,,,,22680.0,hco,lundbeck,2016,1,
+Universität Zürich,Zürich,CH,Rämistrasse 71,,,,22680.0,,,,,22680.0,hco,lundbeck,2016,10011,1.0
 Universität Zürich,Zürich,CH,Hirschengraben 84,,,30000.0,0.0,0.0,0.0,0.0,0.0,30000.0,hco,astrazeneca,2017,1,
 Universität Zürich,Zürich,CH,Culmannstrasse 8,,,,3000.0,,,,,3000.0,hco,mepha,2016,1,
-Universität Zürich,ZÜRICH,CH,(no postal address),,,0.0,3499.2,0.0,0.0,0.0,0.0,3499.2,hco,glaxosmithkline,2016,1,
-Universität Zürich,Zürich,CH,Rämistrasse 71,,,85989.02,4000.0,0.0,0.0,13745.0,3281.26,107015.28,hco,novartis,2017,1,
-Universität Zürich,Zürich,CH,Rämistrasse 71,,,,14500.0,,,11200.0,,25700.0,hco,biogen,2017,1,1.0
+Universität Zürich,ZÜRICH,CH,(no postal address),,,0.0,3499.2,0.0,0.0,0.0,0.0,3499.2,hco,glaxosmithkline,2016,10011,
+Universität Zürich,Zürich,CH,Rämistrasse 71,,,85989.02,4000.0,0.0,0.0,13745.0,3281.26,107015.28,hco,novartis,2017,10011,
+Universität Zürich,Zürich,CH,Rämistrasse 71,,,,14500.0,,,11200.0,,25700.0,hco,biogen,2017,10011,
 Universität Zürich,Zürich,CH,Frauenklinikstrasse 10,,,,3000.0,,,,,3000.0,hco,ferring,2016,1,
-Universität Zürich,Zürich,CH,Ramistrasse 71,,,56000.0,85967.88,925.9,,75200.0,777.83,218871.61,hco,novartis,2016,1,
-Universität Zürich,Zürich,CH,Rämistrasse 71,,,0.0,67200.0,0.0,0.0,0.0,0.0,67200.0,hco,biogen,2015,1,
-Universität Zürich,Zürich,CH,,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,zambon,2017,1,
-Universität Zürich,Zürich,CH,Finanzabteilung,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,servier,2015,1,
-Universität Zürich,Zürich,CH,,,,800.0,3000.0,,,,,3800.0,hco,zambon,2016,1,
-Universität Zürich,Zürich,CH,,,,0.0,1080.0,0.0,0.0,0.0,0.0,1080.0,hco,eisai,2015,1,
-Universität Zürich,Zürich,CH,Rämistrasse 71,,,53000.0,21000.0,0.0,0.0,18250.0,0.0,92250.0,hco,roche,2016,1,
-Universität Zürich,Zürich,CH,Rämistrasse 71,,,,5000.0,,,,,5000.0,hco,sandoz,2017,1,
+Universität Zürich,Zürich,CH,Ramistrasse 71,,,56000.0,85967.88,925.9,,75200.0,777.83,218871.61,hco,novartis,2016,10011,
+Universität Zürich,Zürich,CH,Rämistrasse 71,,,0.0,67200.0,0.0,0.0,0.0,0.0,67200.0,hco,biogen,2015,10011,
+Universität Zürich,Zürich,CH,,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,zambon,2017,10011,
+Universität Zürich,Zürich,CH,Finanzabteilung,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,servier,2015,10011,
+Universität Zürich,Zürich,CH,,,,800.0,3000.0,,,,,3800.0,hco,zambon,2016,10011,
+Universität Zürich,Zürich,CH,,,,0.0,1080.0,0.0,0.0,0.0,0.0,1080.0,hco,eisai,2015,10011,
+Universität Zürich,Zürich,CH,Rämistrasse 71,,,53000.0,21000.0,0.0,0.0,18250.0,0.0,92250.0,hco,roche,2016,10011,
+Universität Zürich,Zürich,CH,Rämistrasse 71,,,,5000.0,,,,,5000.0,hco,sandoz,2017,10011,
 Universität Zürich,Zürich,CH,"Klinik und Poliklinik für Onkologie, Rämistrasse",,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,teva,2015,1,
-Universität Zürich,Zürich,CH,Möhrlistrasse 23,,,,2000.0,,,,,2000.0,hco,sandoz,2016,1,
-Universität Zürich,Zürich,CH,Dermatologische Klinik (USZ),,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,menarini,2015,1,
-Universität Zürich,Zürich,CH,Institut für Sozial- und Präventivmedizin - AMIS Plus Data Center - Hirschengraben 84,,,,10000.0,,,,,10000.0,hco,servier,2016,1,
-Universität Zürich,Zürich,CH,"Universität Zürich, Zürcher Zentrum für interdisziplinäre Schlafforschung / ZIS, Frauenklinikstrasse 26",8091,,0.0,8000.0,0.0,0.0,0.0,0.0,8000.0,hco,teva,2015,1,
-Universität Zürich,ZÜRICH,CH,TIÈCHESTRASSE 99,,,,2000.0,,,,,2000.0,hco,sandoz,2017,1,
+Universität Zürich,Zürich,CH,Möhrlistrasse 23,,,,2000.0,,,,,2000.0,hco,sandoz,2016,10011,
+Universität Zürich,Zürich,CH,Dermatologische Klinik (USZ),,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,menarini,2015,10011,
+Universität Zürich,Zürich,CH,Institut für Sozial- und Präventivmedizin - AMIS Plus Data Center - Hirschengraben 84,,,,10000.0,,,,,10000.0,hco,servier,2016,10011,
+Universität Zürich,Zürich,CH,"Universität Zürich, Zürcher Zentrum für interdisziplinäre Schlafforschung / ZIS, Frauenklinikstrasse 26",8091,,0.0,8000.0,0.0,0.0,0.0,0.0,8000.0,hco,teva,2015,10011,
+Universität Zürich,ZÜRICH,CH,TIÈCHESTRASSE 99,,,,2000.0,,,,,2000.0,hco,sandoz,2017,10011,
 Universität Zürich,Zürich,CH,Frauenklinikstrasse 10,,,10000.0,,,,,,10000.0,hco,ferring,2017,1,
-Universität Zürich,Zürich,CH,Rämistrasse 71,8006,,22000.0,16200.0,0.0,0.0,9550.0,0.0,47750.0,hco,roche,2017,1,
-Universität Zürich,Zürich,CH,"Klinik Tur Reproduktions-Endokrinologie, Frauenklinikstrasse 10",8091,,,3000.0,,,,,3000.0,hco,teva,2016,1,
-Universität Zürich,Zürich,CH,,,,51200.0,6541.71,0.0,0.0,0.0,0.0,57741.71,hco,glaxosmithkline,2015,1,
-Universität Zürich,Zürich,CH,Rämistrasse 71,8006,,0.0,18962.0,0.0,0.0,2750.0,0.0,21712.0,hco,roche,2015,1,
+Universität Zürich,Zürich,CH,Rämistrasse 71,8006,,22000.0,16200.0,0.0,0.0,9550.0,0.0,47750.0,hco,roche,2017,10011,
+Universität Zürich,Zürich,CH,"Klinik Tur Reproduktions-Endokrinologie, Frauenklinikstrasse 10",8091,,,3000.0,,,,,3000.0,hco,teva,2016,10011,
+Universität Zürich,Zürich,CH,,,,51200.0,6541.71,0.0,0.0,0.0,0.0,57741.71,hco,glaxosmithkline,2015,10011,
+Universität Zürich,Zürich,CH,Rämistrasse 71,8006,,0.0,18962.0,0.0,0.0,2750.0,0.0,21712.0,hco,roche,2015,10011,
 Universität Zürich,Zürich,CH,"Universität Zürich, Klinik für Neurologie, Frauenklinikstrasse 26",8091,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,teva,2015,1,
-Universität Zürich,Zürich,CH,(no postal address),,,25900.0,3240.0,0.0,0.0,0.0,0.0,29140.0,hco,glaxosmithkline,2017,1,
+Universität Zürich,Zürich,CH,(no postal address),,,25900.0,3240.0,0.0,0.0,0.0,0.0,29140.0,hco,glaxosmithkline,2017,10011,
 Universität Zürich,Zürich,CH,Frauenklinikstrasse 10,,,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,hco,ferring,2015,1,
-Universität Zürich,Zürich,CH,Rämistrasse 71,,,,7027.78,,,,,7027.78,hco,biogen,2016,1,
+Universität Zürich,Zürich,CH,Rämistrasse 71,,,,7027.78,,,,,7027.78,hco,biogen,2016,10011,
 Universität Zürich,Zürich,CH,Gloriastrasse 25,,,5500.0,,,,,,5500.0,hco,actelion,2016,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,,5400.0,,,,,5400.0,hco,ucb,2017,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,hco,pfizer,2017,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,72600.0,0.0,0.0,2800.0,0.0,75400.0,hco,amgen,2015,1,
-Universität Zürich (UZH),Zürich,CH,"Rämistrasse 71, Zürich",,,25000.0,8666.0,0.0,0.0,650.0,0.0,34316.0,hco,janssen,2015,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,24000.0,13900.0,350.0,,20010.0,,58260.0,hco,gilead,2017,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,18000.0,29700.0,0.0,0.0,1400.0,0.0,49100.0,hco,janssen,2017,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 100,,,,,,,10800.0,,10800.0,hco,vifor,2017,1,
-Universität Zürich (UZH),Zürich,CH,Winterthurerstrasse 30,,WCHH09511235,,1500.0,,,,,1500.0,hco,celgene,2017,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,27540.0,0.0,0.0,1500.0,0.0,29040.0,hco,pfizer,2015,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,7000.0,0.0,0.0,0.0,0.0,7000.0,hco,otsuka,2016,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,32000.0,44537.0,,,9450.0,37.0,86024.0,hco,abbvie,2016,1,
-Universität Zürich (UZH),Zürich,CH,Winterthurerstrasse 190,,,0.0,23249.0,0.0,0.0,0.0,0.0,23249.0,hco,celgene,2015,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 7,,,10850.0,12500.0,0.0,0.0,0.0,0.0,23350.0,hco,actelion,2015,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,70000.0,3000.0,,,,,73000.0,hco,takeda,2016,1,
-Universität Zürich (Uzh),Zürich,CH,Rämistrasse 71,,,,,,,2000.0,,2000.0,hco,amgen,2017,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,6500.0,0.0,0.0,0.0,0.0,6500.0,hco,janssen,2016,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,53000.0,42000.0,0.0,0.0,0.0,0.0,95000.0,hco,abbvie,2015,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,8006,1065341032,0.0,11500.0,0.0,0.0,0.0,0.0,11500.0,hco,bayer,2017,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,,30000.0,,,,,30000.0,hco,eli,2016,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,,11880.0,,,,,11880.0,hco,ucb,2016,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,11000.0,0.0,0.0,0.0,0.0,11000.0,hco,almirall,2015,1,
-Universität Zürich (Uzh),Zürich,CH,Rämistrasse 71,,,,18000.0,,,,,18000.0,hco,amgen,2016,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,,23000.0,,,6550.0,,29550.0,hco,eli,2017,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,52000.0,500.0,,,,,52500.0,hco,actelion,2017,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,53000.0,38500.0,,,7700.0,,99200.0,hco,abbvie,2017,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,0.0,0.0,206.75,1456.0,0.0,1662.75,hco,otsuka,2015,1,
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,,5240.0,,,1512.0,,6752.0,hco,pfizer,2016,1,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,,5400.0,,,,,5400.0,hco,ucb,2017,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,hco,pfizer,2017,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,72600.0,0.0,0.0,2800.0,0.0,75400.0,hco,amgen,2015,10011,
+Universität Zürich (UZH),Zürich,CH,"Rämistrasse 71, Zürich",,,25000.0,8666.0,0.0,0.0,650.0,0.0,34316.0,hco,janssen,2015,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,24000.0,13900.0,350.0,,20010.0,,58260.0,hco,gilead,2017,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,18000.0,29700.0,0.0,0.0,1400.0,0.0,49100.0,hco,janssen,2017,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 100,,,,,,,10800.0,,10800.0,hco,vifor,2017,10011,
+Universität Zürich (UZH),Zürich,CH,Winterthurerstrasse 30,,WCHH09511235,,1500.0,,,,,1500.0,hco,celgene,2017,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,27540.0,0.0,0.0,1500.0,0.0,29040.0,hco,pfizer,2015,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,7000.0,0.0,0.0,0.0,0.0,7000.0,hco,otsuka,2016,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,32000.0,44537.0,,,9450.0,37.0,86024.0,hco,abbvie,2016,10011,
+Universität Zürich (UZH),Zürich,CH,Winterthurerstrasse 190,,,0.0,23249.0,0.0,0.0,0.0,0.0,23249.0,hco,celgene,2015,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 7,,,10850.0,12500.0,0.0,0.0,0.0,0.0,23350.0,hco,actelion,2015,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,70000.0,3000.0,,,,,73000.0,hco,takeda,2016,10011,
+Universität Zürich (Uzh),Zürich,CH,Rämistrasse 71,,,,,,,2000.0,,2000.0,hco,amgen,2017,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,6500.0,0.0,0.0,0.0,0.0,6500.0,hco,janssen,2016,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,53000.0,42000.0,0.0,0.0,0.0,0.0,95000.0,hco,abbvie,2015,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,8006,1065341032,0.0,11500.0,0.0,0.0,0.0,0.0,11500.0,hco,bayer,2017,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,,30000.0,,,,,30000.0,hco,eli,2016,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,,11880.0,,,,,11880.0,hco,ucb,2016,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,11000.0,0.0,0.0,0.0,0.0,11000.0,hco,almirall,2015,10011,
+Universität Zürich (Uzh),Zürich,CH,Rämistrasse 71,,,,18000.0,,,,,18000.0,hco,amgen,2016,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,,23000.0,,,6550.0,,29550.0,hco,eli,2017,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,52000.0,500.0,,,,,52500.0,hco,actelion,2017,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,53000.0,38500.0,,,7700.0,,99200.0,hco,abbvie,2017,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,0.0,0.0,206.75,1456.0,0.0,1662.75,hco,otsuka,2015,10011,
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,,5240.0,,,1512.0,,6752.0,hco,pfizer,2016,10011,
 Universität Zürich - Rheumaklinik,Zürich,CH,Gloriastr. 25,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,sanofi,2015,1,
 Universität Zürich - Rheumaklinik,Zürich,CH,Gloriastr. 25,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,genzyme,2015,1,
 Universität Zürich / USZ Neurologie,Zürich,CH,Frauenklinikstr. 26,,,75000.0,0.0,0.0,0.0,0.0,0.0,75000.0,hco,merck,2015,1,
 Universität Zürich Klinik für Neurologie,Zürich,CH,Frauenklinikstrasse,,,,540.0,,,,,540.0,hco,eisai,2016,1,
 Universität Zürich Neurologie,Zürich,CH,Frauenklinikstrasse 26,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,biotest,2015,1,
 Universität Zürich Transplantationszentrum,Zürich,CH,Rämistrasse 10,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,biotest,2015,1,
-"Universität Zürich UZH, Institute of Physiology",Zürich,CH,Winterthurerstr. 190,,,,2240.0,,,,,2240.0,hco,vifor,2017,1,
+"Universität Zürich UZH, Institute of Physiology",Zürich,CH,Winterthurerstr. 190,,,,2240.0,,,,,2240.0,hco,vifor,2017,10011,
 Universität Zürich Viszeral- u. Transplantationschirurgie,Zürich,CH,Rämistrasse 100,,,,3000.0,,,,,3000.0,hco,biotest,2016,1,
 Universität Zürich Zentrum tür Molekulare Kardiologie,Schlieren,CH,Wagistrasse 12,,,,,,544.1,,,544.1,hco,menarini,2017,1,
 "Universität Zürich, Institut für Epidemiologie, Biostatistik, Prävention AMIS Plus Data Center",Zürich,CH,Hirschengraben 84,,,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0,hco,menarini,2015,1,
@@ -10720,13 +10720,13 @@ Universität Zürich Zentrum tür Molekulare Kardiologie,Schlieren,CH,Wagistrass
 "Universität Zürich, Klinik für Neurologie",Zürich,CH,Frauenklinikstrasse 26,,,,4000.0,,,,,4000.0,hco,teva,2017,1,
 "Universität Zürich, Klinik für Neurologie",Zürich,CH,Frauenklinikstrasse 26,8091,,,4000.0,,,,,4000.0,hco,teva,2016,1,
 "Universität Zürich, Klinik für Neurologie",Zürich,CH,Frauenklinikstrasse 26,8091,,,4000.0,,,,,4000.0,hco,teva,2016,1,
-"Universität Zürich, Physiologisches Institut",Zürich,CH,Winterthurerstrasse 190,,,,,,205.58,1950.0,,2155.58,hco,shire,2016,1,
+"Universität Zürich, Physiologisches Institut",Zürich,CH,Winterthurerstrasse 190,,,,,,205.58,1950.0,,2155.58,hco,shire,2016,10011,
 Universitäts Kinderspital Zürich,Zürich,CH,Steinweisstrasse 75,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,baxter,2016,23,
 Universitäts- Kinderspital beider Basel UKBB,Basel,CH,Spitalstrassa 33,4056,,0.0,0.0,0.0,0.0,4800.0,0.0,4800.0,hco,takeda,2017,47,
 Universitäts-Kin derspital (UKBB),Basel,CH,Spitalstrasse 33,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis,2015,47,
 Universitäts-Kin derspital beider Basel,Basel,CH,Spitalstrasse 33,,,,1500.0,,,,,1500.0,hco,merck,2017,47,
 Universitäts-Kinderspital,Zürich,CH,Kinder Med. Klinik Physiotherapie Steinwiessstrasse 75,8032,,,207.9,,1365.02,,,1572.92,hco,baxalta,2016,23,
-Universitäts-Kinderspital (UKBB),Basel,CH,Spitalstrasse 33,,,,1000.0,60.0,,3203.91,2262.83,6526.74,hco,novartis,2016,47,
+Universitäts-Kinderspital (UKBB),Basel,CH,Spitalstrasse 33,,,,1000.0,60.0,,3203.91,2262.83,6526.74,hco,novartis,2016,47,1.0
 Universitäts-Kinderspital (UKBB),Basel,CH,Spitalstrasse 33,,,,257.95,,1040.9,,,1298.85,hco,baxalta,2016,47,
 Universitäts-Kinderspital (UKBB),Basel,CH,Spitalstrasse 33,4056,,0.0,34400.0,0.0,0.0,0.0,0.0,34400.0,hco,roche,2017,47,
 Universitäts-Kinderspital (UKBB),Basel,CH,Spitalstrasse 33,,,10000.0,0.0,0.0,0.0,1950.0,3529.0,15479.0,hco,roche,2016,47,
@@ -10769,7 +10769,7 @@ Universitätskinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,,1000.0,,,,,1
 "Universitätskinderspital Zürich, Department Anästhesie",Zürich,CH,Steinwiesstrasse 75,,,,900.0,,,,,900.0,hco,csl,2016,23,
 "Universitätskinderspital Zürich, Department Hämathologie",Zürich,CH,Steinwiesstrasse 75,,,26088.0,,,,,,26088.0,hco,csl,2016,23,
 "Universitätskinderspital Zürich, Eleonorenstiftung",Zürich,CH,Steinwiesstrasse 75,,,50480.0,2000.0,,,,,52480.0,hco,csl,2016,23,
-"Universitätskinderspital Zürich, Pediatric Emergency Medicine Switzerland (PEMS)",Zürich,CH,Steinwiesstrasse 75,,,,1500.0,,,,,1500.0,hco,csl,2016,23,
+"Universitätskinderspital Zürich, Pediatric Emergency Medicine Switzerland (PEMS)",Zürich,CH,Steinwiesstrasse 75,,,,1500.0,,,,,1500.0,hco,csl,2016,10015,
 Universitätsklinik,Bern,CH,Freiburgstrasse 18,,,4500.0,0.0,0.0,0.0,0.0,0.0,4500.0,hco,actelion,2015,2,
 Universitätsklinik,Bern,CH,Freiburgstrasse 18,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,amgen,2015,2,
 Universitätsklinik Balgrist,Zürich,CH,Forchstrasse 340,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hco,mundipharma,2015,171,
@@ -10790,7 +10790,7 @@ Universitätsklinik Balgrist -Rheumatologie,Zürich,CH,Forchstrasse 340,,,0.0,0.
 Universitätsklinik für Intensivmedizin,Bern,CH,Freiburgstrasse,3010,,,3000.0,,,,,3000.0,hco,orion,2017,2,
 Universitätsklinik für Nephrologie und Hypertonie; Inselspital Bern,Bern,CH,Freiburgstrasse 8,,,,2500.0,,,,,2500.0,hco,shire,2017,2,
 UniversitätsSpital Zürich,Zürich,CH,Rämistr. 100,,,,27885.5,,1509.97,,,29395.47,hco,merck,2017,1,
-UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,,,,12960.0,,,,,12960.0,hco,ucb,2017,1,
+UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,,,,12960.0,,,,,12960.0,hco,ucb,2017,1,1.0
 UniversitätsSpital Zürich,Zürich,CH,Gloriastrasse 31,,,,3163.3,,,,,3163.3,hco,merck,2017,1,
 UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,,,,12960.0,,,,,12960.0,hco,ucb,2016,1,
 UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,,,13000.0,13620.0,13917.0,27184.0,13025.0,264.0,81011.0,hco,gilead,2017,1,
@@ -10892,7 +10892,7 @@ Universitätsspital Basel,Basel,CH,Spitalstrasse 21,,,,,,,1000.0,,1000.0,hco,ots
 UNIVERSITÄTSSPITAL BASEL,Basel,CH,HEBELSTRASSE 36,,,,,,,1000.0,,1000.0,hco,sandoz,2017,6,
 UNIVERSITÄTSSPITAL BASEL,BASEL,CH,Helbelstrasse 36,,,,1120.0,,,,,1120.0,hco,sandoz,2017,6,
 Universitätsspital Basel,Basel,CH,Petersgraben 4,4031,,0.0,0.0,0.0,0.0,2800.0,0.0,2800.0,hco,boehringer,2016,6,
-Universitätsspital Basel,Basel,CH,Spitalstr. 21,4031,,1000.0,,,,,1000.0,2000.0,hco,orion,2016,6,
+Universitätsspital Basel,Basel,CH,Spitalstr. 21,4031,,1000.0,,,,,1000.0,2000.0,hco,orion,2016,6,1.0
 Universitätsspital Basel,Basel,CH,Spitalstr. 21,4031,,1300.0,,,,,1300.0,2600.0,hco,orion,2016,6,
 Universitätsspital Basel,Basel,CH,Petersgraben 4,4031,,0.0,39540.0,5254.3,16289.04,86711.0,28001.15,175795.49,hco,roche,2017,6,
 Universitätsspital Basel,Basel,CH,Hebelstrasse 36,,,,6513.0,926.0,12402.0,3000.0,,22841.0,hco,novo,2016,6,
@@ -10952,7 +10952,7 @@ UniversitätsSpital Basel - Viszeralchirurgie,Basel,CH,Spitalstrasse 21,,,7500.0
 Universitätsspital Basel / HNO,Basel,CH,Petersgraben 4,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,merck,2015,6,
 Universitätsspital Basel / Spezialkliniken Dermatologie,Basel,CH,Petersgraben 4,,Universitatsspital_Basel_Spezialkliniken_Der matologie,,6000.0,,,,,6000.0,hco,galderma,2017,6,
 Universitätsspital Basel Augenklinik,Basel,CH,Mittlerstrasse 91,4031,,,1500.0,,,,,1500.0,hco,allergan,2017,6,
-Universitätsspital Basel Fonds,Basel,CH,Hebelstrasse 36,,,260000.0,4200.0,,,7000.0,,271200.0,hco,novo,2017,6,1.0
+Universitätsspital Basel Fonds,Basel,CH,Hebelstrasse 36,,,260000.0,4200.0,,,7000.0,,271200.0,hco,novo,2017,6,
 Universitätsspital Basel Gynäkologische Klinik,Basel,CH,Spitalstrasse 21,4031,,0.0,8000.0,0.0,0.0,3300.0,0.0,11300.0,hco,roche,2015,6,
 Universitätsspital Basel Gynécologie Clinique,Basel,CH,Spitalstrasse 21,4031,,1000.0,2600.0,0.0,0.0,0.0,0.0,3600.0,hco,astrazeneca,2015,6,
 Universitätsspital Basel Klin.Pharmakologie,Basel,CH,Hebelstrasse 2,4056,,0.0,5000.0,0.0,0.0,1500.0,0.0,6500.0,hco,roche,2015,6,
@@ -11266,11 +11266,11 @@ USZ Viszerale Chirurgie,Zürich,CH,Rämistrasse,8091,,,3000.0,,,,,3000.0,hco,bio
 "USZ, Dermatologie",Zürich,CH,Gloriastrasse 31,8091,,,3000.0,,,,,3000.0,hco,allergan,2016,1,
 "USZ, Gastroenterologie SwissNGM",Zürich,CH,Rämistrasse 100,8091,,,10000.0,,,,,10000.0,hco,allergan,2016,737,
 "USZ, Gynäkologie",Zürich,CH,Frauenklinikstrasse 26,8091,,,1000.0,,,,,1000.0,hco,allergan,2016,1,
-"USZ, Kinderspital",Affoltern a. A.,CH,Mühlebergstrasse 104,8910,,,1000.0,,,,,1000.0,hco,allergan,2016,1,
+"USZ, Kinderspital",Affoltern a. A.,CH,Mühlebergstrasse 104,8910,,,1000.0,,,,,1000.0,hco,allergan,2016,23,
 "USZ, Neurologie",Zürich,CH,Frauenklinikstrasse 26,8091,,,8000.0,,,,,8000.0,hco,allergan,2016,1,
 "USZ, Plastische Chirurgie",Zürich,CH,Rämistrasse 100,8091,,,3000.0,,,,,3000.0,hco,allergan,2016,1,
-UZH Physiologisches Institut,Zürich,CH,Winterthurserstrasse 190,,,0.0,0.0,0.0,0.0,2312.38,0.0,2312.38,hco,otsuka,2016,1,
-UZH Physiologisches Institut,Zürich,CH,Winterthurserstr asse 190,,,0.0,0.0,0.0,0.0,0.0,832.67,832.67,hco,otsuka,2015,1,
+UZH Physiologisches Institut,Zürich,CH,Winterthurserstrasse 190,,,0.0,0.0,0.0,0.0,2312.38,0.0,2312.38,hco,otsuka,2016,10011,
+UZH Physiologisches Institut,Zürich,CH,Winterthurserstr asse 190,,,0.0,0.0,0.0,0.0,0.0,832.67,832.67,hco,otsuka,2015,10011,
 Vascular International School AG,Fürigen,CH,Schiltweid 4,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hco,baxter,2016,745,1.0
 Vascular International School AG,Füringen,CH,Schiltweid 4,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,bayer,2016,745,
 Vascular International School AG,Fuerigen,CH,Schiltweid 4,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,baxter,2015,745,
@@ -11322,15 +11322,15 @@ Verein Forum Pharmazie,Basel,CH,St. Johanns-Vorstadt27,,,,48247.0,,,,,48247.0,hc
 Verein Förd. Wissensch./Ausbild.,Basel,CH,Kleinriehenstrasse 30,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,janssen,2016,2493,1.0
 Verein Für Hautkrebsfors Chung,Zürich,CH,"Universtitätsspital Zürich, Gloriastrasse 31",,,10000.0,,,,,,10000.0,hco,amgen,2016,2494,1.0
 Verein Gastroenterologie Zürich VGZ,Uster,CH,Poststrasse 2,,,,3250.0,,,,,3250.0,hco,gilead,2017,400,1.0
-Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 90,8002,,,4500.0,,,,,4500.0,hco,allergan,2016,1,
+Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 90,8002,,,4500.0,,,,,4500.0,hco,allergan,2016,400,
 Verein Gastroenterologie Zürich,Uster,CH,Dr. med. Alf Karpf Poststrasse 2,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,takeda,2015,400,
 Verein Gastroenterologie Zürich,Uster,CH,Dr. med. Alf Karpf Poststrasse 2,8610,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,takeda,2017,400,
-Verein Gastroenterologie Zürich (VGZ),Zürich,CH,Seestrasse 90,,,,2000.0,,,,,2000.0,hco,vifor,2016,1,
+Verein Gastroenterologie Zürich (VGZ),Zürich,CH,Seestrasse 90,,,,2000.0,,,,,2000.0,hco,vifor,2016,400,
 Verein Gastroenterologie Zürich (VGZ),Uster,CH,Poststrasse 2,,,,2500.0,,,,,2500.0,hco,bgp,2016,400,
-Verein Gastroenterologie Zürich (VGZ),Zürich,CH,Seestrasse 90,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca,2017,1,
-Verein Gastroenterologie Zürich (VGZ),Zürich,CH,Seestrasse 90,,,,1500.0,,,,,1500.0,hco,astrazeneca,2016,1,
+Verein Gastroenterologie Zürich (VGZ),Zürich,CH,Seestrasse 90,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca,2017,400,
+Verein Gastroenterologie Zürich (VGZ),Zürich,CH,Seestrasse 90,,,,1500.0,,,,,1500.0,hco,astrazeneca,2016,400,
 Verein Gastroenterologie Zürich VGZ,Uster,CH,Poststrasse 2,,,,3000.0,,,,,3000.0,hco,gilead,2016,400,
-"Verein Gastroenterologie Zürich, Gastro-Meeting 2016 Wassberg",Zürich,CH,Seestrasse 90,,,,2500.0,,,,,2500.0,hco,vifor,2016,1,
+"Verein Gastroenterologie Zürich, Gastro-Meeting 2016 Wassberg",Zürich,CH,Seestrasse 90,,,,2500.0,,,,,2500.0,hco,vifor,2016,400,
 Verein Grundversorger Region Baden,Fislisbach,CH,Bollstrasse 1,,,0.0,1300.0,0.0,0.0,0.0,0.0,1300.0,hco,glaxosmithkline,2017,2495,1.0
 Verein Grundversorger Region Baden Qualitäts-Zirkel Wettingen/Würenlos,Würenlos,CH,Juchstrasse 15,,,0.0,1900.0,0.0,0.0,0.0,0.0,1900.0,hco,novartis,2017,689,1.0
 Verein GUCH Schweiz,Basel,CH,Langen Gasse 78,,,,2000.0,,,,,2000.0,hco,actelion,2016,344,
@@ -11603,8 +11603,8 @@ Zentrum für Gefässmedizin Mittelland AG,Aarau,CH,Aarenaustrasse 2b,5000,105300
 Zentrum für Herz und Blutdruck St. Anna,Luzern,CH,St. Annastrasse 32,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,menarini,2015,2538,1.0
 Zentrum für Integrative Onkologie (ZIO AG),Zürich,CH,Hardturmstrasse 133,,,,3000.0,,,,,3000.0,hco,teva,2017,752,1.0
 Zentrum für integrative Onkologie Zürich,Zürich,CH,Hardturmstrasse 133,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astellas,2017,752,
-Zentrum für Labormedizin,St. Gallen,CH,Frohbergstrasse 3,,,8500.0,,,,,,8500.0,hco,novartis,2016,5,
-Zentrum für Labormedizin,St. Gallen,CH,Frohbergstrase 9,,,0.0,0.0,77.4,564.55,1000.0,96.0,1737.95,hco,baxalta,2015,5,
+Zentrum für Labormedizin,St. Gallen,CH,Frohbergstrasse 3,,,8500.0,,,,,,8500.0,hco,novartis,2016,10014,1.0
+Zentrum für Labormedizin,St. Gallen,CH,Frohbergstrase 9,,,0.0,0.0,77.4,564.55,1000.0,96.0,1737.95,hco,baxalta,2015,10014
 Zentrum für Perioperative Thrombose Und Haemostase,Zürich,CH,Hufgasse 17,,,,,,,1000.0,,1000.0,hco,baxalta,2016,2539,1.0
 Zentrum für Psychische Gesundheit,Bern,CH,Marktgasse 50,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,takeda,2015,2540,1.0
 Zentrum für Schmerzmedizin,Nottwil,CH,Guido A. Zäch Strasse 1,,,,2268.0,,,,,2268.0,hco,pfizer,2016,113,
