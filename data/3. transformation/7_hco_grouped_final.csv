@@ -4541,7 +4541,7 @@ INSEL GRUPPE AG Universitätsklinik für Neurologie,Bern,CH,Freiburgstrasse 18,,
 "Insel Gruppe AG, Inselspital Bern,Universitätsklinik für Neurologie",Bern,CH,Freiburgstrasse 18,,,20000.0,,,,,,20000.0,hco,teva,2017,2,
 "Insel Gruppe AG, Universitätsklinik für Diabetologie Endokrinologie Ernährungsmedizin",Bern,CH,Freiburgstrasse 4,,,,,,,2000.0,,2000.0,hco,shire,2017,2,
 "Insel Gruppe AG, Universitätsklinik für Neurologie",Bern,CH,Freiburgstrasse 4,,,,6800.0,,,,,6800.0,hco,shire,2017,2,
-"Insel Gruppe AG, Universitätsklinik für Viszerale Chirurgie und Medizin",Bern,CH,Inselspital,,,,,,,3600.0,,3600.0,hco,shire,2017,1742,1.0
+"Insel Gruppe AG, Universitätsklinik für Viszerale Chirurgie und Medizin",Bern,CH,Inselspital,,,,,,,3600.0,,3600.0,hco,shire,2017,2,
 "Insel Gruppe AG, Universitätsklinik fürNeurologie",Bern,CH,Freiburgstrasse,,,,0.0,,,1000.0,,1000.0,hco,teva,2017,2,
 "Insel Gruppe AG, Universitätsklinik fürNeurologie",Bern,CH,Freiburgstrasse,,,,0.0,,,500.0,,500.0,hco,teva,2017,2,
 Insel Gruppe AG; Stiftungen und Fonds,Bern,CH,Freiburgstrasse 18,,,26800.0,11098.38,5323.0,9280.0,1500.0,,54001.38,hco,actelion,2017,2,
@@ -4996,7 +4996,7 @@ Kantonsspital,St. Gallen,CH,Spitalstrasse 31,,,8258.0,0.0,0.0,0.0,0.0,0.0,8258.0
 Kantonsspital,Winterthur,CH,Spitalstrasse 31,,,4500.0,0.0,0.0,0.0,0.0,0.0,4500.0,hco,mundipharma,2016,12,
 Kantonsspital,Sursee,CH,Spitalstrasse 31,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,mundipharma,2016,181,
 Kantonsspital,Luzern,CH,Spitalstrasse 31,,,12200.0,0.0,0.0,0.0,0.0,0.0,12200.0,hco,mundipharma,2015,7,
-Kantonsspital,Nidwalden,CH,,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,mundipharma,2015,957,
+Kantonsspital,Nidwalden,CH,,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,mundipharma,2015,121,
 Kantonsspital,St. Gallen,CH,Rorschacherstrasse 95,,,16988.8,0.0,0.0,0.0,0.0,0.0,16988.8,hco,mundipharma,2015,5,
 Kantonsspital,Luzern,CH,Spitalstrasse 31,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,mundipharma,2015,7,
 Kantonsspital,Wolhusen,CH,Spitalslrasse,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,mundipharma,2015,374,
@@ -5182,102 +5182,102 @@ Kantonsspital Baden AG Spitalapotheke,Baden,CH,Im Ergel 1,5404,,0.0,0.0,0.0,0.0,
 "Kantonsspital Baden AG, Rechnungswesen",Baden,CH,Im Ergel 1,,,0.0,1242.65,0.0,0.0,0.0,0.0,1242.65,hco,glaxosmithkline,2015,22,
 "Kantonsspital Baden, Departement Innere Medizin",Baden,CH,Im Ergel 1,,,,1080.0,,,,,1080.0,hco,vifor,2017,22,
 Kantonsspital Basel,Basel,CH,,,,,1040.0,,,,,1040.0,hco,pierre,2016,650,1.0
-Kantonsspital Basel-Land,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,620.0,1877.6,0.0,221.3,2718.9,hco,astellas,2017,15,
-Kantonsspital Baselland,Liestal,CH,Rheinstr. 26,,,500.0,0.0,0.0,0.0,0.0,0.0,500.0,hco,merck,2015,15,
-Kantonsspital Baselland,Liestal,CH,Mühlenmattstrasse 26,,,,0.0,,,1350.0,,1350.0,hco,teva,2017,15,1.0
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,,499.74,543.12,,,1042.86,hco,amgen,2016,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,4000.0,,,,,4000.0,hco,menarini,2016,15,
-Kantonsspital Baselland,Liestal,CH,Mühlenmattstrasse 26,,,,,,,1500.0,,1500.0,hco,mepha,2016,15,
-Kantonsspital Baselland,Liestal,CH,"Rheinstrasse 26, Liestal",,,0.0,4000.0,0.0,0.0,2516.0,0.0,6516.0,hco,janssen,2015,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,mundipharma,2015,15,
-Kantonsspital Baselland,Bruderholz,CH,,,,,4000.0,,,,,4000.0,hco,menarini,2017,136,
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,,,,3445.0,,3445.0,hco,gilead,2017,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,2000.0,545.0,634.0,3000.0,,6179.0,hco,novo,2017,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstr. 26,,,0.0,2000.0,0.0,0.0,3450.0,0.0,5450.0,hco,bayer,2015,15,
-Kantonsspital Baselland,Laufen,CH,Lochbruggstrasse 39,,,,1000.0,,,,,1000.0,hco,vifor,2016,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,0.0,15000.0,0.0,221.87,6000.0,0.0,21221.87,hco,astrazeneca,2017,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,2000.0,,,,,2000.0,hco,bgp,2017,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,,462.0,1419.0,4000.0,,5881.0,hco,abbvie,2017,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,,,,6500.0,,6500.0,hco,astrazeneca,2016,15,
-Kantonsspital Baselland,Bruderholz,CH,Bruderholz,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,merck,2015,136,
-Kantonsspital Baselland,Laufen,CH,Lochburgstrasse 39,,,,1000.0,,,,,1000.0,hco,bgp,2016,958,
-Kantonsspital Baselland,Steinhausen,CH,Sennweidstrasse 46,,,,4320.0,,,,,4320.0,hco,bgp,2016,15,
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,4000.0,,,840.0,,4840.0,hco,eli,2016,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,1000.0,,,2500.0,,3500.0,hco,vifor,2017,15,
-Kantonsspital Baselland,Bruderholz,CH,,4101,,0.0,1500.0,0.0,0.0,600.0,0.0,2100.0,hco,astrazeneca,2017,136,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,4410,,1000.0,,,,,1000.0,2000.0,hco,orion,2016,15,
-Kantonsspital Baselland,Bruderholz,CH,,,,0.0,1080.0,0.0,0.0,0.0,0.0,1080.0,hco,bgp,2015,136,
-Kantonsspital Baselland,Bruderholz,CH,0,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,eli,2015,136,
-Kantonsspital Baselland,Liestal,CH,"Kantonsspital Baselland, Mühlemattstrasse 26",,,0.0,0.0,847.7,508.9,1000.0,0.0,2356.6,hco,astellas,2015,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstr' 26,,,0.0,24000.0,0.0,932.91,600.0,0.0,25532.91,hco,bayer,2016,15,
-Kantonsspital Baselland,Liestal,CH,Mühlenmattstrasse 26,,,,0.0,,,2250.0,,2250.0,hco,teva,2017,15,
-Kantonsspital Baselland,Liestal,CH,Kantonsspital Baselland Mühlemattstrasse 26,,,,648.2,508.8,1014.5,,,2171.5,hco,astellas,2016,15,
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,0.0,0.0,1507.0,0.0,1507.0,hco,janssen,2016,15,
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,,,,900.0,,900.0,hco,bristol,2017,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,,,,500.0,,500.0,hco,astrazeneca,2016,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,0.0,6320.0,0.0,0.0,4550.0,0.0,10870.0,hco,glaxosmithkline,2017,15,
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,0.0,3780.0,0.0,0.0,0.0,0.0,3780.0,hco,pfizer,2017,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,2160.0,,,,,2160.0,hco,bgp,2016,15,
-Kantonsspital Baselland,Bruderholz,CH,,,,0.0,4000.0,982.0,1648.0,0.0,0.0,6630.0,hco,menarini,2015,136,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,5000.0,906.0,1898.0,4500.0,35.0,12339.0,hco,abbvie,2016,15,
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,0.0,40000.0,0.0,0.0,0.0,0.0,40000.0,hco,astrazeneca,2017,15,
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,1000.0,,,,,,1000.0,hco,celgene,2016,15,
-Kantonsspital Baselland,Liestal,CH,Mühlenmattstrasse 26,4410,,,1500.0,,,,,1500.0,hco,allergan,2016,15,
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,,455.0,445.0,,,900.0,hco,actelion,2017,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,6566.58,,,,,,6566.58,hco,takeda,2016,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse,,,,,,,2000.0,,2000.0,hco,takeda,2016,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,4860.0,,,,,4860.0,hco,pfizer,2016,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse,4410,,0.0,540.0,0.0,0.0,0.0,0.0,540.0,hco,takeda,2017,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse26,,,500.0,,,,,,500.0,hco,merck,2016,15,
-Kantonsspital Baselland,Liestal,CH,Rheinstr. 26,4410,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,orion,2015,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse,,,,2000.0,,,,,2000.0,hco,biotest,2016,15,
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,WCHH02178180,1000.0,,,-286.26,,,713.74,hco,celgene,2017,15,
-Kantonsspital Baselland,Bruderholz,CH,,,,0.0,0.0,0.0,1802.0,0.0,0.0,1802.0,hco,daiichi,2015,136,
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,0.0,0.0,3300.0,0.0,3300.0,hco,astrazeneca,2017,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,0.0,1000.0,0.0,0.0,1000.0,0.0,2000.0,hco,novo,2015,15,
-Kantonsspital Baselland,LIESTAL,CH,Mühlemattstrasse 26,,,40000.0,2000.0,0.0,0.0,1300.0,0.0,43300.0,hco,glaxosmithkline,2016,15,
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,0.0,0.0,1065.0,0.0,1065.0,hco,janssen,2017,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,0.0,2000.0,504.0,632.1,0.0,0.0,3136.1,hco,vifor,2015,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,4410,40522657,0.0,18500.0,3162.22,2073.26,1250.0,0.0,24985.49,hco,bayer,2017,15,
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,,,,500.0,,500.0,hco,bristol,2016,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,3000.0,772.0,4118.0,1999.0,,9889.0,hco,novo,2016,15,
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,94144.15,1074.0,1013.34,8611.49,4320.0,,109162.98,hco,gilead,2016,15,
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,7739.0,,,,,,7739.0,hco,mundipharma,2017,15,
-Kantonsspital Baselland Laufen,Liestal,CH,Mühlemattstrasse 26,,,0.0,500.0,0.0,0.0,1250.0,0.0,1750.0,hco,sanofi,2015,15,
-Kantonsspital Baselland Laufen,Liestal,CH,Mühlemattstrasse 26,,,0.0,500.0,0.0,0.0,1250.0,0.0,1750.0,hco,genzyme,2015,15,
-Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,,,,,,,5000.0,2800.0,7800.0,hco,msd,2017,15,
-Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,4410,,0.0,0.0,1668.68,2107.28,4400.0,0.0,8175.96,hco,roche,2017,15,
-Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,4410,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,boehringer,2015,15,
-Kantonsspital Baselland Liestal,Liestal,CH,Kantonsspital Baselland Liestal Rheinstrasse 26,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,msd,2015,15,
-Kantonsspital Baselland Liestal,Liestal,CH,Kantonsspital Baselland Liestal Rheinstrasse 26,,,,9000.0,528.0,1302.15,5700.0,,16530.15,hco,msd,2016,15,
-Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,621.0,6049.0,5463.0,0.0,12132.0,hco,roche,2016,15,
-Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,4410,,0.0,0.0,0.0,0.0,51500.0,0.0,51500.0,hco,roche,2015,15,
-Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,4410,,,2000.0,,5245.4,10140.0,,17385.4,hco,boehringer,2017,15,
-Kantonsspital Baselland Liestal Medizin Nephrologie,Liestal,CH,Rheinstrasse 26,4410,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,roche,2015,15,
-Kantonsspital Baselland Liestal Medizin Onkologie,Liestal,CH,Rheinstrasse 26,4410,,0.0,0.0,0.0,0.0,1080.0,0.0,1080.0,hco,roche,2015,15,
-Kantonsspital Baselland Standort Liestal,Liestal,CH,Rheinstrasse 26,,,,,,1469.0,,,1469.0,hco,abbvie,2016,15,
-Kantonsspital Baselland Standort Liestal,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,0.0,0.0,2800.0,0.0,2800.0,hco,eli,2015,15,
-Kantonsspital Baselland Standort Liestal,Liestal,CH,Rheinstrasse 26,,,,1000.0,,,,,1000.0,hco,takeda,2016,15,
-Kantonsspital Baselland Standort Liestal,Liestal,CH,Rheinstrasse 26,,,6430.34,0.0,0.0,0.0,0.0,0.0,6430.34,hco,takeda,2015,15,
-Kantonsspital Baselland Standort Liestal,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,abbvie,2015,15,
-Kantonsspital Baselland Standort Liestal - Ambulante Onkologie,Liestal,CH,Mühlenmatt 13,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hco,takeda,2015,15,
-Kantonsspital Baselland Standort Liestal - Gastroenterologie,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,346.39,1384.65,0.0,0.0,1731.04,hco,takeda,2015,15,
-Kantonsspital Baselland Standort Liestal - Gastroenterologie / Hepatologie,Liestal,CH,Rheinstrasse 26,4410,,0.0,0.0,184.25,838.24,0.0,0.0,1022.49,hco,takeda,2017,15,
-Kantonsspital Baselland Verwaltung,Liestal,CH,Mühlemattstrasse 11,,,120000.0,4030.0,1365.0,3256.4,15400.0,2105.17,146156.57,hco,novartis,2016,15,
-Kantonsspital Baselland Verwaltung,Liestal,CH,Mühlemattstrasse 11,,,0.0,9000.0,1959.3,3316.62,4900.0,0.0,19175.92,hco,novartis,2015,15,
-Kantonsspital Baselland Verwaltung,Liestal,CH,Mühlemattstrasse 11,,,50000.0,4000.0,910.0,802.0,3150.0,0.0,58862.0,hco,novartis,2017,15,
-"Kantonsspital Baselland, Frauenklinik",Liestal,CH,Mühlemattstrasse 26,,,,,,,800.0,,800.0,hco,vifor,2016,15,
-Kantonsspital BL,Bruderholz,CH,Mühlemattstrasse 26,,,588.0,0.0,0.0,0.0,0.0,0.0,588.0,hco,mundipharma,2015,136,
-Kantonsspital BL,Liestal,CH,Mühlemattstrasse 26,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,mundipharma,2015,15,
-Kantonsspital BL,Liestal,CH,Mühlemattstrasse 26,,,1456.0,0.0,0.0,0.0,0.0,0.0,1456.0,hco,mundipharma,2015,15,
-Kantonsspital Bruderholz,Bruderholz,CH,Batteriestrasse,,,,5240.0,,,1000.0,,6240.0,hco,bristol,2017,136,1.0
-Kantonsspital Bruderholz,Bruderholz,CH,Alle Abteilungen,,,0.0,3240.0,0.0,0.0,0.0,0.0,3240.0,hco,pfizer,2015,136,
-Kantonsspital Bruderholz,Bruderholz,CH,,,,,,,,1364.65,181.95,1546.6,hco,gilead,2016,136,
-Kantonsspital Bruderholz,Bruderholz,CH,,,,0.0,750.0,0.0,0.0,0.0,0.0,750.0,hco,bristol,2015,136,
-Kantonsspital Bruderholz,Bruderholz,CH,Batteriestrasse,,,,,,,2570.0,35.0,2605.0,hco,amgen,2016,136,
-Kantonsspital Bruderholz,Bruderholz,CH,,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,amgen,2015,136,
-Kantonsspital Bruderholz,Bruderholz,CH,,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,takeda,2015,136,
-Kantonsspital Bruderholz,Bruderholz,CH,Batteriestrasse,,,,8870.0,,,,,8870.0,hco,bristol,2016,136,
+Kantonsspital Basel-Land,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,620.0,1877.6,0.0,221.3,2718.9,hco,astellas,2017,10005,1.0
+Kantonsspital Baselland,Liestal,CH,Rheinstr. 26,,,500.0,0.0,0.0,0.0,0.0,0.0,500.0,hco,merck,2015,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlenmattstrasse 26,,,,0.0,,,1350.0,,1350.0,hco,teva,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,,499.74,543.12,,,1042.86,hco,amgen,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,4000.0,,,,,4000.0,hco,menarini,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlenmattstrasse 26,,,,,,,1500.0,,1500.0,hco,mepha,2016,10005,
+Kantonsspital Baselland,Liestal,CH,"Rheinstrasse 26, Liestal",,,0.0,4000.0,0.0,0.0,2516.0,0.0,6516.0,hco,janssen,2015,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,mundipharma,2015,10005,
+Kantonsspital Baselland,Bruderholz,CH,,,,,4000.0,,,,,4000.0,hco,menarini,2017,10006,
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,,,,3445.0,,3445.0,hco,gilead,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,2000.0,545.0,634.0,3000.0,,6179.0,hco,novo,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstr. 26,,,0.0,2000.0,0.0,0.0,3450.0,0.0,5450.0,hco,bayer,2015,10005,
+Kantonsspital Baselland,Laufen,CH,Lochbruggstrasse 39,,,,1000.0,,,,,1000.0,hco,vifor,2016,10007,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,0.0,15000.0,0.0,221.87,6000.0,0.0,21221.87,hco,astrazeneca,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,2000.0,,,,,2000.0,hco,bgp,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,,462.0,1419.0,4000.0,,5881.0,hco,abbvie,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,,,,6500.0,,6500.0,hco,astrazeneca,2016,10005,
+Kantonsspital Baselland,Bruderholz,CH,Bruderholz,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,merck,2015,10006,
+Kantonsspital Baselland,Laufen,CH,Lochburgstrasse 39,,,,1000.0,,,,,1000.0,hco,bgp,2016,10007,
+Kantonsspital Baselland,Steinhausen,CH,Sennweidstrasse 46,,,,4320.0,,,,,4320.0,hco,bgp,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,4000.0,,,840.0,,4840.0,hco,eli,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,1000.0,,,2500.0,,3500.0,hco,vifor,2017,10005,
+Kantonsspital Baselland,Bruderholz,CH,,4101,,0.0,1500.0,0.0,0.0,600.0,0.0,2100.0,hco,astrazeneca,2017,10006,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,4410,,1000.0,,,,,1000.0,2000.0,hco,orion,2016,10005,
+Kantonsspital Baselland,Bruderholz,CH,,,,0.0,1080.0,0.0,0.0,0.0,0.0,1080.0,hco,bgp,2015,10006,
+Kantonsspital Baselland,Bruderholz,CH,0,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,eli,2015,10006,
+Kantonsspital Baselland,Liestal,CH,"Kantonsspital Baselland, Mühlemattstrasse 26",,,0.0,0.0,847.7,508.9,1000.0,0.0,2356.6,hco,astellas,2015,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstr' 26,,,0.0,24000.0,0.0,932.91,600.0,0.0,25532.91,hco,bayer,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlenmattstrasse 26,,,,0.0,,,2250.0,,2250.0,hco,teva,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Kantonsspital Baselland Mühlemattstrasse 26,,,,648.2,508.8,1014.5,,,2171.5,hco,astellas,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,0.0,0.0,1507.0,0.0,1507.0,hco,janssen,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,,,,900.0,,900.0,hco,bristol,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,,,,500.0,,500.0,hco,astrazeneca,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,0.0,6320.0,0.0,0.0,4550.0,0.0,10870.0,hco,glaxosmithkline,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,0.0,3780.0,0.0,0.0,0.0,0.0,3780.0,hco,pfizer,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,2160.0,,,,,2160.0,hco,bgp,2016,10005,
+Kantonsspital Baselland,Bruderholz,CH,,,,0.0,4000.0,982.0,1648.0,0.0,0.0,6630.0,hco,menarini,2015,10006,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,5000.0,906.0,1898.0,4500.0,35.0,12339.0,hco,abbvie,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,0.0,40000.0,0.0,0.0,0.0,0.0,40000.0,hco,astrazeneca,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,1000.0,,,,,,1000.0,hco,celgene,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlenmattstrasse 26,4410,,,1500.0,,,,,1500.0,hco,allergan,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,,455.0,445.0,,,900.0,hco,actelion,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,6566.58,,,,,,6566.58,hco,takeda,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse,,,,,,,2000.0,,2000.0,hco,takeda,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,4860.0,,,,,4860.0,hco,pfizer,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse,4410,,0.0,540.0,0.0,0.0,0.0,0.0,540.0,hco,takeda,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse26,,,500.0,,,,,,500.0,hco,merck,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Rheinstr. 26,4410,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,orion,2015,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse,,,,2000.0,,,,,2000.0,hco,biotest,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,WCHH02178180,1000.0,,,-286.26,,,713.74,hco,celgene,2017,10005,
+Kantonsspital Baselland,Bruderholz,CH,,,,0.0,0.0,0.0,1802.0,0.0,0.0,1802.0,hco,daiichi,2015,10006,1.0
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,0.0,0.0,3300.0,0.0,3300.0,hco,astrazeneca,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,0.0,1000.0,0.0,0.0,1000.0,0.0,2000.0,hco,novo,2015,10005,
+Kantonsspital Baselland,LIESTAL,CH,Mühlemattstrasse 26,,,40000.0,2000.0,0.0,0.0,1300.0,0.0,43300.0,hco,glaxosmithkline,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,0.0,0.0,1065.0,0.0,1065.0,hco,janssen,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,0.0,2000.0,504.0,632.1,0.0,0.0,3136.1,hco,vifor,2015,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,4410,40522657,0.0,18500.0,3162.22,2073.26,1250.0,0.0,24985.49,hco,bayer,2017,10005,
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,,,,500.0,,500.0,hco,bristol,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,3000.0,772.0,4118.0,1999.0,,9889.0,hco,novo,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,94144.15,1074.0,1013.34,8611.49,4320.0,,109162.98,hco,gilead,2016,10005,
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,7739.0,,,,,,7739.0,hco,mundipharma,2017,10005,
+Kantonsspital Baselland Laufen,Liestal,CH,Mühlemattstrasse 26,,,0.0,500.0,0.0,0.0,1250.0,0.0,1750.0,hco,sanofi,2015,10007,
+Kantonsspital Baselland Laufen,Liestal,CH,Mühlemattstrasse 26,,,0.0,500.0,0.0,0.0,1250.0,0.0,1750.0,hco,genzyme,2015,10007,
+Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,,,,,,,5000.0,2800.0,7800.0,hco,msd,2017,10005,
+Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,4410,,0.0,0.0,1668.68,2107.28,4400.0,0.0,8175.96,hco,roche,2017,10005,
+Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,4410,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,boehringer,2015,10005,
+Kantonsspital Baselland Liestal,Liestal,CH,Kantonsspital Baselland Liestal Rheinstrasse 26,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,msd,2015,10005,
+Kantonsspital Baselland Liestal,Liestal,CH,Kantonsspital Baselland Liestal Rheinstrasse 26,,,,9000.0,528.0,1302.15,5700.0,,16530.15,hco,msd,2016,10005,
+Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,621.0,6049.0,5463.0,0.0,12132.0,hco,roche,2016,10005,
+Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,4410,,0.0,0.0,0.0,0.0,51500.0,0.0,51500.0,hco,roche,2015,10005,
+Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,4410,,,2000.0,,5245.4,10140.0,,17385.4,hco,boehringer,2017,10005,
+Kantonsspital Baselland Liestal Medizin Nephrologie,Liestal,CH,Rheinstrasse 26,4410,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,roche,2015,10005,
+Kantonsspital Baselland Liestal Medizin Onkologie,Liestal,CH,Rheinstrasse 26,4410,,0.0,0.0,0.0,0.0,1080.0,0.0,1080.0,hco,roche,2015,10005,
+Kantonsspital Baselland Standort Liestal,Liestal,CH,Rheinstrasse 26,,,,,,1469.0,,,1469.0,hco,abbvie,2016,10005,
+Kantonsspital Baselland Standort Liestal,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,0.0,0.0,2800.0,0.0,2800.0,hco,eli,2015,10005,
+Kantonsspital Baselland Standort Liestal,Liestal,CH,Rheinstrasse 26,,,,1000.0,,,,,1000.0,hco,takeda,2016,10005,
+Kantonsspital Baselland Standort Liestal,Liestal,CH,Rheinstrasse 26,,,6430.34,0.0,0.0,0.0,0.0,0.0,6430.34,hco,takeda,2015,10005,
+Kantonsspital Baselland Standort Liestal,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,abbvie,2015,10005,
+Kantonsspital Baselland Standort Liestal - Ambulante Onkologie,Liestal,CH,Mühlenmatt 13,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hco,takeda,2015,10005,
+Kantonsspital Baselland Standort Liestal - Gastroenterologie,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,346.39,1384.65,0.0,0.0,1731.04,hco,takeda,2015,10005,
+Kantonsspital Baselland Standort Liestal - Gastroenterologie / Hepatologie,Liestal,CH,Rheinstrasse 26,4410,,0.0,0.0,184.25,838.24,0.0,0.0,1022.49,hco,takeda,2017,10005,
+Kantonsspital Baselland Verwaltung,Liestal,CH,Mühlemattstrasse 11,,,120000.0,4030.0,1365.0,3256.4,15400.0,2105.17,146156.57,hco,novartis,2016,10005,
+Kantonsspital Baselland Verwaltung,Liestal,CH,Mühlemattstrasse 11,,,0.0,9000.0,1959.3,3316.62,4900.0,0.0,19175.92,hco,novartis,2015,10005,
+Kantonsspital Baselland Verwaltung,Liestal,CH,Mühlemattstrasse 11,,,50000.0,4000.0,910.0,802.0,3150.0,0.0,58862.0,hco,novartis,2017,10005,
+"Kantonsspital Baselland, Frauenklinik",Liestal,CH,Mühlemattstrasse 26,,,,,,,800.0,,800.0,hco,vifor,2016,10005,
+Kantonsspital BL,Bruderholz,CH,Mühlemattstrasse 26,,,588.0,0.0,0.0,0.0,0.0,0.0,588.0,hco,mundipharma,2015,10006,
+Kantonsspital BL,Liestal,CH,Mühlemattstrasse 26,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,mundipharma,2015,10005,
+Kantonsspital BL,Liestal,CH,Mühlemattstrasse 26,,,1456.0,0.0,0.0,0.0,0.0,0.0,1456.0,hco,mundipharma,2015,10005,
+Kantonsspital Bruderholz,Bruderholz,CH,Batteriestrasse,,,,5240.0,,,1000.0,,6240.0,hco,bristol,2017,10006,
+Kantonsspital Bruderholz,Bruderholz,CH,Alle Abteilungen,,,0.0,3240.0,0.0,0.0,0.0,0.0,3240.0,hco,pfizer,2015,10006,
+Kantonsspital Bruderholz,Bruderholz,CH,,,,,,,,1364.65,181.95,1546.6,hco,gilead,2016,10006,
+Kantonsspital Bruderholz,Bruderholz,CH,,,,0.0,750.0,0.0,0.0,0.0,0.0,750.0,hco,bristol,2015,10006,
+Kantonsspital Bruderholz,Bruderholz,CH,Batteriestrasse,,,,,,,2570.0,35.0,2605.0,hco,amgen,2016,10006,
+Kantonsspital Bruderholz,Bruderholz,CH,,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,amgen,2015,10006,
+Kantonsspital Bruderholz,Bruderholz,CH,,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,takeda,2015,10006,
+Kantonsspital Bruderholz,Bruderholz,CH,Batteriestrasse,,,,8870.0,,,,,8870.0,hco,bristol,2016,10006,
 Kantonsspital Frauenfeld,Frauenfeld,CH,Pfaffenholzstrasse 4,,,0.0,5400.0,0.0,0.0,0.0,0.0,5400.0,hco,vifor,2015,13,
 Kantonsspital Frauenfeld,Frauenfeld,CH,Pfaffenholzstrasse 4,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,gruenenthal,2015,13,
 Kantonsspital Frauenfeld,Frauenfeld,CH,Pfaffenholzstrasse 4,,,,2484.0,244.75,2123.27,,,4852.02,hco,amgen,2017,13,
@@ -5826,7 +5826,7 @@ KHM - Kollegium für Hausarztmedizin - Collège de Médecine de Premier Recours,
 KHM Fortbidlungsveranstaltung Hausarztmedizin,Steinhausen,CH,Sennweidstrasse 47,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,zambon,2015,230,
 KHM Fortbidlungsveranstaltung Hausarztmedizin,Steinhausen,CH,Sennweidstrasse 46,,,,4000.0,,,,,4000.0,hco,zambon,2016,230,
 Kids Kidney Care,Zürich,CH,Gutstrasse 161,,,2000.0,,,,,,2000.0,hco,novo,2016,1795,1.0
-Kids Kidney Care,Zürich,CH,c/o Leonie Zeller,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,novo,2015,1796,1.0
+Kids Kidney Care,Zürich,CH,c/o Leonie Zeller,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,novo,2015,1795,
 Kinder mit seltenen Krankheiten,Uster,CH,Ackerstrasse 43,8610,,17500.0,,,,,,17500.0,hco,sanofi,2017,1797,1.0
 Kinderklinik / Luzerner Kantonsspital Luzern,Luzern,CH,Spitalstrasse,,,,,,,500.0,,500.0,hco,galderma,2016,7,
 Kinderpneumologie,Winterthur,CH,Brauerstrasse 15,8400,,500.0,0.0,0.0,0.0,0.0,0.0,500.0,hco,astrazeneca,2015,1798,1.0
@@ -5936,9 +5936,9 @@ Klinik Bethesda Tschugg,Tschugg,CH,Oberdorf,3233,,0.0,1000.0,0.0,0.0,0.0,0.0,100
 Klinik für Dermatologie,Bern,CH,Freiburgstrasse 18,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,janssen,2017,2,
 Klinik für Hämatologie,Zürich,CH,Rämistrasse 100,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,pfizer,2015,1,
 Klinik für Kinder und Jugendliche am Kantonsspital Aarau,Aarau,CH,Tellstrasse,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,merck,2015,10,
-Klinik für Psychiatrie Psychotherapie und Psychosomatik Psychiatrische Universitätsklinik Zürich,Zürich,CH,Postfach,1931,,,15000.0,,,,,15000.0,hco,lundbeck,2017,137,
+Klinik für Psychiatrie Psychotherapie und Psychosomatik Psychiatrische Universitätsklinik Zürich,Zürich,CH,Postfach,1931,,,15000.0,,,,,15000.0,hco,lundbeck,2017,10008,
 "Klinik für Psychiatrie u, Psychotherapie",Basel,CH,Clarastrasse 6,,,,2500.0,,,,,2500.0,hco,lundbeck,2016,1808,1.0
-"Klinik für Psychiatrie und Psychotherapie, Universität Zürich UZH",Zürich,CH,Culmannstrasse 8,,,,3240.0,,,,,3240.0,hco,vifor,2017,1,
+"Klinik für Psychiatrie und Psychotherapie, Universität Zürich UZH",Zürich,CH,Culmannstrasse 8,,,,3240.0,,,,,3240.0,hco,vifor,2017,10008,
 Klinik für Rheumatologie,Zürich,CH,Gloriastrasse 25,,,,50112.0,,,2548.0,,52660.0,hco,bristol,2017,1,
 Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,WCHH09509631,,,,,1142.5,,1142.5,hco,celgene,2017,19,
 Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,,,14000.0,,,,,14000.0,hco,msd,2017,19,
@@ -5956,7 +5956,7 @@ Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,,3200.0,0.0,0.0,0.0,0.0,0.0,3
 Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,,0.0,0.0,470.0,749.0,250.0,0.0,1469.0,hco,celgene,2015,19,
 Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,,,5600.0,,,,,5600.0,hco,merck,2016,19,
 Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,,,,,,4000.0,,4000.0,hco,celgene,2016,19,
-Klinik Hirslanden,Zürich,CH,Postfach,1472,,0.0,2160.0,0.0,0.0,0.0,0.0,2160.0,hco,pfizer,2015,1809,1.0
+Klinik Hirslanden,Zürich,CH,Postfach,1472,,0.0,2160.0,0.0,0.0,0.0,0.0,2160.0,hco,pfizer,2015,19,
 Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,,,,1031.65,6346.67,,,7378.32,hco,amgen,2016,19,
 Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,abbvie,2015,19,
 Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,,0.0,0.0,150.0,75.0,0.0,0.0,225.0,hco,amgen,2015,19,
@@ -6270,7 +6270,7 @@ Luzerner Höhenklinik Montana,Crans-Montana,CH,Route de l'Astoria 2,,,0.0,3240.0
 Luzerner Höhenklinik Montana,Crans-montana,CH,Route de l'Astoria 2,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,actelion,2015,446,
 Luzerner Höhenklinik Montana,Crans-Montana,CH,Route de l’Astoria 2,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,takeda,2015,446,
 Luzerner Höhenklinik Montana Medizin Pneumologie,Crans-Montana,CH,Route de l'Astoria 2,3963,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,boehringer,2016,446,1.0
-Luzerner KantonsspHal -Kardiologie,Luzern,CH,Spitalstrasse,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,1852,1.0
+Luzerner Kantonsspital - Kardiologie,Luzern,CH,Spitalstrasse,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,7,
 Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,,1620.0,,,,,1620.0,hco,bgp,2016,7,
 Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,18500.0,12066.1,0.0,0.0,625.0,0.0,31191.1,hco,merck,2015,7,
 Luzerner Kantonsspital,Luzern,CH,Spitalstr. 31,,,,903.93,,377.42,,,1281.35,hco,future,2017,7,
@@ -6445,7 +6445,7 @@ Luzerner Psychiatrie,Arbon,CH,"Schafmattstrasse 1, St. Urban",,,0.0,1500.0,0.0,0
 Luzerner Psychiatrie,Luzern,CH,"Areal Kantonsspital 11, Luzern",,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,janssen,2015,323,
 Luzerner Psychiatrie,Luzern,CH,Spitalstrasse 11,,,,3000.0,,,,,3000.0,hco,mepha,2017,323,
 Luzerner Psychiatrie,Luzern,CH,Spitalstrasse 11,,,,1600.0,,,,,1600.0,hco,mepha,2017,323,
-Luzerner Psychiatrie,St. Urban,CH,Spitalstrasse 11,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,mundipharma,2016,1856,1.0
+Luzerner Psychiatrie,St. Urban,CH,Spitalstrasse 11,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,mundipharma,2016,323,
 Luzerner Psychiatrie,St. Urban,CH,Klinik St. Urban - Schafmattstrasse 1,4915,LuzernerPsychiatrieStUrban,,3000.0,,,,,3000.0,hco,servier,2017,323,
 Luzerner Psychiatrie Psychiatrisches Ambulatorium A,Luzern,CH,Löwengraben 20,,,0.0,464.0,0.0,0.0,0.0,0.0,464.0,hco,lundbeck,2015,975,
 "Luzerner Psychiatrie, Klinik St. Urban",St. Urban,CH,Schafmattstrasse 1,,,,2000.0,,,,,2000.0,hco,vifor,2017,323,
@@ -6719,7 +6719,7 @@ Neurologische Praxis,Schwyz,CH,Maria-Hilf-Strasse 9,,,,,,,688.0,,688.0,hco,brist
 "Neurologische Praxis Luzern, Klinik St. Anna",Luzern,CH,St. Anna Str. 32,,,,2600.0,,,,,2600.0,hco,merck,2017,69,
 "Neurologische Praxis Luzern, Klinik St. Anna",Luzern,CH,St. Anna Str. 32,,,0.0,2300.0,0.0,0.0,0.0,0.0,2300.0,hco,merck,2015,69,
 Neurologische Praxis Luzern. Klink St Anna,Luzern,CH,St Anna Str 32,,,,2300.0,,,,,2300.0,hco,merck,2016,69,
-Neurologische Praxis Schwyz,Schwyz,CH,Steinstegstrasse 3,6430,,,1000.0,,,,,1000.0,hco,allergan,2016,1922,1.0
+Neurologische Praxis Schwyz,Schwyz,CH,Steinstegstrasse 3,6430,,,1000.0,,,,,1000.0,hco,allergan,2016,1921,
 Neurozentrum Aarau Hirslanden Medical Center,Aarau,CH,Rain 34,,,,2000.0,,,,,2000.0,hco,merck,2017,526,
 "Neurozentrum Aarau, Hirslanden Medical Center",Aarau,CH,Rain 34,,,,2000.0,,,,,2000.0,hco,teva,2017,526,1.0
 Neurozentrum Bellevue,Zürich,CH,Theaterstrasse 8,,,,300.0,,,3600.0,,3900.0,hco,biogen,2016,328,
@@ -7136,11 +7136,11 @@ Palliative Ostschweiz,St. Gallen,CH,Flurhofstrasse 7 St. Gallen,,,1000.0,0.0,0.0
 palliative ostschweiz,St. Gallen,CH,Flurhofstrasse 7,9000,,,1000.0,,,,,1000.0,hco,teva,2016,1007,1.0
 palliative so,Solothurn,CH,St. Josefsgasse 7a,4500,,,1000.0,,,,,1000.0,hco,teva,2016,455,
 palliative so,Solothurn,CH,St Josefsgasse 7a,4500,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,teva,2015,455,
-Palliative so,Laufen,CH,Wahlenstrasse 56,,,,1000.0,,,,,1000.0,hco,teva,2017,676,1.0
+Palliative so,Laufen,CH,Wahlenstrasse 56,,,,1000.0,,,,,1000.0,hco,teva,2017,455,
 Palliative so,Solothurn,CH,St Josefsgasse 7a,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,gruenenthal,2016,455,
 Palliative vs,Sion,CH,Rue De La Porte-neuve 20,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,bayer,2015,1008,
 Palliative Vs,Sion,CH,Rue De La Porte-Neuve20,,,,1000.0,,,,,1000.0,hco,amgen,2016,1008,1.0
-Palliative Zentralsc Hweiz,Rickenbach,CH,Chappelweid 15,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hco,amgen,2015,1965,1.0
+Palliative Zentralschweiz,Rickenbach,CH,Chappelweid 15,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hco,amgen,2015,1965,1.0
 palliative ZH & SH Spital Wattwil,Zürich,CH,Arterstrasse 28,8032,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,teva,2015,677,
 palliative zh+sh,Zürich,CH,Arterstrasse 28,8032,,,1500.0,,,,,1500.0,hco,teva,2016,677,1.0
 Palliative zh/sh,Zürich,CH,Arterstrasse 28,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,mundipharma,2015,677,
@@ -7206,7 +7206,7 @@ pharmacieplus franches- montagnes,Saignelégier,CH,Place du 23 Juin 2,,,0.0,700.
 pharmacieplus franches-montagnes,Saignelégier,CH,Place du 23 Juin 2,,,0.0,700.0,0.0,0.0,0.0,0.0,700.0,hco,pfizer,2015,1013,
 Pharmacieplus SA,Bremblens,CH,Les Corbes 5,,,,5000.0,,,,,5000.0,hco,bgp,2017,1977,1.0
 Pharmacies BENU SA,Villars-sur-Glâne,CH,Avenue du Centre 6,1752,PharmaciesBENUVillarssurGlâne,,12000.0,,,,,12000.0,hco,servier,2017,1978,1.0
-Pharmactuel,Bern,CH,Postfach,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,mundipharma,2015,1979,1.0
+Pharmactuel,Bern,CH,Postfach,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,mundipharma,2015,1014,
 Pharmactuel c/o OFCT,Lugano,CH,Casella Postale,2508,,,2500.0,,,,,2500.0,hco,mepha,2016,1980,1.0
 PharmActuel Basel,Binningen,CH,Bleicherweg 5,,,,1282.0,,,,,1367.0,hco,mepha,2017,1981,1.0
 pharmActuel Bern,Zollikofen,CH,Hübeliweg 14,3052,1067485359,0.0,2900.0,0.0,0.0,0.0,0.0,2900.0,hco,bayer,2017,1014,1.0
@@ -7337,31 +7337,31 @@ Positivrat Schweiz,Zürich,CH,,,,,4500.0,,,,,4500.0,hco,amgen,2017,2000,1.0
 PourVision Sàrl c/o Constantin Pournaras,St-Luc,CH,Chalet Morgenstern,,,0.0,0.0,0.0,0.0,250.0,0.0,250.0,hco,novartis,2017,1022,1.0
 PourVision Särl c/o Constantin Pournaras,St-Luc,CH,Chalet Morgenstern,,,,,,,1000.0,,1000.0,hco,novartis,2016,1022,
 "PraxaMed, Ärztezentrum Attiswil-Wiedlisbach",Bätterkinden,CH,Winkelriedstr. 27,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,mepha,2015,2001,1.0
-Praxis   Theo und Priska Kruker,Lostorf,CH,Stüsslingerstrasse 16,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,pfizer,2015,2002,1.0
-Praxis  Abraham Schmitz Diana,Wattwil,CH,Wolkshausstrasse 21a,,,,,110.55,1407.45,,,1518.0,hco,takeda,2016,2003,1.0
-Praxis  Aslan /  Gruhler,Zürich,CH,Riedtlistrasse 1,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,almirall,2015,2004,1.0
-Praxis  Both Jeannine,Stäfa,CH,Bahnhofstrasse 22,,,,,,,1400.0,,1400.0,hco,abbvie,2016,2005,1.0
-Praxis  Dolder Mathias,Zürich,CH,Weinbergstrasse 26,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,vifor,2015,2006,1.0
-Praxis  Fuhrimann Peter,Ostermundigen,CH,Moosweg 11,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hco,abbvie,2015,2007,1.0
-Praxis  Gut /  Bründler,Luzern,CH,Hertensteinst ras se 29,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,almirall,2015,1023,
-Praxis  Gut André /  Bründler Robert,Luzern,CH,Hertensteinstrasse 29,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,abbvie,2015,1023,1.0
-Praxis  Hasler Loretta AG,Biel/Bienne,CH,Hans-Hugi-Strasse 3,,,0.0,0.0,0.0,0.0,771.0,0.0,771.0,hco,celgene,2015,509,
-Praxis  Jost,Liestal,CH,Kesselweg 40,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,mepha,2015,2008,1.0
-Praxis  Kell Claudia,Männedorf,CH,Asylstrasse 10,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,amgen,2015,1024,
-Praxis  Misteli Max,Oensingen,CH,Bienkenstrasse 26,,,0.0,800.0,0.0,0.0,0.0,0.0,800.0,hco,pfizer,2015,2009,1.0
-Praxis  Müller Dominik,Biel/Bienne,CH,Bahnhofstrasse 54,,,300.0,,,,,,300.0,hco,actelion,2016,2010,1.0
-Praxis  Rambach Klaus,Kriens,CH,Luzernerstrasse 2,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,almirall,2015,2011,1.0
-Praxis  Reichlin/ Jermann,Zürich,CH,Toblerstrasse 50,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hco,celgene,2015,1025,
-Praxis  Reichlin/ Jermann,Zürich,CH,Toblerstrasse 50,,,,,,,750.0,,750.0,hco,celgene,2016,1025,1.0
-Praxis  Rein Patrick,Heerbrugg,CH,"Aechelistrasse 4, Heerbrugg",,,0.0,0.0,0.0,0.0,880.0,0.0,880.0,hco,janssen,2015,2012,1.0
-Praxis  Schild Christoph,Gümligen,CH,Worbstrasse 312,,,,,,,,1200.0,1200.0,hco,daiichi,2016,2013,1.0
-Praxis  Schiller Peter,Liestal,CH,Mühlegasse 3,,,,1800.0,,,,,1800.0,hco,pfizer,2016,2014,1.0
-Praxis  Schöpf Josef,Zürich,CH,Steinwiesstrasse 32,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,otsuka,2015,2015,1.0
-Praxis  Ulrich Karli,Lenzburg,CH,Niederlenzer Kirchweq 3,,,,1000.0,,,,,1000.0,hco,vifor,2016,2016,1.0
-Praxis  Villiger Lukas,Baden- Dättwil,CH,Mellingerstrasse 207,,,,850.0,,,,,850.0,hco,amgen,2016,1026,
-Praxis  Warzinek Thomas,Sargans,CH,Bahnhofstrasse 6,,,,5000.0,,,,,5000.0,hco,abbvie,2016,2017,1.0
-Praxis  Weissenrieder Hansjörg,Zug,CH,Bundesstrasse 6,,,0.0,2700.0,0.0,0.0,0.0,0.0,2700.0,hco,otsuka,2015,2018,1.0
-Praxis  Zerlauth Markus,Buchs SG,CH,Grünaustrasse 15,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,vifor,2015,2019,1.0
+Praxis Theo und Priska Kruker,Lostorf,CH,Stüsslingerstrasse 16,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,pfizer,2015,2002,1.0
+Praxis Abraham Schmitz Diana,Wattwil,CH,Wolkshausstrasse 21a,,,,,110.55,1407.45,,,1518.0,hco,takeda,2016,2003,1.0
+Praxis Aslan / Gruhler,Zürich,CH,Riedtlistrasse 1,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,almirall,2015,2004,1.0
+Praxis Both Jeannine,Stäfa,CH,Bahnhofstrasse 22,,,,,,,1400.0,,1400.0,hco,abbvie,2016,2005,1.0
+Praxis Dolder Mathias,Zürich,CH,Weinbergstrasse 26,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,vifor,2015,2006,1.0
+Praxis Fuhrimann Peter,Ostermundigen,CH,Moosweg 11,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hco,abbvie,2015,2007,1.0
+Praxis Gut / Bründler,Luzern,CH,Hertensteinst ras se 29,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,almirall,2015,1023,
+Praxis Gut André / Bründler Robert,Luzern,CH,Hertensteinstrasse 29,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,abbvie,2015,1023,1.0
+Praxis Hasler Loretta AG,Biel/Bienne,CH,Hans-Hugi-Strasse 3,,,0.0,0.0,0.0,0.0,771.0,0.0,771.0,hco,celgene,2015,509,
+Praxis Jost,Liestal,CH,Kesselweg 40,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,mepha,2015,2008,1.0
+Praxis Kell Claudia,Männedorf,CH,Asylstrasse 10,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,amgen,2015,1024,
+Praxis Misteli Max,Oensingen,CH,Bienkenstrasse 26,,,0.0,800.0,0.0,0.0,0.0,0.0,800.0,hco,pfizer,2015,2009,1.0
+Praxis Müller Dominik,Biel/Bienne,CH,Bahnhofstrasse 54,,,300.0,,,,,,300.0,hco,actelion,2016,2010,1.0
+Praxis Rambach Klaus,Kriens,CH,Luzernerstrasse 2,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,almirall,2015,2011,1.0
+Praxis Reichlin/ Jermann,Zürich,CH,Toblerstrasse 50,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hco,celgene,2015,1025,
+Praxis Reichlin/ Jermann,Zürich,CH,Toblerstrasse 50,,,,,,,750.0,,750.0,hco,celgene,2016,1025,1.0
+Praxis Rein Patrick,Heerbrugg,CH,"Aechelistrasse 4, Heerbrugg",,,0.0,0.0,0.0,0.0,880.0,0.0,880.0,hco,janssen,2015,2012,1.0
+Praxis Schild Christoph,Gümligen,CH,Worbstrasse 312,,,,,,,,1200.0,1200.0,hco,daiichi,2016,2013,1.0
+Praxis Schiller Peter,Liestal,CH,Mühlegasse 3,,,,1800.0,,,,,1800.0,hco,pfizer,2016,2014,1.0
+Praxis Schöpf Josef,Zürich,CH,Steinwiesstrasse 32,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,otsuka,2015,2015,1.0
+Praxis Ulrich Karli,Lenzburg,CH,Niederlenzer Kirchweq 3,,,,1000.0,,,,,1000.0,hco,vifor,2016,2016,1.0
+Praxis Villiger Lukas,Baden- Dättwil,CH,Mellingerstrasse 207,,,,850.0,,,,,850.0,hco,amgen,2016,1026,
+Praxis Warzinek Thomas,Sargans,CH,Bahnhofstrasse 6,,,,5000.0,,,,,5000.0,hco,abbvie,2016,2017,1.0
+Praxis Weissenrieder Hansjörg,Zug,CH,Bundesstrasse 6,,,0.0,2700.0,0.0,0.0,0.0,0.0,2700.0,hco,otsuka,2015,2018,1.0
+Praxis Zerlauth Markus,Buchs SG,CH,Grünaustrasse 15,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,vifor,2015,2019,1.0
 Praxis am Bahnhof,Rüti,CH,Dorfstrasse 43/44,,,,200.0,,,,,215.0,hco,mepha,2017,2020,1.0
 "Praxis Balsiger, Seibold & Crohn-Colitis-Ze ntrum Hochhaus Lindenhofspital Bremgartenstrass",Bern,CH,"Praxis Balsiger, Seibold & Crohn-Colitis-Ze ntrum - Hochhaus Lindenhofspital Bremgartenstrasse 119",,,,,872.65,2244.3,,,3116.95,hco,msd,2016,99,
 "Praxis Balsiger, Seibold & Partner Crohn-Colitis",Bern,CH,"Zentrum Hochhaus Lindenhofspital, Bremgartenstrasse",,,,1500.0,,,,,1500.0,hco,msd,2017,99,
@@ -7380,7 +7380,7 @@ Praxis für Neuro-Rehabilitation GmbH,Zürich,CH,Mühlegasse 25,,,,,,,1000.0,23.
 Praxis für Neurologie,Wetzikon ZH,CH,Weststrasse 70,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis,2017,2028,1.0
 Praxis für Onkologie,Zürich,CH,Toblerstrasse 50,,,0.0,0.0,0.0,0.0,875.0,0.0,875.0,hco,astrazeneca,2017,2029,1.0
 Praxis Gerber Markus,Bern,CH,Spitalgasse 29,,,,1500.0,,,,,1500.0,hco,pfizer,2016,2030,1.0
-praxis Kandersteg,Kandersteg,CH,Äussere Dorfstrasse 39,3718,,,960.0,,,,,960.0,hco,daiichi,2017,2031,1.0
+Praxis Kandersteg,Kandersteg,CH,Äussere Dorfstrasse 39,3718,,,960.0,,,,,960.0,hco,daiichi,2017,2031,1.0
 Praxis Levy Francis,Zürich,CH,Löwenstrasse 42,,,,3000.0,,,,,3000.0,hco,meda,2017,2032,1.0
 Praxis Reinacherhof,Reinach BL,CH,Im Reinacherhof 53,,,0.0,0.0,5500.0,1900.0,0.0,0.0,7400.0,hco,novartis,2017,1028,1.0
 Praxis Reinacherhof,Reinach BL,CH,Im Reinacherhof S3,,,,,1720.0,600.0,,,2320.0,hco,novartis,2016,1028,
@@ -7585,7 +7585,7 @@ Psychiatrische Dienste Bern (U),Bern 60 U,CH,Bolligenstrasse 111,,,,1000.0,,,,,1
 Psychiatrische Dienste Bern(UPD),Bern,CH,Murtenstrasse 46,,,549.2,0.0,0.0,0.0,162.0,0.0,711.2,hco,otsuka,2016,58,
 Psychiatrische Dienste Bern(UPD),Bern,CH,Murtenstrasse 46,,,,1000.0,,,,,1000.0,hco,otsuka,2017,58,
 Psychiatrische Dienste Biel,Biel/Bienne,CH,"Mühlebrücke 14, Biel/Bienne",,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,janssen,2015,2066,1.0
-Psychiatrische Dienste Graubünde,Chur,CH,Loestrasse 220,,,0.0,330.0,0.0,0.0,0.0,0.0,330.0,hco,janssen,2017,2067,1.0
+Psychiatrische Dienste Graubünden,Chur,CH,Loestrasse 220,,,0.0,330.0,0.0,0.0,0.0,0.0,330.0,hco,janssen,2017,2067,1.0
 Psychiatrische Dienste Thurgau - EPD Thurgau,Münsterlingen,CH,Seeblickstrasse 3,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,eli,2015,20,
 "Psychiatrische Dienste Thurgau, Spital Thurgau AG",Münsterlingen,CH,Seeblickstrasse 3,,,,1080.0,,,,,1080.0,hco,vifor,2016,20,
 Psychiatrische Dientste Aargau AG,Brugg AG,CH,Zürcherstrasse 241,,,0.0,3704.0,0.0,0.0,0.0,0.0,3704.0,hco,mepha,2015,2068,1.0
@@ -7593,23 +7593,23 @@ Psychiatrische Klinik Königsfelden Psychiatrische Dienste Aargau AG,Brugg AG,CH
 Psychiatrische Klinik Wil,Wil SG,CH,Zürcherstrasse 30,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,janssen,2016,1031,1.0
 Psychiatrische Klinik Wil,Wil SG,CH,"Zürcherstrasse 30, Wil SG",,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,janssen,2015,1031,
 Psychiatrische Klinik Zugersee,Oberwil B. Zug,CH,Widenstrasse 55,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,2069,1.0
-Psychiatrische Uniklinik,Zürich,CH,Lenggstrasse 31,,,,20000.0,,,,,20000.0,hco,otsuka,2017,137,
-Psychiatrische Uniklinik,Zürich,CH,Lenggstrasse 31,,,0.0,7500.0,0.0,0.0,0.0,0.0,7500.0,hco,otsuka,2016,137,
-Psychiatrische Universitätsklin ik Zürich,Zürich,CH,Lenggstrasse 31,,,,706.85,,,,,706.85,hco,sandoz,2017,137,
-Psychiatrische Universitätsklinik,Zürich,CH,Lenggstrasse 31,,,,6480.0,,,,,6480.0,hco,vifor,2017,137,1.0
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,8000.0,0.0,552.95,4000.0,0.0,12552.95,hco,takeda,2015,137,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,15000.0,0.0,0.0,0.0,0.0,15000.0,hco,otsuka,2015,137,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31 Postfach,1931,,0.0,818.0,0.0,0.0,0.0,0.0,818.0,hco,lundbeck,2015,137,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,takeda,2015,137,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,,1080.0,,,,,1080.0,hco,vifor,2016,137,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Selnaustrasse 9,,,,,,,1500.0,,1500.0,hco,lundbeck,2016,1032,1.0
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,18000.0,0.0,0.0,0.0,0.0,18000.0,hco,eli,2015,137,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Selnaustrasse 9,,,0.0,0.0,368.5,712.92,0.0,0.0,1081.42,hco,takeda,2015,1032,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Klinik f. Affektive Erkrankungen und Allgemeinpsychiatrie Zürich Ost - Lenggstrasse 31,8032,PsychiatrischeUniversitätsklinikZürich,,2000.0,,,,,2000.0,hco,servier,2017,137,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Klinik f. Affektive Erkrankungen und Allgemeinpsychiatrie Zürich Ost - Lenggstrasse 31,,,,6000.0,,,,,6000.0,hco,servier,2016,137,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,,4000.0,,,,,4000.0,hco,eli,2017,137,
-Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,,5000.0,,,,,5000.0,hco,eli,2016,137,
-Psychiatrische Universitätsklinik Zürich (PUK),Zürich,CH,"Lenggstrasse 31, Postfach",1931,,,16500.0,,,1400.0,378.0,18278.0,hco,lundbeck,2016,137,
+Psychiatrische Uniklinik,Zürich,CH,Lenggstrasse 31,,,,20000.0,,,,,20000.0,hco,otsuka,2017,10008,
+Psychiatrische Uniklinik,Zürich,CH,Lenggstrasse 31,,,0.0,7500.0,0.0,0.0,0.0,0.0,7500.0,hco,otsuka,2016,10008,
+Psychiatrische Universitätsklin ik Zürich,Zürich,CH,Lenggstrasse 31,,,,706.85,,,,,706.85,hco,sandoz,2017,10008,
+Psychiatrische Universitätsklinik,Zürich,CH,Lenggstrasse 31,,,,6480.0,,,,,6480.0,hco,vifor,2017,10008,1.0
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,8000.0,0.0,552.95,4000.0,0.0,12552.95,hco,takeda,2015,,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,15000.0,0.0,0.0,0.0,0.0,15000.0,hco,otsuka,2015,,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31 Postfach,1931,,0.0,818.0,0.0,0.0,0.0,0.0,818.0,hco,lundbeck,2015,,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,takeda,2015,,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,,1080.0,,,,,1080.0,hco,vifor,2016,,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Selnaustrasse 9,,,,,,,1500.0,,1500.0,hco,lundbeck,2016,,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,0.0,18000.0,0.0,0.0,0.0,0.0,18000.0,hco,eli,2015,,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Selnaustrasse 9,,,0.0,0.0,368.5,712.92,0.0,0.0,1081.42,hco,takeda,2015,,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Klinik f. Affektive Erkrankungen und Allgemeinpsychiatrie Zürich Ost - Lenggstrasse 31,8032,PsychiatrischeUniversitätsklinikZürich,,2000.0,,,,,2000.0,hco,servier,2017,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Klinik f. Affektive Erkrankungen und Allgemeinpsychiatrie Zürich Ost - Lenggstrasse 31,,,,6000.0,,,,,6000.0,hco,servier,2016,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,,4000.0,,,,,4000.0,hco,eli,2017,10008,
+Psychiatrische Universitätsklinik Zürich,Zürich,CH,Lenggstrasse 31,,,,5000.0,,,,,5000.0,hco,eli,2016,10008,
+Psychiatrische Universitätsklinik Zürich (PUK),Zürich,CH,"Lenggstrasse 31, Postfach",1931,,,16500.0,,,1400.0,378.0,18278.0,hco,lundbeck,2016,10008,
 Psychiatrisches Zentrum Appenzell Ausserrhoden,Herisau,CH,Krombach 3,,,,1080.0,,,,,1080.0,hco,lundbeck,2016,1033,1.0
 Psychiatrisches Zentrum Appenzell Ausserrhoden,Herisau,CH,Krombach 3,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,mepha,2015,1033,
 Psychiatrisches Zentrum Herisau,Herisau,CH,Psychiatrisches Zentrum Herisau Postfach,,,0.0,1080.0,0.0,0.0,0.0,0.0,1080.0,hco,lundbeck,2015,2070,1.0
@@ -7741,14 +7741,14 @@ Regionalspital Surselva AG,Ilanz,CH,Spitalstrasse 6,7130,40701314,0.0,1000.0,0.0
 Regionalspital Surselva AG,Ilanz,CH,Spitalstrasse 6,,,,1000.0,,,,,1000.0,hco,bristol,2017,291,1.0
 Regionalspital Surselva AG,Ilanz,CH,Spitalstrasse 6,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer,2015,291,
 Regionalspital Surselva AG,Ilanz,CH,Spitalstrasse 6,,,,503.0,,,,,503.0,hco,astrazeneca,2016,291,
-Regionalspital Surselva AG,llanz,CH,Spitalstrasse 6,,,,864.0,,,,,864.0,hco,pfizer,2016,1039,1.0
+Regionalspital Surselva AG,llanz,CH,Spitalstrasse 6,,,,864.0,,,,,864.0,hco,pfizer,2016,291,
 Regionalspital Surselva AG,Ilanz,CH,Spitalstrasse 6,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer,2016,291,
 Regionalspital Surselva AG - Innere Medizin,Ilanz,CH,Spitalstrasse 6,,,,,257.95,612.56,,,870.51,hco,takeda,2016,291,
 Regiovital,Biel/Bienne,CH,Bözingerstrasse 162,,,,1620.0,,,,,1620.0,hco,bgp,2016,1040,1.0
 "Regiovital AG, RegioPharm",Biel/Bienne,CH,Bözingenstrasse 162,,,0.0,1620.0,0.0,0.0,0.0,0.0,1620.0,hco,bgp,2015,1040,
 Reha,Rheinfelden,CH,Salinenstrasse 98Rheinfelden,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,mundipharma,2016,39,
 Reha,Rheinfelden,CH,Salinenstrasse 98Rheinfelden,,,1500.0,,,,,,1500.0,hco,mundipharma,2017,39,
-Reha Chrischona -Medizin,Bettingen,CH,Hohe Strasse 30,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,2096,1.0
+Reha Chrischona-Medizin,Bettingen,CH,Hohe Strasse 30,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,2096,1.0
 Reha Klinik,Rheinfelden,CH,Salinenstrasse 98,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,mundipharma,2015,39,
 Reha Reinfelden,Rheinfelden,CH,Salinenstrasse 98,,,,3000.0,,,,,3120.0,hco,mepha,2017,39,
 Reha Rheinfelden,Rheinfelden,CH,Salinenstrasse 98,,,,2000.0,,,,,2000.0,hco,bristol,2017,39,
@@ -10460,7 +10460,7 @@ Tumorzentrum Aarau,Aarau,CH,Rain 34,,,,,,,750.0,,750.0,hco,bristol,2017,268,
 Tumorzentrum Aarau,Aarau,CH,Rain 34,,,0.0,0.0,0.0,0.0,973.0,0.0,973.0,hco,pfizer,2017,268,1.0
 Tumorzentrum Aarau Ag,Aarau,CH,Rain 34,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,amgen,2015,268,
 Tumorzentrum Aarau Ag,Aarau,CH,Rain 34,,,,,357.8,6442.2,,,6800.0,hco,amgen,2016,268,
-Tumorzentrum ZeTuP,St. Gallen,CH,RorschacherStr. 150,9006,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,teva,2015,2431,1.0
+Tumorzentrum ZeTuP,St. Gallen,CH,RorschacherStr. 150,9006,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,teva,2015,299,
 Tumorzentrum ZeTuP,Rapperswil,CH,Alte Jonastrasse 24,,,0.0,0.0,195.0,98.0,0.0,0.0,293.0,hco,roche,2016,299,
 Tumorzentrum ZeTuP,Rapperswil,CH,Alte Jonastrasse 24,8640,,,500.0,,,,,500.0,hco,teva,2016,299,
 Tumorzentrum ZeTuP,Rapperswil SG,CH,Alte Jonastrasse 24,,,,500.0,,,203.0,,703.0,hco,astrazeneca,2016,299,
@@ -10469,7 +10469,7 @@ Tumorzentrum ZeTuP,Rapperswil,CH,Alte Jonastrasse 24,,,,500.0,,,,,500.0,hco,teva
 Tumorzentrum ZeTuP Rapperswil,Rapperswil SG,CH,Alte Jonastrasse 24,,,,2000.0,,,1063.0,,3063.0,hco,bristol,2016,299,
 Tumorzentrum ZeTuP Rapperswil,Rapperswil,CH,Alte Jonastrasse 24,8640,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,roche,2017,299,
 Tumorzentrum Zetup Rapperswil,Rapperswil SG,CH,Alte Jonastrasse 24,,,,2000.0,135.0,67.5,,,2202.5,hco,amgen,2016,299,
-U- Universitäre Psychiatrische Dienste Bern,Bern,CH,Bolligenstrasse 111,,,,2000.0,,,750.0,,2750.0,hco,servier,2016,58,
+Universitäre Psychiatrische Dienste Bern,Bern,CH,Bolligenstrasse 111,,,,2000.0,,,750.0,,2750.0,hco,servier,2016,58,
 "Uicc, Union For International Cancer Control",Genève,CH,62 Route Defrontenex,,,25157.5,188397.05,,,,,213554.55,hco,amgen,2017,260,
 "Uicc, Union For International Cancer Control",Genève,CH,62 Route De Frontenex,,,23608.25,0.0,0.0,0.0,0.0,0.0,23608.25,hco,amgen,2015,260,
 "Uicc, Union For International Cancer Control",Genève,CH,62 Route De Frontenex,,,24292.75,226458.43,,,,,250751.18,hco,amgen,2016,260,
@@ -10504,7 +10504,7 @@ Universitatsspital Basel,Basel,CH,Spitalstrasse 21,,,0.0,2950.0,0.0,0.0,0.0,0.0,
 "Universitatsspital Basel, Klinik für Infektiologe & Spitalhygiene",Basel,CH,"Universitätsspital Basel, Spitalstrasse 21",,,0.0,3500.0,0.0,0.0,0.0,0.0,3500.0,hco,astellas,2015,6,
 UNIVERSITATSSPITAL ZURICH,Zürich,CH,RAMISTRASSE 100,,,,27450.43,,,,,27450.43,hco,sanofi,2016,1,
 Universitätsspital Basel,Basel,CH,Spitalstrasse 21,4031,,,6000.0,,,,,6000.0,hco,leo,2016,6,
-UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,8091,,,8750.0,,,,,8750.0,hco,leo,2016,2440,1.0
+UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,8091,,,8750.0,,,,,8750.0,hco,leo,2016,1,
 Universite d'ete,Genève,CH,c/o HUG Neurologie,,,,2500.0,,,,,2500.0,hco,ucb,2016,2441,1.0
 Universite D'Ete D'Eeg,Genève,CH,Rue Gabrielle Perret-Gentil,1211,,,3000.0,,,,,3000.0,hco,eisai,2017,4,
 UNIVERSITE D'ETE D'EEG Neurologie-EEG HUG,Genève,CH,Rue Gabrielle Perret-Gentil,,,,2500.0,,,,,2500.0,hco,eisai,2016,4,
@@ -10581,7 +10581,7 @@ Universität Basel,Basel,CH,Petersplatz 1 Studiensekretariat,,,50000.0,35223.55,
 Universität Basel,Basel,CH,Petersgraben 4,,,0.0,850.0,0.0,0.0,0.0,0.0,850.0,hco,zambon,2015,66,
 Universität Basel,Basel,CH,Petersplatz 1,,,42200.0,6000.0,0.0,0.0,10500.0,70.4,58770.4,hco,amgen,2015,66,
 Universität Basel,Basel,CH,Petersplatz 1,4001,,25000.0,24000.0,0.0,0.0,6767.0,0.0,55767.0,hco,roche,2015,66,
-Universität Basel,Liestal,CH,,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hco,vifor,2015,2450,66,
+Universität Basel,Liestal,CH,,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hco,vifor,2015,66,
 Universität Basel,Basel,CH,Pharmaceutical Care Research Group,,,,16546.0,,,,,16546.0,hco,mepha,2017,66,
 Universität Basel,Basel,CH,"Missionsstrasse 60/62, PETERSPLATZ 1",,WCHH02263661,6000.0,,,,,,6000.0,hco,celgene,2017,66,
 Universität Basel,Basel,CH,Petersplatz 1,,,0.0,0.0,0.0,0.0,1850.0,83.0,1933.0,hco,astellas,2017,66,
@@ -10802,7 +10802,7 @@ Universitätsspital,Zürich,CH,Rämistrasse 100,,,20500.0,,,,,,20500.0,hco,mundi
 Universitätsspital,Zürich,CH,Rämistrasse 100,,,40675.5,0.0,0.0,0.0,0.0,0.0,40675.5,hco,mundipharma,2016,1,
 Universitätsspital,Basel,CH,Helbelstrasse 36,,,16700.0,0.0,0.0,0.0,0.0,0.0,16700.0,hco,mundipharma,2015,6,
 Universitätsspital,Basel,CH,Helbelstrasse 36,,,15000.0,0.0,0.0,0.0,0.0,0.0,15000.0,hco,mundipharma,2015,6,
-Universitätsspital,Zürich,CH,Helbelstrasse 36,,,11450.0,0.0,0.0,0.0,0.0,0.0,11450.0,hco,mundipharma,2015,743,
+Universitätsspital,Zürich,CH,Helbelstrasse 36,,,11450.0,0.0,0.0,0.0,0.0,0.0,11450.0,hco,mundipharma,2015,1,
 Universitätsspital  Basel,Basel,CH,Spitalstrasse 21,,7601002117142,,2040.0,1750.0,,,,3790.0,hco,pierre,2017,6,
 Universitätsspital  Basel,Basel,CH,Spitalstrasse 21,,,,2771.0,6605.0,9961.0,2950.0,,22288.0,hco,gilead,2017,6,
 Universitätsspital  Basel,Basel,CH,Petersgraben 4,,,,25240.0,925.65,2776.88,10013.38,191.15,39147.06,hco,merck,2017,6,
@@ -11022,7 +11022,7 @@ Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,0.0,2500.0,260.0,0.0,0
 Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,0.0,55260.0,0.0,0.0,0.0,0.0,55260.0,hco,bayer,2016,1,
 Universitätsspital Zürich,Zürich,CH,"Universitätsspital Zürich, Klinik für Neurologie, Frauenklinikstrasse 26",8091,,,,,,2800.0,,2800.0,hco,teva,2016,1,
 Universitätsspital Zürich,Zürich,CH,"Universitätsspital Zürich, Klinik für Neurologie, Frauenklinikstrasse 26",8091,,,,,,5250.0,,5250.0,hco,teva,2016,1,
-Universitätsspital Zürich,Zürich,CH,Schmelzbergstrasse 26,,,0.0,25694.8,0.0,0.0,0.0,0.0,25694.8,hco,glaxosmithkline,2015,743,1.0
+Universitätsspital Zürich,Zürich,CH,Schmelzbergstrasse 26,,,0.0,25694.8,0.0,0.0,0.0,0.0,25694.8,hco,glaxosmithkline,2015,1,
 Universitätsspital Zürich,Zürich,CH,Universitätsspital Zürich Rämistrasse 100,,,43500.0,25500.0,344.7,2574.3,2582.5,,74501.5,hco,astellas,2016,1,
 UniversitätsSpital Zürich,Zürich,CH,"Klinik für Onkologie, Rämistrasse 100",8091,,,2500.0,,,,,2500.0,hco,teva,2016,1,
 Universitätsspital Zürich,Zürich,CH,Veranstaltungen - Rämistrasse 100,,,,1000.0,,,,,1000.0,hco,servier,2016,1,
@@ -11160,7 +11160,7 @@ Universitätsspital Zürich Hausarztmedizin,Zürich,CH,Pestalozzistrasse 24,8091
 UniversitätsSpital Zürich Hämatologie,Zürich,CH,Rämistrasse 100,,,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0,hco,biotest,2015,1,
 Universitätsspital Zürich Klinik für Neurologie,Zürich,CH,Rämistrasse 100,8091,,,12000.0,,,,,12000.0,hco,allergan,2017,1,
 Universitätsspital Zürich Klinik und Poliklinik für Innere Medizin,Zürich,CH,Rämistrasse 100,,,,2000.0,,,,,2000.0,hco,menarini,2017,1,
-Universitätsspital Zürich Pathologie,Zürich,CH,Schmelzbergstrasse 12,8091,,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,hco,roche,2015,743,
+Universitätsspital Zürich Pathologie,Zürich,CH,Schmelzbergstrasse 12,8091,,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,hco,roche,2015,1,
 Universitätsspital Zürich Poliklinik,Zürich,CH,Rämistrasse 100,8091,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,boehringer,2016,1,
 Universitätsspital Zürich Psychiatrische Klinik,Zürich,CH,Rämistrasse 100,8091,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca,2015,1,
 Universitätsspital Zürich Rheumatologische Klinik,Zürich,CH,Gloriastrasse 25,8091,,25000.0,11111.0,0.0,0.0,0.0,0.0,36111.0,hco,roche,2015,1,
@@ -11315,13 +11315,13 @@ Verein der Pneumologen des Kantons Bern Präsident VPB: Markus Riederer,Bern,CH,
 Verein der Pneumologen des Kantons BernPräsident VPB: Dr. med. Markus Riederer,Bern,CH,Bremgartenstrasse 117,3012,,,1000.0,,,,,1000.0,hco,boehringer,2017,399,
 Verein DIAfit,Baden,CH,Rütistrasse 3a,,,15000.0,,,,,,15000.0,hco,novo,2017,1141,1.0
 Verein DIAfit,Baden,CH,Rütistrasse 3 A,,,0.0,15000.0,0.0,0.0,0.0,0.0,15000.0,hco,astrazeneca,2017,1141,
-Verein eHealth Dermatologie,Zürich,CH,Gloriastrasse 31,,,25000.0,0.0,0.0,0.0,0.0,0.0,25000.0,hco,novartis,2017,1,
+Verein eHealth Dermatologie,Zürich,CH,Gloriastrasse 31,,,25000.0,0.0,0.0,0.0,0.0,0.0,25000.0,hco,novartis,2017,10010
 Verein FIRSTLOVE,Luzern,CH,Spitalstrasse 31,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,bayer,2016,2490,1.0
 Verein Forum Gesundheitswirtschaft,Basel,CH,Colmarerstrasse 14,4055,40536978,0.0,25000.0,0.0,0.0,0.0,0.0,25000.0,hco,bayer,2017,2491,1.0
 Verein Forum Pharmazie,Basel,CH,St. Johanns-Vorstadt27,,,,48247.0,,,,,48247.0,hco,mepha,2017,2492,1.0
 Verein Förd. Wissensch./Ausbild.,Basel,CH,Kleinriehenstrasse 30,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,janssen,2016,2493,1.0
 Verein Für Hautkrebsfors Chung,Zürich,CH,"Universtitätsspital Zürich, Gloriastrasse 31",,,10000.0,,,,,,10000.0,hco,amgen,2016,2494,1.0
-VEREIN GASTROENTEROLOGIE ZÜRICH VGZ,Uster,CH,Poststrasse 2,,,,3250.0,,,,,3250.0,hco,gilead,2017,400,1.0
+Verein Gastroenterologie Zürich VGZ,Uster,CH,Poststrasse 2,,,,3250.0,,,,,3250.0,hco,gilead,2017,400,1.0
 Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 90,8002,,,4500.0,,,,,4500.0,hco,allergan,2016,1,
 Verein Gastroenterologie Zürich,Uster,CH,Dr. med. Alf Karpf Poststrasse 2,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,takeda,2015,400,
 Verein Gastroenterologie Zürich,Uster,CH,Dr. med. Alf Karpf Poststrasse 2,8610,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,takeda,2017,400,
@@ -11329,7 +11329,7 @@ Verein Gastroenterologie Zürich (VGZ),Zürich,CH,Seestrasse 90,,,,2000.0,,,,,20
 Verein Gastroenterologie Zürich (VGZ),Uster,CH,Poststrasse 2,,,,2500.0,,,,,2500.0,hco,bgp,2016,400,
 Verein Gastroenterologie Zürich (VGZ),Zürich,CH,Seestrasse 90,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,astrazeneca,2017,1,
 Verein Gastroenterologie Zürich (VGZ),Zürich,CH,Seestrasse 90,,,,1500.0,,,,,1500.0,hco,astrazeneca,2016,1,
-VEREIN GASTROENTEROLOGIE ZÜRICH VGZ,Uster,CH,Poststrasse 2,,,,3000.0,,,,,3000.0,hco,gilead,2016,400,
+Verein Gastroenterologie Zürich VGZ,Uster,CH,Poststrasse 2,,,,3000.0,,,,,3000.0,hco,gilead,2016,400,
 "Verein Gastroenterologie Zürich, Gastro-Meeting 2016 Wassberg",Zürich,CH,Seestrasse 90,,,,2500.0,,,,,2500.0,hco,vifor,2016,1,
 Verein Grundversorger Region Baden,Fislisbach,CH,Bollstrasse 1,,,0.0,1300.0,0.0,0.0,0.0,0.0,1300.0,hco,glaxosmithkline,2017,2495,1.0
 Verein Grundversorger Region Baden Qualitäts-Zirkel Wettingen/Würenlos,Würenlos,CH,Juchstrasse 15,,,0.0,1900.0,0.0,0.0,0.0,0.0,1900.0,hco,novartis,2017,689,1.0
@@ -11340,9 +11340,9 @@ Verein GUCH Schweiz,Basel,CH,Langen Gasse 78,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0
 Verein GUCH Schweiz,Basel,CH,Langen Gasse 78,,,300.0,9500.0,7500.0,,,,17300.0,hco,actelion,2017,344,
 Verein GUCH Schweiz,Basel,CH,Langen Gasse 78,,,6944.0,0.0,0.0,0.0,0.0,0.0,6944.0,hco,actelion,2015,344,
 Verein GUCH Schweiz,Basel,CH,Lange Gasse 78,,,8000.0,,,,,,8000.0,hco,menarini,2016,344,
-Verein GYNeLEARNING,Zürich,CH,Frauenklinikstrasse 10,8006,,,1000.0,,,,,1000.0,hco,biotest,2017,1,
-Verein GYNeLEARNING,Zürich,CH,Frauenklinikstrasse 10,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,biotest,2015,1,
-"Verein GYNeLEARNING, Universitätsspital Zürich",Zürich,CH,Frauenklinikstrasse 10,,,1000.0,,,,,,1000.0,hco,ferring,2017,1,
+Verein GYNeLEARNING,Zürich,CH,Frauenklinikstrasse 10,8006,,,1000.0,,,,,1000.0,hco,biotest,2017,10009,1.0
+Verein GYNeLEARNING,Zürich,CH,Frauenklinikstrasse 10,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,biotest,2015,10009,
+"Verein GYNeLEARNING, Universitätsspital Zürich",Zürich,CH,Frauenklinikstrasse 10,,,1000.0,,,,,,1000.0,hco,ferring,2017,10009,
 Verein HAP,Uerikon,CH,"cIo Dr G. Saladin, Gerbi 10",,,,4000.0,,,,,4000.0,hco,menarini,2017,2496,1.0
 Verein Hausärzte Stadt Zürich,Zürich,CH,,,,,3000.0,,,,,3000.0,hco,mepha,2016,567,1.0
 Verein Hausärzte Stadt Zürich,ZÜRICH,CH,(no postal address),,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,glaxosmithkline,2016,567,
@@ -11454,12 +11454,12 @@ Vereinigung der Hausärztinnen und Hausärzte Beider Basel (VHBB) c/o Sekretaria
 Vereinigung der Zentralschweizer Ärztegesellschaften,Luzern,CH,Schwanenplatz 7,6004,,0.0,4500.0,0.0,0.0,0.0,0.0,4500.0,hco,orion,2015,401,
 Vereinigung der Zentralschweizer Ärztegesellschaften,Luzern,CH,Schwanenplatz 7,6004,,2000.0,,,,,2000.0,4000.0,hco,orion,2016,401,
 Vereinigung der Zurcher Aerzte fur Hals-Nasen-Ohrenkrankheiten,Wetzikon,CH,Bahnhofstrasse 198,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,mepha,2015,2509,1.0
-Vereinigung der Zürcher Internisten,Zollikon,CH,VZI Symposium,,,,4104.0,,,,,4104.0,hco,vifor,2016,402,
-Vereinigung der Zürcher Internisten,Zollikon,CH,VZI Symposium,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,servier,2015,402,
-Vereinigung der Zürcher Internisten,Zollikon,CH,VZI Symposium,,,,3800.0,,,,,3800.0,hco,servier,2016,402,
+Vereinigung der Zürcher Internisten,Zollikon,CH,VZI Symposium,,,,4104.0,,,,,4104.0,hco,vifor,2016,172,
+Vereinigung der Zürcher Internisten,Zollikon,CH,VZI Symposium,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,servier,2015,172,
+Vereinigung der Zürcher Internisten,Zollikon,CH,VZI Symposium,,,,3800.0,,,,,3800.0,hco,servier,2016,172,
 Vereinigung der Zürcher Internisten,Zürich,CH,"c/o Triemli Spital, Birmensdorferstrasse 497",,,,3800.0,,,,,3800.0,hco,menarini,2016,172,
 Vereinigung der Zürcher Internisten,Zürich,CH,,,,0.0,7400.0,0.0,0.0,0.0,0.0,7400.0,hco,menarini,2015,172,
-"Vereinigung der Zürcher Internisten, vertreten durch Energy of events",Zollikon,CH,Niederfelbenweg 9,,,,3800.0,,,,,3800.0,hco,bgp,2017,402,1.0
+"Vereinigung der Zürcher Internisten, vertreten durch Energy of events",Zollikon,CH,Niederfelbenweg 9,,,,3800.0,,,,,3800.0,hco,bgp,2017,172,
 Vereinigung der Zürcher Kinderärzte VZK,Zürich,CH,Breitingerstrasse 23,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,novo,2015,571,
 Vereinigung der Ärztinnen und Ärzte beider Frenkentaler,Reigoldswil,CH,Unterbiet 26,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,takeda,2015,2510,1.0
 Vereinigung Hausarne beider basel VHBB MentAge GmbH,Basel,CH,Gerbergasse 16,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,mepha,2015,379,
@@ -11481,10 +11481,10 @@ Vereinigung Zürcher Internisten,Zürich,CH,Haldenrain 18,,,3800.0,0.0,0.0,0.0,0
 Vereinigung Zürcher Internisten,Zürich,CH,Birmensdorferstrasse 497,,,,3800.0,,,,,3800.0,hco,astrazeneca,2016,172,
 Vereinigung Zürcher Internisten,Zürich,CH,Birmensdorferstrasse 497,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,astrazeneca,2017,172,
 Vereinigung Zürcher Internisten,Adliswil,CH,Felsenhofstrasse 36,,,,3800.0,,,,,3800.0,hco,amgen,2017,172,
-Vereinigung Zürcher Internisten,Zollikon,CH,,,,0.0,4104.0,0.0,0.0,0.0,0.0,4104.0,hco,glaxosmithkline,2015,402,
+Vereinigung Zürcher Internisten,Zollikon,CH,,,,0.0,4104.0,0.0,0.0,0.0,0.0,4104.0,hco,glaxosmithkline,2015,172,
 Vereinigung Zürcher Internisten,Adliswil,CH,Felsenhofstrasse 36,,,,3800.0009999999997,,,,,3800.0009999999997,hco,daiichi,2016,172,
-Vereinigung Zürcher Internisten,ZOLLIKON,CH,(no postal address),,,0.0,4104.0,0.0,0.0,0.0,0.0,4104.0,hco,glaxosmithkline,2016,402,
-Vereinigung Zürcher Internisten,Zwillikon,CH,Haldenrain 18,,,3800.0,,,,,,3800.0,hco,mundipharma,2017,570,
+Vereinigung Zürcher Internisten,ZOLLIKON,CH,(no postal address),,,0.0,4104.0,0.0,0.0,0.0,0.0,4104.0,hco,glaxosmithkline,2016,172,
+Vereinigung Zürcher Internisten,Zwillikon,CH,Haldenrain 18,,,3800.0,,,,,,3800.0,hco,mundipharma,2017,172,
 Vereinigung Zürcher Internisten,Adliswil,CH,Felsenhofstrasse 36,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,janssen,2017,172,
 Vereinigung Zürcher Internisten c/o Beatrice Nordmann (Sekretariat),Adliswil,CH,Felsenhofstrasse 36,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,novartis,2015,172,
 Vereinigung Zürcher Internisten c/o Beatrice Nordmann (Sekretariat),Adliswil,CH,Felsenhofstrasse 36,,,,3800.0,,,,,3800.0,hco,novartis,2016,172,
@@ -11502,15 +11502,15 @@ Vereinigung Zürcher Kinder- und Jugendärzte VZK,Zürich,CH,Breitingerstrasse 2
 Vereinigung Zürcher Kinder-und Jugendärzte (VZK),Zürich,CH,Breitlingerstrasse 23,,,0.0,1200.0,0.0,0.0,0.0,0.0,1200.0,hco,glaxosmithkline,2015,403,
 Vereinigung Züricher Internisten,Zürich,CH,c/o Prof. Dr. med. Stephan Vavricka - Birmensdorferstrasse 497,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,zambon,2015,172,
 Vereinigung Züricher Internisten,Zürich,CH,Birmensdorferstrasse 497,,,,3800.0,,,,,3800.0,hco,mepha,2016,172,
-Vereiningung Zürcher Internisten,Zürich,CH,Birmensdorfertra sse 497,,,,4104.0,,,,,4104.0,hco,pierre,2017,172,1.0
+Vereiningung Zürcher Internisten,Zürich,CH,Birmensdorfertra sse 497,,,,4104.0,,,,,4104.0,hco,pierre,2017,172,
 VERLAG GESUNDHEIT SANTE,SCHAFFHAUSEN,CH,NEUSTADT 40,,,15000.0,,,,,,15000.0,hco,celgene,2016,750,
 Verlag Gesundheit.Santé,Schaffhausen,CH,Neustadt 40,,,,25517.0,,,,,25517.0,hco,amgen,2016,750,
 Verlag Gesundheit.Santé,Schaffhausen,CH,Neustadt 40,,,,7200.0,,,,,7200.0,hco,amgen,2017,750,1.0
-VGZ - Verein Gastroenterologie Zürich VGZ,Zürich,CH,Seestrasse 90,8002,,,2000.0,,,,,2000.0,hco,allergan,2017,1,
-VGZ Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 60,,,,3500.0,,,,,3500.0,hco,abbvie,2017,1,
-VGZ Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 60,,,,3500.0,,,,,3500.0,hco,abbvie,2016,1,
-VGZ Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 60,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,abbvie,2015,1,
-VGZ Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 90,,,,2500.0,,,,,2500.0,hco,bgp,2017,1,
+VGZ - Verein Gastroenterologie Zürich VGZ,Zürich,CH,Seestrasse 90,8002,,,2000.0,,,,,2000.0,hco,allergan,2017,400,
+VGZ Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 60,,,,3500.0,,,,,3500.0,hco,abbvie,2017,400,
+VGZ Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 60,,,,3500.0,,,,,3500.0,hco,abbvie,2016,400,
+VGZ Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 60,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,abbvie,2015,400,
+VGZ Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 90,,,,2500.0,,,,,2500.0,hco,bgp,2017,400,
 VGZ Verein Gastroenterologie Zürich,Uster,CH,Poststrasse 2,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,bgp,2015,400,
 "VHZ ""Verein Hausärzte Stadt Zürich""",Zürich,CH,,,,,5000.0,,,,,5000.0,hco,mepha,2016,567,
 Victoria Apotheke,Zürich,CH,Bahnhofstrasse 71,,,,,186.16,422.06,,,608.22,hco,sandoz,2016,2513,1.0
@@ -11536,7 +11536,7 @@ Vue Group AG,Baar,CH,Bahnhofstrasse 9,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,no
 Vue Group AG,Baar,CH,Bahnhofstrasse 9,,,,,,,5750.0,257.5,6007.5,hco,novartis,2016,1149,
 VZAG Vereinigung ZentralschweizerÄrztegesellschaften,Luzern,CH,Schwanenplatz 7,,,,11000.0,,,,,11000.0,hco,mepha,2017,401,
 VZI Vereinigung der Zürcher Internisten VZI,Zürich,CH,Franklinstrasse 1,,,,3800.0,,,,,3800.0,hco,menarini,2017,172,
-"VZI""Vereinigung Allgemeiner uns Spezialisierter Internistinnen und Internisten Zürich""",Zwillikon,CH,Haldenrain 18,,,,2000.0,,,,,2100.0,hco,mepha,2017,570,
+"VZI""Vereinigung Allgemeiner uns Spezialisierter Internistinnen und Internisten Zürich""",Zwillikon,CH,Haldenrain 18,,,,2000.0,,,,,2100.0,hco,mepha,2017,172,
 VZK Vereinigung Zürcher Kinder und Jugendärzte,Zürich,CH,Breitingerstrasse 23,,,,1000.0,,,,,1000.0,hco,astrazeneca,2016,403,
 VZK Vereinigung Zürcher Kinderärzte,Zürich,CH,Breitingerstrasse 13,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,pfizer,2017,571,1.0
 VZK Vereinigung Zürcher Kinderärzte,Zürich,CH,Breitingerstrasse 23,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,pfizer,2015,571,
