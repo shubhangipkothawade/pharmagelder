@@ -141,10 +141,10 @@ Schweizerische Gesellschaft für Kardiologie,Bern,CH,Dufourstrasse 30,,,,1530.0,
 Schweizerische Gesellschaft für Kardiologie,Bern,CH,Dufourstrasse 30,,,,9900.0,,,,,9900.0,hco,msd,2017,270,
 Schweizerische Gesellschaft für Kardiologie,Bern,CH,Schwarztorstrasse 18,3007,,,6000.0,,,,,6000.0,hco,sanofi,2017,270,
 Schweizerische Gesellschaft für Kardiologie,Bern,CH,Dufourstrasse 30,3005,,,,8900.0,,,,8900.0,hco,daiichi,2017,270,
-Schweizerische Gesellschaft für Kardiologie,Zürich,CH,Schwarztorstrasse 18,,,0.0,1530.0,0.0,0.0,0.0,0.0,1530.0,hco,roche,2016,1176,1.0
+Schweizerische Gesellschaft für Kardiologie,Zürich,CH,Schwarztorstrasse 18,,,0.0,1530.0,0.0,0.0,0.0,0.0,1530.0,hco,roche,2016,270,
 Schweizerische Gesellschaft für Kardiologie,Bern,CH,Schwarztorstrasse  18,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,genzyme,2015,270,
 Schweizerische Gesellschaft für Kardiologie,Bern,CH,Schwarztorstrasse 18,,,0.0,16500.0,0.0,0.0,0.0,0.0,16500.0,hco,astrazeneca,2017,270,
-Schweizerische Gesellschaft für Kardiologie,Glattbrugg,CH,Flughofstrasse 54,,,0.0,26000.0,0.0,0.0,0.0,0.0,26000.0,hco,takeda,2015,1177,1.0
+Schweizerische Gesellschaft für Kardiologie,Glattbrugg,CH,Flughofstrasse 54,,,0.0,26000.0,0.0,0.0,0.0,0.0,26000.0,hco,takeda,2015,270,
 Schweizerische Gesellschaft für Kardiologie (SGK - SSC),Bern,CH,Schwarztorstrasse 18,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,daiichi,2015,270,
 Schweizerische Gesellschaft für Kardiologie (SGK),Bern,CH,Schwarztorstrasse 18,,,,3304.8,,,,,3304.8,hco,vifor,2016,270,
 Schweizerische Gesellschaft für Kardiologie - Société suisse de Cardiologie,Bern,CH,Dufourstrasse 30,3005,40674468,0.0,37605.0,0.0,0.0,0.0,0.0,37605.0,hco,bayer,2017,270,
@@ -1978,8 +1978,8 @@ Diabetes-Gesellschaft Region Basel,Basel,CH,Mittlere Strasse 35,,,0.0,500.0,0.0,
 Diabetessolothurn,Olten,CH,Solothurnerstrasse 7,,,,1500.0,,,,,1500.0,hco,novo,2016,1453,1.0
 Diabète Mouvement Santé,Moutier,CH,Moutier,2740,DiabèteMouvementSantéMoutier,,2000.0,,,,,2000.0,hco,servier,2017,1454,
 Diabète Mouvement Santé,Moutier,CH,Nationalstrasse 17,,,,,,,1000.0,,1000.0,hco,servier,2016,1454,1.0
-DIAfit,Bern,CH,Inselspital c/o Präventive Kardiologie & Sportmedizin,3010,,0.0,32000.0,0.0,0.0,0.0,0.0,32000.0,hco,astrazeneca,2015,852,
-DIAfit,Bern,CH,Inselspital c/o Präventive Kardiologie & Sportmedizin,,,,15000.0,,,,,15000.0,hco,astrazeneca,2016,852,1.0
+DIAfit,Bern,CH,Inselspital c/o Präventive Kardiologie & Sportmedizin,3010,,0.0,32000.0,0.0,0.0,0.0,0.0,32000.0,hco,astrazeneca,2015,2,
+DIAfit,Bern,CH,Inselspital c/o Präventive Kardiologie & Sportmedizin,,,,15000.0,,,,,15000.0,hco,astrazeneca,2016,2,
 "DIAfit c/o Universitätsklinik für Diabetologie, Endokrinologie, Ernährungsmedizin",Bern,CH,Freiburgstrasse,,,,15000.0,,,,,15000.0,hco,msd,2017,2,
 DIAfit Inselspital,Bern,CH,Freiburgstrasse,,,15000.0,,,,,,15000.0,hco,novo,2016,2,
 Diagene Gmbh,Reinach Bl,CH,Kägenstrasse 17,,,,,,,2000.0,,2000.0,hco,amgen,2017,611,1.0
@@ -3658,8 +3658,8 @@ Hirslanden AG,Zürich,CH,Seestrasse 220,,,,2500.0,,,,,2500.0,hco,mepha,2016,109,
 Hirslanden AG,Zuerich,CH,Seefeldstrasse 214,,,0.0,756.0,0.0,0.0,0.0,0.0,756.0,hco,bgp,2015,109,
 Hirslanden AG,Zürich,CH,Seefeldstrasse 214,,,500.0,0.0,0.0,0.0,0.0,0.0,500.0,hco,menarini,2015,109,
 Hirslanden Clinique Bois-Cerf,Lausanne,CH,Avenue d'Ouchy 31,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis,2017,285,
-Hirslanden Klinik Aarau,Aarau,CH,Schänisweg,,,,,,,900.0,,900.0,hco,shire,2017,642,1.0
-Hirslanden Klinik Aarau,Aarau,CH,Schänisweg,,,,272.0,,,,,272.0,hco,ferring,2016,642,
+Hirslanden Klinik Aarau,Aarau,CH,Schänisweg,,,,,,,900.0,,900.0,hco,shire,2017,526,1.0
+Hirslanden Klinik Aarau,Aarau,CH,Schänisweg,,,,272.0,,,,,272.0,hco,ferring,2016,526,
 Hirslanden Klinik Birshof,Münchenstein,CH,Reinacherstrasse 28,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,abbvie,2015,926,
 Hirslanden Klinik Birshof,Münchenstein,CH,Reinacherstrasse 28,,,,1000.0,,,,,1000.0,hco,bristol,2016,926,1.0
 Hirslanden Klinik im Park,Zürich,CH,Seestrasse 220,,,,2000.0,,,,,2000.0,hco,shire,2017,109,1.0
@@ -3674,8 +3674,8 @@ Hirslanden Klinik St. Anna,Luzern,CH,St. Annastrasse 32,,,0.0,2000.0,0.0,0.0,0.0
 Hirslanden Klinik St. Anna,Luzern,CH,Sankt Annastrasse 32,6006,40517562,0.0,6388.89,0.0,0.0,0.0,0.0,6388.89,hco,bayer,2017,69,
 Hirslanden Klinik St. Anna,Luzern,CH,Sankt Annastrasse 32,,,,463.0,678.0,1831.0,,,2972.0,hco,abbvie,2017,69,
 Hirslanden Klinik St. Anna,Luzern,CH,St. Annastrasse 32,,,0.0,463.0,0.0,0.0,0.0,0.0,463.0,hco,abbvie,2015,69,
-Hirslanden Klinik St. Anna,Luzern,CH,St.-Anna-Str. 32,,,0.0,0.0,422.78,564.76,0.0,0.0,987.54,hco,sanofi,2015,927,1.0
-Hirslanden Klinik St. Anna,Luzern,CH,St.-Anna-Str. 32,,,0.0,0.0,422.78,564.76,0.0,0.0,987.54,hco,genzyme,2015,927,
+Hirslanden Klinik St. Anna,Luzern,CH,St.-Anna-Str. 32,,,0.0,0.0,422.78,564.76,0.0,0.0,987.54,hco,sanofi,2015,69,
+Hirslanden Klinik St. Anna,Luzern,CH,St.-Anna-Str. 32,,,0.0,0.0,422.78,564.76,0.0,0.0,987.54,hco,genzyme,2015,69,
 Hirslanden Klinik St. Anna,Luzern,CH,St. Annastrasse 32,,,,925.93,,431.44,,,1357.37,hco,amgen,2016,69,
 Hirslanden Klinik St. Anna,Luzern,CH,Sanktannastrasse 32,,,,,,,3630.0,,3630.0,hco,amgen,2017,69,
 Hirslanden Klinik St. Anna,Luzern,CH,St. Annastrasse 32,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,mundipharma,2015,69,
@@ -3690,7 +3690,7 @@ Hirslanden SA Clinique Bois-Cerf,Lausanne,CH,Avenue d'Ouchy 31,,,500.0,1000.0,,,
 Hirslanden SA Clinique Bois-Cerf,Lausanne,CH,Avenue d'Ouchy 31,,,,,,,833.33,166.67,1000.0,hco,gilead,2016,285,
 Hirslanden SA Clinique Bois-Cerf,Lausanne,CH,Avenue d'Ouchy 31,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hco,takeda,2015,285,
 "Hirslanden, Klinik im Park",Zürich,CH,Seestrasse 220,,,,540.0,,,,,540.0,hco,vifor,2016,109,
-Hirslandenklinik Aarau,Aarau,CH,Schänisweg,5000,,2600.0,,,,,2600.0,5200.0,hco,orion,2016,642,
+Hirslandenklinik Aarau,Aarau,CH,Schänisweg,5000,,2600.0,,,,,2600.0,5200.0,hco,orion,2016,526,1.0
 HIV-Pract,Zürich,CH,Schulstrasse 37,,,0.0,2355.2,0.0,0.0,0.0,0.0,2355.2,hco,glaxosmithkline,2015,1694,1.0
 HNE - Hopital Neuchatelois,Neuchâtel,CH,Rue de la Maladière 45,,,500.0,0.0,0.0,0.0,0.0,0.0,500.0,hco,baxter,2017,46,1.0
 HNHCP,Winterthur,CH,,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,janssen,2017,65,
@@ -3979,12 +3979,12 @@ Hôpital du Valais,Sion,CH,Avenue Grand-Champsec 80,,,,6480.0,,,,,6480.0,hco,bri
 Hôpital du Valais,Sion,CH,Avenue du Grand-Champsec 80,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hco,astrazeneca,2017,11,
 Hôpital du Valais,Sion,CH,Avenue du Grand-Champsec 80,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca,2017,11,
 Hôpital du Valais,Sion,CH,Avenue Grand-Champsec 80,,,,,2333.0,8675.0,,,11008.0,hco,gilead,2017,11,
-Hôpital du Valais,Sion,CH,Vers-Saint-Ame 10,,,4200.0,0.0,0.0,0.0,0.0,0.0,4200.0,hco,mundipharma,2016,643,
+Hôpital du Valais,Sion,CH,Vers-Saint-Ame 10,,,4200.0,0.0,0.0,0.0,0.0,0.0,4200.0,hco,mundipharma,2016,11,
 Hôpital du Valais,Sion,CH,Case postale 696,,,,600.0,,,,,600.0,hco,mepha,2016,11,
 Hôpital du Valais,Sion,CH,Av. du Grand Champsec 86,,,0.0,5940.0,0.0,0.0,0.0,0.0,5940.0,hco,glaxosmithkline,2017,11,
 Hôpital du Valais,Sion,CH,Avenue Grand-Champsec 80,,,,2400.0,,,,,2400.0,hco,otsuka,2017,11,
 Hôpital du Valais,Sion,CH,Av du Grand Champsec 86,,,,1384.0,249.0,682.0,249.0,,2564.0,hco,lundbeck,2016,11,
-Hôpital du Valais,Sion,CH,Vers-Saint-Ame 10,,,3500.0,0.0,0.0,0.0,0.0,0.0,3500.0,hco,mundipharma,2015,643,
+Hôpital du Valais,Sion,CH,Vers-Saint-Ame 10,,,3500.0,0.0,0.0,0.0,0.0,0.0,3500.0,hco,mundipharma,2015,11,
 Hôpital du Valais,Sion,CH,Ave. du Grand-Champsec 80,1950,,2500.0,,,,,2500.0,5000.0,hco,orion,2016,11,
 Hôpital du Valais,Sion,CH,Avenue Grand-Champsec 80,,,,2160.0,,,,,2160.0,hco,ucb,2017,11,
 Hôpital du Valais,Sion,CH,Hôpital du Valais Avenue Grand-Charnpsec 80,,,,2000.0,,,,,2000.0,hco,astellas,2016,11,
@@ -4023,7 +4023,7 @@ Hôpital du Valais,Sion,CH,Avenue Grand-Champsec 80,,,0.0,4000.0,0.0,0.0,0.0,0.0
 Hôpital du Valais,Sion,CH,Av. du Grand Champsec 86,,,0.0,900.0,0.0,0.0,0.0,0.0,900.0,hco,pierre,2015,11,
 Hôpital du Valais,Sion,CH,Av. Du Grand-Champsec 80,,,,1000.0,,,,,1000.0,hco,mepha,2016,11,
 Hôpital du Valais,Sion,CH,Avenue du Grand-Champsec,,,0.0,3652.0,0.0,0.0,0.0,0.0,3652.0,hco,menarini,2015,11,
-Hôpital du Valais,Sion,CH,Vers-Saint-Ame 10,,,2380.0,,,,,,2380.0,hco,mundipharma,2017,643,1.0
+Hôpital du Valais,Sion,CH,Vers-Saint-Ame 10,,,2380.0,,,,,,2380.0,hco,mundipharma,2017,11,
 Hôpital du Valais,Sion,CH,Avenue Grand-Champsec 86,,,0.0,36777.77,0.0,0.0,1385.0,0.0,38162.77,hco,bayer,2015,11,
 Hôpital du Valais,St. Maurice,CH,Vers-Saint-Ame 10,,,,6480.0,,,,,6480.0,hco,pfizer,2016,11,
 Hôpital du Valais (HVS),Sion,CH,"Av. du Grand Champsec 86, case postale 696",,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,allergan,2015,11,
@@ -4793,7 +4793,7 @@ Institut für Pharmakologie (UNIBE),Bern,CH,Friedbühlstrasse 49,,,2500.0,32400.
 Institut für Präventivmedizin,Bern,CH,Finkenhubelweg 11,,,15670.0,0.0,0.0,0.0,0.0,0.0,15670.0,hco,gilead,2015,945,
 Institut für Präventivmedizin,Bern,CH,Finkenhubelweg 11,,,,1000.0,,,,,1000.0,hco,gilead,2016,945,1.0
 Institut für Radio- Onkologie - Medizinische Onkologie,Aarau,CH,Tellstrasse,,,0.0,1389.0,0.0,0.0,0.0,0.0,1389.0,hco,eli,2015,1751,1.0
-Institut für Radiotherapie - Klinik Hirslanden,Aarau,CH,Rain 34,,,,700.0,,,,,700.0,hco,merck,2017,1752,1.0
+Institut für Radiotherapie - Klinik Hirslanden,Aarau,CH,Rain 34,,,,700.0,,,,,700.0,hco,merck,2017,526,
 "Institut lür Rechtsmedizin, Kantonsspital St Gallen",St. Gallen,CH,Rorschacheratrasse 95,,,,,196.1,235.8,1500.0,,1931.9,hco,menarini,2017,5,
 Institut Universitaire de Medecine Generale (IUMG) - Policlinique Mädicale Universitaire (PMU),Lausanne,CH,Rue du Bugnon 44,,,0.0,8000.0,0.0,0.0,0.0,0.0,8000.0,hco,mepha,2015,3,
 Institute for medicine and communication Ltd. (IMK),Basel,CH,Münsterberg 1,,,0.0,86346.0,0.0,0.0,0.0,0.0,86346.0,hco,glaxosmithkline,2015,134,
@@ -4983,7 +4983,7 @@ Kantonspital Baden AG,Baden,CH,Im Ergel 1,,,,,,,1000.0,,1000.0,hco,novo,2017,22,
 Kantonspital Münsterlingen,Münsterlingen,CH,Spitalcampus 1,,,,,,,,41.0,41.0,hco,baxalta,2016,20,
 "Kantonspital St. Gallen, Muskelzentrum / ALS Klinik",St. Gallen,CH,Rorschacherstrasse 111,,,,6000.0,,,,,6000.0,hco,csl,2016,5,
 Kantonspital St.Gallen Brust Zentrum,St. Gallen,CH,Kantonspital St.Gallen Brust Zentrum,9007,,,2160.0,,,,,2160.0,hco,eisai,2017,5,
-Kantonspital St.Gallen Brustzentrum,St. Gallen,CH,,,,,2160.0,,,,,2160.0,hco,eisai,2016,955,
+Kantonspital St.Gallen Brustzentrum,St. Gallen,CH,,,,,2160.0,,,,,2160.0,hco,eisai,2016,5,
 Kantonspital Winterthur,Winterthur,CH,Brauerstr. 15,,,0.0,2930.0,0.0,0.0,1080.0,0.0,4010.0,hco,genzyme,2015,12,
 Kantonspital Winterthur,Winterthur,CH,Brauerstrasse 15,,,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,hco,merck,2015,12,
 Kantonspital Winterthur,Winterthur,CH,Brauerstr. 15,,,0.0,2930.0,0.0,0.0,1080.0,0.0,4010.0,hco,sanofi,2015,12,
@@ -6434,7 +6434,7 @@ Luzerner Psychiatrie,St.Urban,CH,Klinik St. Urban - Schafmattstrasse 1,,,,2000.0
 Luzerner Psychiatrie,Luzern,CH,Areal Kantonsspital 11,,,,800.0,,,,,800.0,hco,otsuka,2017,323,1.0
 Luzerner Psychiatrie,St. Urban,CH,Schafmattstrasse 1,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,janssen,2016,323,
 Luzerner Psychiatrie,Luzern,CH,Spitalstrasse 11,,,,1000.0,,,,,1000.0,hco,mepha,2016,323,
-Luzerner Psychiatrie,Luzern,CH,Löwengraben 20,,,,8500.0,,,,,8500.0,hco,lundbeck,2016,975,1.0
+Luzerner Psychiatrie,Luzern,CH,Löwengraben 20,,,,8500.0,,,,,8500.0,hco,lundbeck,2016,232,
 Luzerner Psychiatrie,Hochdorf,CH,Brauiplatz 8,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,takeda,2015,1854,1.0
 Luzerner Psychiatrie,Luzern,CH,Areal Kantonsspital 11,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,takeda,2015,323,
 Luzerner Psychiatrie,Luzern,CH,Areal Kantonsspital 11,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,otsuka,2015,323,
@@ -6447,7 +6447,7 @@ Luzerner Psychiatrie,Luzern,CH,Spitalstrasse 11,,,,3000.0,,,,,3000.0,hco,mepha,2
 Luzerner Psychiatrie,Luzern,CH,Spitalstrasse 11,,,,1600.0,,,,,1600.0,hco,mepha,2017,323,
 Luzerner Psychiatrie,St. Urban,CH,Spitalstrasse 11,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,mundipharma,2016,323,
 Luzerner Psychiatrie,St. Urban,CH,Klinik St. Urban - Schafmattstrasse 1,4915,LuzernerPsychiatrieStUrban,,3000.0,,,,,3000.0,hco,servier,2017,323,
-Luzerner Psychiatrie Psychiatrisches Ambulatorium A,Luzern,CH,Löwengraben 20,,,0.0,464.0,0.0,0.0,0.0,0.0,464.0,hco,lundbeck,2015,975,
+Luzerner Psychiatrie Psychiatrisches Ambulatorium A,Luzern,CH,Löwengraben 20,,,0.0,464.0,0.0,0.0,0.0,0.0,464.0,hco,lundbeck,2015,323,
 "Luzerner Psychiatrie, Klinik St. Urban",St. Urban,CH,Schafmattstrasse 1,,,,2000.0,,,,,2000.0,hco,vifor,2017,323,
 Löwen Apotheke,Zürich,CH,Bahnhofstrasse 58,,,0.0,0.0,232.0,431.0,0.0,0.0,663.0,hco,sandoz,2015,1857,1.0
 Löwen Apotheke,Sarnen,CH,Nelkenstrasse 2,,,,,186.16,422.06,,,608.22,hco,sandoz,2016,1858,1.0
@@ -6721,7 +6721,7 @@ Neurologische Praxis,Schwyz,CH,Maria-Hilf-Strasse 9,,,,,,,688.0,,688.0,hco,brist
 Neurologische Praxis Luzern. Klink St Anna,Luzern,CH,St Anna Str 32,,,,2300.0,,,,,2300.0,hco,merck,2016,69,
 Neurologische Praxis Schwyz,Schwyz,CH,Steinstegstrasse 3,6430,,,1000.0,,,,,1000.0,hco,allergan,2016,1921,
 Neurozentrum Aarau Hirslanden Medical Center,Aarau,CH,Rain 34,,,,2000.0,,,,,2000.0,hco,merck,2017,526,
-"Neurozentrum Aarau, Hirslanden Medical Center",Aarau,CH,Rain 34,,,,2000.0,,,,,2000.0,hco,teva,2017,526,1.0
+"Neurozentrum Aarau, Hirslanden Medical Center",Aarau,CH,Rain 34,,,,2000.0,,,,,2000.0,hco,teva,2017,526,
 Neurozentrum Bellevue,Zürich,CH,Theaterstrasse 8,,,,300.0,,,3600.0,,3900.0,hco,biogen,2016,328,
 Neurozentrum Bellevue,Zürich,CH,Theaterstr. 8,,,0.0,2000.0,0.0,0.0,1100.0,0.0,3100.0,hco,merck,2015,328,
 Neurozentrum Bellevue,Zürich,CH,Theaterstrasse 8,,,0.0,300.0,0.0,0.0,2400.0,0.0,2700.0,hco,biogen,2015,328,
@@ -7185,8 +7185,8 @@ PEZZ Pädiatrisch-Endokrinologisches Zentrum Zürich,Zürich,CH,Möhrlistrasse 6
 PEZZ Pädiatrisch-Endokrinologisches Zentrum Zürich AG,Zürich,CH,Möhrlistrasse 69,,,1048.0,,,,1000.0,,2048.0,hco,novo,2017,383,1.0
 Pflegeakademie,St. Gallen,CH,"c/o LH Medical Managemenet GmbH, Postfach 278",4410,,,2500.0,,,,,2500.0,hco,orion,2017,534,
 Pflegeakademie,Liestal,CH,"c/o LH Medical Managemenet GmbH, Postfach 278",4410,,2500.0,,,,,2500.0,5000.0,hco,orion,2016,534,
-Pflegeakademie,Liestal,CH,"c/o LH Medical Managemenet GmbH, Postfach 278",4410,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,orion,2015,534,
-Pflegeakademie c/o LH Medical Management GmbH,Liestal,CH,Postfach 278,,,0.0,1900.0,0.0,0.0,0.0,0.0,1900.0,hco,janssen,2017,534,1.0
+Pflegeakademie,Liestal,CH,"c/o LH Medical Managemenet GmbH, Postfach 278",4410,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,orion,2015,534,1.0
+Pflegeakademie c/o LH Medical Management GmbH,Liestal,CH,Postfach 278,,,0.0,1900.0,0.0,0.0,0.0,0.0,1900.0,hco,janssen,2017,534,
 Pharmacentrum,Basel,CH,Klingelbergstrase 50,,,,2315.0,,,,,2315.0,hco,mepha,2016,1972,1.0
 Pharmacie Amavita Centre Migros - Jean Claude Zurcher,Moutier,CH,Rue de l'Ecluse 1,,,,,,,230.0,,230.0,hco,sanofi,2016,1973,1.0
 Pharmacie Centrale,La Chaux-de-Fonds,CH,Av. Léopold-Robert 47-49,2301,,,1296.0,,,,,1296.0,hco,sanofi,2017,1974,1.0
@@ -7513,9 +7513,9 @@ Psychiatrie & Psychotherapie Pizol,Bad Ragaz,CH,Fläscherstrasse 37,,,,1500.0,,,
 Psychiatrie & Psychotherapie Pizol,Bad Ragaz,CH,Bad Ragaz,,,,1500.0,,,,,1500.0,hco,lundbeck,2016,2059,1.0
 Psychiatrie & Psychotherapie Pizol,Bad Ragaz,CH,Flächerstrasse 37,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,mundipharma,2015,453,
 Psychiatrie & Psychotherapie Pizol,Bad Ragaz,CH,Flächerstrasse 37,,,1000.0,,,,,,1000.0,hco,mundipharma,2017,453,
-Psychiatrie Adulte -HUG,Genève,CH,Rue de Lausanne 67,,,0.0,0.0,325.89,1214.58,0.0,0.0,1540.46,hco,takeda,2015,544,1.0
-Psychiatrie Adulte -HUG,Genève,CH,Rue de Lausanne 67,,,0.0,0.0,1179.2,1758.79,0.0,0.0,2937.99,hco,takeda,2015,544,
-Psychiatrie Adulte -HUG,Genève,CH,Rue de Lausanne 67,,,0.0,2000.0,0.0,0.0,3600.0,2432.03,8032.03,hco,takeda,2015,544,
+Psychiatrie Adulte -HUG,Genève,CH,Rue de Lausanne 67,,,0.0,0.0,325.89,1214.58,0.0,0.0,1540.46,hco,takeda,2015,4,
+Psychiatrie Adulte -HUG,Genève,CH,Rue de Lausanne 67,,,0.0,0.0,1179.2,1758.79,0.0,0.0,2937.99,hco,takeda,2015,4,
+Psychiatrie Adulte -HUG,Genève,CH,Rue de Lausanne 67,,,0.0,2000.0,0.0,0.0,3600.0,2432.03,8032.03,hco,takeda,2015,4,
 Psychiatrie Baselland,Liestal,CH,Bienentalstrasse 7,,,0.0,5500.0,0.0,0.0,0.0,0.0,5500.0,hco,lundbeck,2015,123,
 Psychiatrie Baselland,Liestal,CH,Spitalstrasse 1,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,takeda,2015,123,
 Psychiatrie Baselland,Liestal,CH,Bienentalstrasse 7,,,,2000.0,,,,,2000.0,hco,vifor,2017,123,1.0
@@ -8636,14 +8636,14 @@ Selbsthilfegruppe Turner-Syndrom Schweiz,Wädenswil,CH,Neudorfstrasse 32,,,3000.
 Seno Brustzentrum,Gossau,CH,!ndustriestrasse 37,,,,1404.0,,,,,1404.0,hco,vifor,2016,2213,1.0
 Senoforum,Chiasso,CH,Via Bossi 50,,,0.0,2700.0,0.0,0.0,0.0,0.0,2700.0,hco,pfizer,2015,2214,1.0
 Senosuisse,Winterthur,CH,Brunngasse 6,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,pierre,2015,2215,1.0
-Sensler Ärzteverein,Tafers,CH,Zelgstrasse 25,,,1000.0,,,,,,1000.0,hco,mundipharma,2017,553,
-Sensler Ärzteverein Herr Dr. med. Alexander Kunz,Tafers,CH,Zelgstrasse 25,,,,1500.0,,,,,1500.0,hco,msd,2017,553,1.0
+Sensler Ärzteverein,Tafers,CH,Zelgstrasse 25,,,1000.0,,,,,,1000.0,hco,mundipharma,2017,553,1.0
+Sensler Ärzteverein Herr Dr. med. Alexander Kunz,Tafers,CH,Zelgstrasse 25,,,,1500.0,,,,,1500.0,hco,msd,2017,553,
 Sensler Ärzteverein Herr Dr. med.Alexander Kunz,Tafers,CH,Zelgstrasse 25,1712,,,1500.0,,,,,1500.0,hco,boehringer,2017,553,
 Service ambulatoire,Monthey,CH,Route de Morgins 10,,,0.0,2600.0,0.0,0.0,1350.0,0.0,3950.0,hco,otsuka,2016,931,
 "Service de Cardiologie, Fondation GECOR",Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,1000.0,,1000.0,hco,novo,2016,48,
 Service de Chirurgie Pédiatrique:CHUV,Lausanne,CH,Rue Du Bugnon 46,,,,654.8,,2947.86,,,3602.66,hco,shire,2017,3,
 Service de Psychiatrie Adulte -CAPPI Eaux-Vives,Genève,CH,Rue du 31-Döcembre 8,,,0.0,0.0,589.6,894.46,0.0,0.0,1484.06,hco,takeda,2015,1063,1.0
-Service de Psychiatrie Adulte -Programme Bipolaire,Genève,CH,Rue du Lausanne 20,,,0.0,0.0,1179.2,1286.57,0.0,0.0,2465.77,hco,takeda,2015,544,
+Service de Psychiatrie Adulte -Programme Bipolaire,Genève,CH,Rue du Lausanne 20,,,0.0,0.0,1179.2,1286.57,0.0,0.0,2465.77,hco,takeda,2015,4,
 Service de Psychiatrie Adulto,Genève,CH,Rue du XXXI Däcembre 8,,,0.0,800.0,0.0,0.0,0.0,0.0,800.0,hco,takeda,2015,1063,
 Service de Psychiatrie de Liaison-CHUV,Lausanne,CH,Rue du Bugnon 44,,,0.0,1389.0,0.0,0.0,0.0,0.0,1389.0,hco,eli,2015,3,
 "Service des Maladies Osseuse, HUG",Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,pierre,2015,4,
@@ -9836,7 +9836,7 @@ Stiftung Forschung Gastroent. & Hepatologie,Zürich,CH,c/o Universitätsspital,,
 Stiftung Forschung Gastroent. & Hepatologie,Zürich,CH,c/o Universitätsspital,,,,5000.0,,,,,5000.0,hco,ferring,2017,468,
 Stiftung Forschung Gastroent. & Hepatologie,Zürich,CH,c/o Universitätsspital,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,ferring,2015,468,
 Stiftung Fuer Wissenschaftliche Forschung Fonds Rheumatologie Triemli,Zuerich,CH,Birmensdorferstrasse 497,,,1000.0,,,,,,1000.0,hco,celgene,2017,8,
-STIFTUNG FüR WISSCHENSCHAFTLICHE FORSCHUNG FONDS ONKOLOGIE/HAEMATOLOGIE TRIEMLIZürich,CH,BIRMENSDORFERSTR ASSE 497,,,,2500.0,,,,,2500.0,hco,sandoz,2016,8,
+STIFTUNG FüR WISSCHENSCHAFTLICHE FORSCHUNG FONDS ONKOLOGIE/HAEMATOLOGIE TRIEMLI,Zürich,CH,BIRMENSDORFERSTR ASSE 497,,,,2500.0,,,,,2500.0,hco,sandoz,2016,8,
 Stiftung Förder. Ausb.  Rad.,Wallisellen,CH,Hertistrasse 26,,,0.0,5500.0,0.0,0.0,0.0,0.0,5500.0,hco,bayer,2015,1094,
 Stiftung Förder. Ausb.  Rad.,Wallisellen,CH,Hertistrasse 26,,,0.0,5500.0,0.0,0.0,0.0,0.0,5500.0,hco,bayer,2016,1094,1.0
 Stiftung für die Forschung in der Gastroenterologie und Hepatologie,Zürich,CH,Rämistrasse 100,8091,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,roche,2015,468,
@@ -11427,8 +11427,8 @@ Verein Sarkomzentrum,Zürich,CH,Minervastrasse 3,8032,,0.0,2000.0,0.0,0.0,0.0,0.
 Verein Sarkomzentrum Zürich c/o Anwaltskanzlei Felix Suter,Zürich,CH,Minervastrasse 3,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,novartis,2017,1145,1.0
 Verein Schweizerische Amts- und Spitalapotheker GSASA,Bern,CH,Postfach,,,0.0,3840.0,0.0,0.0,400.0,0.0,4240.0,hco,novartis,2017,28,
 Verein who is who c/o  Klaus Rüdy,Zürich,CH,Grossackerstrasse 98,,,,1200.0,,,,,1200.0,hco,lundbeck,2016,569,
-"Verein Who is Who c/o Dr, Klaus Rüdy",Zürich,CH,Grossackerstrasse 98,,,,1200.0,,,,,1200.0,hco,lundbeck,2017,569,1.0
-Verein Who is who im Kreis 2,Zürich,CH,Grossackerstrasse 98,,,,1500.0,,,,,1500.0,hco,menarini,2016,569,
+"Verein Who is Who c/o Dr, Klaus Rüdy",Zürich,CH,Grossackerstrasse 98,,,,1200.0,,,,,1200.0,hco,lundbeck,2017,569,
+Verein Who is who im Kreis 2,Zürich,CH,Grossackerstrasse 98,,,,1500.0,,,,,1500.0,hco,menarini,2016,569,1.0
 Verein Who is who im Kreis 2,Zürich,CH,Grossackerstrasse 98,,,,1500.0,,,,,1500.0,hco,menarini,2017,569,
 Verein z. Förderung Augenheilk.,Basel,CH,Mittlere Strasse 91,,,0.0,7000.0,0.0,0.0,0.0,0.0,7000.0,hco,bayer,2016,474,
 Verein Zentralschweizer Dermatologen,Luzern,CH,Präsident Dr. Mathisa Koepcke,6000,,,9706.75,,,,,9706.75,hco,leo,2017,2506,1.0
