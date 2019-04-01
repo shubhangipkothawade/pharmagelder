@@ -209,7 +209,7 @@ Alain Rostan,Carouge GE,CH,Rue Jacques-Grosselin 25,,,0.0,0.0,0.0,0.0,3250.0,0.0
 Alain Rostan,Carouge GE,CH,Rue Jacques-Grosselin 25,,,,,146.0,310.0,3250.0,,3706.0,hcp,menarini,2017,1334,1.0
 Alain Rostan,Carouge GE,CH,Rue Jacques-Grosselin 25,,,,,148.0,310.0,3250.0,,3708.0,hcp,menarini,2016,1334,
 Alain Rudiger,Zürich,CH,"Universitätsspital, Rämistr. 100",9081,,0.0,0.0,284.92,400.51,0.0,0.0,685.43,hcp,orion,2015,2102,
-Alain Rüdiger,Zürich,CH,"Universitätsspital Zürich,Rämistr.100",8091,,,,309.54,543.04,,,852.58,hcp,orion,2017,2102,1.0
+Alain Rüdiger,Zürich,CH,"Universitätsspital Zürich, Rämistr. 100",8091,,,,309.54,543.04,,,852.58,hcp,orion,2017,2102,1.0
 Alain Sauty,Lausanne,CH,Avenue de Rumine 31,,,0.0,0.0,426.0,952.0,0.0,0.0,1379.0,hcp,bgp,2015,44,
 Alain Sauty,Lausanne,CH,"Cabinet Dr Sistek / Dr. Sauty, Avenue de Rumine 31",,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hcp,vifor,2015,44,
 Alain Sauty,Lausanne,CH,Avenue de Rumine 31,1005,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hcp,astrazeneca,2015,44,
@@ -6699,7 +6699,7 @@ Giovanni Grattarola,Pontresina,CH,Via Rondo 3,,,,,64.0,,,,64.0,hcp,mepha,2016,54
 Giovanni Maria Teodori,Lugano,CH,FMH psichiatria e psicoterapia Via Trevano 62,,,0.0,0.0,0.0,42.0,0.0,0.0,42.0,hcp,servier,2015,5483,1.0
 Giovanni Pedrazzini,Lugano,CH,"Cardiocentro Ticino Medizin Kardiologie, Via Tesserete 48",,,,,,,600.0,,600.0,hcp,novartis,2016,172,
 Giovanni Pedrazzini,Lugano,CH,Cardiocentro Ticino -Cardiologia Via Tesserete 48,,,,,711.8,405.15,,,1116.95,hcp,msd,2016,172,
-"Girardin, Céline Michèle",Onex,CH,Route De Chancy 98,,,,,39.0,350.0,,,389.0,hcp,eli,2016,2440,
+"Girardin, Céline Michèle",Onex,CH,Route De Chancy 98,,,,,39.0,350.0,,,389.0,hcp,eli,2016,2440,1.0
 Gisela Rilling,St. Gallen,CH,Poststrasse 23,,,,,0.0,0.0,500.0,0.0,500.0,hcp,roche,2016,5484,1.0
 Giuditta Filippini,Lugano,CH,Via Clemente Maraini 8,,,0.0,0.0,173.4,1068.4,0.0,0.0,1241.8,hcp,merck,2015,5485,1.0
 Giulia Bedino,Lugano,CH,Via Tesserete 46,6900,,,,,,1200.0,,1200.0,hcp,otsuka,2017,2680,1.0
@@ -10082,7 +10082,7 @@ Lukas Wildi,Zürich,CH,Universitätsspital  Zürich - Rheumaklinik Gloriastrasse
 Lukas Wildi,Winterthur,CH,"Kantonsspital Winterthur Rheumatologische Klinik, Brauerstrasse 15",,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,novartis,2017,1742,1.0
 Lukas Wildi,Winterthur,CH,Brauerstrasse 15,8400,,,,549.27,835.13,0.0,0.0,1384.4,hcp,roche,2017,1742,
 Lukas Wildi,Winterthur,CH,Brauerstrasse 15,,,,,,,750.0,,750.0,hcp,eli,2017,1742,
-Lukas Wildi,Zürich,CH,Gloriastrasse 25,,,,,0.0,,1300.0,,1300.0,hcp,mepha,2017,273,
+Lukas Wildi,Zürich,CH,Gloriastrasse 25,,,,,0.0,,1300.0,,1300.0,hcp,mepha,2017,273,1.0
 Lukas Wildi,Zürich,CH,Gloriastrasse 25,,,0.0,0.0,0.0,0.0,1389.0,0.0,1389.0,hcp,mepha,2015,273,
 Lukas Wildi,Zürich,CH,Gloriastrasse 25,,,,,0.0,0.0,500.0,0.0,500.0,hcp,roche,2016,273,
 Lukas Wildi,Zürich,CH,Gloriastrasse 25,,,0.0,0.0,767.0,1034.0,0.0,0.0,1801.0,hcp,celgene,2015,273,
@@ -16002,7 +16002,7 @@ Sieglinde Major Schumacher,Tafers,CH,Zelgstrasse 25,,,,,279.0,183.0,0.0,0.0,461.
 Sieglinde Major Schumacher,Tafers,CH,Zelgstrasse 25,,WCHM04779418,,,391.11,266.67,,,657.78,hcp,celgene,2017,1161,1.0
 Sietse Hogendijk,Genève,CH,Ruelle de Couchant 7,,,,,243.0,408.0,,,651.0,hcp,stallergenes,2017,7870,1.0
 Signori  Davide Giunzioni,Lugano,CH,Via Tesserete 46,,,0.0,0.0,0.0,626.22,0.0,0.0,626.22,hcp,baxter,2015,2490,
-Sigrid Jehle-Kunz,Basel,CH,Gellertstrasse 144,4020,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,roche,2015,3470,
+Sigrid Jehle-Kunz,Basel,CH,Gellertstrasse 144,4020,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,roche,2015,3470,1.0
 Sigrid Jehle-Kunz,Luzern,CH,St. Annastrasse32,,,,,269.7,1413.05,2550.0,,4232.75,hcp,amgen,2017,3471,1.0
 Sigrid Jehle-Kunz,Luzern,CH,Zentralstrasse 1,,,,,128.85,554.14,1350.0,,2032.99,hcp,amgen,2016,3471,
 Sigrid Jehle-Kunz,Basel,CH,Gellertstrasse 144,,,0.0,0.0,628.0,531.0,0.0,0.0,1159.0,hcp,bristol,2015,3471,
@@ -17657,7 +17657,6 @@ Undine Lang,Basel,CH,Wilhelm Kleinstrasse 27,,,0.0,0.0,0.0,0.0,926.0,0.0,926.0,h
 Undine Lang,Basel,CH,Wilhelm Kleinstrasse 27,,,,,,,1500.0,,1500.0,hcp,mepha,2016,1145,1.0
 Undine Lang,Basel,CH,"Universitäre Psychiatrische Kliniken UPK, Wilhelm Klein-Strasse 27",,,,,,,800.0,,800.0,hcp,vifor,2016,1145,
 Universitätsklinik für Pneumologie,Bern,CH,,,,,,573.0,835.0,0.0,0.0,1408.0,hcp,mundipharma,2016,8288,1.0
-Universitätsspital Basel,Basel,CH,Petersgraben 4,4031,,0.0,0.0,959.0,503.2,0.0,0.0,1462.2,hcp,astrazeneca,2015,8289,1.0
 Urban Novak,Bern,CH,Freiburgstrasse 18,3010,,0.0,0.0,667.0,1133.0,0.0,0.0,1800.0,hcp,roche,2015,2054,
 Urban Novak,Bern,CH,Freiburgstrasse 18,3010,,,,545.5,45.0,0.0,0.0,590.5,hcp,roche,2017,2054,
 Urban Novak,Bern,CH,Freiburgstrasse 18,,WCHM05231343,,,1153.81,3093.71,,,4247.52,hcp,celgene,2017,2054,1.0
