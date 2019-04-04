@@ -172,8 +172,8 @@ Alain Bitton,Genève,CH,"Cabinet Dr Bitton Alain, Route de Florissant 95",,,,,,,
 Alain Bitton,Genève,CH,Cabinet Dr Bitton Alain Route de Florissant 95,,,,,,,1200.0,,1200.0,hcp,astellas,2016,1331,
 Alain Bitton,Genève,CH,Route de Florissant 95,,,0.0,0.0,0.0,0.0,2075.0,0.0,2075.0,hcp,bayer,2016,1331,
 Alain Chanson,Lausanne,CH,Rue de la Vigie 5,,,0.0,0.0,335.85,866.3,0.0,0.0,1202.15,hcp,merck,2015,1332,
-Alain Chanson,lausanne,CH,Rue de la Vigie 5,,,,,252.9,,,,252.9,hcp,merck,2017,1332,1.0
-Alain Chanson,lausanne,CH,Rue de la Vigie5,,,,,381.35,1653.1,,,2034.45,hcp,merck,2016,1332,
+Alain Chanson,Lausanne,CH,Rue de la Vigie 5,,,,,252.9,,,,252.9,hcp,merck,2017,1332,1.0
+Alain Chanson,Lausanne,CH,Rue de la Vigie5,,,,,381.35,1653.1,,,2034.45,hcp,merck,2016,1332,
 Alain Cometta,Yverdon-les-Bains,CH,Rue d'Entremonts 11,,,,0.0,361.0,716.0,0.0,0.0,1078.0,hcp,pfizer,2017,3745,1.0
 Alain Delabays,Morges,CH,Chemin du Cröt 2,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,novartis,2015,615,
 Alain Delabays,Morges,CH,"Hôpital de Morges, Chemin du Cröt 2",,,,,,,1300.0,,1300.0,hcp,novartis,2016,615,
@@ -16225,7 +16225,7 @@ Spyridon Arampatzis,Bern,CH,Freiburgstrasse15,,,,,335.45,711.43,,,1046.88,hcp,am
 "Stahel, Rolf",Zürich,CH,Rämistrasse 100,,,,,,,6900.0,8225.0,15125.0,hcp,eli,2016,4,
 Stalder Jesica Mazza,Nyon,CH,"Cabinet de groupe, Rue Neuve 7",,,,,147.0,575.0,2000.0,,2722.0,hcp,novartis,2016,1676,1.0
 Stallmach Matthias,Münchenstein,CH,"Neurologie am Schaulager, Emil-Frey-Strasse 85",4142,,0.0,0.0,0.0,0.0,500.0,54.0,554.0,hcp,teva,2015,1185,
-Stansilav Svaral,Wädenswil,CH,Spitalstrasse 5,8880,,,,,1350.0,,192.0,1764.0,hcp,allergan,2017,7941,1.0
+Stansilav Svaral,Wädenswil,CH,Spitalstrasse 5,8880,,,,,1350.0,,192.0,1542.0,hcp,allergan,2017,7941,1.0
 Stathis Anastasios,Bellinzona,CH,IOSI Via Ospedale,,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,takeda,2015,213,
 Staubli Philippe,Delémont,CH,Rue des Lilas 18,,,0.0,0.0,449.33,663.33,0.0,0.0,1112.66,hcp,pierre,2015,400,
 Stavroula Masouridi,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,357.0,640.0,,,997.0,hcp,bristol,2016,3498,1.0
@@ -18188,7 +18188,7 @@ Volker Kirchner,Genolier,CH,Route Du Muids 3,,,,,350.66,,,,350.66,hcp,amgen,2016
 Volker Kirchner,Genolier,CH,Route Du Muids 3,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,bristol,2015,180,
 Volker Stenz,Münsterlingen,CH,Spitalcampus 1,,,,,293.0,601.0,,,894.0,hcp,abbvie,2016,1315,
 Volker Stenz,Münsterlingen,CH,Kantonsspital Münsterlingen -Gastroenterologi e Spitalcampus 1,,,,,502.35,770.59,,,1272.94,hcp,msd,2016,1315,
-Volker Stenz,Münsterlingen,CH,Spitalcampus 1,8596,,,,,790.0,,199.0,928.0,hcp,allergan,2017,1315,
+Volker Stenz,Münsterlingen,CH,Spitalcampus 1,8596,,,,,790.0,,199.0,989.0,hcp,allergan,2017,1315,
 Volker Stenz,Münsterlingen,CH,Spitalcampus 1,,,,,315.0,433.0,,,748.0,hcp,abbvie,2017,1315,1.0
 Volker Viereck,Frauenfeld,CH,"Kantonsspital Frauenfeld, Pfaffenholzstrasse 4",,,,,,43.55,1200.0,,1243.55,hcp,vifor,2016,8439,1.0
 Volker Wedler,Kreuzlingen,CH,,,7601000404282,,,,,8311.45,,8311.45,hcp,galderma,2017,8440,1.0
@@ -18280,7 +18280,7 @@ Walter Schweizer,Frick,CH,Mühlegasse 18,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,c
 Walter Schweizer,Frick,CH,Mühlegasse 18,5070,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,roche,2015,3670,
 Walter Strupler,Bachenbülach,CH,Dorfstrasse 26,,,0.0,0.0,0.0,1560.0,0.0,0.0,1560.0,hcp,novartis,2015,1750,
 Walter Strupler,Bachenbülach,CH,Gruppenpraxis Dorfstrasse 26,8184,,,,,,250.0,,250.0,hcp,sanofi,2017,1750,1.0
-Walter Suter,Schwyz,CH,Zeughausstrasse 10,6430,,,,,1550.0,,214.0,1255.0,hcp,allergan,2017,414,
+Walter Suter,Schwyz,CH,Zeughausstrasse 10,6430,,,,,1550.0,,214.0,1764.0,hcp,allergan,2017,414,
 Walter Suter,Schwyz,CH,Zeughausstrasse 10,,,,,259.0,370.0,,,630.0,hcp,gilead,2017,414,
 Walter Suter,Schwyz,CH,"Praxis Dr. Suter Walter, Zeughausstrasse 10",,,,,292.12,584.51,,,876.63,hcp,vifor,2016,414,
 Walter Suter,Schwyz,CH,Zeughausstrasse 10,,,0.0,0.0,293.0,393.0,0.0,0.0,686.0,hcp,abbvie,2015,414,
