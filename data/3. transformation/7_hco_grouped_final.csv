@@ -5120,6 +5120,7 @@ Kantonsspital Aarau AG Medizin Onkologie,Aarau,CH,Tellstrasse 25,5001,,,1200.0,,
 "Kantonsspital Aarau AG, Neurologische Klinik",Aarau,CH,Tellstrasse,,,,3000.0,,,,,3000.0,hco,teva,2017,10,
 "Kantonsspital Aarau AG, Neurologische Klinik",Aarau,CH,Teilstrasse,5001,,,2000.0,,,,,2000.0,hco,teva,2016,10,
 "Kantonsspital Aarau AG, Neurologische Klinik",Aarau,CH,Tellstrasse,,,,1500.0,,,,,1500.0,hco,teva,2017,10,
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse,5001,,0.0,0.0,0.0,0.0,2400.0,0.0,2400.0,hco,astrazeneca,2015,10,
 "Kantonsspital Aarau, Dermatologie",Aarau,CH,Bahnhofplatz 3c,,,,1500.0,,,,,1500.0,hco,stallergenes,2016,10,
 "Kantonsspital Aarau, Dermatologie",Aarau,CH,Bahnhofplatz 3c,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,stallergenes,2015,10,
 "Kantonsspital Aarau, Klinik für Kinder und Jugendliche",Aarau,CH,Tellstrasse,,,,1500.0,,,,,1500.0,hco,csl,2016,10,
@@ -5176,7 +5177,7 @@ Kantonsspital Baden AG Pathologie,Baden,CH,Im Ergel 1,5404,,0.0,0.0,0.0,0.0,5000
 Kantonsspital Baden AG Spitalapotheke,Baden,CH,Im Ergel 1,5404,,0.0,0.0,0.0,0.0,4080.0,0.0,4080.0,hco,roche,2015,22,
 "Kantonsspital Baden AG, Rechnungswesen",Baden,CH,Im Ergel 1,,,0.0,1242.65,0.0,0.0,0.0,0.0,1242.65,hco,glaxosmithkline,2015,22,
 "Kantonsspital Baden, Departement Innere Medizin",Baden,CH,Im Ergel 1,,,,1080.0,,,,,1080.0,hco,vifor,2017,22,
-Kantonsspital Basel,Basel,CH,,,,,1040.0,,,,,1040.0,hco,pierre,2016,650,1.0
+Kantonsspital Basel,Basel,CH,,,,,1040.0,,,,,1040.0,hco,pierre,2016,10005,
 Kantonsspital Basel-Land,Liestal,CH,Rheinstrasse 26,,,0.0,0.0,620.0,1877.6,0.0,221.3,2718.9,hco,astellas,2017,10005,1.0
 Kantonsspital Baselland,Liestal,CH,Rheinstr. 26,,,500.0,0.0,0.0,0.0,0.0,0.0,500.0,hco,merck,2015,10005,
 Kantonsspital Baselland,Liestal,CH,Mühlenmattstrasse 26,,,,0.0,,,1350.0,,1350.0,hco,teva,2017,10005,
@@ -10556,8 +10557,8 @@ Universitäre Psychiatrische Kliniken UPK -Zentrum für Diagnostik und Krisenint
 Universitäre PsychiatrischeDienste Bern (UPD),Bern,CH,Bolligenstrasse 111,,,,3240.0,,,,,3240.0,hco,lundbeck,2017,58,
 Universitäres Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,2000.0,540.0,0.0,0.0,0.0,0.0,2540.0,hco,glaxosmithkline,2015,23,
 Universitäres Zentrum für Hausarztmedizin beider Basel uniham-bb,Liestal,CH,Rheinstrasse 26,,,0.0,13000.0,0.0,0.0,0.0,0.0,13000.0,hco,pfizer,2015,2449,1.0
-"Universitäres Zentrum für Hausarztmedizin beider Basel, Kantonsspital Baselland",Basel,CH,Rheinstrasse 26,,,0.0,18800.0,0.0,0.0,0.0,0.0,18800.0,hco,menarini,2015,650,
-"Universitäres Zentrum für Hausarztmedizin beider Basel, Kantonsspital Baselland",Basel,CH,Rheinstrasse 26,,,,18800.0,,,,,18800.0,hco,menarini,2016,650,
+"Universitäres Zentrum für Hausarztmedizin beider Basel, Kantonsspital Baselland",Basel,CH,Rheinstrasse 26,,,0.0,18800.0,0.0,0.0,0.0,0.0,18800.0,hco,menarini,2015,10005,
+"Universitäres Zentrum für Hausarztmedizin beider Basel, Kantonsspital Baselland",Basel,CH,Rheinstrasse 26,,,,18800.0,,,,,18800.0,hco,menarini,2016,10005,
 Universität,Zürich,CH,Rämistrasse 100,,,44000.0,0.0,0.0,0.0,0.0,0.0,44000.0,hco,mundipharma,2015,10011,
 Universität Basel,Basel,CH,Petersplatz 1,,,25000.0,,,,,,25000.0,hco,amgen,2016,66,
 Universität Basel,Basel,CH,Petersplatz 1,,,,6000.0,,,,,6000.0,hco,abbvie,2017,66,1.0
