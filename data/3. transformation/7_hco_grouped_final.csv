@@ -2268,6 +2268,7 @@ ESCMID,Basel,CH,Postfach,,,0.0,103006.2,0.0,0.0,0.0,0.0,103006.2,hco,astellas,20
 ESCMID,Basel,CH,ESCMID Aeschenvorstadt 57,,,,207407.0,,,,,207407.0,hco,astellas,2016,213,
 ESCMID,Basel,CH,. Postfach 214,,,33503.0,89897.0,,,,,123400.0,hco,gilead,2017,213,
 ESCMID European Society of Clinical Microbiology and Infectious Diseases,Basel,CH,Aeschenvorstadt 57,,,30070.0,366323.0,0.0,0.0,0.0,0.0,396393.0,hco,pfizer,2017,213,1.0
+ESCMID - European Society of Clinical Microbiology and Infectious Diseases,Basel,CH,Clarastrasse 57,,,,128439,,,,,128439,hco,basilea,2017,213,1.0
 ESDR,Genève,CH,Rue Cingria 7,1205,,,9910.71,,,,,9910.71,hco,leo,2017,148,
 ESDR - Dermatological Research,Genève,CH,Rue Cingria 7,,,0.0,74417.0,0.0,0.0,0.0,0.0,74417.0,hco,pfizer,2017,148,1.0
 ESDR - EUROPEAN SOCIETY FOR DERMATOLOGICAL RESEARCH,Genève,CH,Rue Cingria 7,,,0.0,31368.0,0.0,0.0,0.0,0.0,31368.0,hco,abbvie,2015,148,
@@ -2528,6 +2529,7 @@ FAMMID,Lausanne,CH,Pont Charles Bessières 3,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000
 FAMMID,Lausanne,CH,Pont Charles Bessières 3 c/o Fiduciaire Maillard S.A.,,,,10000.0,,,,,10000.0,hco,bgp,2017,150,
 FAMMID Fondation pour le progrès en microbiologie médicale et maladies infectieueses,Lausanne,CH,c/o Fiduciaire Maillard SA,,,,10000.0,,,,,10000.0,hco,abbvie,2016,150,
 FAMMiD Fondation pour le progrès en microbiologie médicale et maladies infectieueses,Lausanne,CH,c/o Fiduciaire Maillard SA,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,abbvie,2015,150,
+FAMMID - Fondation Pour Le Progres En Mcrobiologie Medicale Et Maladies,Lausanne,CH,Pont-Bessiére 3,,,,10000,,,,,10000,hco,basilea,2017,150,
 Farmacia Centrale,Biasca,CH,Via A. Pini 16,,,,,,,300.0,,300.0,hco,sandoz,2017,1512,1.0
 Felix Platter-Spital,Basel,CH,Burgfelderstrasse 101,,,2000.0,,,,,,2000.0,hco,mundipharma,2017,151,
 Felix Platter-Spital,Basel,CH,Burgfelderstrasse 101,,,0.0,3280.0,0.0,0.0,0.0,0.0,3280.0,hco,gruenenthal,2017,151,
@@ -7993,6 +7995,7 @@ SAFE ID Swiss Academic Foundation for Education in Infectious Diseases,Bern,CH,F
 SAFE-ID,Bern,CH,Friedbühlstrasse 51,,,,10000.0,,,,,10000.0,hco,pfizer,2016,169,
 SAFE-ID,Bern,CH,Friedbühlstrasse 51,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,pfizer,2017,169,
 SAFE-ID,Bern,CH,Friedbühlstrasse 51,,,50000.0,0.0,0.0,0.0,0.0,0.0,50000.0,hco,janssen,2016,169,
+SAFE ID - Swiss Academic Foundation For Education In Infectious Diseases,Bern,CH,Friedbuehlstrasse 51,,,,20000,,,,,20000,hco,basilea,2017,169,
 SAGB,Weinfelden,CH,,,,,750.0,,,,,750.0,hco,eisai,2016,547,
 Sagb,Weinfelden,CH,postfach 59,8570,,,1000.0,,,,,1000.0,hco,eisai,2017,547,1.0
 Sagb,Weinfelden,CH,Dr. med. Felix Brem Postfach 59,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,eisai,2015,547,

@@ -3211,6 +3211,7 @@ Christian Van Delden,Cologny,CH,Chemin David-Munier 24,,,,,,,1400.0,,1400.0,hcp,
 Christian Van Delden,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,0.0,0.0,0.0,0.0,2800.0,0.0,2800.0,hcp,pfizer,2015,967,
 Christian Van Delden,Genève,CH,Rue Gabrielle-Perret -Gentil 4,,,,,,2257.0,2352.0,45.0,4656.0,hcp,gilead,2017,967,1.0
 Christian Van Delden,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,673.12,1710.2,5576.45,1756.1,9715.87,hcp,gilead,2016,967,
+Christian Van Delden,Genf,CH,"Rue Gabrielle-Perret-Gentil 4 , 1205 Genf",,,,,,,3700,344,4044,hcp,basilea,2017,967,
 Christian von Briel,Aarau,CH,"Tumorzentrum Aarau AG, Rain 34",,,,,,,1000.0,,1000.0,hcp,mundipharma,2017,4541,1.0
 Christian W. Hess,Bern,CH,Freiburgstrasse 4,,,0.0,0.0,0.0,0.0,1389.0,0.0,1389.0,hcp,mepha,2015,4542,1.0
 Christian Waldherr,Bern,CH,Riedweg 15,,,0.0,0.0,456.95,436.15,0.0,0.0,893.1,hcp,bayer,2015,4543,1.0
@@ -5322,6 +5323,7 @@ Enos Bernasconi,Lugano,CH,Via T esserete 46 Ospedaie Civico,,,,,503.08,1348.47,7
 Enos Bernasconi,Lugano,CH,Via Tesserete 46,,,,,601.0,1046.0,,,1647.0,hcp,abbvie,2017,442,1.0
 Enos Bernasconi,Lugano,CH,Via Tesserete 46,,,,0.0,258.0,747.0,0.0,0.0,1005.0,hcp,pfizer,2017,442,
 Enos Bernasconi,Lugano,CH,Via Tesserete 46,,,0.0,0.0,867.0,944.0,0.0,0.0,1811.0,hcp,abbvie,2015,442,
+Enos Bernasconi,Lugano,CH,"Via Tesserete 46",,,,,,,1400,112,1512,hcp,basilea,2017,442,
 Enrico Fraschini,Lausanne,CH,Avenue Juste-Olivier 10,,,,,577.0,784.0,577.0,,1938.0,hcp,lundbeck,2016,1554,
 Enrico Fraschini,Lausanne,CH,Avenue Juste-Olivier 10,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,lundbeck,2015,1554,
 Enrico Fraschini,Lausanne,CH,Avenue Juste-Olivier 10,,,,,,,800.0,,800.0,hcp,lundbeck,2017,1554,1.0
@@ -8387,7 +8389,8 @@ Jocelyne Melchior-Capiot,Lausanne,CH,Rue de la Madeleine 18,,,,0.0,0.0,0.0,1280.
 Jochen Binder,Winterthur,CH,"IPW - Integrierte Psychiatrie, Wieshofstrasse 102",,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,vifor,2015,5912,1.0
 Jochen Eichler,Zürich,CH,Universitätstrasse 120,8006,40752420,0.0,0.0,252.0,634.85,0.0,0.0,886.85,hcp,bayer,2017,2838,1.0
 Jochen Eichler,Zürich,CH,"Praxis Dr. Eichler, Universitätstrasse 120",,,,,,,800.0,,800.0,hcp,vifor,2016,2838,
-Jochen Grassinger,Zürich,CH,Rämistrasse 100,,,,,541.94,116.74,,,658.6800000000002,hcp,celgene,2016,2839,1.0
+Jochen Grassinger,Zürich,CH,Rämistrasse 100,,,,,541.94,116.74,,,658.68,hcp,celgene,2016,2839,1.0
+Jochen Grassinger,Zürich,CH,"Rämistrasse 100, 8091 Zürich",,,,,,,1400,192,1592,hcp,basilea,2017,2839,
 Jochen Mack,Lachen Sz,CH,Spital Lachen AG Spitalapotheke Oberdorfstrasse 41,,,0.0,0.0,422.78,564.76,0.0,0.0,987.54,hcp,sanofi,2015,2840,
 Jochen Mutschler,Zürich,CH,"Zentrum für Abhängigkeitserkrankungen Psychiatrische Universitätsklinik Zürich, Selnaustrasse 9",,,,,,680.0,,,680.0,hcp,lundbeck,2016,2841,1.0
 Jochen Mutschler,Zürich,CH,Zentrum für Abhängigkeitserkrankungen Psychiatrische Universitätsklinik Zürich Selnaustrasse 9,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hcp,lundbeck,2015,2841,
@@ -16261,6 +16264,7 @@ Stefan Wyden,Bern,CH,,,,0.0,0.0,254.0,296.0,0.0,0.0,550.0,hcp,mundipharma,2015,7
 Stefan Wyrsch,Meggen,CH,Schwerzihoehe 2,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,alcon,2015,7974,1.0
 Stefan Zimmerli,Bern,CH,Freiburgstrasse 18 Inselspital,,,,,,,1000.0,,1000.0,hcp,gilead,2016,1991,
 Stefan Zimmerli,Bern,CH,"Freiburgstrasse 18 Haus 5, Eingang 16p",,,,,,981.0,,,981.0,hcp,gilead,2017,1991,1.0
+Stefan Zimmerli,Bern,CH,"Inselspital Bern, Haus 5, 3010 Bern",,,,,,,1800,144,1944,hcp,basilea,2017,1991,
 Stefan Zimmermann,Lausanne,CH,Rue du Bugnon 46,,,,,299.0,1155.0,1237.0,,2691.0,hcp,bristol,2017,3518,1.0
 Stefan Zimmermann,Riaz,CH,Rue de l'Hôpital 9,,,,,,,900.0,,900.0,hcp,bristol,2016,1280,1.0
 Stefan Zimmermann,Fribourg,CH,Chemin des Pensionnats 2-6,1708,,,,0.0,0.0,2362.0,0.0,2362.0,hcp,roche,2017,1281,1.0
@@ -18495,3 +18499,7 @@ Pierre Michetti,Lausanne,CH,"Cabinet Dr Felley / Dr Michetti, Avenue Jomini 8",,
 Pierre Michetti,Lausanne,CH,Cabinet Dr Felley / Dr Michetti Avenue Jomini 8,,,,,,,7700.0,170.0,7870.0,hcp,takeda,2016,10001,
 Pierre Michetti,Lausanne,CH,"Centre de Gastroentérologie Beaulieu S.A, Avenue Jomini 8",,7601000011961,,,,,12550.0,3150.0,15700.0,hcp,msd,2017,10001,1.0
 Raffaella Cristina Mordasini,Bern,CH,Freiburgstrasse 4,,,,,484.0,980.0,,,1464.0,hcp,pfizer,2016,10002,1.0
+Benoit Guery,Lausanne,CH,"Rue du Bugon 46, 1011 Lausanne",,,,,,,1400,120,1520,hcp,basilea,2017,10003,1.0
+Daniel Goldenberger,Basel,CH,"Petersgraben 4, 4031 Basel",,,,,,,1400,112,1512,hcp,basilea,2017,10004,1.0
+Konrad Mühlethaler,Bern,CH,"Friedbülstrasse 51, 3001 Bern",,,,,,,1400,,1400,hcp,basilea,2017,10005,1.0
+Luigia Elzi,Bellinzona,CH,"Via G. Nizzola 8, 6500 Bellinzona",,,,,,,1400,96,1496,hcp,basilea,2017,10006,1.0
