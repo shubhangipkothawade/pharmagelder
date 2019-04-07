@@ -4995,7 +4995,7 @@ Kantonsspital,Luzern,CH,Spitalstrasse 31,,,12200.0,0.0,0.0,0.0,0.0,0.0,12200.0,h
 Kantonsspital,Nidwalden,CH,,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,mundipharma,2015,121,
 Kantonsspital,St. Gallen,CH,Rorschacherstrasse 95,,,16988.8,0.0,0.0,0.0,0.0,0.0,16988.8,hco,mundipharma,2015,5,
 Kantonsspital,Luzern,CH,Spitalstrasse 31,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,mundipharma,2015,7,
-Kantonsspital,Wolhusen,CH,Spitalslrasse,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,mundipharma,2015,374,
+Kantonsspital,Wolhusen,CH,Spitalstrasse,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,mundipharma,2015,374,
 Kantonsspital,Aarau,CH,Tellstrasse 25,,,12388.5,0.0,0.0,0.0,0.0,0.0,12388.5,hco,mundipharma,2015,10,
 Kantonsspital,Luzern,CH,Spitalstrasse 31,,,12700.0,0.0,0.0,0.0,0.0,0.0,12700.0,hco,mundipharma,2016,7,
 Kantonsspital,Fribourg,CH,,,,6000.0,0.0,0.0,0.0,0.0,0.0,6000.0,hco,mundipharma,2015,956,
@@ -6256,7 +6256,7 @@ Luzerner Kantonsspital,Luzern,CH,Spitalstrasse 31,,,,12500.0,,,,2400.0,14900.0,h
 Luzerner Kantonsspital,Wolhusen,CH,Spitalstrasse,,,0.0,0.0,519.25,1235.7,0.0,0.0,1754.95,hco,takeda,2015,7,
 Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,almirall,2015,7,
 Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,5591.9,5000.0,0.0,0.0,1500.0,0.0,12091.9,hco,takeda,2015,7,
-Luzerner Kantonsspital,Luzem,CH,Spitalslrasse,,,2400.0,3000.0,0.0,0.0,3000.0,0.0,8400.0,hco,takeda,2015,1850,1.0
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,2400.0,3000.0,0.0,0.0,3000.0,0.0,8400.0,hco,takeda,2015,7,
 Luzerner Ärztegesellschatt Sektion Gäu,Sursee,CH,Spitalstrasse 16a,,,,1000.0,,,,,1000.0,hco,menarini,2017,143,
 Luzerner Höhenklinik Montana,Crans-Montana,CH,Route de l'Astoria 2,,,0.0,3240.0,0.0,0.0,0.0,0.0,3240.0,hco,pfizer,2015,446,
 Luzerner Höhenklinik Montana,Crans-montana,CH,Route de l'Astoria 2,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,actelion,2015,446,
