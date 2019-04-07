@@ -24,7 +24,6 @@ INSERT INTO pharma (`pha_id`, `pha_name`) VALUES
 ('22', 'Ferring Pharmaceuticals'), 
 ('23', 'Future Health Pharma GmbH'), 
 ('24', 'Galderma'), 
-('25', 'Sanofi Genzyme'), 
 ('26', 'Gilead Sciences'), 
 ('27', 'GlaxoSmithKline'), 
 ('28', 'Grünenthal Pharma AG'), 
