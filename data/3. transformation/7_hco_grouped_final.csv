@@ -142,7 +142,6 @@ Schweizerische Gesellschaft für Kardiologie,Bern,CH,Dufourstrasse 30,,,,9900.0,
 Schweizerische Gesellschaft für Kardiologie,Bern,CH,Schwarztorstrasse 18,3007,,,6000.0,,,,,6000.0,hco,sanofi,2017,270,
 Schweizerische Gesellschaft für Kardiologie,Bern,CH,Dufourstrasse 30,3005,,,,8900.0,,,,8900.0,hco,daiichi,2017,270,
 Schweizerische Gesellschaft für Kardiologie,Zürich,CH,Schwarztorstrasse 18,,,0.0,1530.0,0.0,0.0,0.0,0.0,1530.0,hco,roche,2016,270,
-Schweizerische Gesellschaft für Kardiologie,Bern,CH,Schwarztorstrasse  18,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,genzyme,2015,270,
 Schweizerische Gesellschaft für Kardiologie,Bern,CH,Schwarztorstrasse 18,,,0.0,16500.0,0.0,0.0,0.0,0.0,16500.0,hco,astrazeneca,2017,270,
 Schweizerische Gesellschaft für Kardiologie,Glattbrugg,CH,Flughofstrasse 54,,,0.0,26000.0,0.0,0.0,0.0,0.0,26000.0,hco,takeda,2015,270,
 Schweizerische Gesellschaft für Kardiologie (SGK - SSC),Bern,CH,Schwarztorstrasse 18,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,daiichi,2015,270,
@@ -371,7 +370,6 @@ AerzteNetzwerk Grauholz,Lenzburg,CH,c/o Argomed Ärzte AG - Bahnhofstrasse 24,,,
 Aerztenetzwerk Grauholz,Ittigen,CH,Worblentalstrasse 99,3063,AerztenetzwerkGrauholzIttigen,,2000.0,,,,,2000.0,hco,servier,2017,86,
 AerzteNetzwerk Grauholz,Urtenen-schönbühl,CH,Solothurnstrasse 43,,,0.0,0.0,0.0,0.0,864.0,0.0,864.0,hco,sanofi,2015,145,
 AERZTENETZWERK GRAUHOLZ,Zollikofen,CH,Luefternweg 1,,,,2160.0,,,,,2160.0,hco,bristol,2016,486,
-AerzteNetzwerk Grauholz,Urtenen-schönbühl,CH,Solothurnstrasse 43,,,0.0,0.0,0.0,0.0,864.0,0.0,864.0,hco,genzyme,2015,145,
 AerzteNetzwerk Grauholz,Lenzburg,CH,c/o Argomed Ärzte AG - Bahnhofstrasse 24,,,,2000.0,,,,,2000.0,hco,zambon,2016,583,
 AerzteNetzwerk Grauholz,Lenzburg,CH,c/o Argomed Ärzte AG - Bahnhofstrasse 24,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,zambon,2017,583,1.0
 Aerztenetzwerk Grauholz,Ittigen,CH,Worblentalstrasse 99,,,,2800.0,,,,,2800.0,hco,servier,2016,86,
@@ -1121,7 +1119,7 @@ Cabinet Féraud Pierre,Sion,CH,Rue du Chanoine-Berchtold 26,,,,1000.0,,,,,1000.0
 Cabinet Gander Marc,Lausanne,CH,Avenue Louis-Ruchonnet 2,,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hco,celgene,2015,1333,1.0
 Cabinet Guttmann / Schürch,Lausanne,CH,Avenue de la Gare 10,,,,600.0,,,,,600.0,hco,pfizer,2016,1334,1.0
 Cabinet Haldy / Herkommer,Prilly,CH,Route de Cossonav 6,,,0.0,0.0,0.0,0.0,240.0,0.0,240.0,hco,daiichi,2015,1335,1.0
-Cabinet Jop Bertrand,Martigny,CH,Avenue De La Gare 8,,,,1000.0010000000001,,,,,1000.0010000000001,hco,daiichi,2016,1336,1.0
+Cabinet Jop Bertrand,Martigny,CH,Avenue De La Gare 8,,,,1000.001,,,,,1000.001,hco,daiichi,2016,1336,1.0
 Cabinet Keller Pierre,Delémont,CH,Rue De La Maltière 10,,,,992.0,,,,,992.0,hco,daiichi,2016,1337,1.0
 Cabinet Medical Degroupe,Lausanne,CH,Avenue Du Servan10,,,,,,,1300.0,,1300.0,hco,amgen,2016,1338,1.0
 Cabinet médical Ayer,Marly,CH,Impasse du Nouveau Marché 3,1723,,,600.0,,,,,600.0,hco,daiichi,2017,1339,1.0
@@ -1668,7 +1666,6 @@ Clinica Luganese Moncucco SA,Lugano,CH,"Via Moncucco 10, Lugano",,,0.0,1200.0,0.
 Clinica Luganese Moncucco SA,Lugano,CH,Via Moncucco 10,,,,750.0,,,,,750.0,hco,eli,2017,57,
 Clinica Luganese Moncucco SA,Lugano,CH,Via Moncucco 10,,,,700.0,,,,,700.0,hco,astrazeneca,2016,57,
 Clinica Luganese Moncucco SA,Lugano,CH,Via Soldino 30,,,0.0,2300.0,0.0,0.0,0.0,0.0,2300.0,hco,amgen,2015,57,
-Clinica Luganese Moncucco SA,Lugano,CH,Via Moncucco 10,,,0.0,0.0,0.0,2800.0,0.0,0.0,2800.0,hco,genzyme,2015,57,
 Clinica Luganese Moncucco SA,Lugano,CH,Via Moncucco 10,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,abbvie,2015,57,
 Clinica Luganese Moncucco SA,Lugano,CH,Sede Moncucco e San Rocco Via Moncucco 10,,,0.0,864.0,0.0,0.0,0.0,0.0,864.0,hco,lundbeck,2015,57,
 Clinica Luganese Moncucco SA,Lugano,CH,Via Moncucco 10,6900,,0.0,800.0,0.0,0.0,0.0,0.0,800.0,hco,takeda,2017,57,
@@ -1870,7 +1867,7 @@ Congrex Switzerland Ltd,Basel,CH,Peter Merian-Strasse 80,,,0.0,59130.0,0.0,0.0,0
 Congrex Switzerland Ltd,Basel,CH,Peter Merian-Strasse 80,,,,10000.0,,,,,10000.0,hco,msd,2017,275,
 Congrex Switzerland Ltd.,Basel,CH,Petermerian-Strasse,,,,2000.0,,,,,2000.0,hco,shire,2017,275,
 MedArt Basel,Basel,CH,Klingelbergstrasse 23,4031,,,,21000.0,,,,21000.0,hco,daiichi,2017,800,1.0
-medArt basel '16,Basel,CH,Peter Merian-Strasse 80,,,,5400.0,,,,,5400.0,hco,vifor,2016,800
+medArt basel '16,Basel,CH,Peter Merian-Strasse 80,,,,5400.0,,,,,5400.0,hco,vifor,2016,800,
 "Congrex Schweiz AG, MedArt Basel",Basel,CH,Peter Merian Strasse 80,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,menarini,2015,800,
 Congrès ARAM,St.Légier,CH,Lussy 18,,,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0,hco,vifor,2015,1435,1.0
 "Congrès des JFSPH, c/o Pharmacie du CHUV",Lausanne,CH,"Rue du Bugnon 46, CH",1011,,,1800.0,,,,,1800.0,hco,teva,2016,276,
@@ -3675,7 +3672,6 @@ Hirslanden Klinik St. Anna,Luzern,CH,Sankt Annastrasse 32,6006,40517562,0.0,6388
 Hirslanden Klinik St. Anna,Luzern,CH,Sankt Annastrasse 32,,,,463.0,678.0,1831.0,,,2972.0,hco,abbvie,2017,69,
 Hirslanden Klinik St. Anna,Luzern,CH,St. Annastrasse 32,,,0.0,463.0,0.0,0.0,0.0,0.0,463.0,hco,abbvie,2015,69,
 Hirslanden Klinik St. Anna,Luzern,CH,St.-Anna-Str. 32,,,0.0,0.0,422.78,564.76,0.0,0.0,987.54,hco,sanofi,2015,69,
-Hirslanden Klinik St. Anna,Luzern,CH,St.-Anna-Str. 32,,,0.0,0.0,422.78,564.76,0.0,0.0,987.54,hco,genzyme,2015,69,
 Hirslanden Klinik St. Anna,Luzern,CH,St. Annastrasse 32,,,,925.93,,431.44,,,1357.37,hco,amgen,2016,69,
 Hirslanden Klinik St. Anna,Luzern,CH,Sanktannastrasse 32,,,,,,,3630.0,,3630.0,hco,amgen,2017,69,
 Hirslanden Klinik St. Anna,Luzern,CH,St. Annastrasse 32,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,mundipharma,2015,69,
@@ -3759,7 +3755,7 @@ HUG,Genève,CH,Ruegabrielle Perret-Gentil 4,,,30023.0,0.0,0.0,0.0,0.0,0.0,30023.
 HUG,Genève,CH,Ruegabrielle Perret-Gentil 4,,,35969.2,0.0,0.0,0.0,0.0,0.0,35969.2,hco,mundipharma,2015,4,
 HUG (Hôpitaux Universitaires Genève),Genève,CH,,,,,1000.0,,,,,1000.0,hco,pierre,2016,4,
 HUG - Clinique Belle-Idee - Service d'urologie,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,,1800.0,,,,,1800.0,hco,eli,2016,4,
-HUG - Clinique Belle-Idee - Unité de Neuro-Imagerie Psychiatrique,Chêne Bourg,CH,"des Laboratoires, Chemin du Petit- Bel-Air 2",,,,4500.0,,,,,4500.0,hco,eli,2016,4
+HUG - Clinique Belle-Idee - Unité de Neuro-Imagerie Psychiatrique,Chêne Bourg,CH,"des Laboratoires, Chemin du Petit- Bel-Air 2",,,,4500.0,,,,,4500.0,hco,eli,2016,4,
 HUG - Département de médicine communautaire et de premier recours,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,,6000.0,,,,,6000.0,hco,eli,2016,4,
 HUG - Hôpital des Trois-Chêne,Thônex,CH,Chemin du Pont-Bochet 3,,,,299.65,,,,,299.65,hco,shire,2016,439,
 HUG - Hôpitaux Universitaires de Genève,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,23800.0,0.0,0.0,2562.7,0.0,0.0,26362.7,hco,baxter,2017,4,1.0
@@ -4352,7 +4348,7 @@ Hôpitaux Universitaires Genève Sce d'urologie,Genève,CH,Hôpitaux Universitai
 Hôpitaux Universitaires Genève; Département d'exploitation,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,71988.25,4500.0,,,2888.0,,79376.25,hco,baxalta,2016,4,
 Hôpitaux Universitäres Genève,Genève,CH,Rue Gabrielle Perret-Gentil 4,1205,,,13750.0,590.0,890.0,1200.0,,16430.0,hco,daiichi,2017,4,
 Hôpitaux unlversit. de Genève Divers,Genève,CH,Chemin Venel,7120,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,boehringer,2015,4,
-Hôspital neuchâtelois,Basel,CH,Maladière 45,2000,,,500.0,,,,,500.0,hco,orion,2017,46
+Hôspital neuchâtelois,Basel,CH,Maladière 45,2000,,,500.0,,,,,500.0,hco,orion,2017,46,
 Hôspital du Valais (CHVR),Sion,CH,Avenue Grand-Champsec 80,1951,,,2750.0,,,,,2750.0,hco,allergan,2016,11,
 Höpilal de Morges (EHC) - Pharmacie Interhospitaliere de la Cötes,Morges,CH,Chemin du Cret 2,,,5591.9,0.0,0.0,0.0,0.0,0.0,5591.9,hco,takeda,2015,68,
 Höpilal du Jura. Site de Porrentruy (H-JU) - Medecine Physique et Reeducaticn,Porrentruy,CH,Chemin de l'Höpital 9,,,0.0,2600.0,0.0,0.0,0.0,0.0,2600.0,hco,takeda,2015,74,
@@ -4432,7 +4428,6 @@ IGOMED,Thun,CH,Höheweg 26a,,,0.0,4200.0,0.0,0.0,0.0,0.0,4200.0,hco,bayer,2016,1
 IGOMED,Thun,CH,Goldiwilstrasse 36a,,,6401.0,0.0,0.0,0.0,0.0,0.0,6401.0,hco,mundipharma,2015,128,
 IGOMED,Thun,CH,Goldiwilstrasse 36a,,,,2200.0,,,,,2200.0,hco,astrazeneca,2016,128,
 Igomed,Thun,CH,Goldiwilstrasse 36 a,,,,4000.0,,,,,4000.0,hco,mepha,2016,128,
-IGOMED,Thun,CH,Goldwilstrasse 36 a,,,0.0,0.0,0.0,0.0,3240.0,0.0,3240.0,hco,genzyme,2015,128,
 Igomed - Ärztenetzwerk,Thun,CH,Goldiwilstrasse 36a,,,6000.0,0.0,0.0,0.0,0.0,0.0,6000.0,hco,mundipharma,2016,128,
 IGOMED - Ärztenetzwerk Raum Thun,Thun,CH,Goldiwilstrasse 36a,,,5600.0,,,,,,5600.0,hco,mundipharma,2017,128,
 IGOMED Ärztenetzwerk Raum Thun,Thun,CH,Höheweg 26a,,,,2000.0,,,,,2000.0,hco,eli,2016,165,
@@ -4812,7 +4807,7 @@ Institution de Lavigny,Lavigny,CH,Route du Vignoble 60,,,0.0,1000.0,0.0,0.0,0.0,
 Institution de Lavigny,Lavigny,CH,Route du vignoble 60,,,,1000.0,,,,,1000.0,hco,merck,2017,179,
 Institution de Lavigny Site de Lavigny / Direction glnlrale,Lavigny,CH,Route du Vignoble 50,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis,2017,179,
 Instituto Oncologico della Svizzera Italiana,Bellinzona,CH,"Ospedale San Giovanni, Via Ospedale",,,3500.0,0.0,0.0,0.0,0.0,0.0,3500.0,hco,mundipharma,2016,9,
-Int. Osteopor Osis Found.,Nyon,CH,Rue Juste-Olivier 9,,,0.0,338428.9,0.0,0.0,0.0,0.0,338428.9,hco,amgen,2015,317
+Int. Osteopor Osis Found.,Nyon,CH,Rue Juste-Olivier 9,,,0.0,338428.9,0.0,0.0,0.0,0.0,338428.9,hco,amgen,2015,317,
 Int. Osteoporosis Foundation,Nyon,CH,Rue Duste-Olivier 9,,,531032.8,,,,,,531032.8,hco,ucb,2017,317,
 Int. Osteoporosis Foundation,Nyon,CH,Rue Juste-Olivier 9,,,,441673.41,,,,,441673.41,hco,amgen,2016,317,
 Int. Osteoporosis Foundation,Nyon,CH,Rue Juste-Olivier 9,,,,436061.0,,,,,436061.0,hco,amgen,2017,317,1.0
@@ -4833,7 +4828,7 @@ Intercontinental Cooperative ITP Study Group (ICIS),Basel,CH,Spitalstrasse 33,,,
 InterDigest,Zürich,CH,Toblerstrasse 51,,,,1500.0,,,,,1500.0,hco,abbvie,2017,116,
 InterDigest,Zürich,CH,Toblerstrasse 51,,,,1500.0,,,,,1500.0,hco,abbvie,2016,116,
 InterDigest,Zürich,CH,Toblerstrasse 51,,,,2000.0,,,,,2000.0,hco,gilead,2016,116,
-INTERDISZIPLINAERES AEZTENETZWERK,Zürich,CH,Bahnhofplatz 4,,,,8000.0,,,,,8000.0,hco,sandoz,2016,528
+INTERDISZIPLINAERES AEZTENETZWERK,Zürich,CH,Bahnhofplatz 4,,,,8000.0,,,,,8000.0,hco,sandoz,2016,528,
 Interdisziplinäres Ärztenetzwerk Zürich iNetz,Zürich,CH,Bahnhofplatz 4,,,,4000.0,,,,,4120.0,hco,mepha,2017,528,1.0
 Interessegruppe Herzinsuffizienz-Beraterinnen (IG-HIB),Güttingen,CH,Grauensteinstr. 5a,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,servier,2015,1758,1.0
 Interessengemeinschaft Nephrologie Der Deutschen Schweiz,Binningen,CH,,,,0.0,2400.0,0.0,0.0,0.0,0.0,2400.0,hco,amgen,2015,1759,1.0
@@ -4984,7 +4979,6 @@ Kantonspital Münsterlingen,Münsterlingen,CH,Spitalcampus 1,,,,,,,,41.0,41.0,hc
 "Kantonspital St. Gallen, Muskelzentrum / ALS Klinik",St. Gallen,CH,Rorschacherstrasse 111,,,,6000.0,,,,,6000.0,hco,csl,2016,5,
 Kantonspital St.Gallen Brust Zentrum,St. Gallen,CH,Kantonspital St.Gallen Brust Zentrum,9007,,,2160.0,,,,,2160.0,hco,eisai,2017,5,
 Kantonspital St.Gallen Brustzentrum,St. Gallen,CH,,,,,2160.0,,,,,2160.0,hco,eisai,2016,5,
-Kantonspital Winterthur,Winterthur,CH,Brauerstr. 15,,,0.0,2930.0,0.0,0.0,1080.0,0.0,4010.0,hco,genzyme,2015,12,
 Kantonspital Winterthur,Winterthur,CH,Brauerstrasse 15,,,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,hco,merck,2015,12,
 Kantonspital Winterthur,Winterthur,CH,Brauerstr. 15,,,0.0,2930.0,0.0,0.0,1080.0,0.0,4010.0,hco,sanofi,2015,12,
 Kantonsspilal Winterthur - Medizinische Onkologie,Winterthur,CH,Brauerstrasse 15,,,,,,,2000.0,,2000.0,hco,takeda,2016,12,
@@ -5071,7 +5065,6 @@ Kantonsspital Aarau AG,Aarau,CH,Tellstrasse,5001,,0.0,22330.0,598.0,0.0,15089.0,
 Kantonsspital Aarau AG,Aarau,CH,Tellstrasse,,,18000.0,12800.0,1625.0,13051.0,13580.0,0.0,59057.0,hco,roche,2016,10,
 Kantonsspital Aarau AG,Aarau,CH,Kantonsspital Aarau AG Teilstrasse,,,,11200.0,611.65,1676.25,12500.0,,25987.9,hco,msd,2016,10,
 Kantonsspital Aarau AG,Aarau,CH,"Tellstrasse, Aarau",,,0.0,8270.0,0.0,0.0,750.0,0.0,9020.0,hco,janssen,2015,10,
-Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,0.0,38982.41,0.0,0.0,8100.0,7515.1,54597.51,hco,genzyme,2015,10,
 Kantonsspital Aarau AG,Aarau,CH,Tellstrasse,,,0.0,3500.0,2998.72,5494.42,0.0,0.0,11993.14,hco,amgen,2015,10,
 Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,,40000.0,,,,,40000.0,hco,csl,2017,10,
 Kantonsspital Aarau AG,Aarau,CH,Tellstrasse,,,456.88,0.0,0.0,0.0,0.0,0.0,456.88,hco,actelion,2015,10,
@@ -5244,7 +5237,6 @@ Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,3000.0,772.0,4118.0,1
 Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,94144.15,1074.0,1013.34,8611.49,4320.0,,109162.98,hco,gilead,2016,10005,
 Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,7739.0,,,,,,7739.0,hco,mundipharma,2017,10005,
 Kantonsspital Baselland Laufen,Liestal,CH,Mühlemattstrasse 26,,,0.0,500.0,0.0,0.0,1250.0,0.0,1750.0,hco,sanofi,2015,10007,
-Kantonsspital Baselland Laufen,Liestal,CH,Mühlemattstrasse 26,,,0.0,500.0,0.0,0.0,1250.0,0.0,1750.0,hco,genzyme,2015,10007,
 Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,,,,,,,5000.0,2800.0,7800.0,hco,msd,2017,10005,
 Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,4410,,0.0,0.0,1668.68,2107.28,4400.0,0.0,8175.96,hco,roche,2017,10005,
 Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,4410,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,boehringer,2015,10005,
@@ -5325,7 +5317,6 @@ Kantonsspital Glarus AG,GLARUS,CH,Burgstrasse 99,,,0.0,2000.0,0.0,0.0,0.0,0.0,20
 Kantonsspital Glarus AG,Glarus,CH,Burgstrasse 99,,,,1000.0,,,,,1000.0,hco,lundbeck,2017,64,
 Kantonsspital Glarus Ag,Glarus,CH,Burgstr. 99,8750,,,1000.0,,,1000.0,,2000.0,hco,sanofi,2017,64,
 Kantonsspital Glarus AG,Glarus,CH,Burgstrasse 99,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,glaxosmithkline,2017,64,
-KANTONSSPITAL GLARUS AG,Glarus,CH,Burgstr. 99,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,genzyme,2015,64,
 KANTONSSPITAL GLARUS AG,Glarus,CH,Burgstr. 99,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,sanofi,2015,64,
 "Kantonsspital Glarus AG, Frauenklinik",Glarus,CH,Burgstrasse 99,,,,1000.0,,,,,1000.0,hco,vifor,2017,64,
 Kantonsspital Glarus Frauenklinik,Glarus,CH,Burgstrasse 99,,,,1000.0,,,,,1000.0,hco,lundbeck,2016,64,
@@ -5596,7 +5587,6 @@ Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,,3000.0,,,,,3000.
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,,2269.0,,,,,2269.0,hco,future,2016,5,
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstr. 95,9000,,0.0,10950.0,0.0,0.0,0.0,0.0,10950.0,hco,orion,2015,5,
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,,29700.0,484.0,782.0,13619.0,420.0,45005.0,hco,pfizer,2016,5,
-Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,40000.0,0.0,0.0,0.0,0.0,0.0,40000.0,hco,genzyme,2015,5,
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,0.0,9000.0,0.0,0.0,0.0,0.0,9000.0,hco,daiichi,2015,5,
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,54500.0,15900.0,5694.35,9796.74,26054.48,921.95,112867.52,hco,novartis,2016,5,
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,13500.0,25920.0,6618.39,14675.84,7639.86,925.78,69279.87,hco,gilead,2015,5,
@@ -7162,7 +7152,7 @@ Parkinson Schweiz,Egg,CH,Gewerbestrasse 12a,,,500.0,8000.0,0.0,0.0,0.0,0.0,8500.
 Parkinson Schweiz,Egg,CH,Gewerbestrasse 12a,,,,5000.0,,,,,5000.0,hco,teva,2017,678,1.0
 Pathologie Institut Enge,Zürich,CH,"Hardturmstrasse 133, 5. Stock",8005,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hco,roche,2017,1009,1.0
 Pathologie Institut Enge,Zürich,CH,Hardturmstrasse 133,,,0.0,0.0,0.0,0.0,0.0,1500.0,1500.0,hco,roche,2016,1009,
-Pathologie Institut Enge Tödistrasse 48 Zürich,Zürich,CH,Tödistrasse 48,8002,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hco,roche,2015,1009
+Pathologie Institut Enge Tödistrasse 48 Zürich,Zürich,CH,Tödistrasse 48,8002,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hco,roche,2015,1009,
 Pathologie Länggasse Bern,Ittigen,CH,Worblentalstrasse 32 West,,,0.0,0.0,0.0,0.0,1200.0,1500.0,2700.0,hco,roche,2016,1010,
 Pathologie Länggasse Bern,Bern,CH,Forstweg 56,3001,,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,hco,roche,2017,1010,1.0
 Pathologie Länggasse Gemeinschaftspraxis für Histopathologie,Bern,CH,Forstweg 56,3012,,0.0,0.0,0.0,0.0,2500.0,0.0,2500.0,hco,roche,2015,1010,
@@ -7400,7 +7390,6 @@ Praxis Villiger & DiaMon AG,Baden,CH,Mellingerstrasse 207,,Praxis_Villiger_&_Dia
 Praxis Villiger & DiaMon AG,Baden,CH,Mellingerstrasse 207,,,,850.0,,,,,850.0,hco,vifor,2016,332,
 Praxis Villiger & DiaMon AG,Dättwil AG,CH,Mellingerstrasse 207,,,,,,,850.0,,850.0,hco,novartis,2016,332,
 Praxis Villiger & DiaMon AG,Baden,CH,Mellingerstrasse 207,,,,2550.0,,,,,2550.0,hco,novo,2017,332,
-Praxis Villiger & DiaMon AG - Aerztezentrum Täfernhof,Baden-dättwil,CH,Mellingerstr. 207,,,0.0,500.0,0.0,0.0,1200.0,0.0,1700.0,hco,genzyme,2015,332,
 Praxis Villiger & DiaMon AG - Aerztezentrum Täfernhof,Baden-Dättwil,CH,Mellingerstr. 207,,,,,,,1000.0,2000.0,3000.0,hco,sanofi,2016,332,
 Praxis Villiger & Diamon AG - Aerztezentrum Täfernhof,Baden-Dättwil,CH,Mellingerstr. 207,5405,,,,,,5000.0,,5000.0,hco,sanofi,2017,332,
 Praxis Villiger & DiaMon AG - Aerztezentrum Täfernhof,Baden-dättwil,CH,Mellingerstr. 207,,,0.0,500.0,0.0,0.0,1200.0,0.0,1700.0,hco,sanofi,2015,332,
@@ -7735,7 +7724,7 @@ Regionalspital Emmental AG Spital Langnau,Langnau i. E.,CH,Dorfbergstrasse 10,35
 Regionalspital Emmental AG Spital Langnau,Langnau i. E.,CH,Dorfbergstrasse 10,3550,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,boehringer,2016,85,
 Regionalspital Emmental AG Spital Langnau,Langnau i. E.,CH,Regionalspital Emmental AG -Spital Langnau Dorfbergstrasse 10,,,,2000.0,,,,,2000.0,hco,msd,2016,85,
 Regionalspital Surselva,Ilanz,CH,Spitalstrasse 6,,,500.0,0.0,0.0,0.0,0.0,0.0,500.0,hco,mundipharma,2015,291,
-Regionalspital Surselva AG,Llanz,CH,Spitalstrasse 6,,,0.0,3500.0,0.0,0.0,0.0,0.0,3500.0,hco,daiichi,2015,291
+Regionalspital Surselva AG,Llanz,CH,Spitalstrasse 6,,,0.0,3500.0,0.0,0.0,0.0,0.0,3500.0,hco,daiichi,2015,291,
 Regionalspital Surselva AG,Nanz,CH,Spitalstrasse 6,,,,500.0,,,,,500.0,hco,gilead,2016,291,
 Regionalspital Surselva AG,Ilanz,CH,Spitalstrasse 6,7130,40701314,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer,2017,291,
 Regionalspital Surselva AG,Ilanz,CH,Spitalstrasse 6,,,,1000.0,,,,,1000.0,hco,bristol,2017,291,1.0
@@ -8068,7 +8057,7 @@ SAMM,St. Gallen,CH,Kolumbanstrasse 2,,,0.0,11350.0,0.0,0.0,0.0,0.0,11350.0,hco,b
 SAMM (Schweizerische Aerztegesellschaft für Manuelle Medizin),St. Gallen,CH,Kolumbanstr. 2,,,,2754.0,,,,,2754.0,hco,vifor,2016,100,
 SAMM - Schweizerische Ärztegesellschaft für Manuelle Medizin,St. Gallen,CH,Kolumbanstrasse 2,9008,SAMMStGallen,,5610.0,,,,,5610.0,hco,servier,2017,100,
 SAMMSU,Basel,CH,Birsigstrasse 10 c/o Dr. med. Claude Scheidegger,,,50000.0,,,,,,50000.0,hco,gilead,2017,694,1.0
-SAMMSU SWISS ASSOCIATION FOR THE MEDICAL MANAGEMENT,Basel,CH,Hammerstrasse,,,,50000.0,,,,,50000.0,hco,gilead,2016,694
+SAMMSU SWISS ASSOCIATION FOR THE MEDICAL MANAGEMENT,Basel,CH,Hammerstrasse,,,,50000.0,,,,,50000.0,hco,gilead,2016,694,
 SAMMSU Swiss Association for the medical Management in Substance Users,Basel,CH,c/o Dr. med. Claude Scheidegger,,,20000.0,,,,,,20000.0,hco,abbvie,2016,694,
 SAMMSU SwissAssoaation for the medical Management in Substance Users,Basel,CH,c/o Dr. med. Claude Scheidegger,,,20000.0,0.0,0.0,0.0,0.0,0.0,20000.0,hco,abbvie,2015,694,
 SAMO,Bern,CH,Effingerstrasse 40,,,12000.0,0.0,0.0,0.0,0.0,0.0,12000.0,hco,mundipharma,2015,26,
@@ -8610,7 +8599,6 @@ See-Spital Standort Horgen,Horgen,CH,Asylstrasse 19,,,,,295.0,253.0,,,548.0,hco,
 See-Spital Standort Horgen,Horgen,CH,Asylstrasse 19,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis,2015,51,
 See-Spital Standort Horgen,Horgen,CH,Asylstrasse 19,8810,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca,2015,51,
 See-Spital Standort Horgen,Horgen,CH,Asylstr. 19,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hco,sanofi,2015,51,
-See-Spital Standort Horgen,Horgen,CH,Asylstr. 19,,,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0,hco,genzyme,2015,51,
 See-Spital Standort Horgen,Horgen,CH,Asylstrasse 19,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,servier,2015,51,
 See-Spital Standort Horgen,Horgen,CH,See-Spital Standort Horgen Asylstrasse 19,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,msd,2015,51,
 See-Spital Standort Horgen,Horgen,CH,Asylstrasse 19,8810,SeeSpitalHorgen,,500.0,,,,,500.0,hco,servier,2017,51,
@@ -8819,7 +8807,6 @@ SGKA/SSAP - Schweizerische Gesellschaft für Kinderanästhesie,Bellinzona,CH,c/o
 SGKA/SSAP - Schweizerische Gesellschaft für Kinderanästhesie,Bellinzona,CH,c/o Anesthesia Pediatrica Ospedale S. Giovanni,,,,5000.0,,,,,5000.0,hco,abbvie,2016,708,
 SGKA/SSAP - Schweizerische Gesellschaft für Kinderanästhesie,Bellinzona,CH,c/o Anesthesia Pediatrica Ospedale S. Giovanni,,,,5000.0,,,,,5000.0,hco,abbvie,2017,708,1.0
 SGKN - Schweizerische Gesellschaft für Klinische Neurophysiologie,Oberentfelden,CH,Blumenweg 13,,,0.0,8500.0,0.0,0.0,0.0,0.0,8500.0,hco,sanofi,2015,142,
-SGKN - Schweizerische Gesellschaft für Klinische Neurophysiologie,Oberentfelden,CH,Blumenweg 13,,,0.0,8500.0,0.0,0.0,0.0,0.0,8500.0,hco,genzyme,2015,142,
 SGKN - Schweizerische Gesellschaft für Klinische Neurophysiologie,Oberentfelden,CH,Blumenweg 13,5036,,,12000.0,,,,,12000.0,hco,sanofi,2017,142,
 SGKN Geschäftsstelle,Oberentfelden,CH,Blumenweg 13,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,ucb,2015,142,
 SGKN Geschäftsstelle,Oberentfelden,CH,Blumenweg 13,,,,5000.0,,,,,5000.0,hco,ucb,2017,142,
@@ -8952,7 +8939,6 @@ SIOG,Genève,CH,Route des Morillons 1-5,,,0.0,30677.24,0.0,0.0,0.0,0.0,30677.24,
 SIOG (The International Society of Geriatric Oncology  ),Genève,CH,1-5 Route des Morillons; P.O Box,2100,,7983.48,,,,,,7983.48,hco,merck,2017,135,
 SIOG - International Society Of Geriatric Oncology,Genève,CH,1-5 Route Des Morillons,,,,80000.0,,,,,80000.0,hco,celgene,2017,135,1.0
 SIOG International Society of Geriatric Oncology,Genève,CH,"1-5, route des Morillons PO Box",2100,,0.0,59556.0,0.0,0.0,0.0,0.0,59556.0,hco,sanofi,2015,135,
-SIOG International Society of Geriatric Oncology,Genève,CH,"1-5, route des  Morillons PO Box",2100,,0.0,59556.0,0.0,0.0,0.0,0.0,59556.0,hco,genzyme,2015,135,
 SIOG International Society Of Geriatric Oncology,Genève,CH,"1-5, route des Morillons PO Box",1211,,,36480.2,,,,,36480.2,hco,sanofi,2017,135,
 SIOG International Society of Geriatric Oncology,Genève,CH,Route des Morillons 1-5,,,0.0,0.0,17370.0,0.0,0.0,0.0,17370.0,hco,celgene,2015,135,
 SIOG International Society of Geriatric Oncology,Genève,CH,"1-5, route des Morillons PO Box",2100,,45672.0,62255.25,,,,,107927.25,hco,sanofi,2016,135,
@@ -9320,7 +9306,6 @@ Spital Münsingen,Münsingen,CH,Krankenhausweg 18,,,0.0,1000.0,0.0,0.0,0.0,0.0,1
 Spital Netz Bern AG,Bern,CH,Morillonstrasse 77,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,glaxosmithkline,2015,718,1.0
 Spital Netz Bern AG,Belp,CH,Seftigenstrasse 89/91,,,0.0,400.0,0.0,0.0,1000.0,0.0,1400.0,hco,abbvie,2015,718,
 Spital Netz Bern AG,Bern,CH,Morillionstr. 77,,,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0,hco,sanofi,2015,718,
-Spital Netz Bern AG,Bern,CH,Morillionstr. 77,,,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0,hco,genzyme,2015,718,
 Spital Oberengadin,Samedan,CH,Via Nouva 3,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca,2017,466,
 Spital Oberengadin,Samedan,CH,Via Nouva 3,,,500.0,0.0,0.0,0.0,0.0,0.0,500.0,hco,abbvie,2015,466,
 Spital Oberengadin,Samedan,CH,Via Nouva 3,,,,2000.0,,,,,2000.0,hco,astrazeneca,2016,466,
@@ -9362,7 +9347,6 @@ Spital Schwyz,Schwyz,CH,Waldeggstrasse 10,,,0.0,0.0,560.14,2877.52,0.0,0.0,3437.
 Spital Schwyz,Schwyz,CH,Spital Schwyz Waldeggstrasse 10,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,msd,2015,40,
 Spital Schwyz,Schwyz,CH,Waldeggstrasse 10,,,,,554.4,1134.01,,,1688.41,hco,amgen,2016,40,
 Spital Schwyz,Schwyz,CH,Waldeggstrasse 10,,,,3240.0,,,,,3240.0,hco,pfizer,2016,40,
-Spital Schwyz,Schwyz,CH,Waldeggstr. 10,,,0.0,6555.55,0.0,0.0,0.0,0.0,6555.55,hco,genzyme,2015,40,
 Spital Schwyz,Schwyz,CH,Waldeggstrasse 10,,,,3000.0,,,,,3000.0,hco,menarini,2017,40,
 Spital Schwyz,Schwyz,CH,Waldeggstrasse 10,,,,3000.0,,,,,3000.0,hco,msd,2017,40,
 Spital Schwyz,Schwyz,CH,Spital Schwyz Waldeggstrasse 10,,,,3000.0,,,,,3000.0,hco,msd,2016,40,
@@ -9433,7 +9417,6 @@ Spital Thurgau AG,Frauenfeld,CH,Debitorenbuchhaltung,,,0.0,1500.0,0.0,0.0,0.0,0.
 Spital Thurgau AG,Frauenfeld,CH,Waldeggstrasse 8,,,,2315.0,,,,,2315.0,hco,novo,2016,13,
 Spital Thurgau AG,FRAUENFELD,CH,Waldeggstrasse 8a,,,0.0,540.0,0.0,0.0,0.0,0.0,540.0,hco,glaxosmithkline,2016,13,
 Spital Thurgau AG,Frauenfeld,CH,Waldeggstrasse 8a,,,,2750.0,,,,,2750.0,hco,msd,2017,13,
-Spital Thurgau AG,Frauenfeld,CH,Waldeggstr. 8,,,0.0,1680.0,0.0,0.0,2160.0,0.0,3840.0,hco,genzyme,2015,13,
 Spital Thurgau AG,Frauenfeld,CH,Waldeggstrasse 8a,,,,,,,1000.0,,1000.0,hco,ferring,2017,13,
 Spital Thurgau AG,Frauenfeld,CH,Waldeggstrasse 8a,,,0.0,7360.0,0.0,0.0,0.0,0.0,7360.0,hco,pfizer,2015,13,
 Spital Thurgau AG,Frauenfeld,CH,Waldeggstrasse 8a,,,,1000.0,,,,,1000.0,hco,biogen,2017,13,
@@ -10164,7 +10147,6 @@ Swiss Association of Obstetric Anästhesia SAOA,Genève,CH,Rue Gabrielle-Perret-
 Swiss Association of Obstetric Anästhesia SAOA,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,1500.0,,,,,1500.0,hco,abbvie,2017,731,1.0
 Swiss Association of Pharmaceutical - Professionals SwAPP,Bern,CH,P.O.box,3000,,,2200.0,,,,,2200.0,hco,sanofi,2017,471,1.0
 Swiss Association of Pharmaceutical Professionals,BERN,CH,Postfach,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,glaxosmithkline,2016,1107,
-Swiss Association of Pharmaceutical Professionals (SwAPP),Bern,CH,P.O.box,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,genzyme,2015,471,
 Swiss Association of Pharmaceutical Professionals (SwAPP),Bern,CH,POBox,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis,2015,471,
 Swiss Association of Pharmaceutical Professionals (SwAPP),Bern,CH,P.O.box,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,sanofi,2015,471,
 Swiss Association of Pharmaceutical Professionals,Bern,CH,Postfach,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,glaxosmithkline,2017,1107,1.0
@@ -10703,7 +10685,6 @@ Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,53000.0,38500.0,,,7700.0
 Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,0.0,0.0,0.0,206.75,1456.0,0.0,1662.75,hco,otsuka,2015,10011,
 Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,,5240.0,,,1512.0,,6752.0,hco,pfizer,2016,10011,
 Universität Zürich - Rheumaklinik,Zürich,CH,Gloriastr. 25,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,sanofi,2015,1,
-Universität Zürich - Rheumaklinik,Zürich,CH,Gloriastr. 25,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,genzyme,2015,1,
 Universität Zürich / USZ Neurologie,Zürich,CH,Frauenklinikstr. 26,,,75000.0,0.0,0.0,0.0,0.0,0.0,75000.0,hco,merck,2015,1,
 Universität Zürich Klinik für Neurologie,Zürich,CH,Frauenklinikstrasse,,,,540.0,,,,,540.0,hco,eisai,2016,1,
 Universität Zürich Neurologie,Zürich,CH,Frauenklinikstrasse 26,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,biotest,2015,1,
@@ -11232,7 +11213,7 @@ Université de Genève Faculté de Médecine,Genève,CH,Rue Michel-Servet 1,,,31
 "Université de Genève, Faculté de Médecine, Dépt. universitaire de psychiatrie",Genève,CH,rue de Lausanne 20 bis,,,,2000.0,,,,,2000.0,hco,vifor,2017,146,
 Université de Lausanne,Lausanne,CH,Rue Du Bugnon 27,,WCHH07707971,,1111.11,,,,,1111.11,hco,celgene,2017,2466,1.0
 Université de Lausanne,Lausanne,CH,Service financier - Bâtiment Unithèque,,,10000.0,,,,,,10000.0,hco,servier,2016,2466,
-Université de Lausanne,Lausanne,CH,Unicentre,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,abbvie,2015,2466
+Université de Lausanne,Lausanne,CH,Unicentre,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,abbvie,2015,2466,
 Université de Neuchâtel,Neuchâtel,CH,Av. du 1er-Mars 26,,,0.0,0.0,6633.0,0.0,0.0,0.0,6633.0,hco,celgene,2015,2469,1.0
 Universtitätsspital Basel Medizinische Poliklinik,Basel,CH,Petersgraben 4,,,,,,2203.91,,,2203.91,hco,shire,2017,6,
 Universtiätsspital Basel,Basel,CH,Spitalstrasse 21,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hco,pierre,2015,6,
@@ -11483,7 +11464,7 @@ Vereinigung Zürcher Internisten,Zürich,CH,Birmensdorferstrasse 497,,,,3800.0,,
 Vereinigung Zürcher Internisten,Zürich,CH,Birmensdorferstrasse 497,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,astrazeneca,2017,172,
 Vereinigung Zürcher Internisten,Adliswil,CH,Felsenhofstrasse 36,,,,3800.0,,,,,3800.0,hco,amgen,2017,172,
 Vereinigung Zürcher Internisten,Zollikon,CH,,,,0.0,4104.0,0.0,0.0,0.0,0.0,4104.0,hco,glaxosmithkline,2015,172,
-Vereinigung Zürcher Internisten,Adliswil,CH,Felsenhofstrasse 36,,,,3800.0009999999997,,,,,3800.0009999999997,hco,daiichi,2016,172,
+Vereinigung Zürcher Internisten,Adliswil,CH,Felsenhofstrasse 36,,,,3800.001,,,,,3800.001,hco,daiichi,2016,172,
 Vereinigung Zürcher Internisten,ZOLLIKON,CH,(no postal address),,,0.0,4104.0,0.0,0.0,0.0,0.0,4104.0,hco,glaxosmithkline,2016,172,
 Vereinigung Zürcher Internisten,Zwillikon,CH,Haldenrain 18,,,3800.0,,,,,,3800.0,hco,mundipharma,2017,172,
 Vereinigung Zürcher Internisten,Adliswil,CH,Felsenhofstrasse 36,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,janssen,2017,172,
@@ -11605,7 +11586,7 @@ Zentrum für Herz und Blutdruck St. Anna,Luzern,CH,St. Annastrasse 32,,,0.0,5000
 Zentrum für Integrative Onkologie (ZIO AG),Zürich,CH,Hardturmstrasse 133,,,,3000.0,,,,,3000.0,hco,teva,2017,752,1.0
 Zentrum für integrative Onkologie Zürich,Zürich,CH,Hardturmstrasse 133,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astellas,2017,752,
 Zentrum für Labormedizin,St. Gallen,CH,Frohbergstrasse 3,,,8500.0,,,,,,8500.0,hco,novartis,2016,10014,1.0
-Zentrum für Labormedizin,St. Gallen,CH,Frohbergstrase 9,,,0.0,0.0,77.4,564.55,1000.0,96.0,1737.95,hco,baxalta,2015,10014
+Zentrum für Labormedizin,St. Gallen,CH,Frohbergstrase 9,,,0.0,0.0,77.4,564.55,1000.0,96.0,1737.95,hco,baxalta,2015,10014,
 Zentrum für Perioperative Thrombose Und Haemostase,Zürich,CH,Hufgasse 17,,,,,,,1000.0,,1000.0,hco,baxalta,2016,2539,1.0
 Zentrum für Psychische Gesundheit,Bern,CH,Marktgasse 50,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,takeda,2015,2540,1.0
 Zentrum für Schmerzmedizin,Nottwil,CH,Guido A. Zäch Strasse 1,,,,2268.0,,,,,2268.0,hco,pfizer,2016,113,
