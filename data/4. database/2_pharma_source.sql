@@ -8,7 +8,7 @@ INSERT INTO pharma_source (`phs_id`, `phs_fk_pharma`, `phs_source`) VALUES
 ('6', '6', 'https://www.amgen.ch/partners/'), 
 ('7', '7', 'https://www.astellas.ch/de/uber-astellas/transparenz/'), 
 ('8', '8', 'https://www.astrazeneca.com/country-sites/switzerland.html'), 
-('9', '25', 'http://www.basilea.com/Corporate/EFPIA-Disclosure-Code/'), 
+('9', '25', 'https://www.basilea.com/efpia-disclosure-code'), 
 ('10', '9', 'https://www.shire.com/who-we-are/how-we-operate/efpia-reporting'), 
 ('11', '10', 'http://www.baxter.ch/ueber_baxter/unternehmen/sub/unterstuetzte_organisationen.html'), 
 ('12', '11', 'https://www.bayer.ch/de/nachhaltigkeit/offenlegung-geldwerter-leistungen/'), 
