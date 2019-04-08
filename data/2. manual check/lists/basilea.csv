@@ -1,12 +1,17 @@
-name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-Benoit Guery,Lausanne,CH,"Rue du Bugon 46, 1011 Lausanne",,,,,,,1400,120,1520,hcp,basilea
-Christian Van Delden,Genf,CH,"Rue Gabrielle-Perret-Gentil 4 , 1205 Genf",,,,,,,3700,344,4044,hcp,basilea
-Daniel Goldenberger,Basel,CH,"Petersgraben 4, 4031 Basel",,,,,,,1400,112,1512,hcp,basilea
-Enos Bernasconi,Lugano,CH,"Via Tesserete 46, 6900 Lugano",,,,,,,1400,112,1512,hcp,basilea
-Jochen Grassinger,Zürich,CH,"Rämistrasse 100, 8091 Zürich",,,,,,,1400,192,1592,hcp,basilea
-Konrad Mühlethaler,Bern,CH,"Friedbülstrasse 51, 3001 Bern",,,,,,,1400,,1400,hcp,basilea
-Luigia Elzi,Bellinzona,CH,"Via G. Nizzola 8, 6500 Bellinzona",,,,,,,1400,96,1496,hcp,basilea
-Stefan Zimmerli,Bern,CH,"Inselspital Bern, Haus 5, 3010 Bern",,,,,,,1800,144,1944,hcp,basilea
-ESCMID - European Society of Clinical Microbiology and Infectious Diseases,Basel,CH,Clarastrasse 57,,,,128439,,,,,128439,hco,basilea
-FAMMID - Fondation Pour Le Progres En Mcrobiologie Medicale Et Maladies,Lausanne,CH,Pont-Bessiére 3,,,,10000,,,,,10000,hco,basilea
-SAFE ID - Swiss Academic Foundation For Education In Infectious Diseases,Bern,CH,Friedbuehlstrasse 51,,,,20000,,,,,20000,hco,basilea
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,year,source
+Benoit Guery,Lausanne,CH,"Rue du Bugon 46, 1011 Lausanne",,,,,,,1400,120,1520,hcp,2017,basilea
+Christian Van Delden,Genf,CH,"Rue Gabrielle-Perret-Gentil 4 , 1205 Genf",,,,,,,3700,344,4044,hcp,2017,basilea
+Daniel Goldenberger,Basel,CH,"Petersgraben 4, 4031 Basel",,,,,,,1400,112,1512,hcp,2017,basilea
+Enos Bernasconi,Lugano,CH,"Via Tesserete 46, 6900 Lugano",,,,,,,1400,112,1512,hcp,2017,basilea
+Jochen Grassinger,Zürich,CH,"Rämistrasse 100, 8091 Zürich",,,,,,,1400,192,1592,hcp,2017,basilea
+Konrad Mühlethaler,Bern,CH,"Friedbülstrasse 51, 3001 Bern",,,,,,,1400,,1400,hcp,2017,basilea
+Luigia Elzi,Bellinzona,CH,"Via G. Nizzola 8, 6500 Bellinzona",,,,,,,1400,96,1496,hcp,2017,basilea
+Stefan Zimmerli,Bern,CH,"Inselspital Bern, Haus 5, 3010 Bern",,,,,,,1800,144,1944,hcp,2017,basilea
+ESCMID - European Society of Clinical Microbiology and Infectious Diseases,Basel,CH,Clarastrasse 57,,,,128439,,,,,128439,hco,2017,basilea
+FAMMID - Fondation Pour Le Progres En Mcrobiologie Medicale Et Maladies,Lausanne,CH,Pont-Bessiére 3,,,,10000,,,,,10000,hco,2017,basilea
+SAFE ID - Swiss Academic Foundation For Education In Infectious Diseases,Bern,CH,Friedbuehlstrasse 51,,,,20000,,,,,20000,hco,2017,basilea
+Christian van Delden,Geneva,CH,4 Rue Gabrielle-Perret-Gentil,,,,,,,2363,124,2486,hcp,2016,basilea
+Martin Egger,Langnau,CH,Dorfbergstrasse 10,,,,,,,1400,16,1416,hcp,2016,basilea
+The Global Action Fund for Fungal Infections,Geneva,CH,Rue de L'Ancien-Port 14,,,,10000,,,,,10000,hco,2016,basilea
+Hospitaux Universitaire de Genève,Geneva,,Rue Gabrielle-Perret-Gentil 4,,,,3000,,,,,3000,hco,2016,basilea
+Hópital du Valais - Centre Hospitalier du Valais Romand (CHVR),Sion,,Avenue du Grand Champsec 86,,,,2000,,,,,2000,hco,2016,basilea
