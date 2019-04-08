@@ -2,24 +2,24 @@ name,location,address,type,donations_grants,sponsorship,registration_fees,travel
 Rolf A. Stahel,Zürich,Rämistrasse 100,hcp,0.0,0.0,0.0,26807.72,187368.2,42615.03,256790.95
 Johannes Bitzer,Basel,Schützenmattstrasse 54,hcp,0.0,0.0,0.0,14483.05,110510.48,54442.350000000006,179435.87
 Matti Aapro,Genolier,Route du Muids 3,hcp,0.0,0.0,333.0,0.0,118602.96,52781.549999999996,171717.5
-Jan Steffel,Zürich,Rämistrasse 100,hcp,0.0,0.0,0.0,2121.0,144220.04,5158.2699999999995,151499.30000000002
 Wolf-Henning Boehncke,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,0.0,993.02,89687.04000000001,59847.2,150527.25999999998
+Jan Steffel,Zürich,Rämistrasse 100,hcp,0.0,0.0,0.0,2121.0,143220.04,5158.2699999999995,150499.30000000002
 Michael Weller,Zürich,Frauenklinikstrasse 26,hcp,0.0,0.0,1639.0,40345.520000000004,64375.0,32939.21,139298.72999999998
 Gerhard Rogler,Zürich,Rämistrasse 100,hcp,0.0,0.0,768.94,17056.86,115296.09000000001,4970.89,138092.78
 Marc Donat,Basel,Petersgraben 4,hcp,0.0,0.0,0.0,9840.9,94319.28,14975.840000000002,119136.01999999999
 Jean Dudler,Fribourg,Chemin des Pensionnats 2,hcp,0.0,0.0,2065.0,19340.28,90822.98,4551.53,116779.79000000001
 Michele Ghielmini,Bellinzona,Via Ospedale,hcp,0.0,0.0,2621.55,20655.92,61480.88,24282.02,109041.37000000001
 Cem Gabay,Genève,Avenue de Beau-Séjour 26,hcp,0.0,0.0,1332.27,6849.1,67873.0,19359.25,95414.62
-Peter Wiesli,Frauenfeld,Pfaffenholzstrasse 4,hcp,0.0,0.0,1370.0,9351.0,65373.0,596.0,76690.0
+Peter Wiesli,Frauenfeld,Pfaffenholzstrasse 4,hcp,0.0,0.0,1370.0,9351.0,62873.0,596.0,74190.0
 Francesco Negro,Genève,Rue Gabrielle Perret-Gentil 4,hcp,0.0,0.0,2338.21,22976.13,39778.81,7954.22,73048.37
 Pierre Michetti,Lausanne,"Centre de Gastroentérologie Beaulieu S.A, Avenue Jomini 8",hcp,0.0,0.0,85.93,4356.27,60502.5,3320.0,68264.7
 Oliver Distler,Zürich,Gloriastrasse 25,hcp,0.0,0.0,822.37,7577.89,44380.76,15294.699999999999,68075.72
-Peter Schmid-Grendelmeier,Zürich,"Universitätsspital Zürich Dermatologische Klinik, Gloriastrasse 31",hcp,0.0,0.0,408.3,832.26,36572.24,25599.489999999998,63412.29000000001
 Erich Seifritz,Zürich,Lenggstrasse 31,hcp,0.0,0.0,0.0,641.0,59009.66,1402.3400000000001,61053.0
 Peter Siegrist,Zürich,"Herzpraxis Stadelhofen, Goethestrasse 20",hcp,0.0,0.0,2353.0,4572.0,51384.3,0.0,58309.3
 François Mach,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,3814.2799999999997,14346.980000000001,28558.79,10722.06,57442.11
 Bernard Waeber,Marly,Rte Mouettes 20,hcp,0.0,0.0,311.7,749.8,45576.34,7679.9,54317.64
 Claudius Irlé,Meyrin,Avenue J.-D.-Maillard 11,hcp,0.0,0.0,7330.190000000001,30464.74,15850.0,180.0,53824.93
+Peter Schmid-Grendelmeier,Zürich,"Universitätsspital Zürich Dermatologische Klinik, Gloriastrasse 31",hcp,0.0,0.0,408.3,832.26,31322.239999999998,20152.21,52715.01000000001
 Jeroen Goede,Winterthur,Brauerstrasse 15,hcp,0.0,0.0,4393.76,5198.85,39917.36,2718.54,52227.51
 Adrian Ciurea,Zürich,Gloriastrasse 25,hcp,0.0,0.0,1313.25,9532.3,40081.5,88.0,51014.05
 Curdin Conrad,Pully,Caudoz 48,hcp,0.0,0.0,0.0,0.0,38794.119999999995,10959.99,49754.11
@@ -40,16 +40,16 @@ Lars Asmis,Zürich,Hufgasse 17,hcp,0.0,0.0,65.0,1444.6,38560.0,0.0,40069.6
 Steffen Gay,Zürich,Gloriastrasse 25,hcp,0.0,0.0,0.0,7379.0,21588.0,11075.07,40042.07
 Philip Bruggmann,Zürich,Schützengasse 31,hcp,0.0,0.0,1895.91,3438.34,31951.33,2471.92,39757.5
 Isabella Sudano,Zürich,Rämistrasse 100,hcp,0.0,0.0,968.0,4502.299999999999,34250.0,0.0,39720.299999999996
-Nicolas von der Weid,Genève,Chemin Beau-Soleil 12,hcp,0.0,0.0,1511.26,8086.549999999999,28437.5,1319.0,39354.310000000005
 Alessandro Casini,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,2044.0,12320.47,24659.0,0.0,39023.47
 Miklos Pless,Winterthur,Brauerstrasse 15,hcp,0.0,0.0,2360.33,11108.960000000001,24600.0,862.0,38931.29
+Nicolas von der Weid,Genève,Chemin Beau-Soleil 12,hcp,0.0,0.0,1511.26,8086.549999999999,27637.5,1319.0,38554.310000000005
 Thomas Felix Lüscher,Zürich,Hottingerstrasse 14,hcp,0.0,0.0,0.0,7264.9,27240.09,3947.2200000000003,38452.21
 Olivier Michielin,Lausanne,Rue du Bugnon 46,hcp,0.0,0.0,3431.0,28236.0,4750.0,1409.0,37826.0
 Katja Birgit Hatz,Binningen,"Vista Klinik Ophthalmologische Klinik, Hauptstrasse 55",hcp,0.0,0.0,1039.25,15865.5,15100.95,5670.76,37676.45
 Donat Rudolf Spahn,Zürich,Rämistrasse 100,hcp,0.0,0.0,0.0,0.0,17279.5,20221.58,37501.08
-Markus G. Manz,Zürich,Rämistrasse 100,hcp,0.0,0.0,0.0,0.0,27795.87,9610.880000000001,37406.75
 Frank Ruschitzka,Zürich,"UniversitätsSpital Zürich, Rämistrasse 100",hcp,0.0,0.0,555.8,18215.739999999998,16397.66,2087.49,37256.7
 Giatgen Spinas,Zürich,Universitätsspital Zürich Rämistrasse 100,hcp,0.0,0.0,1742.62,8677.35,25235.260000000002,1052.68,36707.91
+Markus G. Manz,Zürich,Rämistrasse 100,hcp,0.0,0.0,0.0,0.0,26545.87,9610.880000000001,36156.75
 Emmanuel Laffitte,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,1416.65,3126.2,29700.0,1278.3600000000001,35521.21000000001
 Christian Clarenbach,Zürich,Rämistrasse 100,hcp,0.0,0.0,1245.59,3563.05,23806.25,6750.0,35364.89
 Luc Biedermann,Zürich,Rämistrasse 100,hcp,0.0,0.0,816.57,3828.5,28690.0,1838.0,35173.07
@@ -58,20 +58,19 @@ Christian Surber,Basel,Transdermic International Inc.,hcp,0.0,0.0,389.8,4397.1,2
 Günter Krämer,Zürich,Neurozentrum Bellevue Theaterstrasse 8,hcp,0.0,0.0,0.0,0.0,32419.91,1226.67,33646.58
 Claudine Helg,Genève,Rue Maunoir 26,hcp,0.0,0.0,5632.610000000001,22723.59,5062.5,0.0,33418.700000000004
 Claudia Steurer-Stey,Zürich,Rotbuchstrasse 46,hcp,0.0,0.0,933.59,1040.92,31150.0,0.0,33124.51
-Georg Noll,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,0.0,0.0,23492.22,9371.03,32863.25
+Georg Noll,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,0.0,0.0,22242.22,9371.03,31613.25
 Christian Schmied,Zürich,Rämistrasse 100,hcp,0.0,0.0,483.0,2144.35,27638.0,1217.83,31483.18
 Bernhard Sauter,Zürich,Witellikerstrass e 40,hcp,0.0,0.0,1178.0299999999997,17921.44,12300.0,0.0,31399.47
 Roland Martin,Zürich,Frauenklinikstrasse 26,hcp,0.0,0.0,0.0,872.16,19110.0,11413.0,31395.16
 Peter Villiger,Bern,Freiburgstrasse 18,hcp,0.0,0.0,322.0,9120.0,21284.0,481.0,31208.0
 Roger Lehmann,Zürich,Rotbuchstrasse 43,hcp,0.0,0.0,370.96,2773.53,25880.0,2103.9700000000003,31128.46
-Daniel Noth,Unterseen,Spitalweg 1,hcp,0.0,500.0,865.0,4961.64,24050.0,341.0,30717.64
 Daniel Fuchs,Zürich,Laternengasse 4,hcp,0.0,0.0,1167.0,1624.0,26600.0,927.0,30318.0
-Regula Honegger,Horgen,Seestrasse 117,hcp,0.0,0.0,868.0,4311.0,25100.0,0.0,30279.0
 Anne Angelillo-Scherrer,Bern,Freiburgstrasse 18,hcp,0.0,0.0,1922.2,25465.1,2000.0,626.45,30013.75
 Thomas Kühne,Basel,Spitalstrasse 33,hcp,0.0,0.0,1362.0,11803.05,13969.7,2568.81,29703.559999999998
 Daniel Konrad,Zürich,Steinwiesstrasse 75,hcp,0.0,0.0,3474.0,21564.0,3398.37,1000.78,29437.15
 Johannes Von Kempis,St. Gallen,Rorschacher Strasse 95,hcp,0.0,0.0,425.0,1088.0,27210.97,600.11,29324.08
 Jean Philippe von Burg,Solothurn,Onkologiezentrum,hcp,0.0,0.0,1380.8700000000001,6206.92,21684.0,0.0,29270.79
+Daniel Noth,Unterseen,Spitalweg 1,hcp,0.0,500.0,865.0,4961.64,22550.0,341.0,29217.64
 Cord von Restorff,Männedorf,Asylstrasse 84,hcp,0.0,0.0,4240.91,21725.750000000004,3010.0,0.0,28976.66
 Alexander Meisel,Zürich,Tièchestrasse 99,hcp,0.0,0.0,2956.7599999999998,11148.32,11876.0,2590.29,28571.37
 Daniel Georgiev Koychev,Rapperswil SG,Alte Jonastrasse 24,hcp,0.0,0.0,2265.62,9831.699999999999,16150.0,0.0,28247.32
@@ -80,14 +79,16 @@ Anne-Karine Lapointe,Lausanne,Avenue du Théatre 7,hcp,0.0,0.0,3117.7,7724.32,16
 Philippe Snozzi,Zürich,Bahnhofplatz 2,hcp,0.0,0.0,691.0,867.0,26250.0,352.0,28060.0
 Patric Kurmann,Neuchâtel,Rue Du Seyon 10,hcp,0.0,0.0,4542.599999999999,11167.03,12325.0,0.0,28034.629999999997
 Xavier Tenorio,Genève,Chemin Rieu 18,hcp,0.0,0.0,0.0,0.0,27600.0,355.0,27955.0
-Daniela Sofra,Lausanne,Avenue de la Gare 11,hcp,0.0,0.0,770.8299999999999,2823.1099999999997,23398.0,900.0,27891.94
 Markus Gerber,Bern,Spitalgasse 29,hcp,0.0,0.0,7029.39,18951.71,1850.0,0.0,27831.100000000002
+Regula Honegger,Horgen,Seestrasse 117,hcp,0.0,0.0,868.0,4311.0,22650.0,0.0,27829.0
 Christoph Mamot,Aarau,Tellstrasse 25,hcp,0.0,0.0,2704.89,13161.74,11350.0,0.0,27216.63
 Veronika Vaclavik,Genève,"Cabinet Veronika Vaclavik, Avenue de la Roseraie 76B",hcp,0.0,0.0,0.0,0.0,27176.0,0.0,27176.0
 Robert Emil Hunger,Bern,Freiburgstrasse 18,hcp,0.0,0.0,334.0,1369.05,25100.0,120.61,26923.66
+Christian Van Delden,Genève,Rue Gabrielle-Perret -Gentil 4,hcp,0.0,0.0,673.12,3967.2,19990.3,2269.1,26900.72
 Christian Breymann,Zürich,"GGS - Gynäkologie & Geburtshilfe Seefeld, Seefeldstrasse 214",hcp,0.0,0.0,0.0,0.0,13890.0,12953.99,26843.99
 Rüdiger Müller,St. Gallen,Rorschacher Strasse 95,hcp,0.0,0.0,898.0,7508.0,17741.67,165.07,26313.739999999998
 Matthias Liechti,Basel,Petersgraben 4,hcp,0.0,0.0,572.0,716.0,24800.0,66.67,26154.67
+Daniela Sofra,Lausanne,Avenue de la Gare 11,hcp,0.0,0.0,770.8299999999999,2823.1099999999997,21274.0,900.0,25767.94
 Pierre-André Guerne,Genève,Avenue de Beau-Séjour 26,hcp,0.0,0.0,1495.75,1783.6,22225.0,88.0,25592.35
 Axel Finckh,Genève,Avenue de Beau-Séjour 26,hcp,0.0,0.0,0.0,6428.0,18980.0,99.3,25507.3
 Michele Zoppi,Bern,"Gruppenpraxis, Morillonstrasse 77",hcp,0.0,0.0,2000.66,16871.0,6400.0,0.0,25272.660000000003
@@ -110,7 +111,6 @@ Natalie Fischer,Winterthur,Brauerstrasse 15,hcp,0.0,0.0,3299.87,15914.5299999999
 Michael Seitz,Bern,Freiburgstrasse 18,hcp,0.0,0.0,1636.6599999999999,7975.85,13163.0,197.0,22972.510000000002
 Thierry Ettlin,Rheinfelden,Salinenstrasse 98,hcp,0.0,0.0,0.0,0.0,22356.0,530.0,22886.0
 Beat Michel,Winterthur,Sonnenbergstrasse 12,hcp,0.0,0.0,0.0,0.0,22500.0,197.0,22697.0
-Marcus Charles Klaus Schories,Basel,Bethesda Spital AG Gellertstrasse 142,hcp,0.0,0.0,0.0,920.0,21600.0,166.0,22686.0
 Christine Maria Thürig,Bern,Monbijoustrasse 10,hcp,0.0,0.0,2538.98,6042.48,14000.0,0.0,22581.46
 Ernst Wilhelm Radü,Basel,Universitätsspital Basel Hebelstrasse 20,hcp,0.0,0.0,673.9,871.3599999999999,20302.5,662.19,22509.95
 Laetitia Arja Mauti,Winterthur,Postfach 8,hcp,0.0,0.0,1285.3,5104.4,15170.0,867.9,22427.600000000002
@@ -123,29 +123,28 @@ Rolf Peter Fehr,Zürich,Hardturmstrasse 11,hcp,0.0,0.0,3371.4999999999995,15737.
 Max Solenthaler,Thun,Krankenhausstrasse 12,hcp,0.0,0.0,4394.58,12996.199999999999,3770.0,303.96000000000004,21464.74
 Christoph Renner,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,2402.19,9339.119999999999,5653.0,3938.0,21332.309999999998
 Alexander Möller,Zürich,Universitäts-Kinderspital Zürich Steinwiesstrasse 75,hcp,0.0,0.0,748.0,2312.0,18175.0,0.0,21235.0
-Beatrice Amann-Vesti,Zürich,Seestrasse 220,hcp,0.0,0.0,0.0,0.0,21184.0,0.0,21184.0
-Karim El-Haschimi,Baden,Bahnhofplatz 1,hcp,0.0,0.0,457.5,2333.65,18281.260000000002,0.0,21072.41
 Ralph Michel Trüeb,Wallisellen,"Praxis Ralph Michel Trüeb, Bahnhofplatz 1A",hcp,0.0,0.0,728.01,4613.46,15600.0,92.0,21033.47
 Peter Philipp Schöneborn,Zürich,Holbeinstrasse 25,hcp,0.0,0.0,3593.35,15801.75,1100.0,504.0,21029.1
 Beat Helbling,Zürich,Toblerstrasse 51,hcp,0.0,0.0,2314.87,10189.52,8301.33,166.67,20972.39
 Martin Kägi,Zürich,Schaffhauserstrasse 355,hcp,0.0,0.0,4726.96,11339.62,4100.0,750.0,20917.58
+Marcus Charles Klaus Schories,Basel,Bethesda Spital AG Gellertstrasse 142,hcp,0.0,0.0,0.0,920.0,19800.0,166.0,20886.0
 Serdar Koçer,Porrentruy,Chemin de l'Hôpital 9,hcp,0.0,0.0,0.0,350.0,16826.0,3590.66,20766.66
 Ioannis Petropoulos,Genève,Rue Pierre-Fatio 15,hcp,0.0,0.0,2923.7000000000003,14232.949999999999,3350.0,0.0,20506.65
 Hanspeter Kern,Zürich,Dufourstrasse 31,hcp,0.0,0.0,0.0,1500.0,18650.0,330.0,20480.0
+Beatrice Amann-Vesti,Zürich,Seestrasse 220,hcp,0.0,0.0,0.0,0.0,20434.0,0.0,20434.0
 Alexander Breitenstein,Zürich,Rämistrasse 100,hcp,0.0,0.0,483.0,2028.0,16698.48,1193.35,20402.83
 Nathan Cantoni,Aarau,Tellstrasse 25,hcp,0.0,0.0,2500.0,0.0,17318.0,556.0,20374.0
-Christian Van Delden,Genève,Rue Gabrielle-Perret -Gentil 4,hcp,0.0,0.0,673.12,3967.2,13927.300000000001,1801.1,20370.72
 Charly Bulliard,Estavayer-le-Lac,Rue de la Rochette,hcp,0.0,0.0,2301.0,17569.0,400.0,0.0,20270.0
 Philipp Eich,Liestal,"Klinik für Psychiatrie u, Psychotherapie, Bienentalstrasse 7",hcp,0.0,0.0,583.0,485.31,18950.0,0.0,20018.31
-Urs Beat Gröflin,Binningen,Hauptstrasse 3,hcp,0.0,0.0,567.4,3405.64,15994.0,0.0,19967.04
 Arnaud Roth,Genève,Rue Gabrielle Perret-Gentil 4,hcp,0.0,0.0,1461.96,13682.04,4625.0,186.0,19955.0
-Charles-Alphonse Reynard,Sion,Avenue de la Gare 25,hcp,0.0,4000.0,605.0,633.37,14600.0,0.0,19838.37
+Karim El-Haschimi,Baden,Bahnhofplatz 1,hcp,0.0,0.0,457.5,2333.65,17081.260000000002,0.0,19872.41
 Claude Scheidegger,Basel,Birsigstrasse 10,hcp,0.0,0.0,1894.06,7033.68,10712.5,187.5,19827.739999999998
 Alain Golay,Genève,Chemin Venel 7,hcp,0.0,0.0,790.78,4337.139999999999,13217.08,1419.0,19764.0
 Iris Baumgartner,Bern,Freiburgstrasse18,hcp,0.0,0.0,0.0,0.0,18594.0,1161.07,19755.07
 Stefano Rimoldi,Bern,Hauptstrasse 60,hcp,0.0,0.0,2509.5,4821.9,12300.0,0.0,19631.4
 Peter Häusermann,Basel,Petersgraben 4,hcp,0.0,0.0,1029.53,261.71,17200.0,1058.84,19550.08
 Peter Schiller,Liestal,Mühlegasse 3,hcp,0.0,0.0,370.0,765.0,18100.0,75.0,19310.0
+Urs Beat Gröflin,Binningen,Hauptstrasse 3,hcp,0.0,0.0,567.4,3405.64,15244.0,0.0,19217.04
 Adrian Forster,Winterthur,"Brauerstrasse 15,Postfach 834",hcp,0.0,0.0,0.0,2133.0,14150.0,2653.0,18936.0
 Edouard Battegay,Zürich,Universitätsspital Zürich Rämistrasse 100,hcp,0.0,0.0,774.0,640.0,17500.0,0.0,18914.0
 Thomas Böker-Blum,Lachen,"Spital Lachen, Oberdorfstrasse 41",hcp,0.0,210.78,1771.0700000000002,3071.79,9500.0,4231.85,18785.490000000005
@@ -163,7 +162,6 @@ Carlo Mainetti,Bellinzona,Via Parco 3,hcp,0.0,0.0,2328.71,1749.54,13912.5,196.0,
 Alberto Moriggia,Lugano,Via Soldino 5,hcp,0.0,0.0,3800.34,10454.25,3828.0,0.0,18082.59
 Stéphane Cochet,Lausanne,Avenue Alexandre-Vinet 19b,hcp,0.0,0.0,3755.1,12775.0,1550.0,0.0,18080.1
 Alexandre Christinat,Lugano,Oncologia Lugano Via Fogazzaro 3,hcp,0.0,0.0,2454.93,9706.169999999998,5850.0,0.0,18011.100000000002
-Sven Reek,Aarau,Rain 34,hcp,0.0,6000.0,0.0,0.0,12000.0,0.0,18000.0
 Marva Safa,Neuchâtel,Rue de l'hôpital 18,hcp,0.0,0.0,0.0,0.0,18000.0,0.0,18000.0
 Franco Cavalli,Bellinzona,Via Vincenzo Vela 6 Ospedale San Giovanni,hcp,0.0,0.0,0.0,0.0,12186.0,5741.28,17927.28
 Reto Kühne,Zürich,Tièchestrasse 99,hcp,0.0,0.0,2175.17,2946.01,12800.0,0.0,17921.18
@@ -185,6 +183,7 @@ Stefan Greuter,Sargans,Bahnhofpark 2b,hcp,0.0,0.0,4624.27,7313.05,5050.0,0.0,169
 Krisztian Homicsko,Lausanne,Rue du Bugnon 46,hcp,0.0,0.0,1427.35,12680.25,800.0,2026.23,16933.83
 Guido Bondolfi,Genève,Rue Gabrielle-Perret- Gentil 4,hcp,0.0,0.0,1308.98,1893.95,13704.0,0.0,16906.93
 Simon Ramseier,Dättwil AG,"Ärztezentrum Täfernhof, Mellingerstrasse 207",hcp,0.0,0.0,758.47,1512.52,14598.15,0.0,16869.14
+Enos Bernasconi,Lugano,Via Tesserete 46,hcp,0.0,0.0,3929.65,5555.88,7058.5,299.5,16843.53
 Massimo Vignanelli,Lugano,Via Trevano 38,hcp,0.0,0.0,872.55,10545.400000000001,5350.0,50.0,16817.95
 Vito Spataro,Bellinzona,Viale Stazione 23,hcp,0.0,0.0,2581.69,5891.5,8200.0,0.0,16673.190000000002
 Pasquale Calabrese,Basel,University of Basel Birmannsgasse 8,hcp,0.0,0.0,357.0,1341.0,10362.0,4485.16,16545.16
@@ -213,10 +212,8 @@ Hamdi Abeidi,Sierre,Route De Sion 31,hcp,0.0,0.0,1154.42,2652.6400000000003,1170
 Heinz Hengartner,St. Gallen,Claudiusstrasse 6,hcp,0.0,0.0,897.0,5329.15,8737.5,439.05,15402.699999999999
 Manuela Albisetti Pedroni,Zürich,Steinwiessstrasse 75,hcp,0.0,0.0,600.5,2006.69,5000.0,7788.0,15395.19
 Cedric Vuille,Nyon,"Cabinet de groupe, Avenue Viollier 8",hcp,0.0,0.0,1108.0,1303.56,12973.599999999999,0.0,15385.16
-Albina Nowak,Zürich,"UniversitätsSpital Zürich, Rämistrasse 100",hcp,0.0,0.0,562.96,1422.76,12026.3,1335.0,15347.02
-Enos Bernasconi,Lugano,Via Tesserete 46,hcp,0.0,0.0,3929.65,5555.88,5658.5,187.5,15331.529999999999
+Charles-Alphonse Reynard,Sion,Avenue de la Gare 25,hcp,0.0,4000.0,605.0,633.37,10100.0,0.0,15338.369999999999
 Marc Wisard,Lausanne,Rue de la Vigie 5,hcp,0.0,0.0,1753.3,3551.5,10000.0,0.0,15304.8
-Michael Brändle,St. Gallen,Rorschacherstrasse 95,hcp,0.0,0.0,0.0,0.0,14610.0,631.0,15241.0
 Jon Carnes,Bern,Seilerstrasse 22,hcp,0.0,0.0,4105.25,9235.43,1860.0,0.0,15199.68
 Nicolas Bonadies,Bern,Freiburgstrasse 18,hcp,0.0,0.0,1745.67,13435.5,0.0,0.0,15181.17
 Beatrice Neuffer-Bajetta,Chiasso,Piazza Indipendenza 4,hcp,0.0,0.0,2150.0,6174.28,6350.0,420.0,15094.279999999999
@@ -226,6 +223,7 @@ Martin Frey,Rombach,Gislifluhweg 12,hcp,0.0,0.0,643.0,2895.1400000000003,11400.0
 Reto Kressig,Basel,Universitäre Altersmedizin,hcp,0.0,0.0,0.0,0.0,15070.0,0.0,15070.0
 Antonello Calderoni,Lugano,Via Fogazzaro 3,hcp,0.0,0.0,625.36,9368.04,5050.0,0.0,15043.400000000001
 Andreas Gantenbein,Bad Zurzach,Quellenstrasse 34,hcp,0.0,0.0,0.0,0.0,12325.0,2678.7,15003.7
+Sven Reek,Aarau,Rain 34,hcp,0.0,6000.0,0.0,0.0,9000.0,0.0,15000.0
 Pius Brühlmann,Zürich,Toblerstrasse 51,hcp,0.0,0.0,715.0,7533.0,6750.0,0.0,14997.0
 Heinrich Gerding,Olten,"Pallas Klinik Ophthalmologische Klinik, Louis Giroud-Strasse 20",hcp,0.0,0.0,290.0,678.0,13855.14,145.0,14968.14
 Léo Finci,Petit-Lancy,Chemin de la Caroline 2,hcp,0.0,0.0,5504.65,2845.96,6588.0,0.0,14938.61
@@ -239,8 +237,6 @@ Alain Sauty,Lausanne,Avenue de Rumine 31,hcp,0.0,0.0,1345.13,5539.61,7850.0,0.0,
 Andreas Lutterotti,Zürich,Frauenklinikstrasse 26,hcp,0.0,0.0,0.0,280.0,13465.0,935.92,14680.92
 Hugo Ubieto,St. Gallen,Claudiusstrasse 6,hcp,0.0,0.0,2012.23,7061.59,2142.45,3459.4,14675.67
 Nicolas Ketterer,Lausanne,Avenue Duservan 10,hcp,0.0,0.0,2594.14,11361.75,700.0,0.0,14654.89
-Philipp Andreas Gerber,Zürich,Endokrinologie und Diabetologie Rämistrasse 100,hcp,0.0,0.0,113.0,1789.0,12750.0,0.0,14652.0
-Stefanie Karin Müller,St. Gallen,Rorschacherstrasse 95,hcp,0.0,0.0,1899.06,4119.98,8600.0,0.0,14619.04
 Günther Hofbauer,Wetzikon ZH,Guyer-Zeller-Strasse 10,hcp,0.0,0.0,0.0,544.44,12608.0,1449.7199999999998,14602.16
 Alex Straumann,Olten,Römerstrasse 7,hcp,0.0,0.0,85.93,4218.97,3889.12,6338.0,14532.010000000002
 Luciano Wannesson,Mendrisio,Via Alfonso Turconi 23,hcp,0.0,0.0,158.0,597.0,13550.0,213.0,14518.0
@@ -259,19 +255,18 @@ Stefan Bilz,St. Gallen,Rorschacherstrasse 95,hcp,0.0,0.0,744.3299999999999,956.0
 Andreas Kistler,Frauenfeld,Pfaffenholzstrasse 4,hcp,0.0,0.0,1004.5799999999999,7547.27,5300.0,0.0,13851.85
 David Scheiner,Zürich,Bühlstrasse 45a,hcp,0.0,0.0,1527.5,4541.8,7500.0,264.7,13834.0
 Olivier Clerc,Neuchâtel,Rue de la Maladière 45,hcp,0.0,0.0,2965.29,6094.7,4713.0,0.0,13774.99
+Michael Brändle,St. Gallen,Rorschacherstrasse 95,hcp,0.0,0.0,0.0,0.0,13110.0,631.0,13741.0
 Tobias Plaza,Uster,Oberlandstrasse 100,hcp,0.0,0.0,2033.95,3545.63,8160.0,0.0,13739.58
 Georg Stüssi,Bellinzona,Via Ospedale,hcp,0.0,0.0,1026.6799999999998,10596.18,2100.0,0.0,13722.86
 Roland Ney,Vevey,Rue des Moulins 4,hcp,0.0,0.0,0.0,300.0,13200.0,170.0,13670.0
+Stefanie Karin Müller,St. Gallen,Rorschacherstrasse 95,hcp,0.0,0.0,1557.53,3504.99,8600.0,0.0,13662.52
 Isabelle Morard,Genève,Avenue de la Roseraie 76 A,hcp,0.0,0.0,3453.01,6142.32,4050.0,0.0,13646.33
 Hansruedi Gugg,Rickenbach bei Wil,Toggenburgerstrasse 40,hcp,0.0,0.0,2976.08,6151.5,4500.0,0.0,13627.58
 Jean Louis Frossard,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,1243.79,2324.41,7900.0,2140.0,13608.2
-Alexandre Rey,Lausanne,Rue Bellefontaine 2,hcp,0.0,0.0,1840.0,6121.0,5600.0,0.0,13561.0
 Mirjam Huwyler,Luzern,Zürichstrasse 5,hcp,0.0,0.0,2920.0,7143.9,3300.0,173.8,13537.7
 Carsten Meyer,Aarau,"Pallas Klinik, Bahnhofplatz 4",hcp,0.0,0.0,0.0,0.0,10374.14,3141.58,13515.720000000001
-Hans Rickli,St. Gallen,Oberfeldweg 8,hcp,0.0,0.0,0.0,0.0,13500.0,0.0,13500.0
 Philippe Renard,Sion,Avenue Grand-Champsec 80,hcp,0.0,0.0,2328.0,8659.1,2500.0,0.0,13487.1
 Anna Efthymiou,Fribourg,Chemin des Pensionnats 2,hcp,0.0,0.0,2886.35,8508.41,1800.0,222.0,13418.759999999998
-Marie-Laure Amram-Benamram,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,812.1200000000001,2797.36,9800.0,0.0,13409.38
 Marco Kummer,Rheinfelden,Habich-Dietschy-Strasse 18,hcp,0.0,0.0,1909.0,2421.0,9038.0,0.0,13368.0
 Maria Ziembrowski,Frauenfeld,Kurzfeldstrasse 1,hcp,0.0,0.0,3402.5,7879.05,2050.0,0.0,13331.550000000001
 Jean-Jacques Grimm,Delémont,Rue du Temple 45,hcp,0.0,4000.0,456.0,1864.98,7000.0,0.0,13320.98
@@ -304,7 +299,6 @@ Marzia Conti Beltraminelli,Pregassona,Via alle Vigne 7,hcp,0.0,0.0,1586.07000000
 Axel Mischo,Zürich,Rämistrasse 100,hcp,0.0,0.0,1576.78,9834.71,1200.0,0.0,12611.49
 Daniel Eberli,Zürich,"UniversitätsSpital Zürich, Frauenklinikstrasse 10",hcp,0.0,0.0,1859.0,1709.0,8550.0,477.0,12595.0
 Bettina Engel,Lausanne,Avenue du Théâtre 7,hcp,0.0,0.0,1909.22,3227.26,7400.0,0.0,12536.48
-Roland Mähler,Wohlen AG,Bärengässli 7,hcp,0.0,0.0,544.73,2035.19,9825.93,126.0,12531.85
 Marc-André Schürch,Lausanne,Avenue de la Gare 10,hcp,0.0,0.0,2321.0699999999997,3595.04,6590.0599999999995,0.0,12506.17
 Heinrich Mattle,Bern,Freiburgstrasse 18,hcp,0.0,0.0,0.0,0.0,11374.0,1124.0,12498.0
 Heribert Mauron,Moosseedorf,Moosbühlstrasse 33,hcp,0.0,0.0,1423.51,2245.12,8800.0,0.0,12468.630000000001
@@ -312,10 +306,11 @@ Pietro Gerber,Lugano,Via Massagno 20,hcp,0.0,0.0,2881.16,6984.29,2600.0,0.0,1246
 Johannes Rischewski,Luzern,Spitalstrasse 16,hcp,0.0,0.0,890.05,1240.35,7888.3,2437.2000000000003,12455.9
 Christian Felley,Lausanne,"Centre de Gastroentérologie, Avenue Jomini 8",hcp,0.0,0.0,3448.1900000000005,6996.9400000000005,2000.0,0.0,12445.130000000001
 Patricia Dill,Basel,"Universitäts-Kin derspital (UKBB) Neuropädiatrie, Spitalstrasse 33",hcp,0.0,0.0,1782.79,948.65,7265.49,2444.34,12441.27
+Philipp Andreas Gerber,Zürich,Endokrinologie und Diabetologie Rämistrasse 100,hcp,0.0,0.0,113.0,1789.0,10500.0,0.0,12402.0
 Severin Läuchli,Zürich,Seefeldstrasse 4,hcp,0.0,0.0,1225.0,3960.0,7200.0,0.0,12385.0
-Gurpreet Anand,Zürich,Im Herrenholz 4,hcp,0.0,0.0,665.0,6395.0,5300.0,0.0,12360.0
 Ahmad Jalili,Bürgenstock,Bürgenstock 30,hcp,0.0,0.0,758.8199999999999,1552.53,8925.0,1071.4099999999999,12307.76
 Olivia Pagani-Santoro,Viganello,Viale Pietro Capelli 1,hcp,0.0,0.0,402.0,4950.0,6344.59,593.84,12290.43
+Marie-Laure Amram-Benamram,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,812.1200000000001,2674.3900000000003,8800.0,0.0,12286.41
 Daniel Reding,Baar,Landhausstrasse 11,hcp,0.0,0.0,2795.5,5563.59,3900.0,0.0,12259.09
 Barbara Bolliger,St. Gallen,Rorschacherstrasse 150,hcp,0.0,0.0,2772.0699999999997,4051.6299999999997,4550.0,876.0,12249.7
 Cyril Pellaton,Neuchâtel,Rue de la Maladière 45,hcp,0.0,0.0,3268.77,5471.790000000001,2700.0,785.0,12225.56
@@ -338,7 +333,6 @@ Michel Starobinski,Onex,Route de Chancy 98,hcp,0.0,0.0,1545.56,7090.37,3262.5,0.
 Hans Jörg Häuselmann,Zürich,Bellariastrasse38,hcp,0.0,0.0,639.18,886.38,10350.0,0.0,11875.56
 Christian Meier,Basel,Missionsstrasse 24,hcp,0.0,0.0,0.0,6475.0,5325.0,70.0,11870.0
 Spyridon Arampatzis,Bern,Freiburgstrasse15,hcp,0.0,0.0,1176.47,5840.360000000001,4850.0,0.0,11866.830000000002
-Michael Schwarz,Basel,Wiesendamm 22,hcp,0.0,0.0,1507.18,1660.6799999999998,8500.0,132.0,11799.86
 Antonio Cozzio,St. Gallen,Rorschacher Strasse 95,hcp,0.0,0.0,0.0,0.0,11425.0,369.84,11794.84
 Michael Häberle,Zürich,Gyn A.R.T. AG,hcp,0.0,0.0,2076.0,9705.0,0.0,0.0,11782.0
 Mathias Koepke,Luzern,Löwengraben 14,hcp,0.0,0.0,2297.0,7436.0,2000.0,0.0,11733.0
@@ -347,10 +341,12 @@ Markus Jörger,St. Gallen,Rorschacher Strasse 95,hcp,0.0,0.0,644.0,4458.17,6041.
 Pascal Chatelain,Genève,Rue Emile-Yung 4,hcp,0.0,0.0,0.0,0.0,11550.0,150.0,11700.0
 Mathias Schmid,Zürich,Birmensdorferstrasse 497,hcp,0.0,0.0,300.0,624.35,10595.07,166.67,11686.09
 Beate Theresia Maria Gleissner,Bäch SZ,Seestrasse 164,hcp,0.0,0.0,1666.12,5875.67,4120.0,0.0,11661.79
+Roland Mähler,Wohlen AG,Bärengässli 7,hcp,0.0,0.0,420.43,1287.42,9825.93,126.0,11659.78
 Regine Koepke,Luzern,Löwengraben 14,hcp,0.0,0.0,2460.17,7892.2,1300.0,0.0,11652.369999999999
 Oliver Hausmann,Luzern,Zürichstrasse 12,hcp,0.0,0.0,0.0,0.0,11624.0,0.0,11624.0
 Serge Roth,Carouge GE,"Cabinet Serge Roth, Clos de la Fonderie lb",hcp,0.0,0.0,1608.47,5173.43,4800.0,0.0,11581.9
 Andreas Monsch,Basel,Burgfelderstrasse 101,hcp,0.0,0.0,0.0,0.0,9056.3,2508.33,11564.630000000001
+Alexandre Rey,Lausanne,Rue Bellefontaine 2,hcp,0.0,0.0,1840.0,6121.0,3600.0,0.0,11561.0
 Marc Widmer,Wetzikon ZH,Bahnhofstrasse 137,hcp,0.0,0.0,2105.92,5098.87,4340.0,0.0,11544.79
 Frank Seibold,Kehrsatz,Gurtenstrasse 79,hcp,0.0,0.0,0.0,118.0,11400.0,0.0,11518.0
 Enrico Roggero,Bellinzona,Studio medico Bellinzona Viale Portone 5,hcp,0.0,0.0,1372.6499999999999,5988.710000000001,4150.0,0.0,11511.36
@@ -364,11 +360,12 @@ Pierre-Frédéric Keller,Delémont,Rue De Lamaltière 10,hcp,0.0,0.0,1575.15,180
 Carla Hertel,Basel,Petersgraben 4,hcp,0.0,0.0,160.0,10670.0,500.0,0.0,11330.0
 Firat Duru,Zürich,Rämistrasse 100,hcp,0.0,0.0,1193.0,10113.46,0.0,0.0,11306.46
 Alessandra Curioni,Zürich,Rämistrasse 100,hcp,0.0,0.0,1201.0,1842.0,8250.0,0.0,11293.0
-Jürg Lareida,Aarau,Vordere Vorstadt 16,hcp,0.0,0.0,0.0,0.0,11250.0,21.0,11271.0
 Loretta Hasler,Biel/Bienne,Hans-Hugi-Strass e 3,hcp,0.0,0.0,3027.6600000000003,5577.450000000001,2645.0,0.0,11250.11
 Marco Facchini,Muralto,Piazza Stazione 9,hcp,0.0,0.0,2551.01,6423.79,2250.0,0.0,11224.81
 Christian Monnerat,Delémont,Faubourg des Capucins 30,hcp,0.0,0.0,1448.95,6440.31,3250.0,0.0,11139.259999999998
+Gurpreet Anand,Zürich,Im Herrenholz 4,hcp,0.0,0.0,665.0,6395.0,4050.0,0.0,11110.0
 Micha Maeder,St. Gallen,"Kantonsspital St. Gallen Medizin Kardiologie, Rorschacher Strasse 95",hcp,0.0,0.0,425.0,832.0,9850.0,0.0,11107.0
+Michael Schwarz,Basel,Wiesendamm 22,hcp,0.0,0.0,1507.18,1660.6799999999998,7750.0,132.0,11049.86
 Adrian Casty,Bern,Bremgartenstrasse 119,hcp,0.0,0.0,1602.76,5047.35,4380.0,0.0,11030.11
 Alexander Siebenhüner,Zürich,Rämistrasse 100,hcp,0.0,0.0,1090.15,2361.69,6855.0,718.0,11024.84
 Jan Triebel,Zürich,Birmensdorferstr asse 497,hcp,0.0,0.0,672.48,6397.68,3950.0,0.0,11020.16
@@ -404,7 +401,6 @@ Urs Bangerter,Zollikon,Forchstrasse 424,hcp,0.0,0.0,3643.15,6027.42,750.0,0.0,10
 Thomas Grunwald,Zürich,Klinik Lengg AG Schweizerisches Epilepsie-Zentrum Medizin. Neurologie Bleulerstrasse 60,hcp,0.0,0.0,0.0,0.0,10413.0,0.0,10413.0
 Tobias Burkhardt,Männedorf,Glärnischstrasse 154,hcp,0.0,0.0,0.0,0.0,10410.0,0.0,10410.0
 Annette Kuhn,Bern,Effingerstrasse 102,hcp,0.0,0.0,735.0,755.0,8661.2,235.0,10386.2
-Monika Nobel,La Chaux-de-Fonds,Av. Léopold Robert 7,hcp,0.0,0.0,1556.3899999999999,6424.17,2400.0,0.0,10380.56
 Walo Alexander Iseli,Liestal,Weierweg 7,hcp,0.0,0.0,2686.76,4363.45,3330.0,0.0,10379.21
 Hans-Peter Schmid,Frauenfeld,Bahnhofstrasse 61,hcp,0.0,0.0,703.15,6536.64,3100.0,0.0,10339.79
 Giannicola D'Addario,Schaffhausen,Geissbergstrasse 81,hcp,0.0,0.0,2552.79,4285.96,3500.0,0.0,10338.75
@@ -420,7 +416,6 @@ Christoph Gwerder,Bern,Monbijoustrasse 10,hcp,0.0,0.0,3040.77,4991.59,2180.0,0.0
 Marc Girardin,Onex,Route de Loëx 3,hcp,0.0,0.0,1737.9900000000002,5023.57,3450.0,0.0,10211.56
 Carlo Chizzolini,Genève,Hôpitaux Universitaires de Genève - Département de médecine interne - Service d'immunologie et allergologie Rue Gabrielle-Perret -Gentil 4,hcp,0.0,0.0,1597.37,2269.5,5859.0,479.5,10205.369999999999
 Krassen Nedeltchev,Aarau,Tellstrasse 25,hcp,0.0,0.0,0.0,0.0,10200.0,0.0,10200.0
-Diane Möller-Goede,Wetzikon ZH,GZO Spital Wetzikon Spitalstrasse 66,hcp,0.0,0.0,2184.0,5699.92,2300.0,0.0,10183.92
 Sacha Rothschild,Basel,Onkologie Petersgraben 4,hcp,0.0,0.0,714.8399999999999,8430.689999999999,1000.0,0.0,10145.53
 Hubert Schefer,Luzern,Sanktannastrasse 32,hcp,0.0,0.0,2769.71,5100.85,2220.0,0.0,10090.559999999998
 Georg Tscherry,Uster,Brunnenstrasse 42,hcp,0.0,0.0,4710.08,5361.0,0.0,0.0,10070.08
@@ -428,15 +423,13 @@ Julian Schardt,Bern,Freiburgstrasse 18,hcp,0.0,0.0,635.2,477.0,8910.0,0.0,10022.
 Barbara Ballmer-Weber,St. Gallen,"Kantonsspital St. Gallen, Rorschacher Strasse 95",hcp,0.0,0.0,0.0,257.5,9750.0,0.0,10007.5
 Matthias Paul,Luzern,"Luzerner Kantonsspital Luzern Medizin Kardiologie, Spitalstrasse",hcp,0.0,0.0,776.0,2565.0,6650.0,0.0,9990.0
 Fabrizio Branca,Basel,Centralbahnstrasse 20,hcp,0.0,0.0,306.0,8299.4,1300.0,70.0,9975.4
+Jürg Lareida,Aarau,Vordere Vorstadt 16,hcp,0.0,0.0,0.0,0.0,9950.0,21.0,9971.0
 Jürg Barandun,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,337.24,931.5,8700.0,0.0,9968.740000000002
 Nils Kucher,Zürich,Rämistrasse 100,hcp,0.0,0.0,0.0,0.0,9945.0,0.0,9945.0
-Marcos Ortega,Zürich,"Neuromed Zürich, Stampfenbachstrasse 63",hcp,0.0,0.0,912.9,7614.6,1400.0,0.0,9927.5
 Reinhard Dummer,Zürich,"Universitätsspital Zürich Dermatologische Klinik, Gloriastrasse 31",hcp,0.0,0.0,0.0,0.0,9386.24,527.86,9914.1
 Laure Brulhart Bletsas,La Chaux-de-Fonds,Rue de Chasseral 20,hcp,0.0,0.0,2269.98,4953.21,2405.0,177.0,9805.19
 Mirjam Christ-Crain,Basel,Petersgraben 4,hcp,0.0,0.0,846.0,5500.0,3450.0,0.0,9796.0
 Christa Baumann,Bern,Prolindo Onkologie- und Hämatologie-Team t Bremgartenstrasse 117,hcp,0.0,0.0,1902.17,6879.5599999999995,1000.0,0.0,9781.73
-Adriano Bont,Winterthur,Brunngasse 6,hcp,0.0,0.0,1679.08,2779.64,5300.0,0.0,9758.72
-Michaël Hagmann,Pully,Chemin du Pré-de-la-Tour 12,hcp,0.0,0.0,0.0,265.0,9488.0,0.0,9753.0
 Jean-Pierre Randin,Lausanne,Avenue de Rumine 35,hcp,0.0,0.0,617.0,2080.0,6200.0,852.0,9749.0
 Sao-Nam Tran,Genève,"Cabinet Dr Tran Sao-Nam, Route De Frontenex 90",hcp,0.0,0.0,1864.31,4483.39,3400.0,0.0,9747.7
 Ann-Kathrin Schwarzkopf,Bern,Schänzlistrasse 25,hcp,0.0,0.0,1836.6999999999998,7298.130000000001,600.0,0.0,9734.83
@@ -449,23 +442,21 @@ Johan Auwerx,Lausanne,Nestlé Chair Energy Metabolism AI,hcp,0.0,0.0,0.0,0.0,260
 Ursula Bärtsch-Kohli,Langenthal,"Spital Langenthal (SRO AG) - Innere Medizin, St. Urbanstrasse 67",hcp,0.0,0.0,640.58,1537.39,7450.0,0.0,9627.97
 Pascal Frei,Zürich,FMH Gastroenterologie - Gastroenterologie Bethanien - Privatklinik Bethanien Toblerstrasse 51,hcp,0.0,0.0,1232.1,2171.59,6200.0,0.0,9603.69
 Michael Nagler,Bern,Freiburgstrasse 18,hcp,0.0,0.0,510.5,4490.61,4600.0,0.0,9601.109999999999
+Monika Nobel,La Chaux-de-Fonds,Av. Léopold Robert 7,hcp,0.0,0.0,1556.3899999999999,5644.17,2400.0,0.0,9600.56
 Geoffrey Delmore,Frauenfeld,"Kantonsspital Medizin Onkologie, Pfaffenholzstrasse 4",hcp,0.0,0.0,1592.0,2942.0,4850.0,191.23,9575.23
 Axel Baumann,Chur,"Psychiatrische Dienste Graubünden, Loëstrasse 220",hcp,0.0,0.0,1436.3899999999999,2660.7,5400.0,71.4,9568.49
 Andreas Horvath,Zürich,"Praxis Dr. Horvath Andreas, Rothstrasse 54",hcp,0.0,0.0,830.0,1870.0,6350.0,517.6,9567.6
 Arthur Reto Frey,Zürich,Albisriederplatz 3,hcp,0.0,0.0,2939.2799999999997,4375.86,2250.0,0.0,9565.14
 Gian-Marco Sarra,Burgdorf,Poststrasse 9,hcp,0.0,0.0,1407.1,5953.700000000001,2200.0,0.0,9560.8
-Michel Hochuli,Zürich,Rämistrasse 100,hcp,0.0,0.0,1410.0,5441.0,2700.0,0.0,9551.0
 Huldrych Günthard,Zürich,Berninastrasse 116,hcp,0.0,0.0,502.37,4499.96,4545.0,0.0,9547.33
 Luca Quagliata,Basel,Schönbeinstrasse 40,hcp,0.0,0.0,0.0,0.0,6241.62,3304.7999999999997,9546.42
 Etienne Perrin,Genève,Chemin des Clochettes 8A,hcp,0.0,0.0,289.9,6353.92,2887.0,0.0,9530.82
 Malcolm Kohler,Forch,"Universitätsspital, rämistrasse 100",hcp,0.0,0.0,0.0,0.0,2000.0,7500.0,9500.0
-Jacques-Philippe Blanc,Ponte Capriasca,Via alle Scuole 26,hcp,0.0,0.0,323.0,4024.0,5150.0,0.0,9497.0
 Sebastian Walther,Bern,Murtenstrasse 21,hcp,0.0,0.0,0.0,0.0,9360.0,137.0,9497.0
 Sophie De Seigneux,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,894.3199999999999,5589.58,3000.0,0.0,9483.900000000001
 Hans-Peter Schäfer,Schaffhausen,Frauengasse 16,hcp,0.0,0.0,1743.17,7719.880000000001,0.0,0.0,9463.05
 Stefan Toggweiler,Luzern,"Luzerner Kantonsspital Luzern - Kardiologie / Herzzentrum Luzern, Spitalstrasse",hcp,0.0,0.0,0.0,0.0,9450.0,0.0,9450.0
 Marguerite Krasovec Rahmann,Schlieren,Uitikonerstrasse 9,hcp,0.0,0.0,1823.11,3983.2,3600.0,14.0,9420.310000000001
-Pierre Hoesli,Yverdon-Les- Bains,Rued'Entremonts 11,hcp,0.0,0.0,727.72,7238.26,1450.0,0.0,9415.98
 Hans Ulrich Wilhelm,Bad Ragaz,Hans Albrecht-Strasse,hcp,0.0,0.0,1447.78,5962.68,2000.0,0.0,9410.460000000001
 Eirini Kouroupi,Neuchâtel,Rue De La Maladière 45,hcp,0.0,0.0,501.72999999999996,1301.5700000000002,7600.0,0.0,9403.300000000001
 Anouk Widmer,Zürich,Rämistrasse 100,hcp,0.0,0.0,1998.28,2154.91,4965.68,284.32,9403.19
@@ -475,7 +466,6 @@ Andreas Gschwend,Baar,Landhausstrasse 11,hcp,0.0,0.0,2410.67,4701.83,2250.0,0.0,
 Karl A. Steuer,Allschwil,Brennerstrasse 12,hcp,0.0,0.0,2186.36,3365.8700000000003,3800.0,0.0,9352.23
 Birsen Arici,Rheinfelden,Riburgerstrasse 12,hcp,0.0,0.0,2073.8500000000004,4876.86,2400.0,0.0,9350.71
 Andreas Siegenthaler,Bern,"Lindenhofspital, Bremgartenstrasse 117",hcp,0.0,0.0,1645.0,1803.0,4700.0,1200.0,9348.0
-Christopher Strey,St. Gallen,Brauerstrasse 95,hcp,0.0,0.0,829.0,4092.0,4400.0,18.0,9339.0
 Nicola Keller,Morbio Inferiore,Via al Ponte 2,hcp,0.0,0.0,1035.49,2611.89,5677.78,0.0,9325.16
 Safwan Elisabetta Andreani,Bellinzona,Viale Stazione 30,hcp,0.0,0.0,1331.0,3882.0,4100.0,0.0,9313.0
 Salah Eddine Hassani,Courrendlin,Route Dechâtillon 10,hcp,0.0,0.0,1295.55,7980.37,0.0,0.0,9275.92
@@ -484,14 +474,17 @@ Christoph Schmid,Zürich,Rämistrasse 100,hcp,0.0,0.0,1479.0,6362.849999999999,1
 Christoph Amstutz,Luzern,Spitalstrasse,hcp,0.0,0.0,700.0,7514.2,1000.0,0.0,9214.2
 Karim Kellou,Nyon,Chemin Monastier 15,hcp,0.0,0.0,2934.5,4075.4,2200.0,0.0,9209.9
 Tamara Rordorf-Nikolic,Zürich,Rämistrasse 100,hcp,0.0,0.0,1219.75,1666.94,6318.0,0.0,9204.69
+Adriano Bont,Winterthur,Brunngasse 6,hcp,0.0,0.0,1679.08,2779.64,4737.5,0.0,9196.22
 Clara Thierfelder,Basel,Eisengasse 8,hcp,0.0,0.0,1191.78,7987.91,0.0,0.0,9179.69
 Daniel Rauch,Thun,Krankenhausstrasse 12,hcp,0.0,0.0,942.4499999999999,983.43,7250.0,0.0,9175.880000000001
 Daniel Fritschy,Meyrin,Avenue J.-D.-Maillard 3,hcp,0.0,0.0,294.0,620.0,8250.0,0.0,9164.0
 Michael Gengenbacher,Basel,"Bethesda Spital Rheumatologische Klinik, Gellertstrasse 144",hcp,0.0,0.0,439.0,7268.0,1450.0,0.0,9157.0
 Carlo Calanchini,Lugano,Via Giacomo Luvini 7,hcp,0.0,0.0,586.0,1161.0,7400.0,0.0,9147.0
 Christoph Löschhorn,Dättwil AG,"Ärztezentrum Täfernhof, Mellingerstrasse 207",hcp,0.0,0.0,1262.78,2155.31,5700.0,0.0,9118.09
+Pierre Hoesli,Yverdon-Les- Bains,Rued'Entremonts 11,hcp,0.0,0.0,727.72,6931.1900000000005,1450.0,0.0,9108.91
 Michel Forni,Carouge GE,Avenue Cardinal-Mermillod 1,hcp,0.0,0.0,710.0,0.0,8365.0,0.0,9075.0
 Gregory Wirth,Genève,"Hôpitaux Universitaires Genève, Rue Gabrielle Perret-Gentil 4",hcp,0.0,327.0,1635.81,1495.49,5600.0,0.0,9058.3
+Michel Hochuli,Zürich,Rämistrasse 100,hcp,0.0,0.0,1410.0,5441.0,2200.0,0.0,9051.0
 Christoph Honegger,Baar,Landhausstrasse 11,hcp,0.0,0.0,2062.88,6131.83,850.0,0.0,9044.710000000001
 Eva Gütling-Vozenilek,Winterthur,Marktgasse 44,hcp,0.0,0.0,346.0,954.0,7650.0,93.0,9043.0
 Donat Dürr,Baar,Landhausstrasse 11,hcp,0.0,0.0,1357.58,6671.91,1000.0,0.0,9029.49
@@ -512,6 +505,7 @@ Michael Oswald,Hergiswil NW,Sonnenbergstrasse 9,hcp,0.0,0.0,1427.0,6070.0,1392.4
 Irmela Mantel,Lausanne,"Hôpital ophtalmique Dules-Gonin, Avenue de France 15",hcp,0.0,0.0,0.0,0.0,7746.77,1142.48,8889.25
 Folkert Maecker,Jegenstorf,"Ärztezentrum Degenstorf AG, Bernstrasse 12",hcp,0.0,0.0,1150.0,1150.0,6585.0,0.0,8885.0
 Volker Kirchner,Genolier,Route Du Muids 3,hcp,0.0,0.0,2039.6200000000001,3686.74,3125.0,0.0,8851.36
+Christopher Strey,St. Gallen,Brauerstrasse 95,hcp,0.0,0.0,829.0,4092.0,3900.0,18.0,8839.0
 Stefan Zimmermann,Fribourg,Chemin des Pensionnats 2-6,hcp,0.0,0.0,0.0,551.25,7492.0,794.0,8837.25
 Yves Jaccard,Genolier,Route du Muids 3,hcp,0.0,0.0,2874.13,3909.51,2050.0,0.0,8834.64
 Ludwig Perger,Zürich,Rämistrasse 100,hcp,0.0,0.0,1498.62,5823.14,1488.0,0.0,8809.76
@@ -519,11 +513,11 @@ Isabella Schönenberger,St. Gallen,Vadianstrasse 31,hcp,0.0,0.0,3563.07,4643.24,
 Tobias Traupe,Bern,Tiefenaustrasse 112,hcp,0.0,0.0,1293.47,3125.6,3248.0,1137.0,8804.07
 Ute Gick,Thun,Krankenhausstrasse 12,hcp,0.0,0.0,1858.2,5594.3,1350.0,0.0,8802.5
 Diane Hebert,Nyon,Chemin Monastier 10,hcp,0.0,0.0,1832.17,5969.92,1000.0,0.0,8802.09
-Fabio Cattaneo,Lugano,Via Soldino 7,hcp,0.0,0.0,1021.0,1621.0,6160.0,0.0,8802.0
 Sylvia Baumann Kurer,Winterthur,St. Georgen-Strasse 70,hcp,0.0,0.0,2507.65,5291.22,1000.0,0.0,8798.869999999999
 Thomas Daikeler,Basel,Petersgraben 4,hcp,0.0,0.0,1956.0,3457.0,3241.0,145.0,8798.0
 Matthias Sturzenegger,Bern,Inselspital Neurologische Universitätsklinik,hcp,0.0,0.0,0.0,0.0,8700.0,88.0,8788.0
 Patrick Roth,Zürich,Frauenklinikstrasse 26,hcp,0.0,0.0,64.0,0.0,8700.0,0.0,8764.0
+Jacques-Philippe Blanc,Ponte Capriasca,Via alle Scuole 26,hcp,0.0,0.0,323.0,4024.0,4400.0,0.0,8747.0
 Britta Maurer,Zürich,Gloriastrasse 25,hcp,0.0,0.0,1120.37,2006.67,5615.0,0.0,8742.04
 Esther Katrin Hostettler,Basel,Petersgraben 4,hcp,0.0,0.0,794.45,3146.95,4800.0,0.0,8741.4
 Monika Jaquenod-Linder,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,1157.0,1577.0,5989.0,0.0,8723.0
@@ -543,10 +537,10 @@ Reto Widrig,St. Gallen,Spisergasse 26/28,hcp,0.0,0.0,2276.6,2271.9900000000002,3
 Martina Kleber,Basel,Petersgraben 4,hcp,0.0,0.0,857.9200000000001,7171.110000000001,0.0,492.57,8521.6
 Bernard Exquis,Onex,Route de Chancy 98,hcp,0.0,0.0,2522.14,4174.03,1812.5,0.0,8508.67
 Emmanuelle Tullen,Genève,Chemin De Beausoleil 22,hcp,0.0,0.0,877.3000000000001,7629.22,0.0,0.0,8506.519999999999
+Michaël Hagmann,Pully,Chemin du Pré-de-la-Tour 12,hcp,0.0,0.0,0.0,265.0,8238.0,0.0,8503.0
 Reto Engel,St. Gallen,Schützengasse 2,hcp,0.0,0.0,1467.4,4524.94,2500.0,0.0,8492.34
 Patrick Monnier,La Chaux-de- Fonds,Cabinet médical FMH cardiologie Avenue Léopold-Robert 12,hcp,0.0,0.0,1447.0,3931.3,3100.0,0.0,8478.3
 Véronique Membrez,Sierre,Route De Sion 31,hcp,0.0,0.0,2278.82,6197.99,0.0,0.0,8476.81
-Thomas Deseö,Zürich,Dufourstrasse 143,hcp,0.0,0.0,0.0,537.0,7938.0,0.0,8475.0
 Irene Dingeldein,Murten,Längmatt 32,hcp,0.0,0.0,266.36,544.15,7662.5,0.0,8473.01
 Beda Wyrsch,Wetzikon ZH,Bahnhofstrasse 137,hcp,0.0,0.0,3724.72,3521.63,1220.0,0.0,8466.35
 Lukas von Rohr,Biel/Bienne,Rebenweg 34,hcp,0.0,0.0,1586.06,3264.2200000000003,3600.0,0.0,8452.279999999999
@@ -558,7 +552,6 @@ Michail Kouros,Locarno,Via Vincenzo Vela 11,hcp,0.0,0.0,332.25,2060.779999999999
 Nathalie Brunner,Zürich,Schützengasse 31,hcp,0.0,0.0,2127.34,5511.5599999999995,750.0,0.0,8388.900000000001
 Hans Jürg Huber,Würenlos,Juchstrasse 15,hcp,0.0,0.0,500.34999999999997,2275.1,5600.0,0.0,8375.45
 Joseph Eigenmann,Fribourg,Grand-Places 16,hcp,0.0,0.0,2016.5,6325.2,0.0,33.3,8375.0
-Joachim Waldemar Karsegard,Grand-Lancy,Av. des Communes-Réunies 16,hcp,0.0,0.0,1279.0,5694.54,1400.0,0.0,8373.54
 Jean-Philippe Chave,Lausanne,Chemin Porchat 24,hcp,0.0,0.0,1045.44,2018.4299999999998,5300.0,0.0,8364.869999999999
 Max Misteli,Oensingen,Bienkenstrasse 26,hcp,0.0,0.0,630.0,820.0,6900.0,0.0,8350.0
 Markus Kaiser,Zürich,"Herzpraxis Enge, Bleicherweg 47",hcp,0.0,0.0,1084.0,1364.0,5900.0,0.0,8348.0
@@ -571,7 +564,6 @@ Irene Hösli,Basel,Universitätsspital Basel,hcp,0.0,0.0,0.0,3060.0,5208.0,0.0,8
 Daniel Fuster,Bern,Freiburgstrasse 15,hcp,0.0,0.0,0.0,3353.31,4900.0,0.0,8253.310000000001
 Natalie Marcoli,Viganello,Via Pietro Capelli,hcp,0.0,0.0,1937.52,3808.2200000000003,2500.0,0.0,8245.74
 Andreas Flammer,Zürich,"Universitätsspital Zürich Medizin Kardiologie, Rämistrasse 100",hcp,0.0,0.0,0.0,1053.24,7185.0,0.0,8238.24
-Philippe Cordey,Zollikofen,Kirchlindachstrasse 7,hcp,0.0,0.0,716.7,2099.46,5400.0,0.0,8216.16
 Christine Davidson-Keyaerts,Genève,Rue des Marbriers 4,hcp,0.0,0.0,586.0,828.0,6800.0,0.0,8214.0
 Eloi Baumgartner,Porrentruy,Rue du Jura 11,hcp,0.0,0.0,2318.15,4094.2099999999996,1800.0,0.0,8212.36
 Josef Beatrice,Zürich,Tièchestrasse 99,hcp,0.0,0.0,1304.0,4545.0,2000.0,360.0,8209.0
@@ -597,10 +589,10 @@ Christian Rollini,Lausanne,Rue Caroline 3,hcp,0.0,0.0,586.0,827.0,6600.0,0.0,801
 Jean Bérubé,Lugano,Via Maggio 13,hcp,0.0,0.0,2183.15,3226.45,2600.0,0.0,8009.6
 Urs Heusser,Winterthur,Stadthausstrasse 75,hcp,0.0,0.0,1455.0,2531.0,4000.0,0.0,7986.0
 Michael Bühlmann,Burgdorf,Oberburgstrasse 54,hcp,0.0,0.0,2269.37,4215.9,1500.0,0.0,7985.2699999999995
+Albina Nowak,Zürich,"UniversitätsSpital Zürich, Rämistrasse 100",hcp,0.0,0.0,281.48,711.38,6313.15,667.5,7973.51
 Anna Marie Hew-Winzeler,Zürich,Zinnengasse 1,hcp,0.0,0.0,815.47,2042.62,5100.0,0.0,7958.09
 Rames Mayer,Bellinzona,Via Sergiomordasini 12,hcp,0.0,0.0,1092.21,2312.37,4500.0,0.0,7904.58
 Daniel Schilter,Bern,"Quartier Bleu, Bremgartenstrasse 117",hcp,0.0,0.0,625.26,6514.74,750.0,0.0,7890.0
-Oliver Christoph Zwermann,Basel,Hormonpraxis Basel Gellertstrasse 142,hcp,0.0,0.0,849.0,1957.0,5050.0,0.0,7856.0
 Christoph Hemmeler,Langenthal,Hasenmattstrasse 37,hcp,0.0,0.0,2764.15,4251.4,840.0,0.0,7854.55
 Roger Schwab,Biel/Bienne,Unterer Quai 92,hcp,0.0,0.0,1866.0,5984.599999999999,0.0,0.0,7850.599999999999
 Martin Geyer,Wettingen,Rosengartenstrasse 2,hcp,0.0,0.0,2001.9,5285.34,0.0,530.0,7817.24
@@ -609,6 +601,7 @@ Claude-André Chételat,Bern,Thunstrasse 2,hcp,0.0,0.0,422.0,2890.0,4500.0,0.0,7
 Mario Cavallini,Lugano,Piazza Molino Nuovo 8,hcp,0.0,0.0,1473.1,3937.4700000000003,2400.0,0.0,7810.57
 Miguel Caravatti,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,3524.7999999999997,4215.37,70.0,0.0,7810.17
 Michael Fried,Zürich,Rämistrasse 100,hcp,0.0,0.0,0.0,0.0,6872.92,936.17,7809.09
+Fabio Cattaneo,Lugano,Via Soldino 7,hcp,0.0,0.0,1021.0,1621.0,5160.0,0.0,7802.0
 Christoph Marco Kronauer,Zürich,"LungenZentrum Im Park, Seestrasse 220",hcp,0.0,0.0,1738.79,4962.17,1100.0,0.0,7800.96
 Alexandra Studhalter-Pallini,Zofingen,Rathausgasse 9,hcp,0.0,0.0,2402.7799999999997,3964.25,1390.0,0.0,7757.03
 Marco Salvi,Neuchâtel,Rue du Musée 9,hcp,0.0,0.0,1808.0,3938.2,2010.0,0.0,7755.2
@@ -617,6 +610,7 @@ Christian Spirig,Luzern,Sankt Annastrasse 32,hcp,0.0,0.0,2320.83,2317.17,3100.0,
 Jörn Kamradt,Bern,Gemeinschaftspraxis Schänzlihalde 1,hcp,0.0,0.0,0.0,382.69,7350.0,0.0,7732.69
 Damjan Nikolic,Genève,Quai Du Seujet 14,hcp,0.0,0.0,760.9200000000001,1611.54,5360.0,0.0,7732.46
 Hanna Barmettler,Langenthal,St. Urbanstrasse 67,hcp,0.0,0.0,2657.07,5074.0599999999995,0.0,0.0,7731.129999999999
+Thomas Deseö,Zürich,Dufourstrasse 143,hcp,0.0,0.0,0.0,537.0,7188.0,0.0,7725.0
 Alfons Loher,St. Gallen,Vadianstrasse 59,hcp,0.0,0.0,1077.4499999999998,2181.1099999999997,4450.0,0.0,7708.5599999999995
 Guido Schwegler Naumburger,Schlieren,"Spital Limmattal Medizin Neurologie, Urdorferstrasse 100",hcp,0.0,0.0,0.0,0.0,7650.0,58.0,7708.0
 Thomas Egger,Solothurn,Schöngrünstrasse 38,hcp,0.0,0.0,3243.7200000000003,4459.28,0.0,0.0,7703.0
@@ -626,10 +620,10 @@ Gabor Mark Somfai,Olten,Louis Giroud-Strasse 20,hcp,0.0,0.0,397.20000000000005,5
 Manuela Saino,Renens VD,Avenue du Censuy 14,hcp,0.0,0.0,2798.7300000000005,2204.91,2425.0,229.62,7659.26
 Oleg Kurlandchikov,St. Gallen,Schreinerstrasse 7,hcp,0.0,0.0,469.47,1015.52,6100.0,69.0,7653.99
 Ueli Studer,Bern,Bahnhofplatz 1,hcp,0.0,0.0,1551.47,2135.12,3950.0,0.0,7636.59
-Salomon Nicole Montavon,Genève,Cabinet médical FMH endocrinologie-diabétologie Rue Pedro-Meylan 1,hcp,0.0,0.0,222.0,3128.5299999999997,4200.0,79.0,7629.53
 Joël Capraro,Aarau,Tellstrasse 25,hcp,0.0,0.0,327.0,1868.88,5390.0,32.0,7617.88
 Tobias Daniel Herren,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,1431.0,2194.0,3989.0,0.0,7614.0
 Maja Bjelan,Bad Ragaz,Am Platz 8,hcp,0.0,0.0,1741.0,2617.0,3250.0,0.0,7609.0
+Joachim Waldemar Karsegard,Grand-Lancy,Av. des Communes-Réunies 16,hcp,0.0,0.0,1279.0,4914.54,1400.0,0.0,7593.54
 Bianca Link,Zürich,Steinwiesstrasse 75,hcp,0.0,0.0,0.0,1577.9,5984.959999999999,28.63,7591.489999999998
 Hagen Luft-Wüthrich,Zürich,Neumünsterstrass e 30,hcp,0.0,0.0,2633.96,4953.18,0.0,0.0,7588.139999999999
 Bernard Egger,Rolle,Route de l'Hôpital 26,hcp,0.0,0.0,147.0,1140.63,6300.0,0.0,7587.63
@@ -650,15 +644,13 @@ Thomas Mietzsch,Wetzikon ZH,Bahnhofstrasse 137,hcp,0.0,0.0,2056.6400000000003,44
 Stefan Neuner-Jehle,Zug,"Praxis Dr. Neuner-Jehle Stefan, Schmidgasse 8",hcp,0.0,0.0,0.0,0.0,7500.0,0.0,7500.0
 Känel von Roland,Zürich,"Universitätsspital Zürich Psych. Ambulatorium, Rämistrasse 100",hcp,0.0,0.0,0.0,0.0,7500.0,0.0,7500.0
 Susanna Stoll,Zürich,"Stadtspital Triemli Medizin Onkologie, Birmensdorferstrasse 497",hcp,0.0,0.0,1223.6,1527.06,4650.0,95.0,7495.66
-Marcus Schuermann,Richterswil,Bergstrasse 16,hcp,0.0,0.0,2163.5,2277.0,3050.0,0.0,7490.5
 Lukas Wildi,Zürich,Gloriastrasse 25,hcp,0.0,0.0,767.0,1034.0,5689.0,0.0,7490.0
 Thomas Matthes,Genève,"Hôpitaux Universitaires de Genève Medizin Hämatologie, Rue Gabrielle-Perret -Gentil 4",hcp,0.0,0.0,969.0,3693.0,2812.5,0.0,7474.5
 Jurij Pitako,Glarus,Burgstrasse 99 Kantonsspital Glarus,hcp,0.0,0.0,2089.87,4627.36,750.0,0.0,7468.23
-Robert Thomann,Solothurn,Endokrinologie / Diabetologie Schöngrünstrasse 42,hcp,0.0,0.0,327.45,2934.15,4200.0,0.0,7461.6
+Philippe Cordey,Zollikofen,Kirchlindachstrasse 7,hcp,0.0,0.0,716.7,2099.46,4650.0,0.0,7466.16
 Laurent Waelchli,Chêne-Bougeries,Route de Chêne 110,hcp,0.0,0.0,224.0,1132.94,6100.0,0.0,7457.9400000000005
 Luz Perrenoud,Genève,Rue Willy-donzé 6,hcp,0.0,0.0,0.0,0.0,7455.0,0.0,7455.0
 Fatime Krasniqi,Basel,Petersgraben 4,hcp,0.0,0.0,1679.5,5767.62,0.0,0.0,7447.12
-Christoph Zeller,Wetzikon ZH,Wesststrasse 70,hcp,0.0,2500.0,497.2,1743.94,2700.0,0.0,7441.139999999999
 Stefan Aczél,St. Gallen,Rorschacherstrasse 95,hcp,0.0,0.0,735.2,1480.3200000000002,5200.0,0.0,7415.52
 Christian Steffen,Lachen SZ,Oberdorfstrasse 41,hcp,0.0,0.0,1330.0,6072.05,0.0,0.0,7402.05
 Peter Bures,Uster,Oberlandstrasse 100,hcp,0.0,0.0,1092.46,1553.0700000000002,4385.0,360.0,7390.530000000001
@@ -666,16 +658,14 @@ Kuno D P Bigger,Zürich,Goethestrasse 22,hcp,0.0,0.0,1570.75,3213.75,2600.0,0.0,
 Roger François Stucki,Vevey,Rue du Lac 39,hcp,0.0,0.0,0.0,0.0,7370.0,0.0,7370.0
 Sérgio Lenoir,St. Gallen,"Zürcherstrasse 170, St",hcp,0.0,0.0,814.0,2132.0,4361.0,53.0,7360.0
 Stefan Johannes Hummler,Luzern,Zentralstrasse 1,hcp,0.0,0.0,2619.17,3938.92,800.0,0.0,7358.089999999999
+Oliver Christoph Zwermann,Basel,Hormonpraxis Basel Gellertstrasse 142,hcp,0.0,0.0,849.0,1957.0,4550.0,0.0,7356.0
 Mathias Fehr,Frauenfeld,Pfaffenholzstrasse 4,hcp,0.0,0.0,1941.2,4395.23,1000.0,0.0,7336.43
-Bernard Nater,Lausanne,Chemin des Croix-Rouges 2,hcp,0.0,0.0,396.0,1528.0,5400.0,0.0,7324.0
 Paul Hasler,Aarau,Tellstrasse 25,hcp,0.0,0.0,0.0,0.0,6112.99,1194.55,7307.54
 Guy Donati,Genève,Avenue de la Roseraie 76B,hcp,0.0,0.0,605.35,1651.95,5050.0,0.0,7307.3
 Philipp Stocker,Sarnen,Brünigstrasse 181,hcp,0.0,0.0,622.0,6304.48,375.0,0.0,7301.48
 Paul Bernhard Henrich,Winterthur,Brauerstrasse 15,hcp,0.0,0.0,1652.65,1464.75,3950.0,222.0,7289.4
 Zoltan Pataky,Genève,Chemin Venel 7,hcp,0.0,0.0,1096.58,2896.6400000000003,3290.0,0.0,7283.219999999999
 Ismail Bennani,Meyrin,Promenade des Artisans 24,hcp,0.0,0.0,965.0,2416.0,3900.0,0.0,7281.0
-Marco Randazzo,Winterthur,Brauerstrasse 15,hcp,0.0,0.0,1856.1,5414.28,0.0,0.0,7270.379999999999
-Sandra Rea Torti,Belp,Bahnhofplatz 6,hcp,0.0,0.0,942.95,2308.01,4000.0,0.0,7250.96
 Esther Irene Schwarz,Zürich,Rämistrasse 100,hcp,0.0,0.0,1767.2,3378.77,1750.0,340.58,7236.549999999999
 Michel Matter,Genève,"Centre Ophtalmologique de Rive SA, Rue Pierre-Fatio 15",hcp,0.0,0.0,798.0,1737.85,4700.0,0.0,7235.85
 Hubert John,Winterthur,Brauerstrasse 15,hcp,0.0,0.0,1704.0,5523.0,0.0,0.0,7227.0
@@ -684,6 +674,7 @@ Peter Keller,Langenthal,St. Urbanstrasse 67,hcp,0.0,0.0,1387.73,3610.64000000000
 Gil Guttmann,Lausanne,Avenue de la Gare 10,hcp,0.0,0.0,1840.07,2707.1,2650.0,0.0,7197.17
 Pietro Peghini,Zürich,"Praxis Pietro Peghini, Schaffhauserstrasse 359",hcp,0.0,0.0,626.83,1568.6799999999998,5000.0,0.0,7195.51
 Guido Domenighetti,Locarno,Via all'Ospedale 14,hcp,0.0,0.0,1408.3,3879.0,1900.0,0.0,7187.299999999999
+Marco Randazzo,Winterthur,Brauerstrasse 15,hcp,0.0,0.0,1856.1,5318.79,0.0,0.0,7174.889999999999
 Patrick Rein,Heerbrugg,Aechelistrasse 4,hcp,0.0,0.0,508.0,1399.0,5250.0,0.0,7157.0
 Stéphane Zaza,Meyrin,Avenue J.-D.-Maillard 1,hcp,0.0,0.0,1892.95,5259.32,0.0,0.0,7152.27
 Rudolf Morant,Rapperswil,Alte Jonastrasse 24,hcp,0.0,0.0,2056.8,2842.0699999999997,2250.0,0.0,7149.87
@@ -703,12 +694,13 @@ Markus Senn,Zürich,Schulstrasse 37,hcp,0.0,0.0,786.59,2040.97,4200.0,0.0,7027.5
 Yvonne Spiess,Zürich,Talstrasse 65,hcp,0.0,0.0,1117.81,2356.25,3550.0,0.0,7024.0599999999995
 Urs Gäumann,Bern,Schosshaldenstrasse 32,hcp,0.0,0.0,1981.0300000000002,3589.92,1450.0,0.0,7020.95
 Karsten Rasche,Winterthur,"Praxis Karsten Rasche, Rönerstrasse 30",hcp,0.0,0.0,296.0,1769.98,4950.0,0.0,7015.98
-Claude-Alain Nacht,Gland,La Lignière 5,hcp,0.0,0.0,986.0999999999999,2227.17,3800.0,0.0,7013.27
 Rafael Traber,Viganello,Via Luganetto 5,hcp,0.0,0.0,0.0,208.78,6667.0,124.0,6999.78
+Marcus Schuermann,Richterswil,Bergstrasse 16,hcp,0.0,0.0,2163.5,2277.0,2550.0,0.0,6990.5
 Jens Peter Hellermann,Schiers,"Spital Schiers, Flury Stiftung Innere Medizin, Tersierstrasse 7",hcp,0.0,0.0,0.0,0.0,6925.0,56.7,6981.7
 Dominique Piguet,Biel/Bienne,Bahnhofstrasse 14,hcp,0.0,0.0,973.0,1706.46,4300.55,0.0,6980.01
 Hinde Benchaa,La Chaux-De- Fonds,Rue Dechasseral 20,hcp,0.0,0.0,1434.13,4866.0,625.0,45.0,6970.13
 Martin Kistler,Leissigen,"Praxis Martin Kistler, Dorfstrasse 20",hcp,0.0,0.0,1150.0,1520.0,4300.0,0.0,6970.0
+Robert Thomann,Solothurn,Endokrinologie / Diabetologie Schöngrünstrasse 42,hcp,0.0,0.0,327.45,2934.15,3700.0,0.0,6961.6
 Alain Delabays,Morges,Chemin du Crêt 2,hcp,0.0,0.0,1230.65,2730.1000000000004,3000.0,0.0,6960.75
 Anna Thoma-Bielak,Zürich,Walchestrasse 15,hcp,0.0,0.0,1577.4,2748.94,2625.0,0.0,6951.34
 Henri Bounameaux,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,0.0,0.0,6382.54,564.07,6946.61
@@ -757,6 +749,7 @@ Beat Kreienbühl,Luzern,Zürichstrasse 5,hcp,0.0,0.0,2078.2,4429.6,0.0,33.3,6541
 Emanuel Christ,Basel,Petersgraben 4,hcp,0.0,0.0,1062.0,3952.0,1500.0,0.0,6514.0
 Pierre Fontana,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,1246.0,1863.65,3400.0,0.0,6509.65
 Nicolas Kossmann,Rheinfelden,Roberstenstrasse 31,hcp,0.0,0.0,1639.85,2903.14,1960.0,0.0,6502.99
+Sandra Rea Torti,Belp,Bahnhofplatz 6,hcp,0.0,0.0,942.95,2308.01,3250.0,0.0,6500.96
 Marc Töteberg,Zürich,"Universistätsspital Zürich, Frauenklinikstrasse 24",hcp,0.0,0.0,0.0,98.0,6400.0,0.0,6498.0
 Dominique Braun,Zürich,Sonneggstrasse 63,hcp,0.0,0.0,376.0,1168.72,4575.0,375.0,6494.72
 Urs Ulrich,Langenthal,"Praxis Urs Ulrich, Marktgasse 1",hcp,0.0,0.0,976.0,2614.0,2900.0,0.0,6490.0
@@ -770,12 +763,12 @@ Yassine Zarkik,Martigny,Avenue De La Fusion 27,hcp,0.0,0.0,2083.8,3748.98,600.0,
 Marc Daniel Erismann,St. Gallen,Rorschacherstrasse 150,hcp,0.0,0.0,1036.1100000000001,390.94,5000.0,0.0,6427.05
 Frank Enseleit,Zürich,"Universitätsspital Zürich Medizin Kardiologie, Rämistrasse 100",hcp,0.0,0.0,0.0,560.0,5850.0,4.0,6414.0
 Catherine Mengis Bay,Brig,Ueberlandstrasse 14,hcp,0.0,0.0,2282.55,4127.02,0.0,0.0,6409.57
-Chen Haw-Tzer,Genève,Av. Wendt 28,hcp,0.0,0.0,0.0,0.0,6400.0,0.0,6400.0
 Stephan Brand,St. Gallen,Rorschacher Strasse 95,hcp,0.0,0.0,0.0,237.14,6053.0,103.0,6393.14
 Marcel Anrig,Balgach,"Praxis Marcel Anrig, Hauptstrasse 47",hcp,0.0,0.0,2430.6,2408.8,1550.0,0.0,6389.4
 Stéphanie Gaillard,Genève,Boulevard des Philosophes 5,hcp,0.0,0.0,1616.0,2770.0,2000.0,0.0,6386.0
 Ioannis Diamantis,Biel/Bienne,"Praxis PD Dr. Diamantis Ioannis, Gottstattstrasse 24",hcp,0.0,0.0,1384.9900000000002,4297.68,700.0,0.0,6382.660000000001
 Cyrus Meisels,Thun,Scherzligweg 12,hcp,0.0,0.0,330.26,1942.5100000000002,4100.0,0.0,6372.7699999999995
+Bernard Nater,Lausanne,Chemin des Croix-Rouges 2,hcp,0.0,0.0,198.0,764.0,5400.0,0.0,6362.0
 Sharmistha Guggenbühl-Roy,Zürich,Hofwiesenstrasse 3,hcp,0.0,0.0,3477.92,2882.9700000000003,0.0,0.0,6360.89
 Philip Siebel,Frauenfeld,Rosenbergstrasse 12/13,hcp,0.0,0.0,323.86,484.77,5550.0,0.0,6358.63
 Ignazio Salani,Lugano,Via Massagno 36,hcp,0.0,0.0,742.49,1924.0,3690.0,0.0,6356.49
@@ -789,14 +782,17 @@ Brigitte Uebelhart,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,1058.27,113
 Martin Widmer,Rorschach,St. Gallerstrasse 50,hcp,0.0,0.0,1738.12,4095.28,500.0,0.0,6333.4
 Olivier Staneczek,Clarens,Rue du Lac 142,hcp,0.0,0.0,666.0,2065.7599999999998,3600.0,0.0,6331.76
 Sara Meyer,Basel,Petersgraben 4,hcp,0.0,0.0,3922.0,2405.0,0.0,0.0,6327.0
+Christoph Zeller,Wetzikon ZH,Wesststrasse 70,hcp,0.0,2500.0,248.6,871.97,2700.0,0.0,6320.57
 Edouard Battegay,Basel,Petersgraben 4,hcp,0.0,0.0,0.0,0.0,6315.0,0.0,6315.0
 Marina Knöpfli,Bern,Freiburgstrasse 18,hcp,0.0,0.0,2015.5500000000002,4298.76,0.0,0.0,6314.3099999999995
 David Thorn,Basel,Lange Gasse 78,hcp,0.0,0.0,1033.0,3728.9,1550.0,0.0,6311.900000000001
 Mariam Seirafi,Genève,Avenue Eugène-Pittard 34,hcp,0.0,0.0,1799.77,4255.0,250.0,0.0,6304.77
 Martin Spahn,Zürich,"Zentrum für Urologie Zürich - Klinik Hirslanden, Witellikerstrasse 40",hcp,0.0,0.0,0.0,0.0,6288.0,0.0,6288.0
+Marcos Ortega,Zürich,"Neuromed Zürich, Stampfenbachstrasse 63",hcp,0.0,0.0,629.45,4256.3,1400.0,0.0,6285.75
 Silke Jahr,Rapperswil SG,Rathausstrasse 2,hcp,0.0,0.0,1634.0,3670.0,980.0,0.0,6284.0
 Michael Decker,Richterswil,Bergstrasse 16,hcp,0.0,0.0,2500.02,3783.87,0.0,0.0,6283.89
 Lucien Perey,Morges,Chemin du Crêt 2,hcp,0.0,0.0,1449.0,2244.5,2575.0,0.0,6268.5
+Claude-Alain Nacht,Gland,La Lignière 5,hcp,0.0,0.0,986.0999999999999,2227.17,3050.0,0.0,6263.27
 Jürg Sturzenegger,Kreuzlingen,Hauptstrasse 38/40,hcp,0.0,0.0,1430.92,555.74,4250.0,0.0,6236.66
 Markus Riederer,Burgdorf,Oberburgstrasse 54,hcp,0.0,0.0,354.0,1173.0,4700.0,0.0,6227.0
 Alexander Andreas Navarini,Zürich,Gloriastrasse 31,hcp,0.0,0.0,595.65,117.92,5200.0,311.1,6224.67
@@ -804,9 +800,9 @@ Bruno Müller,Bern,Endokrinologie Diabetologie Bern Seilerstrasse 8,hcp,0.0,0.0,
 Lutz Freitag,Luzern,Lützelmattstrasse 1,hcp,0.0,0.0,461.0,1437.0,4250.0,0.0,6148.0
 Florentia Dimitriou,Zürich,Gloriastrasse 31,hcp,0.0,0.0,1670.73,3352.99,1100.0,0.0,6123.72
 Daniel Meier,Bern,Schänzlistrasse 39,hcp,0.0,0.0,2259.17,2488.96,1370.0,0.0,6117.13
-Konstantinos Koskinas,Bern,Inselspital Bern Freiburgstrasse 18,hcp,0.0,0.0,827.75,1768.4,3500.0,0.0,6096.15
-Helge Hoffmann,Hergiswil NW,Sonnenbergstrasse 9,hcp,0.0,0.0,923.35,2571.35,2600.0,0.0,6094.7
+Salomon Nicole Montavon,Genève,Cabinet médical FMH endocrinologie-diabétologie Rue Pedro-Meylan 1,hcp,0.0,0.0,222.0,2348.5299999999997,3450.0,79.0,6099.53
 Daniela Benz,Fribourg,Rue Jacques-Vogt 3,hcp,0.0,0.0,1684.3,3743.5,660.0,0.0,6088.299999999999
+Walter Suter,Schwyz,Zeughausstrasse 10,hcp,0.0,0.0,1406.73,3959.6000000000004,500.0,214.0,6081.33
 Christoph Ackermann,Triesen,Landstrasse 359,hcp,0.0,0.0,1605.67,2469.27,2000.0,0.0,6074.9400000000005
 Karine Gerster,Zürich,Steinwiesstrasse 75,hcp,0.0,0.0,2299.0,3576.0,0.0,196.0,6071.0
 Alexander Martin,Liestal,Rheinstrasse 16,hcp,0.0,0.0,583.4300000000001,536.16,4950.0,0.0,6069.59
@@ -838,10 +834,8 @@ Oreste Mora,Mendrisio,Via Luigi Lavizzari 8,hcp,0.0,0.0,2324.0,2911.0,700.0,0.0,
 Daniel Alexander Emmerich,Winterthur,Kirchplatz 1,hcp,0.0,0.0,2491.0,3444.12,0.0,0.0,5935.12
 Peter Moosmann,Aarau,Tellstrasse 25,hcp,0.0,0.0,571.75,2307.85,3050.0,0.0,5929.6
 Sabine Bruckert,Bülach,Schaffhauserstrasse 53,hcp,0.0,0.0,1485.0,4444.0,0.0,0.0,5929.0
-Urs Knobel,Wetzikon ZH,Spitalstrasse 66,hcp,0.0,0.0,550.0,2625.0,2750.0,0.0,5925.0
 Marianne Barthelmy,Bern,"Inselspital, Freiburgstr. 18",hcp,0.0,107.6,451.71,0.0,4800.0,559.32,5918.63
 Martin Buess,Basel,Kleinriehenstrasse 30,hcp,0.0,0.0,1445.98,4470.77,0.0,0.0,5916.75
-Urs Zumsteg,Basel,Spitalstrasse 33,hcp,0.0,0.0,1282.0,2632.0,2000.0,0.0,5914.0
 Doris de Marco Stalder,Bern,Seilerstrasse 8,hcp,0.0,0.0,2071.5,3830.6,0.0,0.0,5902.1
 Peter Rohr,Zürich,"Praxis Dr. Rohr Peter, Merkurstrasse 20",hcp,0.0,0.0,919.2800000000001,3600.21,1200.0,181.0,5900.49
 Renato Kamm,Schwanden GL,Hauptstrasse 42,hcp,0.0,0.0,0.0,0.0,5900.0,0.0,5900.0
@@ -859,7 +853,6 @@ Samuel Graber,Bern,Hirschengraben 11,hcp,0.0,0.0,2630.65,3210.11,0.0,0.0,5840.76
 Christoph Boller,Unterseen,Breite 2,hcp,0.0,0.0,1238.1100000000001,1086.65,3500.0,0.0,5824.76
 Franziska Michèle Häfner,Thalwil,Alte Landstrasse 130,hcp,0.0,0.0,986.55,1351.5900000000001,3480.0,0.0,5818.14
 Bonadei Corinne Isoz,Genève,Rue Baudit 6,hcp,0.0,0.0,1875.0,3934.5,0.0,0.0,5809.5
-Matthias Zimmermann,Zürich,Birmensdorferstrasse 497,hcp,0.0,0.0,495.0,2110.0,3200.0,0.0,5805.0
 Dana Roulin,Lausanne,Av. de Rumine 35,hcp,0.0,0.0,0.0,0.0,5800.0,0.0,5800.0
 Daniel Betticher,Bourguillon,Rue Max von Sachsen 4,hcp,0.0,0.0,0.0,0.0,5800.0,0.0,5800.0
 Iris Müller-Käser,Rapperswil SG,Alte Jonastrasse 24,hcp,0.0,0.0,2247.4700000000003,3546.42,0.0,0.0,5793.889999999999
@@ -868,6 +861,7 @@ Stephanie von Orelli,Zürich,Birmensdorferstrasse 501,hcp,0.0,0.0,868.9100000000
 Heidi Martin-Braschler,Gossau SG,Friedbergstrasse 1,hcp,0.0,0.0,461.0,1684.25,3626.0,0.0,5771.25
 Christian Alfare,Uster,"Spital Uster Medizin Pneumologie, Brunnenstrasse 42",hcp,0.0,0.0,330.26,480.28,4950.0,0.0,5760.54
 Giuseppe Ghilardi,Onex,Bois-de-la-Chapelle 95,hcp,0.0,0.0,496.0,1203.0,4050.0,0.0,5749.0
+Diane Möller-Goede,Wetzikon ZH,GZO Spital Wetzikon Spitalstrasse 66,hcp,0.0,0.0,1092.0,2849.96,1800.0,0.0,5741.96
 Robert Mc Shine,Winterthur,Wieshofstrasse 102,hcp,0.0,0.0,1133.05,2042.35,2566.0,0.0,5741.4
 Nadja Engel,Wetzikon ZH,Kirchgasse 4,hcp,0.0,0.0,1268.55,3870.8199999999997,600.0,0.0,5739.37
 Niklaus Kamber,Chur,Kantonsspital Graubünden Loëstrasse 170,hcp,0.0,0.0,1055.0,3931.71,750.0,0.0,5736.71
@@ -888,6 +882,7 @@ Elisabeth Berger-Menz,Bern,Bremgartenstrasse 115,hcp,0.0,0.0,1013.0,4668.0,0.0,0
 Ulrike Pape,Baden,Im Ergel 1,hcp,0.0,0.0,869.95,2409.01,2400.0,0.0,5678.96
 Ursula Meierhofer,Zürich,"Gruppenpraxis - Rheumatologie, Altstetterstrasse 142",hcp,0.0,0.0,1496.92,2508.77,1640.0,18.7,5664.39
 Emile Mahitchi,Cologny,Chemin Frank-Thomas 68bis,hcp,0.0,0.0,2046.92,1890.03,1720.0,0.0,5656.95
+Chen Haw-Tzer,Genève,Av. Wendt 28,hcp,0.0,0.0,0.0,0.0,5650.0,0.0,5650.0
 Egemen Savaskan,Zürich,Minervastrasse 145,hcp,0.0,0.0,0.0,0.0,5650.0,0.0,5650.0
 Philippe Hiroz,Sion,Avenue Grand-Champsec 80,hcp,0.0,0.0,1973.29,3671.3999999999996,0.0,0.0,5644.69
 Burdet Luc,Payerne,Ave. de la Colline 3,hcp,0.0,0.0,758.0,2273.0,2600.0,0.0,5631.0
@@ -896,12 +891,11 @@ Joachim Mertens,Zürich,Rämistrasse 100,hcp,0.0,433.15,301.0,4876.43,0.0,0.0,56
 Fulvio Bomio,Massagno,Studio medico. Via Cabione la /via Madonna della Salute,hcp,0.0,0.0,1562.8899999999999,2546.0299999999997,1500.0,0.0,5608.92
 Nils Kucher,Schindellegi,Untere Paulistrasse 16,hcp,0.0,0.0,0.0,0.0,5600.0,0.0,5600.0
 Samuel Blaser,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,500.0,1385.0,2740.0,974.8,5599.8
+Helge Hoffmann,Hergiswil NW,Sonnenbergstrasse 9,hcp,0.0,0.0,923.35,2571.35,2100.0,0.0,5594.7
 Tushar Chatterjee,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,902.94,4686.54,0.0,0.0,5589.48
 Ulrich Walker,Basel,Petersgraben 4,hcp,0.0,0.0,903.0,4469.0,210.0,0.0,5582.0
-Walter Suter,Schwyz,Zeughausstrasse 10,hcp,0.0,0.0,1406.73,3959.6000000000004,500.0,214.0,5572.33
 Erik Aerts,Zürich,Rämistrasse 100,hcp,0.0,0.0,0.0,39.0,5073.45,457.85,5570.3099999999995
 Christian Stettler,Moutier,Rue de Beausite 49,hcp,0.0,0.0,1268.5,4300.91,0.0,0.0,5569.41
-Raymond Gaillet,Thun,Bälliz 49,hcp,0.0,0.0,460.95,1504.4,3600.0,0.0,5565.349999999999
 Jürg Hess,Lausanne,Route de Chavannes 11A,hcp,0.0,0.0,1852.72,3712.45,0.0,0.0,5565.17
 Daniel Martin Rüegg,Bern,Bottigenstrasse 6,hcp,0.0,0.0,1394.35,2299.65,1868.0,0.0,5562.0
 Norman Sartorius,Genève,Chemin Colladon 14,hcp,0.0,0.0,0.0,0.0,4176.0,1386.0,5562.0
@@ -930,21 +924,21 @@ Benjamin Kasenda,Basel,Petersgraben 4,hcp,0.0,0.0,858.78,4606.31,0.0,0.0,5465.09
 Martin Schelling,Lachen,"Spital Lachen, Oberdorfstrasse 41",hcp,0.0,0.0,543.61,4525.34,0.0,394.0,5462.950000000001
 Raphaël Léopold Delaloye,Zürich,Rämistrasse 100,hcp,0.0,0.0,2251.0,3211.04,0.0,0.0,5462.04
 Julien Elowe,Prangins,Chemin Oscar Forel 3,hcp,0.0,0.0,1173.55,2285.75,1485.0,516.0,5460.3
-Amira Kraytem,Nyon,Cabinet de groupe Nyon Chemin du Midi 8,hcp,0.0,0.0,222.0,235.0,5000.0,0.0,5457.0
 Filippo Donati,Biel/Bienne,"Memory Clinic Biel-Seeland, Unionsgasse 14",hcp,0.0,0.0,0.0,0.0,5456.48,0.0,5456.48
 Gabor Szinnai,Basel,Spitalstrasse 33,hcp,0.0,0.0,619.0,4835.0,0.0,0.0,5454.0
 François Lüthi,Lausanne,Avenue du Servan 10,hcp,0.0,0.0,392.66,3833.1200000000003,1225.0,0.0,5450.780000000001
 Pierre-Olivier Bridevaux,Genève,Chemin Beau-Soleil 4,hcp,0.0,0.0,0.0,0.0,1050.0,4400.0,5450.0
 Thomas Brack,Glarus,Burgstrasse 99,hcp,0.0,0.0,0.0,4693.37,750.0,0.0,5443.37
 Peter Allemann,Kirchlindach,"Klinik Südhang Kompetenzzentrum, Südhang 1",hcp,0.0,0.0,508.53,933.01,4000.0,0.0,5441.54
-Katharina Binz,Zürich,Stockerstrasse 42,hcp,0.0,0.0,1282.0,2157.0,2000.0,0.0,5439.0
 Thomas Müller,Zürich,UniversitätsSpital Zürich Rämistrasse 100,hcp,0.0,0.0,0.0,1123.0,4298.96,15.59,5437.55
 Pierre Vulliemin,Monthey,Avenue de la Gare 24,hcp,0.0,0.0,1735.65,3701.65,0.0,0.0,5437.299999999999
 Fernando Nargi,Gland,Allée du Communet 20,hcp,0.0,0.0,2038.0,2135.0,1260.0,0.0,5433.0
 Ronald Langner,Zollikon,"Kopfweh Zentrum Hirslanden Zürich, Forchstrasse 424",hcp,0.0,0.0,0.0,0.0,5300.0,126.0,5426.0
 Jean-Marc Fellrath,Neuchâtel,Rue de la Maladière 45,hcp,0.0,0.0,1414.05,2211.61,1800.0,0.0,5425.66
+Urs Knobel,Wetzikon ZH,Spitalstrasse 66,hcp,0.0,0.0,550.0,2625.0,2250.0,0.0,5425.0
 Marco Pons,Lugano,Via Tesserete 46,hcp,0.0,0.0,460.0,3264.46,1700.0,0.0,5424.459999999999
 Thomas Dorn,Crans-Montana,"Berner Klinik Montana Medizin Neurologie, Impasse Palace Bellevue 1",hcp,0.0,0.0,0.0,0.0,5151.72,266.42,5418.14
+Urs Zumsteg,Basel,Spitalstrasse 33,hcp,0.0,0.0,1282.0,2632.0,1500.0,0.0,5414.0
 Fernando Jermini,Lugano,Studio Dr. Jermini Fernando Via Dufour 4,hcp,0.0,0.0,1150.0,3209.1,1050.0,0.0,5409.1
 Claudia Ricci Bovier,Lutry,Grand-Rue 37,hcp,0.0,0.0,0.0,1500.0,3900.7,0.0,5400.7
 Armin Lechmann,Gossau SG,St. Gallerstrasse 124,hcp,0.0,0.0,0.0,0.0,5400.0,0.0,5400.0
@@ -956,12 +950,14 @@ Comasia Raguso,Genève,Chemin Henri de Buren 26,hcp,0.0,0.0,1811.0,3280.0,270.0,
 Joachim Klar,Olten,Hauptgasse 18,hcp,0.0,0.0,1213.0,1947.95,2200.0,0.0,5360.95
 Piercarlo Saletti,Viganello,IOSI Istituto Oncologico Ospedale Regionale di Lugano,hcp,0.0,0.0,1200.0,803.97,3350.0,0.0,5353.97
 Ute-Stephani Sehmsdorf,Zürich,Asylstrasse 81,hcp,0.0,0.0,1785.69,3063.21,500.0,0.0,5348.9
+Konstantinos Koskinas,Bern,Inselspital Bern Freiburgstrasse 18,hcp,0.0,0.0,827.75,1768.4,2750.0,0.0,5346.15
 Patrick Schihin,Horgen,"See-Spital Standort Horgen, Asylstrasse 19",hcp,0.0,0.0,637.0,3307.9700000000003,1400.0,0.0,5344.97
 Flavio Acquistapace,Manno,Via Cantonale 35d,hcp,0.0,0.0,0.0,0.0,5100.0,240.0,5340.0
 Dan Adler,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,576.74,1753.07,3000.0,0.0,5329.8099999999995
 Dominik Marti,Basel,Rütimeyerplatz 9,hcp,0.0,0.0,790.65,2920.85,1600.0,0.0,5311.5
 Christophe Hugonnet,Bulle,Rue Du Pays-d'enhaut 50,hcp,0.0,0.0,1010.7,4262.85,0.0,33.3,5306.849999999999
 Manuela Weik,Amriswil,Bahnhofstrasse 42,hcp,0.0,0.0,771.0,2098.0,2200.0,236.0,5305.0
+Matthias Zimmermann,Zürich,Birmensdorferstrasse 497,hcp,0.0,0.0,495.0,2110.0,2700.0,0.0,5305.0
 Peter Gerritsen,Zug,"Praxis Peter Gerritsen, Gubelstrasse 17",hcp,0.0,0.0,0.0,802.0,4500.0,0.0,5302.0
 Pierre Bohanes,Fribourg,Route de Villars 37,hcp,0.0,0.0,1811.9499999999998,2849.54,625.0,0.0,5286.49
 Richard Loup,Meyrin,Avenue J.-D.-Maillard 11,hcp,0.0,0.0,1798.0,3238.0,250.0,0.0,5286.0
@@ -1035,12 +1031,12 @@ Frédéric Gerber,Moutier,"Cabinets médical Viaduc, Rue du Viaduc 34",hcp,0.0,0
 Hans-Rudolf Ziswiler,Bern,Bahnhofplatz 1,hcp,0.0,0.0,2210.15,791.0,1950.0,0.0,4951.15
 Razvan Andrei Popescu,Aarau,"Tunor Zentrum Aarau AG, Rain 34",hcp,0.0,0.0,357.45,584.72,4000.0,0.0,4942.17
 Thomas Flückiger,St. Gallen,Museumstrasse 41,hcp,0.0,0.0,0.0,0.0,4200.0,741.0,4941.0
+Katharina Binz,Zürich,Stockerstrasse 42,hcp,0.0,0.0,1282.0,2157.0,1500.0,0.0,4939.0
 Christiane Rörig,Zürich,Forchstrasse 340,hcp,0.0,0.0,2115.3,2373.1,450.0,0.0,4938.4
 Corina Röscheisen-Weich,Zürich,Beethovenstrasse 43,hcp,0.0,0.0,1077.7,3255.0,500.0,105.0,4937.7
 Christoph Gut,Reinach BL,Hauptstrasse 45,hcp,0.0,0.0,1323.4,1074.12,2540.0,0.0,4937.52
 Arthur Marolf,Genève,Place de Cornavin 18,hcp,0.0,0.0,379.0,1569.0,2988.0,0.0,4936.0
 Christine Angelika Rüegg,Zürich,Rämistrasse 100,hcp,0.0,0.0,1390.0,3244.0299999999997,300.0,0.0,4934.03
-Janine Dörffler-Melly,Zürich,Bellariastrasse 40,hcp,0.0,0.0,65.0,1477.35,3388.0,0.0,4930.35
 Nicole Mutter-Borgognon,Luzern,Sanktannastrasse 32,hcp,0.0,0.0,1267.2,1949.4299999999998,1700.0,0.0,4916.63
 Andreas Luft,Zürich,Frauenklinikstrasse 26,hcp,0.0,0.0,643.2,817.63,3450.0,0.0,4910.83
 Felix Häfelin,Schlieren,Uitikonerstrasse 9,hcp,0.0,0.0,1405.0,3503.1,0.0,0.0,4908.1
@@ -1061,13 +1057,13 @@ Jean-Jacques Feldmeyer,Delémont,Route de Domont 67,hcp,0.0,0.0,205.0,632.0,4000
 Marcus D'Souza,Basel,"Petersgraben 4, Neurologie",hcp,0.0,0.0,1054.0,2393.0,1389.0,0.0,4836.0
 Bernhard Pestalozzi,Zürich,Rämistrasse 100,hcp,0.0,0.0,1978.0,632.0,2125.0,94.0,4829.0
 Philipp Fritsche,Appenzell,Sandgrube 27,hcp,0.0,0.0,1024.02,1698.1,2100.0,0.0,4822.12
+Raymond Gaillet,Thun,Bälliz 49,hcp,0.0,0.0,460.95,1504.4,2850.0,0.0,4815.349999999999
 Edya Fuhrmann,Genolier,Route du Muids 3,hcp,0.0,0.0,407.0,2998.0,1400.0,0.0,4805.0
 Edoardo Baglivo,Onex,Avenue Bois-de-la-Chapelle 15,hcp,0.0,0.0,600.7,1802.65,2300.0,100.0,4803.35
 Anette Schumacher,Schaffhausen,Geissbergstrasse 81,hcp,0.0,0.0,0.0,0.0,4800.0,0.0,4800.0
 Maria Teresa Neuhäusler,Pfäffikon SZ,Sonnenpark 26,hcp,0.0,0.0,0.0,0.0,4800.0,0.0,4800.0
 Marcel Menke,Aarau,Tellstrasse 15,hcp,0.0,0.0,0.0,467.0,4000.0,331.0,4798.0
 Pierre-André Piletta,Genève,"Skinpuls Dermatology Center, Rond-Point de Plainpalais 5",hcp,0.0,0.0,364.0,628.0,3800.0,0.0,4792.0
-Bernhard Herzog,Luzern,Sankt Annastrasse 32,hcp,0.0,0.0,1354.45,2937.16,500.0,0.0,4791.61
 Thomas Hiigle,Lausanne,"CH JV Rheumatologische Klinik, Avenue Pierre-Decker 4",hcp,0.0,0.0,551.0,1033.0,3200.0,0.0,4784.0
 Fabian Meienberg,Basel,Petersgraben 4,hcp,0.0,0.0,550.0,1732.2,2500.0,0.0,4782.2
 Irene Thüer,Frauenfeld,Pfaffenholzstrasse 4,hcp,0.0,0.0,337.24,2143.0,2300.0,0.0,4780.24
@@ -1170,7 +1166,6 @@ René Wullimann,Lugano,Via Besso 34,hcp,0.0,0.0,517.0,1769.0,2100.0,108.0,4494.0
 Adrian R. Kormann,Zürich,"Forel Klinik, Sihlquai 255",hcp,0.0,0.0,162.0,508.0,3800.0,17.0,4487.0
 Rahel Odermatt,Fribourg,Chemin des Pensionnats 2,hcp,0.0,0.0,1326.91,1908.1,1250.0,0.0,4485.01
 José Curchod,Vevey,Rue du Simplon 45,hcp,0.0,0.0,995.97,3485.88,0.0,0.0,4481.85
-Rolf Stöckli,Binningen,"FMH Endokrinologie-Diabetologie, Hauptstrasse 35",hcp,0.0,0.0,519.0,962.0,3000.0,0.0,4481.0
 Daniela Studer,Brig,"Praxis Daniela Studer, Rhonesandstrasse 6",hcp,0.0,0.0,791.26,2487.94,1200.0,0.0,4479.2
 Alexander Dieterle,Birsfelden,Hauptstrasse 70,hcp,0.0,0.0,1421.81,1489.47,1550.0,0.0,4461.28
 Martin Sachs,Aarau,Schänisweg,hcp,0.0,0.0,1247.25,2512.45,700.0,0.0,4459.7
@@ -1226,7 +1221,7 @@ Céline Michèle Girardin,Genève,Rue Willy-Donzé 6,hcp,0.0,0.0,1131.0,3168.0,0
 Albrecht Popp,Bern,Zwinglistrasse 14,hcp,0.0,0.0,42.5,301.85,3950.0,0.0,4294.35
 Philipp Kloimstein,Wattwil,Psychiatrisches Zentrum Wattwil,hcp,0.0,0.0,811.0,1777.0,1705.0,0.0,4294.0
 Tatiana Makosz,Basel,Aeschenvorstadt 21,hcp,0.0,0.0,673.0,909.0,2700.0,0.0,4282.0
-Valérie Zumsteg,Zollikerberg,Trichtenhauserst r. 12,hcp,0.0,0.0,0.0,1055.88,3100.0,126.0,4281.88
+Valérie Zumsteg,Zollikerberg,Trichtenhauserstr. 12,hcp,0.0,0.0,0.0,1055.88,3100.0,126.0,4281.88
 Samuel Sidler,Steffisburg,"Praxis Samuel Sidler, Zeigstrasse 10",hcp,0.0,0.0,3010.0,1270.0,0.0,0.0,4280.0
 Maurizio Bernasconi,Bellinzona,Via Ospedale,hcp,0.0,0.0,723.74,2552.56,1000.0,0.0,4276.3
 Heino Prillwitz,St. Gallen,Rorschacher Strasse 95,hcp,0.0,0.0,0.0,0.0,4270.0,0.0,4270.0
@@ -1236,6 +1231,7 @@ Dominique Schneeberger,Fribourg,Boulevard des Pérolles 5,hcp,0.0,0.0,669.61,209
 Gregory Fretz,Scuol,Via da l' Ospidal 280,hcp,0.0,0.0,295.0,1967.03,2000.0,0.0,4262.03
 Eduna Grandjean,Onex,24 Rue des Bossons,hcp,0.0,0.0,483.0,978.0,2800.0,0.0,4262.0
 Franco de Micheli,Chiasso,Corso San Gottardo 54B,hcp,0.0,0.0,588.1,1369.03,2300.0,0.0,4257.13
+Amira Kraytem,Nyon,Cabinet de groupe Nyon Chemin du Midi 8,hcp,0.0,0.0,222.0,235.0,3800.0,0.0,4257.0
 Matthias Anderegg,Ittigen,Talgut-Zentrum 5,hcp,0.0,0.0,257.95,603.4,3388.0,0.0,4249.349999999999
 Theresia Hardegger,Luzern,Obergrundstrasse 44,hcp,0.0,0.0,2130.02,2114.23,0.0,0.0,4244.25
 Christian Schmidt,Wetzikon ZH,Kirchgasse 4,hcp,0.0,0.0,768.2,2875.3,600.0,0.0,4243.5
@@ -1249,13 +1245,15 @@ Katrin Heldt,St. Gallen,Claudiusstrasse 6,hcp,0.0,0.0,1332.0,2890.0,0.0,0.0,4222
 Sylvia Gschwend,Zug,Baarerstrasse 12,hcp,0.0,0.0,1540.7,2679.05,0.0,0.0,4219.75
 Fritz Egli,Chur,Loestrasse 170,hcp,0.0,0.0,1011.0,3202.0,0.0,0.0,4214.0
 Natalia Rudovich,Bülach,Spitalstrasse 24,hcp,0.0,0.0,722.0,2689.0,800.0,0.0,4211.0
+Stefan Zimmerli,Bern,"Freiburgstrasse 18 Haus 5, Eingang 16p",hcp,0.0,0.0,0.0,981.0,2800.0,424.06,4205.06
 Pierre Antaki,Lausanne,Route Aloys Fauquez 121,hcp,0.0,0.0,0.0,1160.0,3040.0,0.0,4200.0
 Carolin Brümmerhoff,St. Gallen,Rorschacher Strasse 95,hcp,0.0,0.0,0.0,0.0,4200.0,0.0,4200.0
 Ursula Maria Flückiger,Küttigen,Burghaldeweg 18a,hcp,0.0,0.0,0.0,0.0,4200.0,0.0,4200.0
 Tullio Sulser,Meilen,Obere Kirchgasse 18,hcp,0.0,0.0,141.0,817.0,3240.0,0.0,4198.0
 Olaf Müller,Bern,Monbijoustrasse 10,hcp,0.0,0.0,1248.0,2292.0,650.0,0.0,4190.0
 Erich Helfenstein,Luzern,Lützelmattstrasse 1,hcp,0.0,0.0,422.0,3767.8700000000003,0.0,0.0,4189.87
-Nägeli Miriam,Zürich,Gloriastrasse 31,hcp,0.0,0.0,0.0,1585.41,2600.0,0.0,4185.41
+Miriam Nägeli,Zürich,Gloriastrasse 31,hcp,0.0,0.0,0.0,1585.41,2600.0,0.0,4185.41
+Janine Dörffler-Melly,Zürich,Bellariastrasse 40,hcp,0.0,0.0,65.0,1477.35,2638.0,0.0,4180.35
 Claude Vaney,Crans-Montana,Imp. Palace Bellevue 1,hcp,0.0,0.0,0.0,0.0,4000.0,173.0,4173.0
 Liv Krämer,Zürich,Glockengasse 8,hcp,0.0,0.0,0.0,1500.0,2672.15,0.0,4172.15
 Claudia Pfeiffer Zehnder,Winterthur,Theaterstrasse 1,hcp,0.0,0.0,1469.94,2297.69,400.0,0.0,4167.63
@@ -1314,10 +1312,9 @@ Bruno Kägi,Zürich,Beckenhofstrasse 6,hcp,0.0,0.0,976.5,2811.99,205.0,0.0,3993.
 Rudolf Bezel,Winterthur,Wartstrasse 14,hcp,0.0,0.0,0.0,1693.46,2300.0,0.0,3993.46
 Andreas Thueler,Baden,Im Ergel 1,hcp,0.0,0.0,1125.5,1023.09,1840.0,0.0,3988.59
 Matthias Barton,Zürich,Winterthurerstrasse 190,hcp,0.0,0.0,0.0,0.0,3986.0,0.0,3986.0
-Robert Schneider,Thun,Bahnhofstrasse 1,hcp,0.0,0.0,306.0,1974.8999999999999,1700.0,0.0,3980.8999999999996
+Rolf Stöckli,Binningen,"FMH Endokrinologie-Diabetologie, Hauptstrasse 35",hcp,0.0,0.0,519.0,962.0,2500.0,0.0,3981.0
 Ulrich Egermann,Winterthur,Lagerhausstrasse 9,hcp,0.0,0.0,421.0,809.0,2750.0,0.0,3980.0
 Andrei Cicotti,Vésenaz,Route d'Hermance 2,hcp,0.0,0.0,902.89,1998.58,1077.0,0.0,3978.46
-Olivier Phan,Payerne,Case Postale 192,hcp,0.0,0.0,116.85,1060.56,2800.0,0.0,3977.41
 Stefan P. Kradolfer,Basel,"Gruppenpraxis, Picassoplatz 8",hcp,0.0,0.0,1150.0,1150.0,1675.0,0.0,3975.0
 Christian Johannes Taverna,Münsterlingen,Spitalcampus 1,hcp,0.0,0.0,1422.0,2471.0,0.0,79.0,3973.0
 Günther Zech,Basel,Gellertstrasse 144,hcp,0.0,0.0,614.0,366.0,2990.0,0.0,3970.0
@@ -1336,6 +1333,7 @@ Daniela Thalmann,Zürich,Kalanderplatz 1,hcp,0.0,0.0,1221.12,2711.7799999999997,
 Jan Krützfeldt,Zürich,Rämistrasse 100,hcp,0.0,0.0,333.55,3587.53,0.0,0.0,3921.08
 Bernard Krüger,Zürich,"Universitätsspital Zürich,Rämistr.100",hcp,0.0,491.38,798.88,1696.9499999999998,0.0,925.54,3912.74
 Henning Burmeister,Thun,Spital STS AG Spital Thun Krankenhausstrasse 12,hcp,0.0,0.0,1139.85,2326.6400000000003,440.0,0.0,3906.49
+Volker Stenz,Münsterlingen,Spitalcampus 1,hcp,0.0,0.0,1110.35,2594.59,0.0,199.0,3903.94
 Maria Petrus,Zürich,Höschgasse 50,hcp,0.0,0.0,599.4,2054.05,1250.0,0.0,3903.4500000000003
 Heinrich Tinner,Weinfelden,Bahnhofstrasse 22,hcp,0.0,0.0,586.0,1007.0,2300.0,0.0,3893.0
 Tatiana Miusskaya Fehr,Chur,"Klinik Waldhaus, Loestrasse 220",hcp,0.0,0.0,366.0,2062.4,1462.0,0.0,3890.4
@@ -1351,7 +1349,6 @@ Philippe Beissner,Zollikerberg,Rietholzstrasse 4,hcp,0.0,0.0,379.1,470.8,3000.0,
 Marco Studer,Basel,Steinenvoratadt 26,hcp,0.0,0.0,1288.5,2559.1,0.0,0.0,3847.5
 Robert Käufeler,St. Gallen,Poststrasse 18,hcp,0.0,0.0,289.0,689.0,2800.0,69.0,3847.0
 Giuseppe Spatola,Birsfelden,Hauptstrasse 56,hcp,0.0,0.0,1394.0,2051.0,400.0,0.0,3845.0
-Volker Stenz,Münsterlingen,Spitalcampus 1,hcp,0.0,0.0,1110.35,2594.59,0.0,199.0,3842.94
 Mauro Castelnuovo,Mendrisio,via Luigi Lavizzari 4,hcp,0.0,0.0,1593.0,2242.0,0.0,0.0,3835.0
 Raymond Berclaz,Sion,Avenue de la Gare 34,hcp,0.0,0.0,990.0,2844.0,0.0,0.0,3834.0
 Matteo Preve,Mendrisio,Clinica psichiatrica cantonale Via Agostino Maspoli 6,hcp,0.0,0.0,577.0,1479.0,1777.0,0.0,3833.0
@@ -1385,6 +1382,7 @@ Jacques Blondel,Lausanne,Rue des Terreaux 20,hcp,0.0,0.0,705.0,2433.0,600.0,0.0,
 Jürg Oswald,Zürich,Lengghalde 2,hcp,0.0,0.0,1796.0,1702.0,240.0,0.0,3738.0
 Fernando Colla,Winterthur,Theaterstrasse 1,hcp,0.0,0.0,1423.15,1743.53,570.0,0.0,3736.6800000000003
 Emilie Solimando,Neuchâtel,Faubourg de l'Hôpital 81,hcp,0.0,0.0,752.68,2483.6499999999996,500.0,0.0,3736.33
+Robert Schneider,Thun,Bahnhofstrasse 1,hcp,0.0,0.0,306.0,1729.7,1700.0,0.0,3735.7
 Marc Maurer,Olten,Baslerstrasse 150,hcp,0.0,0.0,326.0,1159.4,2250.0,0.0,3735.4
 Jan Signorell,Chur,Gürtelstrasse 46,hcp,0.0,0.0,458.35,1973.08,1300.0,0.0,3731.4300000000003
 Maciej Kwiatkowski,Aarau,Tellstrasse 25,hcp,0.0,0.0,933.0,2795.0,0.0,0.0,3728.0
@@ -1429,7 +1427,7 @@ Gregor Fürstenberger,Chur,Masanserstrasse 2,hcp,0.0,0.0,1010.21,1303.22,1300.0,
 Olivier Nangoz,Genève,Rue de Moillebeau 33,hcp,0.0,0.0,1691.2,1917.3,0.0,0.0,3608.5
 Urs Kaiser,Engelburg,Praxis Engelhof AG Breitschachenstrasse 10a,hcp,0.0,0.0,0.0,0.0,3600.0,0.0,3600.0
 Beat Thürlimann,St. Gallen,Rorschacher Strasse 95,hcp,0.0,0.0,300.0,150.0,3150.0,0.0,3600.0
-Daniel Reitzer,Zürich,Wengihof Apotheke &Drogerie AG,hcp,0.0,0.0,0.0,0.0,3600.0,0.0,3600.0
+Daniel Reitzer,Zürich,Wengihof Apotheke & Drogerie AG,hcp,0.0,0.0,0.0,0.0,3600.0,0.0,3600.0
 Kirsten Reuter Geiser,Hinterkappelen,"Praxis Kirsten Reuter Geiser, Dorfstrasse 1",hcp,0.0,0.0,0.0,0.0,3600.0,0.0,3600.0
 Adrian Burki,Solothurn,Schänzlistrasse 6,hcp,0.0,0.0,0.0,0.0,3600.0,0.0,3600.0
 Roger Weber,St-Imier,"Hôpital du Jura bernois SA - Site de St-Imier Méd.Cardiologie, Les Fontenayes 17",hcp,0.0,0.0,397.0,801.0,1200.0,1200.0,3598.0
@@ -1470,7 +1468,7 @@ Alfons Studer,Riedholz,Sonnenrainstrasse 1,hcp,0.0,0.0,585.8,2911.09,0.0,0.0,349
 Celeste Palmarocchi,Viganello,Viale Pietrocapelli 1,hcp,0.0,0.0,679.4,1913.63,900.0,0.0,3493.0299999999997
 Mariarosaria Lang-Muritano,Zürich,Steinwiesstrasse 75,hcp,0.0,0.0,729.0,2762.0,0.0,0.0,3491.0
 Nicola Ferrari,Locarno,"Praxis Nicola Ferrari, Via Stefano Franscini 14B",hcp,0.0,0.0,416.0,824.0,2250.0,0.0,3490.0
-Alain Chanson,lausanne,Rue de la Vigie 5,hcp,0.0,0.0,970.1,2519.3999999999996,0.0,0.0,3489.5
+Alain Chanson,Lausanne,Rue de la Vigie 5,hcp,0.0,0.0,970.1,2519.3999999999996,0.0,0.0,3489.5
 Rouven Müller,Zürich,"Universitätsspital Zürich Medizin Hämatologie, Räristrasse 100",hcp,0.0,0.0,667.0,419.0,2300.0,100.0,3486.0
 Ronald Kraemer,Genève,Rue Emile-Yung 4,hcp,0.0,0.0,624.01,2858.95,0.0,0.0,3482.96
 Romain Alexander Zahnd,Bern,Seilerstrasse 8,hcp,0.0,0.0,550.0,1316.12,1600.0,16.0,3482.12
@@ -1525,6 +1523,7 @@ Patrick Roth,Wädenswil,Bahnhofstrasse 4,hcp,0.0,0.0,872.6,1520.88,960.0,0.0,335
 Stéphane Genevay,Genève,Hôpitaux universitaires de Genève - Service de rhumatologie Avenue de Beau-Séjour 26,hcp,0.0,0.0,320.95,451.3,2500.0,80.0,3352.25
 Angela Hähnsen,Zürich,"Stadtspital Triemli, Birmensdorferstrasse 497",hcp,0.0,0.0,1091.2,2259.5,0.0,0.0,3350.7
 Daniel Schlossberg,Zürich,Bachmattstrasse 53,hcp,0.0,0.0,0.0,0.0,3350.0,0.0,3350.0
+Bernhard Herzog,Luzern,Sankt Annastrasse 32,hcp,0.0,0.0,920.29,1926.74,500.0,0.0,3347.0299999999997
 Claudia Münger-Beyeler,Unterseen,"Gastroenterologie Interlaken, Weissenaustrasse 27",hcp,0.0,0.0,847.76,2499.01,0.0,0.0,3346.77
 Lucas Jörg,St. Gallen,Rorschacherstrasse 95,hcp,0.0,0.0,1223.0,2117.08,0.0,0.0,3340.08
 Jean Villard,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,700.0,2440.2,0.0,194.6,3334.8
@@ -1532,6 +1531,7 @@ Paulo Jorge Castro Soares,Genève,Avenue de la Roseraie 74,hcp,0.0,0.0,843.0,248
 Urs Keller,Sargans,Bahnhofpark 2a,hcp,0.0,0.0,295.35,1737.35,1300.0,0.0,3332.7
 Jörg Weik,Amriswil,Bahnhofstrasse 42,hcp,0.0,0.0,0.0,1462.08,1800.0,69.0,3331.08
 Martin Ziehmann,Zürich,Schaffhauserstrasse 34,hcp,0.0,0.0,1664.16,1664.4,0.0,0.0,3327.56
+Olivier Phan,Payerne,Case Postale 192,hcp,0.0,0.0,116.85,1060.56,2150.0,0.0,3327.41
 Nicolas Fleury,Fribourg,Boulevard de Pérolles 14,hcp,0.0,0.0,771.5,2520.3,0.0,33.3,3325.1
 Jaafar Jaafar,Genève,Rue Gabrielle-Perret -Gentil 4,hcp,0.0,0.0,818.0,1502.24,1000.0,0.0,3320.24
 Roman Inauen,Münsterlingen,Spitalcampus 1,hcp,0.0,0.0,1672.5,1646.46,0.0,0.0,3317.96
@@ -1603,7 +1603,6 @@ Michel Maillard,Lausanne,CHUV,hcp,0.0,0.0,1800.8200000000002,1394.65,0.0,0.0,319
 Alain Mantegani,Neuchâtel,Rue de l'Hôpital 11,hcp,0.0,0.0,1024.0,1719.0,450.0,0.0,3193.0
 Thomas Niederhauser,Bern,Ellenauweg 52,hcp,0.0,0.0,1522.9,1067.2,600.0,0.0,3190.1
 Stefan Kuster,Zürich,UniversitätsSpital Zürich Rämistrasse 100,hcp,0.0,0.0,1848.02,1341.82,0.0,0.0,3189.84
-Marija Golay-Petersen,Genève,Ruelle de la Vianigrerie 5,hcp,0.0,0.0,401.0,2787.0,0.0,0.0,3188.0
 Stephane Chevallier,Yverdon-les-Bain,"Cabinet Stephane Chevallier, Avenue Haldimand 57",hcp,0.0,0.0,899.0,1588.0,700.0,0.0,3187.0
 Slavica Romancuk,Opfikon,Wright-Strasse 34,hcp,0.0,0.0,394.31,1091.67,1700.0,0.0,3185.98
 George Coukos,Lausanne,CHUV Departement d'Oncologie BH 06 Rue du Bugnon 46,hcp,0.0,0.0,0.0,0.0,3062.5,119.55,3182.05
@@ -1736,8 +1735,6 @@ Sophie Moirandat Rytz,Muri b. Bern,Mettlengässli 2,hcp,0.0,0.0,1121.17,1783.94,
 Raymond Friolet,St. Gallen,"Hôpital de Sion, Avenue du Grand-Champsec 80",hcp,0.0,471.93,686.84,895.65,0.0,849.24,2903.66
 Sieglinde Major Schumacher,Tafers,Zelgstrasse 25,hcp,0.0,0.0,1508.71,1396.83,0.0,0.0,2903.54
 Nicolas Mariotti,Fribourg,HFR,hcp,0.0,0.0,928.0,1974.0,0.0,0.0,2902.0
-Vincent Jéquier,Lausanne,Cabinet médical FMH Médecine interne générale Route d'Oron 1,hcp,0.0,0.0,0.0,0.0,2900.0,0.0,2900.0
-Frank Achermann,Luzern,Weggisgasse 40,hcp,0.0,0.0,0.0,0.0,2900.0,0.0,2900.0
 Heinrich Kläui,Bern,Bühlstrasse 59,hcp,0.0,0.0,1150.0,1150.0,600.0,0.0,2900.0
 Renzo Dal Zotto,Neuchâtel,Rue Saint-Honoré 3,hcp,0.0,0.0,754.0,2145.0,0.0,0.0,2899.0
 Véronique Ruff-Zemp,Genève,Rue Maunoir 26,hcp,0.0,0.0,888.72,2009.23,0.0,0.0,2897.95
@@ -1778,7 +1775,6 @@ Timur Taskesen,Zürich,Limmatstrasse 252,hcp,0.0,0.0,340.0,1360.0,937.5,170.0,28
 Marion Bötschi,Herisau,"Spital Herisau, Spitalstrasse 6",hcp,0.0,210.78,491.91,0.0,1400.0,702.7,2805.3900000000003
 Giovanni Frisoni,Les Acacias,Rue des Épinettes 19,hcp,0.0,0.0,0.0,0.0,800.0,2004.0,2804.0
 Nathalie Pugnale-Verillotte,Fribourg,Rue Saint-Pierre 1,hcp,0.0,0.0,521.0,1883.0,400.0,0.0,2804.0
-Dean-Marc Sulliger,Burgdorf,"Praxis Dean-Marc Sulliger, Bahnhofstrasse 7",hcp,0.0,0.0,0.0,0.0,2800.0,0.0,2800.0
 Ajit Andreas Singh,Zürich,Stadelhoferstrasse 8,hcp,0.0,0.0,0.0,0.0,2800.0,0.0,2800.0
 Michel Jung,Genève,Cabinet Michel Jung. Rue de Lyon 45,hcp,0.0,0.0,0.0,0.0,2800.0,0.0,2800.0
 Orlando Personeni,Genève,"Cabinet Orlando Personeni, Rue Adrien-Vallin 2",hcp,0.0,0.0,0.0,0.0,2800.0,0.0,2800.0
@@ -1815,7 +1811,6 @@ Martin Georg Daepp,Biel/Bienne,Vogelsang 84,hcp,0.0,0.0,957.0,800.65,1000.0,0.0,
 Mariagrazia Rossi,Lugano,Via Tesserete 48,hcp,0.0,0.0,662.45,1093.87,1000.0,0.0,2756.3199999999997
 Rafik Bouzegaou,Marsens,Réseau fribourgeois de santé mentale - c/o Centre de soins hospitaliers - L'Hôpital 140,hcp,0.0,0.0,484.0,1272.0,1000.0,0.0,2756.0
 Giorgio Ferrario,Riva San Vitale,Via Mons.Sesti 22,hcp,0.0,0.0,746.0,2006.0,0.0,0.0,2752.0
-Bernhard Abbühl,Bern,"Praxis Dr. Abbühl Bernhard, Münzgraben 4",hcp,0.0,0.0,0.0,0.0,2750.0,0.0,2750.0
 Alfred Schweizer,Weinfelden,Marktplatz 5,hcp,0.0,0.0,0.0,0.0,2750.0,0.0,2750.0
 Jean-Philippe Görög,Bern,Schanzenstrasse 1,hcp,0.0,0.0,966.0,924.0,860.0,0.0,2750.0
 Christina Knellwolf,St. Gallen,Rorschacher Strasse 95,hcp,0.0,0.0,40.54,708.39,2000.0,0.0,2748.93
@@ -1880,7 +1875,6 @@ Lienhard Widmer-Davidson,Wettingen,Neustrasse 29,hcp,0.0,0.0,575.7,1254.03,800.0
 Christoph Wineken,Zürich,"Praxis Christoph Wineken, Baumackerstrasse 53",hcp,0.0,0.0,0.0,0.0,2625.0,0.0,2625.0
 Ganotis Charalampos,Aarau,Bahnhofplatz 4,hcp,0.0,0.0,435.0,1562.0,395.0,233.0,2625.0
 Tiziana Gozzi Graf,St. Gallen,Claudiusstrasse 6,hcp,0.0,0.0,782.0,837.0,1000.0,0.0,2619.0
-Maria Rosza Dervaderics,Neuenhof,Albertstrasse 4,hcp,0.0,0.0,0.0,1117.65,1500.0,0.0,2617.65
 Katya Ivanova,Basel,Aeschenvorstadt 48,hcp,0.0,0.0,773.88,841.27,1000.0,0.0,2615.15
 Giorgio Bianchi,Lugano,Via Nassa 58,hcp,0.0,0.0,586.0,1524.0,500.0,0.0,2610.0
 Michael Mutter,Glarus,Burgstrasse 99,hcp,0.0,0.0,295.0,414.0,1900.0,0.0,2609.0
@@ -1985,10 +1979,12 @@ Sara Queirolo,Lugano,Via Tesserete 46,hcp,0.0,0.0,577.0,1836.0,0.0,0.0,2413.0
 Rolf Ensner,Aarau,"Kantonsspital Aarau AG,Tellstr. 1",hcp,0.0,0.0,495.9,1916.73,0.0,0.0,2412.63
 Julie Refardt,Basel,Petersgraben 4,hcp,0.0,0.0,877.0,1533.05,0.0,0.0,2410.05
 Walter Strupler,Bachenbülach,Gruppenpraxis Dorfstrasse 26,hcp,0.0,0.0,0.0,1560.0,850.0,0.0,2410.0
+Marija Golay-Petersen,Genève,Ruelle de la Vianigrerie 5,hcp,0.0,0.0,401.0,2007.0,0.0,0.0,2408.0
 Gabriele Eglseer,Walenstadtberg,Chnoblisbüel 1,hcp,0.0,0.0,1210.63,1193.56,0.0,0.0,2404.19
 Celia Juliane Kako,Männedorf,Neurologen am Zürichsee,hcp,0.0,0.0,801.0,1601.0,0.0,0.0,2402.0
 Adrian Duss,Luzern,"Luzerner Kantonsspital Luzern, Spitalstrasse",hcp,0.0,0.0,569.49,1832.38,0.0,0.0,2401.87
 Jennifer Blarer,Schlieren,Urdorferstrasse 100,hcp,0.0,0.0,0.0,1651.0,750.0,0.0,2401.0
+Frank Achermann,Luzern,Weggisgasse 40,hcp,0.0,0.0,0.0,0.0,2400.0,0.0,2400.0
 Demetrio Pitarch,Boncourt,La Ruatte 4A,hcp,0.0,0.0,0.0,0.0,2400.0,0.0,2400.0
 Thomas Armin Michel-Nufer,Wilderswil,"Gruppenpraxis, Lehngasse 47",hcp,0.0,0.0,1200.0,1200.0,0.0,0.0,2400.0
 Beat Frauchiger,Frauenfeld,Kantonsspital Frauenfeld Pfaffenholzstrasse 4,hcp,0.0,0.0,0.0,0.0,2400.0,0.0,2400.0
@@ -2076,7 +2072,6 @@ Gregor Freystätter,Zürich,Rämistrasse 100,hcp,0.0,0.0,292.45,1321.45,650.0,0.
 Yan Beauverd,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,369.97,1043.78,850.0,0.0,2263.75
 Laurent Girard,Genève,Rue de Lyon 62,hcp,0.0,0.0,716.0,1547.0,0.0,0.0,2263.0
 Martin Iff,Reinach BL,Hauptstrasse 45,hcp,0.0,0.0,879.79,1381.6899999999998,0.0,0.0,2262.48
-Stefan Zimmerli,Bern,"Freiburgstrasse 18 Haus 5, Eingang 16p",hcp,0.0,0.0,0.0,981.0,1000.0,280.06,2261.06
 Kadir Oktay Kocagöncü,Basel,Güterstrasse229,hcp,0.0,0.0,621.15,1139.53,500.0,0.0,2260.6800000000003
 Barbara Dehos,St. Gallen,Rorschacher Strasse 95,hcp,0.0,0.0,547.0,1712.0,0.0,0.0,2259.0
 Florian Winkler,Bern,Viktoriastrasse 72,hcp,0.0,0.0,918.1600000000001,1340.1,0.0,0.0,2258.26
@@ -2087,7 +2082,6 @@ Tobias Von Blumenthal,Davos Clavadel,Zürcher RehaZentrum Davos Klinikstrasse 6,
 Katharina Schaub,Zürich,Schaffhauserstrasse 34,hcp,0.0,0.0,929.06,1314.75,0.0,0.0,2243.81
 Clemens Drobig,Seewis Dorf,Schlossstrasse 1,hcp,0.0,0.0,569.0,1672.0,0.0,0.0,2241.0
 Thomas Künzi,Langenthal,"SRO Spital Region Oberaargau AG, St. Urbanstrasse 67",hcp,0.0,0.0,421.66999999999996,1819.29,0.0,0.0,2240.96
-Ulrich Keller,Basel,"Praxis Ulrich Keller, Aeschenvorstadt 57",hcp,0.0,0.0,0.0,0.0,2240.0,0.0,2240.0
 Anne Eckert,Basel,"Universitäre Psych. Kliniken UPK, Wilhelm Kleinstrasse 27",hcp,0.0,0.0,0.0,0.0,2000.0,240.0,2240.0
 Reto Barandun,Wattenwil,Schmittestrasse 5,hcp,0.0,0.0,544.95,1694.21,0.0,0.0,2239.1600000000003
 Daniel Good,Basel,Aeschenvorstadt 57a,hcp,0.0,0.0,851.0,1388.0,0.0,0.0,2239.0
@@ -2125,7 +2119,7 @@ Clarissa Bachmeier,Bern,Waaghaus-Passage 8,hcp,0.0,0.0,810.94,1377.04,0.0,0.0,21
 Maria Elisabete Coelho,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,869.3,1317.62,0.0,0.0,2186.92
 Vera Jenni,St. Gallen,Rorschacherstrasse 95,hcp,0.0,0.0,457.5,1728.6,0.0,0.0,2186.1
 Alexandra Knipprath Mészaros,Basel,Frauenklinik Spitalstrasse 21,hcp,0.0,0.0,562.11,1620.75,0.0,0.0,2182.86
-Giancarlo Ambroslni,Bellinzona,Viale Portone t,hcp,0.0,0.0,353.4,828.0,1000.0,0.0,2181.4
+Giancarlo Ambrosini,Bellinzona,Viale Portone 1,hcp,0.0,0.0,353.4,828.0,1000.0,0.0,2181.4
 Roland Urs Knöpfli,Bern,"Hirslanden Bern AG, Klinik Beau-Site, Schänzlihalde 11",hcp,0.0,196.04,710.33,678.04,0.0,596.84,2181.25
 Heinz Läubli,Basel,Petersgraben 4,hcp,0.0,0.0,1028.0,1153.0,0.0,0.0,2181.0
 Marco Piergiovanni,Neuchâtel,Avenue du Premier-Mars 33,hcp,0.0,0.0,1000.4000000000001,1177.7,0.0,0.0,2178.0
@@ -2137,6 +2131,7 @@ Grit Richartz,Solothurn,Schöngrünstrasse 38,hcp,0.0,0.0,593.0,822.0,750.0,0.0,
 Andreas Aebersold,Aarwangen,Riedgasse 18,hcp,0.0,0.0,0.0,1560.0,600.0,0.0,2160.0
 Stéphanie Liardet,Lausanne,Avenue du Théatre 7,hcp,0.0,0.0,742.0,1418.0,0.0,0.0,2160.0
 Urs Eiholzer,Zürich,Möhrlistrasse 69,hcp,0.0,0.0,615.0,1536.0,0.0,0.0,2151.0
+Vincent Jéquier,Lausanne,Cabinet médical FMH Médecine interne générale Route d'Oron 1,hcp,0.0,0.0,0.0,0.0,2150.0,0.0,2150.0
 Ladina Joos Zellweger,Basel,Kleinriehenstrasse 30,hcp,0.0,0.0,296.0,1104.0,750.0,0.0,2150.0
 Patrick Fachinger,Erlinsbach,Gehrenstrasse 21a,hcp,0.0,0.0,0.0,0.0,2150.0,0.0,2150.0
 Roseline Ruetsch,Bern,"Gastroenterologische Praxis, Bremgartenstrasse 119",hcp,0.0,0.0,554.76,1594.81,0.0,0.0,2149.57
@@ -2204,6 +2199,7 @@ Zdenek Skruzny,St. Gallen,Schreinerstrasse 7,hcp,0.0,0.0,421.16,1002.96,630.0,0.
 Elisabeth Langenskiöld,Carouge GE,Place du Temple 15,hcp,0.0,0.0,147.0,1906.95,0.0,0.0,2053.95
 Dagmar Astrid Schmid,St. Gallen,Rorschacher Strasse 95,hcp,0.0,0.0,419.0,733.0,900.0,0.0,2052.0
 Isabelle Suter,Sursee,Spitalstrasse 16a,hcp,0.0,0.0,916.6700000000001,1133.69,0.0,0.0,2050.36
+Dean-Marc Sulliger,Burgdorf,"Praxis Dean-Marc Sulliger, Bahnhofstrasse 7",hcp,0.0,0.0,0.0,0.0,2050.0,0.0,2050.0
 Theodor Landis,Lausanne,Avenue Jomini 8,hcp,0.0,0.0,0.0,0.0,2050.0,0.0,2050.0
 Irene Carletti,Bern,Spitalgasse 37,hcp,0.0,0.0,0.0,0.0,2000.0,49.0,2049.0
 Létizia Rieckhoff-Cantoni,Lausanne,Rue du Grand-Pont 8,hcp,0.0,0.0,526.82,604.83,700.0,214.97,2046.62
@@ -2229,6 +2225,7 @@ Pierluigi Pedrazzi,Bellinzona,Via Ospedale,hcp,0.0,0.0,509.0,1497.0,0.0,0.0,2006
 Rolf Maager,Aarau,Igelweid 5,hcp,0.0,0.0,454.33000000000004,550.03,1000.0,0.0,2004.37
 Franziska Schober,Uster,Brunnenstrasse 42,hcp,0.0,0.0,527.2,1477.09,0.0,0.0,2004.29
 Bertrand Jop,Martigny,Avenue De Lagare 44,hcp,0.0,0.0,394.28,907.32,700.0,0.0,2001.6
+Bernhard Abbühl,Bern,"Praxis Dr. Abbühl Bernhard, Münzgraben 4",hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
 Christophe Petite,Martigny,"FMH endocrinologie-diabétologie, Avenue de la Gare 19",hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
 Dina Zekry,Thônex,"Hôpital des Trois Chênes, Chemin du Pont-Bochet 3",hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
 Dominik Maurer,Zürich,HerzGefässZentrum Zürich Seestrasse 247,hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
@@ -2322,6 +2319,7 @@ Renate Spinas,Zürich,"Kinderspital Zürich, Steinwiesstrasse 75",hcp,0.0,0.0,80
 Maurice Beghetti,Genève,"Children's University Hospital, rue Willy-Donze 6",hcp,0.0,0.0,0.0,0.0,1870.98,0.0,1870.98
 Jean-Luc Magnenat,Carouge GE,"Centre cardio-pulmonaire, Clos de la Fonderie 1A",hcp,0.0,0.0,147.0,523.0,1200.0,0.0,1870.0
 Cyrill Hess,Wetzikon ZH,"GZO Spital Wetzikon, Spitalstrasse 66",hcp,0.0,0.0,465.99,1402.31,0.0,0.0,1868.3
+Maria Rosza Dervaderics,Neuenhof,Albertstrasse 4,hcp,0.0,0.0,0.0,1117.65,750.0,0.0,1867.65
 Jens Fassl,Basel,"Universitätsspital Basel, Spitalstrasse 21",hcp,0.0,0.0,0.0,1067.46,0.0,800.0,1867.46
 Anne-Catherine Joly,Genève,Rue Gabrielle- Perret-Gentil 4,hcp,0.0,0.0,615.5,1251.28,0.0,0.0,1866.78
 Marie-Astride Peeters-Lamy,Onex,Route de Chancy 98,hcp,0.0,0.0,310.0,954.0,600.0,0.0,1864.0
@@ -2366,7 +2364,6 @@ Aurélie Sansonnens,Solothurn,Schöngrünstrasse 42,hcp,0.0,0.0,455.48,1352.8,0.
 Michael Huger,Chur,Quaderstrasse 2,hcp,0.0,0.0,578.99,1120.42,0.0,108.0,1807.4099999999999
 Katja Deseö-Schütz,Zürich,Dufourstrasse 143,hcp,0.0,0.0,295.35,905.9,600.0,0.0,1801.25
 Alexandar Tzankov,Basel,"Universitätsspital Basel Pathologie, Schönbeinstrasse 40",hcp,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0
-Beat Knoll,Schattdorf,Adlergartenstrasse 15,hcp,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0
 Martin Scherler,Meilen,Dorfstrasse 116,hcp,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0
 Susanne Bucher,Herrliberg,Schulhausstrasse 12,hcp,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0
 Torsten Willenberg,Bern,Kramgasse 16,hcp,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0
@@ -2401,7 +2398,6 @@ Denisa Kurth Vrankova,Zürich,Hofwiesenstrasse 3,hcp,0.0,0.0,252.7,313.2,1200.0,
 Stefanie Wildi-Runge,Zürich,Möhrlistrasse 69,hcp,0.0,0.0,634.0,1131.0,0.0,0.0,1765.0
 Claudia Preissler,Olten,"Kantonsspital Olten - Gastroenterologie, Baslerstrasse 150",hcp,0.0,0.0,556.8,1208.15,0.0,0.0,1764.95
 Mélissa Dupuis,Genève,Rue Gabrielle-Perret -Gentil 4,hcp,0.0,0.0,572.0,1192.0,0.0,0.0,1764.0
-Stansilav Svaral,Wädenswil,Spitalstrasse 5,hcp,0.0,0.0,0.0,1350.0,0.0,192.0,1764.0
 Valérie Enderlin-Krausz,Zürich,Feldeggstrasse 69,hcp,0.0,0.0,165.0,357.5,1240.05,0.0,1762.55
 Christoph Bernhard Friedli,Aarau,Ziegelrain 23,hcp,0.0,0.0,306.5,855.6,600.0,0.0,1762.1
 Kania Gabriela,Schlieren,Wagistrasse 14,hcp,0.0,0.0,558.0,1201.0,0.0,0.0,1759.0
@@ -2425,6 +2421,7 @@ Paolo Cottone,Orselina,Via al Parco 27,hcp,0.0,0.0,586.0,1161.0,0.0,0.0,1747.0
 Annik Hauri-Hohl,Zürich,Möhrlistrasse 69,hcp,0.0,0.0,615.0,1131.0,0.0,0.0,1746.0
 Umberto Costanzo,Luzern,Klosterstrasse 5,hcp,0.0,0.0,390.14,552.03,800.0,0.0,1742.17
 Michel Oberson,Biasca,"Piazza Centrale Contrada Cav, Pellanda 1",hcp,0.0,0.0,456.0,785.0,500.0,0.0,1741.0
+Ulrich Keller,Basel,"Praxis Ulrich Keller, Aeschenvorstadt 57",hcp,0.0,0.0,0.0,0.0,1740.0,0.0,1740.0
 Valérie Frossard,Lausanne,Rue Du Bugnon 46,hcp,0.0,0.0,545.4,1193.64,0.0,0.0,1739.04
 Claudine Helg,Genolier,"Clinique de Genolier, Route du Muids 3",hcp,0.0,0.0,394.0,1339.0,0.0,0.0,1733.0
 Dezsö Körmendy,Bern,Localmed Ärztezentrum Bern,hcp,0.0,0.0,419.0,1313.0,0.0,0.0,1732.0
@@ -2596,9 +2593,10 @@ Andreas Trojan,Zürich,Seestrasse 259,hcp,0.0,0.0,0.0,0.0,1550.0,0.0,1550.0
 Martin Heubner,Baden,Kantonsspital Baden AG Im Ergel 1,hcp,0.0,0.0,0.0,0.0,1550.0,0.0,1550.0
 Peter Jülke,Hochdorf,"Praxis Krebs und Leben Dr. Jülke, Zihlweid 34",hcp,0.0,0.0,423.78,1123.31,0.0,0.0,1547.09
 Manuela Lötscher-Thalmann,Luzern,Spitalstrasse,hcp,0.0,0.0,406.65,1140.0,0.0,0.0,1546.65
+Stansilav Svaral,Wädenswil,Spitalstrasse 5,hcp,0.0,0.0,0.0,1350.0,0.0,192.0,1542.0
 Nordine Ben Ali,Fribourg,HFR Fribourg - Hôpital cantonal,hcp,0.0,0.0,953.0,588.0,0.0,0.0,1541.0
 Nail Bajraml,Wil SG,St.Peter-Strasse 13,hcp,0.0,0.0,561.3,978.4,0.0,0.0,1539.7
-Alain Rüdiger,Zürich,"Universitätsspital Zürich,Rämistr.100",hcp,0.0,0.0,594.46,943.55,0.0,0.0,1538.01
+Alain Rüdiger,Zürich,"Universitätsspital Zürich, Rämistr. 100",hcp,0.0,0.0,594.46,943.55,0.0,0.0,1538.01
 Philippe Barazzone,Genève,Rond-Point de Plainpalais 7,hcp,0.0,0.0,0.0,425.0,1110.0,0.0,1535.0
 Marco Albanese,Luzern,Pilatusstrasse 3a/5,hcp,0.0,0.0,0.0,0.0,1200.0,334.0,1534.0
 Barbara Meyer,Bern,Viktoriastrasse 72,hcp,0.0,0.0,730.1600000000001,801.4,0.0,0.0,1531.56
@@ -2606,6 +2604,7 @@ Philipp de Moerloose,Genève,Rue Marignac 3,hcp,0.0,0.0,0.0,1531.2,0.0,0.0,1531.
 Urs Fromm,Wohlen AG,"Praxis Dr. Fromm Urs, Zentralstrasse 55a",hcp,0.0,0.0,205.0,1118.3,205.0,0.0,1528.3
 Amina Faiza Chouiter,La Chaux-de-Fonds,Rue de Chasseral 20,hcp,0.0,0.0,733.0,792.5,0.0,0.0,1526.5
 Roland Kowalewski,Aadorf,"Klinik Aadorf AG, Fohrenbergstrasse 23",hcp,0.0,0.0,423.78,1101.4,0.0,0.0,1525.18
+Benoit Guery,Lausanne,Rue du Bugon 46,hcp,0.0,0.0,0.0,0.0,1400.0,120.0,1520.0
 Carmen Schneiders,Bellinzona,Via Ospedale,hcp,0.0,0.0,784.0,735.7,0.0,0.0,1519.7
 Denise Herzog,Fribourg,Chemin des Pensionnats 2,hcp,0.0,0.0,491.7,526.7,500.0,0.0,1518.4
 Tobias Hübner,Münsterlingen,"Kantonsspital Münsterlingen,Postfach 100",hcp,0.0,0.0,449.29999999999995,1067.48,0.0,0.0,1516.78
@@ -2613,6 +2612,7 @@ Daniel Fetz,St. Gallen,Kantonsspital St. Gallen Rorschacher Strasse 95,hcp,0.0,0
 Monica Soare,Wald ZH,Pulmonale Rehabilitation Faltigbergstrasse 7,hcp,0.0,0.0,1196.4,318.3,0.0,0.0,1514.7
 Francine Tinguely,Lausanne,"Cabinet Francine Tinguely, Chemin des Croix-Rouges 14",hcp,0.0,0.0,328.0,686.0,500.0,0.0,1514.0
 Nicole Egloff,Zürich,Bellariastrasse 38,hcp,0.0,0.0,629.55,883.4100000000001,0.0,0.0,1512.96
+Daniel Goldenberger,Basel,Petersgraben 4,hcp,0.0,0.0,0.0,0.0,1400.0,112.0,1512.0
 Adrienne Bettini,Fribourg,Chemin des Pensionnats 2,hcp,0.0,0.0,399.45,1110.75,0.0,0.0,1510.2
 Walter Mauro Gusmini,La Chaux-de-Fonds,Rue de la Serre 7,hcp,0.0,0.0,354.6,1155.1,0.0,0.0,1509.7
 Enzo Fontana,Fribourg,Chemin des Pensionnats 2,hcp,0.0,0.0,573.3299999999999,935.86,0.0,0.0,1509.19
@@ -2664,6 +2664,7 @@ Thomas Wolfensberger,Lausanne,Avenue de France 15,hcp,0.0,0.0,0.0,0.0,1500.0,0.0
 Anton Camprubi,Gland,Rue Mauverney 22B,hcp,0.0,0.0,300.0,697.0,500.0,0.0,1497.0
 Frédéric Tissot,Lausanne,Chemin Porchat 24,hcp,0.0,0.0,860.0,636.0,0.0,0.0,1497.0
 Thierry Currat,Clarens,Avenue Alexandre Vinet 30,hcp,0.0,0.0,629.0,867.0,0.0,0.0,1496.0
+Luigia Elzi,Bellinzona,Via G. Nizzola 8,hcp,0.0,0.0,0.0,0.0,1400.0,96.0,1496.0
 Isabelle Gothuey-Gysin,Marsens,Case postale 90,hcp,0.0,0.0,591.95,802.51,100.0,0.0,1494.46
 Nicole Bonetti,Schlieren,Wagistrasse 12,hcp,0.0,0.0,555.0,938.0,0.0,0.0,1493.0
 Andrea Wenkstern,Uzwil,Bahnhofstrasse 83b,hcp,0.0,0.0,263.35,1228.0,0.0,0.0,1491.35
@@ -2694,7 +2695,6 @@ Catherine Stoermann Chopard,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,54
 Jean-Marc Steity,La Tour-de-Peilz,Grand-Rue 2,hcp,0.0,0.0,592.0,869.0,0.0,0.0,1461.0
 Dominique Durrer,Vevey,Quai Perdonnet 14,hcp,0.0,0.0,0.0,0.0,1457.08,0.0,1457.08
 Brindusa Diaconu,Solothurn,Schöngrünstrasse 42,hcp,0.0,0.0,438.0,1019.06,0.0,0.0,1457.06
-Daniel Erfmann,Elgg,"Gruppenpraxis, Vordergasse 9",hcp,0.0,0.0,170.0,1286.0,0.0,0.0,1456.0
 Jana Wolynski,Dietlikon,Bahnhofstrasse 5,hcp,0.0,0.0,1000.0,404.0,0.0,50.0,1454.0
 Sibylla Weymann,Luzern,Ruopigenring 37,hcp,0.0,0.0,500.0,953.0,0.0,0.0,1452.0
 Heinz Matti,Thun,Allmendingenstrasse 22,hcp,0.0,0.0,0.0,0.0,1450.0,0.0,1450.0
@@ -2748,6 +2748,7 @@ Christoph Berger,Basel,"Universitätsspital Basel, Petersgraben 4",hcp,0.0,0.0,0
 Paolo Paioni,Zürich,Freilagerstrasse 71,hcp,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0
 Philippe Schiessl,Bern,Muesmattstrasse 34,hcp,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0
 Phung Lang,Zürich,Hirschengraben 84,hcp,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0
+Konrad Mühlethaler,Bern,Friedbülstrasse 51,hcp,0.0,0.0,0.0,0.0,1400.0,0.0,1400.0
 Lesek Purek,Malans GR,"Medical Center Karlihof, Karlihof Strasse 14 a",hcp,0.0,0.0,0.0,649.64,750.0,0.0,1399.6399999999999
 Claudine Egger-Arnet,Schlieren,Urdorferstrasse 100,hcp,0.0,0.0,933.0,466.5,0.0,0.0,1399.5
 Boris Guignet,Sierre,"Hôpital de Sierre (CHCVs/RSV), Rue Saint-Charles 14",hcp,0.0,0.0,591.95,807.2,0.0,0.0,1399.15
@@ -3097,6 +3098,7 @@ Barbara Vannata,Bellinzona,Via Ospedale,hcp,0.0,0.0,202.65,853.29,0.0,0.0,1055.9
 Tarek Boussaha,Montreux,Avenue du Casino 40,hcp,0.0,0.0,533.33,520.75,0.0,0.0,1054.08
 Michael Fithal,Rheinfelden,Kaiserstrasse 8,hcp,0.0,0.0,477.0,576.0,0.0,0.0,1053.0
 Daniela Kaergel,Sargans,"Praxis Daniela Kaergel, Bahnhofstrasse 12",hcp,0.0,0.0,375.7,677.2,0.0,0.0,1052.9
+Beat Knoll,Schattdorf,Adlergartenstrasse 15,hcp,0.0,0.0,0.0,0.0,1050.0,0.0,1050.0
 Zehra Spadin,Lachen SZ,Oberdorfstrasse 41,hcp,0.0,0.0,298.0,751.0,0.0,0.0,1049.0
 Noemi Boos,Basel,Hardstrasse 111,hcp,0.0,0.0,976.0,70.0,0.0,0.0,1046.0
 Christel Tschanz,Fribourg,Ch. Des Pensionnats 2-6,hcp,0.0,0.0,0.0,45.7,1000.0,0.0,1045.7
@@ -3125,6 +3127,7 @@ Thomas Schwaller,Luzern,Kantonsspital Luzern,hcp,0.0,0.0,428.0,591.0,0.0,0.0,101
 Justus Garweg,Bern,Bremgartenstrasse 119,hcp,0.0,0.0,17.11,0.0,1000.0,0.0,1017.11
 Andreas Studer,Luzern,"Luzerner Kantonsspital Luzern, Spitalstrasse",hcp,0.0,0.0,234.0,782.73,0.0,0.0,1016.73
 Jean-Jacques Eschmann,Zürich,Mutschellenstrasse 187,hcp,0.0,0.0,340.55,673.48,0.0,0.0,1014.03
+Daniel Erfmann,Elgg,"Gruppenpraxis, Vordergasse 9",hcp,0.0,0.0,170.0,842.0,0.0,0.0,1012.0
 Carmen Schwarz,Oetwil am See,Schlösslistrasse 8,hcp,0.0,0.0,0.0,0.0,1000.0,10.0,1010.0
 Sabine Höfler,Frauenfeld,Pfaffenholzstrasse 4,hcp,0.0,0.0,0.0,1006.8,0.0,0.0,1006.8
 Hamdi Abeidi,Sion,Avenue Grand-Champsec 80,hcp,0.0,0.0,321.0,685.0,0.0,0.0,1006.0
@@ -4265,11 +4268,9 @@ Solange Peters,Lausanne,Rue du Bugnon 17,hcp,0.0,0.0,1658.0,11834.45,53511.48,10
 Andreas Serra,Zürich,"Klinik Hirslanden Innere Medizin, Witellikerstrasse 40",hcp,0.0,0.0,1184.82,9770.52,12884.31,6444.88,30284.53
 Michael Soyka,Meiringen,Willigen,hcp,0.0,0.0,0.0,0.0,25361.0,3543.0,28905.0
 Philippe Babando,Les Brenets,Rue de la Gare 3,hcp,0.0,7500.0,0.0,0.0,19900.0,0.0,27400.0
-Markus Borner,Biel/Bienne,Vogelsang 84,hcp,0.0,0.0,1558.06,11029.279999999999,14000.0,0.0,26587.34
-Jens Würfel,Basel,Medical Image Analysis Center (MIAC AG) c/o University Hospital Basel Mittlere-Strasse 83,hcp,0.0,0.0,0.0,0.0,9995.74,15091.46,25087.2
+Markus Borner,Biel/Bienne,Vogelsang 84,hcp,0.0,0.0,1130.73,10124.29,14000.0,0.0,25255.02
 Gerhard Müllner,Kriens,Oberhusrain 26,hcp,0.0,0.0,0.0,0.0,25000.0,0.0,25000.0
-Nils Kucher,Bern,Freiburgstrasse 4,hcp,0.0,0.0,0.0,0.0,22140.54,1725.29,23865.83
-Stephan Krähenbühl,Basel,Universitätsspital Basel Med.Klin.Pharmakol ogie Hebelstrasse 2,hcp,0.0,0.0,0.0,0.0,19550.0,1531.0,21081.0
+Nils Kucher,Bern,Freiburgstrasse 4,hcp,0.0,0.0,0.0,0.0,19890.54,1725.29,21615.83
 Marco Caimi,Basel,"ÄQUILIBRIS Gesundheitszentrum, Steinenvorstadt 11",hcp,0.0,0.0,0.0,0.0,20000.0,0.0,20000.0
 Stefan Russmann,Küsnacht ZH,Seestrasse 221,hcp,0.0,0.0,0.0,0.0,18000.0,0.0,18000.0
 Stephan Gerosa,Läufelfingen,Hirzenfeldweg 4,hcp,0.0,5000.0,351.0,376.0,11400.0,51.0,17178.0
@@ -4278,15 +4279,17 @@ Donat Dürr,Zürich,Birmensdorferstrasse 497,hcp,0.0,0.0,3017.87,8740.14,4212.12
 Monika Ridinger,Königsfelder,"Psychiatrische Klinik Königsfelden, Postfach 432",hcp,0.0,0.0,0.0,0.0,15500.0,373.0,15873.0
 Christoph Neuwirth,St. Gallen,Rorschacher Strasse 95,hcp,0.0,0.0,0.0,0.0,0.0,15413.54,15413.54
 Wolfram Hötzenecker,St. Gallen,"Kantonsspital St. Gallen Innere Medizin, Rorschacher Strasse 95",hcp,0.0,0.0,0.0,0.0,14500.0,714.22,15214.22
-Bernhard Sorg,Wallisellen,Zentralstrasse 6,hcp,0.0,3000.0,122.0,156.0,11500.0,0.0,14778.0
+Hans Rickli,Berneck,Oberfeldweg 8,hcp,0.0,0.0,0.0,0.0,15000.0,0.0,15000.0
+Stephan Krähenbühl,Basel,Universitätsspital Basel Med. Klin. Pharmakologie Hebelstrasse 2,hcp,0.0,0.0,0.0,0.0,13300.0,1531.0,14831.0
+Jens Würfel,Basel,Medical Image Analysis Center (MIAC AG) c/o University Hospital Basel Mittlere-Strasse 83,hcp,0.0,0.0,0.0,0.0,6247.87,7545.73,13793.6
 Pascal Zufferey,Lausanne,Avenue Pierre-Decker 4,hcp,0.0,0.0,1467.0,11198.0,1000.0,0.0,13665.0
 Guillaume Nicolas,Basel,Petersgraben 4,hcp,0.0,0.0,458.3,6719.950000000001,5814.98,101.21,13094.44
-Mirja Veronika Faulenbach,Zürich,Arztpraxis FMH Endokrinologie- Diabetologie Hormon Zentrum Zürich Witellikerstrasse 36,hcp,0.0,0.0,630.95,2617.93,9800.0,0.0,13048.880000000001
-Arnold von Eckardstein,Zürich,Universitätspital Zürich -Institut für Klinische Chemie Rämistrasse 100,hcp,0.0,0.0,0.0,0.0,12250.0,406.86,12656.86
 Alexander Kai-Lik So,Lausanne,Avenue Pierre-Decker 4,hcp,0.0,0.0,603.0,11574.0,0.0,0.0,12176.0
 Pascal Gache,Genève,Rue des Deux-Ponts 20,hcp,0.0,0.0,0.0,0.0,12108.0,0.0,12108.0
 Liechti Medical Consulting & Communications,Oberwil,,hcp,0.0,0.0,0.0,0.0,0.0,12100.0,12100.0
+Mirja Veronika Faulenbach,Zürich,Arztpraxis FMH Endokrinologie- Diabetologie Hormon Zentrum Zürich Witellikerstrasse 36,hcp,0.0,0.0,630.95,2617.93,8800.0,0.0,12048.880000000001
 Giatgen Spinas,Meilen,Toggwilerstrasse 23,hcp,0.0,0.0,421.0,7524.0,4000.0,0.0,11945.0
+Bernhard Sorg,Wallisellen,Zentralstrasse 6,hcp,0.0,3000.0,122.0,156.0,8500.0,0.0,11778.0
 Patrick Ammann,Genève,Rue Gabrielle Perret-Gentil 4,hcp,0.0,0.0,0.0,0.0,9627.95,1068.19,10696.14
 Christoph Saner,Basel,Spitalstrasse 33,hcp,8000.0,0.0,735.0,1895.0,0.0,0.0,10630.0
 Colette Camenisch,Zürich,"Klinik Pyramide am See, Bellerivestrasse 34",hcp,0.0,0.0,0.0,3000.0,7500.0,0.0,10500.0
@@ -4295,9 +4298,9 @@ Daniel Bielinski,Burgdorf,Oberburgstrasse 54,hcp,0.0,0.0,0.0,0.0,10216.0,0.0,102
 Alain Gervaix,Cologny,Chemin de la Mairie 4ter,hcp,0.0,0.0,0.0,0.0,10200.0,0.0,10200.0
 Thilo Alexander Peter Burkard,Basel,Medizinische Poliklinik - Universitätsspital Basel - Petersgraben 4,hcp,0.0,0.0,968.0,1743.0,7300.0,0.0,10011.0
 Gaël Claude Antoine Deplanque,Vevey,Avenue de la Prairie 3,hcp,0.0,0.0,343.0,8108.0,1500.0,0.0,9951.0
+Arnold von Eckardstein,Zürich,Universitätspital Zürich -Institut für Klinische Chemie Rämistrasse 100,hcp,0.0,0.0,0.0,0.0,9500.0,406.86,9906.86
 Olivier Bugnon,Lausanne,Rue du Bugnon 44,hcp,0.0,0.0,0.0,0.0,9723.0,173.0,9896.0
 Bettina Weiss,Zürich,Forchstrasse 340,hcp,0.0,0.0,1122.0,7268.0,1400.0,0.0,9790.0
-Chiara Ferrario,Renens,Av. du quatorze Avril 12,hcp,0.0,0.0,0.0,2600.0,7100.0,0.0,9700.0
 Antonios Kolios,Zürich,Gloriastrasse 31,hcp,0.0,0.0,0.0,160.0,9480.0,0.0,9640.0
 Alicia Rovó,Bern,Freiburgstrasse 18,hcp,0.0,0.0,1009.0,5696.0,2250.0,607.25,9562.25
 Nicolas Johannes Müller,Zürich,Rämistrasse 100 Universitätsspital Zürich,hcp,0.0,0.0,0.0,7983.8,1500.0,0.0,9483.8
@@ -4315,14 +4318,13 @@ Simon Wyss,Jegenstorf,Bernstrasse 41,hcp,0.0,0.0,300.0,640.0,6900.0,179.0,8019.0
 Michael Singer,Küsnacht,Kohlrainstrasse 10,hcp,0.0,8000.0,0.0,0.0,0.0,0.0,8000.0
 Ulf Petrausch,Zürich,Seestrasse 259,hcp,0.0,0.0,718.9,1041.8,6175.0,0.0,7935.7
 Erich Russi,Zürich,Merkurstrasse 20,hcp,0.0,0.0,0.0,565.4,7100.0,254.0,7919.4
+Chiara Ferrario,Renens,Av. du quatorze Avril 12,hcp,0.0,0.0,0.0,1300.0,6600.0,0.0,7900.0
 Matthias Hermann,Wald ZH,"Zürcher RehaZentrum Wald Medizin Kardiologie, Faltigbergstrasse 7",hcp,0.0,0.0,0.0,0.0,7750.0,0.0,7750.0
 Beatrice Veragut Davies,Carougege,Avenue Cardinal-Mermillod 1,hcp,0.0,0.0,1366.38,6332.1,0.0,0.0,7698.48
-Abdelhafid Mekideche,Genève,Rue Jean-Ant-Gautie r 13,hcp,0.0,0.0,1113.61,2828.15,3750.0,0.0,7691.76
 Claude Meric,Yverdon-les-Bains,3 rue de la Villette,hcp,0.0,0.0,0.0,0.0,6400.0,1261.6,7661.6
 Mehdi Tafti,Lausanne,Université de Lausanne Bâtiment Genopode,hcp,0.0,0.0,0.0,0.0,5842.84,1807.22,7650.06
 Giulia Magnani,Zürich,Rämistrasse 100,hcp,0.0,0.0,1098.35,6352.2,0.0,0.0,7450.55
 Marcel Stöckle,Basel,Petersgraben 4,hcp,0.0,0.0,274.28,1097.12,5862.75,204.25,7438.4
-Christian Günter,Mammern,Dr. A.O. Fleischstrasse 3,hcp,0.0,0.0,612.22,5307.94,1500.0,0.0,7420.16
 Angela Hernandez,Delémont,Route de Rossemaison 48,hcp,0.0,0.0,717.0,1113.0,5500.0,85.4,7415.4
 Jean Guyot,Nyon,La Levratte 26,hcp,0.0,0.0,2003.1,4109.93,1300.0,0.0,7413.03
 Piero Valli,Zürich,Rämistrasse 100 Universitätsspital Zürich,hcp,0.0,0.0,1983.57,5377.12,0.0,0.0,7360.69
@@ -4331,6 +4333,7 @@ Rainer Klöti,Brugg AG,Fröhlichstrasse 5,hcp,0.0,0.0,1128.0,1683.0,4500.0,0.0,7
 Lucas Widmer,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,622.45,6572.92,0.0,0.0,7195.37
 Thibaud Kössler,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,2352.36,2098.54,2725.0,0.0,7175.9
 Pascal Hasler,Basel,Mittlere Strasse 91,hcp,0.0,0.0,360.0,878.15,5865.0,0.0,7103.15
+Abdelhafid Mekideche,Genève,Rue Jean-Ant-Gautie r 13,hcp,0.0,0.0,915.61,2436.15,3750.0,0.0,7101.76
 Marie-Angela Schnyder,Bern,Freiburgstrasse 18,hcp,0.0,0.0,1107.0,4942.0,1000.0,0.0,7049.0
 Karl Michael Essig,Baden,Langhaus 5,hcp,0.0,0.0,254.0,4272.8,2492.35,0.0,7019.15
 Markus Gnädinger,Steinach,FMH Allgemeine Innere Medizin Birkenweg 8,hcp,0.0,7000.0,0.0,0.0,0.0,0.0,7000.0
@@ -4338,7 +4341,6 @@ Wilhelm Vetter,Zürich,GSMN Zürich AG Toblerstrasse 51,hcp,0.0,0.0,0.0,0.0,7000
 Helen Kovari,Zürich,Rämistrasse 100 Universitätsspital Zürich,hcp,0.0,0.0,0.0,4000.0,3000.0,0.0,7000.0
 Lea Slahor,Luzern,Spitalstrasse 31,hcp,0.0,0.0,1079.0,3697.0,2200.0,0.0,6976.0
 Tamas Németh,St. Gallen,Urologie am Stephanshom Brauerstrasse 95,hcp,0.0,0.0,2431.45,4532.86,0.0,0.0,6964.3099999999995
-Elisabeth Nützi-Constam,Winterthur,Arztpraxis FMH Endokrinologie- Diabetologie Wülflingerstrasse 59,hcp,0.0,0.0,146.0,1789.0,5000.0,20.0,6955.0
 Oliver Bilke-Hentsch,Winterthur,Zum Park 20,hcp,0.0,0.0,0.0,0.0,6126.0,821.0,6947.0
 Franqois Chappuis,Genève,Chemin Beau-Soleil 12,hcp,0.0,0.0,1203.38,5735.1,0.0,0.0,6938.48
 Ralf Kiel,Neuchätel,"Cabinet Ralf Kiel, Rue des Poteaux 8",hcp,0.0,0.0,206.25,1405.85,5250.0,0.0,6862.1
@@ -4350,13 +4352,14 @@ Lenka Besse,St. Gallen,,hcp,0.0,0.0,136.0,4406.0,0.0,2271.0,6813.0
 Heike Annette Bischoff-Ferrari,Zürich,Universitätsspital Zürich Medizin Geriatrie Gloriastrasse 25,hcp,0.0,0.0,0.0,0.0,5912.12,896.38,6808.5
 Georg Kägi,St. Gallen,Kantonsspital St. Gallen - Rorschacher Strasse 95,hcp,0.0,0.0,0.0,0.0,6800.0,0.0,6800.0
 Julien Niederhäuser,Nyon,Chemin Monastier 15,hcp,0.0,0.0,1613.71,2162.28,3000.0,0.0,6775.99
+Christian Günter,Mammern,Dr. A.O. Fleischstrasse 3,hcp,0.0,0.0,612.22,5307.94,750.0,0.0,6670.16
 Ursula Hasler-Strub,St. Gallen,Rorschacherstrasse 95,hcp,0.0,0.0,1044.0,4251.0,1300.0,0.0,6595.0
 Cristiana Quattropani Cicalissi,Chiasso,Corso San Gottardo 6,hcp,0.0,0.0,318.45,6252.35,0.0,0.0,6570.8
 Martin Toniolo,Zürich,Bellariastrasse 38,hcp,0.0,0.0,767.0,1234.0,4552.0,0.0,6553.0
 Ingo Butzke,Münsingen,Hunzigenallee 1,hcp,0.0,0.0,0.0,679.72,5850.0,0.0,6529.719999999999
 Susanne Kristof,Jona,"rappjderm, Allmeindstrasse 5",hcp,0.0,0.0,0.0,1500.0,5000.0,0.0,6500.0
+Elisabeth Nützi-Constam,Winterthur,Arztpraxis FMH Endokrinologie- Diabetologie Wülflingerstrasse 59,hcp,0.0,0.0,146.0,1789.0,4500.0,20.0,6455.0
 Florian Fröhlich,Porrentruy,Rue Achille Merguin 44,hcp,0.0,0.0,464.39,1289.69,4600.0,0.0,6354.08
-Burkhard Becher,Zürich,"University of Zurich, Institute of Experimental Immunology, Winterthurerstrasse 190",hcp,0.0,0.0,0.0,0.0,5600.0,688.0,6288.0
 Felix Trinkler,Zollikon,Forchstrasse 424,hcp,0.0,0.0,662.7,3261.4,2250.0,33.3,6207.4
 Claudia Lengerke,Basel,Petersgraben 4,hcp,0.0,0.0,534.43,5665.58,0.0,0.0,6200.01
 Markus Noveanu,Le Noirmont,Chemin de Roc-Montès 20Clinique Le Noirmont,hcp,0.0,0.0,1626.0,3547.0,1000.0,0.0,6173.0
@@ -4374,7 +4377,6 @@ Anna Lisa Frauchiger,Zürich,Gloriastrasse 31,hcp,0.0,0.0,755.8199999999999,4088
 Markus Hermann Heim,Basel,Petersgraben 4,hcp,0.0,0.0,0.0,1065.58,4750.0,0.0,5815.58
 Andrea Azzola,Lugano,Via Tesserete 46,hcp,0.0,0.0,772.0,1438.5,3117.2200000000003,471.29,5799.01
 Wolfgang Alexander Deglmann,Liestal,Wasserturmplatz 2,hcp,0.0,0.0,2793.83,2994.09,0.0,0.0,5788.92
-Nicola Alexander-David,Bellinzona,Viale Stazione 8,hcp,0.0,0.0,402.0,1358.0,4000.0,0.0,5760.0
 Gustav Andreisek,Zürich,Rämistrasse 100,hcp,0.0,0.0,0.0,0.0,5715.0,0.0,5715.0
 Dominik Uehlinger,Bern,Freiburgstrasse 15,hcp,0.0,0.0,492.31,3695.6400000000003,1500.0,0.0,5687.95
 Fabien Stucker,Neuchâtel,"Hôpital de la Providence, Faubourg de l'Hôpital 81",hcp,0.0,0.0,556.1500000000001,1726.27,3400.0,0.0,5682.42
@@ -4398,13 +4400,13 @@ Torsten Schlote,Basel,"Praxis Torsten Schlote, Klingentalstrasse 9",hcp,0.0,0.0,
 Martin Baumgartner,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,1163.0,4082.0,0.0,0.0,5245.0
 Niklaus Hauser,Baden,Bernerstrasse 27,hcp,0.0,0.0,150.0,5076.0,0.0,0.0,5226.0
 Beata Falkenberg,Bern,Freiburgstrasse 18,hcp,0.0,0.0,158.3,5027.0,0.0,0.0,5185.3
-Michel Badan,Cully,Rue Davel 11,hcp,0.0,0.0,1379.0,2291.0,1500.0,0.0,5169.0
 Philippe Staubli,Delémont,Rue des Lilas 18,hcp,0.0,0.0,976.1800000000001,1922.7800000000002,2244.0,0.0,5142.96
 Christoph Schänzle,Olten,Louis Giroud-Strasse 26,hcp,0.0,0.0,1314.91,663.28,3100.0,0.0,5078.1900000000005
 Hanspeter Boss,Spiez,Schoneggstrasse 21,hcp,0.0,0.0,1136.3400000000001,1672.61,2250.0,0.0,5058.95
 Paul Mohacsi,Bern,"Inselspital Bern, Insel-Gruppe AG Medizin Kardiologie, Freiburgstrasse 18",hcp,0.0,0.0,457.86,1098.25,3500.0,0.0,5056.12
 Ahmad Jalili,Zürich,Limmatstrasse 252,hcp,0.0,0.0,0.0,0.0,5050.0,0.0,5050.0
 Philippe Mavrocordatos,Lausanne,Avenue Louis-Ruchonnet 53,hcp,0.0,0.0,0.0,650.91,3172.72,1226.31,5049.93
+Nicola Alexander-David,Bellinzona,Viale Stazione 8,hcp,0.0,0.0,402.0,1358.0,3250.0,0.0,5010.0
 Oliver Philip Kreyden,Muttenz,"Praxis Methininserhof, Baselstrasse 9",hcp,0.0,0.0,0.0,0.0,5000.0,0.0,5000.0
 Stephan Gerosa,Bubendorf,ärztenetz Nordwest -Geschäftsstelle - c/o Hausarztpraxis Tannenstrasse 1,hcp,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0
 Luca Giovanella,Bellinzona,Ospedale Regionale Bellinzona e Valli Ospedale San Giovanni EOC Radiologische Klinik Via Ospedale,hcp,0.0,0.0,0.0,0.0,3190.0,1761.69,4951.6900000000005
@@ -4415,10 +4417,9 @@ Sara Fertani,Genève,Ruegabrielle Perret-Gentil 4,hcp,0.0,0.0,813.6700000000001,
 Stéphane Künzli,Villars-sur-Glâne,Route De Moncor 12,hcp,0.0,0.0,2099.91,1940.08,810.0,0.0,4849.99
 Marco Roffi,Genève,Hôpitaux universit. de Genève Département spécialités de médecine Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,0.0,0.0,4834.0,0.0,4834.0
 Peter Grendelmeier,Basel,Petersgraben 4 Klinik für Pneumologie,hcp,0.0,0.0,369.73,563.89,3900.0,0.0,4833.62
-Friedrich Medlin,Fribourg,Chemin des Pensionnats 2-6,hcp,0.0,0.0,1540.99,3183.41,0.0,0.0,4724.4
 Hans Kurt,Solothurn,"Gruppenpraxis Weststadt, Bielstrasse 109",hcp,0.0,0.0,0.0,0.0,4700.0,0.0,4700.0
 Yvonne Nussbaumer-Ochsner,Schaffhausen,"Spitäler Schaffhausen, Geissbergstrasse 81",hcp,0.0,0.0,496.45,1198.48,3000.0,0.0,4694.93
-Claudius Andrea Uehlinger,Wasen im Emmental,"Praxis Claudius Andrea Uehlinger, Dorfstrasse 23",hcp,0.0,0.0,1674.8,1517.49,1500.0,0.0,4692.29
+Burkhard Becher,Zürich,"University of Zurich, Institute of Experimental Immunology, Winterthurerstrasse 190",hcp,0.0,0.0,0.0,0.0,4000.0,688.0,4688.0
 Nicolas Brugger,Fribourg,Chemin des Pensionnats 2,hcp,0.0,0.0,1648.0,3040.0,0.0,0.0,4688.0
 Valerio Camponovo,Chiasso,Corso San Gottardo 8,hcp,0.0,0.0,502.0,1351.0,2800.0,0.0,4653.0
 Aikaterini Stasinaki,St. Gallen,Claudiusstrasse 6,hcp,0.0,0.0,1666.0,2483.0,0.0,475.65,4624.65
@@ -4431,8 +4432,8 @@ Britta Engelhardt,Bern,Freiestrasse 1,hcp,0.0,0.0,0.0,0.0,4500.0,0.0,4500.0
 Bernard Chevaux,Vevey,Avenue de la Prairie 3,hcp,0.0,0.0,1512.1599999999999,2973.94,0.0,0.0,4486.1
 Stalder Jesica Mazza,Nyon,"Cabinet de groupe, Rue Neuve 7",hcp,0.0,0.0,573.0,1407.0,2500.0,0.0,4481.0
 Christian Jaccard,Lausanne,Avenue de Rumine 35,hcp,0.0,0.0,1827.2800000000002,2637.87,0.0,0.0,4465.15
-Christian Frei,Zürich,Frymannstrasse 21,hcp,0.0,0.0,1634.0,1319.0,1500.0,0.0,4453.0
 Klaus Weber,Winterthur,"Kantonsspital Winterthur Medizin Kardiologie, Brauerstrasse IS",hcp,0.0,0.0,0.0,0.0,4450.0,0.0,4450.0
+Michel Badan,Cully,Rue Davel 11,hcp,0.0,0.0,1379.0,2291.0,750.0,0.0,4419.0
 Patrick Aepli,Luzern,Spitalstrasse,hcp,0.0,0.0,1383.8200000000002,3026.0299999999997,0.0,0.0,4409.85
 Ashu James Tataw,Sion,Avenue du Grand-Champsec 80,hcp,0.0,0.0,0.0,3384.9700000000003,0.0,1000.0,4384.97
 Alexander Braun,Langenthal,Sankt Urbanstrasse 67,hcp,0.0,0.0,0.0,152.94,4200.0,0.0,4352.9400000000005
@@ -4482,6 +4483,7 @@ Christine Gstrein,Aarau,"Kantonsspital, Tellstrasse 25",hcp,0.0,491.38,1401.6000
 Rubino Mordasini,Bern,Bubenbergplatz 10,hcp,0.0,0.0,1217.58,1736.6399999999999,1000.0,0.0,3954.2200000000003
 Rolf Gerny,Thun,Frutigenstrasse 6,hcp,0.0,0.0,1565.0,2037.0,350.0,0.0,3952.0
 Giordano Venzi,Lugano,Via Massagno 36,hcp,0.0,0.0,1054.0,2892.0,0.0,0.0,3946.0
+Claudius Andrea Uehlinger,Wasen im Emmental,"Praxis Claudius Andrea Uehlinger, Dorfstrasse 23",hcp,0.0,0.0,1674.8,1517.49,750.0,0.0,3942.29
 Michael Sulz,St. Gallen,"Kantonsspital St. Gallen, Rorschacherstrasse 95",hcp,0.0,0.0,1051.77,2859.5,0.0,0.0,3911.27
 Christoph Kaiser,Basel,Petersgraben 4,hcp,0.0,0.0,0.0,0.0,3850.0,58.0,3908.0
 Ueli Kieser,Zollikon,Oberdorfstrasse 31,hcp,0.0,0.0,0.0,0.0,3400.0,507.85,3907.85
@@ -4502,14 +4504,14 @@ Jürgen Albert Grabbe,Aarau,Kantonsspital Aarau AG Kantonsspital am Bahnhof Derm
 Andrew Macpherson,Bern,Klinik für Gastroenterologie Freiburgstrasse 18,hcp,0.0,0.0,0.0,0.0,3780.0,0.0,3780.0
 Urs Güntensperger,Bülach,Zürichstrasse 35,hcp,0.0,0.0,1907.7,1868.3,0.0,0.0,3776.0
 Laurent Thierrin,Lausanne,Clinique de La Anesthesie Avenue Vinet 30,hcp,0.0,0.0,719.98,1347.01,1700.0,0.0,3766.99
-Martin Schweiger,Zürich,Herzchirurgie Steinwiesstrasse 75,hcp,0.0,0.0,0.0,0.0,3272.0,479.68,3751.6800000000003
+Friedrich Medlin,Fribourg,Chemin des Pensionnats 2-6,hcp,0.0,0.0,1342.99,2414.41,0.0,0.0,3757.3999999999996
 Rebekka Lena Kleiner,St. Gallen,Rorschacherstrasse 95,hcp,0.0,0.0,352.0,1899.0,1500.0,0.0,3751.0
-Alexander Peinemann,Wohlen AG,Bärengässli 7,hcp,0.0,0.0,494.23,1756.2,1500.0,0.0,3750.4300000000003
 Agnès Auteri,La Chaux-de-Fonds,Rue de Chasseral 20,hcp,0.0,0.0,1087.0,2659.0,0.0,0.0,3746.0
 Dominique Evequoz,Brig,Ueberlandstrasse 14,hcp,0.0,0.0,0.0,639.66,3100.0,0.0,3739.66
 Stefan Zimmermann,Riaz,Rue de l'Hôpital 9,hcp,0.0,0.0,276.2,1521.35,1900.0,33.3,3730.8500000000004
 Edwin Harald Straumann,Zürich,Seestrasse 247,hcp,0.0,0.0,0.0,3725.27,0.0,0.0,3725.27
 Christoph Leser,Rapperswil SG,"Praxis Christoph Leser, Neue lonastrasse 52",hcp,0.0,0.0,295.0,320.0,3100.0,0.0,3715.0
+Christian Frei,Zürich,Frymannstrasse 21,hcp,0.0,0.0,1634.0,1319.0,750.0,0.0,3703.0
 Peter Grafe,Schaffhausen,Vorstadt 40/42,hcp,0.0,0.0,366.0,870.0,2466.0,0.0,3702.0
 Simon Michel Monnard,La Chaux-de-Fonds,FMH cardiologie Rue du Tertre 1,hcp,0.0,0.0,0.0,0.0,3700.0,0.0,3700.0
 Dario Fontanel,Wil,Spital Wil - Fürstenlandstrasse 32,hcp,0.0,0.0,525.95,1149.99,2000.0,0.0,3675.94
@@ -4541,7 +4543,6 @@ Michael Klainguti,Zürich,Herzpraxis Stadelhofen Zürich Goethestrasse 20,hcp,0.
 Gianfranco Zala,Chur,Quaderstrasse 2,hcp,0.0,0.0,1065.8200000000002,2397.79,0.0,0.0,3463.6099999999997
 Théodore Hovaguimian,Genève,Rue Verdaine 12,hcp,0.0,0.0,613.0,1559.0,1200.0,87.0,3459.0
 Pierre-Yves Lovey,Sion,Avenue Grand-Champsec 86,hcp,0.0,0.0,1153.4,2301.55,0.0,0.0,3454.95
-Thomas Aeschbach,Lausanne,"Cabinet Thomas Aeschbach, Avenue du Servan 2",hcp,0.0,0.0,0.0,0.0,3450.0,0.0,3450.0
 Elena Osto,Zürich,Rämistrasse 100,hcp,0.0,0.0,570.1,2861.25,0.0,0.0,3431.35
 Markus Sagmeister,Heerbrugg,Auerstrasse 2,hcp,0.0,0.0,1238.0,2191.94,0.0,0.0,3429.91
 Björn Stinn,St. Gallen,Rorschacherstrasse 95,hcp,0.0,0.0,780.0,2644.0,0.0,0.0,3424.0
@@ -4616,6 +4617,8 @@ Markus Oberhänsli,Meyriez,Spitalweg 36,hcp,0.0,0.0,920.13,2158.13,0.0,0.0,3078.
 Christian Murer,Zürich,"Universitätsspital Zürich, Rämistrasse 100",hcp,0.0,0.0,1039.0,2027.0,0.0,0.0,3066.0
 Noémie Wagner,Genève,"Hôpitaux Universitaires Genève. Sce de pédiarie générale, Rue Wlliy-Donzé 6",hcp,0.0,432.7,1113.9,1517.3,0.0,0.0,3063.8999999999996
 Mark Hafner,Bülach,Bannhaldenstr. 7,hcp,0.0,0.0,352.0,2710.0,0.0,0.0,3062.0
+Jochen Grassinger,Zürich,Rämistrasse 100,hcp,0.0,0.0,541.94,116.74,2200.0,192.0,3050.68
+Alexander Peinemann,Wohlen AG,Bärengässli 7,hcp,0.0,0.0,369.93,1179.31,1500.0,0.0,3049.2400000000002
 Karine Hadaya,Genève,Hôpitaux Universitaires de Genève Méd.Néphrologie Rue Gabrielle-Perret- Gentil 4,hcp,0.0,0.0,0.0,789.86,1440.0,813.0,3042.8599999999997
 Boris Müller-Hübenthal,Richterswil,Bergstrasse 16,hcp,0.0,0.0,771.0,749.0,1500.0,0.0,3020.0
 François Grognuz,Fribourg,Rue de Romont 35,hcp,0.0,0.0,968.33,1767.67,280.0,0.0,3016.0
@@ -4680,10 +4683,12 @@ Stephan Bauer,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,658.0,2079.0,0.0,0.0,2737
 Sadi Ulugöl-Bissig,Winterthur,Bahnhofplatz 5a,hcp,0.0,0.0,295.35,541.35,1900.0,0.0,2736.7
 Cornel Stöckli,Bremgarten AG,Zürcherstrasse 8,hcp,0.0,0.0,662.0,1064.0,1000.0,0.0,2726.0
 Lukas Degen,Basel,"Universitätsspital Basel, Petersgraben 4",hcp,0.0,0.0,0.0,980.78,1500.0,234.4,2715.1800000000003
+Martin Schweiger,Zürich,Herzchirurgie Steinwiesstrasse 75,hcp,0.0,0.0,0.0,0.0,2472.0,239.84,2711.84
 Alexander Ott,St. Gallen,,hcp,0.0,0.0,700.0,2008.0,0.0,0.0,2708.0
 Rastine Merat,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,1406.0,0.0,1300.0,0.0,2706.0
 Annett Härtel,Zollikon,Zollikerstrasse 106,hcp,0.0,0.0,425.0,781.0,1500.0,0.0,2706.0
 Nikolay Pavlov,Bern,"Inselspital, Freiburgstrasse",hcp,0.0,0.0,212.89,2489.66,0.0,0.0,2702.55
+Thomas Aeschbach,Lausanne,"Cabinet Thomas Aeschbach, Avenue du Servan 2",hcp,0.0,0.0,0.0,0.0,2700.0,0.0,2700.0
 Bernhard Robert Beck,Zürich,Rämistrasse 3,hcp,0.0,0.0,0.0,0.0,2700.0,0.0,2700.0
 Christoph Hatz,Basel,Socinstrasse 57,hcp,0.0,0.0,0.0,0.0,2700.0,0.0,2700.0
 Insitut Multidsciplinaire D'Oncologie IMO,Genolier,Route du Muids 1,hcp,0.0,0.0,0.0,524.15,2171.6,0.0,2695.75
@@ -4706,7 +4711,6 @@ Christian Kahlert,St. Gallen,Claudiusstrasse 6,hcp,0.0,0.0,599.3299999999999,202
 Falk Fiedler,St. Gallen,"Klinik Stephanshorn, Brauerstrasse 95",hcp,0.0,0.0,1019.9,1583.6799999999998,0.0,0.0,2603.58
 Patrick Schopfer,Genève,Rue Maurice-Braillard 8,hcp,0.0,0.0,883.0,1719.0,0.0,0.0,2602.0
 Nichorlis Charilaos,Reinach,"Orasis AG, Tittlisstrasse 44",hcp,0.0,0.0,435.0,1562.0,500.0,105.0,2602.0
-Hans-Ulrich Tschanz,Heiligenschwendi,"Berner Reha Zentrum Medizin Kardiologie, Schwendi 299",hcp,0.0,0.0,0.0,0.0,2600.0,0.0,2600.0
 Alberto Guardia,Grand Lancy,Chemin Des Pontets 17,hcp,0.0,0.0,0.0,0.0,2600.0,0.0,2600.0
 Susanne Meier,Vevey,Rue de la Madeleine 19,hcp,0.0,0.0,0.0,0.0,2600.0,0.0,2600.0
 Abdelhak Boubrahimi,Delémont,Rue des Lilas 20,hcp,0.0,0.0,525.0,1574.0,500.0,0.0,2599.0
@@ -4731,7 +4735,6 @@ Lorenz Bankel,Zürich,"Universitätsspital Zürich, Rämistrasse 100",hcp,0.0,0.
 Rolf Temperli,Liebefeld,Waldeggstrasse 30,hcp,0.0,0.0,397.0,708.0,1400.0,0.0,2505.0
 Reza Owlya,Lausanne,"Cabinet Reza Owlya, Avenue Ruchonnet 53",hcp,0.0,0.0,605.0,599.38,1300.0,0.0,2504.38
 Sabine Haller,Genève,Avenue De-Luserna 17,hcp,0.0,0.0,1607.3,893.55,0.0,0.0,2500.8500000000004
-Jacqueline Landolt,Morges,Rue de la Gare 13,hcp,0.0,0.0,0.0,0.0,2500.0,0.0,2500.0
 Lorenz Böhlen,Bern,Kramgasse 82,hcp,0.0,0.0,1250.0,1249.0,0.0,0.0,2500.0
 Maki Kashiwagi,Uster,"gynosense AG, Bankstrasse 8",hcp,0.0,0.0,0.0,0.0,2500.0,0.0,2500.0
 Nexhat Rrustemi,Bulle,Route de Riaz 8,hcp,0.0,0.0,0.0,0.0,2500.0,0.0,2500.0
@@ -4788,7 +4791,6 @@ Frank Paul Philipp Wilhelm Mayer,Chêne-Bougeries,Cabinet Dr Schmidlin / Dr Maye
 Markus Kohler,Thun,Krankenhausstrasse 12,hcp,0.0,0.0,161.0,484.0,1661.0,0.0,2306.0
 Karia Aghamiri,Fehraltorf,"Praxis Karia Aghamiri, Tisliacherstrasse 5",hcp,0.0,0.0,1386.0,920.0,0.0,0.0,2306.0
 Elena Bianchi,Lugano,Via Fogazzaro 3,hcp,0.0,0.0,747.77,1052.65,500.0,0.0,2300.42
-Karl Scheidegger,St. Gallen,Brauerstrasse 97,hcp,0.0,0.0,0.0,0.0,2300.0,0.0,2300.0
 Alexander Kiss,Basel,"Universitätsspital Basel, Hebelstrasse 2",hcp,0.0,0.0,0.0,0.0,2300.0,0.0,2300.0
 Andrea Garbea,Lutry,Grand-Rue 37,hcp,0.0,0.0,0.0,1500.0,800.0,0.0,2300.0
 Peter Gürber,Ennetbürgen,"Praxis Peter Gürber, Schulhausstrasse 9",hcp,0.0,0.0,0.0,0.0,2300.0,0.0,2300.0
@@ -4848,13 +4850,11 @@ Gérard Baeriswyl,Fribourg,Boulevard de Pérolles 4,hcp,0.0,0.0,903.0,1295.0,0.0
 Constantin Protoulis,Genève,Avenue Jules-Crosnier 4,hcp,0.0,0.0,613.0,1581.0,0.0,0.0,2194.0
 Jacques Fellay,Lausanne,Rue Du Bugnon 46,hcp,0.0,0.0,0.0,0.0,2192.65,0.0,2192.65
 Esther Bächli,Uster,"Spital Uster Medizin Hämatologie, Brunnenstrasse 42",hcp,0.0,0.0,0.0,0.0,2189.0,0.0,2189.0
-Angelo Carone,Uznach,Gasterstrasse 25,hcp,0.0,0.0,0.0,0.0,2188.0,0.0,2188.0
 Tilmann Möltgen,Aarau,Tellstrasse 25,hcp,0.0,0.0,956.0,1231.0,0.0,0.0,2187.0
 Eli Alon,Rümlang,Lintheschergasse 3,hcp,0.0,0.0,0.0,0.0,1612.37,571.94,2184.3
 Valentin Hinselmann,Aarau,"Hirslanden Klinik Aarau, Schänisweg",hcp,0.0,280.39,810.94,0.0,0.0,1091.33,2182.66
 Joël Patrick Gregorin,Solothurn,Weissensteinstrasse 2,hcp,0.0,0.0,368.0,1809.0,0.0,0.0,2177.0
 Stefan Suter,Zug,Gubelstrasse 11,hcp,0.0,0.0,741.7,1434.7,0.0,0.0,2176.4
-Stephan Luterbacher,Luzern,Kantonsapotheker Gesundheits- und Meyerstrasse 20,hcp,0.0,0.0,1291.6399999999999,883.6700000000001,0.0,0.0,2175.31
 Peter Schreiber,Zürich,Rämistrasse 100 Universitätsspital Zürich,hcp,0.0,0.0,641.67,1529.12,0.0,0.0,2170.79
 Marc-Andrg Kubski,Bulle,"Cabinet Marc-Andrd Kubski, Grand-Rue 13",hcp,0.0,0.0,351.0,1219.0,600.0,0.0,2170.0
 Nicolas Buchs,Genève,Rue de Lyon 64,hcp,0.0,0.0,547.0,1623.0,0.0,0.0,2170.0
@@ -4874,7 +4874,6 @@ Ralph Trüeb,Wallisellen,Bahnhofplatz 1a,hcp,0.0,0.0,0.0,0.0,2125.0,0.0,2125.0
 Benoit Lechartier,Lausanne,"Centre Hospitalier Universitaire Vaudois (CHUV), Rue du Bugnon 46",hcp,0.0,0.0,212.9,1908.3,0.0,0.0,2121.2
 Yannik Muller,Genève,"Hôpitaux Universitaires de Genève (HUG), Rue Gabrielle-Perret-Gentil 4",hcp,0.0,0.0,581.9,1537.0,0.0,0.0,2118.9
 David Germann,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,591.0,1021.0,500.0,0.0,2112.0
-Roland Segginger,Hinterkappelen,Kappelenring 6,hcp,0.0,0.0,160.0,0.0,1950.0,0.0,2110.0
 Karoline Aebi-Popp,Bern,SchOnburgstrasse 19,hcp,0.0,0.0,741.58,1317.98,0.0,50.0,2109.56
 Gabriele Vetsch,Bern,Bremgartenstrasse 117,hcp,0.0,0.0,111.49,891.79,1100.0,0.0,2103.2799999999997
 Christoph Schmidt,Barmelweid,Klinik Barmelweid,hcp,0.0,0.0,0.0,0.0,2100.0,0.0,2100.0
@@ -4975,6 +4974,7 @@ Geneviève Favre Schmuziger,Liestal,"Kantonsspital Baselland Liestal Medizin Onk
 Karin Hartmann,Luzern,Spitalstrasse 31,hcp,0.0,0.0,289.0,1575.0,0.0,0.0,1864.0
 Claudio Thurneysen Day,St. Gallen,Rorschacherstrasse 95,hcp,0.0,0.0,846.4,1016.05,0.0,0.0,1862.45
 Chris Heimgartner,Muri AG,"Spital Muri Innere Medizin, Spitalstrasse 144",hcp,0.0,0.0,1011.5,843.52,0.0,0.0,1855.02
+Hans-Ulrich Tschanz,Heiligenschwendi,"Berner Reha Zentrum Medizin Kardiologie, Schwendi 299",hcp,0.0,0.0,0.0,0.0,1850.0,0.0,1850.0
 Michael Pohly,Bäch SZ,Seestrasse 164,hcp,0.0,0.0,0.0,0.0,1850.0,0.0,1850.0
 Niklaus Brändli,Winterthur,"Praxis Niklaus Brändli, Römertorstrasse 1",hcp,0.0,0.0,1151.0,698.0,0.0,0.0,1849.0
 Renato Schwendener,Luzern,"Praxis Renato Schwendener, Stadthofstrasse 3",hcp,0.0,0.0,490.0,1359.0,0.0,0.0,1849.0
@@ -4993,6 +4993,7 @@ Marie Hofer,Lausanne,CHUV- Rue du Bugnon 46,hcp,0.0,0.0,571.0,1245.0,0.0,0.0,181
 Dominique Nüssli,St. Gallen,"Kantonsspital St. Gallen, Rorschacherstrasse 95",hcp,0.0,0.0,574.86,1238.63,0.0,0.0,1813.49
 Jacques Lars Hoffmann,Genève,Rue Maurice-Braillard 8,hcp,0.0,0.0,400.0,907.01,500.0,0.0,1807.01
 José Bengoa,Genève,Chemin De Beau-soleil 12,hcp,0.0,0.0,330.0,1471.94,0.0,0.0,1801.94
+Karl Scheidegger,St. Gallen,Brauerstrasse 97,hcp,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0
 Isabelle Keller,Winterthur,"Kantonsspital Winterthur, Brauerstrasse 15",hcp,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0
 Silvia Schwab,Burgdorf,Oberburgstrasse 54,hcp,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0
 Frédéric Glauser,Genève,28 Quai du Seujet,hcp,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0
@@ -5013,13 +5014,13 @@ Ralph Ringer,Zürich,Lengghalde 2,hcp,0.0,0.0,602.0,1169.0,0.0,0.0,1771.0
 Carla Maissen,Chur,Bahnhofstrasse 14,hcp,0.0,0.0,717.35,1051.05,0.0,0.0,1768.4
 Nora Brunner-Schaub,Zürich,Birmensdorferstrasse 497,hcp,0.0,0.0,623.0,1145.0,0.0,0.0,1768.0
 Damian Wild,Basel,Petersgraben 4,hcp,0.0,0.0,0.0,317.59,1360.42,87.0,1765.01
-Eva Christine Schneider-Naef,Lengnau AG,Brunnengasse 11,hcp,0.0,0.0,190.0,75.0,1500.0,0.0,1765.0
 Annique Natalie Roggen,Luzern,"Luzerner Kantonsspital, Spitalstrasse 31",hcp,0.0,0.0,103.85,1654.5,0.0,0.0,1758.35
 Ursula Gansser,Einsiedeln,Schmiedenstrasse 23,hcp,0.0,0.0,1314.91,442.36,0.0,0.0,1757.27
 Johny Vogel,Sierre,Avenue de la Gare 3,hcp,0.0,0.0,0.0,556.0,1200.0,0.0,1756.0
 Christoph Salathé,Marsens,Réseau fribourgeois de santé mentale c/o Centre de soins hospitaliers Case postale 90,hcp,0.0,0.0,577.0,602.0,577.0,0.0,1756.0
 Lemis Kraveczova-Jafarova,Horgen,Seestrasse 185,hcp,0.0,0.0,597.4399999999999,1157.08,0.0,0.0,1754.52
 Mauro Manconi,Lugano,Via Tesserete 46,hcp,0.0,0.0,0.0,0.0,1600.0,154.0,1754.0
+Jacqueline Landolt,Morges,Rue de la Gare 13,hcp,0.0,0.0,0.0,0.0,1750.0,0.0,1750.0
 Charles-Henry Rochat,Genève,"Cabinet Ch. Beau Soleil 12, Genève",hcp,0.0,0.0,0.0,0.0,1750.0,0.0,1750.0
 Sibylle Kohler,Zollikerberg,Trichtenhauser Strasse 20,hcp,0.0,0.0,0.0,0.0,1750.0,0.0,1750.0
 Stephan Holliger,Biel/Bienne,Privatklinik Linde AG Blumenrain 105,hcp,0.0,0.0,0.0,0.0,1750.0,0.0,1750.0
@@ -5176,6 +5177,7 @@ Marco Christoph Travaglini,Bern,Laupenstrasse 8,hcp,0.0,0.0,438.0,1068.0,0.0,0.0
 Marek Nemec,Samedan,"Spital Oberengadin Medizin Pneumologie, Via Nouva 3",hcp,0.0,0.0,354.0,1151.0,0.0,0.0,1505.0
 Eva Boss,Lausanne,Avenue des Jordils 5,hcp,0.0,0.0,471.0,1032.0,0.0,0.0,1503.0
 Jean-Yves Delaite,Nyon,Avenue Viollier 8,hcp,0.0,0.0,483.0,1018.0,0.0,0.0,1501.0
+Stephan Luterbacher,Luzern,Kantonsapotheker Gesundheits- und Meyerstrasse 20,hcp,0.0,0.0,868.8599999999999,631.4200000000001,0.0,0.0,1500.28
 Heinrich Grob,Reinach BL,Im Reinacherhof 53,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 Peter Eisler,Zürich,Burenweg 32a,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 Alex Stalder,Bottmingen,Baslerstrasse 13,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
@@ -5193,7 +5195,6 @@ Evelyn Rieder,Winterthur,Technikumstrasse 71 Postfach,hcp,0.0,0.0,0.0,0.0,1500.0
 Francesco Maisano,Zürich,"Universitätsspital Zürich, HOER D 41",hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 Franz Immer,Bern,Laupenstrasse 37,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 Giorgio Pietramaggiori,Nyon,Rue de la Môrache 9,hcp,0.0,0.0,0.0,1500.0,0.0,0.0,1500.0
-Hans Rickli,Berneck,Oberfeldweg 8,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 Hans-Georg Wirsching,Zürich,Frauenklinikstrasse 26,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 Hero Schnitzler,Zürich,Bodmerstrasse 4,hcp,0.0,0.0,0.0,1500.0,0.0,0.0,1500.0
 Iljas Rosenberg,Winterthur,Vistaline GmbH Bachtelstrasse 5,hcp,0.0,0.0,0.0,1500.0,0.0,0.0,1500.0
@@ -5238,7 +5239,6 @@ Gentiane Colque,Biel/Bienne,Bahnhofstrasse 7,hcp,0.0,0.0,550.0,914.0,0.0,0.0,146
 Raffaella Cristina Mordasini,Bern,Freiburgstrasse 4,hcp,0.0,0.0,484.0,980.0,0.0,0.0,1464.0
 Philippe Rieder,Yverdon-les-Bains,Av. des Sciences 2,hcp,0.0,0.0,72.0,390.0,1000.0,0.0,1462.0
 Sandra Michel,Arlesheim,Birseckstrasse 99,hcp,0.0,0.0,320.0,1140.0,0.0,0.0,1460.0
-Jochen Grassinger,Zürich,Rämistrasse 100,hcp,0.0,0.0,541.94,116.74,800.0,0.0,1458.6800000000003
 Daniel Tenthorey,Fully,Rue Maison de Commune 17,hcp,0.0,0.0,504.0,954.0,0.0,0.0,1458.0
 Gian Paolo Ramelli,Bellinzona,"Ospedale Regionale Bellinzona e Valli Kinderklinik, Via Ospedale",hcp,0.0,0.0,91.0,466.33,900.0,0.0,1457.33
 Michel Bidlingmeyer,Neuchâtel,Rue Pury 4,hcp,0.0,0.0,553.0,898.0,0.0,0.0,1451.0
@@ -5250,6 +5250,7 @@ Claudia Collao Lamb,Chene- Bougeries,Route De Chene 110,hcp,0.0,0.0,410.79,1031.
 Hatidje Shabanaj,Bern,Inselspital Bern,hcp,0.0,0.0,560.0,882.0,0.0,0.0,1442.0
 Luca Bernasconi,Aarau,"Kantonsspital Aarau, Tellstrasse",hcp,0.0,0.0,472.35,968.08,0.0,0.0,1440.43
 Teresa Daniela Clerici,Bellinzona,Ospedale regionale Bellinzona e Valli - IOSI Istituto Oncologico della Svizzera - Italians / Laboratorio di ematologia Ospedale San Giovanni,hcp,0.0,0.0,568.35,869.7,0.0,0.0,1438.05
+Angelo Carone,Uznach,Gasterstrasse 25,hcp,0.0,0.0,0.0,0.0,1438.0,0.0,1438.0
 Vanessa Fenner,Genève,"Hôpitaux Universitaires Genève, Rue Gabrielle Perret-Gentil 4",hcp,0.0,0.0,0.0,1437.69,0.0,0.0,1437.69
 Florian Joachim Voss,Frauenfeld,"Praxis Florian Joachim Voss, Thundorferstrasse 3",hcp,0.0,0.0,556.3,878.03,0.0,0.0,1434.33
 Nuré Santoro,Chêne-Bougries,,hcp,0.0,0.0,465.0,969.0,0.0,0.0,1434.0
@@ -5263,6 +5264,7 @@ Jacques Eicher,Lausanne,,hcp,0.0,0.0,465.0,961.0,0.0,0.0,1426.0
 Alain Schneeberger,Martigny,Avenue de la Gare 10,hcp,0.0,0.0,532.0,887.0,0.0,0.0,1419.0
 Michaela Corti,Zürich,Rotbuchstrasse 46,hcp,0.0,0.0,706.0,712.0,0.0,0.0,1418.0
 Patricia Inauen,Bern,Malerweg 26,hcp,0.0,0.0,560.0,856.0,0.0,0.0,1416.0
+Martin Egger,Langnau,Dorfbergstrasse 10,hcp,0.0,0.0,0.0,0.0,1400.0,16.0,1416.0
 Anne-Valérie Burgener,Basel,"Universitätsspital Basel, Petersgraben 4",hcp,0.0,0.0,472.35,943.64,0.0,0.0,1415.99
 Cornelius Lenggenhager,St. Gallen,Waisenhausstrasse 5,hcp,0.0,0.0,519.6,894.95,0.0,0.0,1414.55
 Bernward Niemann,Basel,Kleinriehenstrasse 30,hcp,0.0,0.0,774.2,635.9,0.0,0.0,1410.1
@@ -5305,6 +5307,7 @@ Evangelia Tzika,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,593.44,782.54
 Peter Gnehm,Carouge GE,Rue de la Fontenette 29,hcp,0.0,0.0,0.0,0.0,1375.0,0.0,1375.0
 Sybille Eicken,Bern,"Inselspital, Freiburgstrasse 15",hcp,0.0,0.0,296.68,1069.64,0.0,0.0,1366.32
 Christian Peter Rüegg,Zürich,Rämistrasse 100,hcp,0.0,0.0,339.0,1022.0,0.0,0.0,1361.0
+Roland Segginger,Hinterkappelen,Kappelenring 6,hcp,0.0,0.0,160.0,0.0,1200.0,0.0,1360.0
 Alexander Just,Olten,Louis Giroud-Strasse 26,hcp,0.0,0.0,0.0,0.0,1360.0,0.0,1360.0
 Pierre-Yves Bochud,Lausanne,Rue du Bugnon 46,hcp,0.0,0.0,339.0,1017.0,0.0,0.0,1356.0
 Myriam Eyer,Sion,Avenue du Grand Champsec 86,hcp,0.0,0.0,339.0,1016.0,0.0,0.0,1355.0
@@ -5484,7 +5487,7 @@ Eric Jeunet,Nyon,Avenue Alfred Cortot 7D,hcp,0.0,0.0,249.0,655.0,249.0,0.0,1153.
 Olivier Wenger,Chêne-Bourg,Hôpitaux Universitaires de Genève Chemin du Petit-Bel-Air 2,hcp,0.0,0.0,249.0,655.0,249.0,0.0,1153.0
 Riaz Ahmad Khan,Genève,Hôpitaux Universitaires de Genève Rue de Lausanne 20 bis,hcp,0.0,0.0,249.0,655.0,249.0,0.0,1153.0
 Christian Ruef,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,339.0,813.0,0.0,0.0,1152.0
-Daniela Zimmermann,Zürich,Birmensdorferstrass e497,hcp,0.0,0.0,277.0,875.0,0.0,0.0,1152.0
+Daniela Zimmermann,Zürich,Birmensdorferstrasse 497,hcp,0.0,0.0,277.0,875.0,0.0,0.0,1152.0
 Valentin Gisler,Bern,Freiburgstrasse 8,hcp,0.0,0.0,339.0,813.0,0.0,0.0,1152.0
 Hans-Peter Frischknecht,Zürich,Permanence Marktplatz Oerlikon - Querstrasse 15,hcp,0.0,0.0,0.0,0.0,1150.0,0.0,1150.0
 Rika Iwata,Horgen,Asylstrasse 19,hcp,0.0,0.0,352.0,798.0,0.0,0.0,1150.0
@@ -5580,6 +5583,7 @@ Christophe Graf,Bernex,Route De Loex 151,hcp,0.0,0.0,323.5,697.53,0.0,0.0,1021.0
 Stephanie Schneider,Wallisellen,Bahnhofpl. 1B,hcp,0.0,0.0,277.0,744.0,0.0,0.0,1021.0
 Boudewijn van der Weg,Thun,Krankenhausstrasse 12,hcp,0.0,0.0,540.0,480.0,0.0,0.0,1020.0
 Martin Ruppli,Arbon,Bahnhofstrasse 26,hcp,0.0,0.0,540.0,480.0,0.0,0.0,1020.0
+Eva Christine Schneider-Naef,Lengnau AG,Brunnengasse 11,hcp,0.0,0.0,190.0,75.0,750.0,0.0,1015.0
 Silke Johann,Biel/Bienne,"Spitalzentrum Biel AG, Vogelsang 84",hcp,0.0,0.0,219.09,792.98,0.0,0.0,1012.07
 Stephan Erni,Aarau,Tellstrasse,hcp,0.0,0.0,330.0,680.0,0.0,0.0,1010.0
 Elisabeth De Vecchi-Hofmeier,St. Moritz,Plazza Paracelsus 2,hcp,0.0,0.0,467.36,541.5,0.0,0.0,1008.86
@@ -6769,7 +6773,6 @@ Michael Linnebank,Zürich,Frauenklinikstrasse 26,hcp,0.0,0.0,0.0,63.7,9610.13,78
 Oliver Gero Bosch,Zürich,Psychiatrische Universitätsklinik Zürich Lenggstrasse 31,hcp,0.0,0.0,0.0,0.0,10000.0,0.0,10000.0
 Andreas Jung,Zürich,Steinwiesstrasse 75,hcp,0.0,0.0,0.0,0.0,1900.0,7026.9,8926.9
 Diego Kyburz,Basel,Petersgraben 4,hcp,0.0,0.0,303.0,6521.0,1500.0,0.0,8324.0
-Wladyslaw Strazynski,Liestal,Arztpraxis FMH Allgemeine Innere Medizin Rathausstrasse 63,hcp,0.0,0.0,0.0,0.0,8000.0,0.0,8000.0
 Michael Steigert,Chur,Loëstrasse 170,hcp,0.0,0.0,950.0,6820.0,0.0,0.0,7770.0
 Urs Dürst,Zollikon,Zolliker Strasse 79 Dufourplatz,hcp,0.0,0.0,422.0,1282.0,6038.4,0.0,7742.4
 Imboden Petra Elsässer,Moutier,Rue Beausite 49,hcp,0.0,0.0,658.85,6069.9,800.0,0.0,7528.75
@@ -6780,12 +6783,9 @@ Eric Raymond,Lausanne,Rue du Bugnon 27,hcp,0.0,0.0,0.0,0.0,6810.0,0.0,6810.0
 Pietro Edoardo Majno,Genève,Rue Gabrielle Perret-Gentil 4,hcp,0.0,0.0,0.0,0.0,5446.32,1273.5,6719.82
 Franziska Phan-Hug,Lausanne,"46, rue du Bugnon",hcp,0.0,0.0,950.0,5689.0,0.0,0.0,6639.0
 Erik Paus,Cugy,Case postale 62,hcp,0.0,0.0,0.0,0.0,6500.0,0.0,6500.0
-Glassey Perrenoud Francine,La Chaux-de-fonds,Avenue Léopold-Robert 7,hcp,0.0,0.0,0.0,0.0,6200.0,0.0,6200.0
 Alexandra Schifferli,Basel,Spitalstrasse 33,hcp,0.0,0.0,742.65,5383.35,0.0,0.0,6126.0
 Fischer Biner Reta,Bern,Bremgartenstrasse 117,hcp,0.0,0.0,1042.3899999999999,2215.64,2775.0,0.0,6033.03
-Leo Spichtig,Alpnach Dorf,Gruppenpraxis Römerhof Alpnach Dorf Robert Barmettierstrasse 5,hcp,0.0,0.0,0.0,0.0,6000.0,0.0,6000.0
 Florian Winkler,Luzern,Spitalstrasse,hcp,0.0,0.0,715.0,5236.0,0.0,0.0,5951.0
-Jean Marc Nuoffer,Bern,Kinderheilkunde des Inselspitals Kinderklinik Kinderheilkunde des Inselspitals,hcp,0.0,0.0,0.0,834.02,4572.04,266.42,5672.48
 B. Meier,Bern,Freiburgstrasse 4,hcp,0.0,0.0,0.0,0.0,4735.0,682.0,5417.0
 Irene Hoesii,Basel,"Universitätsspital Basel, Spitalstrasse 21",hcp,0.0,0.0,0.0,0.0,5400.0,0.0,5400.0
 Gert Wachter,Baden,Mellingerstrasse 1,hcp,0.0,2000.0,873.04,1936.48,500.0,0.0,5309.52
@@ -6803,7 +6803,7 @@ Pierre Baumann,Prilly,Hôpital de Cery Route de Cery,hcp,0.0,0.0,0.0,0.0,4800.0,
 Zanchi Delacrétaz Anne,Lausanne,Chemin des Croix-Rouges 5,hcp,0.0,0.0,438.0,1662.0,2683.0,0.0,4783.0
 Ikbale Siercks,St. Gallen,FIORE,hcp,0.0,0.0,1023.0,3716.0,0.0,0.0,4739.0
 Sindy Monnier,Genève,Boulevard de la Cluse 30,hcp,0.0,0.0,0.0,4702.0,0.0,0.0,4702.0
-Francois Jornayvaz,Lausanne,CHUV Méd.Endo/Diabétolo gie Chemin de Mont- Paisible 18,hcp,0.0,0.0,165.48,1519.59,3000.0,0.0,4685.07
+Glassey Perrenoud Francine,La Chaux-de-fonds,Avenue Léopold-Robert 7,hcp,0.0,0.0,0.0,0.0,4700.0,0.0,4700.0
 Philippe Morel,Genève,"Hôpitaux Universitaires Genève, Sce de chirurgie viscérale, Rue Gabrielle Perret-Gentil 4",hcp,0.0,0.0,566.9,3977.4,0.0,33.3,4577.6
 Susanne Bucher,Luzern,Spitalstrasse,hcp,0.0,0.0,436.0,3409.0,700.0,0.0,4545.0
 Fulvia Rota,Zürich,"Gemeinschaftspraxis, Gämsenstrasse 11",hcp,0.0,0.0,0.0,0.0,4500.0,0.0,4500.0
@@ -6818,10 +6818,10 @@ Jürg Bernhard,Bern,Viktoriastrasse 77,hcp,0.0,0.0,0.0,0.0,0.0,4162.0,4162.0
 Philipp Schütz,Aarau,Tellstrasse,hcp,0.0,0.0,0.0,0.0,4000.0,153.0,4153.0
 Paul Imbach,Uettligen,Lindenstrasse 25,hcp,0.0,0.0,0.0,4118.85,0.0,0.0,4118.85
 Sara Steffanoni,Viganello,Viale Pietro Capelli 1,hcp,0.0,0.0,0.0,0.0,4021.0,0.0,4021.0
+Wladyslaw Strazynski,Liestal,Arztpraxis FMH Allgemeine Innere Medizin Rathausstrasse 63,hcp,0.0,0.0,0.0,0.0,4000.0,0.0,4000.0
 René Maire,Uznach,Spital Linth - Kardiologie Gasterstrasse 25,hcp,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0
 Pierre-Henri Morère,Meyrin,Avenue Jean-Daniel Maillard 3,hcp,0.0,0.0,624.45,3365.65,0.0,0.0,3990.1
 Thomas Pabst,Bern,Freiburgstrasse 18,hcp,0.0,0.0,0.0,0.0,3925.0,50.0,3975.0
-Cornel Raess,Hitzkirch,Seilerstrasse 2,hcp,0.0,0.0,1150.0,1310.0,1500.0,0.0,3960.0
 Patrick Saudan,Genève,Rue Gabrielle-Perret-Gentil 4,hcp,0.0,0.0,296.76,3588.45,0.0,0.0,3885.21
 Alexander Litke,Aesch Bl,Durastrasse 1,hcp,0.0,0.0,1542.0,1524.0,800.0,0.0,3866.0
 Ezio Giacobini,Genève,University of Geneva Bd du Pont-d'Arve 40,hcp,0.0,0.0,0.0,0.0,3163.0,686.0,3849.0
@@ -6832,7 +6832,6 @@ Christian Simon,Lausanne,Rue du Bugnon 46,hcp,0.0,0.0,0.0,0.0,2966.0,763.87,3729
 Stefanie Graf,Zürich,Steinwiesstrasse 75,hcp,0.0,0.0,1246.0,1926.0,0.0,556.0,3728.0
 Parham Sendi,Bern,Friedbühlstrasse 51,hcp,0.0,0.0,256.0,1146.0,2315.0,0.0,3717.0
 Andreas Christe,Aarberg,Lyssstrasse 31,hcp,0.0,0.0,589.6,3125.8,0.0,0.0,3715.4
-Isabelle Hagon-Traub,Aubonne,Méd.Endo/Diabétolo gie Rue Trévelin 67,hcp,0.0,0.0,686.0,2015.0,1000.0,0.0,3701.0
 Bédat-Giddey Sylvie,Genève,Rue Michel-Chauvet 9,hcp,0.0,0.0,1490.0,1996.0,200.0,0.0,3686.0
 Léo Hans Bühler,Genève,"Hôpitaux Universitaires Genève, Sce de chirurgie viscérale, Rue Gabrielle Perret-Gentil 4",hcp,0.0,0.0,285.0,3355.4,0.0,33.3,3673.7
 Katja Stoycheva Ivanova,Basel,Petersgraben 4,hcp,0.0,0.0,781.0,2172.0,700.0,0.0,3653.0
@@ -6844,7 +6843,6 @@ Alexander Chanachev,Bulle,Place de la Gar 1,hcp,0.0,0.0,0.0,0.0,3500.0,0.0,3500.
 Musfeld Dieter,Binningen,Hauptstr. 11,hcp,0.0,0.0,0.0,0.0,3500.0,0.0,3500.0
 Tri-Linh Christian Lu,La Chaux-de-fonds,Case Postale,hcp,0.0,0.0,586.25,2859.15,0.0,0.0,3445.4
 Andreas Rohner,Rheinfelden,FMH Kardiologie Herzpraxis am Rhein Habich-Dietschy-Strasse 18,hcp,0.0,0.0,982.0,1648.0,800.0,0.0,3430.0
-Yvonne Liselotte Naegelin,Liestal,Kantonsspital Baselland Liestal Medizin Neurologie Rheinstrasse 26,hcp,0.0,0.0,1040.06,2383.1400000000003,0.0,0.0,3423.2
 Khalil Zaman,Lausanne,Rue du Bugnon 17,hcp,0.0,0.0,1706.0,1703.75,0.0,0.0,3408.75
 Beat Schmid,Schaffhausen,Geissbergstrasse 81,hcp,0.0,0.0,0.0,330.9,3050.0,0.0,3380.9
 Meyer Pierre-Alain,Tramelan,Rue de l'lndustrie 17,hcp,0.0,0.0,1420.0,1942.0,0.0,0.0,3362.0
@@ -6853,21 +6851,20 @@ Debora Bertaggia-Calderara,Lausanne,Rue du Bugnon 46,hcp,0.0,0.0,530.0,2769.0,0.
 Bernard Hirschel,Vessy,Chemin des Lucioles 13,hcp,0.0,0.0,0.0,0.0,3272.35,0.0,3272.35
 Franziska Werthmüller,Zürich,Forchstrasse 340,hcp,0.0,0.0,127.3,3125.8,0.0,0.0,3253.1
 Antonio Cozzio,Zürich,Gloriastrasse 25,hcp,0.0,0.0,0.0,0.0,3241.0,0.0,3241.0
+Cornel Raess,Hitzkirch,Seilerstrasse 2,hcp,0.0,0.0,1150.0,1310.0,750.0,0.0,3210.0
+Isabelle Hagon-Traub,Aubonne,Méd.Endo/Diabétolo gie Rue Trévelin 67,hcp,0.0,0.0,686.0,2015.0,500.0,0.0,3201.0
 Angst Jules,Zürich,,hcp,0.0,0.0,0.0,0.0,3190.0,0.0,3190.0
+Francois Jornayvaz,Lausanne,CHUV Méd.Endo/Diabétolo gie Chemin de Mont- Paisible 18,hcp,0.0,0.0,165.48,1519.59,1500.0,0.0,3185.0699999999997
 Gloor Beat,Bern,Freiburgstrasse 4,hcp,0.0,0.0,0.0,0.0,3180.0,0.0,3180.0
 Guido Tenti,Münsterlingen,Spitalcampus 1,hcp,0.0,0.0,346.0,2116.0,700.0,0.0,3162.0
 Philipp Cesana,Basel,Petersgraben 4,hcp,0.0,0.0,488.0,2668.0,0.0,0.0,3156.0
 Florian Schliephake,Münsterlingen,Spitalcampus 1,hcp,0.0,0.0,1016.0,2110.35,0.0,0.0,3126.35
 Jacques Besson,Lausanne,"Centre Saint-Martin (CSM), Rue Saint-Martin 7",hcp,0.0,0.0,0.0,0.0,3121.6,0.0,3121.6
 Sebastian Schindera,Basel,Petersgraben 4,hcp,0.0,0.0,0.0,0.0,3121.39,0.0,3121.39
-Gutmann Philippe,Renens Vd,Rue de Crissier 1,hcp,0.0,0.0,253.0,428.0,2400.0,0.0,3081.0
-Annette Bühler-Christen,Bülach,Spitalstrasse 24,hcp,0.0,0.0,519.0,769.0,1750.0,0.0,3038.0
 Bemard Egger,Rolle,Route de l'Hôpital 26,hcp,0.0,0.0,496.45,1185.13,1350.0,0.0,3031.58
 Marcel Patrick Blickenstorfer,Basel,Petersgraben 4,hcp,0.0,0.0,488.0,2522.0,0.0,0.0,3010.0
-William Pertoldi,Chiasso,Studio medico FMFI Medicina interna generale Corso San Gottardo 89,hcp,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0
 Francois Ferrero,Chêne-bougeries,Chemin De-La-Montage 67,hcp,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0
-Manfred Filler,Düdingen,Hirslanden Praxiszentrum Düdingen Düdingen Bahnhofplatz 2A,hcp,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0
-Valentin Audetat,Chur,Arztpraxis FMH Gastroenterologie Grabenstrasse 9,hcp,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0
+Leo Spichtig,Alpnach Dorf,Gruppenpraxis Römerhof Alpnach Dorf Robert Barmettlerstrasse 5,hcp,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0
 B. Sorg,Wallisellen,Zentralstrasse 6,hcp,0.0,0.0,3000.0,0.0,0.0,0.0,3000.0
 Christian Mottet,La Chaux-de-fonds,"Hôpital de La Chaux-de-Fonds, Rue de Chasseral 20",hcp,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0
 Jürg Knecht,Uster,Aathalstrasse 19,hcp,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0
@@ -6881,8 +6878,8 @@ Andrea Hilgenfeld,Affoltern Am Albis,Obstgartenstrasse 5,hcp,0.0,0.0,687.0,742.0
 Gabriel Gold,Thônex,Département de réhabilitation et gériatrie Hôpital des Trois-Chêne,hcp,0.0,0.0,0.0,0.0,2108.0,811.0,2919.0
 Oliver Grehl,Bern,Villettenmattstr. 15,hcp,0.0,0.0,0.0,0.0,2900.0,0.0,2900.0
 Robert Bonvini,Chêne-bougeries,Chemin des Grangettes 7,hcp,0.0,0.0,0.0,2177.8,688.0,0.0,2865.8
-Raphael Twerenbold,Basel,Universitätsspital Basel Medizin Kardiologie Petersgraben 4,hcp,0.0,0.0,1036.8,1826.4,0.0,0.0,2863.2
 Vladimir Popov,Luzern,Spitalstrasse,hcp,0.0,0.0,383.35,1627.05,850.0,0.0,2860.4
+Jean Marc Nuoffer,Bern,Kinderheilkunde des Inselspitals Kinderklinik Kinderheilkunde des Inselspitals,hcp,0.0,0.0,0.0,417.01,2286.02,133.21,2836.24
 Maja Weisser,Basel,Blaesiring 19,hcp,0.0,0.0,376.0,1055.0,1400.0,0.0,2832.0
 Eli Alon,Zürich,Lintheschergasse 3,hcp,0.0,0.0,0.0,510.0,1593.42,728.09,2831.51
 Vittorio Giusti,Estavayer-le-lac,Rue de la Rochette,hcp,0.0,0.0,754.55,2064.6,0.0,0.0,2819.15
@@ -6897,10 +6894,8 @@ Beckey Trinh,Basel,Spitalstrasse 33,hcp,0.0,0.0,181.0,2508.0,0.0,0.0,2689.0
 Nadia Stefanova Popova,Genève,Rue de Vermont 9A,hcp,0.0,0.0,1050.0,1631.0,0.0,0.0,2681.0
 Andrea Roberto Zoelly,Zürich,Goethestrasse 24,hcp,0.0,0.0,989.0,685.0,1000.0,0.0,2674.0
 Jan Bass,Baden,Im Ergel 1,hcp,0.0,0.0,1397.43,1273.96,0.0,0.0,2671.3900000000003
-Ralph Pianzola,Buchrain,Bueripraxis Buchrain Hauptstrasse 12,hcp,0.0,0.0,0.0,1160.0,1500.0,0.0,2660.0
 Verena Schröder,Bern,Murtenstrasse 40,hcp,0.0,0.0,0.0,0.0,2131.0,519.0,2650.0
 Matthias Regli,Interlaken,Marktgasse 1,hcp,0.0,0.0,737.4000000000001,1889.45,0.0,0.0,2626.85
-Nadja Niclauss,Genève,Hôpitaux Universitaires de Genève Chir.Digestive Rue Gabrielle-Perret- Gentil 4,hcp,0.0,0.0,1134.96,1479.8,0.0,0.0,2614.76
 Simone Müller,Basel,Centralbahnstrasse 3,hcp,0.0,0.0,507.0,2095.0,0.0,0.0,2602.0
 Andreas Siegenthaler,Urtenen-schönbühl,Kirchgässli 21,hcp,0.0,0.0,0.0,0.0,2600.0,0.0,2600.0
 David Schapiro,Onex / Schweiz,15 av du Bois de la Chapelle,hcp,0.0,0.0,0.0,0.0,2500.0,100.0,2600.0
@@ -6909,6 +6904,7 @@ Alain Flattet,Lausanne,Rue du Grand-Pont 2bis,hcp,0.0,0.0,749.0,1833.0,0.0,0.0,2
 Igor Marsteller,Bellinzona,Via Ospedale,hcp,0.0,0.0,593.39,1966.83,0.0,0.0,2560.2200000000003
 Irène Galanou,Sion,Rue de Pré-Fleuri 2a,hcp,0.0,0.0,957.0,1601.0,0.0,0.0,2558.0
 Leonie Lagler,Zürich,Rämistrasse 100,hcp,0.0,0.0,1153.12,1404.64,0.0,0.0,2557.76
+Annette Bühler-Christen,Bülach,Spitalstrasse 24,hcp,0.0,0.0,519.0,769.0,1250.0,0.0,2538.0
 Beat Von Albertini,Lausanne,Avenue De Savoie 10,hcp,0.0,0.0,242.45,1021.85,1250.0,0.0,2514.3
 Lukas Von Rohr,Unknown / Relocated,Unknown / Relocated,hcp,0.0,0.0,667.0,992.0,850.0,0.0,2508.0
 Panagiotis Samaras,Zürich,Rämistrasse 100,hcp,0.0,0.0,666.0,838.0,1000.0,0.0,2504.0
@@ -6918,13 +6914,13 @@ Giovanni Frisoni,Thônex,Chemin du Pont- Bochet 3,hcp,0.0,0.0,1545.0,0.0,0.0,887
 Marc Auer,Aarau,Tellstrasse 25,hcp,0.0,0.0,588.0,1028.47,800.0,0.0,2416.4700000000003
 Manuela Funke-Chambour,Bern,Freiburgstrasse 18,hcp,0.0,0.0,1048.77,1364.64,0.0,0.0,2413.41
 Sabina Guler,Bern,Freiburgstrasse 18,hcp,0.0,0.0,213.6,2188.8,0.0,0.0,2402.4
-Kantonsspital Aarau AG,Aarau,Tellstrasse,hcp,0.0,0.0,0.0,0.0,2400.0,0.0,2400.0
+Yvonne Liselotte Naegelin,Liestal,Kantonsspital Baselland Liestal Medizin Neurologie Rheinstrasse 26,hcp,0.0,0.0,698.53,1695.5700000000002,0.0,0.0,2394.1
 Stefano Muzzarelli,Lugano,Via Tesserete 48,hcp,0.0,0.0,0.0,1774.4,600.0,0.0,2374.4
 Tino Tancredi,Sion,Rue de Pré-Fleuri 2 C,hcp,0.0,0.0,715.75,1650.3,0.0,0.0,2366.05
 Ghislain Faivre,La Chaux-de-fonds,Rue Jardinière 71,hcp,0.0,0.0,957.0,998.0,400.0,0.0,2355.0
 Martin Hüllner,Zürich,Rämistrasse 100,hcp,0.0,0.0,0.0,0.0,2342.0,0.0,2342.0
-Pascal Vallotton,La Tour-de-peilz,Cabinet medical FMH medecine interne generale Avenue de Jaman 21,hcp,0.0,0.0,0.0,0.0,2300.0,36.0,2336.0
 Beat Küchler,Einsiedeln,Hauptstrasse 81,hcp,0.0,0.0,818.95,1514.67,0.0,0.0,2333.62
+Gutmann Philippe,Renens Vd,Rue de Crissier 1,hcp,0.0,0.0,253.0,428.0,1650.0,0.0,2331.0
 Daniel Aeberli,Bern,Freiburgstrasse 18,hcp,0.0,0.0,0.0,0.0,2315.0,0.0,2315.0
 Hans-Rudolf Portmann-Caminada,Zell,St. Urbanstrasse 8,hcp,0.0,0.0,380.0,1029.0,900.0,0.0,2309.0
 Andreas Helg,Frick,Hauptstrasse 44,hcp,0.0,0.0,1150.0,1150.0,0.0,0.0,2300.0
@@ -6957,11 +6953,11 @@ Laura Marino,Lausanne,Rue du Bugnon 46,hcp,0.0,0.0,153.0,2134.0,0.0,0.0,2287.0
 Lukas Trachsel,Bern,"Inselspital Bern, Insel-Gruppe AG - Kardiologie Freiburgstrasse 18",hcp,0.0,0.0,667.9,1592.87,0.0,0.0,2260.77
 Heike Heuer,Regensdorf,Dällikerstrasse 15,hcp,0.0,0.0,1153.0,1105.0,0.0,0.0,2258.0
 Tiziana Laura Armani,Caslano,Via Salici 6,hcp,0.0,0.0,0.0,0.0,2250.0,0.0,2250.0
+William Pertoldi,Chiasso,"Studio medico associato, Corso San Gottardo 89",hcp,0.0,0.0,0.0,0.0,2250.0,0.0,2250.0
 Bernhard Spoendlin,Rheinfelden,Habich-Dietschy-Strasse 18,hcp,0.0,0.0,891.3,1343.03,0.0,0.0,2234.33
 Rebecca Locher,Chur,Loëstrasse 170,hcp,0.0,0.0,438.0,1789.0,0.0,0.0,2227.0
 Simon Petrus Stäuble,Einsiedeln,Spitalstrasse 26a,hcp,0.0,0.0,438.0,1789.0,0.0,0.0,2227.0
 Lester Chitsulo,Genthod,chemin de la Caracole 26,hcp,0.0,0.0,0.0,2216.91,0.0,0.0,2216.91
-Binaghi Lorenzo,Coldrerio,Via Mercole 2B,hcp,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0
 "Anliker, Mark David",Winterthur,Unterer Graben 25,hcp,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0
 Alexander Andreas Navarini,Reinach BL,"Therwilerstrasse 74 a, Reinach BL",hcp,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0
 Giovanni Colpi,Lugano,Via Clemente Maraini 8,hcp,0.0,0.0,0.0,0.0,2200.0,0.0,2200.0
@@ -6986,7 +6982,6 @@ Stute Petra,Bern,Klösterlistutz 2,hcp,0.0,0.0,0.0,0.0,2100.0,0.0,2100.0
 Hans Ulrich Kull,Küsnacht,Erbstrasse 7,hcp,0.0,0.0,0.0,0.0,2100.0,0.0,2100.0
 Josef Hodel,Udligenswil,Grossmattweg 2,hcp,0.0,0.0,0.0,0.0,2100.0,0.0,2100.0
 Diane Poster,Zürich,Witellikerstrasse 40,hcp,0.0,0.0,233.55,463.9,1400.0,0.0,2097.45
-Roswitha Haider,Bern,"Inselspital Bern, Insel Gruppe AG Spitalapotheke Freiburgstrasse 18",hcp,0.0,0.0,986.5,1110.16,0.0,0.0,2096.66
 Peter Burger,Bern,Schänzlistrasse 33,hcp,0.0,0.0,563.0,1528.0,0.0,0.0,2091.0
 Christoph Clarenbach,Zürich,,hcp,0.0,0.0,291.0,295.0,1500.0,0.0,2086.0
 Peter Bauerfeind,Zürich,Klinik für Gastroenterologie Rämistrasse 100,hcp,0.0,0.0,0.0,0.0,1595.48,477.47,2072.96
@@ -7005,14 +7000,10 @@ Myriam Ebnöther,Basel,Petersgraben 4,hcp,0.0,0.0,942.0,1063.0,0.0,0.0,2005.0
 Franz Robert Eberli,Zürich,Birmensdorferstrasse 497,hcp,0.0,0.0,428.0,1575.0,0.0,0.0,2003.0
 Jean-Pierre Lalain,Genève,Chemin Moise-Duboule 29,hcp,0.0,0.0,217.0,985.0,800.0,0.0,2002.0
 Moritz Steib,Bern,Tiefenaustrasse 112,hcp,0.0,0.0,400.0,1101.0,500.0,0.0,2001.0
-Alberto Toti,Massagno,Via San Gottardo 117,hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
-Nicolas Arquint,Sarnen,Marktstrasse 7,hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
 Alexandre Campanelli,Genève,Av. De la Roseraie 76a,hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
 Andreas Lohri,Liestal,Mühlenmatt 13,hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
 Klaus Wolf,Olten,Louis Giroudstr. 20,hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
 Simeun Blagojevic,Uzwil,Bahnhofstrasse 75,hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
-Walter F. Riesen,Steinhausen,Arbeitsgruppe Lipide und Atherosklerose (AGLA) c/o Medworld Schweiz AG Sennweidstrasse 46,hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
-Wieland Boeckmann,Brunnen,Seeklinik Brunnen Urologische Klinik Gersauerstrasse 8,hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
 Christine N. Manser,Winterthur,Wülflingerstrasse 376c,hcp,0.0,0.0,0.0,0.0,0.0,2000.0,2000.0
 David Niedrig,Walliseüen,Pfachagstrasse 2,hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
 Gottfried Rudofsky,Aarau,Mühlemattstrasse 14,hcp,0.0,0.0,0.0,0.0,0.0,2000.0,2000.0
@@ -7027,7 +7018,6 @@ Sabine Steimann,Luzern,Meisenweg 13,hcp,0.0,0.0,0.0,0.0,0.0,2000.0,2000.0
 Ulrich Schnyder,Zürich,Klinik für Psychiatrie & Psychotherapie Universitätsspital Zürich Culmannstrasse 8,hcp,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0
 Stefan Felder,Basel,Peter Merian-Weg 6,hcp,0.0,0.0,0.0,0.0,1635.0,351.0,1986.0
 Urs Hepp,Windisch,"Zürcherstrasse 241, Windisch",hcp,0.0,0.0,0.0,0.0,1980.0,0.0,1980.0
-Jochen Mack,Lachen Sz,Spital Lachen AG Spitalapotheke Oberdorfstrasse 41,hcp,0.0,0.0,845.56,1129.52,0.0,0.0,1975.08
 Vanessa Christinet,Ecublens,Rue du Villars 27,hcp,0.0,0.0,0.0,1966.97,0.0,0.0,1966.97
 Becart Sophie,Nyon,Rue de la Vy-Creuse 4,hcp,0.0,0.0,0.0,1160.0,800.0,0.0,1960.0
 Andreas Heisler,Ebikon,Bahnhofstrasse 2,hcp,0.0,0.0,0.0,1160.0,800.0,0.0,1960.0
@@ -7037,14 +7027,13 @@ Georg Meffert,Aarau,Tellstrasse,hcp,0.0,0.0,596.55,1352.4,0.0,0.0,1948.95
 Reno Frei,Basel,Universitätsspital  Basel Labor Mikrobiologie Petersgraben 4,hcp,0.0,0.0,0.0,0.0,1941.0,0.0,1941.0
 Stefanie Wöhrle,Luzern,Spitalstrasse Kantonsspital  Luzern,hcp,0.0,0.0,672.7,1267.8,0.0,0.0,1940.5
 Patrick Yerly,Lausanne,Rue du Bugnon 46,hcp,0.0,0.0,369.73,556.53,0.0,1000.0,1926.26
-Walter Dinner,Wetzikon Zh,Gruppenpraxis Wetzikon ZH Weststrasse 70,hcp,0.0,0.0,497.2,1421.4,0.0,0.0,1918.6
+Ralph Pianzola,Buchrain,Bueripraxis Buchrain Hauptstrasse 12,hcp,0.0,0.0,0.0,1160.0,750.0,0.0,1910.0
 Marco Grossi,Locarno,Studio Dr. Grossi Marco Via Galli 20,hcp,0.0,0.0,221.1,886.01,800.0,0.0,1907.11
 Bernhard Jakob Schaller,Muttenz,Ausmattstrasse 1,hcp,0.0,0.0,0.0,0.0,1900.0,0.0,1900.0
 David Bruhin,Altdorf Ur,Spitalstrasse 1,hcp,0.0,0.0,264.0,1636.0,0.0,0.0,1900.0
 Susanne Weindler,Winterthur,Brauerstrasse 15,hcp,0.0,0.0,455.0,1444.27,0.0,0.0,1899.27
 Reto Winkler,Beringen,Schützehüsliweg 5,hcp,0.0,0.0,428.0,1467.0,0.0,0.0,1896.0
 Octavian Mindu,Bad Zurzach,Praxis Dr. Mindu Octavian Hauptstrasse 68,hcp,0.0,0.0,294.8,597.49,1000.0,0.0,1892.29
-Marianne Rohrbach,Zürich,Universitäts-Kinderspital Zürich Medizin Stoffwechsel Steinwiesstrasse 75,hcp,0.0,0.0,0.0,0.0,1875.0,0.0,1875.0
 Jürgen Beck,Bern,Freiburgstrasse 18,hcp,0.0,0.0,0.0,0.0,1601.45,269.04,1870.49
 Regina Woelky,Baden,Im Ergel 1,hcp,0.0,0.0,804.0,1057.8,0.0,0.0,1861.8
 Peter Osterwalder,Zürich,Tödistrasse 42,hcp,0.0,0.0,0.0,1560.0,300.0,0.0,1860.0
@@ -7057,7 +7046,6 @@ Stephan Jenzer,Bern,Schänzlistrasse 39,hcp,0.0,0.0,695.0,1132.0,0.0,0.0,1827.0
 Julia Maria Johannsen,Münsterlingen,"Spitalcampus 1, Münsterlingen",hcp,0.0,0.0,132.0,807.0,880.0,0.0,1819.0
 Kamran Koligi,Nottwil,Guido A. Zäch Strasse 1,hcp,0.0,0.0,767.0,1034.0,0.0,0.0,1801.0
 Stefan Drechsel,Davos Platz,Promenade 4,hcp,0.0,0.0,563.0,1238.0,0.0,0.0,1801.0
-Carine Rochat,Baar,Zuger Kantonsspital AG Spitalapotheke Landhausstrasse 11,hcp,0.0,0.0,845.56,954.7,0.0,0.0,1800.26
 Christoph Huber,Bern,"Thoraxchirurgie, Freiburgstrasse 18",hcp,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0
 Lorenz Jost,Bruderholz,Kantonsspital Baselland Bruderholz,hcp,0.0,0.0,667.0,1133.0,0.0,0.0,1800.0
 Rüdiger Brinkhaus,Stans,"Kantonsspital Nidwalden, Ennetmooserstrasse 19",hcp,0.0,0.0,0.0,0.0,1800.0,0.0,1800.0
@@ -7075,7 +7063,6 @@ Lisa Ambrosetti,Lugano,Via Moncucco 10,hcp,0.0,0.0,488.0,1276.0,0.0,0.0,1764.0
 Stefan Bleuer,Münsingen,Oberarzt  Psychiatriezentrum Münsingen PZM Hunzigenallee 1,hcp,0.0,0.0,346.0,613.0,800.0,0.0,1758.0
 Dana Védy,Lausanne,Rue Du Bugnon 46,hcp,0.0,0.0,804.0,950.6,0.0,0.0,1754.6
 Corina Christmann,Luzern,"Luzerner Kantonsspital, Spitalstrasse",hcp,0.0,0.0,623.1,1096.5,0.0,33.3,1752.9
-Sylvia Baer,Confignon,Chemin de Sous-le-Clos 12,hcp,0.0,0.0,0.0,0.0,1750.0,0.0,1750.0
 Adrian Bührer,Novazzano,Via Marcetto 28,hcp,0.0,0.0,0.0,0.0,1750.0,0.0,1750.0
 Giovanni Foletti,Lavigny,Institution de Lavigny Route Du Vignoble 60,hcp,0.0,0.0,0.0,0.0,1750.0,0.0,1750.0
 Marcel Sutter,Arbedo,Via Molinazzo 40,hcp,0.0,0.0,0.0,0.0,1750.0,0.0,1750.0
@@ -7089,7 +7076,6 @@ Gideon Sartorius,Olten,FertiSuisse AG,hcp,0.0,0.0,412.0,752.0,0.0,548.0,1712.0
 Erich Russi,Luzern,Praxisgemeinschaft Lungdocs,hcp,0.0,0.0,433.3,1272.2,0.0,0.0,1705.5
 Sacroug Kazatchkova Tatiana,Chêne-bourg,Rue Peillonnex 28,hcp,0.0,0.0,596.3299999999999,1109.0,0.0,0.0,1705.33
 Dreher Tobias,Basel,Spalentorweg 2,hcp,0.0,0.0,369.73,533.33,800.0,0.0,1703.06
-Edouard Fulliquet,Cointrin,Cabinet medical FMH Medecine interne generale Ch. de Joinville 25,hcp,0.0,0.0,0.0,0.0,1700.0,0.0,1700.0
 Anton Vonwil,Adligenswil,Udligenswilerstrasse 5,hcp,0.0,0.0,0.0,0.0,1700.0,0.0,1700.0
 Caroline Schier-Wyss,Binningen,"Vista Klinik, Hauptstrasse 55",hcp,0.0,0.0,1700.0,0.0,0.0,0.0,1700.0
 Lorenza Beffa,Luzern,Spitalstrasse,hcp,0.0,0.0,416.48,480.88,800.0,0.0,1697.36
@@ -7119,7 +7105,6 @@ Robert Stein,Bern,Schänzlihalde 11,hcp,0.0,0.0,229.0,704.0,600.0,72.0,1605.0
 Iris Dorothea Neumann,Thun,Krankenhausstr. 12,hcp,0.0,0.0,920.65,683.72,0.0,0.0,1604.37
 Thomas Frey,Zürich,Badenerstrasse 177,hcp,0.0,0.0,0.0,304.01,1300.0,0.0,1604.01
 Oscar Matzinger,Vevey,Avenue de la Prairie 3,hcp,0.0,0.0,416.48,386.94,800.0,0.0,1603.42
-Cornelia Hartmeier,Schaffhausen,Spitäler Schaffhausen Kantonsspital Schaffhausen Spitalapotheke Ge iss berg Strasse 81,hcp,0.0,0.0,845.56,756.78,0.0,0.0,1602.34
 Balz Bächtold,Winterthur,Arztpraxis für Sozialpsychiatrie Liebestrasse 1,hcp,0.0,0.0,0.0,0.0,1600.0,0.0,1600.0
 Christian Kätterer,Zürich,"REHAB Basel, Im Burgfelderhof 40",hcp,0.0,0.0,0.0,0.0,1600.0,0.0,1600.0
 Peter Bähler,Tafers,Zelgstrasse 25,hcp,0.0,0.0,0.0,0.0,1600.0,0.0,1600.0
@@ -7129,6 +7114,7 @@ Veronika Zubler,Zürich,Forchstrasse 340,hcp,0.0,0.0,0.0,0.0,1600.0,0.0,1600.0
 Urs Stoffel,Zürich,Chirurgische Praxis Enge Seestrasse 49,hcp,0.0,0.0,0.0,0.0,1595.48,0.0,1595.48
 Nicola Balmelli,Basel,Oberwilerstrasse 9,hcp,0.0,0.0,436.0,1157.0,0.0,0.0,1593.0
 Edouardo Schiffer,Genève,Hôpitaux Universitaires de Genève - Département d'anesthésiologi e Rue Gabrielle-Perret -Gentil 4,hcp,0.0,0.0,0.0,0.0,1588.0,0.0,1588.0
+Pascal Vallotton,La Tour-de-peilz,Avenue de Jaman 21,hcp,0.0,0.0,0.0,0.0,1550.0,36.0,1586.0
 Christophe Brossard,Delémont,Faubourg des Capucins 30,hcp,0.0,0.0,576.57,1007.9,0.0,0.0,1584.47
 Laurent Laporte,Meyrin,Av. Sainte-Cécile 21,hcp,0.0,0.0,147.0,637.0,800.0,0.0,1584.0
 Klimkait Thomas,Basel,Petersplatz 10,hcp,0.0,0.0,0.0,0.0,1393.24,185.76,1579.0
@@ -7156,19 +7142,14 @@ Michel Pellaton,Neuchâtel,Ruelle Du Peyrou 2,hcp,0.0,0.0,524.88,994.15,0.0,0.0,
 Grégoire Berthod,Martigny,Avenue de la Fusion 27,hcp,0.0,0.0,667.0,850.0,0.0,0.0,1517.0
 Riman Yaghchi,Basel,Kleinriehenstrasse 30,hcp,0.0,0.0,842.0,673.0,0.0,0.0,1515.0
 Djamila Bensaid,Lausanne,"CHUV, Rue du Bugnon 17",hcp,0.0,0.0,360.65,1153.91,0.0,0.0,1514.56
-Rüdiger Eisei,Frauenfeld,Kantonsspital Frauenfeld Medizin Nephrologie Pfaffenholzstrasse 4,hcp,0.0,0.0,562.96,944.08,0.0,0.0,1507.04
 Monika Maria Buchmann-Walz,Luzern,Spitalstrasse,hcp,0.0,0.0,440.35,1065.75,0.0,0.0,1506.1
 Eggenberger Christoph,Lach,Praxis Dr. Eggenberger/Dr. Am Kasernenstrasse 1,hcp,0.0,0.0,346.39,1157.98,0.0,0.0,1504.37
 Binz Moser Priska,Basel,Claraplatz 1,hcp,0.0,0.0,245.1,814.53,444.0,0.0,1503.63
 Farshid Fateri,Genève,Rue Gabrielle Perret-Gentil 4,hcp,0.0,0.0,754.65,748.01,0.0,0.0,1502.66
 Cord von Restorff,Zürich,Birmensdorferstrasse 497,hcp,0.0,0.0,524.88,977.6,0.0,0.0,1502.48
-Abel Lanaspa,Gland,Centre Médical de Gland Gland Allée du Communet 20,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
-Beat Liechti,Bern,Arztpraxis FMFI Allgemeine Innere Medizin Fl irschengraben 10,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
-Dagmar Müller,Döttingen,Arztpraxis Praktische Ärztin Hauptstrasse 19,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
-Friedrich Husi-Meier,Winznau,Gruppenpraxis Winznau Oltnerstrasse 9,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
+Manfred Piller,Düdingen,Hirslanden Praxiszentrum Düdingen Düdingen Bahnhofplatz 2A,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 Pedro Planas,Marin-epagnier,Centre Neuchätelois Psychiatrie,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
-Stephan Ciciliani,Büren So,Ärztezentrum Büren Büren SO Liestalerstrasse 11,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
-Ulrike Meier-Lex,Baden,IFA Institut für Arbeitsmedizin AG Baden Kreuzweg 3,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
+Valentin Audetat,Chur,Arztpraxis FMH Gastroenterologie Grabenstrasse 9,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 Walter Schweizer,Frick,Mühlegasse 18,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 Barbara Ochsner,Luzern,Pilatusstrasse 13,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 C. Seydoux,Lausanne,Avenue de Rumine 25,hcp,0.0,0.0,1500.0,0.0,0.0,0.0,1500.0
@@ -7193,7 +7174,6 @@ Raffael Guggenheim,Zürich,"Stadtspital Triemli, Birmensdorferstrasse 497",hcp,0
 Sascha Dunst,Aarau,Herzogstrasse 10,hcp,0.0,0.0,700.0,800.0,0.0,0.0,1500.0
 Thomas Dierks,Bern,Universitäre Psychiatrische Dienste Bern (UPD) Bolligenstrasse 111,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 Thomas Lüddeckens,Gontenschwil,Klinik Im Hasel AG Hasel 837,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
-Ursula Koppel,Oberweningen,Gemeinschaftspraxis Oberweningen Oberweningen Chlupfwisstrasse 34,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 Valentino Angehrn,Zürich-oerlikon,Ohmstrasse 14,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 Vasileios Vareltzis,Carouge GE,Rue Jacques-Grosselin 25,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
 Werner Bauer,Küsnacht ZH,Kohlrainstrasse 1,hcp,0.0,0.0,0.0,0.0,1500.0,0.0,1500.0
@@ -7206,12 +7186,12 @@ Steve Clerc,Fribourg,Route de Bertigny,hcp,0.0,0.0,355.66,1116.54,0.0,0.0,1472.2
 Antoine Adamantidis,Bern,Freiburgstrasse 18,hcp,0.0,0.0,0.0,0.0,1089.01,380.85,1469.86
 Ruth Wüthrich,Bern,Tiefenaustrasse 112,hcp,0.0,0.0,402.75,1065.75,0.0,0.0,1468.5
 Sabine Gerull,Basel,Petersgraben 4,hcp,0.0,0.0,501.85,964.64,0.0,0.0,1466.49
-Universitätsspital Basel,Basel,Petersgraben 4,hcp,0.0,0.0,959.0,503.2,0.0,0.0,1462.2
 Petra Pfisterer,Bern,Freiburgstrasse 18,hcp,0.0,0.0,488.0,974.0,0.0,0.0,1461.0
 Beat Roth,Bern,Universitätsklinik für Urologie Freiburgstrasse 18,hcp,0.0,0.0,0.0,0.0,1063.65,390.88,1454.54
 Martin Osranek,Bad Zurzach,Quellenstrasse 34,hcp,0.0,0.0,436.0,1018.0,0.0,0.0,1454.0
 Alain Sermier,Lausanne,Rue Du Bugnon 46,hcp,0.0,0.0,616.74,837.11,0.0,0.0,1453.85
 Felicitas Langner-Viviani,Lausanne,"Rue du Bugnon 46, CHUV",hcp,0.0,0.0,714.45,737.15,0.0,0.0,1451.6
+Binaghi Lorenzo,Coldrerio,Via Mercole 2B,hcp,0.0,0.0,0.0,0.0,1450.0,0.0,1450.0
 Andreas Hagmann,Bern,Thunstrasse 2,hcp,0.0,0.0,630.0,820.0,0.0,0.0,1450.0
 Steffen Glökler,Ittigen,Talgut-Zentrum 5,hcp,0.0,0.0,630.0,820.0,0.0,0.0,1450.0
 Christian Wüthrich,Münsingen,Hunzigenallee 1,hcp,0.0,0.0,488.0,957.0,0.0,0.0,1445.0
@@ -7221,6 +7201,7 @@ Gérard Praz,Sion,Avenue Grand-Champsec 86,hcp,0.0,0.0,256.0,1186.0,0.0,0.0,1442
 Marc Germond,Lausanne,"CPMA, Rue de la Vigie 5",hcp,0.0,0.0,0.0,0.0,788.0,646.0,1434.0
 Thierry Girard,Basel,Spitalstrasse 21,hcp,0.0,0.0,0.0,0.0,1091.0,342.6,1433.6
 Alexander Buchholt,Basel,,hcp,0.0,0.0,325.0,1107.0,0.0,0.0,1432.0
+Raphael Twerenbold,Basel,Universitätsspital Basel Medizin Kardiologie Petersgraben 4,hcp,0.0,0.0,518.4,913.2,0.0,0.0,1431.6
 Kurosch Purkabiri,Basel,,hcp,0.0,0.0,325.0,1106.0,0.0,0.0,1431.0
 Noble Jacques,Genève,Avenue Eugène Pittard 3a,hcp,0.0,0.0,429.76,0.0,1000.0,0.0,1429.76
 Meryll Cassat,Riaz,Rue De L'hôpital 9,hcp,0.0,0.0,308.3,1118.3,0.0,0.0,1426.6
@@ -7282,9 +7263,9 @@ Jean-François Schnegg,Lausanne,"CHUV, Rue Du Bugnon 21",hcp,0.0,0.0,374.4,947.2
 Sylvia Montalvan Dobmayr,Thun,Niesenstrasse 1,hcp,0.0,0.0,272.0,448.0,600.0,0.0,1320.0
 Clare Elisabeth Bechet,Yverdon-les-Bains,Rue d'Entremonts 11,hcp,0.0,0.0,488.0,831.0,0.0,0.0,1319.0
 John-David Aubert,Lausanne,Rue du Bugnon 46,hcp,0.0,0.0,576.57,739.74,0.0,0.0,1316.31
-Urban Venetz,Visp,Arztpraxis FMH Neurologie Ueberbielstrasse 10,hcp,0.0,0.0,248.6,1066.04,0.0,0.0,1314.64
 Marcus Daniel Zahner,Wettingen,Bahnhofstrasse 88,hcp,0.0,0.0,235.0,1078.0,0.0,0.0,1313.0
 Alain Rossier,Monthey,Route de Morgins 54,hcp,0.0,0.0,0.0,1307.55,0.0,0.0,1307.55
+Nadja Niclauss,Genève,Hôpitaux Universitaires de Genève Chir.Digestive Rue Gabrielle-Perret- Gentil 4,hcp,0.0,0.0,567.48,739.9,0.0,0.0,1307.38
 Augustine Panthackal,Faido,Via Balcengo 37,hcp,0.0,0.0,355.0,446.0,500.0,0.0,1301.0
 Marc Morand,Lausanne,Av. de Cour 9,hcp,0.0,0.0,0.0,0.0,1300.0,0.0,1300.0
 Frank Bochmann,Hünenberg See,Oberer Chaemletenweg 31B,hcp,0.0,0.0,0.0,0.0,1300.0,0.0,1300.0
@@ -7313,7 +7294,9 @@ Susanne Aberle,Zürich,Rämistrasse 100,hcp,0.0,0.0,513.34,746.35,0.0,0.0,1259.6
 Angela Koutsokera,Morges,"Hôpital de Morges, Chemin de Crête 2",hcp,0.0,0.0,426.0,832.0,0.0,0.0,1259.0
 Davide Giunzioni,Lugano,Via Tesserete 46,hcp,0.0,0.0,0.0,1252.42,0.0,0.0,1252.42
 Niksa Jovanovic,Flumenthal,FMH Neurologie - Baselstrasse 5,hcp,0.0,0.0,0.0,0.0,1200.0,51.0,1251.0
+Alberto Toti,Massagno,Via San Gottardo 117,hcp,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0
 Vladka Cuchard,Renens Vd,Av. de Florissant 30,hcp,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0
+Nicolas Arquint,Sarnen,Marktstrasse 7,hcp,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0
 Irene Laube,Geroldswil,Dorfstrasse 77,hcp,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0
 Roger Darioli,Bern,Effingerstrasse 2,hcp,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0
 Sandra Winiger-Sigrist,Zürich,Tièchestrasse 99,hcp,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0
@@ -7359,7 +7342,6 @@ Jean-Marc Languetin,Lausanne,Avenue D'ouchy 31,hcp,0.0,0.0,754.65,453.17,0.0,0.0
 Céline Labrosse,Genolier,Route du Muids 3,hcp,0.0,0.0,167.2,1039.2,0.0,0.0,1206.4
 Katja Hatz,Zürich,Hauptstrasse 55,hcp,0.0,0.0,0.0,1206.0,0.0,0.0,1206.0
 Michael Krause,Zürich,Goethestrasse 24,hcp,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0
-Vincenzo D'Apuzzo,Mendrisio,Centro Pediatrico del Mendrisiotto SA Mendrisio Via Beroldingen 26,hcp,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0
 Andreas Wallmeroth,Muttenz,Bahnhofstrasse 2,hcp,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0
 Bianca Patrick Deila,Saxon,Rue de Gottefrey 11,hcp,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0
 Marco Passoni,Orselina,Via al Parco 27,hcp,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0
@@ -7461,6 +7443,7 @@ Von Kiparski Alexander,Willisau,Hauptgasse 40,hcp,0.0,0.0,245.1,812.53,0.0,0.0,1
 Simon Birnstiel,Emmental,"Dorfbergstrasse 10, Langnau im Emmental",hcp,0.0,0.0,583.0,472.0,0.0,0.0,1055.0
 Andreas Cerny,Lugano,Via Trevano 38,hcp,0.0,0.0,414.75,637.55,0.0,0.0,1052.3
 Thomas Dorn,Zürich,Bleulerstrasse 60,hcp,0.0,0.0,0.0,315.23,733.8,0.0,1049.03
+Roswitha Halder,Bern,"Inselspital Bern, Insel Gruppe AG Spitalapotheke Freiburgstrasse 18",hcp,0.0,0.0,493.25,555.08,0.0,0.0,1048.33
 Diana Dan,Bern,Freiburgstrasse 18,hcp,0.0,0.0,560.0,486.0,0.0,0.0,1046.0
 Guillaume Buss,Lausanne,Rue du Bugnon 46,hcp,0.0,0.0,560.0,486.0,0.0,0.0,1046.0
 Semir Arslanagic,Genève,Avenue de Miremont 39,hcp,0.0,0.0,102.33,942.55,0.0,0.0,1044.88
@@ -7508,10 +7491,12 @@ Christa Maria Brenig,Schaffhausen,Geissbergstrasse 81,hcp,0.0,0.0,479.6,523.25,0
 David Lorenzana,Luzern,Spitalstrasse,hcp,0.0,0.0,479.6,523.25,0.0,0.0,1002.85
 Salah Jawdat,Altstätten SG,F.-Marolanistrasse 6,hcp,0.0,0.0,479.6,523.25,0.0,0.0,1002.85
 Wojciech Syrynski,Langenthal,Sankt Urbanstrasse 67,hcp,0.0,0.0,479.6,523.25,0.0,0.0,1002.85
-Alexander Spillmann,Muri Ag,Kreisspital für das Freiamt Innere Medizin S pitaistrasse 144,hcp,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0
+Sylvia Baer,Confignon,Chemin de Sous-le-Clos 12,hcp,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0
 Daniel Bron,Vevey,Av. de la Prairie 22,hcp,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0
 Daniel Van Linthoudt,Genève,Rue de Lyon 91,hcp,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0
 Phi Huynh-Do,Genève,Av. d'Aïre 69,hcp,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0
+Walter F. Riesen,Steinhausen,Arbeitsgruppe Lipide und Atherosklerose (AGLA) c/o Medworld Schweiz AG Sennweidstrasse 46,hcp,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0
+Wieland Boeckmann,Brunnen,Seeklinik Brunnen Urologische Klinik Gersauerstrasse 8,hcp,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0
 Alexander Turk,Wald Zh,Faltigbergstrass e 7,hcp,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0
 Alexandros Stangos,Genève,Avenue Krieg 44BIS,hcp,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0
 Barbara Federspiel,Horgen,,hcp,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0
@@ -7571,8 +7556,8 @@ Werner Mathys,Oensingen,Hirsackerstrasse 2,hcp,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0
 Dominique Couturier,Genève,Cabinet Dr Couturier Dominique Place des Charmilles,hcp,0.0,0.0,184.25,811.59,0.0,0.0,995.84
 Jean-Daniel Viret,Chätelaine,Cabmet Dr Vret Jean-Daniel Chemin De-Maisonneuve 3,hcp,0.0,0.0,184.25,811.59,0.0,0.0,995.84
 Reza Darban Sohani,Leysin,Chemin des Fleurettes 10,hcp,0.0,0.0,0.0,492.0,500.0,0.0,992.0
-Anne Dschietzig,Solothurn,Bürgerspital Solothurn Innere Medizin Schöngrünstrasse 42,hcp,0.0,0.0,0.0,989.86,0.0,0.0,989.86
 Mariele Keller,Zürich,"Praxis Dr. Keller Mariele, Gartenstrasse 15",hcp,0.0,0.0,343.0,612.1,0.0,33.3,988.4
+Jochen Mack,Lachen Sz,Spital Lachen AG Spitalapotheke Oberdorfstrasse 41,hcp,0.0,0.0,422.78,564.76,0.0,0.0,987.54
 Martin Andres,Zürich,,hcp,0.0,0.0,200.0,786.7,0.0,0.0,986.7
 Aylin Neda Satir,Zürich,Universitäts-- Kinderspital Zürich Steinwiesstrasse 74,hcp,0.0,0.0,440.0,546.0,0.0,0.0,986.0
 E. Schmid,Bülach,Zürichstrasse 5,hcp,0.0,0.0,600.0,385.0,0.0,0.0,985.0
@@ -7590,6 +7575,7 @@ Pietro Benedetto Fare,Arbedo,Via Giardino 2A,hcp,0.0,0.0,426.0,536.0,0.0,0.0,962
 James Peter,Melide,Studio Dr. Peter James Va Borromini 21,hcp,0.0,0.0,221.1,739.95,0.0,0.0,961.05
 Patrice Lalive d'Epiney,Chêne-bougeries,103-C Route de Chêne,hcp,0.0,0.0,550.9,409.5,0.0,0.0,960.4
 Angelika Jüngling,Bern,Tiefenaustrasse 112,hcp,0.0,0.0,0.0,0.0,960.0,0.0,960.0
+Walter Dinner,Wetzikon Zh,Gruppenpraxis Wetzikon ZH Weststrasse 70,hcp,0.0,0.0,248.6,710.7,0.0,0.0,959.3
 Nina Rogge,Basel,,hcp,0.0,0.0,292.0,666.0,0.0,0.0,958.0
 Grossenbacher Beat,Erlen,Schöntalstrasse 2,hcp,0.0,0.0,245.1,712.63,0.0,0.0,957.73
 Niels Gobin,Lausanne,Rue Du Bugnon 17,hcp,0.0,0.0,543.0,414.0,0.0,0.0,957.0
@@ -7598,6 +7584,7 @@ Alfred-Roland Blaser,Nyon,Cabinet Dr Blaser Alfred-Roland Rue De La Vy-creuse 4,
 Le Broccard France,Meyrin,Rue de la Prulay 35,hcp,0.0,0.0,449.33,502.67,0.0,0.0,952.0
 Silvan Schipper,Zürich,,hcp,0.0,0.0,200.0,751.2,0.0,0.0,951.2
 Evelyne Bucher,Basel,"Universitätsspital, Spitalstr. 21",hcp,0.0,0.0,223.48,727.48,0.0,0.0,950.96
+Edouard Fulliquet,Cointrin,Ch. de Joinville,hcp,0.0,0.0,0.0,0.0,950.0,0.0,950.0
 Patricia Zangger,Martigny,Avenue De La Fusion 27,hcp,0.0,0.0,392.4,557.15,0.0,0.0,949.55
 Droll Armin,Solothurn,"Solothurner Spitäler AG,  Schöngrünstrasse 36a",hcp,0.0,0.0,174.95,772.1,0.0,0.0,947.05
 Raoul Sutter,Basel,Spitalstrasse 21,hcp,0.0,945.35,0.0,0.0,0.0,0.0,945.35
@@ -7605,6 +7592,7 @@ Martin Bernhard Knab,Brunnen,Leitender Arzt Psychotherapie / Psychosomatik Seekl
 Ilse Kern,Genève,Rue Willy Donzé 6,hcp,0.0,0.0,287.0,655.65,0.0,0.0,942.65
 Kerstin Madaler,Zürich,FMH Psychiatrie und Psychotherapie Rothstrasse 54,hcp,0.0,0.0,346.0,596.0,0.0,0.0,942.0
 Francesco Caronni,Lugano,Via Tesserete 46,hcp,0.0,0.0,369.73,567.86,0.0,0.0,937.59
+Marianne Rohrbach,Zürich,Universitäts- Kinderspital Zürich Medizin Stoffwechsel Steinwiesstrasse 75,hcp,0.0,0.0,0.0,0.0,937.5,0.0,937.5
 SanDr.ine Urwyler,Basel,Petersgraben 4,hcp,0.0,0.0,165.0,772.29,0.0,0.0,937.29
 Eleonora Gambillara Thacher,Ecublens,Cabinet les Arcades,hcp,0.0,0.0,544.45,392.6,0.0,0.0,937.05
 Martin Pfeffer,Baden,FMH Kinder- und Jugendpsychiatrie und -psychotherapie Gemeinschaftspraxis Mäderhof Badstrasse 15,hcp,0.0,0.0,346.0,591.0,0.0,0.0,937.0
@@ -7639,6 +7627,7 @@ Carole Grandjean,Morges,"Chemin du Crêt 2, Morges",hcp,0.0,0.0,455.0,451.0,0.0,
 Laurent Nicod,Lausanne,Rue du Bugnon 46,hcp,0.0,0.0,369.73,535.33,0.0,0.0,905.06
 Nicole Aebischer,Lausanne,"Rue du Bugnon 46, Medical Policlini c; BU44.07.",hcp,0.0,0.0,369.73,535.33,0.0,0.0,905.06
 Peter Staub,Herisau,Spitalstrasse 6,hcp,0.0,0.0,247.0,655.0,0.0,0.0,902.0
+Carine Rochat,Baar,Zuger Kantonsspital AG Spitalapotheke Landhausstrasse 11,hcp,0.0,0.0,422.78,477.35,0.0,0.0,900.13
 Nazad Ghafoor,Basel,Birmannsgasse 34,hcp,0.0,0.0,0.0,0.0,900.0,0.0,900.0
 Christian Theilacker,Basel,Petersgraben 4,hcp,0.0,0.0,0.0,0.0,900.0,0.0,900.0
 Florin Costea,Romont Fr,Route d'Arruffens 22,hcp,0.0,0.0,0.0,0.0,900.0,0.0,900.0
@@ -7655,7 +7644,6 @@ Serge Haase,Thun,Serge Hinter der Burg 6,hcp,0.0,0.0,294.8,597.49,0.0,0.0,892.29
 Simon Heiniger,Olten,Gemeinschaftspraxis Ziegelfeld Ziegelfeldstrasse 15,hcp,0.0,0.0,294.8,597.49,0.0,0.0,892.29
 Hack Michel,Lausanne,Chemin de la Cassinette 22,hcp,0.0,0.0,449.33,441.33,0.0,0.0,890.66
 Reto Pampaluchi,Winterthur,,hcp,0.0,0.0,292.0,598.0,0.0,0.0,890.0
-Peter Vonmoos,Egg Bei Zürich,Arztpraxis FMH Allgemeine Innere Medizin Forchstrasse 143,hcp,0.0,0.0,0.0,888.0,0.0,0.0,888.0
 Esther Thurneysen,Blonay,Chemin du Lacuez 8A,hcp,0.0,0.0,306.0,582.0,0.0,0.0,888.0
 Christophe Graf,Lonay,ch des Vignes 14,hcp,0.0,0.0,217.0,665.0,0.0,0.0,882.0
 Corina Staneschi Mock,Nyon,"26, La Levratte",hcp,0.0,0.0,217.0,665.0,0.0,0.0,882.0
@@ -7709,6 +7697,7 @@ Ulrich Krebs,Thun,,hcp,0.0,0.0,152.0,656.0,0.0,0.0,808.0
 Nils Bonhöte,Le Grand-saconnex,Cabinet Dr Bonhöte Nils Chemin Francois-Lehmann 34,hcp,0.0,0.0,184.25,623.65,0.0,0.0,807.9
 Albert Steiner,Schaffhausen,Praxis Dr. Steiner Albert Promenadenslrasse 27,hcp,0.0,0.0,321.6,484.83,0.0,0.0,806.43
 Sabine Ruosch-Girsberger,Luzern,Spitalstrasse,hcp,0.0,0.0,260.35,544.65,0.0,0.0,805.0
+Cornelia Hartmeier,Schaffhausen,Spitäler Schaffhausen Kantonsspital Schaffhausen Spitalapotheke Geissbergstrasse 81,hcp,0.0,0.0,422.78,378.39,0.0,0.0,801.17
 Fauci Massimiliano La,Bellinzona,Via Saleggi 31,hcp,0.0,0.0,355.0,446.0,0.0,0.0,801.0
 Bogoljub Marijanovic,Schönengrund,Hauptstrasse 55,hcp,0.0,0.0,0.0,0.0,800.0,0.0,800.0
 Achim Mallmann,Zürich,Theaterstrasse 8,hcp,0.0,0.0,0.0,0.0,800.0,0.0,800.0
@@ -7777,8 +7766,8 @@ Andreas Fischbacher,Camischolas,Praxis Dr. Fischbacher Andreas Via Alpsu 76,hcp,
 Gerhard Lanter,Brugg Ag,Praxis Dr. Lanter / Dr. Stüssi Fröhlichstrasse 55,hcp,0.0,0.0,294.8,487.66,0.0,0.0,782.46
 Markus Schreen,Stäfa,Praxis Dr. Schreen Markus Goethestrasse 24,hcp,0.0,0.0,294.8,487.66,0.0,0.0,782.46
 Roff Glauser,Sins,Aerztezentrum Sins Bahnhofstrasse 3,hcp,0.0,0.0,294.8,487.66,0.0,0.0,782.46
-Werner Trachsel,Zürich,Praxis Dr. Trachsel Werner Birmensdorferstrass 8 51,hcp,0.0,0.0,294.8,487.66,0.0,0.0,782.46
-Sévérine Krähenbühl-Desponds,Vevey,"Boulevard Paderewski 3, Vevey",hcp,0.0,0.0,501.0,281.0,0.0,0.0,782.0
+Werner Trachsel,Zürich,Praxis Dr. Trachsel Werner Birmensdorferstrasse 51,hcp,0.0,0.0,294.8,487.66,0.0,0.0,782.46
+Sévérine Krähenbühl-Desponds,Vevey,Boulevard Paderewski 3,hcp,0.0,0.0,501.0,281.0,0.0,0.0,782.0
 Tiziano Cassina,Lugano,"Cardiocentro Ticino, Via Tesserete 48",hcp,0.0,0.0,284.92,495.32,0.0,0.0,780.25
 Benegiamo Giorgia,Zürich,Institute of Pharmacology and Toxicology Chronobiology and Sleep Research Unit 190 Winterthurerstrasse,hcp,0.0,0.0,0.0,776.0,0.0,0.0,776.0
 Michael Lehmann,Baden,"Kantonsspital Baden, Im Ergel 1",hcp,0.0,0.0,200.95,574.61,0.0,0.0,775.55
@@ -7804,14 +7793,21 @@ Anna Cavigelli-Brunner,Zürich,Steinwiesstrasse 75,hcp,0.0,0.0,206.0,550.33,0.0,
 Jean Pierre Pfammatter,Bern,Freiburgstrasse 23,hcp,0.0,0.0,206.0,550.33,0.0,0.0,756.33
 Monica Schaller,Bern,Freiburgstrasse 18,hcp,0.0,0.0,179.0,577.0,0.0,0.0,756.0
 Urs Pietsch,St. Gallen,"Kantonsspital, Rorschacher Str. 95",hcp,0.0,0.0,284.92,469.6,0.0,0.0,754.52
+Rüdiger Eisel,Frauenfeld,Kantonsspital Frauenfeld Medizin Nephrologie Pfaffenholzstrasse 4,hcp,0.0,0.0,281.48,472.04,0.0,0.0,753.52
 Aviva Veron,Lausanne,,hcp,0.0,0.0,216.0,537.0,0.0,0.0,753.0
 Julia Koenig,Zürich,Seestrasse 220,hcp,0.0,0.0,86.65,665.95,0.0,0.0,752.6
 Magdalena Skowronska,Bern,Freiburgstrasse 18,hcp,0.0,0.0,221.0,530.0,0.0,0.0,751.0
+Abel Lanaspa,Gland,Centre Médical de Gland Gland Allée du Communet 20,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
+Beat Liechti,Bern,Arztpraxis FMH Allgemeine Innere Medizin Hirschengraben 10,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
+Dagmar Müller,Döttingen,Arztpraxis Praktische Ärztin Hauptstrasse 19,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
+Friedrich Husi-Meier,Winznau,Gruppenpraxis Winznau Oltnerstrasse 9,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
 Pierre Féraud,Sion,Rue du Chanoine-Berchtold 26,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
 Jean-François Anex,Aigle,Place Du Centenaire 3,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
 Yanka Kostova,Champagne,Rue des Chèzeaux 14,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
 Reuge Laurent,Cernier,Rue Frédéderic Sogul 22,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
 Peter Steinmann,Buttisholz,Arigstrasse 17,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
+Stephan Ciciliani,Büren So,Ärztezentrum Büren Büren SO Liestalerstrasse 11,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
+Ulrike Meier-Lex,Baden,IFA Institut für Arbeitsmedizin AG Baden Kreuzweg 3,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
 Alexandra Goll,Münsingen,Bernstrasse 5,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
 Beth Padden,Zürich,Universitäts Kinderspital Zürich,hcp,0.0,0.0,0.0,0.0,0.0,0.0,750.0
 Claudia Furrer,Zürich,Mühlebergstrasse 104,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
@@ -7828,6 +7824,7 @@ Stefan Roth,Liebefeld,"Praxis Hessgut, Hessstrasse 27d",hcp,0.0,0.0,0.0,0.0,750.
 Stefan Wyrsch,Meggen,Schwerzihoehe 2,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
 Sönke Böttger,Zürich,Oberarzt Klinik für Psychiatrie & Psychotherapie Universitätsspital Zürich Culmannstrasse 8,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
 Tarek Boussaha,Lausanne,Rue du Bugnon 46,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
+Ursula Koppel,Oberweningen,Gemeinschaftspraxis Oberweningen Oberweningen Chlupfwisstrasse 34,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
 Philippe von Burg,Aarau,Tellstrasse,hcp,0.0,0.0,0.0,0.0,750.0,0.0,750.0
 Henner Niebergall,Zollikerberg,Trichtenhauser Strasse 12,hcp,0.0,0.0,479.6,268.85,0.0,0.0,748.45
 Thomas Lippuner,St. Gallen,Hirslanden Klinik Stephanshorn - Anästhesiologie und Intensivmedizin Brauerstrasse 95,hcp,0.0,0.0,168.33,577.54,0.0,0.0,745.87
@@ -7853,7 +7850,6 @@ Claudia Collao,Genève,FMH oncologie médicale Centre de radio-oncologie des Eau
 Elvira Marchesi,Mendrisio,Via Alfonso Turconi 23,hcp,0.0,0.0,250.0,466.0,0.0,0.0,716.0
 Gabriele Nobile,Lugano,Via Trevano 72,hcp,0.0,0.0,250.0,466.0,0.0,0.0,716.0
 Roberta Riganti,Bellinzona,Osp. S. Giovanni,hcp,0.0,0.0,250.0,466.0,0.0,0.0,716.0
-Petra Spangehl,Olten,Kantonsspital Olten Urologische Klinik Baslerstrasse 150,hcp,0.0,0.0,0.0,715.36,0.0,0.0,715.36
 Karl-Albrecht Neimeier,Solothurn,Dornacherplatz 7,hcp,0.0,0.0,235.0,479.0,0.0,0.0,714.0
 Alexander Arnold,Solothurn,Leopoldstrasse 1,hcp,0.0,0.0,353.0,360.0,0.0,0.0,713.0
 Urs Straumann,Egerkingen,Bahnhofstrasse 5,hcp,0.0,0.0,353.0,360.0,0.0,0.0,713.0
@@ -7921,6 +7917,7 @@ Patrice Brasey,Meyrin,Avenue Jean-Daniel Maillard 3,hcp,0.0,0.0,0.0,663.85,0.0,0
 Sarah Barbara Bürki,Olten,Baslerstrasse 150,hcp,0.0,0.0,123.55,539.75,0.0,0.0,663.3
 Michael Zellweger,Genève,Rue Gabrielle Perret-Gentil 4,hcp,0.0,0.0,227.05,433.9,0.0,0.0,660.95
 Thierry Berney,Genève,"Hôpitaux Universitaires Genève, Rue Gabrielle-Perret-Gentil 4",hcp,0.0,0.0,0.0,658.8,0.0,0.0,658.8
+Urban Venetz,Visp,Arztpraxis FMH Neurologie Ueberbielstrasse 10,hcp,0.0,0.0,124.3,533.02,0.0,0.0,657.32
 Sandor Viski,Le Lignon,Place du Lignon 2,hcp,0.0,0.0,166.4,488.2,0.0,0.0,654.6
 Yvan Lagnaux,Onex,Avenue Bois-de-la-Chapelle 19,hcp,0.0,0.0,166.4,488.2,0.0,0.0,654.6
 Christophe von Garnier,Bern,Tiefenaustrasse 112,hcp,0.0,0.0,280.0,374.33,0.0,0.0,654.33
@@ -7959,6 +7956,7 @@ Kathrin Hurni,Unterseen,Weissenaustrasse 27,hcp,0.0,0.0,0.0,613.31,0.0,0.0,613.3
 Maurus Pfister,St. Gallen,,hcp,0.0,0.0,291.0,319.0,0.0,0.0,610.0
 A. Gerber,Zürich,Witellikerstrasse 36,hcp,0.0,0.0,607.0,0.0,0.0,0.0,607.0
 Rudolf Andreas Benz,Münsterlingen,Spitalcampus 1,hcp,0.0,0.0,164.0,441.0,0.0,0.0,605.0
+Vincenzo D'Apuzzo,Mendrisio,Centro Pediatrico del Mendrisiotto SA Mendrisio Via Beroldingen 26,hcp,0.0,0.0,0.0,0.0,600.0,0.0,600.0
 Anita Margulies,Kleinandelfingen,Hirstigstrasse 13,hcp,0.0,0.0,0.0,0.0,600.0,0.0,600.0
 Barbara Börsteken,Hünibach,Rougemontweg 6,hcp,0.0,0.0,0.0,0.0,600.0,0.0,600.0
 Barbara Zeyen Käch,Bern,Effingerstrasse 102,hcp,0.0,0.0,0.0,0.0,600.0,0.0,600.0
@@ -8036,6 +8034,7 @@ Andrea Zanini,Gavirate,,hcp,0.0,0.0,150.0,364.0,0.0,0.0,514.0
 Derek Thalmann,Bellach,Kaselfeldstrasse 15,hcp,0.0,0.0,0.0,0.0,500.0,8.0,508.0
 Chiara Arrizza,Bern,Freiburgstr. 18,hcp,0.0,0.0,70.0,434.6,0.0,0.0,504.6
 Katrin Liebisch,Horgen,,hcp,0.0,0.0,152.0,350.0,0.0,0.0,502.0
+Alexander Spillmann,Muri Ag,Kreisspital für das Freiamt Innere Medizin Spitalstrasse 144,hcp,0.0,0.0,0.0,0.0,500.0,0.0,500.0
 Sigrid Jehle-Kunz,Basel,Gellertstrasse 144,hcp,0.0,0.0,0.0,0.0,500.0,0.0,500.0
 Adrien Patrick Ruedin,Sierre,Av. de la Gare 3,hcp,0.0,0.0,0.0,0.0,500.0,0.0,500.0
 Ahmed Wahid,Villars-sur-glâne,Rte des Blés d'Or 10,hcp,0.0,0.0,0.0,0.0,500.0,0.0,500.0
@@ -8151,6 +8150,7 @@ Wildi Stephan,Luzern,St. Annastrasse 32 Klinik St.  Anna,hcp,0.0,0.0,0.0,0.0,500
 Wolfgang Rudolph,Kirchberg,Tulpenstrasse 1,hcp,0.0,0.0,0.0,0.0,500.0,0.0,500.0
 Wolfgang Stockhausen,Safenwil,Güterstrasse 1C,hcp,0.0,0.0,0.0,0.0,500.0,0.0,500.0
 Yves Trisconi,Lausanne,Rue Caroline 3,hcp,0.0,0.0,0.0,0.0,500.0,0.0,500.0
+Anne Dschietzig,Solothurn,Bürgerspital Solothurn Innere Medizin Schöngrünstrasse 42,hcp,0.0,0.0,0.0,494.93,0.0,0.0,494.93
 Filipe Alexandre Freitas,Genève,Avenue De-Luserna 17,hcp,0.0,0.0,0.0,492.9,0.0,0.0,492.9
 Aline Rossi,Farvagny,Impasse du Petit-Crét 3,hcp,0.0,0.0,0.0,492.0,0.0,0.0,492.0
 Ani Faineteau,Genève,Rue de Moillebeau 33,hcp,0.0,0.0,0.0,492.0,0.0,0.0,492.0
@@ -8201,6 +8201,7 @@ Maya Ziegler,Zürich,Gloriastrasse 31,hcp,0.0,0.0,0.0,447.67,0.0,0.0,447.67
 Nicole Christ,Arlesheim,Neumattstrasse 4,hcp,0.0,0.0,0.0,447.67,0.0,0.0,447.67
 Teodor Karanfilov,Schaffhausen,Geissbergstrasse 81,hcp,0.0,0.0,0.0,447.67,0.0,0.0,447.67
 Dürg Schwaller,Basel,Hebelstrasse 20,hcp,0.0,0.0,0.0,0.0,444.85,0.0,444.85
+Peter Vonmoos,Egg Bei Zürich,Arztpraxis FMH Allgemeine Innere Medizin Forchstrasse 143,hcp,0.0,0.0,0.0,444.0,0.0,0.0,444.0
 Adrian Naegeli,Dietlikon,Eichelwiesenstrasse 10,hcp,0.0,0.0,0.0,0.0,444.0,0.0,444.0
 Aldo Kropf,Gstaad,Promenade 44,hcp,0.0,0.0,0.0,0.0,444.0,0.0,444.0
 Alexander Wyttenbach,Liestal,Rheinstrasse 3,hcp,0.0,0.0,0.0,0.0,444.0,0.0,444.0
@@ -8293,6 +8294,7 @@ Sabine Edith Weidner,Bern,"Nuklearmedizin, Freiburgstrasse 18",hcp,0.0,0.0,0.0,0
 Tania Jaton Chabloz,Neuchâtel,Faubourg du Lac 11,hcp,0.0,0.0,0.0,0.0,360.0,0.0,360.0
 Uwe Hauswirth,Wattwil,Ebnaterstrasse 79,hcp,0.0,0.0,0.0,0.0,360.0,0.0,360.0
 Anne Julia Stauber,St. Gallen,Rorschacher Strasse 95,hcp,0.0,0.0,0.0,359.4,0.0,0.0,359.4
+Petra Spangehl,Olten,Kantonsspital Olten Urologische Klinik Baslerstrasse 150,hcp,0.0,0.0,0.0,357.68,0.0,0.0,357.68
 Valérie Jotterand Drepper,Genève,Service Néphrologie Hôpitaux universitaires de Genève,hcp,0.0,0.0,0.0,0.0,0.0,346.9,346.9
 Stephanie Fehr,Zürich,,hcp,0.0,0.0,152.0,193.0,0.0,0.0,345.0
 Heidi Fehr,Rorschach,,hcp,0.0,0.0,152.0,188.0,0.0,0.0,340.0
@@ -8300,7 +8302,6 @@ Urs Germann,Wil,,hcp,0.0,0.0,152.0,188.0,0.0,0.0,340.0
 Patricia Hirt-Minkowski,Basel,Hebelstrasse 20,hcp,0.0,0.0,24.3,314.55,0.0,0.0,338.85
 Miriam Past,Laufenburg,Spitalstrasse 10,hcp,0.0,0.0,0.0,337.0,0.0,0.0,337.0
 Claude Kränzlin,Basel,Missionsstrasse 24,hcp,0.0,0.0,42.5,290.31,0.0,0.0,332.81
-Antonio Jose Postigo Ruiz,Genève,Médecin praticien Organisation Mondiale de la Santé (OMS) Avenue Appia 20,hcp,0.0,0.0,324.82,0.0,0.0,0.0,324.82
 Claudia Schmeer,Chêne-bourg,Av. de Bel Air 17,hcp,0.0,0.0,0.0,320.0,0.0,0.0,320.0
 Stewart Griscom,Genève,Av. Wendt 56,hcp,0.0,0.0,0.0,320.0,0.0,0.0,320.0
 Chama Dibner,Genève,Rue Gabrlelle-Perret-Gentll 4,hcp,0.0,0.0,0.0,0.0,0.0,306.09,306.09
@@ -8349,7 +8350,6 @@ Bruno Anderes,Abtwil SG,Hauptstrasse 17,hcp,0.0,0.0,0.0,0.0,250.0,0.0,250.0
 Christoph Waechter,Luzern,Mettenwylstrasse 3,hcp,0.0,0.0,0.0,0.0,250.0,0.0,250.0
 Georges-Henri Moginier,Le Locle,rue A.-M.-Piaget 35,hcp,0.0,0.0,0.0,0.0,250.0,0.0,250.0
 Guido Handschin,Gelterkinden,Gartenweg 12,hcp,0.0,0.0,0.0,0.0,250.0,0.0,250.0
-Hetve Magnin,Villars-sur-glâne,Cabinet medical FMFI Medecine interne generale Chemin de la Redoute 5,hcp,0.0,0.0,0.0,0.0,250.0,0.0,250.0
 Michael Vollgraff,Münchenstein,Parkweg 15,hcp,0.0,0.0,0.0,0.0,250.0,0.0,250.0
 Stefan Greuter,Biel/Bienne,Vogelsang 84,hcp,0.0,0.0,150.0,100.0,0.0,0.0,250.0
 Stefanie Wuttke,Zürich,Birmensdorferstrasse 497,hcp,0.0,0.0,150.0,100.0,0.0,0.0,250.0
@@ -8362,7 +8362,6 @@ Claire Matthey-Doret,Vevey,Avenue de la Prairie 3,hcp,0.0,0.0,0.0,248.0,0.0,0.0,
 Rossella Graffeo,Lugano,Via Tesserete 46,hcp,0.0,0.0,0.0,248.0,0.0,0.0,248.0
 Gotthardt Frank,Basel,Haltingerstrasse 65,hcp,0.0,0.0,-56.25,304.07,0.0,0.0,247.82
 Alexander Köhler,Meyriez,Spitalweg 36,hcp,0.0,0.0,247.0,0.0,0.0,0.0,247.0
-Andre-Pascal Sappino,Chêne-bougeries,Centre d'oncologie et d'hematologie Chene-Bougeries Route de Chene 110,hcp,0.0,0.0,0.0,245.94,0.0,0.0,245.94
 Ruth Bähler,Arlesheim,Obesunneweg 9,hcp,0.0,0.0,0.0,242.0,0.0,0.0,242.0
 L. Kovats,Pully,Chemin Jean Pavillard 16,hcp,0.0,0.0,0.0,0.0,240.0,0.0,240.0
 Maria Carola,Orbe,FMH psychiatrie et psychothérapie Place de la Gare 10,hcp,0.0,0.0,0.0,228.0,0.0,0.0,228.0
@@ -8409,6 +8408,7 @@ Dorothee Gramatzki,Zürich,Frauenklinikstrasse 26,hcp,0.0,0.0,0.0,173.0,0.0,0.0,
 Caroline Krieger,Lausanne,Rue du Bugnon 46,hcp,0.0,0.0,170.0,0.0,0.0,0.0,170.0
 Patrick Heeb,Basel,"Departement für Innere Medizin, Petersgraben 4",hcp,0.0,0.0,0.0,165.9,0.0,0.0,165.9
 Claudia Rossi,Basel,Spitalstrasse 33,hcp,0.0,0.0,0.0,165.6,0.0,0.0,165.6
+Antonio Jose Postigo Ruiz,Genève,Médecin praticien Organisation Mondiale de la Santé (OMS) Avenue Appia 20,hcp,0.0,0.0,162.41,0.0,0.0,0.0,162.41
 Peter Meier-Gräub,Zollikerberg,"Spital Zollikerberg, Trichtenhauserstrasse 20",hcp,0.0,0.0,0.0,160.13,0.0,0.0,160.13
 A. Brand,Münchenbuchsee,Oberdortstrasse 25,hcp,0.0,0.0,160.0,0.0,0.0,0.0,160.0
 A. Karajiannis,Bern,Effingerstrasse 14a,hcp,0.0,0.0,160.0,0.0,0.0,0.0,160.0
@@ -8426,6 +8426,7 @@ Urs Kayser,Küssnacht Am Rigi,Oberseemattweg 4,hcp,0.0,0.0,0.0,160.0,0.0,0.0,160
 Beatrice Zimmerli,Zürich,Buhnrain 33,hcp,0.0,0.0,0.0,0.0,150.0,0.0,150.0
 Jean-Michel Pignat,Lausanne,Rue du Bugnon 46,hcp,0.0,0.0,150.0,0.0,0.0,0.0,150.0
 Marie-Luise Mono,Bern,Freiburgstrasse 18,hcp,0.0,0.0,146.25,0.0,0.0,0.0,146.25
+Andre-Pascal Sappino,Chêne-bougeries,Centre d'oncologie et d'hématologie Chêne-Bougeries Route de Chêne 110,hcp,0.0,0.0,0.0,122.97,0.0,0.0,122.97
 Konrad Thoele,Zürich,Klosbachstrasse,hcp,0.0,0.0,0.0,121.0,0.0,0.0,121.0
 Marcos Oberacher,Schlieren,"Spital Limmattal, Urdorferstrasse 100",hcp,0.0,0.0,0.0,114.57,0.0,0.0,114.57
 Jacqueline Saxer,Aarau,Tellstrasse,hcp,0.0,0.0,0.0,112.0,0.0,0.0,112.0

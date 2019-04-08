@@ -5,14 +5,14 @@ EULAR - European League Against Rheumatism,Kilchberg,Seestrasse 240,hco,2017,128
 ERS European Respiratory Society ERS Headquarters,Lausanne,Avenue Sainte-Luce 4,hco,2017,110399.57,2651658.7,9620.5,0.0,38000.0,0.0,2809678.77
 Insel Gruppe AG,Bern,Freiburgstrasse 18,hco,2017,457133.82,1615200.4800000002,73234.27,150290.64999999997,390505.91,23417.44,2709786.57
 Basel University Hospital,Basel,Spitalstrasse 21,hco,2017,951594.8,1033787.04,90302.41,69483.0,423517.94,38811.19,2607497.37
-Centre Hospitalier Universitaire Vaudois CHUV,Lausanne,Rue du Bugnon 21,hco,2017,347724.98,1287067.13,76374.51999999999,248588.58999999997,488181.47,14377.499999999998,2467448.07
+Centre Hospitalier Universitaire Vaudois CHUV,Lausanne,Rue du Bugnon 21,hco,2017,347724.98,1287067.13,76374.51999999999,248588.58999999997,488181.47,14377.499999999998,2465448.07
 UniversitätsSpital Zürich,Zürich,Rämistrasse 100,hco,2017,769739.9400000001,1183276.78,33390.369999999995,103879.93000000001,81995.0,1540.9,2173823.82
 EASL European Association for the Study of the Liver,Genève,Rue Daubin 7,hco,2017,716990.25,1448858.52,0.0,0.0,973.0,0.0,2166822.77
 EADV European Academy of Dermatology and Venereology,Lugano,Via Serafino Balestra 22b,hco,2017,0.0,1891928.3599999999,8244.16,0.0,0.0,0.0,1900172.52
 Union for International Cancer,Genève,Route de Frontenex 62,hco,2017,1185803.98,388598.05,0.0,0.0,0.0,0.0,1574402.03
 HUG - Hôpitaux Universitaires de Genève,Genève,Rue Gabrielle-Perret-Gentil 4,hco,2017,500683.15,684943.35,57576.05,50838.81,76005.09999999999,2530.38,1372576.7300000002
-Kantonsspital St. Gallen,St. Gallen,Rorschacherstrasse 95,hco,2017,207195.88,835484.76,47697.14000000001,88331.40999999999,146853.84,2460.24,1335669.2699999998
-ESCMID European Society of Clinical Microbiology and Infectious Diseases,Basel,Aeschenvorstadt 57,hco,2017,122020.56,1001407.01,43406.01,0.0,0.0,0.0,1166833.58
+Kantonsspital St. Gallen,St. Gallen,Rorschacherstrasse 95,hco,2017,207195.88,835484.76,47697.14000000001,88331.40999999999,146853.84,2460.24,1328145.2699999998
+ESCMID - European Society of Clinical Microbiology and Infectious Diseases,Basel,Clarastrasse 57,hco,2017,122020.56,1129846.01,43406.01,0.0,0.0,0.0,1295272.58
 ESO-European Stroke Organisation,Basel,Peter Merian-Strasse 80,hco,2017,840259.42,299372.79000000004,0.0,0.0,0.0,0.0,1139632.21
 Int. Osteoporosis Foundation,Nyon,Rue Juste-Olivier 9,hco,2017,531032.8,436061.0,0.0,0.0,0.0,0.0,967093.8
 MediService AG,Zuchwil,Ausserfeldweg 1,hco,2017,0.0,0.0,0.0,0.0,917191.0,0.0,917191.0
@@ -47,21 +47,21 @@ EOC - Ospedale Regionale di Lugano,Lugano,Via Tesserete 46,hco,2017,175129.62,10
 Schweizerische Gesellschaft für Rheumatologie,Zürich,Josefstrasse 92,hco,2017,0.0,314607.6,0.0,0.0,0.0,0.0,314607.6
 FOREUM Foundation for Research in Rheumatology,Kilchberg ZH,Seestrasse 240,hco,2017,88724.14,103829.0,0.0,0.0,115419.3,0.0,307972.44
 Kenes International Organizers Of Congresses Ltd,Genève,Rue François-Versonnex 7,hco,2017,15976.0,288138.67,0.0,0.0,0.0,0.0,304114.67
+SAFE - ID Swiss Academic Foundation for Education in Infectious Diseases,Bern,Friedbühlstrasse 51,hco,2017,170000.0,120000.0,0.0,0.0,0.0,0.0,290000.0
 Universität Bern,Bern,Hochschulstrasse 4,hco,2017,231450.0,48793.2,0.0,0.0,5200.0,0.0,285443.19999999995
 Schweizerische Gesellschaft für Endokrinologie und Diabetologie,Baden,Rütistrasse 3A,hco,2017,63700.0,190995.05,0.0,0.0,27411.24,0.0,282106.29
 European Academy Dermatology Venereology,Lugano,Via delle Scuole 12,hco,2017,138335.0,138203.0,0.0,0.0,0.0,0.0,276538.0
-SAFE - ID Swiss Academic Foundation for Education in Infectious Diseases,Bern,Friedbühlstrasse 51,hco,2017,170000.0,100000.0,0.0,0.0,0.0,0.0,270000.0
 Kantonsspital Graubünden,Chur,Loëstrasse 170,hco,2017,19550.0,72320.0,17841.120000000003,54123.170000000006,89382.0,10096.64,263315.93
 EFORT,Rolle,La Pièce 2,hco,2017,0.0,258101.68,0.0,0.0,0.0,0.0,258101.68
 Verein Lunge Zürich,Zürich,Pfingstweidstrasse 10,hco,2017,36000.0,208012.19999999998,6000.0,0.0,0.0,0.0,250012.19999999998
 ETH Zürich,Zürich,Rämistrasse 101,hco,2017,249716.0,0.0,0.0,0.0,0.0,0.0,249716.0
 Fondazione per la Ricerca e la Cura dei Linfomi nel Ticino,Bellinzona,Via Vincenzo Vela 6,hco,2017,77000.0,170640.0,0.0,0.0,0.0,0.0,247640.0
 Schweizerische Gesellschaft für Gastroenterologie,Bern,Wattenwylweg 21,hco,2017,2160.0,201459.5,0.0,42000.0,0.0,0.0,245619.5
+Kantonsspital Basel-Land,Liestal,Rheinstrasse 26,hco,2017,61739.0,95140.0,8007.15,15377.39,56300.0,3021.3,239584.84999999998
 GSASA Schweizerischer Verein der Amts- und Spitalapotheker,Bern,GSASA,hco,2017,25500.0,210738.16,0.0,0.0,400.0,0.0,236638.16
-Kantonsspital Basel-Land,Liestal,Rheinstrasse 26,hco,2017,58739.0,95140.0,8007.15,15377.39,56300.0,3021.3,236584.84999999998
 Schweizerische Ophthalmologische Gesellschaft SOG,St. Margrethen SG,Bahnhofplatz 12,hco,2017,0.0,220800.0,0.0,0.0,14000.0,0.0,234800.0
 Schweizerische Gesellschaft für Kardiologie,Bern,Dufourstrasse 30,hco,2017,0.0,223550.0,8900.0,0.0,0.0,0.0,232450.0
-CMPR - Collège de Médecine de Premier Recours,Fribourg,Rue de l'Hôpital 15,hco,2017,8340.0,196419.8,2640.0,0.0,0.0,0.0,207399.8
+Kollegium für Hausarztmedizin,Fribourg,Rue de l'Hôpital 15,hco,2017,8340.0,196419.8,2640.0,0.0,0.0,0.0,207399.8
 IBDnet,Zürich,Birmensdorferstrasse 497,hco,2017,12000.0,186000.0,0.0,0.0,0.0,0.0,198000.0
 Stiftung meineimpfungen,Gümligen,Mattenstrasse 9,hco,2017,50000.0,126000.0,0.0,0.0,21000.0,0.0,197000.0
 ES MO Head office,Viganello-Lugano,Via Luigi Taddei 4,hco,2017,195980.0,0.0,0.0,0.0,0.0,0.0,195980.0
@@ -103,6 +103,7 @@ ESRA European Society of Regional Anaesthesia,Genève,Rue Daubin 7,hco,2017,0.0,
 Kantonsspital Frauenfeld,Frauenfeld,Pfaffenholzstrasse 4,hco,2017,1000.0,56380.0,2046.75,3312.27,28095.0,0.0,90834.02
 Toppharm AG,Münchenstein,Grabenackerstrasse 15,hco,2017,0.0,90500.0,0.0,0.0,0.0,0.0,90500.0
 Sanacare AG,Winterthur,Zürcherstrasse 19,hco,2017,15000.0,0.0,0.0,0.0,75000.0,0.0,90000.0
+PizolCare AG,Mels,Flurstrasse 12,hco,2017,5000.0,81136.0,600.0,200.0,2850.0,0.0,89846.0
 Die Schweizerische Ärztegesellschaft für Manuelle Medizin (SAMM),St. Gallen,Kolumbanstrasse 2,hco,2017,6120.0,83706.0,0.0,0.0,0.0,0.0,89826.0
 AGLA Arbeitsgruppe Lipide und Atherosklerose,Steinhausen,Sennweidstrasse 46,hco,2017,6480.0,71000.0,0.0,0.0,12000.0,0.0,89480.0
 Klinik Hirslanden,Zürich,Witellikerstrasse 40,hco,2017,9360.0,39465.0,4032.2799999999997,9639.25,26092.5,83.5,88673.53
@@ -114,7 +115,6 @@ SGN-SSN Schweizerische Gesellschaft für Nephrologie,Worb,Postfach 567,hco,2017,
 IHAM & CC LUZERN,Luzern,Schwanenplatz 7,hco,2017,1500.0,68000.0,10000.0,0.0,0.0,0.0,79520.0
 Kantonspital Baden AG,Baden,Im Ergel 1,hco,2017,6250.0,32120.0,10299.470000000001,17967.5,12801.4,0.0,79438.37
 WPA – The World Psychiatric Association,Chêne-Bourg,Psychiatric Hospital,hco,2017,0.0,78316.0,0.0,0.0,0.0,0.0,78316.0
-PizolCare AG,Mels,Flurstrasse 12,hco,2017,5000.0,70136.0,0.0,0.0,2850.0,0.0,78046.0
 International Council of Nurses,Genève,Place Jean-marteau 3,hco,2017,0.0,67913.03,0.0,0.0,4004.0,4931.0,76849.03
 JHaS,Bern,Effingerstrasse 2 c/o Polsan AG,hco,2017,11000.0,65294.0,0.0,0.0,0.0,0.0,76294.0
 Mediscience GmbH,Küssnacht am Rigi,Bahnhofstrasse 17,hco,2017,25000.0,45800.0,0.0,0.0,0.0,0.0,70800.0
@@ -128,6 +128,7 @@ Gruppo Medico Formazione,Giubiasco,Casella Postale 823,hco,2017,6600.0,57600.0,0
 International CTEPH Association,Basel,Gartenstr. 95,hco,2017,62978.72,0.0,0.0,0.0,0.0,0.0,62978.72
 Excellence in Pediatrics Institute,Morges,Rue des Vignerons 1A,hco,2017,62550.4,0.0,0.0,0.0,0.0,0.0,62550.4
 Stiftung Forschung Gastro/Hep.,Zürich,Rämistrasse 100,hco,2017,5000.0,57500.0,0.0,0.0,0.0,0.0,62500.0
+Fondation pour le progres en microbiologie medicale et maladies infectieuses / p.a. Fiducaire Maillard S.A.,Lausanne,Pont Charles Bessières 3,hco,2017,0.0,62400.0,0.0,0.0,0.0,0.0,62400.0
 Medvis GmbH,Zofingen,Weissensteinstrasse 2,hco,2017,0.0,62100.0,0.0,0.0,0.0,0.0,62100.0
 Organizers Schweiz GmbH,Magden,Obere Egg 2,hco,2017,0.0,61724.0,0.0,0.0,0.0,0.0,61724.0
 Schweizerisches Tropeninstitut,Basel,Socinstrasse 57,hco,2017,26720.0,9745.7,0.0,0.0,22086.83,2365.57,60918.1
@@ -152,7 +153,6 @@ Kantonsspital Nidwalden,Stans,Ennetmooserstrasse 19,hco,2017,3000.0,49500.0,0.0,
 Schweizerische Gesellschaft für pulmonale Hypertonie,Basel,Münsterberg 1,hco,2017,52210.09,864.72,0.0,0.0,0.0,0.0,53074.81
 Aerztegesellschaft des Kantons Bern,Bern,"Postgasse 19, PF",hco,2017,0.0,52890.0,0.0,0.0,0.0,0.0,52890.0
 Schweizerische Gesellschaft für Urologie - Société Suisse d'Urologie,Montreux,Avenue des Planches 15,hco,2017,0.0,52588.0,0.0,0.0,0.0,0.0,52588.0
-Fondation pour le progres en microbiologie medicale et maladies infectieuses / p.a. Fiducaire Maillard S.A.,Lausanne,Pont Charles Bessières 3,hco,2017,0.0,52400.0,0.0,0.0,0.0,0.0,52400.0
 Repronatal Stiftung,Basel,Riedbergstrasse 12,hco,2017,50000.0,0.0,0.0,0.0,2000.0,0.0,52000.0
 Psychiatrische Universitätsklinik,Zürich,Lenggstrasse 31,hco,2017,0.0,51426.85,0.0,0.0,0.0,0.0,51426.85
 Swiss VitreoRetinal Group (SVRG) c/o ophta u. novotny Fachverlag,Bottighofen,Mittlere Mühlestrasse 3,hco,2017,51150.0,0.0,0.0,0.0,0.0,0.0,51150.0
@@ -274,7 +274,7 @@ Verein zur Förderung der Weiterbildung in Augenheilkunde,Basel,Mittlere Strasse
 Fondazione Cardiocentro Ticino,Lugano,Via Tesserete 48,hco,2017,5000.0,12525.96,0.0,5555.6,0.0,0.0,23081.559999999998
 ISCP International Society of Cardiovascular Pharmacotherapy,Plan-les-Ouates,Route de Saint-Dulien 19 7A,hco,2017,0.0,22804.5,0.0,0.0,0.0,0.0,22804.5
 Stift. zur Förderung der Medizin,Scuol,Via dals Bogns 323,hco,2017,0.0,22500.0,0.0,0.0,0.0,0.0,22500.0
-"Swiss Society of Oto-Rhino-Laryngology, Head and Neck Surgery (SSORL)",Basel,Münsterberg 1,hco,2017,0.0,22388.4,0.0,0.0,0.0,0.0,22388.4
+Swiss Society of Oto-Rhino-Laryngology SSORL (Frühjahrsversammlung),Basel,c/o IMK Institut für Medizin und Kommunikation - Münsterberg 1,hco,2017,0.0,22388.4,0.0,0.0,0.0,0.0,22388.4
 Spital Lachen AG,Lachen SZ,Oberdorfstrasse 41,hco,2017,2000.0,14701.85,733.35,3407.94,1500.0,0.0,22343.14
 Swiss Association for the Study of the Liver,Zürich,Toblerstrasse 51,hco,2017,0.0,22156.5,0.0,0.0,0.0,0.0,22156.5
 CPMA Centre de Procréation Médicalement Assisté,Lausanne,Rue de la Vigie 5,hco,2017,0.0,21000.0,1147.8,0.0,0.0,0.0,22147.8
@@ -378,7 +378,7 @@ Association Journées de Gériatrie de la T'Chaux c/o Dr. Mauro Walter Gusmini,L
 Women's Brain Project,Guntershausen b. Aadorf,Pfisterwisstrasse 14,hco,2017,0.0,12000.0,0.0,1642.0,0.0,0.0,13642.0
 Hôpital de la Tour Meyrin,Meyrin,Avenue J.-D. Maillard 3,hco,2017,2000.0,11150.0,0.0,460.54,0.0,0.0,13610.54
 APSI Associazione Pediatri della Svizzera Italiana,Locarno,Via Monte Boglia 5,hco,2017,0.0,13500.0,0.0,0.0,0.0,0.0,13500.0
-AIU Grindelwald c/o friedeven,sPfäffikon,Unterdorfstrasse 12,hco,2017,0.0,13500.0,0.0,0.0,0.0,0.0,13500.0
+AIU Grindelwald c/o friedeven,Pfäffikon,Unterdorfstrasse 12,hco,2017,0.0,13500.0,0.0,0.0,0.0,0.0,13500.0
 FMH Consulting Services AG,Oberkirch LU,Burghöhe 1,hco,2017,0.0,13500.0,0.0,0.0,0.0,0.0,13500.0
 Bürgerspital Basel,Basel,Friedrich Miescher-Strasse 30,hco,2017,0.0,0.0,0.0,0.0,13288.9,0.0,13288.9
 Klinik Schützen Rheinfelden,Rheinfelden,Bahnhofstrasse 19,hco,2017,0.0,13200.0,0.0,0.0,0.0,0.0,13200.0
@@ -402,7 +402,6 @@ Lega Polmonare Ticinese,Lugano,Via alla Campagna 9,hco,2017,12000.0,0.0,0.0,0.0,
 Tumorzentrum,Basel,Petersgraben 4,hco,2017,0.0,12000.0,0.0,0.0,0.0,0.0,12000.0
 Pharmacies BENU SA,Villars-sur-Glâne,Avenue du Centre 6,hco,2017,0.0,12000.0,0.0,0.0,0.0,0.0,12000.0
 Meeting Com Congress Organisation,Cheseaux-sur-Lausanne,Rue des Pâquis 1,hco,2017,0.0,11500.0,0.0,405.0,0.0,0.0,11905.0
-PizolCare AG,Meis,Flurstrasse 12,hco,2017,0.0,11000.0,600.0,200.0,0.0,0.0,11800.0
 Schweizerische Hypertonie Gesellschaft,Bern,Schwarztorstrass e 18,hco,2017,6000.0,5175.0,0.0,0.0,607.0,0.0,11782.0
 Blutspende SRK Schweiz AG,Bern,Laupenstrasse 37,hco,2017,2777.75,5200.0,0.0,0.0,3640.0,0.0,11617.75
 Schweizerische Vereinigung der Fachleute für med. technische Radiologie,Sursee,Bahnhofstrasse 7b,hco,2017,0.0,11600.0,0.0,0.0,0.0,0.0,11600.0
@@ -490,7 +489,7 @@ Praxis Villiger & DiaMon AG,Baden,Mellingerstrasse 207,hco,2017,0.0,3400.0,0.0,0
 See-Spital Horgen,Horgen,Asylstrasse 19,hco,2017,1000.0,5500.0,313.23,548.29,1000.0,0.0,8361.52
 mmconsult volante GmbH,Cham,Riedstrasse 1,hco,2017,0.0,8360.0,0.0,0.0,0.0,0.0,8360.0
 Associazione degli oftalmologi del canton Ticino (AOCT),Lugano,Via Canova 18,hco,2017,0.0,8300.0,0.0,0.0,0.0,0.0,8300.0
-Hausärztlicher Qualitatszirkel Oberthurgau-Ost,Steinach,"c/o Markus Gnädinger, Birkenweg 8",hco,2017,0.0,8000.0,0.0,0.0,0.0,0.0,8275.0
+Hausärztlicher Qualitätszirkel Oberthurgau-Ost,Steinach,"c/o Markus Gnädinger, Birkenweg 8",hco,2017,0.0,8000.0,0.0,0.0,0.0,0.0,8275.0
 GRIMM - Groupe d'intervention en haute montagne,Sion,"26, Av. du Chanoine Berchtold",hco,2017,0.0,8200.0,0.0,0.0,0.0,0.0,8230.0
 Swiss Society for Microbiology,Cheseaux-sur-Lausanne,Route d'Yverdon 3,hco,2017,0.0,8044.0,0.0,0.0,0.0,0.0,8044.0
 Rheumakränzli Zentralschweiz,Meggen,Mättelistrasse 7,hco,2017,0.0,8000.0,0.0,0.0,0.0,0.0,8000.0
@@ -806,7 +805,6 @@ Centre cantonal d'addictologie,Fribourg,Rue de Morat 8,hco,2017,0.0,3000.0,0.0,0
 CIPRA / IGAPT Madame Kathleen Grant,Lausanne,Rue de Bugnon,hco,2017,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0
 IG Swiss-PDNS,Zürich,Rotachstrasse 51,hco,2017,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0
 ITHSAB - Isviçre Türk Hekimleri Ve Saglik çalisanlari Birligi,Zürich,Franklinstrasse 31,hco,2017,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0
-Kantonsspital Liestal,Basel,Mühlemattstrasse 26,hco,2017,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0
 Les Éditions Médicales du Léman (Guide Médical du Canton de Genève & Vaud),Genève,Route de Florissant 11,hco,2017,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0
 Magen Darm Liga Schweiz,Bern,Postfach,hco,2017,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0
 Medicus Curiosus Regional c/o Bernhard Sorg,Wallisellen,Zentralstrasse 6,hco,2017,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0
@@ -969,7 +967,7 @@ CARDIOMAXX Consulting GmbH,Küsnacht ZH,Güstrasse 38a,hco,2017,0.0,0.0,0.0,0.0,
 Association CRAL,Le Mont sur Lausanne,Ch des Buchilles 8,hco,2017,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0
 Schweizerische Gesellschaft Zum Studium Des Schmerzens,Zuerich,Sgss Zentralsekretariat,hco,2017,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0
 pharmActuel Zürich,Zürich,Hochstrasse 97,hco,2017,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0
-Qualilätszirkel Untersee,Eschenz,Mettlenstrasse 1,hco,2017,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0
+Qualitätszirkel Untersee,Eschenz,Mettlenstrasse 1,hco,2017,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0
 SWISS UROLOGY,Montreux,Avenue des Planches 15,hco,2017,0.0,1800.0,0.0,0.0,0.0,0.0,1800.0
 Fond. Fribourgeois recherche sur cancer,Fribourg,Chemin des Pensionnats 2,hco,2017,0.0,1799.84,0.0,0.0,0.0,0.0,1799.84
 Meiltz Alexandre FMH cardiologie,Estavayer-le-Lac,FMH cardiologie,hco,2017,0.0,1750.0,0.0,0.0,0.0,0.0,1750.0
@@ -1093,7 +1091,7 @@ Die Schweizer Chirurginnen und Chirurgen,Aarau,,hco,2017,1000.0,0.0,0.0,0.0,0.0,
 Médecins de Famille Valais,Saxon,Gottefrey 11,hco,2017,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0
 Quartierärzte Kreis 9,Zürich,Altstetterstrasse 159,hco,2017,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0
 SVA Sektion Solothurn,Küttigkofen,Dorfstrasse 48,hco,2017,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0
-Biomedical Research & Training c/o Universitätsspital  Basel,Basel,Mittlere Strasse 91,hco,2017,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0
+Biomedical Research & Training c/o Universitätsspital Basel,Basel,Mittlere Strasse 91,hco,2017,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0
 Clinica Holistica Engiadina SA,Susch,Sot Plaz 40,hco,2017,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0
 Clinica Sant'Anna,Sorengo,Via Sant'Anna 1,hco,2017,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0
 CSID Centre de Soins Infirmiers pour les Diabétiques,Fribourg,Stadtberg 1,hco,2017,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0

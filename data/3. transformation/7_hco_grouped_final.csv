@@ -5188,6 +5188,7 @@ Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,4000.0,,,,,4000.0,hco
 Kantonsspital Baselland,Liestal,CH,Mühlenmattstrasse 26,,,,,,,1500.0,,1500.0,hco,mepha,2016,10005,
 Kantonsspital Baselland,Liestal,CH,"Rheinstrasse 26, Liestal",,,0.0,4000.0,0.0,0.0,2516.0,0.0,6516.0,hco,janssen,2015,10005,
 Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,mundipharma,2015,10005,
+Kantonsspital Liestal,Basel,CH,Mühlemattstrasse 26,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hco,baxter,2017,10005,
 Kantonsspital Baselland,Bruderholz,CH,,,,,4000.0,,,,,4000.0,hco,menarini,2017,10006,
 Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,,,,3445.0,,3445.0,hco,gilead,2017,10005,
 Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,2000.0,545.0,634.0,3000.0,,6179.0,hco,novo,2017,10005,
@@ -5395,7 +5396,6 @@ Kantonsspital Graubünden,Chur,CH,Loestrasse 170,,,0.0,8646.67,252.0,459.6,9004.
 Kantonsspital Graubünden - Medizinische Onkologie und Hämatologie,Chur,CH,Loestrasse 170,,,,,,,2500.0,,2500.0,hco,takeda,2016,14,
 Kantonsspital Graubünden Department Finanzen Informatik Betriebe,Chur,CH,Loestrasse,7000,,,1000.0,,,,,1000.0,hco,eisai,2017,14,
 Kantonsspital Graubünden Medizin Onkologie,Chur,CH,Loëstrasse 170,7000,,0.0,0.0,0.0,0.0,3000.0,0.0,3000.0,hco,astrazeneca,2015,14,
-Kantonsspital Liestal,Basel,CH,Mühlemattstrasse 26,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hco,baxter,2017,1789,1.0
 Kantonsspital Luzern,Luzern,CH,,6000,,8000.0,0.0,5076.5,1737.0,1000.0,0.0,15813.5,hco,baxalta,2015,7,
 Kantonsspital Luzern,Luzern,CH,Spitalstrasse,,,1500.0,1400.0,3281.59,8005.4,0.0,0.0,14186.99,hco,amgen,2015,7,
 Kantonsspital Luzern,Luzern,CH,Spitalstrasse 31,,,10000.0,,,,,,10000.0,hco,teva,2017,7,1.0
@@ -8826,7 +8826,7 @@ SGN,Worb,CH,"SGN Postfach 567, Worb",,,,6240.0,,,,,6240.0,hco,astellas,2016,156,
 SGN-SSN Schweizerische Gesellschaft für Nephrologie,Worb,CH,Postfach 567,,,,11240.0,,,,,11240.0,hco,abbvie,2016,156,
 SGN-SSN Schweizerische Gesellschaft für Nephrologie,Worb,CH,Postfach 567,,,,8750.0,,,,,8750.0,hco,abbvie,2017,156,1.0
 SGNP - Schweiz. Gesellschaft für Neuropädiatrie,Oberentfelden,CH,Blumenweg 13,,,,500.0,,,,,500.0,hco,vifor,2017,142,
-SGORL Swiss Society of ORL Head and Neck Surgery,Basel,CH,c/o IMK Institut für Medizin und Kommunikation AG - Münsterberg 1,,,0.0,5200.0,0.0,0.0,0.0,0.0,5200.0,hco,zambon,2015,555,
+SGORL Swiss Society of ORL Head and Neck Surgery,Basel,CH,c/o IMK Institut für Medizin und Kommunikation AG - Münsterberg 1,,,0.0,5200.0,0.0,0.0,0.0,0.0,5200.0,hco,zambon,2015,580,
 SGP,Bern,CH,Postfach 604,,,,5211.0,,,,,5211.0,hco,merck,2016,28,
 SGP,Bern,CH,Postfach 604,,,,2916.0,,,,,2916.0,hco,merck,2017,28,
 SGP c/o BSC Congress GmbH,Bern,CH,Rabbentalstrasse 83,,,,2700.0,,,,,2700.0,hco,stallergenes,2017,28,
@@ -9628,7 +9628,7 @@ SSIPM,Montreux,CH,Avenue Des Planches 15,,,0.0,7500.0,0.0,0.0,0.0,0.0,7500.0,hco
 SSIPM,Montreux,CH,Avenue Des Planches 15,,,0.0,7500.0,0.0,0.0,0.0,0.0,7500.0,hco,gruenenthal,2016,1089,
 SSMO SSOM SGMO,Zürich,CH,Bahnhofplatz 4 c/o Pro Medicus GmbH,,,0.0,7560.0,0.0,0.0,0.0,0.0,7560.0,hco,gilead,2015,336,
 SSMO SSOM SGMO,Zürich,CH,Bahnhofplatz 4,,,0.0,7000.0,0.0,0.0,0.0,0.0,7000.0,hco,bayer,2015,336,
-SSORL Swiss Society of ORL Head and Neck Surgery,Basel,CH,Münsterberg 1,,,,5200.0,,,,,5200.0,hco,zambon,2016,555,
+SSORL Swiss Society of ORL Head and Neck Surgery,Basel,CH,Münsterberg 1,,,,5200.0,,,,,5200.0,hco,zambon,2016,580,
 Ssp sgp,Fribourg,CH,Rue de l'Hôpital 15,,,0.0,2550.0,0.0,0.0,0.0,0.0,2550.0,hco,janssen,2016,722,
 SSP SGP Swiss Society of Paediatrics,Fribourg,CH,Rue de l'Hôpital 15,,,,2550.0,,,,,2550.0,hco,abbvie,2016,722,
 SSP SGP Swiss Society of Paediatrics,Fribourg,CH,Rue de l'Hôpital 15,,,,1350.0,,,,,1350.0,hco,abbvie,2017,722,1.0
@@ -10255,9 +10255,9 @@ Swiss Society of Neonatology,Cheseaux-sur-Lausanne,CH,P.O. box 100,,,,6000.0,,,,
 Swiss Society of Neonatology,Cheseaux-sur-Lausanne,CH,c/o meeting.com Sàrl,,,,3250.0,,,,,3250.0,hco,abbvie,2016,2391,
 Swiss Society of Neonatology,Cheseaux-sur- Lausanne,CH,P.O.Box 100,,,,6480.0,,,,,6480.0,hco,vifor,2017,2391,
 Swiss Society of Nephrology (SGN),Worb,CH,Worb,,,0.0,25720.0,0.0,0.0,0.0,0.0,25720.0,hco,astellas,2017,156,
-Swiss Society of Oto-Rhino-Laryngology SSORL (Frühjahrsversammlung),Basel,CH,c/o IMK Institut für Medizin und Kommunikation - Münsterberg 1,,,0.0,7020.0,0.0,0.0,0.0,0.0,7020.0,hco,zambon,2017,555,
-"Swiss society of Oto-Rhino-Laryngology, Head and Neck Surgery",Basel,CH,Münsterberg 1,,,,4700.0,,,,,4700.0,hco,menarini,2016,555,
-"Swiss Society of Oto-Rhino-Laryngology, Head and Neck Surgery (SSORL)",Basel,CH,Münsterberg 1,,,,15368.4,,,,,15368.4,hco,vifor,2017,555,1.0
+Swiss Society of Oto-Rhino-Laryngology SSORL (Frühjahrsversammlung),Basel,CH,c/o IMK Institut für Medizin und Kommunikation - Münsterberg 1,,,0.0,7020.0,0.0,0.0,0.0,0.0,7020.0,hco,zambon,2017,580,
+"Swiss society of Oto-Rhino-Laryngology, Head and Neck Surgery",Basel,CH,Münsterberg 1,,,,4700.0,,,,,4700.0,hco,menarini,2016,580,
+"Swiss Society of Oto-Rhino-Laryngology, Head and Neck Surgery (SSORL)",Basel,CH,Münsterberg 1,,,,15368.4,,,,,15368.4,hco,vifor,2017,580,
 Swiss Society of Pharmacology and Toxicology (SSPT) Secretary SSPT,Basel,CH,Hochbergerstrasse G0C,,,,3000.0,,,,,3000.0,hco,novartis,2016,2393,1.0
 Swiss Society of Sexologie,Lausanne,CH,3 rue Caroline,,,,2000.0,,,,,2000.0,hco,lundbeck,2017,1116,1.0
 Swiss Society of Sexology,Lausanne,CH,Rue Caroline 3,1003,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca,2015,1116,
@@ -10382,7 +10382,7 @@ Teddybär Spital Zürich,Zürich,CH,Steinwiesstrasse 75,8032,,1000.0,0.0,0.0,0.0
 The Excellence in Pediatrics Institute,Morges,CH,Rue des Vignerons 1A,,,22070.4,,,,,,22070.4,hco,shire,2017,872,
 The Gentelmen's Clinic,Genève,CH,Rue du Mont Blanc 4,1201,,,700.0,,,,,700.0,hco,allergan,2016,2416,1.0
 The International Society for Biological Standardisation (IABS),LES ACACIAS-GENEVA,CH,Route des Jeunes 9,,,0.0,4887.22,0.0,0.0,0.0,0.0,4887.22,hco,glaxosmithkline,2016,2417,1.0
-Therapeutische Vereinigung fÃ¼r Erwachsene mit ADHS,Ehrendingen,CH,Mühlebuck 29,,,0.0,4700.0,0.0,0.0,0.0,0.0,4700.0,hco,janssen,2016,2418,1.0
+Therapeutische Vereinigung für Erwachsene mit ADHS,Ehrendingen,CH,Mühlebuck 29,,,0.0,4700.0,0.0,0.0,0.0,0.0,4700.0,hco,janssen,2016,2418,1.0
 "Thurgau Spital, Frauenklinik Spital Frauenfeld",Frauenfeld,CH,Blasenzentrum- und Beckenboden,,,,2808.0,,,,,2808.0,hco,vifor,2017,2419,1.0
 Thurgauer Ärztegesellschaft,FRAUENFELD,CH,Zeughausstrasse 16,,,0.0,3500.0,0.0,0.0,0.0,0.0,3500.0,hco,glaxosmithkline,2016,1124,1.0
 Ti-Psiso -Gruppo regionale dell' Accademia Svizzera di Medicina Psicosomatica e Psicosociale ASMPP,Locarno,CH,Via Alfredo Pioda 15,,,,1000.0,,,,,1000.0,hco,novartis,2016,370,1.0
