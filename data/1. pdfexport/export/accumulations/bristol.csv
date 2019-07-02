@@ -1,0 +1,6 @@
+type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
+hcp_amount,,,5256.0,10361.0,66411.0,1676.0,83704.0,bristol
+hco_amount,,,,,3217.0,165.0,3382.0,bristol
+hcp_count,,,13.0,21.0,32.0,9.0,50.0,bristol
+hco_count,0.0,0.0,0.0,0.0,1.0,1.0,1.0,bristol
+rnd,,,,,,,9905440.0,bristol
