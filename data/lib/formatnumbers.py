@@ -1,5 +1,6 @@
 from consts import *
 import pandas as pd
+import numpy as np
 
 """
 
@@ -41,9 +42,17 @@ def replace_apostrophe(dataset):
 
 """
 
+def replace_str(value, search, replace):
+    if type(value) is str:
+        return value.replace(search, replace)
+    else:
+        return value
+
 def remove_in_numbers(dataset, char):
     for field in number_fields:
-        dataset[field] = dataset[field].str.replace(char, '')
+        #if not np.issubdtype(dataset[field].dtype, np.number):
+        dataset[field] = dataset[field].apply(lambda x: replace_str(x, char, ''), 1)
+        #dataset[field] = dataset[field].str.replace(char, '')
 
     return dataset
 
