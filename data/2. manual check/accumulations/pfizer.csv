@@ -1,0 +1,6 @@
+type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
+hcp_amount,0.0,1476.0,15567.0,77540.0,12342.0,,106925.0,pfizer
+hco_amount,350477.0,646.0,761.0,30758.0,453.0,,478197.0,pfizer
+hcp_count,0.0,4.0,10.0,26.0,18.0,,31.0,pfizer
+hco_count,14.0,2.0,1.0,6.0,1.0,25.0,,pfizer
+rnd,,,,,,,2506402.0,pfizer
