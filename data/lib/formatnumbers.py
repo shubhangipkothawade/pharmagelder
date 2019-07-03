@@ -103,7 +103,8 @@ def replace_comma_to_dot(dataset):
 """
 def replace_in_number(dataset, pat, repl):
     for field in number_fields:
-        dataset[field] = dataset[field].str.replace(pat, repl)
+        #dataset[field] = dataset[field].str.replace(pat, repl)
+        dataset[field] = dataset[field].apply(lambda x: replace_str(x, pat, repl), 1)
     
     return dataset
 
