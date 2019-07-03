@@ -1,0 +1,143 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Matti Aapro,Genolier,CH,Route du Muids 3,,,,,238.2,,8875.91,7400.28,16514.39,hcp,sandoz
+Daniel Beer,Chur,CH,Hartbertstrasse 9,,,,,,,500.0,,500.0,hcp,sandoz
+Christoph Boller,Unterseen,CH,Breite 2,,,,,,,800.0,,800.0,hcp,sandoz
+Pascal Bonnabry,Vessy,CH,Chemin de Chantefleur 101,,,,,,,1300.0,144.0,1444.0,hcp,sandoz
+Nathan Cantoni,Aarau,CH,Kantonsspital Aarau Tellstrasse 25,,,,,,,1400.0,,1400.0,hcp,sandoz
+Alexandre Cavin,Nyon,CH,Pharmacie Nyonnaise Rue de la Gare 43,,,,,,,600.0,,600.0,hcp,sandoz
+Filippo Donati,Biel,CH,Memory Clinic Biel-Seeland Unionsgasse 14,,,,,,,1000.0,,1000.0,hcp,sandoz
+Michele Ghielmini,Sorengo,CH,Via alla Campagna 6,,9041102749,,,,,3844.09,,3844.09,hcp,sandoz
+Jörg Klatt,Luzern,CH,Weggisgasse 1,,,,,,,1300.0,,1300.0,hcp,sandoz
+Gönül Korkmaz Kaya,Solothurn,CH,Dornacherplatz 15,,,,,,,500.0,,500.0,hcp,sandoz
+Günter Krämer,Zürich,CH,Neurozentrum Bellevue Theaterstrasse 8,,9041101770,,,,,16500.0,,16500.0,hcp,sandoz
+Oliver Kuonen,Altendorf,CH,Lidwil 8,,9041102808,,,,,600.0,,600.0,hcp,sandoz
+Helen Leemann,Aarau,CH,Tumor Zentrum AG Rain 34,,,,,,,300.0,,300.0,hcp,sandoz
+Markus Manz,Zürich,CH,Rämistrasse 100 Universitätspita l Zürich / Hämatologie,,,,,,,1578.46,,1578.46,hcp,sandoz
+Damian Meli,Huttwil,CH,Schultheissenstr asse 10,,,,,,,500.0,,500.0,hcp,sandoz
+Reto Misteli,Zunzgen,CH,Hardstrasse 3,,9041102344,,,,,500.0,,500.0,hcp,sandoz
+Thomas Müller,Meiringen,CH,Privatklinik Meiringen Willigen,,,,,,,2000.0,,2000.0,hcp,sandoz
+Ursula Neumann,Aarau,CH,Kantonsspital Aarau Ambulante Medizinische Onkologie,,,,,,,300.0,,300.0,hcp,sandoz
+Martin Oehri,Steckborn,CH,Im Feldbach 1a,,,,,,,2000.0,,2000.0,hcp,sandoz
+Roberto Pirrotta,Zürich,CH,Sihlhallenstrass e 30,,,,,,,3000.0,,3000.0,hcp,sandoz
+Linda Schittenhelm,Zürich,CH,Gloriastrasse 25,,,,,,,3100.0,,3100.0,hcp,sandoz
+Susanne Schläpfer,St. Gallen,CH,Tumor- und Brustzentrum ZeTuP St. Gallen Rorschacherstras se 150,,,,,,,300.0,,300.0,hcp,sandoz
+Othman Sentissi,Genève,CH,HUG Hupitaux Universitaires Genève Département de santé mentale et de psychiatrie,,,,,,,1500.0,,1500.0,hcp,sandoz
+Philipp Tschopp,Basel,CH,Socinstrasse 22,,,,,,,500.0,,500.0,hcp,sandoz
+Jochen Veit,Luzern,CH,Maihofstrasse 63,,,,,,,500.0,,500.0,hcp,sandoz
+Marc Vogel,Basel,CH,Breisacherstr. 1,,,,,,,1137.8,526.29,1664.09,hcp,sandoz
+Lukas Wildi,Zürich,CH,Rütistrasse 60,,,,,,,1050.0,,1050.0,hcp,sandoz
+aarReha,Schinznach Bad,CH,Badstrasse 55,,,,1000.0,,,,,1000.0,hco,sandoz
+Aerztenetzwerk Bern,Hinterkappelen,CH,Praxiszentrum im Ring,,,,5000.0,,,,,5000.0,hco,sandoz
+Aglaea,Buchrain,CH,Hauptstrasse 12,,,,8460.0,,,,,8460.0,hco,sandoz
+APA Aerzte mit Patientenapothek e,St. Gallen,CH,Kolumbanstrasse 2,,,840.0,2000.0,,,,,2840.0,hco,sandoz
+Appenzellerische Ärztegesellschaf t,bühler,CH,Dorfstrasse 50,,,,1000.0,,,,,1000.0,hco,sandoz
+Arztpraxis Frutigen,Frutigen,CH,Adelbodenstrasse 21,,9041102435,,1075.0,1075.0,,,,2150.0,hco,sandoz
+ASROMM (Association Suisse Romande de Médicine Manuelle),Chêne-Bourg,CH,"28, Route de Peilloux",,,,600.0,,,,,600.0,hco,sandoz
+Association PharmaGenève,Genève,CH,Rue Du-Bois-Melly 2bis,,,,3000.0,,,,,3000.0,hco,sandoz
+Associazione Medici Internisti del Canton Ticino (AMITI),Lugano-Paradiso,CH,via General Guisan 10,,,,,1000.0,,,,1000.0,hco,sandoz
+Associazione MMM Medical Meeting,Minusio,CH,Via Cadogno 1,,,,3000.0,,,,,3000.0,hco,sandoz
+Bellevue Apotheke,Zürich,CH,Theaterstrasse 14,,,,,,,600.0,,600.0,hco,sandoz
+Breitepraxis AG,Unterseen,CH,Breite 2,,,,1135.0,,,,,1135.0,hco,sandoz
+Brennpunkt Urologie c/o LH Medical Management,Liestal,CH,Postfach 278,,,,500.0,,,,,500.0,hco,sandoz
+Brennpunkt Urologie c/o LH Medical Management GmbH,Liestal,CH,-,,,,500.0,,,,,500.0,hco,sandoz
+Brustzentrum Regio Basiliensis,Allschwil,CH,"Aerztehaus Allschwil, Brennerstrasse 12",,,2500.0,,,,,,2500.0,hco,sandoz
+"Bümpliz-Apotheke & Drogerie, Dr. Gurtner AG",Bern,CH,Bernstrasse 72,,,,,,,600.0,,600.0,hco,sandoz
+Centre hospitalier universitaire vaudois (CHUV),LAUSANNE,CH,RUE DU BUGNON 21,,,,4127.02,,,1627.02,127.0,5881.04,hco,sandoz
+CHUV Centre Hospitalier Universitaire Vaudois,Lausanne,CH,Rue du Bugnon 21,,,,,,,862.5,,862.5,hco,sandoz
+Clinique romande de réadaptation,Sion,CH,Av Grand Champsec 90,,,,1000.0,,,,,1000.0,hco,sandoz
+DragonPharm GmbH,Zürich,CH,Hohlstrasse 509,,,,,,,557.1,,557.1,hco,sandoz
+Eastcare AG,St. Gallen,CH,Ikarusstrasse 9,,,,5500.0,,,,,5500.0,hco,sandoz
+Ente Ospedaliero Cantonale,Bellinzona,CH,VIALE OFFICINA 3,,,5000.0,5500.0,,,,,10500.0,hco,sandoz
+EQUAM Stiftung,Bern,CH,Effingerstrasse 25,,,,5000.0,,,,,5000.0,hco,sandoz
+ESMO European Society of Medical Oncology,Viganello,CH,Via Luidi Taddei 4,,,82483.32,33896.77,,,,,116380.09,hco,sandoz
+"European Center of Pharmaceutical Medicine (ECPM), Universität Basel",Basel,CH,Klingelbergstras se 61,,9041102312,,,,,10928.0,,10928.0,hco,sandoz
+EUROPEAN NEUROENDOCRINE ASSOCIATION,LAUSANNE,CH,AVENUE DU GREY 38A,,,21357.59,,,,,,21357.59,hco,sandoz
+Fachverband Adipositas im Kindes- und Jugendalter (AKJ),Aarau,CH,Herzogstrasse 1,,,,2000.0,,,,,2000.0,hco,sandoz
+Fondation Centre de Chimiothérapie Anti-Cancéreuse (CCAC),Lausanne,CH,     av. Vinet 19bis,,,1000.0,,,,,,1000.0,hco,sandoz
+FOREUM (Foundation for Research in Rheumatology),Kilchberg,CH,Seestrasse 240,,,114130.3,,,,,,114130.3,hco,sandoz
+Forschungsstiftu ng Klinik Hirslanden,Glattpark,CH,Boulevard Lilienthal 2,,,,2000.0,,,,,2000.0,hco,sandoz
+FORUM MANAGED CARE,NEUAEGERI,CH,ZUGERSTRASSE 193,,,5000.0,,,,,,5000.0,hco,sandoz
+Grischa Pharma,Domat/Ems,CH,Postfach 93,,,,3722.3,,,,,3722.3,hco,sandoz
+Gruppo Medico Formazione,Giubiasco,CH,Casella Postale 823,,,,3300.0,,,,,3300.0,hco,sandoz
+GSASA,BERN,CH,,,,10000.0,20000.0,,,,,30000.0,hco,sandoz
+Hirslanden Klinik St. Anna Luzern,Luzern,CH,St. Anna Strasse 32,,,,2782.94,,,,,2782.94,hco,sandoz
+Hopitaux Universitaire de Genève,Genève,CH,Rue Gabrielle-Perret -Gentil 4,,,,1470.0,,,,,1470.0,hco,sandoz
+Hôpitaux universitaires de Genève,Genève,CH,RUE GABRIELLE-PERRET -GENTIL 4,,,,,,,2000.0,,2000.0,hco,sandoz
+Hôpitaux Universitaires de Genève (HUG),Genève,CH,Avenue de Beau-Séjour 26,,9041102867,,,,,4000.0,,4000.0,hco,sandoz
+Hopitaux Universitaires des Genève (HUG),Genève,CH,Rue Gabrielle-Perret -Gentil 4,,,,,,,900.0,,900.0,hco,sandoz
+Hopitaux Universitaires Genève,Genève,CH,Rue Gabrielle-Perret -Gentil 4,,,1500.0,,,,,,1500.0,hco,sandoz
+Insel Gruppe AG,Bern,CH,Freiburgstrasse 4,,,1000.0,,,,,,1000.0,hco,sandoz
+Insel Gruppe AG Stiftungen und Fonds,Bern,CH,Freiburgstrasse 18,,,,1500.0,,,1905.74,,3405.74,hco,sandoz
+INSELGRUPPE AG,BERN,CH,FREIBURGSTRASSE 4,,,4500.0,5000.0,,,1978.46,,11478.46,hco,sandoz
+Inselspital Stiftung,Bern,CH,Freiburgstrasse 18,,,35000.0,1077.0,,,,,36077.0,hco,sandoz
+INTERDISZIPLINAE RES AEZTENETZWERK,Zürich,CH,Bahnhofplatz 4,,,,5000.0,,,,,5000.0,hco,sandoz
+INTERNATIONAL OSTEOPOROSIS FOUNDATION,NYON,CH,RUE JUSTE OLIVER 9,,,6000.0,,,,,,6000.0,hco,sandoz
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,,1500.0,,,,,1500.0,hco,sandoz
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,1200.0,,,,1700.0,,2900.0,hco,sandoz
+KANTONSSPITAL BADEN AG,Baden,CH,IM ERGEL 1,,,3814.81,,,,,,3814.81,hco,sandoz
+Kantonsspital Graubünden,Chur,CH,Loestrasse 170,,,1500.0,,,,,,1500.0,hco,sandoz
+Kantonsspital Nidwalden (KSNW),Stans,CH,Ennetmooserstras se 19,,,,8000.0,,,,,8000.0,hco,sandoz
+KANTONSSPITAL ST. GALLEN,ST. GALLEN,CH,RORSCHACHER-STR. 95,,,2000.0,,,,652.53,,2652.53,hco,sandoz
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,,2000.0,,,,,2000.0,hco,sandoz
+Kantonsspital St.Gallen,St. Gallen,CH,Rorschacher Strasse 95,,9041102198,,,,,925.93,,925.93,hco,sandoz
+Kantonsspital Winterthur (KSW),Winterthur,CH,Brauerstrasse 15,,,,3700.0,,,,,3700.0,hco,sandoz
+Klinik Bethesda,Tschugg,CH,Oberdorf,,9041501353,,,,,2000.0,,2000.0,hco,sandoz
+Luzerner Kantonsspital,Luzern 16,CH,Spitalstrasse,,,,6594.0,,,1578.46,,8172.46,hco,sandoz
+Luzerner Psychiatrie St. Urban,St. Urban,CH,Schafmattstrasse 1,,,,1500.0,,,,,1500.0,hco,sandoz
+Nieren Knochen Zentrum Zürich,Zürich,CH,Bellariastrasse 38,,,,450.0,,,,,450.0,hco,sandoz
+ONKOLOGIEPFLEGE SCHWEIZ,KLEINANDELFINGEN,CH,HIRSTIGSTRASSE 13,,,,3250.0,,,,,3250.0,hco,sandoz
+Ospedale Regionale di Lugano,Lugano,CH,Via Tesserete 46,,,,1600.0,,,,,1600.0,hco,sandoz
+Osteoporose Plattform der SGR,8000,CH,Bellariastrasse 38,,,,30000.0,,,,,30000.0,hco,sandoz
+Pharmacie de l'Hôtel de Ville SA,Echallens,CH,Place De Château 3,,,,,,,600.0,,600.0,hco,sandoz
+Pharmactuel Sezione Svizzera Italiana / Ticino,LUGANO,CH,. 508,,,,2500.0,,,,,2500.0,hco,sandoz
+pharmaSuisse,Bern-Liebefeld,CH,Stationsstrasse1 2,,,,17000.0,,,,,17000.0,hco,sandoz
+pharmavalais / Société Valaisanne de Pharmacie,Granges,CH,Rte de Robinson 43 Case postale,,,,2500.0,,,,,2500.0,hco,sandoz
+Policlinique Médicale Universitaire (PMU),Lausanne,CH,Rue du Bugnon 44,,,,4000.0,,,,,4000.0,hco,sandoz
+Praxis am Graben,Winterthur,CH,Unterer Graben 35,,,,1790.02,,,,,1790.02,hco,sandoz
+Privatklinik Obach,Solothurn,CH,Leopoldstrasse 5,,,,4011.14,,,,,4011.14,hco,sandoz
+Psychiatrische Dienste Aargau (PDAG),Brugg,CH,Postfach 432,,,,1500.0,,,,,1500.0,hco,sandoz
+Qualitouch Healthcare Foundation,Zürich,CH,Löwenstrasse 2,,,,4629.63,,,,,4629.63,hco,sandoz
+REMED Association genevoise de médecins travaillant en,Genève,CH,Rue du conseil Général 11,,,,2000.0,,,,,2000.0,hco,sandoz
+Rheuma Schweiz,Zürich,CH,Aargauerstrasse 250,,,20000.0,,,,7880.0,,27880.0,hco,sandoz
+Rheumatologie Bernhard AG,Feldbrunnen,CH,Längackerstrasse 20,,,,,,,800.0,,800.0,hco,sandoz
+SAFE ID Swiss Academic Foundation for Education in Infectious Diseases,Friedbühlstrasse 51,CH,Bern,,,50000.0,,,,,,50000.0,hco,sandoz
+SAKK Schweizerische Arbeitsgemeinsch aft für klinische Krebsforschung,Bern,CH,Effingerstrasse 40,,,3500.0,5000.0,,,,,8500.0,hco,sandoz
+SAMM Schweizerische Ärztegesellschaf t für Manuelle Medizin,St. Gallen,CH,Kolumbanstrasse 2,,,,2550.0,,,,,2550.0,hco,sandoz
+SASL (Swiss Association for the Study of the Liver),Zürich,CH,Toblerstrasse 51,,,8000.0,,,,,,8000.0,hco,sandoz
+Schweizerische Gesellschaft für allgemeine innere Medizin (SGAIM),Bern,CH,Monbijoustrasse 43 Postfach,,,,22000.0,,,,,22000.0,hco,sandoz
+Schweizerische Gesellschaft für Neurologie SNG,Basel,CH,c/o IMK Institut für Medizin und Kommunikation AG Münsterberg 1,,CHSZ002 (Dummie),,19000.0,,,,,19000.0,hco,sandoz
+Schweizerischer Verband medizinischer Praxis-Fachperso nen (SVA),Bern 6,CH,c/o Fürsprecher Bruno Gutknecht Elfenstrasse 19,,,,4569.3,,,,,4569.3,hco,sandoz
+SCQM Foundation ((Swiss Clinical Quality Management in Rheumatic Diseases),Zürich,CH,Aargauerstrasse2 50,,,22435.0,,,,,,22435.0,hco,sandoz
+Selektion praktizierende Endokrinologen,Birchwil bei Nürensdorf,CH,Haldenweidstrass e 5,,,,500.0,,,,,500.0,hco,sandoz
+Services des Hospices Cantonaux,Lausanne,CH,Rue du Bugnon 25,,,,1200.0,,,,,1200.0,hco,sandoz
+SGGG Schweizerische Gesellschaft für Gynäkologie und Geburtshilfe,Bern,CH,Altenbergstrasse 29,,,,3000.0,,,,,3000.0,hco,sandoz
+SGPP Schweizerische Gesellschaft für Psychiatrie und Psychotherapie,Bern,CH,Postfach 686,,,,18750.0,,,,,18750.0,hco,sandoz
+Société Vaudoise de  Pharmacie,Paudex,CH,Route du Lac 2,,,8000.0,,,,,,8000.0,hco,sandoz
+Solothurn Spitäler AG,Solothurn,CH,Schlössliweg 2-6,,,,1000.0,,,,,1000.0,hco,sandoz
+Spital Thurgau AG,Frauenfeld,CH,Waldeggstrasse 8a,,,-500.0,,,,,,-500.0,hco,sandoz
+St. Gallen Oncology Conferences (SONK),St. Gallen,CH,Rohrschacherstra sse 150,,,,4970.0,,,,,4970.0,hco,sandoz
+Stadtspital Triemli,Zürich,CH,Birmensdorferstr asse 501,,,1500.0,,,,,,1500.0,hco,sandoz
+Stiftung für wissenschaftlich e Forschung Stadtspital Triemli,ZURICH,CH,Birmensdorferstr asse 497,,,,,,,1500.0,,1500.0,hco,sandoz
+Stiftung Prostatakrebsfor schung,Aarau,CH,Postfach 4038,,,1000.0,,,,,,1000.0,hco,sandoz
+Stiftung SONK St. Gallen,St. Gallen,CH,Rorschacherstras se 150,,,,4985.0,,,,,4985.0,hco,sandoz
+SVGO,Basel,CH,Missionsstrasse 24,,,,3000.0,,,,,3000.0,hco,sandoz
+Swiss Tumor Institute,Zürich,CH,SEEFELDSTRASSE 214,,,2100.0,,,,,,2100.0,hco,sandoz
+Swiss Young Pharmacists Group (YPG),Bern-Liebefeld,CH,Stationsstrasse 12,,,,1000.0,,,,,1000.0,hco,sandoz
+TopPharm AG,Münchenstein,CH,Grabenackerstras se 15,,,,12000.0,,,,,12000.0,hco,sandoz
+Trägerverein Swiss Oncology and Hematology Congress (SOHC),Zürich,CH,c/o Reichenbach Rechtsanwälte AG Talacker 50,,,,30000.0,,,,,30000.0,hco,sandoz
+Tumorzentrum ZeTuP,Rapperswil,CH,Alte Jonastrasse 24,,,500.0,,,,,,500.0,hco,sandoz
+Universitäre Psychiatrische Dienste Bern (UPD),Bern,CH,Murtenstrasse 21,,,,,-1000.0,,,,-1000.0,hco,sandoz
+Universität Zürich,Zürich,CH,Rämistrasse 71,,,,1000.0,,,,,1000.0,hco,sandoz
+UNIVERSITÄTSSPIT AL BASEL,BASEL,CH,Helbelstrasse 36,,,2000.0,1500.0,,,3207.0,,6707.0,hco,sandoz
+UNIVERSITÄTSSPIT AL BASEL,Basel,CH,HEBELSTRASSE 36,,,2000.0,,,,,,2000.0,hco,sandoz
+Universitätsspit al Basel,Basel,CH,Spitalstrasse 21,,,500.0,,,,,,500.0,hco,sandoz
+Universitätsspit al Basel,Basel,CH,PETERSGRABEN 4,,,,1000.0,,,,,1000.0,hco,sandoz
+Universitätsspit al Basel,Basel,CH,Petersgraben 4,,,,,,,2000.0,,2000.0,hco,sandoz
+Universitätsspit al Basel / Fonds,Basel,CH,Hebelstrasse 36,,,,2500.0,,,2878.46,,5378.46,hco,sandoz
+Universitätsspit al Zürich,ZÜRICH,CH,RÄMISTRASSE 100,,,,2000.0,,,,,2000.0,hco,sandoz
+Université de Genève,Genève,CH,Rue Gabrielle-Perret -Gentil 4,,,,,,,2000.0,,2000.0,hco,sandoz
+Université de Genève DSMPFMC,Genève,CH,67 rue de Lausanne,,,,4000.0,,,,,4000.0,hco,sandoz
+Verband Breast Care Nurse,Zürich,CH,Hardturmstrasse 131,,,3500.0,,,,,,3500.0,hco,sandoz
+Verein Interdigest,Zürich,CH,Toblerstrasse 51,,,500.0,,,,,,500.0,hco,sandoz
+Vereinigung Zürcher Internisten,Zwillikon,CH,Haldenrain 18,,,,3800.0,,,,,3800.0,hco,sandoz
+ZÜRCHER SCHMERZKONFERENZ,Zürich,CH,WITELLIKERSTRASS E 40,,,,2000.0,,,,,2000.0,hco,sandoz
