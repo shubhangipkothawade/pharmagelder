@@ -32,7 +32,7 @@ def amounts_to_number(dataset):
 #Replace apostrophe
 def replace_apostrophe(dataset):
     for field in number_fields:
-        dataset[field] = dataset[field].str.replace("'", '')
+        dataset[field] = dataset[field].apply(lambda x: replace_str(x, "'", ''), 1)
     
     return dataset
 
@@ -115,9 +115,9 @@ def replace_in_number(dataset, pat, repl):
 """
 def remove_chf(dataset):
     for field in number_fields:
-        dataset[field] = dataset[field].str.replace("CHF", '')
-        dataset[field] = dataset[field].str.replace("Fr.", '')
-        dataset[field] = dataset[field].str.replace("fr.", '')
+        dataset[field] = dataset[field].apply(lambda x: replace_str(x, "CHF", ''), 1)
+        dataset[field] = dataset[field].apply(lambda x: replace_str(x, "Fr.", ''), 1)
+        dataset[field] = dataset[field].apply(lambda x: replace_str(x, "fr.", ''), 1)
     
     return dataset
 
@@ -128,7 +128,7 @@ def remove_chf(dataset):
 """
 def remove_spaces(dataset):
     for field in number_fields:
-        dataset[field] = dataset[field].str.replace(" ", '')
+        dataset[field] = dataset[field].apply(lambda x: replace_str(x, " ", ''), 1)
     
     return dataset
 
