@@ -33,6 +33,7 @@ def amounts_to_number(dataset):
 def replace_apostrophe(dataset):
     for field in number_fields:
         dataset[field] = dataset[field].apply(lambda x: replace_str(x, "'", ''), 1)
+        dataset[field] = dataset[field].apply(lambda x: replace_str(x, "’", ''), 1)
     
     return dataset
 
