@@ -12,10 +12,112 @@
 	<false/>
 	<key>exportCsvTextEncoding</key>
 	<integer>1</integer>
+	<key>exportDocXHighlightUncertainCharacter</key>
+	<false/>
+	<key>exportDocXImageQuality</key>
+	<integer>1</integer>
+	<key>exportDocXKeepLineBreaksAndHyphens</key>
+	<false/>
+	<key>exportDocXKeepLineNumbers</key>
+	<true/>
+	<key>exportDocXKeepPageBreaks</key>
+	<true/>
+	<key>exportDocXKeepPageNumbersHeadersAndFooters</key>
+	<true/>
+	<key>exportDocXKeepPictures</key>
+	<true/>
+	<key>exportDocXKeepTextAndBackgroundColor</key>
+	<true/>
+	<key>exportDocXLayout</key>
+	<integer>1</integer>
+	<key>exportDocXPaperSize</key>
+	<string>0,0</string>
+	<key>exportEpubAnnotation</key>
+	<string></string>
+	<key>exportEpubAuthor</key>
+	<string></string>
+	<key>exportEpubBookTitle</key>
+	<string></string>
+	<key>exportEpubEmbedFonts</key>
+	<false/>
+	<key>exportEpubImageQuality</key>
+	<integer>1</integer>
+	<key>exportEpubKeepPictures</key>
+	<true/>
+	<key>exportEpubKeywords</key>
+	<array/>
+	<key>exportEpubLayout</key>
+	<integer>1</integer>
+	<key>exportEpubPreserveFontsAndFontsSize</key>
+	<false/>
+	<key>exportEpubUseFirstPageAsBookCover</key>
+	<true/>
+	<key>exportFb2Annotation</key>
+	<string></string>
+	<key>exportFb2Author</key>
+	<string></string>
+	<key>exportFb2BookTitle</key>
+	<string></string>
+	<key>exportFb2EmbedFonts</key>
+	<false/>
+	<key>exportFb2ImageQuality</key>
+	<integer>1</integer>
+	<key>exportFb2KeepPictures</key>
+	<true/>
+	<key>exportFb2Keywords</key>
+	<array/>
+	<key>exportFb2Layout</key>
+	<integer>1</integer>
+	<key>exportFb2PreserveFontsAndFontsSize</key>
+	<false/>
+	<key>exportFb2UseFirstPageAsBookCover</key>
+	<true/>
 	<key>exportFormat</key>
-	<integer>40612</integer>
+	<integer>40615</integer>
+	<key>exportHtmlCreateFileBasedOnTableContext</key>
+	<false/>
+	<key>exportHtmlCreateNavigation</key>
+	<true/>
+	<key>exportHtmlImageQuality</key>
+	<integer>1</integer>
+	<key>exportHtmlKeepPageNumbersHeadersAndFooters</key>
+	<true/>
+	<key>exportHtmlKeepPictures</key>
+	<true/>
+	<key>exportHtmlKeepTextAndBackgroundColor</key>
+	<false/>
+	<key>exportHtmlKeepTextLineBreaksAndHyphens</key>
+	<false/>
+	<key>exportHtmlLayout</key>
+	<integer>1</integer>
+	<key>exportHtmlTableContext</key>
+	<integer>3</integer>
+	<key>exportHtmlTextEncoding</key>
+	<integer>1</integer>
+	<key>exportHtmlUseCSS</key>
+	<true/>
 	<key>exportImageFormat</key>
 	<integer>2</integer>
+	<key>exportOdtHighlightUncertainCharacter</key>
+	<false/>
+	<key>exportOdtImageQuality</key>
+	<integer>1</integer>
+	<key>exportOdtKeepLineBreaksAndHyphens</key>
+	<false/>
+	<key>exportOdtKeepLineNumbers</key>
+	<true/>
+	<key>exportOdtKeepPageBreaks</key>
+	<true/>
+	<key>exportOdtKeepPageNumbersHeadersAndFooters</key>
+	<true/>
+	<key>exportOdtKeepPictures</key>
+	<true/>
+	<key>exportOdtKeepTextAndBackgroundColor</key>
+	<true/>
+	<key>exportOdtLayout</key>
+	<integer>1</integer>
+	<key>exportOdtPaperSize</key>
+	<string>0,0</string>
 	<key>exportOpenAfterExport</key>
 	<true/>
 	<key>exportPdfCopyDocumentSequrity</key>
@@ -31,7 +133,7 @@
 	<key>exportPdfExportMode</key>
 	<integer>2</integer>
 	<key>exportPdfImageQuality</key>
-	<real>2</real>
+	<integer>1</integer>
 	<key>exportPdfKeepPageNumbersHeadersAndFooters</key>
 	<true/>
 	<key>exportPdfKeepPictures</key>
@@ -52,8 +154,50 @@
 	<false/>
 	<key>exportPdfUseMRC</key>
 	<false/>
+	<key>exportPptXImageQuality</key>
+	<integer>1</integer>
+	<key>exportPptXKeepPageNumbersHeadersAndFooters</key>
+	<true/>
+	<key>exportPptXKeepPictures</key>
+	<true/>
+	<key>exportPptXTextLineBreaksAndHyphens</key>
+	<false/>
+	<key>exportPptXWrapText</key>
+	<false/>
+	<key>exportRtfHighlightUncertainCharacter</key>
+	<false/>
+	<key>exportRtfImageQuality</key>
+	<integer>1</integer>
+	<key>exportRtfKeepLineBreaksAndHyphens</key>
+	<false/>
+	<key>exportRtfKeepLineNumbers</key>
+	<true/>
+	<key>exportRtfKeepPageBreaks</key>
+	<true/>
+	<key>exportRtfKeepPageNumbersHeadersAndFooters</key>
+	<true/>
+	<key>exportRtfKeepPictures</key>
+	<true/>
+	<key>exportRtfKeepTextAndBackgroundColor</key>
+	<true/>
+	<key>exportRtfLayout</key>
+	<integer>1</integer>
+	<key>exportRtfPaperSize</key>
+	<string>0,0</string>
 	<key>exportSaveOption</key>
 	<integer>0</integer>
+	<key>exportTxtInsertPageBreakCharacter</key>
+	<false/>
+	<key>exportTxtKeepLineBreaksAndHyphens</key>
+	<false/>
+	<key>exportTxtKeepPageNumbersHeadersAndFooters</key>
+	<true/>
+	<key>exportTxtLayout</key>
+	<integer>0</integer>
+	<key>exportTxtTextEncoding</key>
+	<integer>1</integer>
+	<key>exportTxtUseBlankLineParagraphSeparator</key>
+	<false/>
 	<key>exportXlsXConvertNumericalValuesToNumbers</key>
 	<false/>
 	<key>exportXlsXIgnoreTextOutsideTables</key>
@@ -63,7 +207,7 @@
 	<key>exportXlsXKeepPageNumbersHeadersAndFooters</key>
 	<true/>
 	<key>exportXlsXKeepPictures</key>
-	<true/>
+	<false/>
 	<key>preferencesRecognitionLanguages</key>
 	<string>German,English,French,Italian</string>
 </dict>
