@@ -1,0 +1,182 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Alain Sauty,Lausanne,CH,Av. de Rumine 31,,7601000029263,,,0.0,0.0,1950.0,0.0,1950.0,hcp,glaxosmithkline
+Bernard Egger,Vufflens-Le-Château,CH,Sorecort 4,,7601000461650,,,0.0,0.0,900.0,0.0,900.0,hcp,glaxosmithkline
+Christophe Uldry,Rolle,CH,Route de l'Hôpital 26,,7601000004895,,,0.0,0.0,750.0,0.0,750.0,hcp,glaxosmithkline
+Geneviève Nicolet,Nyon,CH,Rue Neuve 7,,7601000047922,,,0.0,0.0,750.0,0.0,750.0,hcp,glaxosmithkline
+Luc Burdet,Payerne,CH,"Hôpital HIB, Av. de la Colline 3",,7601000012548,,,0.0,0.0,900.0,0.0,900.0,hcp,glaxosmithkline
+Alexander Turk,Laupen,CH,Steigstrasse 8,,7601000474773,,,0.0,0.0,750.0,0.0,750.0,hcp,glaxosmithkline
+Andreas Piecyk,Zürich,CH,Witellikerstrasse 36,,7601000758224,,,0.0,0.0,2400.0,0.0,2400.0,hcp,glaxosmithkline
+Andreas Zoller,Rothenburg,CH,Bertiswilstrasse 26,,7601000228147,,,0.0,0.0,300.0,0.0,300.0,hcp,glaxosmithkline
+Bidisha Chatterjee,Bern,CH,Reichenbachstrasse 87a,,7601000525888,,,0.0,0.0,600.0,0.0,600.0,hcp,glaxosmithkline
+Christian Clarenbach,Zürich,CH,Hotzestrasse 18,,7601000764416,,,0.0,0.0,1950.0,0.0,1950.0,hcp,glaxosmithkline
+Christoph Itin,Liestal,CH,Schwieriweg 12,,7601000145468,,,0.0,0.0,300.0,0.0,300.0,hcp,glaxosmithkline
+Danja Kleinstück,Thalwil,CH,Rudishaldenstrasse 1,,7601000176684,,,0.0,0.0,300.0,0.0,300.0,hcp,glaxosmithkline
+Dominique Braun,Zürich,CH,Sonneggstrasse 63,,7601000725691,,,0.0,0.0,1400.0,0.0,1400.0,hcp,glaxosmithkline
+Enos Bernasconi,Lugano,CH,Via Tesserete 46,,7601000187550,,,0.0,0.0,0.0,678.18,678.18,hcp,glaxosmithkline
+Etienne Perrin,Genève,CH,Chemin des Clochettes 8a,,7601000438072,,,0.0,0.0,900.0,0.0,900.0,hcp,glaxosmithkline
+Florian Charbonnier,Genève,CH,Avenue De-Luserna 17,,7601000725950,,,0.0,0.0,3150.0,0.0,3150.0,hcp,glaxosmithkline
+Jan Izakovic,Basel,CH,Gempenstrasse 2a,,7601000121004,,,0.0,0.0,450.0,0.0,450.0,hcp,glaxosmithkline
+Joseph Brügger,Eschenbach,CH,Luzernstrasse 9,,7601000175335,,,0.0,0.0,300.0,0.0,300.0,hcp,glaxosmithkline
+Lukas Graf,Biel,CH,Bahnhofstrasse 54,,7601000840172,,,0.0,0.0,1200.0,0.0,1200.0,hcp,glaxosmithkline
+Manfred Kaufmann,Solothurn,CH,Werkhofstrasse 4,,7601000356055,,,0.0,0.0,750.0,0.0,750.0,hcp,glaxosmithkline
+Markus Rieder,Bern,CH,Marktgasse 51,,7601000092915,,,0.0,0.0,450.0,0.0,450.0,hcp,glaxosmithkline
+Michael Witschi,Mühledorf,CH,Breite 68,,,,,0.0,0.0,1000.0,0.0,1000.0,hcp,glaxosmithkline
+Patrick Brun,Heiligenschwendi,CH,Berner Reha Zentrum AG,,7601000479013,,,0.0,0.0,1200.0,0.0,1200.0,hcp,glaxosmithkline
+Peter Schiller,Liestal,CH,Mühlegasse 3,,7601000118769,,,0.0,0.0,450.0,0.0,450.0,hcp,glaxosmithkline
+Stephen Toovey,Bottmingen,CH,Burggartenstrasse 32,,,,,0.0,0.0,2930.06,0.0,2930.06,hcp,glaxosmithkline
+Thomas Rothe,Feldis,CH,Dimurs 7,,7601000116352,,,0.0,0.0,1950.0,0.0,1950.0,hcp,glaxosmithkline
+Thomas Schmid,Solothurn,CH,Werkhofstrasse 4,,7601000148155,,,0.0,0.0,750.0,0.0,750.0,hcp,glaxosmithkline
+Thomas Spindler,Davos,CH,Herman-Burchard-Strasse 1,,7601007532285,,,0.0,0.0,1699.12,463.79,2162.91,hcp,glaxosmithkline
+Urs Lagler,Zürich,CH,Merkurstrasse 20,,7601000215628,,,0.0,0.0,600.0,0.0,600.0,hcp,glaxosmithkline
+Peter Jandus,Genève 14,CH,Rue Gabrielle-Perret-Gentil 4,,7601000714060,,,0.0,0.0,750.0,0.0,750.0,hcp,glaxosmithkline
+Philipp Spring,Lutry,CH,Route de Taillepied 61,,7601000533982,,,0.0,0.0,200.0,0.0,200.0,hcp,glaxosmithkline
+Philip Taramarcaz,Genève,CH,Ruelle du Couchant 7,,7601000047229,,,0.0,0.0,750.0,0.0,750.0,hcp,glaxosmithkline
+Thomas Aeschbach,Lausanne,CH,Avenue Servan 2,,7601000001726,,,0.0,0.0,600.0,0.0,600.0,hcp,glaxosmithkline
+Daiana Stolz,Basel,CH,"Universitätsspital Basel/Pneumologie,Petersgraben 4",,7601000540768,,,0.0,0.0,750.0,0.0,750.0,hcp,glaxosmithkline
+Johannes von Kempis,Wolfhalden,CH,Alte Landstrasse 23,,7601000509840,,,0.0,0.0,600.0,0.0,600.0,hcp,glaxosmithkline
+Malcolm Kohler,Zürich,CH,Rämistrasse 100,,7601000450821,,,0.0,0.0,1600.0,0.0,1600.0,hcp,glaxosmithkline
+Marco Pons,Lugano,CH,Via Tesserete 46,,,,,0.0,0.0,750.0,0.0,750.0,hcp,glaxosmithkline
+Markus Solèr,Basel,CH,"St. Claraspital, Kleinriehenstrasse 30",,7601000122070,,,0.0,0.0,750.0,0.0,750.0,hcp,glaxosmithkline
+Oliver Distler,Zürich,CH,Gladbachstrasse 103,,7601000713360,,,0.0,0.0,630.05,61.91,691.96,hcp,glaxosmithkline
+Peter Schmid,Oberwil Bei Zug,CH,Räbmatt 19b,,,,,0.0,0.0,750.0,0.0,750.0,hcp,glaxosmithkline
+Tullio Sulser,Meilen,CH,Obere Kirchgasse 18,,7601000227263,,,0.0,0.0,3231.0,0.0,3231.0,hcp,glaxosmithkline
+Advisis AG,Bern,CH,Effingerstrasse 55,,,0.0,117744.7,0.0,0.0,0.0,0.0,117744.7,hco,glaxosmithkline
+Arud Zentren für Suchtmedizin,Zürich,CH,Konradstrasse 32,,,15000.0,0.0,0.0,0.0,0.0,0.0,15000.0,hco,glaxosmithkline
+Ärztegesellschaft des Kantons Bern,Bern,CH,Postgasse 19,,,0.0,10800.0,0.0,0.0,0.0,0.0,10800.0,hco,glaxosmithkline
+Ärztegesellschaft des Kantons Luzern,Luzern,CH,Schwanenplatz 7,,,0.0,900.0,0.0,0.0,0.0,0.0,900.0,hco,glaxosmithkline
+Ärztekongress Arosa,Arosa,CH,Postfach 68,,,0.0,2520.18,0.0,0.0,0.0,0.0,2520.18,hco,glaxosmithkline
+Ärzteverein Rorschach-Rheintal,Au,CH,Hauptstrasse 94,,,0.0,1250.0,0.0,0.0,0.0,0.0,1250.0,hco,glaxosmithkline
+Ärzteverein Werdenberg / Sarganserland,Bad Ragaz,CH,Hans-Albrecht-Strasse 1,,,0.0,1615.5,0.0,0.0,0.0,0.0,1615.5,hco,glaxosmithkline
+Association contre le VIH et autres infectionstransmissibles,Basel,CH,Spitalstrasse 12,,,0.0,32310.0,0.0,0.0,0.0,0.0,32310.0,hco,glaxosmithkline
+Association Excellence in Paediatrics Institute,Morges,CH,Rue des Vignerons 1b,,,86361.5,0.0,0.0,0.0,0.0,0.0,86361.5,hco,glaxosmithkline
+"Association Genevoise d’Allergologie,d’Immunologie et d’Asthme",Genève,CH,Rue Emile Yung 11,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,glaxosmithkline
+Association Journée Jurassienne de Médecine,Delémont,CH,Avenir 12,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,glaxosmithkline
+"Association par les Médecins, pour les Médecins",Martigny,CH,Av. de la Gare 17,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,glaxosmithkline
+Association Romande des Assistantes Médicales(ARAM),St.-Légier-La-Chiesaz,CH,Chemin du Lussy 18,,,0.0,3300.0,0.0,0.0,0.0,0.0,3300.0,hco,glaxosmithkline
+Associazione Medici Mesolcina,Roveredo,CH,Studio medico San Fedele,,,0.0,800.0,0.0,0.0,0.0,0.0,800.0,hco,glaxosmithkline
+Associazione Mendrisio Medical Meeting,Minusio,CH,Via Cadogno 1,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,glaxosmithkline
+Associazione Pediatri della Svizzera Italiana(APSI),Paradiso-Lugano,CH,Via delle scuole 17,,,0.0,3200.0,0.0,0.0,0.0,0.0,3200.0,hco,glaxosmithkline
+Bethesda Spital AG,Basel,CH,Gellertstrasse 144,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,glaxosmithkline
+Bruno Bloch Stiftung,Zürich,CH,Gloriastrasse 31,,,0.0,4259.55,0.0,0.0,0.0,0.0,4259.55,hco,glaxosmithkline
+Center da Sanda' Engiadina Bassa,Scuol,CH,Via da l'Ospidal 28d,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,glaxosmithkline
+Centre Hospitalier Universitaire Vaudois,Lausanne,CH,Rue du Bugnon 21,,,0.0,33576.8,0.0,0.0,4646.4,0.0,38223.2,hco,glaxosmithkline
+Circolo Medico Locarno e Dintorni,Ascona,CH,Via Lido 27,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,glaxosmithkline
+Circolo Medico Tre Valli,Aquila,CH,Campagna 5,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,glaxosmithkline
+Conférences en pneumologie pédiatrique,Lausanne,CH,Av. de Rumine 27,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,glaxosmithkline
+Davos Congress,Davos Platz,CH,Talstrasse 41,,,0.0,3177.15,0.0,0.0,0.0,0.0,3177.15,hco,glaxosmithkline
+Ente Ospedaliero Cantonale (EOC),Bellinzona,CH,Viale Officina 3,,,0.0,4914.0,0.0,0.0,0.0,0.0,4914.0,hco,glaxosmithkline
+European Academy of Dermatology andVenereology (EADV),Lugano,CH,Via S. Balestra 22b,,,0.0,122287.5,0.0,0.0,0.0,0.0,122287.5,hco,glaxosmithkline
+European Respiratory Society (ERS),Lausanne,CH,Av. Ste-Luce 4,,,0.0,1286595.3,0.0,0.0,0.0,0.0,1286595.3,hco,glaxosmithkline
+European Society for Immunodeficiencies,Geneva,CH,Rue François-Versonnex 7,,,0.0,0.0,0.0,0.0,17770.53,0.0,17770.53,hco,glaxosmithkline
+European Society for Medical Oncology (ESMO),Viganello-Lugano,CH,Via Luigi Taddei 4,,,110562.36,0.0,0.0,0.0,0.0,0.0,110562.36,hco,glaxosmithkline
+FDI World Dental Federation,Genève,CH,Av. Louis Casai 51,,,40000.01,0.0,0.0,0.0,0.0,0.0,40000.01,hco,glaxosmithkline
+Fondation des Grangettes,Chêne-Bougeries,CH,Chemin des Grangettes 7,,,0.0,2800.0,0.0,0.0,0.0,0.0,2800.0,hco,glaxosmithkline
+Fondation pour le Progrès en MicrobiologieMédicale et Maladies Infectieuses (FAMMID),Lausanne,CH,Pont Bessières 3,,,0.0,10770.0,0.0,0.0,0.0,0.0,10770.0,hco,glaxosmithkline
+Fondazione Epatocentro Ticino,Lugano,CH,Via Soldino 5,,,0.0,5400.0,0.0,0.0,0.0,0.0,5400.0,hco,glaxosmithkline
+Forum für medizinische Fortbildung (FomF),Zug,CH,Ahornstrasse 2,,,0.0,80290.5,0.0,0.0,0.0,0.0,80290.5,hco,glaxosmithkline
+Forum Managed Care,Neuägeri,CH,Zugerstrasse 193,,,0.0,0.0,0.0,0.0,1615.5,0.0,1615.5,hco,glaxosmithkline
+Grisomed AG,Chur,CH,Tittwiesenstrasse 29,,,0.0,5385.0,0.0,0.0,0.0,0.0,5385.0,hco,glaxosmithkline
+Groupe du Nord Vaudois,Yverdon-Les-Bains,CH,Orbe 27,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,glaxosmithkline
+Groupe Médecine & Hygiène,Chêne-Bourg,CH,Chemin de la Mousse 46,,,0.0,5932.5,0.0,0.0,0.0,0.0,5932.5,hco,glaxosmithkline
+Groupement des Médecins des Franches-Montagnes (GMFM),Saignelégier,CH,Place du 23 juin 2,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,glaxosmithkline
+Groupement Pneumologues Genevois,Genève,CH,Route de Florissant 64,,,0.0,2023.15,0.0,0.0,0.0,0.0,2023.15,hco,glaxosmithkline
+Groupement Vaudois des Gynécologues (GVG),Payerne,CH,Av. de la Promenade 4,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,glaxosmithkline
+Groupement Vaudois des spécialistes enAllergologie et Immunologie Clinique (GVAIC),Yverdon,CH,Rue d'Orbe 27,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,glaxosmithkline
+Gruppo Medico Formazione,Giubiasco,CH,Casella postale 823,,,0.0,3300.0,0.0,0.0,0.0,0.0,3300.0,hco,glaxosmithkline
+gynécologie suisse SGGG,Bern,CH,Altenbergstrasse 29,,,0.0,12816.3,0.0,0.0,0.0,0.0,12816.3,hco,glaxosmithkline
+Hausärzteverein Angenstein (HAV),Bättwil,CH,Rebenstrasse 24,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,glaxosmithkline
+Hirslanden Klinik Aarau AG,Aarau,CH,Schänisweg,,,0.0,3500.0,0.0,0.0,0.0,0.0,3500.0,hco,glaxosmithkline
+Hôpital Fribourgeois (HFR),Fribourg,CH,Chemin des pensionnats 2-6,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,glaxosmithkline
+Hôpital Neuchâtelois,Neuchâtel,CH,Maladière 45,,,0.0,1200.0,0.0,0.0,1950.0,0.0,3150.0,hco,glaxosmithkline
+Hôpitaux Universitaires de Genève,Genève 14,CH,Rue Gabrielle-Perret-Gentil 4,,,25000.0,45751.0,0.0,0.0,0.0,0.0,70751.0,hco,glaxosmithkline
+Insel Gruppe AG,Bern,CH,Freiburgstrasse 18,,,8980.0,43090.0,0.0,0.0,7296.4,0.0,59366.4,hco,glaxosmithkline
+Institut für Hausarztmedizin & Community CareLuzern,Luzern,CH,Schwanenplatz 7,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,glaxosmithkline
+International AIDS Society (IAS),Geneva,CH,Av. de France 23,,,0.0,200736.22,0.0,0.0,0.0,0.0,200736.22,hco,glaxosmithkline
+International Symposium on Pneumococci andPneumococcal Diseases,Geneva,CH,Rue François-Versonnex 7,,,98550.72,110071.43,0.0,0.0,0.0,0.0,208622.15,hco,glaxosmithkline
+Junge Hausärztinnen und -ärzte (JHaS),Bern,CH,Effingerstrasse 2,,,0.0,3446.4,0.0,0.0,0.0,0.0,3446.4,hco,glaxosmithkline
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,0.0,17637.0,0.0,0.0,0.0,0.0,17637.0,hco,glaxosmithkline
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,20000.0,5231.0,0.0,0.0,6657.8,0.0,31888.8,hco,glaxosmithkline
+Kantonsspital Glarus AG,Glarus,CH,Burgstrasse 99,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,glaxosmithkline
+Kantonsspital Schaffhausen,Schaffhausen,CH,Geissbergstrasse 81,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hco,glaxosmithkline
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,15000.0,29626.5,0.0,0.0,3527.2,0.0,48153.7,hco,glaxosmithkline
+Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,,,0.0,4038.75,0.0,0.0,0.0,0.0,4038.75,hco,glaxosmithkline
+Kinderärzte Schweiz,Zürich,CH,Badenerstrasse 21,,,0.0,7500.0,0.0,0.0,0.0,0.0,7500.0,hco,glaxosmithkline
+Kinderärzte-Vereinigung Zentralschweiz,Altdorf,CH,Dätwylerstrasse 9,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,glaxosmithkline
+Kinder- und Jugendpraxis Muri,Muri B. Bern,CH,Mettlengässli 4,,,0.0,0.0,0.0,0.0,210.0,0.0,210.0,hco,glaxosmithkline
+KMS Kongress Management Swiss,Bern,CH,Postfach 7213,,,0.0,2089.4,0.0,0.0,0.0,0.0,2089.4,hco,glaxosmithkline
+Kollegium für Hausarztmedizin (KHM / CMPR),Fribourg,CH,Rue de l'Hôpital 15,,,0.0,11050.05,0.0,0.0,0.0,0.0,11050.05,hco,glaxosmithkline
+LH Medical Management GmbH,Liestal,CH,Postfach 278,,,0.0,3240.0,0.0,0.0,0.0,0.0,3240.0,hco,glaxosmithkline
+Löwenpraxis,Luzern,CH,Zürichstrasse 12,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,glaxosmithkline
+Luzerner Kantonsspital,Luzern 16,CH,Spitalstrasse,,,0.0,2154.0,0.0,0.0,0.0,0.0,2154.0,hco,glaxosmithkline
+MCI Suisse SA,Satigny,CH,Rue du Pré-Bouvier 9,,,29680.56,0.0,0.0,0.0,0.0,0.0,29680.56,hco,glaxosmithkline
+Medbase Romandie SA,Petit-Lancy,CH,Route de Chancy 59c,,,0.0,4800.0,0.0,0.0,0.0,0.0,4800.0,hco,glaxosmithkline
+Médecins de Famille Fribourg,Farvagny,CH,Impasse du Petit-Crêt 3,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,glaxosmithkline
+Médecins de Famille Genève,Genève,CH,Rue du Conseil-Général 11,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,glaxosmithkline
+Medvis GmbH,Zofingen,CH,Weissensteinstrasse 2,,,0.0,51696.0,0.0,0.0,0.0,0.0,51696.0,hco,glaxosmithkline
+mmconsult volante GmbH,Cham,CH,Riedstrasse 1,,,0.0,2700.0,0.0,0.0,0.0,0.0,2700.0,hco,glaxosmithkline
+Monvia AG,Luzern,CH,Neuweg 10,,,0.0,2692.5,0.0,0.0,0.0,0.0,2692.5,hco,glaxosmithkline
+Ordine dei Medici del Canton Ticino,Mezzovico,CH,"Stabile Qui, Via Cantonale 8",,,0.0,1950.0,0.0,0.0,0.0,0.0,1950.0,hco,glaxosmithkline
+Ospedale Malcantonese Fondazione GiuseppeRossi,Castelrotto,CH,(no postal address),,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,glaxosmithkline
+Ospedale Regionale di Lugano,Lugano,CH,Via Tesserete 46,,,0.0,5708.1,0.0,0.0,4961.0,0.0,10669.1,hco,glaxosmithkline
+"pharmaSuisse, SchweizerischerApothekerverband",Liebefeld,CH,Stationsstrasse 12,,,0.0,6462.0,0.0,0.0,0.0,0.0,6462.0,hco,glaxosmithkline
+PizolCare AG,Mels,CH,Flurstrasse 12,,,0.0,5923.5,0.0,0.0,0.0,0.0,5923.5,hco,glaxosmithkline
+Policlinique Médicale Universitaire,Lausanne,CH,Rue du Bugnon 44,,,0.0,30909.9,0.0,0.0,0.0,0.0,30909.9,hco,glaxosmithkline
+PonteNet AG,Solothurn,CH,Rosenweg 2,,,0.0,4038.75,0.0,0.0,0.0,0.0,4038.75,hco,glaxosmithkline
+Quadrimed,Crans-Montana 1,CH,Case postale 299,,,0.0,27778.1,0.0,0.0,0.0,0.0,27778.1,hco,glaxosmithkline
+Réseau des Pédiatres Genevois,Vernier,CH,Route de Vernier 205,,,0.0,9000.0,0.0,0.0,0.0,0.0,9000.0,hco,glaxosmithkline
+Réseau Santé du Balcon du Jura vaudois (RSBJ),Sainte-Croix,CH,Rue des Rosiers 29,,,0.0,1077.0,0.0,0.0,0.0,0.0,1077.0,hco,glaxosmithkline
+Rotpunkt-Pharma AG,Zürich,CH,Mühlebachstrasse 20,,,0.0,12924.0,0.0,0.0,0.0,0.0,12924.0,hco,glaxosmithkline
+Schweizerische Ärztegesellschaft für ManuelleMedizin (SAMM),St. Gallen,CH,Kolumbanstrasse 2,,,0.0,8055.96,0.0,0.0,0.0,0.0,8055.96,hco,glaxosmithkline
+Schweizerische Epilepsie-Liga,Zürich,CH,Seefeldstrasse 84,,,0.0,15000.0,0.0,0.0,0.0,0.0,15000.0,hco,glaxosmithkline
+Schweizerische Gesellschaft für Allergologie undImmunologie,Bern,CH,Scheibenstrasse 14,,,0.0,15896.53,0.0,0.0,0.0,0.0,15896.53,hco,glaxosmithkline
+Schweizerische Gesellschaft für AllgemeineInnere Medizin (SGAIM),Bern,CH,Monbijoustrasse 43,,,0.0,3231.0,0.0,0.0,0.0,0.0,3231.0,hco,glaxosmithkline
+Schweizerische Gesellschaft für Dermatologieund Venerologie (SGDV),Bern,CH,Dalmazirain 11,,,0.0,24926.9,0.0,0.0,0.0,0.0,24926.9,hco,glaxosmithkline
+Schweizerische Gesellschaft für Infektiologie,Bern,CH,Friedbühlstrasse 51,,,0.0,19773.72,0.0,0.0,0.0,0.0,19773.72,hco,glaxosmithkline
+Schweizerische Gesellschaft für Kinderchirurgie(SGKC),Zürich,CH,Birmensdorferstrasse 497,,,0.0,753.9,0.0,0.0,0.0,0.0,753.9,hco,glaxosmithkline
+Schweizerische Gesellschaft für Kinder- undJugendpsychiatrie und - Psychotherapie(SGKJPP),Bern,CH,Altenbergstrasse 29,,,0.0,980.0,0.0,0.0,0.0,0.0,980.0,hco,glaxosmithkline
+Schweizerische Gesellschaft für Pädiatrie,Fribourg,CH,Rue de l'Hôpital 15,,,0.0,6882.0,0.0,0.0,0.0,0.0,6882.0,hco,glaxosmithkline
+Schweizerische Gesellschaft für Pneumologie,Basel,CH,Peter Merian-Strasse 80,,,7500.0,39709.85,0.0,0.0,0.0,0.0,47209.85,hco,glaxosmithkline
+Schweizerische Gesellschaft für Rheumatologie,Zürich,CH,Josefstrasse 92,,,0.0,1357.03,0.0,0.0,0.0,0.0,1357.03,hco,glaxosmithkline
+Schweizerische Gesellschaft für Spitalhygiene,St. Gallen,CH,Rorschacher Strasse 95,,,0.0,19773.72,0.0,0.0,0.0,0.0,19773.72,hco,glaxosmithkline
+Schweizerische Gesellschaft für Urologie (SGU),Montreux,CH,Av. des Planches 5,,,0.0,3877.2,0.0,0.0,0.0,0.0,3877.2,hco,glaxosmithkline
+Schweizerische Gessellschaft für PulmonaleHypertonie (SGPH),Basel,CH,Münsterberg 1,,,0.0,4308.0,0.0,0.0,0.0,0.0,4308.0,hco,glaxosmithkline
+Schweizerischer Verein der Spital- undAmtsapotheker (GSASA),Bern,CH,(no postal address),,,0.0,3231.0,0.0,0.0,0.0,0.0,3231.0,hco,glaxosmithkline
+Schweizerisches Tropen- und Public Health-Institut,Basel,CH,Socinstrasse 57,,,0.0,21886.86,0.0,0.0,0.0,0.0,21886.86,hco,glaxosmithkline
+See-Spital Horgen,Horgen,CH,Asylstrasse 19,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,glaxosmithkline
+SGUM Schweizerische Gesellschaft fürUltraschall in der Medizin,Zürich,CH,Postfach 1816,,,0.0,1920.0,0.0,0.0,0.0,0.0,1920.0,hco,glaxosmithkline
+sida.ch Sàrl c/o Gespower Fiduciaire et ConseilsSA,Sion,CH,Rue de l'Avenir 11,,,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0,hco,glaxosmithkline
+sitem-insel AG,Bern,CH,Schwarztorstrasse 56,,,0.0,0.0,0.0,0.0,1200.0,0.0,1200.0,hco,glaxosmithkline
+Società Svizzera di Medicina Interna Generale delCanton Ticino (SSMIG-TI),Paradiso,CH,Via General Guisan 10,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,glaxosmithkline
+Società Ticinese degli Allergologi e Immunologi,Pregassona,CH,Via alle Vigne 7,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,glaxosmithkline
+Société Médicale de Genève,Genève,CH,Av. de la Roseraie 76,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,glaxosmithkline
+Société Neuchâteloise de Médecine,Couvet,CH,Grand-Rue 36,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,glaxosmithkline
+Société Neuchâteloise de Pédiatrie,Marin,CH,Verger-en-Joran 4,,,0.0,750.0,0.0,0.0,0.0,0.0,750.0,hco,glaxosmithkline
+Solothurner Spitäler AG,Solothurn,CH,Schöngrünstrasse 42,,,0.0,5923.5,0.0,0.0,807.75,0.0,6731.25,hco,glaxosmithkline
+Somnosana GmbH,Hunzenschwil,CH,Birenackerstrasse 13,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hco,glaxosmithkline
+Spital Bülach,Bülach,CH,Spitalstrasse 24,,,0.0,800.0,0.0,0.0,0.0,0.0,800.0,hco,glaxosmithkline
+Spital Herisau Appenzell Ausserrhoden,Herisau,CH,Spitalstrasse 6,,,0.0,1615.5,0.0,0.0,0.0,0.0,1615.5,hco,glaxosmithkline
+Spitalregion Fürstenland Toggenburg SRFT,Wil,CH,Fürstenlandstrasse 32,,,0.0,7332.0,0.0,0.0,0.0,0.0,7332.0,hco,glaxosmithkline
+Spital Schwyz,Schwyz,CH,Waldeggstrasse 10,,,0.0,3231.0,0.0,0.0,750.0,0.0,3981.0,hco,glaxosmithkline
+Spital Thurgau AG,Frauenfeld,CH,Waldeggstrasse 8a,,,0.0,1077.0,0.0,0.0,0.0,0.0,1077.0,hco,glaxosmithkline
+Stiftung meineimpfungen,Gümligen,CH,Mattenstrasse 9,,,0.0,75000.0,0.0,0.0,10000.0,0.0,85000.0,hco,glaxosmithkline
+Stiftung WHM,Bern,CH,Weissenbühlweg 8,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,glaxosmithkline
+SVA-Sektion Innerschweiz,Ballwil,CH,Margarethenstrasse 1,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,glaxosmithkline
+Swiss Academic Foundation for Education inInfectious Diseases (SAFE-ID),Bern,CH,Friedbühlstrasse 51,,,100000.0,30000.0,0.0,0.0,0.0,0.0,130000.0,hco,glaxosmithkline
+Swiss Association of PharmaceuticalProfessionals,Bern,CH,Postfach,,,0.0,1080.0,0.0,0.0,0.0,0.0,1080.0,hco,glaxosmithkline
+Swiss Institute for New Concepts and Treatments(SINCT),Richterswil,CH,Dorfbachstrasse 22,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,glaxosmithkline
+The International Society for BiologicalStandardisation (IABS),Les Acacias-Geneva,CH,Route des Jeunes 9,,,10728.38,0.0,0.0,0.0,0.0,0.0,10728.38,hco,glaxosmithkline
+TopPharm AG,Münchenstein,CH,Grabenackerstrasse 15,,,0.0,8077.5,0.0,0.0,0.0,0.0,8077.5,hco,glaxosmithkline
+Triemlispital,Zürich,CH,Birmensdorferstrasse 497,,,1000.0,2500.0,0.0,0.0,0.0,0.0,3500.0,hco,glaxosmithkline
+Universität Basel Finanzen & Controlling /Drittmittelverwaltung,Basel,CH,Petersgraben 35,,,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0,hco,glaxosmithkline
+"Universität Bern, Berner Institut fürHausarztmedizin (BIHAM)",Bern,CH,Gesellschaftsstrasse 49,,,0.0,2046.3,0.0,0.0,0.0,0.0,2046.3,hco,glaxosmithkline
+"Universität Bern, Institut für Pharmakologie",Bern,CH,Friedbühlstrasse 49,,,0.0,3231.0,0.0,0.0,0.0,0.0,3231.0,hco,glaxosmithkline
+Universitäts-Kinderspital beider Basel (UKBB),Basel,CH,Spitalstrasse 33,,,0.0,2157.0,0.0,0.0,0.0,0.0,2157.0,hco,glaxosmithkline
+Universitätsspital Basel,Basel,CH,Petersgraben 4,,,0.0,32640.4,0.0,0.0,4855.8,0.0,37496.2,hco,glaxosmithkline
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,0.0,22096.5,0.0,0.0,0.0,0.0,22096.5,hco,glaxosmithkline
+Universität Zürich,Zürich,CH,(no postal address),,,15300.0,6240.0,0.0,0.0,0.0,0.0,21540.0,hco,glaxosmithkline
+Verein Berner Haus- und Kinderärztinnen (VBHK),Bern,CH,Effingerstrasse 2,,,0.0,3546.3,0.0,0.0,0.0,0.0,3546.3,hco,glaxosmithkline
+Verein der Pneumologen des Kantons Bern (VPB),Bern,CH,Bremgartenstrasse 117,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,glaxosmithkline
+Vereinigung Allgemeiner und SpezialisierterInternistinnen und Internisten Zürich,Zwillikon,CH,Haldenrain 18,,,0.0,4104.0,0.0,0.0,0.0,0.0,4104.0,hco,glaxosmithkline
+Vereinigung Zürcher Kinder- und Jugendärzte(VZK) - Kinderärzte Zürich,Zürich,CH,Breitingerstrasse 23,,,0.0,2700.0,0.0,0.0,0.0,0.0,2700.0,hco,glaxosmithkline
+Zuger Kantonsspital AG,Baar,CH,Landhausstrasse 11,,,0.0,0.0,0.0,0.0,807.75,0.0,807.75,hco,glaxosmithkline
+Zurich Academy of Internal Medicine (ZAIM),Zürich,CH,Grossmünsterplatz 8,,,0.0,7872.85,0.0,0.0,0.0,0.0,7872.85,hco,glaxosmithkline

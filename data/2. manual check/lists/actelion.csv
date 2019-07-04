@@ -1,0 +1,59 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Aline Stalder Siebeneichler,Basel,CH,Petersgraben 4,,,,,179.0,419.0,,,598.0,hcp,actelion
+Andrew Chan,Bern,CH,Freiburgstrasse,,,,,,98.0,,,98.0,hcp,actelion
+Angela Oxenius,Zürich,CH,Steinwiesstrasse 75,,,,,330.0,490.0,,,820.0,hcp,actelion
+Anna Zortea,Zürich,CH,Rämistrasee 100,,,,,396.0,356.0,,,752.0,hcp,actelion
+Anne Pia Tschacher,Liestal,CH,Rheinstrasse 26,,,,,301.0,1191.0,,,1492.0,hcp,actelion
+Charlotte Berlier,Zürich,CH,Rämistrasse 100,,,,,767.0,610.0,,,1377.0,hcp,actelion
+Cristina Granziera,Basel,CH,Spitalstrasse 21; Petersgraben 4,,,,,,98.0,,,98.0,hcp,actelion
+Daniel Tobler,Basel,CH,Petersgraben 4,,,,,330.0,255.0,,,585.0,hcp,actelion
+Dominik Stambach,St. gallen,CH,Claudiusstrasse 6,,,,,330.0,603.0,,,933.0,hcp,actelion
+Erich Köhler,Liestal,CH,Rheinstrasse 26,,,,,445.0,1191.0,,,1636.0,hcp,actelion
+Esther Irene Schwarz,Zürich,CH,Rämistrasse 100,,,,,472.0,466.0,,,938.0,hcp,actelion
+Francesca Catarina Bonassin Tempesta,Zürich,CH,Rämistrasse 100,,,,,330.0,603.0,,,933.0,hcp,actelion
+Gabriella De Pasquale,Zürich,CH,Birmensdorferstrasse 497,,,,,330.0,490.0,,,820.0,hcp,actelion
+Gregoire Gex,Crans-montana,CH,Centre Valaisan de Pneumologie,,,,,445.0,1069.0,,,1514.0,hcp,actelion
+Györik Sandor,Bellinzona,CH,Via Ospedale,,,,,445.0,1209.0,,,1654.0,hcp,actelion
+Isabelle Frésard,Geneva,CH,Rue Gabrielle-Perret-Gentil 4,,,,,445.0,874.0,,,1319.0,hcp,actelion
+Jaime Bosch,Bern,CH,Thunstrasse 71,,,,,,,850.0,,850.0,hcp,actelion
+Ludwig Achim Kappos,Basel,CH,Petersgraben 4,,,,,,,3500.0,155.16,3655.16,hcp,actelion
+Luzia Baumeler,Liestal,CH,Rheinstrasse 26,,,,,301.0,1191.0,,,1492.0,hcp,actelion
+Manuela Diederich,Kaiseraugst,CH,Auf der Schanz 51 Petersgraben 4,,,,,,687.94,,,687.94,hcp,actelion
+Matthias Greutmann,Zürich,CH,Rämistr. 100,,,,,330.0,603.0,,,933.0,hcp,actelion
+Matthias Possner,Zürich,CH,Rämistrasse 100,,,,,1080.0,680.0,,,1760.0,hcp,actelion
+Michael Buslau,Rheinfelden,CH,Salinenstrasse 98,,,,,594.0,676.0,,,1270.0,hcp,actelion
+Mirjam Rhyner,Basel,CH,Universitätsspital Basel; Petersgraben 4Neurological Policlinic,,,,,,681.38,,,681.38,hcp,actelion
+René Fiechter,Wetzikon,CH,Spitalstrasse 66,,,,,445.0,1191.0,,,1636.0,hcp,actelion
+Sebastian Ott,Bern,CH,Freiburgstrasse 18,,,,,,992.0,,,992.0,hcp,actelion
+Silvia Ulrich Somaini,Zürich,CH,"Rämistrasse 100,Departement Innere Medizin",,,,,767.0,1444.0,1500.0,,3711.0,hcp,actelion
+Simon Martin Frey,Basel,CH,Petersgraben 4,,,,,179.0,419.0,,,598.0,hcp,actelion
+Simone Braun,Winterthur,CH,Brauerstrasse 15,,,,,624.0,1410.0,,,2034.0,hcp,actelion
+Stephan Gasser,Baar,CH,Landhausstrasse 11,,,,,445.0,1215.0,,,1660.0,hcp,actelion
+Susanne Louise Pohle,St. gallen,CH,Rorschacher Strasse 95,,,,,149.0,340.0,,,489.0,hcp,actelion
+Tobias Daniel Herren,Zürich,CH,Witellikerstrasse 40,,,,,445.0,1191.0,,,1636.0,hcp,actelion
+Vladimir Popov,Zürich,CH,Witellikerstrasse 40,,,,,472.0,517.0,,,989.0,hcp,actelion
+Association Conférence de pneumologie,Martigny,CH,Rue des Morasses 4,,,,1500.0,,,,,1500.0,hco,actelion
+CHUV,Lausanne,CH,Rue du Bugnon 46,,,21250.0,33437.09,5537.0,6678.0,,,66902.09,hco,actelion
+Ente  Ospedalie ro Ca nt onale(EO C),Bellinzona,CH,Viale Officina 3,,,,6500.0,,,,,6500.0,hco,actelion
+cardiologie universitaire de geneve,Geneva,CH,Rue Gabrielle Perret-Gentil 4,,,,500.0,,,,,500.0,hco,actelion
+Groupe des Pneumologues Genevois,Geneva,CH,Rue Alfred-Vincent 17,,,,2000.0,,,,,2000.0,hco,actelion
+HerzGefässZentrum Zürich,Zürich,CH,Seestrasse 220,,,,1000.0,,,,,1000.0,hco,actelion
+Hôpitaux Universitaires Genève,Geneva,CH,Rue Gabrielle Perret-Gentil 4,,,37000.0,,,,,,37000.0,hco,actelion
+Insel Gruppe AG; Stiftungen und Fonds,Bern,CH,Freiburgstrasse 18,,,16000.0,21900.0,3277.0,3996.0,,,45173.0,hco,actelion
+Kantonsspital St. Gallen,St. gallen,CH,Rorschacherstrasse 95,,,,23000.0,1361.0,2054.0,,,26415.0,hco,actelion
+Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,66000.0,4000.0,,,,,70000.0,hco,actelion
+La Permanence d'Y Parc,Yverdon-les-bains,CH,Avenue des Sciences 2,,,,800.0,,,,,800.0,hco,actelion
+Lega Polmonare Ticinese,Lugano,CH,Via alla Campagna 9,,,12000.0,,,,,,12000.0,hco,actelion
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,5000.0,,944.0,1034.0,,,6978.0,hco,actelion
+Reha Rheinfelden,Rheinfelden,CH,Salinenstrasse 98,,,,1500.0,,,,,1500.0,hco,actelion
+Schweizerische G esellschaft fü r P neumologi e,Bern,CH,Südbahnhofstrasse 14,,,7180.0,,,,,,7180.0,hco,actelion
+Hyperton,Basel,CH,Münsterberg 1,,,11000.0,60000.0,,,,,71000.0,hco,actelion
+Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,,2500.0,,,,,2500.0,hco,actelion
+Stiftung für Parkinsonforschung,Bern,CH,c/o Universitätsklinik für Neurologie,,,,12000.0,,,,,12000.0,hco,actelion
+Swiss Fed. of Clin. Neuro-Soc. (SFCNS),Basel,CH,Münsterberg 1,,,5000.0,,,,,,5000.0,hco,actelion
+Universität Basel,Basel,CH,Petersplatz 1,,,5000.0,,,,,,5000.0,hco,actelion
+Universität Zürich,Zürich,CH,Gloriastrasse 25,,,21000.0,,,,,,21000.0,hco,actelion
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,42000.0,,,,,,42000.0,hco,actelion
+Universitätsspital Basel; Departement Biomedizin,Basel,CH,Hebelstrasse 20,,,,2500.0,,,,,2500.0,hco,actelion
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,10984.45,4500.0,,,,,15484.45,hco,actelion
+Verein GUCH Schweiz,Basel,CH,Langen Gasse 78,,,4000.0,,,,,,4000.0,hco,actelion

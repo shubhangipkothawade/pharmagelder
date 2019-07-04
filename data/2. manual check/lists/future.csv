@@ -1,0 +1,54 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Imene Abdelli,La,CH,Rue de Chasseral 20,,,,,570.59,1254.1,,,1824.69,hcp,future
+Kwadwo Antwi,Basel,CH,Petersgraben 4,,7601003357066,,,,128.9,,,128.9,hcp,future
+Birsen Arici,Liestal,CH,Rathausstrasse 24,,7601000718198,,,739.22,800.75,,,1539.97,hcp,future
+Felix Beuschlein,Zürich,CH,Rämistrasse 100,,7601003912746,,,,147.74,,,147.74,hcp,future
+Tarek Boussaha,Montreux,CH,Avenue du Casino 40,,7601003378481,,,,,700.0,,700.0,hcp,future
+Mirjam Christ‐Crain,Basel,CH,,,7601000625311,,,,,4734.77,1106.92,5841.69,hcp,future
+Sara De Dosso,Bellinzona,CH,Via Ospedale Ospedale San,,7601000838483,,,465.6,812.3,,,1277.9,hcp,future
+Donat Dürr,Baar,CH,Landhausstrasse 11,,7601000708434,,,1426.48,954.6,,,2381.08,hcp,future
+Regina Fretz,Aarau,CH,Tellstrasse 25,,7601003385212,,,1426.48,887.88,,,2314.36,hcp,future
+Wiebke Gulden‐Sala,Locarno,CH,Via all'Ospedale 1,,7601000924575,,,1426.48,,,,1426.48,hcp,future
+Thibaud Koessler,Genève,CH,Rue,,7601000872197,,,413.48,751.2,,,1164.68,hcp,future
+Ilaria Lucca,Lausanne,CH,Rue Du Bugnon 21,,7601003470154,,,144.69,655.37,,,800.06,hcp,future
+Maurice Matter,Lausanne,CH,Rue du Bugnon 46 Service,,7601000011985,,,465.6,610.23,,,1075.83,hcp,future
+Oreste Mora,Mendrisio,CH,via Luigi Lavizzari 8,,7601000513014,,,915.73,2370.69,,,3286.42,hcp,future
+Julia Müllner,Bern,CH,Freiburgstrasse 18,,7601000894960,,,277.36,,,,277.36,hcp,future
+Bá Thanh‐Trúc Ngô,Basel,CH,Lukas,,,,,,198.16,,,198.16,hcp,future
+Vojtech Pavlicek,Münsterlingen,CH,Spitalcampus 1,,7601000468628,,,756.74,4770.38,,,5527.12,hcp,future
+Brigitte Rodinger,Basel,CH,,,,,,,210.84,,,210.84,hcp,future
+Beat Roth,Bern,CH,Anna Seiler‐Haus,,7601000490988,,,,,1870.0,90.0,1960.0,hcp,future
+Natalia Rudovich,Bülach,CH,Spitalstrasse 24,,7601003835465,,,739.22,993.77,,,1732.99,hcp,future
+Mercedes Samira Sadowski,Genève,CH,Rue,,7601000520661,,,465.6,450.46,,,916.06,hcp,future
+Christine Schmid,Uster,CH,Brunnenstrasse 42,,7601000778796,,,,98.86,,,98.86,hcp,future
+Christoph Schmid,Zürich,CH,Rämistrasse 100,,7601000226501,,,,336.97,,,336.97,hcp,future
+Hans‐Peter Schmid,St. Gallen,CH,Rorschacher Strasse 95,,7601000122711,,,,,1870.0,81.0,1951.0,hcp,future
+Tullio Sulser,Zürich,CH,Frauenklinikstra sse 10,,7601000227263,,,,,1870.0,,1870.0,hcp,future
+Isabelle Suter,Wolhusen,CH,Spitalstrasse 50,,7601000522009,,,1462.79,250.47,,,1713.26,hcp,future
+Amineh Troendle,Bern,CH,Bremgartenstrass e 119,,7601000080646,,,,256.45,,,256.45,hcp,future
+Oliver Tschopp,Zürich,CH,Rämistrasse 100,,7601000631909,,,1600.72,5473.94,,,7074.66,hcp,future
+Marco Varini,Lugano,CH,Via Antonio Fogazzaro 3,,7601000186461,,,80.24,5462.44,,,5542.68,hcp,future
+Philippe von Burg,Solothurn,CH,Schöngrünstrasse 38,,7601000715722,,,,,1737.22,,1737.22,hcp,future
+CHUV,Lausanne,CH,Rue Du Bugnon 21,,7601002074803,,8769.72,1215.02,1664.67,4012.09,,15661.5,hco,future
+COALAT / Anesthesiology CHUV,Lausanne,CH,Rue du Bugnon 46 BH10‐ 315/Serv.,,,,5777.21,,,,,5950.72,hco,future
+Ente Ospedaliero Cantonale (EOC),Bellinzona,CH,Viale Officina 3,,7601002095099,,2000.0,,,,,2000.0,hco,future
+Fondation CCAC SA,Lausanne,CH,Avenue Vinet 19b,,,,1000.0,,,,,1000.0,hco,future
+Fondation du CCAC,Lausanne,CH,Avenue,,,,1000.0,,,,,1000.0,hco,future
+"Hôpital du Jura, Porrentruy",Porrentruy,CH,Chemin de l'Hôpital 9,,7601002114783,,,,,3159.59,,3159.59,hco,future
+Hôpital du Valais,Sion,CH,Avenue,,7601002004138,,250.0,465.6,783.88,,,1499.48,hco,future
+Hormon Zentrum Zürich ‐ SPE,Zürich,CH,Witellikerstrass e 36,,,,1000.0,,,,,1000.0,hco,future
+Inselspital Bern,Bern,CH,Freiburgstrasse 18,,7601002001724,25000.0,4000.0,931.2,2600.79,8000.0,,40531.99,hco,future
+Kantonsspital Frauenfeld,Frauenfeld,CH,Pfaffenholzstras se 4,,7601002000185,,538.5,,,,,538.5,hco,future
+Kantonsspital Graubünden,Chur,CH,Loestrasse 170,,7601002125758,,1749.11,,,,,1749.11,hco,future
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,7601002000208,,1615.5,,,1737.24,,3352.74,hco,future
+Klinik Hirslanden AG,Zürich,CH,Witellikerstrass e 40,,7601002087254,,3309.04,,,,,3309.04,hco,future
+Luzerner Kantonsspital Luzern,Luzern,CH,Spitalstrasse,,7601002001120,,1500.0,,,,,1500.0,hco,future
+Ospedale Bellinzona e Valli EOC ‐ IOR,Bellinzona,CH,Via Vincenzo Vela 6 Ospedale San Giovanni,,,,,,,500.0,,500.0,hco,future
+SAKK Koordinationszen trum,Bern,CH,Effingerstrasse 33,,,,11000.0,,,,,11000.0,hco,future
+SAMO ‐ Geschäftsstelle,Bern,CH,Effingerstrasse 40 c/o IBCSG Coordinating,,,,21232.13,,,,,21232.13,hco,future
+SGED‐SSED,Baden,CH,Rütistrasse 3A c/o,,,,10000.0,,,,,10000.0,hco,future
+St.Gallen Oncology Conferences,St. Gallen,CH,Rorschacher Strasse 150 c/o Tumor‐ u. Brustzentrum,,,,1500.0,,,,,1500.0,hco,future
+Stift für wiss.Forschung Triemli,Zürich,CH,Birmensdorferstr asse 497 Stadtspital Triemli,,,,1794.07,,,,,1794.07,hco,future
+SWIRO,Wettingen,CH,Hardstrasse 40C,,,,588.14,,,,,588.14,hco,future
+Universitätsspit al Basel,Basel,CH,Spitalstrasse 21,,7601002117142,,11500.0,3989.94,13405.01,3441.21,501.73,32837.89,hco,future
+UniversitätsSpit al Zürich,Zürich,CH,Rämistrasse 100,,7601002117135,,8468.95,,,,,8468.95,hco,future

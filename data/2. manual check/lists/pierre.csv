@@ -1,0 +1,96 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Nadim Abo Youssef,Winterthur,CH,Brauerstrasse 15,,,,,289.4,603.89,,,893.29,hcp,pierre
+Gabriela Amstad-Bencaiova,Basel,CH,Spitalstrasse 21,,7601000754363,,,,,800.0,,800.0,hcp,pierre
+Peter Bartel,Sursee,CH,Buchenstrasse 4,,7601000904911,,,146.62,498.36,,,644.98,hcp,pierre
+Frank Bieringer,Grosswangen,CH,Eduard Huberstrasse 1,,7601000773210,,,333.15,537.47,,,870.62,hcp,pierre
+Andrea Braga,Mendrisio,CH,Via Alfonso Turconi 23 OBV - Ospedale Beata Vergine,,7601003408614,,,243.43,386.92,,,630.35,hcp,pierre
+Giorgio Caccia,Mendrisio,CH,Via Alfonso Turconi 23 OBV - Ospedale Beata Vergine,,7601000018533,,,357.54,337.47,,,695.01,hcp,pierre
+Roberto Carando,Minusio,CH,Via San Gottardo 56,,7601000884480,,,862.81,1496.47,,,2359.28,hcp,pierre
+Elena Cattoni,Lugano,CH,Palazzo della Stazione,,7601003328219,,,357.54,,,,357.54,hcp,pierre
+Kyriaki Chatziioannidou,Genève,CH,Boulevard de la Cluse 30,,7601000982018,,,357.54,538.38,,,895.92,hcp,pierre
+Giovanni De Luca,Sorengo,CH,Via Sant'Anna 1,,7601000828965,,,357.54,418.36,,,775.9,hcp,pierre
+Martin Deckers,Kaiseraugst,CH,Tränkgasse 5,,7601000775559,,,357.54,634.98,,,992.52,hcp,pierre
+Ahmet Rasim Dervisoglu,Basel,CH,Steinenvorstadt 75,,7601000117885,,,333.15,530.23,,,863.38,hcp,pierre
+Andreas Deuble,Unteriberg,CH,Waagtalstrasse 9b,,7601000908803,,,,321.25,,,321.25,hcp,pierre
+Marcello di Serio,Martigny,CH,Avenue De La Fusion 27 Hôpital Régional de Martigny,,7601000995124,,,357.54,563.7,,,921.24,hcp,pierre
+Markus Dubach,Basel,CH,Rütimeyerplatz 9,,7601000121073,,,333.15,652.73,,,985.88,hcp,pierre
+Nicole Ebinger Mundorff,Binningen,CH,Hauptstrasse 129,,7601000752994,,,254.67,740.4,,,995.07,hcp,pierre
+Daniel Alexander Emmerich,Winterthur,CH,Kirchplatz 1,,7601003379419,,,258.53,603.88,,,862.41,hcp,pierre
+Conrad Frei,Hausen AG,CH,Hauptstrasse 40,,7601000160027,,,333.15,412.72,,,745.87,hcp,pierre
+Jürgen Geywitz,Grenchen,CH,Wissbächlistrass e 48,,7601000772084,,,391.93,537.47,,,929.4,hcp,pierre
+Angelica Grasso,Mendrisio,CH,Via Alfonso Turconi 23 OBV - Ospedale Beata Vergine,,7601003999761,,,357.54,,,,357.54,hcp,pierre
+Beat Grossenbacher,Erlen,CH,Schöntalstrasse 2,,7601000244451,,,333.15,509.12,,,842.27,hcp,pierre
+Martin Gürtler,Allschwil,CH,Baslerstrasse 126,,7601000134431,,,333.15,652.73,,,985.88,hcp,pierre
+Silke Henzen-Bücking,Sevelen,CH,Velturrietstrass e 5,,7601000531971,,,333.15,631.81,,,964.96,hcp,pierre
+Robert Hunger,Kehrsatz,CH,Sandbühlstrasse 24,,,,,,,1800.0,,1800.0,hcp,pierre
+Reto Kälin,Neukirch (Egnach),CH,Bahnhofstrasse 62,,7601000239532,,,333.15,413.92,,,747.07,hcp,pierre
+Alfons Loher,St. Gallen,CH,Vadianstrasse 59,,7601000264039,,,333.14,616.14,,,949.28,hcp,pierre
+Rudolf Louma,Bern,CH,Südbahnhofstrass e 2,,7601000083395,,,333.15,585.94,,,919.09,hcp,pierre
+Frederich Maiorovici,Tafers,CH,Maggenberg 1,,7601000789365,,,357.54,592.62,,,950.16,hcp,pierre
+Dejan Maric,Brugg AG,CH,Fröhlichstrasse 51,,7601000735522,,,333.15,417.52,,,750.67,hcp,pierre
+Manuel Mariotta,Meyriez,CH,Chemin De L'église 20,,7601000414397,,,357.54,514.8,,,872.34,hcp,pierre
+Rüdiger Mascus,Baden,CH,Im Ergel 1,,7601000997319,,,243.43,668.26,,,911.69,hcp,pierre
+Mark Meier,St. Gallen,CH,Brauerstrasse 95a Gesundheitszentr um,,7601000533555,,,726.48,1263.89,,,1990.37,hcp,pierre
+Tobias Metzger,Thun,CH,Krankenhausstras se 12,,7601000760104,,,146.62,567.13,,,713.75,hcp,pierre
+Roberto Pasqualetti,Bellinzona,CH,Via Mirasole 1,,7601000167453,,,243.43,378.54,,,621.97,hcp,pierre
+Stefan Preusser,Schaffhausen,CH,Geissbergstrasse 81,,7601000716712,,,691.42,1116.04,,,1807.46,hcp,pierre
+Damien Robyr,Pully,CH,Chemin des Osches 15,,7601000747808,,,243.43,345.47,,,588.9,hcp,pierre
+Ulla Sammer,Thun,CH,Krankenhausstras se 12,,7601000961365,,,355.0,611.56,,,966.56,hcp,pierre
+Andreas Sauer,Aarau,CH,Tellstrasse 25 Haus 1,,7601003331745,,,895.92,1295.91,,,2191.83,hcp,pierre
+Peter Sauermann,Zürich,CH,Tièchestrasse 99,,7601000538970,,,691.42,1291.95,,,1983.37,hcp,pierre
+Ruppert Schmitt,Aesch BL,CH,Jurastrasse 1,,7601000721914,,,333.15,631.81,,,964.96,hcp,pierre
+Thomas Arnold Schneider,Basel,CH,Riehenstrasse 167,,7601000133663,,,,750.71,,,750.71,hcp,pierre
+Christopher Schultz,Spiez,CH,Schoneggstrasse 21,,7601000860538,,,765.43,1339.74,,,2105.17,hcp,pierre
+Leander Vinzent Schürch,Thun,CH,Krankenhausstras se 12,,7601000370785,,,150.48,620.54,,,771.02,hcp,pierre
+Urs Schwyzer,Ittigen,CH,Worblentalstrass e 99,,7601000087744,,,333.15,474.58,,,807.73,hcp,pierre
+Viktor Schyrba,Rorschach,CH,Heidenerstrasse 7,,7601000835246,,,243.43,700.64,,,944.07,hcp,pierre
+Pascal Talla,Neuchâtel,CH,Rue De La Maladière 45,,7601000765529,,,,89.11,,,89.11,hcp,pierre
+Christopher David Tschung,Aarau,CH,Tellstrasse 25 Haus 1,,7601000977151,,,185.21,606.28,,,791.49,hcp,pierre
+Claudius Uehlinger,Wasen im Emmental,CH,Dorfstrasse 23,,7601000152909,,,333.15,512.54,,,845.69,hcp,pierre
+Sanjeev Vamadevan,Lausanne,CH,Rue Du Bugnon 21,,7601000915320,,,895.92,1206.54,,,2102.46,hcp,pierre
+Ärztenetzwerk Grauholz,Ittigen,CH,Worblentalstrass e 99,,,,2000.0,,,,,2000.0,hco,pierre
+Association d'Aesculape,Lutry,CH,Rue Verdaine 8a c/o Dr Reymond Thierry,,,,1250.0,,,,,1250.0,hco,pierre
+Associazione MMM,Minusio,CH,Via Cadogno 1 Residenza Cadogno,,,,2000.0,,,,,2000.0,hco,pierre
+BBS Congress GmbH,Bern,CH,Rabbentalstrasse 83,,,,2550.0,,,,,2550.0,hco,pierre
+BV Congress Creating GmbH,Gossau ZH,CH,Industriestrasse 37,,,,4750.0,,,,,4750.0,hco,pierre
+CHUV - Centre du sein,Lausanne,CH,Avenue Pierre-Decker 2,,,,,696.38,,,,696.38,hco,pierre
+Congrex Switzerland Ltd,Basel,CH,Peter Merian-strasse 80,,,,5000.0,,,,,5000.0,hco,pierre
+DEFEO,Piacenza,CH,Via San Giovanni,,,,895.92,,,,,895.92,hco,pierre
+energy of events,Rotkreuz,CH,Lindenmatt 34,,,,3800.0,,,,,3800.0,hco,pierre
+Gesundheitszentr um Fricktal AG,Laufenburg,CH,Spitalstrasse 10,,7601002001236,,800.0,,,,,800.0,hco,pierre
+GMF - Ticino,Giubiasco,CH,,,,,3300.0,,,,,3300.0,hco,pierre
+Hôpitaux Universitaires Genève - Clinique de Gynécologie,Genève,CH,Boulevard de la Cluse 30,,,,600.0,,,,,600.0,hco,pierre
+IMK AG,Basel,CH,Münsterberg 1,,,,3600.0,,,,,3600.0,hco,pierre
+Inselspital Bern,Bern,CH,Freiburgstrasse 18,,7601002001724,,500.0,,,2100.0,,2600.0,hco,pierre
+Inselspital Bern - Klinik für Frauenheilkunde,Bern,CH,Friedbühlstrasse 19 Theodor-Kocher-H aus,,7601002005296,,1940.0,,,,,1940.0,hco,pierre
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,7601002001137,,3800.0,,,,,3800.0,hco,pierre
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstras se 95,,7601002000208,,1500.0,,,1400.0,,2900.0,hco,pierre
+Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,,7601002114943,,,1500.0,,,,1500.0,hco,pierre
+Kantonsspital Winterthur - Urologische Klinik,Winterthur,CH,Brauerstrasse 15,,,,2500.0,,,,,2500.0,hco,pierre
+KMS KongressManageme ntSwiss,Bern,CH,,,,,3965.0,,,,,3965.0,hco,pierre
+Luzerner Kantonsspital Sursee,Sursee,CH,Spitalstrasse 16a,,7601002003056,,1000.0,,,,,1000.0,hco,pierre
+Médecine et Hygiène,Chêne-Bourg,CH,Chemin de la Mousse 46,,,,2270.0,,,,,2270.0,hco,pierre
+Médecins de Famille Genève,Genève,CH,Chemin de Beau-Soleil 22 c/o Dr Jean-Louis Gay,,,,1000.0,,,,,1000.0,hco,pierre
+Medworld AG,Steinhausen,CH,Sennweidstrasse 46,,,,1620.0,,,,,1620.0,hco,pierre
+Meeting.com Sàrl,Cheseaux-sur-Lau sanne,CH,Rue des Pâquis 1,,,,7910.0,,,,,7910.0,hco,pierre
+mmconsult volante GmbH,Cham,CH,Riedstrasse 1,,,,2500.0,,,,,2500.0,hco,pierre
+Onkologiepflege Schweiz,Kleinandelfingen,CH,Hirstigstrasse 13,,,,,1875.0,,,,1875.0,hco,pierre
+Ospedale Bellinzona e Valli EOC - IOSI,Bellinzona,CH,Via Ospedale Ospedale San Giovanni,,7601001372986,,1000.0,,,,,1000.0,hco,pierre
+Ospedale Regionale di Lugano EOC,Lugano,CH,Via Tesserete 46,,7601002000529,,1728.0,,,,,1728.0,hco,pierre
+Ospedale Regionale di Mendrisio - Medicina Interna,Mendrisio,CH,Via Alfonso Turconi 23 OBV - Ospedale Beata Vergine,,,,600.0,,,,,600.0,hco,pierre
+Quadrimed,Crans-Montana,CH,Case Postale 299 ATT. Mme Elvire Crettol,,,,5055.0,,,,,5055.0,hco,pierre
+Qualitätszirkel Ärzte Niederamt,Lostorf,CH,Stüsslingerstras se 16,,,,1200.0,,,,,1200.0,hco,pierre
+REMED Genève,Genève,CH,Chemin de Beau-Soleil 22,,,,1000.0,,,,,1000.0,hco,pierre
+SAKK Koordinationszen trum,Bern,CH,Effingerstrasse 33,,,,5000.0,,,,,5000.0,hco,pierre
+SAMO - Geschäftsstelle,Bern,CH,Effingerstrasse 40 c/o IBCSG Coordinating Center,,,,2706.97,1500.0,,,,4206.97,hco,pierre
+See-Spital Horgen,Horgen,CH,Asylstrasse 19,,7601002107938,,500.0,,,,,500.0,hco,pierre
+SINCT,Richterswil,CH,Dorfbachstrasse 22,,,,1500.0,,,,,1500.0,hco,pierre
+Spital Linth,Uznach,CH,Gasterstrasse 25,,7601002003407,,2000.0,,,,,2000.0,hco,pierre
+Studio  Scatizza Andrea,Lugano,CH,Via Pretorio 5,,,,1500.0,,,,,1500.0,hco,pierre
+Swiss Continence Foundation,Bern,CH,Marktgasse 38,,,,10000.0,,,,,10000.0,hco,pierre
+Trägerverein Swiss Oncology,Zürich,CH,Bahnhofplatz 4 c/o Pro Medicus GmbH,,,,5000.0,,,,,5000.0,hco,pierre
+Universitätsspit al Basel,Basel,CH,Spitalstrasse 21,,7601002117142,,17500.0,,,,,17500.0,hco,pierre
+Universitätsspit al Basel - Frauenklinik,Basel,CH,Spitalstrasse 21,,,,1040.0,,,,,1040.0,hco,pierre
+UniversitätsSpit al Zürich,Zürich,CH,Rämistrasse 100,,7601002117135,,4321.1,,,,,4321.1,hco,pierre
+Verein Lunge Zürich,Zürich,CH,Pfingstweidstras se 10,,,,3540.0,,,,,3540.0,hco,pierre
+Zeller Medical,Romanshorn,CH,Seeblickstrasse 4,,7601001301269,,1500.0,,,,,1500.0,hco,pierre
