@@ -1,3 +1,24 @@
+#%% [markdown]
+# # Download Spreadsheets
+# This script downloads all Spreadsheets, saves them to the corresponding folder and push it to git. The spreadsheet-ID has to be in the spreadsheet_connections-list: https://docs.google.com/spreadsheets/d/1nla4bvR16WsYxBt--I1qBRqEaLZn1yNXA6gFV79qRjQ/edit#gid=0
+#   
+# **The get the spreadsheet-id, open the spreadsheet and:**
+# * Datei (file)
+# * Im Web veröffentlichen (publish to the web)
+# * Chose the corresponding sheet and "csv"
+# * copy the url
+# 
+# The spreadsheet_connection-list must look like this:
+# 
+# name | list | accumulation
+# --- | --- | ---
+# name of company | id of list | id of accumulation
+# Example | --- | ---
+# abbvie | url | url
+#%% [markdown]
+# ## Import
+
+#%%
 import pandas as pd
 import urllib.request
 import numpy as np
@@ -5,19 +26,29 @@ import os
 import sys
 import git
 
+#%% [markdown]
+# ## Consts
+
+#%%
 #URL to the connection spreadsheet
-ID_CONNECTION_SHEET = '2PACX-1vQO6w43ux3cONNFWW5o6aEX08bLhQJ6imIZUm6It4fMf_cMGfCWO3npNXe5uGAQCHj19jXACtclnfza'
+ID_CONNECTION_SHEET = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRx-RzsYDkSG-j-xwea5TrfRc8k2_l-U6DwvbY9apc_dv1DXq4CWpElKIYRulcRtw18tla_P7Br3EoG/pub?gid=0&single=true&output=csv'
 EXPORT_FOLDER = '/data/python/pharmagelder/repo/data/2. manual check/%s/'
 GIT_REPOSITORY = '/data/python/pharmagelder//repo'
 GIT_COMMIT_DETECTION = '/data/python/pharmagelder/repo/data/2. manual check/*.csv'
 
 #Templates
-SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/%s/pub?output=csv'
+#SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/%s/pub?output=csv'
 
+
+#%%
 def log(value):
     #display(Markdown(value))
     print(value)
 
+#%% [markdown]
+# ## Sync folder
+
+#%%
 #Init repo
 repo = git.Repo(GIT_REPOSITORY)
 
@@ -26,15 +57,19 @@ log("Pull from git")
 #repo.remotes.origin.fetch()
 repo.git.pull()
 
+
+#%%
 #Load Connection Sheet
 log("Download Connection-Sheet")
-df = pd.read_csv(SHEET_URL % ID_CONNECTION_SHEET)
+df = pd.read_csv(ID_CONNECTION_SHEET)
 df = df.fillna("")
 
+
+#%%
 def load_file(_id, _name, _subfolder):
     ullfilename = os.path.join(EXPORT_FOLDER % _subfolder, _name + '.csv')
     try:
-        urllib.request.urlretrieve(SHEET_URL % _id, ullfilename)
+        urllib.request.urlretrieve(_id, ullfilename)
     except Exception as e:
         log("==> Error downloading file %s" % ullfilename)
         print(e)
@@ -58,6 +93,10 @@ for index, row in df.iterrows():
       
 log("Data synced")
 
+#%% [markdown]
+# ## Push git
+
+#%%
 #Push everything to git
 log("Try to comming")
 repo.git.add(GIT_COMMIT_DETECTION)
@@ -70,3 +109,9 @@ else:
 del repo
 
 log("Everything done")
+
+
+#%%
+
+
+
