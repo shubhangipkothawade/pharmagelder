@@ -1,0 +1,33 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Bodo Grahlke,Richterswil,CH,Seestraße,8805,,,,,487.09,865.13,,1352.22,hcp,biotest
+Dutkoswki,Zürich,CH,Rämistrasse 100,8091,,,,,879.75,,,879.75,hcp,biotest
+Florian Hildenbrand,Zürich,CH,Rämistrasse 100,8091,,,,139.2,508.75,,,647.95,hcp,biotest
+Xavier Müller,Zürich,CH,Sternenwartstrasse 14,8091,,,,139.2,544.3,,,683.5,hcp,biotest
+ADVISIS AG / HUG Consulting,Bern,CH,Effingerstrasse 5,3008,,,9600.0,,,,,9600.0,hco,biotest
+aha! Allergiezentrum Schweiz,Bern 22,CH,Scheibenstrasse 20,3000,,,1700.0,,,,,1700.0,hco,biotest
+CHUV Centre Hospitalier,Lausanne,CH,Rue de Bugnon 21,1011,,,5000.0,,,,,5000.0,hco,biotest
+Congrex Switzerland LTD,Basel,CH,Peter-Merian-Strasse,4002,,,15945.35,,,,,15945.35,hco,biotest
+Fondazione Epatocentro Ticino,Lugano,CH,via Soldino 5,6900,,,5000.0,,,,,5000.0,hco,biotest
+Forschungsstiftung Klinik Hirslanden,Glattpark,CH,Boulevard Lilienthal 2,8152,,,2500.0,,,,,2500.0,hco,biotest
+Foundation for Research in Parkinson & Movement Disorders,Bern,CH,Freiburgstrasse 18,3010,,,4000.0,,,,,4000.0,hco,biotest
+GSASA Schweizer Verein,Bern,CH,,3000,,,22000.0,,,,,22000.0,hco,biotest
+Hepatitis Schweiz,Zürich,CH,Konradstrasse 32,8005,,,5000.0,,,,,5000.0,hco,biotest
+HFR Hôpital fribourgeois Clinique de pédiatrie,Fribourg,CH,Case postale,1708,,,3000.0,,,,,3000.0,hco,biotest
+HUG Hôpitaux Universitaires,Genève,CH,"4, rue Gabrielle Perret-Gentil",1205,,,500.0,,,,,500.0,hco,biotest
+Inselspital Bern Neurologie,Bern,CH,Freiburgstrasse 18,3010,,,18000.0,,,,,18000.0,hco,biotest
+Inselspital Bern Hämatologie,Bern,CH,Freiburgstrasse 18,3010,,,500.0,,,,,500.0,hco,biotest
+"Inselspital Bern Rheumatologie, Immunologie & Allergologie",Bern,CH,Freiburgstrasse 18,3010,,,10700.0,,,,,10700.0,hco,biotest
+Inselspital Bern Viszerale Chirurgie,Bern,CH,Freiburgstrasse 18,3010,,,3500.0,,,,,3500.0,hco,biotest
+Inselspital Bern Dermatologie,Bern,CH,Freiburgstrasse 18,3010,,,6000.0,,,,,6000.0,hco,biotest
+IOSI Instituto Oncologico della Svizzera Italiana,Bellinzona,CH,Via Ospedale,6500,,,500.0,,,,,500.0,hco,biotest
+Kinderärzte Schweiz,Zürich,CH,Badenerstrasse 21,8004,,,1200.0,,,,,1200.0,hco,biotest
+Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,8032,,,1500.0,,,,,1500.0,hco,biotest
+LGID Foundation,Zürich,CH,Seehofstrasse 4,8008,,,14000.0,,,,,14000.0,hco,biotest
+Schweiz. Gesellschaft für Allergologie und Immunologie,Bern 22,CH,Scheibenstrasse 20,3000,,,24040.0,,,,,24040.0,hco,biotest
+Schweiz. Hämophilie-Gesellschaft,Altstätten,CH,Mühlibachstrasse 5,9450,,,16000.0,,,,,16000.0,hco,biotest
+SCOPE,Zürich,CH,Gloriastrasse 31,8050,,,500.0,,,,,500.0,hco,biotest
+SHN Swiss hemophilia network,Zürich,CH,Steinwiesstrasse 75,8032,,,10000.0,,,,,10000.0,hco,biotest
+Swiss Institute for new,Richterswil,CH,Dorfbachstrasse 22,8805,,,3000.0,,,,,3000.0,hco,biotest
+UniSpital ZH Klinik für Viszeral- & Transplantationschirurgie,Zürich,CH,Rämistrasse 100,8091,,,3000.0,,,,,3000.0,hco,biotest
+Universitäts-Spital Zürich Klinik für Dermatologie,Zürich,CH,Rämistrasse 100,8091,,,6500.0,,,,,6500.0,hco,biotest
+Verein GYNeLEARNING,Zürich,CH,Frauenklinikstrasse 10,8006,,,1000.0,,,,,1000.0,hco,biotest
