@@ -72,6 +72,12 @@ def check_dataframe_accumulations(ds):
     if np.issubdtype(ds['total'].dtype, np.number):
         ds['_total'] = ds[["donations_grants", "sponsorship", 'registration_fees', 'travel_accommodation', 'fees', 'related_expenses']].sum(axis=1, skipna=True)
         ds.loc[ds.type == 'rnd', "_total"] = ds.loc[ds.type == 'rnd', "total"]
-        if len(ds[ds.total.round(2) != ds._total.round(2)]) > 0:
-            print("Total nicht Summe der Werte")
+
+        for index, row in ds.iterrows():
+            if row['type'] in ['hcp_count', 'hco_count']:
+                continue
+
+            if round(np.nan_to_num(row['total']), 2) != round(np.nan_to_num(row['_total']), 2):
+                print("Total %s nicht Summe der Werte" % row['type'])
+
         ds = ds.drop(columns=['_total'], inplace=True)
