@@ -1,6 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
-hcp_amount,,,1511.1,5601.46,41118.71,26.21,59257.48,msd
-hco_amount,8610.0,221389.27,7793.4,22035.65,137975.0,,397803.32,msd
-hcp_count,,,5.0,8.0,14.0,1.0,,msd
-hco_count,2.0,13.0,4.0,5.0,4.0,,,msd
-rnd,,,,,,,2800731.4,msd
+hcp_amount,,,13514.96,32928.68,254860.61,23879.92,325184.17,merck
+hco_amount,,,,,,,0.0,merck
+hcp_count,,,36.0,35.0,30.0,4.0,105.0,merck
+hco_count,,,,,,,0.0,merck
+rnd,,,,,,,365340.0,merck
