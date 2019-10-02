@@ -65,7 +65,7 @@ Harald Brunner - Konminoth,Allschwil,CH,"Praxis Harald Brunner-Komminoth, Basler
 Susanne Buchholz,Zürich,CH,"Praxis Susanne Buchholz, Toblerstrasse 51",,,0.0,0.0,450.0,0.0,0.0,0.0,450.0,hcp,novartis
 Gian Bundi,Vella,CH,"Praxis Gian Bundi, Palius 33C",,,0.0,0.0,168.0,392.0,0.0,0.0,560.0,hcp,novartis
 Hans-Ulrieh Bürke,Zürich,CH,"Praxis Hans-Ulrich Bürke, Albulastrasse 52",,,0.0,0.0,186.7,373.3,0.0,0.0,560.0,hcp,novartis
-Joseph Buschi,Bern,CH,"Praxis Joseph Büschi, Mädergutstrasse 5",,,0.0,0.0,0.0,0.0,1300.0,0.0,1300.0,hcp,novartis
+Joseph Büschi,Bern,CH,"Praxis Joseph Büschi, Mädergutstrasse 5",,,0.0,0.0,0.0,0.0,1300.0,0.0,1300.0,hcp,novartis
 Marc Buser,St. Gallen,CH,"Kantonsspital St. Gallen Medizin Kardiologie, Rorschacher Strasse 95",,,0.0,0.0,0.0,0.0,500.0,0.0,500.0,hcp,novartis
 Nathan Cantoni,Aarau,CH,"Kantonsspital Aarau AG Medizin Onkologie, Tellstrasse 25",,,0.0,0.0,0.0,0.0,5100.0,0.0,5100.0,hcp,novartis
 Mauro Capoferri,Chiasso,CH,"Studio medico Dottori Capoferri, Via Giuseppe Motta 12",,,0.0,0.0,450.0,0.0,0.0,0.0,450.0,hcp,novartis
@@ -488,7 +488,7 @@ Daniel Zuder,St. Gallen,CH,"Haut & Laserzentrum Dr. Zuder AG, St. Leonhard-Stras
 aarReha Schinznach,Schinznach Bad,CH,Badstrasse 55,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,novartis
 ADEL Association D'Esculape En Lavaux,Lutry,CH,Grand-Rue 22,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
 AGeMIG - Association genevoise médecins de famille internistes généralistes Président: Dr Didier Châtelain,Genève,CH,Rue du Conseil-Général 11,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,novartis
-"Albert Bruppacher Stiftung c/o Universitâtsspital Zürich, Augenklinik",Zürich,CH,Frauenklinikstrasse 24,,,0.0,0.0,0.0,0.0,250.0,0.0,250.0,hco,novartis
+"Albert Bruppacher Stiftung c/o Universitâtsspital Zürich, Augenklinik",Zürich,CH,Frauenklinikstrasse 24,,,0.0,0.0,0.0,0.0,-250.0,0.0,-250.0,hco,novartis
 "Alzheimer Forum Schweiz c/o Memory Clinic,Univers. Altersmedizin Felix Platter-Spital",Basel,CH,Burgfelderstrasse 101,,,300.0,0.0,0.0,0.0,0.0,0.0,300.0,hco,novartis
 AMBIMED Basel AG Augenchirurgische Tagesklinik,Basel,CH,Klingentalstrasse 9,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,novartis
 AMIS Plus Stiftung,Zürich,CH,Hirschengraben 84,,,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,hco,novartis
@@ -531,7 +531,7 @@ Circolo Medico Di Bellinzona Presidente: Dr. Ezio Montedoro,Arbedo,CH,Via Orbell
 Circolo Medico Locamo e Dintorni Presidente: Dr. med. Nello Broggini,Ascona,CH,Via Lido 27,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,novartis
 Circolo Medico Tre Valli Presidente: Dr. med. Moreno Guidicelli,Biasca,CH,Via Pini 4,,,1000.0,1000.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
 Clinica Santa Chiara SA,Locarno,CH,Via Stefano Franscini 4,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,novartis
-Clinique de Carouge,Carouge GE,CH,Avenue Cardinal-Mermill od 1,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,novartis
+Clinique de Carouge,Carouge GE,CH,Avenue Cardinal-Mermillod 1,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,novartis
 Clinique de Genolier,Genolier,CH,Route du Muids 3,,,0.0,0.0,154.0,77.0,0.0,0.0,231.0,hco,novartis
 Clinique de Montchoisi,Lausanne,CH,Chemin des Allinges 10,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
 Clinique Générale-Beaulie u,Genève,CH,Chemin de Beau-Soleil 20,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,novartis
@@ -545,7 +545,7 @@ Ente Ospedaliero Cantonale EOC Direzione Generale,Bellinzona,CH,Viale Officina 3
 EPFL - École polytechnique federale de Lausanne PRES,Lausanne,CH,CE 3 316 (Centre Est) Station 1,,,366000.0,0.0,300.0,117.0,0.0,0.0,366417.0,hco,novartis
 ERS European Respiratory Society ERS Headquarters,Lausanne,CH,Avenue Sainte-Luce 4,,,0.0,1006192.02,0.0,0.0,0.0,0.0,1006192.02,hco,novartis
 EULAR - Europäische Rheumaliga,Kilchberg ZH,CH,Seestrasse 240,,,0.0,1084504.14,0.0,0.0,0.0,0.0,1084504.14,hco,novartis
-European Academy of Allergy and Clinical Immunology (EAACI),Zürich,CH,"Hagen holzst rasse 111, 3rd floor",,,0.0,341699.28,0.0,0.0,0.0,0.0,341699.28,hco,novartis
+European Academy of Allergy and Clinical Immunology (EAACI),Zürich,CH,"Hagenholzstrasse 111, 3rd floor",,,0.0,341699.28,0.0,0.0,0.0,0.0,341699.28,hco,novartis
 European Academy of Dermatology and Venerology (EADV) Headquarter,Lugano,CH,Via Serafino Balestra 22b,,,0.0,594082.03,0.0,0.0,0.0,0.0,594082.03,hco,novartis
 European Association for the Study of the Liver (EASL),Genève,CH,Rue Daubin 7,,,0.0,26283.56,0.0,0.0,0.0,0.0,26283.56,hco,novartis
 European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS) C/O Congrex Switzerland Ltd.,Basel,CH,Peter Merian-Strasse 80,,,0.0,483396.39,0.0,0.0,0.0,0.0,483396.39,hco,novartis
@@ -553,7 +553,7 @@ European School for Advanced Studies in Ophthalmology (E5AS0) Villa Saroli,Lugan
 European Society for Medical Oncology (ESMO),Lugano,CH,Via Ginevra 4,,,0.0,636831.41,0.0,0.0,356.55,0.0,637187.96,hco,novartis
 European Thoracic Oncology Platform (ETOP),Bern,CH,Effingerstrasse 40,,,22756.02,0.0,0.0,0.0,0.0,0.0,22756.02,hco,novartis
 Felix Platter-Spital Universitäre Altersmedizin und Rehabilitation,Basel,CH,Burgfelderstrass e 101,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
-Fokus Herz Bern e/o CCE Services GmbH,Basel,CH,Dorna cherst rasse 82,,,0.0,7500.0,0.0,0.0,0.0,0.0,7500.0,hco,novartis
+Fokus Herz Bern e/o CCE Services GmbH,Basel,CH,Dornacherstrasse 82,,,0.0,7500.0,0.0,0.0,0.0,0.0,7500.0,hco,novartis
 Fondation Asile des aveugles,Lausanne,CH,Avenue de France 15,,,10000.0,14856.08,0.0,0.0,1000.0,0.0,25856.08,hco,novartis
 Fondation du Centre de Chimiothérapie Anti-Cancéreuse (CCAC) C/O CCAC SA,Lausanne,CH,Avenue Alexandre-Vinet 19 bis,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
 Fondation pour la recherche de la cardiologie universitaire Ceneve (GECOR),Genève,CH,Rue Micheli-du-Crest 24,,,0.0,11500.0,0.0,0.0,0.0,0.0,11500.0,hco,novartis
@@ -565,7 +565,7 @@ Formation Médicale Premier Recours c/o Or Armine NA3AND,Nyon,CH,Chemin Falconni
 Forschungsstiftung Klinik Hirslanden AG,Zürich,CH,Seefeldstrasse 214,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
 Fortbildungsgruppe Adler,Steckborn,CH,Storchengasse 2,,,0.0,1150.08,0.0,0.0,0.0,0.0,1150.0,hco,novartis
 Forte Echo GmbH PRV Provides Treuhandgesellschaft AG,Baar,CH,Dorfstrasse 38,,,0.0,80000.0,0.0,0.0,0.0,0.0,80000.0,hco,novartis
-Forum für medizinische Fortbildung FomF GmbH,Baar,CH,Obern euhofstrass e 6,,,0.0,9600.0,0.0,0.0,0.0,0.0,9600.0,hco,novartis
+Forum für medizinische Fortbildung FomF GmbH,Baar,CH,Oberneuhofstrasse 6,,,0.0,9600.0,0.0,0.0,0.0,0.0,9600.0,hco,novartis
 Foundation for Liver Diseases Hepatology,Bern,CH,Murtenstrasse 35,,,0.0,30000.0,0.0,0.0,0.0,0.0,30000.0,hco,novartis
 Foundation for Research in Rheumatology (FOREUM),Kilchberg ZH,CH,Seestrasse 240,,,0.0,340665.0,0.0,0.0,0.0,0.0,340665.0,hco,novartis
 Genolier Swiss Visio Network SA,Genolier,CH,Route du Muids 3,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,novartis
@@ -580,8 +580,8 @@ Gruppo Medico Formazione,Giubiasco,CH,Casella Postale 823,,,0.0,4350.0,0.0,0.0,0
 GSASA Schweizerischer Verein der Amts- und Spitalapotheker,Bern,CH,Postfach,,,0.0,4800.0,0.0,0.0,0.0,0.0,4800.0,hco,novartis
 GZO Spital Wetzikon,Wetzikon ZH,CH,Spitalstrasse 66,,,0.0,0.0,0.0,0.0,6725.0,0.0,6725.0,hco,novartis
 Haematology Nurses & Healthcare Professionals Group (HNHCP) President Herr Erik Aerts,Winterthur,CH,Espenstrasse 33,,,3000.0,0.0,0.0,0.0,600.0,0.0,3600.0,hco,novartis
-Hareso - Hausärzte Region Solothurn AG Präsidentin: Dr. med. Carola Rossi,Solothurn,CH,Nikla us - Kon rad - S trasse 26,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,novartis
-Hautzentrum Zürich AG,Zürich,CH,Schaffhauserstra sse 355,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hco,novartis
+Hareso - Hausärzte Region Solothurn AG Präsidentin: Dr. med. Carola Rossi,Solothurn,CH,Niklaus - Konrad - Strasse 26,,,0.0,10000.0,0.0,0.0,0.0,0.0,10000.0,hco,novartis
+Hautzentrum Zürich AG,Zürich,CH,Schaffhauserstrasse 355,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hco,novartis
 hawadoc AG,Winterthur,CH,Garnmarkt 1,,,0.0,32450.0,0.0,0.0,0.0,0.0,32450.0,hco,novartis
 HerzGefässStiftung c/o Prof. Dr. Franz Wolfgang Amann Klinik im Park AG,Zürich,CH,Seestrasse 220,,,13500.0,0.0,0.0,0.0,0.0,0.0,13500.0,hco,novartis
 HFR Fribourg - Hôpital cantonal,Fribourg,CH,Chemin des Pensionnats 2-6,,,500.0,4500.0,770.0,568.16,900.0,0.0,7238.16,hco,novartis
@@ -604,10 +604,10 @@ Institution de Lavigny Site de Lavigny / Direction generale,Lavigny,CH,Route du 
 IOB Institute of Molecular and Clinical Ophthalmology Basel,Basel,CH,Mittlere Strasse 91,,,250000.0,0.0,0.0,0.0,0.0,0.0,250000.0,hco,novartis
 Istituto cantonale di patologia,Locarno,CH,Via in Selva 24,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
 ITHSAB Bündnis Türkischer Ärzte und Gesundheitspersonals in der Schweiz,Bülach,CH,Im Nippel 15,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,novartis
-Kant. Ärztegesellschaft Schaffhausen c/o Manuela Bucher,Schaffhausen,CH,Finst erwald stras se 91,,,0.0,5000.0,0.0,0.0,1500.0,0.0,6500.0,hco,novartis
+Kant. Ärztegesellschaft Schaffhausen c/o Manuela Bucher,Schaffhausen,CH,Finsterwaldstrasse 91,,,0.0,5000.0,0.0,0.0,1500.0,0.0,6500.0,hco,novartis
 Kantonsspital Aarau AG,Aarau,CH,Teilstrasse 25,,,47200.0,16000.0,750.0,158.0,4000.0,0.0,68108.0,hco,novartis
 Kantonsspital Baden AG,Baden,CH,Im Ergel 1,,,2160.0,3000.0,399.0,315.0,420.0,0.0,6294.0,hco,novartis
-Kantonsspital Baselland Bruderholz,Bruderholz,CH,-,,,4000.0,0.0,0.0,0.0,0.0,0.0,4000.0,hco,novartis
+Kantonsspital Baselland Bruderholz,Bruderholz,CH,,,,4000.0,0.0,0.0,0.0,0.0,0.0,4000.0,hco,novartis
 Kantonsspital Baselland Verwaltung,Liestal,CH,Mühlemattst rasse 11,,,55000.0,3000.0,300.0,0.0,2250.0,531.43,61081.43,hco,novartis
 Kantonsspital Frauenfeld,Frauenfeld,CH,Pfaffenholzstras se 4,,,0.0,0.0,450.0,55.0,0.0,0.0,505.0,hco,novartis
 Kantonsspital Glarus,Glarus,CH,Burgstrasse 99,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
@@ -619,7 +619,7 @@ Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,17400.0,55394.15
 Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,,,3857.01,2250.0,0.0,0.0,0.0,0.0,6107.01,hco,novartis
 Kardiologische Gemeinschaftspraxis AG KGP Bern,Bern,CH,Schänzlistrasse 33,,,0.0,6000.0,450.0,0.0,800.0,0.0,7250.0,hco,novartis
 Kinderärzte Schweiz (Berufsverband Kinder- und Jugendärzte in der Praxis),Zürich,CH,Badenerstrasse 21,,,600.0,0.0,0.0,0.0,0.0,0.0,600.0,hco,novartis
-Klinik Barmelweid AG,Barmelweid,CH,-,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,novartis
+Klinik Barmelweid AG,Barmelweid,CH,,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,novartis
 Klinik Lengg AG Klinik für Epileptologie und Neurorehabilitat,Zürich,CH,Bleulerstrasse 60,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
 Kollegium f. Hausarztmedizin (KHM/CMPR) Bénédicte Laville (Admini strati on),Fribourg,CH,Rue de l’Hôpital 15,,,12600.0,12999.95,0.0,0.0,0.0,0.0,25599.95,hco,novartis
 Krebsliga Schweiz,Bern,CH,Effingerstrasse 40,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
@@ -635,18 +635,18 @@ Michels Augenärzte am See,Feldmeilen,CH,General-Wille-St rasse 84,,,0.0,0.0,0.0
 Monvia AG Hauptsitz,Luzern,CH,Neuweg 10,,,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0,hco,novartis
 Neurologica GmbH,Zollikon,CH,Forchstrasse 424,,,0.0,0.0,0.0,0.0,7749.5,0.0,7749.5,hco,novartis
 Neurozentrum Bellevue AG,Zürich,CH,Theaterstrasse 8,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,novartis
-Neurozentrum Oberaargau,Langenthal,CH,St. ürbanstrasse 22 - Affenplatz,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
+Neurozentrum Oberaargau,Langenthal,CH,St. Urbanstrasse 22 - Affenplatz,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
 OMCT - Ordine dei medici del Canton Ticino,Mezzovico,CH,Via Cantonale 8 - Stabile Qi,,,0.0,1950.0,0.0,0.0,9259.0,0.0,11209.0,hco,novartis
 OnkoZentrum Hirslanden Klinik Hirslanden,Zürich,CH,Witellikerstrass e 40,,,0.0,0.0,154.0,77.0,875.0,0.0,1106.0,hco,novartis
 Onkozentrum Zürich AG,Zürich,CH,Seestrasse 259,,,0.0,0.0,0.0,231.0,1718.0,0.0,1949.0,hco,novartis
 Ospedale Regionale di Bellinzona e Valli Ospedale San Giovanni EOC,Bellinzona,CH,Via Ospedale,,,0.0,0.0,154.0,77.0,0.0,0.0,231.0,hco,novartis
 Pallas Klinik,Olten,CH,Louis Giroud-Strasse 20,,,0.0,18000.0,0.0,0.0,0.0,0.0,18000.0,hco,novartis
-PizolCare AG,Meis,CH,Flurstrasse 12,,,0.0,21000.0,0.0,0.0,0.0,0.0,21000.0,hco,novartis
+PizolCare AG,Mels,CH,Flurstrasse 12,,,0.0,21000.0,0.0,0.0,0.0,0.0,21000.0,hco,novartis
 Pneumologie de Grancy,Lausanne,CH,Boulevard de Grancy 7,,,0.0,0.0,0.0,0.0,3250.0,0.0,3250.0,hco,novartis
 Praxis für Neurologie,Wetzikon ZH,CH,Weststrasse 70,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
 Praxis Reinacherhof,Reinach Bl,CH,Im Reinacherhof 53,,,0.0,0.0,2320.0,800.0,0.0,0.0,3120.0,hco,novartis
 Privatklinik Obach,Solothurn,CH,Leopoldstrasse 5,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
-Prolindo Onkologie- und Hämatologie-Team am lindenhofspital,Bern,CH,Bremgartenstrass e 117,,,0.0,0.0,154.0,77.0,1000.0,0.0,1231.0,hco,novartis
+Prolindo Onkologie- und Hämatologie-Team am lindenhofspital,Bern,CH,Bremgartenstrasse 117,,,0.0,0.0,154.0,77.0,1000.0,0.0,1231.0,hco,novartis
 Psychiatrische Dienste Aargau AG,Windisch,CH,Zürcherstrasse 241,,,0.0,0.0,0.0,0.0,1559.89,0.0,1559.89,hco,novartis
 Regionalspital Emmental AG,Burgdorf,CH,Oberburgstrasse 54,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,novartis
 Regionalspital Emmental AG Spital Burgdorf,Burgdorf,CH,Oberburgstrasse 54,,,0.0,0.0,300.0,0.0,0.0,425.33,725.33,hco,novartis
@@ -662,53 +662,53 @@ Schweiz. Gesellschaft der Vertrauens- und Versieherungsärzte (SGV),Winterthur,C
 Schweiz. Gesellschaft für Allergologie und Immunologie (SGAI),Bern,CH,Scheibenstrasse 20,,,13500.0,24018.5,0.0,0.0,0.0,0.0,37518.5,hco,novartis
 Schweiz. Gesellschaft für Dermatologie und Venerologie (SGDV) Generalsekretariat,Bern,CH,Dalmazirain 11,,,68850.0,78720.0,0.0,0.0,0.0,0.0,147570.0,hco,novartis
 Schweiz. Gesellschaft für Endokrinologie und Diabetologie (SGED),Baden,CH,Rütistrasse 3A,,,0.0,9166.7,0.0,0.0,0.0,0.0,9166.7,hco,novartis
-Schweiz. Gesellschaft für Klinische Neurophysiologie (SGKN) Geschäftsstelle: Frau Christa Kubat,Obèrentfelden,CH,Blumenweg 13,,,0.0,7500.0,0.0,0.0,0.0,0.0,7500.0,hco,novartis
-Schweiz. Gesellschaft für Neuropädiatrie Geschäftsstelle SGNP Herr Prof. P. Weber,Obèrentfelden,CH,Blumenweg 13,,,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0,hco,novartis
+Schweiz. Gesellschaft für Klinische Neurophysiologie (SGKN) Geschäftsstelle: Frau Christa Kubat,Oberentfelden,CH,Blumenweg 13,,,0.0,7500.0,0.0,0.0,0.0,0.0,7500.0,hco,novartis
+Schweiz. Gesellschaft für Neuropädiatrie Geschäftsstelle SGNP Herr Prof. P. Weber,Oberentfelden,CH,Blumenweg 13,,,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0,hco,novartis
 Schweiz. Gesellschaft für Pathologie c/o FMH Consulting Services,Oberkirch LU,CH,Burghöhe 1,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
 Schweiz. Gesellschaft für Pneumologie Sekretariat: Frau Esther Frey,Bern,CH,Chutzenstrasse 10,,,47260.0,598.0,0.0,0.0,0.0,0.0,47858.0,hco,novartis
 Schweiz. Neurolog. Gesellschaft (SNG) C/O IMK AG,Basel,CH,Münsterberg 1,,,74500.0,7000.0,0.0,0.0,0.0,0.0,81500.0,hco,novartis
 Schweizerische Epilepsie-Liga,Zürich,CH,Seefeldstrasse 84,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,novartis
-Schweizerische Gesellschaft für Allgemeine Innere Medizin (SGAIM),Bern,CH,Monbi j oustrasse 43,,,10000.0,49200.0,0.0,0.0,900.01,0.0,60100.01,hco,novartis
+Schweizerische Gesellschaft für Allgemeine Innere Medizin (SGAIM),Bern,CH,Monbijoustrasse 43,,,10000.0,49200.0,0.0,0.0,900.01,0.0,60100.01,hco,novartis
 Schweizerische Gesellschaft für Kardiologie,Bern,CH,Dufourstrasse 30,,,0.0,6000.0,0.0,0.0,0.0,0.0,6000.0,hco,novartis
-Schweizerische Gesellschaft für Rheumatologie,Zürich,CH,losefstrasse 92,,,0.0,24018.5,0.0,0.0,0.0,0.0,24018.5,hco,novartis
-Schweizerische Kopfweh gesellsch aft c/o IMK Institut für Medizin und Kommunikation AG,Basel,CH,Münsterberg 1,,,0.0,25000.0,0.0,0.0,0.0,0.0,25000.0,hco,novartis
-Schweizerische Ophthalmologi sch e Gesellschaft SOG c/o Inst.für Medizin u. Kommunikation AG,Basel,CH,Münsterberg 1,,,62050.0,0.0,0.0,0.0,0.0,0.0,62050.0,hco,novartis
-Schweizerische Pädiatrische Onkologie Gruppe (SPOG) Direktionsassist entin: Marlise Rohrer,Bern,CH,Effingerstrasse 33,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
+Schweizerische Gesellschaft für Rheumatologie,Zürich,CH,Josefstrasse 92,,,0.0,24018.5,0.0,0.0,0.0,0.0,24018.5,hco,novartis
+Schweizerische Kopfwehgesellschaft c/o IMK Institut für Medizin und Kommunikation AG,Basel,CH,Münsterberg 1,,,0.0,25000.0,0.0,0.0,0.0,0.0,25000.0,hco,novartis
+Schweizerische Ophthalmologische Gesellschaft SOG c/o Inst.für Medizin u. Kommunikation AG,Basel,CH,Münsterberg 1,,,62050.0,0.0,0.0,0.0,0.0,0.0,62050.0,hco,novartis
+Schweizerische Pädiatrische Onkologie Gruppe (SPOG) Direktionsassistentin: Marlise Rohrer,Bern,CH,Effingerstrasse 33,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
 Schweizerische Pankreasstiftung Vizepräsident : Prof. Dr. K. Z'graggen,Bern,CH,Schänzlihalde 1,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
 SCQM Foundation Swiss Clinical Quality Management in Rheumatic Diseases,Zürich,CH,Aargauerstrasse 250,,,89250.0,0.0,0.0,0.0,0.0,0.0,89250.0,hco,novartis
 See-Spital Standort Horgen,Horgen,CH,Asylstrasse 19,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
-Sektion der Praktiz ierend en Endokri nologi nne n und Endokrinologen Klinik Hirslanden,Zürich,CH,Witellikerstrass e 36,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
-Società Ticinese degli Allergologi ed Immunologi del Canton Ticino (STAI) Segretario: Or. med. lean-Pierre lantin,Pregassona,CH,Via alle Vigne 7,,,350.0,0.0,0.0,0.0,0.0,0.0,350.0,hco,novartis
+Sektion der Praktizierenden Endokrinologinnen und Endokrinologen Klinik Hirslanden,Zürich,CH,Witellikerstrass e 36,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
+Società Ticinese degli Allergologi ed Immunologi del Canton Ticino (STAI) Segretario: Or. med. Jean-Pierre Lantin,Pregassona,CH,Via alle Vigne 7,,,350.0,0.0,0.0,0.0,0.0,0.0,350.0,hco,novartis
 Società ticinese di dermatologia e venereologia c/o Dr. med. Patrizia Carrozza,Bellinzona,CH,Viale Stazione 16,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
 Société Neuchâteloise de Médecine SNM,Couvet,CH,Grand'Rue 36BIS,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,novartis
 Société Vaudoise de Médecine (SVM),Lausanne,CH,Chemin de Mornex 38,,,0.0,8000.0,0.0,0.0,0.0,0.0,8000.0,hco,novartis
-Solothurner Spitäler AG,Solothurn,CH,Schön grünst rasse 36a,,,0.0,3615.5,0.0,0.0,0.0,0.0,3615.5,hco,novartis
-Solothurner Spitäler AG Psychiatrische Dienste,Solothurn,CH,Weissensteinstra sse 102,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,novartis
-Spital Altstätten,Altstätten SG,CH,F.-Marolani-Stra sse 6,,,0.0,0.0,450.0,331.0,0.0,0.0,781.0,hco,novartis
+Solothurner Spitäler AG,Solothurn,CH,Schön grünstrasse 36a,,,0.0,3615.5,0.0,0.0,0.0,0.0,3615.5,hco,novartis
+Solothurner Spitäler AG Psychiatrische Dienste,Solothurn,CH,Weissensteinstrasse 102,,,0.0,0.0,0.0,0.0,1000.0,0.0,1000.0,hco,novartis
+Spital Altstätten,Altstätten SG,CH,F.-Marolani-Strasse 6,,,0.0,0.0,450.0,331.0,0.0,0.0,781.0,hco,novartis
 Spital Linwattal,Schlieren,CH,Urdorferstrasse 100,,,0.0,2000.0,308.0,154.0,0.0,0.0,2462.0,hco,novartis
 Spital Männedorf AG,Männedorf,CH,Asylstrasse 10,,,0.0,0.0,154.0,77.0,0.0,0.0,231.0,hco,novartis
 Spital Schwyz,Schwyz,CH,Waldeggstrasse 10,,,0.0,3000.0,604.0,77.0,0.0,0.0,3681.0,hco,novartis
-Spital STS AG - Spital Thun,Thun,CH,Krankenhausstras se 12,,,0.0,2000.0,126.0,63.0,0.0,0.0,2189.0,hco,novartis
+Spital STS AG - Spital Thun,Thun,CH,Krankenhausstrasse 12,,,0.0,2000.0,126.0,63.0,0.0,0.0,2189.0,hco,novartis
 Spital Thurgau AG Geschäftsstelle,Frauenfeld,CH,Waldeggstrasse 8a,,,0.0,3600.0,0.0,0.0,0.0,0.0,3600.0,hco,novartis
 Spital Uster,Uster,CH,Brunnenstrasse 42,,,0.0,0.0,280.0,140.0,0.0,0.0,420.0,hco,novartis
-Spitäler Schaffhausen Kantonsspital Schaffhausen,Schaffhausen,CH,Geiss bergst rasse 81,,,0.0,0.0,154.0,77.0,0.0,0.0,231.0,hco,novartis
-Spitalregion Fürstenland Toggenburg,Wil SG,CH,Fürstenlandstras se 32,,,8400.0,0.0,0.0,0.0,0.0,0.0,8400.0,hco,novartis
-"Spitalregion Rheintal Sargans Sarganserland Spital Grabs, Altstätten, Walenstadt",Rebstein,CH,Alte landstrasse 106,,,0.0,1392.75,0.0,0.0,0.0,0.0,1392.75,hco,novartis
+Spitäler Schaffhausen Kantonsspital Schaffhausen,Schaffhausen,CH,Geissbergstrasse 81,,,0.0,0.0,154.0,77.0,0.0,0.0,231.0,hco,novartis
+Spitalregion Fürstenland Toggenburg,Wil SG,CH,Fürstenlandstrasse 32,,,8400.0,0.0,0.0,0.0,0.0,0.0,8400.0,hco,novartis
+"Spitalregion Rheintal Sargans Sarganserland Spital Grabs, Altstätten, Walenstadt",Rebstein,CH,Alte Landstrasse 106,,,0.0,1392.75,0.0,0.0,0.0,0.0,1392.75,hco,novartis
 Spitalverbund Appenzell Ausserrhoden,Herisau,CH,Krombach 3,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
 Spitalzentrum Biel AG,Biel/Bienne,CH,Vogelsang 84,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,novartis
 St. Claraspital AG,Basel,CH,Kleinriehenstras se 30,,,0.0,2500.0,0.0,0.0,1600.0,0.0,4100.0,hco,novartis
-Stiftung für Herz- u. Kreislaufforschu ng,Zürich,CH,Hotti ngerst rasse 14,,,8550.0,0.0,0.0,0.0,0.0,0.0,8550.0,hco,novartis
-Stiftung für wissenschaftlich e Forschung am Stadtspital Triemli,Zürich,CH,Birme nsdorferstr asse 497,,,4500.0,1000.0,0.0,0.0,2000.0,0.0,7500.0,hco,novartis
+Stiftung für Herz- u. Kreislaufforschung,Zürich,CH,Hottingerstrasse 14,,,8550.0,0.0,0.0,0.0,0.0,0.0,8550.0,hco,novartis
+Stiftung für wissenschaftliche Forschung am Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,4500.0,1000.0,0.0,0.0,2000.0,0.0,7500.0,hco,novartis
 Stiftung SONK St.Gallen Oncology Conferences,St. Gallen,CH,Rorschacher Strasse 150,,,0.0,3935.0,0.0,0.0,0.0,0.0,3935.0,hco,novartis
-Swiss Academy of Multidisciplinar y Oncology,Bern,CH,Effingerstrasse 40,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,novartis
+Swiss Academy of Multidisciplinary Oncology,Bern,CH,Effingerstrasse 40,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,novartis
 Swiss Association of Pharmaceutical Professionals (SwAPP),Bern,CH,P.O.Box,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,novartis
 Swiss Eye Institute,Rotkreuz,CH,Luzernerstrasse 1,,,0.0,0.0,0.0,0.0,800.0,1327.4,2127.4,hco,novartis
 Swiss Glaucoma Research Foundation c/o Kaweh Mansouri,Lausanne,CH,Avenue de l'Elysée 40,,,0.0,5000.0,0.0,0.0,0.0,0.0,5000.0,hco,novartis
 Swiss Oncology & Hematology Congress c/o Reichenbach Rechtsanwälte AG,Zürich,CH,Talacker 50,,,0.0,60000.0,0.0,0.0,0.0,0.0,60000.0,hco,novartis
 "Swiss Tumor Institute, Platz Zürich c/o OnkoZentrum Zürich",Zürich,CH,Seestrasse 259,,,16300.0,0.0,0.0,0.0,0.0,0.0,16300.0,hco,novartis
 Swiss VitreoRetinal Group (SVRG) C/O ophta - u.novotny,Bottighofen,CH,Mittlere Mühlestrasse 3,,,20850.0,0.0,0.0,0.0,0.0,0.0,20850.0,hco,novartis
-SwissNet Univers itätspoli klinik f. Endokrinologie Diabetologie & Klinische Ernährung,Bern,CH,Inselspital,,,25000.0,0.0,0.0,0.0,0.0,0.0,25000.0,hco,novartis
-Swisstranspla nt Nationale Stiftung für Organspende und Transplantation,Bern,CH,Effingerstrasse 1,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
+SwissNet Universitätspoliklinik f. Endokrinologie Diabetologie & Klinische Ernährung,Bern,CH,Inselspital,,,25000.0,0.0,0.0,0.0,0.0,0.0,25000.0,hco,novartis
+Swisstransplant Nationale Stiftung für Organspende und Transplantation,Bern,CH,Effingerstrasse 1,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
 Tumor- und Brustzentrum ZeTuP AG,St. Gallen,CH,Rorschacher Strasse 150,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
 Tumor Zentrum Aarau AG,Aarau,CH,Rain 34,,,0.0,0.0,0.0,0.0,2000.0,0.0,2000.0,hco,novartis
 Unilabs Lausanne,Lausanne,CH,Rue de la Vigie 5,,,0.0,0.0,0.0,261.3,0.0,0.0,261.3,hco,novartis
@@ -716,27 +716,27 @@ Universität Basel,Basel,CH,Petersplatz 1,,,393281.81,0.0,0.0,0.0,69360.0,0.0,46
 Universität Bern,Bern,CH,Hochs chulstrasse 4,,,3250.0,1000.0,0.0,0.0,0.0,0.0,4250.0,hco,novartis
 Universität St. Gallen,St. Gallen,CH,Dufourstrasse 50,,,4200.0,0.0,0.0,0.0,0.0,0.0,4200.0,hco,novartis
 Universität Zürich,Zürich,CH,Rämistrasse 71,,,480820.0,3000.0,0.0,0.0,28309.3,910.5,513039.8,hco,novartis
-Uni vers itäts - Kin derspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,0.0,1000.0,0.0,0.0,500.0,0.0,1500.0,hco,novartis
-Univers itäts - Kin derspital Zürich Arbeitsgruppe für kardiovaskuläre Pflege und Therapien KAPT,Pfeffingen,CH,Keltenweg 22,,,1000.0,1000.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
-Universitätskiin ik Balgrist,Zürich,CH,Forchstrasse 340,,,10000.0,5000.0,0.0,0.0,0.0,0.0,15000.0,hco,novartis
-Univers itätss pit al Basel,Basel,CH,Petersgraben 4,,,133500.0,42700.0,9326.0,1350.73,183322.8,7431.14,377630.67,hco,novartis
-Univers itätss pit al Zürich,Zürich,CH,Rämistrasse 100,,,64500.0,157212.31,2302.45,401.0,65838.5,543.99,290798.25,hco,novartis
+Universitäts - Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,0.0,1000.0,0.0,0.0,500.0,0.0,1500.0,hco,novartis
+Universitäts - Kinderspital Zürich Arbeitsgruppe für kardiovaskuläre Pflege und Therapien KAPT,Pfeffingen,CH,Keltenweg 22,,,1000.0,1000.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis
+Universitätsklinik Balgrist,Zürich,CH,Forchstrasse 340,,,10000.0,5000.0,0.0,0.0,0.0,0.0,15000.0,hco,novartis
+Universitätsspital Basel,Basel,CH,Petersgraben 4,,,133500.0,42700.0,9326.0,1350.73,183322.8,7431.14,377630.67,hco,novartis
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,64500.0,157212.31,2302.45,401.0,65838.5,543.99,290798.25,hco,novartis
 Université de Genève Centre Medical Universitaire CMU,Genève 4,CH,Rue du Général-Dufour 24,,,0.0,0.0,0.0,0.0,14237.17,0.0,14237.17,hco,novartis
 Université de Neuchâtel,Neuchâtel,CH,Avenue du ler-Mars 26,,,55000.0,0.0,0.0,0.0,0.0,0.0,55000.0,hco,novartis
-Verein Berner Haus-und Kinderärzte/inne n (VBHK),Bern,CH,Effingerstrasse 2,,,3250.0,0.0,0.0,0.0,0.0,0.0,3250.0,hco,novartis
-Verein der Pneumologen des Kantons Bern Präsident VPB: Dr. med. Markus Riederer,Bern,CH,Bremgartenstrass e 117,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
-Verein eHealth Dermatologie Präsident:Herr Prof. Dr. A. Navarini Univers itätss pit al Zürich,Zürich,CH,Gloriastrasse 31,,,35920.0,0.0,0.0,0.0,0.0,0.0,35920.0,hco,novartis
+Verein Berner Haus-und Kinderärzte/innen (VBHK),Bern,CH,Effingerstrasse 2,,,3250.0,0.0,0.0,0.0,0.0,0.0,3250.0,hco,novartis
+Verein der Pneumologen des Kantons Bern Präsident VPB: Dr. med. Markus Riederer,Bern,CH,Bremgartenstrasse 117,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis
+Verein eHealth Dermatologie Präsident: Herr Prof. Dr. A. Navarini Universitätsspital Zürich,Zürich,CH,Gloriastrasse 31,,,35920.0,0.0,0.0,0.0,0.0,0.0,35920.0,hco,novartis
 Verein GUCH Schweiz,Basel,CH,Langen Gasse 78,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,novartis
-Verein Migräne forsch ung Schweiz,Zollikon,CH,Forchstrasse 424,,,20000.0,0.0,0.0,0.0,0.0,0.0,20000.0,hco,novartis
-Verein zur Förderung der Weiterbildung in Augenheilkunde c/o Univers itätss pit al Basel Augenklinik,Basel,CH,Mittlere Strasse 91,,,0.0,6500.0,0.0,0.0,0.0,0.0,6500.0,hco,novartis
+Verein Migräneforschung Schweiz,Zollikon,CH,Forchstrasse 424,,,20000.0,0.0,0.0,0.0,0.0,0.0,20000.0,hco,novartis
+Verein zur Förderung der Weiterbildung in Augenheilkunde c/o Universitätsspital Basel Augenklinik,Basel,CH,Mittlere Strasse 91,,,0.0,6500.0,0.0,0.0,0.0,0.0,6500.0,hco,novartis
 Vereinigung Zürcher Internisten VIZ c/o Beatrice Nordmann (Sekretariat),Adliswil,CH,Felsenhofstrasse 36,,,0.0,7600.0,0.0,0.0,0.0,0.0,7600.0,hco,novartis
 Vista Klinik,Binningen,CH,Hauptstrasse 55,,,0.0,3500.0,0.0,0.0,0.0,0.0,3500.0,hco,novartis
 Vitasphère Cesundheitszentr um Vitasphère AG,Bützberg,CH,Bernstrasse 37,,,0.0,0.0,0.0,0.0,4000.0,0.0,4000.0,hco,novartis
 Vue Group AG,Baar,CH,Bahnhofstrasse 9,,,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hco,novartis
-VZAG - Vereinigung Zentralschwei zer Ärztegesellschaf ten,Luzern,CH,Schwanenplatz 7,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,novartis
+VZAG - Vereinigung Zentralschweizer Ärztegesellschaften,Luzern,CH,Schwanenplatz 7,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,novartis
 World Heart Federation ONG,Genève,CH,Rue de Malatrex 32,,,0.0,150000.0,0.0,0.0,0.0,0.0,150000.0,hco,novartis
 Zentralpraxis Wallisellen AG,Wallisellen,CH,Zentralstrasse 6,,,3000.0,3000.0,0.0,0.0,0.0,0.0,6000.0,hco,novartis
 Zentralschweizer Dermatologen c/o Dr. med. Mathias Koepke,Luzern,CH,Löwengraben 14,,,0.0,5400.0,0.0,0.0,0.0,0.0,5400.0,hco,novartis
 Zuger Kantonsspital AG,Baar,CH,Landhausstrasse 11,,,0.0,0.0,308.0,154.0,0.0,0.0,462.0,hco,novartis
-"Zürcher Gesellschaft f, Kardiologie ZGK e/o Prof. Dr. med. Christine Attenhofer Klinik im Park AG",Zürich,CH,Seestrasse 220,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,novartis
+Zürcher Gesellschaft f. Kardiologie ZGK e/o Prof. Dr. med. Christine Attenhofer Klinik im Park AG,Zürich,CH,Seestrasse 220,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,novartis
 Zurich Academy of Internal Medicine (ZAIM) c/o Medworld AG,Steinhausen,CH,Sennweidstrasse 46,,,12200.0,3000.0,0.0,0.0,0.0,0.0,15200.0,hco,novartis
