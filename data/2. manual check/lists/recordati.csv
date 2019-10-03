@@ -1,49 +1,49 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-Emanuel Axinte,Liestal,CH,Bienentalstrasse 7. 4410Liestal,,,,,,175.8,,,175.8,hcp,recordati
-Peter Bauerfeind,Zürich,CH,"Birmensdorferstrasse407, 8063 Zürich",,,,,,,1000.0,,1000.0,hcp,recordati
-Jörg Bitter,Will,CH,"Zürcherstrasse 30, 9500Will",,,,,,385.95,2700.0,83.3,3169.25,hcp,recordati
-Achim Burrer,Zürich,CH,"Lenggstrasse 30, 8032Zürich",,,,,,392.55,,,392.55,hcp,recordati
-Ingo Butzke,Münsingen,CH,"Hunzigenallee 1, 3110Münsingen",,,,,,372.75,1500.0,47.2,1919.95,hcp,recordati
-Georgios Dimitrou,Bellinzona,CH,"Vicolo Sottocorte 4, 6500Bellinzona",,,,,,395.05,,,395.05,hcp,recordati
-Andreas Haller-Kowalski,St. Gallen,CH,"Zürcherstrasse 30, 9500Will",,,,,436.83,668.62,,,1105.45,hcp,recordati
-Bernhard Hess,Zürich,CH,Bellariastrasse 38. 8038Zürich,,,,,,154.6,,,154.6,hcp,recordati
-Matthias Hilpert,Windisch,CH,"Zürcherstrasse 241, 5210Windisch",,,,,,,1500.0,,1500.0,hcp,recordati
-Christian Huber,Basel,CH,"Kornhausgasse 7, 4051Basel",,,,,,,1500.0,93.6,1593.6,hcp,recordati
-Matthias Jäger,Liestal,CH,"Bienentalstrasse 7, 4410Liestal",,,,,,,1500.0,,1500.0,hcp,recordati
-Fernando Jermini,Lugao,CH,"Via Tesserete 46, 6900Lugano",,,,,1178.9,1063.45,,,2242.35,hcp,recordati
-Lukas Jörg,Bern,CH,"Freiburgerstrasse 16,3010 Bern",,,,,,,1000.0,,1000.0,hcp,recordati
+Emanuel Axinte,Liestal,CH,"Bienentalstrasse 7, 4410 Liestal",,,,,,175.8,,,175.8,hcp,recordati
+Peter Bauerfeind,Zürich,CH,"Birmensdorferstrasse 407, 8063 Zürich",,,,,,,1000.0,,1000.0,hcp,recordati
+Jörg Bitter,Will,CH,"Zürcherstrasse 30, 9500 Wil",,,,,,385.95,2700.0,83.3,3169.25,hcp,recordati
+Achim Burrer,Zürich,CH,"Lenggstrasse 30, 8032 Zürich",,,,,,392.55,,,392.55,hcp,recordati
+Ingo Butzke,Münsingen,CH,"Hunzigenallee 1, 3110 Münsingen",,,,,,372.75,1500.0,47.2,1919.95,hcp,recordati
+Georgios Dimitrou,Bellinzona,CH,"Vicolo Sottocorte 4, 6500 Bellinzona",,,,,,395.05,,,395.05,hcp,recordati
+Andreas Haller-Kowalski,St. Gallen,CH,"Zürcherstrasse 30, 9500 Will",,,,,436.83,668.62,,,1105.45,hcp,recordati
+Bernhard Hess,Zürich,CH,"Bellariastrasse 38, 8038 Zürich",,,,,,154.6,,,154.6,hcp,recordati
+Matthias Hilpert,Windisch,CH,"Zürcherstrasse 241, 5210 Windisch",,,,,,,1500.0,,1500.0,hcp,recordati
+Christian Huber,Basel,CH,"Kornhausgasse 7, 4051 Basel",,,,,,,1500.0,93.6,1593.6,hcp,recordati
+Matthias Jäger,Liestal,CH,"Bienentalstrasse 7, 4410 Liestal",,,,,,,1500.0,,1500.0,hcp,recordati
+Fernando Jermini,Lugano,CH,"Via Tesserete 46, 6900 Lugano",,,,,1178.9,1063.45,,,2242.35,hcp,recordati
+Lukas Jörg,Bern,CH,"Freiburgerstrasse 16, 3010 Bern",,,,,,,1000.0,,1000.0,hcp,recordati
 Stefan Kaiser,Genf,CH,"Chemin du Petit-Bel-Air 2,1225 Chéne-Bourg",,,,,,,1500.0,105.2,1605.2,hcp,recordati
-Georges Klein,Sion,CH,"Av. Grand Chaupec 86,1950 Sion",,,,,,,1500.0,,1500.0,hcp,recordati
-Stephan Krähenbühl,Basel,CH,Schanzenstrasse 55.4056 Basel,,,,,,,1000.0,,1000.0,hcp,recordati
-Roger Lehmann,Zürich,CH,Rämistrasse 100. 8901Zürich,,,,,,,1200.0,168.0,1368.0,hcp,recordati
-Florian Löcherbach,Aarau,CH,Tellstrasse 25. 5001Aarau,,,,,,962.84,,,962.84,hcp,recordati
-Philippe Lyrer,Basel,CH,"Petersgraben 4, 4031Basel",,,,,,,1200.0,,1200.0,hcp,recordati
-François Mach,Genf,CH,"Rue Gabriell-Perret-Gentil4, 1205 Genf",,,,,,,2400.0,,2400.0,hcp,recordati
-Frank Marohn,Wohlen,CH,"Bahnhofstrasse 5, 5610Wohlen",,,,,265.33,622.12,,,887.4,hcp,recordati
-Ashkan Mortezavi,Zürich,CH,"Frauenklinikstrasse 10,8091 Zürich",,,,,915.73,915.16,1000.0,,2830.89,hcp,recordati
-Franco Muggii,Lugano,CH,"Residenza i Platani 4,6943 Vezia",,,,,,,1200.0,392.0,1592.0,hcp,recordati
-Thomas Jörg Müller,Meiringen,CH,"Privatklinik Meiringen AG,3860 Meiringen",,,,,,,1500.0,,1500.0,hcp,recordati
-Beat Nick,Solothurn,CH,"Weissensteinenstrasse102, 4500 Solothurn",,,,,,,1500.0,,1500.0,hcp,recordati
-Niklas Pelzer,Luzern,CH,"Spitalstrasse, 6004Luzern",,,,,,,800.0,,800.0,hcp,recordati
-Dietegen Pestalozzi,Schaffhausen,CH,"Mühlentalstrasse 28,8200 Schaffhausen",,,,,,,500.0,,500.0,hcp,recordati
-Walter Riesen,Erlenbach,CH,Seestrasse 141. 8703Erlenbach,,,,,,,1200.0,54.0,1254.0,hcp,recordati
-Patrick Saudan,Genf,CH,"Rue Gabriell-Perret-Gentil4, 1205 Genf",,,,,,169.0,,,169.0,hcp,recordati
-Wolfgang Schäfer,Visp,CH,"Pflanzettastrasse 8, 3930Visp",,,,,,,800.0,,800.0,hcp,recordati
-Samer Schleusener,Windisch,CH,"Zürcherstrasse 241, 5210Windisch",,,,,,385.95,,,385.95,hcp,recordati
-Leander Schürch,Thun,CH,"Krankenhausstrasse 12,3600 Thun",,,,,,,1000.0,,1000.0,hcp,recordati
-Nina Schweinfurth,Basel,CH,"Wilhelm Klein-Strasse 27,4056 Basel",,,,,,292.35,,,292.35,hcp,recordati
-Erich Seifritz,Zürich,CH,Lenggstrasse 31. 8008Zürich,,,,,,,1500.0,175.0,1675.0,hcp,recordati
-Isabelle Sudano,Zürich,CH,"Rämistrasse 100, 8901Zürich",,,,,,,2700.0,,2700.0,hcp,recordati
-Rafael Traber,Viganello,CH,"Via Luganetto, 6962Viganello",,,,,,,1500.0,,1500.0,hcp,recordati
-Visnica Vinic,Wattwil,CH,Hembergerstrasse 22.9630 Wattwil,,,,,,572.6,,,572.6,hcp,recordati
+Georges Klein,Sion,CH,"Av. Grand Chaupec 86, 1950 Sion",,,,,,,1500.0,,1500.0,hcp,recordati
+Stephan Krähenbühl,Basel,CH,"Schanzenstrasse 55, 4056 Basel",,,,,,,1000.0,,1000.0,hcp,recordati
+Roger Lehmann,Zürich,CH,"Rämistrasse 100, 8901 Zürich",,,,,,,1200.0,168.0,1368.0,hcp,recordati
+Florian Löcherbach,Aarau,CH,"Tellstrasse 25, 5001 Aarau",,,,,,962.84,,,962.84,hcp,recordati
+Philippe Lyrer,Basel,CH,"Petersgraben 4, 4031 Basel",,,,,,,1200.0,,1200.0,hcp,recordati
+François Mach,Genf,CH,"Rue Gabriell-Perret-Gentil 4, 1205 Genf",,,,,,,2400.0,,2400.0,hcp,recordati
+Frank Marohn,Wohlen,CH,"Bahnhofstrasse 5, 5610 Wohlen",,,,,265.33,622.12,,,887.4,hcp,recordati
+Ashkan Mortezavi,Zürich,CH,"Frauenklinikstrasse 10, 8091 Zürich",,,,,915.73,915.16,1000.0,,2830.89,hcp,recordati
+Franco Muggii,Lugano,CH,"Residenza i Platani 4, 6943 Vezia",,,,,,,1200.0,392.0,1592.0,hcp,recordati
+Thomas Jörg Müller,Meiringen,CH,"Privatklinik Meiringen AG, 3860 Meiringen",,,,,,,1500.0,,1500.0,hcp,recordati
+Beat Nick,Solothurn,CH,"Weissensteinenstrasse 102, 4500 Solothurn",,,,,,,1500.0,,1500.0,hcp,recordati
+Niklas Pelzer,Luzern,CH,"Spitalstrasse, 6004 Luzern",,,,,,,800.0,,800.0,hcp,recordati
+Dietegen Pestalozzi,Schaffhausen,CH,"Mühlentalstrasse 28, 8200 Schaffhausen",,,,,,,500.0,,500.0,hcp,recordati
+Walter Riesen,Erlenbach,CH,"Seestrasse 141, 8703 Erlenbach",,,,,,,1200.0,54.0,1254.0,hcp,recordati
+Patrick Saudan,Genf,CH,"Rue Gabriell-Perret-Gentil 4, 1205 Genf",,,,,,169.0,,,169.0,hcp,recordati
+Wolfgang Schäfer,Visp,CH,"Pflanzettastrasse 8, 3930 Visp",,,,,,,800.0,,800.0,hcp,recordati
+Samer Schleusener,Windisch,CH,"Zürcherstrasse 241, 5210 Windisch",,,,,,385.95,,,385.95,hcp,recordati
+Leander Schürch,Thun,CH,"Krankenhausstrasse 12, 3600 Thun",,,,,,,1000.0,,1000.0,hcp,recordati
+Nina Schweinfurth,Basel,CH,"Wilhelm Klein-Strasse 27, 4056 Basel",,,,,,292.35,,,292.35,hcp,recordati
+Erich Seifritz,Zürich,CH,Lenggstrasse 31. 8008 Zürich,,,,,,,1500.0,175.0,1675.0,hcp,recordati
+Isabelle Sudano,Zürich,CH,"Rämistrasse 100, 8901 Zürich",,,,,,,2700.0,,2700.0,hcp,recordati
+Rafael Traber,Viganello,CH,"Via Luganetto, 6962 Viganello",,,,,,,1500.0,,1500.0,hcp,recordati
+Visnica Vinic,Wattwil,CH,"Hembergerstrasse 22, 9630 Wattwil",,,,,,572.6,,,572.6,hcp,recordati
 Association D'Esculape En Lavaux,Lutry,CH,"Rue Verdaine, 1095 Lutry",,,,1000.0,,,,,1000.0,hco,recordati
-Le CHUV,Lausanne,CH,"Rue du Bugnon 21, 1011Lausanne",,,,1500.0,,,,,1500.0,hco,recordati
-Circolo Medico di Bellinzona,Bellinzona,CH,"Via Orbella 22, 6517Arbedo",,,,1000.0,,,,,1000.0,hco,recordati
-Congrex Switzerland Ltd Urology Arena,Basel,CH,"Peter-Meria n-Strasse80,4002 Basel",,,,3000.0,,,,,3000.0,hco,recordati
-HFR Meyriez-Murten,Murten,CH,"Chemin du Village 24,3280 Meyriez",,,,1000.0,,,,,1000.0,hco,recordati
-Forschungsstiftung Klinik Hirslanden,Zürich,CH,"Seefeldstrasse 214, 8008Zürich",,,,1000.0,,,,,1000.0,hco,recordati
-Hohmad Privatklinik,Thun,CH,"Hohmadstraase 1, 3600Thun",,,,1200.0,,,,,1200.0,hco,recordati
-Kantonsspital Aarau,Aarau,CH,"Tellstrasse 25, 5001Aarau",,,,1500.0,,,,,1500.0,hco,recordati
-Kantonsspital Grubünden,Chur,CH,"Loëstrasse 170, 7000Chur",,,,2000.0,,,,,2000.0,hco,recordati
-Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacherstrasse 95,9007 St. Gallen",,,,2000.0,,,,,2000.0,hco,recordati
-Kantonsspital Winterthur,Winterthur,CH,"Brauerstrasse 15, 8401Winterthur",,,,2500.0,,,,,2500.0,hco,recordati
+Le CHUV,Lausanne,CH,"Rue du Bugnon 21, 1011 Lausanne",,,,1500.0,,,,,1500.0,hco,recordati
+Circolo Medico di Bellinzona,Bellinzona,CH,"Via Orbella 22, 6517 Arbedo",,,,1000.0,,,,,1000.0,hco,recordati
+Congrex Switzerland Ltd Urology Arena,Basel,CH,"Peter-Merian-Strasse 80, 4002 Basel",,,,3000.0,,,,,3000.0,hco,recordati
+HFR Meyriez-Murten,Murten,CH,"Chemin du Village 24, 3280 Meyriez",,,,1000.0,,,,,1000.0,hco,recordati
+Forschungsstiftung Klinik Hirslanden,Zürich,CH,"Seefeldstrasse 214, 8008 Zürich",,,,1000.0,,,,,1000.0,hco,recordati
+Hohmad Privatklinik,Thun,CH,"Hohmadstraase 1, 3600 Thun",,,,1200.0,,,,,1200.0,hco,recordati
+Kantonsspital Aarau,Aarau,CH,"Tellstrasse 25, 5001 Aarau",,,,1500.0,,,,,1500.0,hco,recordati
+Kantonsspital Grubünden,Chur,CH,"Loëstrasse 170, 7000 Chur",,,,2000.0,,,,,2000.0,hco,recordati
+Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacherstrasse 95, 9007 St. Gallen",,,,2000.0,,,,,2000.0,hco,recordati
+Kantonsspital Winterthur,Winterthur,CH,"Brauerstrasse 15, 8401 Winterthur",,,,2500.0,,,,,2500.0,hco,recordati
