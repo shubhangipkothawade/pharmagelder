@@ -10,7 +10,7 @@ Philipp Gerber,Zürich,CH,Rämistrasse 100,,,,,,,880.0,,880.0,hcp,shire
 Pierre-Alexandre Krayenbühl,Uznach,CH,Gasterstrasse 25,,,,,,,1250.0,90.0,1340.0,hcp,shire
 Thomas Kühne,Basel,CH,Spitalstrasse 33,,,,,,,1000.0,,1000.0,hcp,shire
 Wolfgang Korte,St. Gallen,CH,Frohbergstrasse 3,,,,,,,,28.02,28.02,hcp,shire
-(EIPI),Morges,CH,Rue des Vignerons 1B,,,23200.4,,,,,,23200.4,hco,shire
+EIPI,Morges,CH,Rue des Vignerons 1B,,,23200.4,,,,,,23200.4,hco,shire
 CHUV,Lausanne,CH,Rue Du Bugnon 21,,,,14900.0,2514.75,6878.15,2500.0,133.17,26926.07,hco,shire
 COALAT / Anesthesiology CHUV,Lausanne,CH,Rue Du Bugnon 46,,,,3000.0,,,,,3000.0,hco,shire
 Congrex Schweiz Ltd.,Basel,CH,Peter Merian-Strasse 80,,,,6000.0,,,,,6000.0,hco,shire
@@ -28,7 +28,7 @@ Hôpital des Trois Chênes,Thônex,CH,Chemin du Pont-Bochet 3,,,,,602.44,2737.42
 Hôpital du Jura Delémont,Delémont,CH,Faubourg des Capucins 30,,,,500.0,737.32,532.74,,,1770.06,hco,shire
 Hopitaux Universitaires de Geneve,Thonex,CH,Ch.du Petit-Bel-Air 2,,,,6000.0,,,1500.0,51.0,7551.0,hco,shire
 HUG - Hopiteaux Universitaires de Geneve,Geneve,CH,Rue Gabrielle-Peret-Gentil 4,,,,,572.58,1061.38,,,1633.96,hco,shire
-IBDnet,Zürich,CH,na,,,,14000.0,,,,,14000.0,hco,shire
+IBDnet,Zürich,CH,,,,,14000.0,,,,,14000.0,hco,shire
 Insel Gruppe AG,Bern,CH,Freiburgstrasse 18,,,,18088.0,,,,57.21,18145.21,hco,shire
 Inselspital Bern,Bern,CH,Freiburgstrasse 18,,,20000.0,8500.0,2861.15,7501.51,1250.0,,40112.66,hco,shire
 Institut für Pharmakologie,Bern,CH,Freiburgstrasse,,,,1000.0,,,,,1000.0,hco,shire
@@ -49,7 +49,7 @@ Innere Medizin (SGAIM),Basel,CH,Monbijoustr. 43,,,,5120.0,,,,,5120.0,hco,shire
 SFFD,Uznach,CH,Gasterstrasse 25,,,,1500.0,,,,,1500.0,hco,shire
 Kongressorganisation im Gesundheitswesen,Bern,CH,Wattenwylweg 21,,,,5000.0,,,,,5000.0,hco,shire
 und Immunologie (SGAI),Bern 22,CH,Scheibenstraße 20,,,,13500.0,,,,,13500.0,hco,shire
-St.Gallen Oncology Conferences,St. Gallen,CH,Rorschacher Strasse 150,,,,4500.0,,,,,4500.0,hco,shire
+St. Gallen Oncology Conferences,St. Gallen,CH,Rorschacher Strasse 150,,,,4500.0,,,,,4500.0,hco,shire
 Stadtspital Waid Zürich,Zürich,CH,Tièchestrasse 99,,,,,,,900.0,,900.0,hco,shire
 Anästhesiologie,Zürich,CH,Birmensdorferstrasse 497,,,,850.0,,,,,850.0,hco,shire
 Studio Dr. Montedoro Ezio,Arbedo,CH,Via Orbello 22,,,,1500.0,,,,,1500.0,hco,shire
