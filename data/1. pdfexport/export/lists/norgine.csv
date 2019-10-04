@@ -1,17 +1,17 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source,_export_information
-Sophie Buyse,Yverdon-les-Bains,CH,"Rue du Four 6, 1400",,N/a,,,385.0,0.0,0,0,385.0,hcp,norgine,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Sophie Buyse
-MPH Peter Indra,Bottmingen,CH,"Spechtweg 18, 4103",,,,,0.0,0.0,1000,0,1000.0,hcp,norgine,
-Beat Müllhaupt,Zürich,CH,"UniversitätsSpital Zürich Rämistrasse 100, 8091 Zürich, Switzerland, 8091",,,,,0.0,0.0,2000,0,2000.0,hcp,norgine,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Beat Müllhaupt
-Diana Ollo,Genève,CH,"Hôpitaux universitaires de Genève, Gastro-entérologie et hépatologie, Rue Gabrielle-Perret-Gentil 4, 1205",,N/a,,,459.72,694.23,0,0,1153.95,hcp,norgine,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Diana Ollo
-Mariann Szabo,Bruderholz,CH,"Gastroenterologie, 4101",,N/a,,,360.12,620.72,0,0,980.84,hcp,norgine,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Mariann Szabo
-Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,"Rue du Bugnon 44, 1011",,,0.0,2500.0,0.0,0.0,0,0,2500.0,hco,norgine,
-Ente Ospedaliero Cantonale,Bellinzona,CH,"Bellinzona, 6500",,,0.0,1000.0,0.0,0.0,0,0,1000.0,hco,norgine,
-Fondation des Grangettes,Chêne-Bougeries,CH,"7, chemin des Grangettes , 1224",,,0.0,800.0,0.0,0.0,0,0,800.0,hco,norgine,
-Gastroenterologie Oberaargau AG,Langenthal,CH,"Seilereistrase 1, 4900",,,0.0,750.0,0.0,0.0,0,0,750.0,hco,norgine,
-Hôpital du Valais,Sion,CH,"Avenue Grand-Champsec 86 , 1951",,,0.0,2000.0,0.0,0.0,0,0,2000.0,hco,norgine,
-"Insel Gruppe AG, Stiftungen und Fonds",Bern,CH,"Freiburgstrasse 18, 3010",,,0.0,2785.52,0.0,0.0,0,0,2785.52,hco,norgine,
-Kantonsspital Obwalden,Sarnen,CH,"Brünigstrasse 181, 6060",,N/a,0.0,500.0,0.0,0.0,0,0,500.0,hco,norgine,
-Kantonsspital St.Gallen,St. Gallen,CH,"Rorschacher-Strasse 95, 9007",,,0.0,1700.0,0.0,0.0,0,0,1700.0,hco,norgine,
-Stiftung für die Forschung in der Gastroenterologie und Hepatologie,Zürich,CH,"Rämistrasse 100, 8091",,,0.0,5000.0,0.0,0.0,0,0,5000.0,hco,norgine,
-"SwissNGM The Neurogastro-Motility Network,  Daniel Pohl",Zürich,CH,"Rämistrasse 100, 8091",,,0.0,1000.0,0.0,0.0,0,0,1000.0,hco,norgine,
-"Verein Interdigest,  Daniel Christen,  Beat Helbling",Zürich,CH,"Privatklinik Bethanien, Toblerstrasse 51, 8044",,,0.0,1000.0,0.0,0.0,0,0,1000.0,hco,norgine,
+Sophie Buyse,Yverdon-les-Bains,CH,Rue du Four 6,1400,N/a,,,385.0,0.0,0,0,385.0,hcp,norgine,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Sophie Buyse
+MPH Peter Indra,Bottmingen,CH,Spechtweg 18,4103,,,,0.0,0.0,1000,0,1000.0,hcp,norgine,
+Beat Müllhaupt,Zürich,CH,"UniversitätsSpital Zürich Rämistrasse 100 Zürich, Switzerland",8091,,,,0.0,0.0,2000,0,2000.0,hcp,norgine,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Beat Müllhaupt
+Diana Ollo,Genève,CH,"Hôpitaux universitaires de Genève, Gastro-entérologie et hépatologie, Rue Gabrielle-Perret-Gentil 4",1205,N/a,,,459.72,694.23,0,0,1153.95,hcp,norgine,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Diana Ollo
+Mariann Szabo,Bruderholz,CH,Gastroenterologie,4101,N/a,,,360.12,620.72,0,0,980.84,hcp,norgine,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Mariann Szabo
+Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,Rue du Bugnon 44,1011,,0.0,2500.0,0.0,0.0,0,0,2500.0,hco,norgine,
+Ente Ospedaliero Cantonale,Bellinzona,CH,Bellinzona,6500,,0.0,1000.0,0.0,0.0,0,0,1000.0,hco,norgine,
+Fondation des Grangettes,Chêne-Bougeries,CH,"7, chemin des Grangettes ",1224,,0.0,800.0,0.0,0.0,0,0,800.0,hco,norgine,
+Gastroenterologie Oberaargau AG,Langenthal,CH,Seilereistrase 1,4900,,0.0,750.0,0.0,0.0,0,0,750.0,hco,norgine,
+Hôpital du Valais,Sion,CH,Avenue Grand-Champsec 86 ,1951,,0.0,2000.0,0.0,0.0,0,0,2000.0,hco,norgine,
+"Insel Gruppe AG, Stiftungen und Fonds",Bern,CH,Freiburgstrasse 18,3010,,0.0,2785.52,0.0,0.0,0,0,2785.52,hco,norgine,
+Kantonsspital Obwalden,Sarnen,CH,Brünigstrasse 181,6060,N/a,0.0,500.0,0.0,0.0,0,0,500.0,hco,norgine,
+Kantonsspital St.Gallen,St. Gallen,CH,Rorschacher-Strasse 95,9007,,0.0,1700.0,0.0,0.0,0,0,1700.0,hco,norgine,
+Stiftung für die Forschung in der Gastroenterologie und Hepatologie,Zürich,CH,Rämistrasse 100,8091,,0.0,5000.0,0.0,0.0,0,0,5000.0,hco,norgine,
+"SwissNGM The Neurogastro-Motility Network,  Daniel Pohl",Zürich,CH,Rämistrasse 100,8091,,0.0,1000.0,0.0,0.0,0,0,1000.0,hco,norgine,
+"Verein Interdigest,  Daniel Christen,  Beat Helbling",Zürich,CH,"Privatklinik Bethanien, Toblerstrasse 51",8044,,0.0,1000.0,0.0,0.0,0,0,1000.0,hco,norgine,
