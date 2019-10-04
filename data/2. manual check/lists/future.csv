@@ -1,5 +1,5 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-Imene Abdelli,La,CH,Rue de Chasseral 20,,,,,570.59,1254.1,,,1824.69,hcp,future
+Imene Abdelli,La Chaux-de-Fonds,CH,Rue de Chasseral 20,,,,,570.59,1254.1,,,1824.69,hcp,future
 Kwadwo Antwi,Basel,CH,Petersgraben 4,,7601003357066,,,,128.9,,,128.9,hcp,future
 Birsen Arici,Liestal,CH,Rathausstrasse 24,,7601000718198,,,739.22,800.75,,,1539.97,hcp,future
 Felix Beuschlein,Zürich,CH,Rämistrasse 100,,7601003912746,,,,147.74,,,147.74,hcp,future
@@ -44,11 +44,11 @@ Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,7601002000208,,16
 Klinik Hirslanden AG,Zürich,CH,Witellikerstrass e 40,,7601002087254,,3309.04,,,,,3309.04,hco,future
 Luzerner Kantonsspital Luzern,Luzern,CH,Spitalstrasse,,7601002001120,,1500.0,,,,,1500.0,hco,future
 Ospedale Bellinzona e Valli EOC ‐ IOR,Bellinzona,CH,Via Vincenzo Vela 6 Ospedale San Giovanni,,,,,,,500.0,,500.0,hco,future
-SAKK Koordinationszen trum,Bern,CH,Effingerstrasse 33,,,,11000.0,,,,,11000.0,hco,future
+SAKK Koordinationszentrum,Bern,CH,Effingerstrasse 33,,,,11000.0,,,,,11000.0,hco,future
 SAMO ‐ Geschäftsstelle,Bern,CH,Effingerstrasse 40 c/o IBCSG Coordinating,,,,21232.13,,,,,21232.13,hco,future
 SGED‐SSED,Baden,CH,Rütistrasse 3A c/o,,,,10000.0,,,,,10000.0,hco,future
-St.Gallen Oncology Conferences,St. Gallen,CH,Rorschacher Strasse 150 c/o Tumor‐ u. Brustzentrum,,,,1500.0,,,,,1500.0,hco,future
-Stift für wiss.Forschung Triemli,Zürich,CH,Birmensdorferstr asse 497 Stadtspital Triemli,,,,1794.07,,,,,1794.07,hco,future
+St. Gallen Oncology Conferences,St. Gallen,CH,Rorschacher Strasse 150 c/o Tumor‐ u. Brustzentrum,,,,1500.0,,,,,1500.0,hco,future
+Stift für wiss. Forschung Triemli,Zürich,CH,Birmensdorferstr asse 497 Stadtspital Triemli,,,,1794.07,,,,,1794.07,hco,future
 SWIRO,Wettingen,CH,Hardstrasse 40C,,,,588.14,,,,,588.14,hco,future
-Universitätsspit al Basel,Basel,CH,Spitalstrasse 21,,7601002117142,,11500.0,3989.94,13405.01,3441.21,501.73,32837.89,hco,future
-UniversitätsSpit al Zürich,Zürich,CH,Rämistrasse 100,,7601002117135,,8468.95,,,,,8468.95,hco,future
+Universitätsspital Basel,Basel,CH,Spitalstrasse 21,,7601002117142,,11500.0,3989.94,13405.01,3441.21,501.73,32837.89,hco,future
+UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,,7601002117135,,8468.95,,,,,8468.95,hco,future

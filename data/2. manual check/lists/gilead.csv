@@ -1,5 +1,5 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source,_export_information
-Béatrice Aebersold,Bern,CH,Schwarztorstrass e 9,,,,,245.0,874.0,,,1119,hcp,gilead,
+Béatrice Aebersold,Bern,CH,Schwarztorstrasse 9,,,,,245.0,874.0,,,1119,hcp,gilead,
 Karoline Aebi-Popp,Bern,CH,Schönburgstrasse 19,,,,,,442.0,806.0,,1248,hcp,gilead,
 Anca-Teodora Antonino,Genolier,CH,Route du Muids 3 Clinique de Genolier SA,,,,,413.0,828.0,,,1242,hcp,gilead,
 Björn Becker,Winterthur,CH,Brauerstrasse 15,,,,,319.0,677.0,,,997,hcp,gilead,
@@ -7,9 +7,9 @@ Stefano Bellentani,Locarno,CH,Via Stefano Franscini 4,,,,,79.0,629.0,,,709,hcp,g
 Marzia Borojevic,Lugano,CH,Via Trevano 6,,,,,548.0,497.0,,,1045,hcp,gilead,
 Denise Borso,Zürich,CH,Konradstrasse 1,,,,,187.0,726.0,,,914,hcp,gilead,
 Sebastian Braun,Uster,CH,Brunnenstrasse 42,,,,,319.0,456.0,,,776,hcp,gilead,
-Claudia Re Del Brun,Langenthal,CH,St. Urbanstrasse 67,,,,,236.0,1400.0,,,1636,hcp,gilead,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Brun Del Re Claudia
+Claudia Brun Del Re,Langenthal,CH,St. Urbanstrasse 67,,,,,236.0,1400.0,,,1636,hcp,gilead,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Brun Del Re Claudia
 Nathalie Brunner,Zürich,CH,Kanonengasse 18,,,,,319.0,1116.0,,,1435,hcp,gilead,
-OLIVER CAVIEZEL,Zürich,CH,Konradstrasse 1 Zürich,,,,,245.0,722.0,,,968,hcp,gilead,
+Oliver Caviezel CAVIEZEL,Zürich,CH,Konradstrasse 1 Zürich,,,,,245.0,722.0,,,968,hcp,gilead,
 Jean-Philippe Chave,Lausanne,CH,Chemin Porchat 24,,,,,1019.0,4168.0,,,5188,hcp,gilead,
 Olivier Clerc,Neuchâtel,CH,Rue de la Maladière 45 Hôpital Pourtalès,,,,,1001.0,3096.0,,,4098,hcp,gilead,
 Andreas Dahlke,Zürich,CH,Konradstrass e 1,,,,,245.0,712.0,,,957,hcp,gilead,
@@ -171,7 +171,7 @@ Trägerverein SOHC,Zürich,CH,Talackerstrasse 50 c/o Reichenbach Rechtsanwälte,
 SII,Bern,CH,Friedbühlstrasse 51,,,,4000.0,,,,,4000,hco,gilead,
 Universitätsspit al Basel,Basel,CH,Spitalstrasse 21,,,5000.0,16040.0,8253.0,9323.0,9360.0,72.0,48049,hco,gilead,
 UniversitätsSpit al Zürich,Zürich,CH,Rämistrasse 100,,,,4615.0,8149.0,27820.0,26969.0,150.0,67704,hco,gilead,
-Klinik für Gastroenterologi e,Zürich,CH,Rämistrasse 100,,,,14001.0,,,1080.0,,15081,hco,gilead,
+Klinik für Gastroenterologie,Zürich,CH,Rämistrasse 100,,,,14001.0,,,1080.0,,15081,hco,gilead,
 Samo - swiss academy,Zürich,CH,Häldeliweg 4,,,,6462.0,,,,,6462,hco,gilead,
-Verein Gastroenterologi e Zürich,Uster,CH,Poststrasse 2,,,,3250.0,,,,,3250,hco,gilead,
+Verein Gastroenterologie Zürich,Uster,CH,Poststrasse 2,,,,3250.0,,,,,3250,hco,gilead,
 Zentrum für Suchtmedizin ZfS,Basel,CH,Haltingerstrasse 65,,,5000.0,,,,,,5000,hco,gilead,
