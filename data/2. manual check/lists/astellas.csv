@@ -16,7 +16,7 @@ Jean-Claude Marti,Biel/Bienne,CH,"Praxis Dr. Marti Jean-Claude, Unterer Quai92, 
 Mark Meier,St. Gallen,CH,"Urologie am Stephanshorn, Brauerstrasse95a, 9016",,7601000533555,,,,,2400.0,,2400.0,hcp,astellas
 Alexander Meisel,Zürich,CH,"Stadtspital Waid Zürich, Tièchestrasse 99,8037",,7601003319125,,,329.67,2151.42,1200.0,,3681.09,hcp,astellas
 Nicolas Johannes Müller,Zürich,CH,"No Parent, Rämistrasse 100, 8091",,7601000220066,,,,1609.0,,,1609.0,hcp,astellas
-Gabi Oswald,Hergiswil NW,CH,"Urologie Zentrum Hergiswil,Sonnenbergstrasse 9, 6052",,Not Available,,,,,800.0,,800.0,hcp,astellas
+Gabi Oswald,Hergiswil NW,CH,"Urologie Zentrum Hergiswil,Sonnenbergstrasse 9, 6052",,,,,,,800.0,,800.0,hcp,astellas
 Gianfranco Pesce,Bellinzona,CH,"Ospedale Bellinzona e Valli EOC, ViaOspedale, 6500",,7601000190185,,,646.67,1952.74,,,2599.41,hcp,astellas
 Julien Renard,Bellinzona,CH,"Ospedale Bellinzona e Valli EOC, ViaOspedale 10, 6500",,7601000845016,,,,,1250.0,,1250.0,hcp,astellas
 Eugen Riedi,Chur,CH,"Praxis Dr. Riedi Eugen, Poststrasse 22, 7000",,7601000191571,,,881.7,1048.8,,,1930.5,hcp,astellas
@@ -31,25 +31,25 @@ Arnoud Templeton,Basel,CH,"St. Claraspital AG, Kleinriehenstrasse 30,4058",,7601
 Maria Ziembrowski,Frauenfeld,CH,"Praxis Dr. Ziembrowski Maria,Kurzfeldstrasse 1, 8500",,7601000242761,,,680.4,890.4,500.0,,2070.8,hcp,astellas
 Matthias Zimmermann,Zürich,CH,"Stadtspital Triemli, Birmensdorferstrasse497, 8063",,7601000657411,,,,,1000.0,,1000.0,hcp,astellas
 Andrea Roberto Zoelly,Zürich,CH,"Uroviva - Zentrum für Urologie,Goethestrasse 24, 8001",,7601000251336,,,881.67,1048.4,,,1930.07,hcp,astellas
-Apothekerverband Kantons Zürich,Zürich,CH,"Rotbuchstrasse 83, Zürich, 8037",,Not Available,,3000.0,,,,,3000.0,hco,astellas
+Apothekerverband Kantons Zürich,Zürich,CH,"Rotbuchstrasse 83, Zürich, 8037",,,,3000.0,,,,,3000.0,hco,astellas
 Arztpraxis im Park AG,Meggen,CH,"Luzernerstrasse 37, Meggen, 6045",,7601002522748,,,,,1000.0,52.0,1052.0,hco,astellas
 Blasenzentrum AG,Zürich,CH,"Gottfried-Keller-Strasse 7, Zürich, 8001",,7601002147910,,,,,1200.0,,1200.0,hco,astellas
 Cabinet Dr Meylan Pascal,Le Mont-sur-Lausanne,CH,"Chemin du Saux 34, Le Mont-sur-Lausanne,1052",,,,,,,100.0,,100.0,hco,astellas
-Cabinet Dr Praz Valentin,Morges,CH,"Avenue des Pâquis 29, Morges, 1110",,Not Available,,,924.85,563.9,,,1488.75,hco,astellas
+Cabinet Dr Praz Valentin,Morges,CH,"Avenue des Pâquis 29, Morges, 1110",,,,,924.85,563.9,,,1488.75,hco,astellas
 CHUV,Lausanne,CH,"Rue Du Bugnon 21, Lausanne, 1011",,7601002074803,,21827.55,1338.5,7755.69,9250.0,74.0,40245.74,hco,astellas
 Clinique Générale Beaulieu,Genève,CH,"Chemin de Beau-Soleil 20, Genève, 1206",,7601002114523,,400.0,,,,,400.0,hco,astellas
-ERS,Lausanne,CH,"Avenue Sainte-Luce 4, Lausanne, 1003",,Not Available,1343.55,,,,,,1343.55,hco,astellas
-ESMO,Viganello,CH,"via Luigi Taddei 4, Viganello, 6962",,Not Available,,178749.9,,,,,178749.9,hco,astellas
-Fondation CCAC SA,Lausanne,CH,"Avenue Vinet 19b, Lausanne, 1004",,Not Available,,1000.0,,,,,1000.0,hco,astellas
-Fondazione Epatocentro Ticino,Lugano,CH,"Via Soldino 5, Lugano, 6900",,Not Available,,2500.0,,,,,2500.0,hco,astellas
-Forum f.medizinische Fortbildung,Zug,CH,"Ahornstrasse 2, Zug, 6300",,Not Available,,33075.0,,,,,33075.0,hco,astellas
+ERS,Lausanne,CH,"Avenue Sainte-Luce 4, Lausanne, 1003",,,1343.55,,,,,,1343.55,hco,astellas
+ESMO,Viganello,CH,"via Luigi Taddei 4, Viganello, 6962",,,,178749.9,,,,,178749.9,hco,astellas
+Fondation CCAC SA,Lausanne,CH,"Avenue Vinet 19b, Lausanne, 1004",,,,1000.0,,,,,1000.0,hco,astellas
+Fondazione Epatocentro Ticino,Lugano,CH,"Via Soldino 5, Lugano, 6900",,,,2500.0,,,,,2500.0,hco,astellas
+Forum f.medizinische Fortbildung,Zug,CH,"Ahornstrasse 2, Zug, 6300",,,,33075.0,,,,,33075.0,hco,astellas
 HFR Fribourg-Hôpital Cantonal,Fribourg,CH,"Chemin des Pensionnats 2, Fribourg, 1708",,7601002000086,,1000.0,,,,,1000.0,hco,astellas
 Hôpitaux Universitaires Genève,Genève,CH,"Rue Gabrielle-Perret-Gentil 4, Genève, 1205",,7601002116763,,7900.0,2041.9,1351.88,800.0,,12093.78,hco,astellas
 Inartis Network,Renens VD,CH,"Avenue des Baumettes 11, Renens VD, 1020",,,,2000.0,,,,,2000.0,hco,astellas
 Inselspital Bern,Bern,CH,"Freiburgstrasse 18, Bern, 3010",,7601002001724,,6750.0,2168.43,4797.78,4702.45,338.11,18756.77,hco,astellas
-Institut für Pflegewissenschaft,Basel,CH,"Bernoullistrasse 28, Basel, 4056",,Not Available,,,,,1750.0,42.5,1792.5,hco,astellas
-IOR,Bellinzona,CH,"Via Vincenzo Vela 6, Bellinzona, 6500",,Not Available,,3500.0,,,,,3500.0,hco,astellas
-Journée Jurasienne de Médecine,Delémont,CH,"Rue de la Préfecture 1, Delémont, 2800",,Not Available,,1500.0,,,,,1500.0,hco,astellas
+Institut für Pflegewissenschaft,Basel,CH,"Bernoullistrasse 28, Basel, 4056",,,,,,,1750.0,42.5,1792.5,hco,astellas
+IOR,Bellinzona,CH,"Via Vincenzo Vela 6, Bellinzona, 6500",,,,3500.0,,,,,3500.0,hco,astellas
+Journée Jurasienne de Médecine,Delémont,CH,"Rue de la Préfecture 1, Delémont, 2800",,,,1500.0,,,,,1500.0,hco,astellas
 Kantonsspital Aarau AG,Aarau,CH,"Tellstrasse 25, Aarau, 5001",,7601002001137,,4200.0,680.4,990.6,3650.0,,9521.0,hco,astellas
 Kantonsspital Baden AG,Baden,CH,"Im Ergel 1, Baden, 5404",,7601002001144,,2500.0,,,,,2500.0,hco,astellas
 Kantonsspital Baselland,Liestal,CH,"Rheinstrasse 26, Liestal, 4410",,7601002001540,,,549.8,777.35,,,1327.15,hco,astellas
@@ -60,23 +60,23 @@ Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacher Strasse 95, St. Gallen, 9007
 Kantonsspital Winterthur,Winterthur,CH,"Brauerstrasse 15, Winterthur, 8401",,7601002114943,,8000.0,,,1200.0,,9200.0,hco,astellas
 Kliniken Valens,Valens,CH,"Taminaplatz 1, Valens, 7317",,7601002003414,,1000.0,,,,,1000.0,hco,astellas
 Klinische Pharmakologie,Bern,CH,"Freiburgstrasse 15, Bern, 3010",,7601001060142,,3000.0,,,,,3000.0,hco,astellas
-LH Medical Management GmbH,Liestal,CH,"Sonnenweg 27, Liestal, 4410",,Not Available,,7000.0,,,,,7000.0,hco,astellas
+LH Medical Management GmbH,Liestal,CH,"Sonnenweg 27, Liestal, 4410",,,,7000.0,,,,,7000.0,hco,astellas
 Luzerner Kantonsspital Luzern,Luzern,CH,"Spitalstrasse, Luzern, 6004",,7601002001120,,,2001.55,5070.97,,,7072.52,hco,astellas
-Medworld AG,Steinhausen,CH,"Sennweidstrasse 46, Steinhausen, 6312",,Not Available,,4320.0,,,,,4320.0,hco,astellas
-Meeting.com Sàrl,Cheseaux-sur-Lausanne,CH,"Rue des Pâquis 1, Cheseaux-sur-Lausanne,1033",,Not Available,5000.0,,,,,,5000.0,hco,astellas
-Onkologiepflege Schweiz,Kleinandelfingen,CH,"Hirstigstrasse 13, Kleinandelfingen, 8451",,Not Available,,3500.0,,,,,3500.0,hco,astellas
+Medworld AG,Steinhausen,CH,"Sennweidstrasse 46, Steinhausen, 6312",,,,4320.0,,,,,4320.0,hco,astellas
+Meeting.com Sàrl,Cheseaux-sur-Lausanne,CH,"Rue des Pâquis 1, Cheseaux-sur-Lausanne,1033",,,5000.0,,,,,,5000.0,hco,astellas
+Onkologiepflege Schweiz,Kleinandelfingen,CH,"Hirstigstrasse 13, Kleinandelfingen, 8451",,,,3500.0,,,,,3500.0,hco,astellas
 Ospedale Bellinzona e Valli EOC,Bellinzona,CH,"Via Ospedale, Bellinzona, 6500",,7601002003827,,6500.0,,,1050.0,75.0,7625.0,hco,astellas
-S. Grasso Consulting,Lindau,CH,"Fischeracherstrasse 17, Lindau, 8315",,Not Available,,2000.0,,,,,2000.0,hco,astellas
-SAKK Koordinationszentrum,Bern,CH,"Effingerstrasse 33, Bern, 3008",,Not Available,30000.0,10000.0,,,,,40000.0,hco,astellas
-SAMO - Geschäftsstelle,Bern,CH,"Effingerstrasse 40, Bern, 3008",,Not Available,,11000.0,,,,,11000.0,hco,astellas
-SGGG-SSGO,Bern,CH,"Altenbergstrasse 29, Bern, 3000",,Not Available,,2000.0,,,,,2000.0,hco,astellas
-SGN,Worb,CH,"BLANK, Worb, 3076",,Not Available,,24576.0,,,,,24576.0,hco,astellas
-Stift für wiss.Forschung Triemli,Zürich,CH,"Birmensdorferstrasse 497, Zürich, 8063",,Not Available,,2500.0,,,,,2500.0,hco,astellas
-Stiftung Urologische Forschung,Zürich,CH,"Claridenstrasse 25, Zürich, 8002",,Not Available,,7000.0,,,,,7000.0,hco,astellas
-Swiss Transplantation Society,Cheseaux-sur-Lausanne,CH,"c/o meeting.com Sàrl, Cheseaux-sur-Lausanne, 1033",,Not Available,,22800.0,,,,,22800.0,hco,astellas
-Swiss Tumor Institute Pl. Zürich,Zürich,CH,"Seestrasse 259, Zürich, 8038",,Not Available,,8000.0,,,,,8000.0,hco,astellas
-Swisstransplant,Bern,CH,"Effingerstrasse 1, Bern, 3011",,Not Available,,1500.0,,,,,1500.0,hco,astellas
-Union for International Cancer,Genève,CH,"Avenue Giuseppe Motta 31-33, Genève,1202",,Not Available,,226698.17,,,,,226698.17,hco,astellas
+S. Grasso Consulting,Lindau,CH,"Fischeracherstrasse 17, Lindau, 8315",,,,2000.0,,,,,2000.0,hco,astellas
+SAKK Koordinationszentrum,Bern,CH,"Effingerstrasse 33, Bern, 3008",,,30000.0,10000.0,,,,,40000.0,hco,astellas
+SAMO - Geschäftsstelle,Bern,CH,"Effingerstrasse 40, Bern, 3008",,,,11000.0,,,,,11000.0,hco,astellas
+SGGG-SSGO,Bern,CH,"Altenbergstrasse 29, Bern, 3000",,,,2000.0,,,,,2000.0,hco,astellas
+SGN,Worb,CH,"BLANK, Worb, 3076",,,,24576.0,,,,,24576.0,hco,astellas
+Stift für wiss.Forschung Triemli,Zürich,CH,"Birmensdorferstrasse 497, Zürich, 8063",,,,2500.0,,,,,2500.0,hco,astellas
+Stiftung Urologische Forschung,Zürich,CH,"Claridenstrasse 25, Zürich, 8002",,,,7000.0,,,,,7000.0,hco,astellas
+Swiss Transplantation Society,Cheseaux-sur-Lausanne,CH,"c/o meeting.com Sàrl, Cheseaux-sur-Lausanne, 1033",,,,22800.0,,,,,22800.0,hco,astellas
+Swiss Tumor Institute Pl. Zürich,Zürich,CH,"Seestrasse 259, Zürich, 8038",,,,8000.0,,,,,8000.0,hco,astellas
+Swisstransplant,Bern,CH,"Effingerstrasse 1, Bern, 3011",,,,1500.0,,,,,1500.0,hco,astellas
+Union for International Cancer,Genève,CH,"Avenue Giuseppe Motta 31-33, Genève,1202",,,,226698.17,,,,,226698.17,hco,astellas
 Universitätsspital Basel,Basel,CH,"Spitalstrasse 21, Basel, 4031",,7601002117142,,5000.0,646.67,1952.74,6794.0,94.0,14487.41,hco,astellas
 UniversitätsSpital Zürich,Zürich,CH,"Rämistrasse 100, Zürich, 8091",,7601002117135,12000.0,24223.0,1380.0,2845.6,1050.0,51.0,41549.6,hco,astellas
-Uroclinic Wetzikon,Wetzikon ZH,CH,"Kirchgasse 4, Wetzikon ZH, 8620",,Not Available,,3500.0,,,,,3500.0,hco,astellas
+Uroclinic Wetzikon,Wetzikon ZH,CH,"Kirchgasse 4, Wetzikon ZH, 8620",,,,3500.0,,,,,3500.0,hco,astellas

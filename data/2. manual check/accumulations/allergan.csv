@@ -1,6 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
-hcp_amount,,0,250,24509.3,77045,6000,107804.3,allergan
-hco_amount,0.0,33584,0,0.0,0,0,33584.0,allergan
-hcp_count,,0,1,39.0,25,36,101.0,allergan
-hco_count,0.0,10,0,0.0,0,0,,allergan
-rnd,0.0,0,0,0.0,0,0,0.0,allergan
+hcp_amount,,0.0,0.0,12042.94,4365.0,3180.8,19588.74,allergan
+hco_amount,0.0,13000.0,0.0,0.0,0.0,0.0,13000.0,allergan
+hcp_count,,0.0,0.0,16.0,3.0,16.0,21.0,allergan
+hco_count,0.0,4.0,0.0,0.0,0.0,0.0,,allergan
+rnd,0.0,0.0,0.0,0.0,0.0,0.0,0.0,allergan
