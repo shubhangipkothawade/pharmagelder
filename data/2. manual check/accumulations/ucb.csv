@@ -1,5 +1,4 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
-hcp_amount,,,1975.87,6073.87,,20756.1,28805.84,ucb
-hco_amount,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ucb
-hco_count,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ucb
-rnd,,,,,,,466634.27,ucb
+hcp_amount,,,1975.87,4807.95,,10459.41,17452.73,ucb
+hco_amount,,,,649.25,,35207.19,35856.44,ucb
+rnd,,,,,,,918939.0,ucb
