@@ -64,7 +64,7 @@ Francesco Negro,Genève,CH,Rue Gabrielle-Perret-Gentil 4 Service de Gastro-enté
 Daniel Oertle-Meyer,Zürich,CH,Dennlerstrasse 25,,,,,200.0,300.0,,,500,hcp,gilead
 Augusto Pedrazzini,Locarno,CH,Via Vincenzo Vela 11,,,,,271.0,283.0,,,555,hcp,gilead
 Vera Portillo,Delémont,CH,Faubourg des Capucins 30,,,,,294.0,600.0,,,894,hcp,gilead
-Christoph Renner,Zürich,CH,Witellikerstrass e 40,,,,,,,500.0,,500,hcp,gilead
+Christoph Renner,Zürich,CH,Witellikerstrasse 40,,,,,,,500.0,,500,hcp,gilead
 Alexandre Restellini,Onex,CH,Route de Loëx 3,,,,,413.0,971.0,,,1384,hcp,gilead
 Davide Rossi,Bellinzona,CH,Via Ospedale Ospedale San Giovanni,,,,,,,7298.0,2371.0,9670,hcp,gilead
 Marjam Rüdiger-Stürchler,Bern,CH,Dufourstrasse 30,,,,,,,750.0,,750,hcp,gilead
@@ -76,7 +76,7 @@ Mikael Sawatzki,Rorschach,CH,Heidenerstrasse 11,,,,,500.0,1170.0,,,1670,hcp,gile
 Claude Scheidegger,Basel,CH,Birsigstrasse 10,,,,,1.0,167.0,,,168,hcp,gilead
 Daniel Segna,Uster,CH,Brunnenstrasse 42,,,,,321.0,526.0,,,848,hcp,gilead
 Chanel Sinha,Zürich,CH,Anwandstrasse 2,,,,,363.0,700.0,,,1063,hcp,gilead
-Laurent Spahr,Genève,CH,Rue Gabrielle-Perret -Gentil 4 Service de Gastro-entérologie,,,,,413.0,1693.0,,,2106,hcp,gilead
+Laurent Spahr,Genève,CH,Rue Gabrielle-Perret-Gentil 4 Service de Gastro-entérologie,,,,,413.0,1693.0,,,2106,hcp,gilead
 Vito Spataro,Bellinzona,CH,Viale Stazione 23,,,,,271.0,425.0,,,697,hcp,gilead
 Lucas Sponagel,Basel,CH,Grenzacherstrasse 62,,,,,204.0,150.0,,,354,hcp,gilead
 Michel Starobinski,Onex,CH,Route de Chancy 98,,,,,288.0,933.0,,,1222,hcp,gilead
@@ -147,8 +147,8 @@ Pro Medicus GmbH,Zürich,CH,Bahnhofplatz 4,,,,10500.0,,,,,10500,hco,gilead
 Qualitätszirkel Ärzte Niederamt,Lostorf,CH,Stüsslingerstrasse 16,,,,2200.0,,,,,2200,hco,gilead
 RFSM-Réseau de santé mentale,Marsens,CH,Route De L'hôpital 140,,,,,,,2000.0,,2000,hco,gilead
 RSBJ,Ste-Croix,CH,Rue des Rosiers 29,,,,646.0,,,,,646,hco,gilead
-SAKK Koordinationszen trum,Bern,CH,Effingerstrasse 33,,,,5385.0,,,,,5385,hco,gilead
-SAKK Koordinationszen trum - SPOG-GOPS,Bern,CH,Effingerstrasse 33,,,,1500.0,,,,,1500,hco,gilead
+SAKK Koordinationszentrum,Bern,CH,Effingerstrasse 33,,,,5385.0,,,,,5385,hco,gilead
+SAKK Koordinationszentrum - SPOG-GOPS,Bern,CH,Effingerstrasse 33,,,,1500.0,,,,,1500,hco,gilead
 SAMMSU,Basel,CH,Birsigstrasse 10 c/o Dr. med. Claude Scheidegger,,,60000.0,,,,,,60000,hco,gilead
 SeGZ,Zürich,CH,Kanzleistrasse 80,,,30000.0,20238.0,,,,,50238,hco,gilead
 SGG - SSG,Bern,CH,Wattenwylweg 21,,,,16797.0,,,,,16797,hco,gilead
@@ -156,7 +156,7 @@ SGH-SSH,Münsingen,CH,Innerer Giessenweg 37,,,,3231.0,,,,,3231,hco,gilead
 SGInf Schw.Gesel. Infektiologie,Bern,CH,Freiburgstrasse 18,,,,16000.0,,,,,16000,hco,gilead
 SGTRM,Basel,CH,Socinstrasse 57,,,,4000.0,,,,,4000,hco,gilead
 SGV/SSMC,Winterthur,CH,Industriestrasse 24 c/o MBC Markus Bonelli Consult.,,,,13462.0,,,,,13462,hco,gilead
-Gastroenterologi e Zentrum,Solothurn,CH,Schöngrünstrasse 42,,,,,,137.0,,,137,hco,gilead
+Gastroenterologie Zentrum,Solothurn,CH,Schöngrünstrasse 42,,,,,,137.0,,,137,hco,gilead
 Spital Thun - STS AG,Thun,CH,Krankenhausstrasse 12,,,,,295.0,142.0,,,438,hco,gilead
 Spital Tiefenau Insel Gruppe AG,Bern,CH,Tiefenaustrasse 112,,,,,,,1750.0,,1750,hco,gilead
 Spitalzentrum Biel AG,Biel/Bienne,CH,Vogelsang 84,,,,,,190.0,,,190,hco,gilead
@@ -169,8 +169,8 @@ Swiss HIV Cohort Study Research,Lausanne,CH,Pont Bessières 3 c/o Fiduciaire Mai
 Swiss Tumor Institute Pl. Zürich,Zürich,CH,Seestrasse 259,,,,,,,1000.0,,1000,hco,gilead
 Trägerverein SOHC,Zürich,CH,Talackerstrasse 50 c/o Reichenbach Rechtsanwälte,,,,17232.0,,,,,17232,hco,gilead
 SII,Bern,CH,Friedbühlstrasse 51,,,,4000.0,,,,,4000,hco,gilead
-Universitätsspit al Basel,Basel,CH,Spitalstrasse 21,,,5000.0,16040.0,8253.0,9323.0,9360.0,72.0,48049,hco,gilead
-UniversitätsSpit al Zürich,Zürich,CH,Rämistrasse 100,,,,4615.0,8149.0,27820.0,26969.0,150.0,67704,hco,gilead
+Universitätsspital Basel,Basel,CH,Spitalstrasse 21,,,5000.0,16040.0,8253.0,9323.0,9360.0,72.0,48049,hco,gilead
+UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,,,,4615.0,8149.0,27820.0,26969.0,150.0,67704,hco,gilead
 Klinik für Gastroenterologie,Zürich,CH,Rämistrasse 100,,,,14001.0,,,1080.0,,15081,hco,gilead
 Samo - swiss academy,Zürich,CH,Häldeliweg 4,,,,6462.0,,,,,6462,hco,gilead
 Verein Gastroenterologie Zürich,Uster,CH,Poststrasse 2,,,,3250.0,,,,,3250,hco,gilead
