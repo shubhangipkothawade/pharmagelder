@@ -1,23 +1,23 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-Vittoria Espeli,6500 BELLINZONA,CH,"Bellinzona, Ospedale Reg. Bellinzona Ambulatorio oncologico IOSI Via Ospedale",6500,,,,,,125.0,,125.0,hcp,eisai
-Luca Giovanella,6500 BELLINZONA,CH,Ospedale Regionale Locarno Centro PET- CT Viale Officina 3,6500,,,,,,750.0,,750.0,hcp,eisai
-Thomas Grunwald,8008 ZüRICH,CH,"Schweizerische Epilepsie-Stiftung, Klinik Lengg AG Bleulerstrasse 60",8008,,,,,,2250.0,58.5,2308.5,hcp,eisai
-Christiane Güthner,8063 ZüRICH,CH,"Zürich, Stadtspital Triemli Institut für Onkologie",8063,,,,,,125.0,,125.0,hcp,eisai
-Dirk Klingbiel,3008 BERN,CH,Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung (SAKK) Effingerstrasse 33,3008,,,,,,,59.0,59.0,hcp,eisai
-Martin Kurthen,8008 ZüRICH,CH,Klinik Lengg AG Schweizerisches Epilepsie-Zentrum Medizin. Neurologie Bleulerstrasse 60,8008,,,,,,1500.0,,1500.0,hcp,eisai
-Lorenzo Magenta,6900 LUGANO,CH,Epatocentro Ticino SA Via Soldino 5,6900,,,,,,750.0,127.0,877.0,hcp,eisai
-Christoph Mamot,5001 AARAU,CH,"Aarau, Kantonsspital Onkologie/Hämatolog ie Tellstrasse",5001,,,,,,750.0,,750.0,hcp,eisai
-Mauro Manconi,6900 LUGANO,CH,Ospedale Regionale di Lugano Neurocentro EEG/Sonno Via Tesserete 46,6900,,,,,,1250.0,44.0,1294.0,hcp,eisai
-Joachim Mertens,8091 ZüRICH,CH,Universitätsspital Zürich Rämistrasse 100,8091,,,,,,750.0,,750.0,hcp,eisai
-Peter Moosmann,5001 AARAU,CH,"Aarau, Kantonsspital Onkologie/Hämatolog ie Tellstrasse",5001,,,,,,750.0,,750.0,hcp,eisai
-Boris Müller-Hübenthal,8005 ZüRICH,CH,Zentrum für Integrative Onkologie Hardturmstrasse 133 Bergstrasse 16,8005,,,,,,875.0,,875.0,hcp,eisai
-Miklós Pless,8400 WINTERTHUR,CH,"Winterthur, Kantonsspital Medizinische Onkologie Brauerstrasse 15",8400,,,,,,750.0,,750.0,hcp,eisai
-Christoph Reutter,8400 WINTERTHUR,CH,Praxis Brunngasse 6,8400,,,,,,1000.0,,1000.0,hcp,eisai
-Stephan Rüegg,4031 BASEL,CH,Universitätsspital Basel Petersgraben 4,4031,,,,,,2250.74,127.83,2378.57,hcp,eisai
+Vittoria Espeli,6500 Bellinzona,CH,"Bellinzona, Ospedale Reg. Bellinzona Ambulatorio oncologico IOSI Via Ospedale",6500,,,,,,125.0,,125.0,hcp,eisai
+Luca Giovanella,6500 Bellinzona,CH,Ospedale Regionale Locarno Centro PET- CT Viale Officina 3,6500,,,,,,750.0,,750.0,hcp,eisai
+Thomas Grunwald,8008 Zürich,CH,"Schweizerische Epilepsie-Stiftung, Klinik Lengg AG Bleulerstrasse 60",8008,,,,,,2250.0,58.5,2308.5,hcp,eisai
+Christiane Güthner,8063 Zürich,CH,"Zürich, Stadtspital Triemli Institut für Onkologie",8063,,,,,,125.0,,125.0,hcp,eisai
+Dirk Klingbiel,3008 Bern,CH,Schweizerische Arbeitsgemeinschaft für Klinische Krebsforschung (SAKK) Effingerstrasse 33,3008,,,,,,,59.0,59.0,hcp,eisai
+Martin Kurthen,8008 Zürich,CH,Klinik Lengg AG Schweizerisches Epilepsie-Zentrum Medizin. Neurologie Bleulerstrasse 60,8008,,,,,,1500.0,,1500.0,hcp,eisai
+Lorenzo Magenta,6900 Lugano,CH,Epatocentro Ticino SA Via Soldino 5,6900,,,,,,750.0,127.0,877.0,hcp,eisai
+Christoph Mamot,5001 Aarau,CH,"Aarau, Kantonsspital Onkologie/Hämatolog ie Tellstrasse",5001,,,,,,750.0,,750.0,hcp,eisai
+Mauro Manconi,6900 Lugano,CH,Ospedale Regionale di Lugano Neurocentro EEG/Sonno Via Tesserete 46,6900,,,,,,1250.0,44.0,1294.0,hcp,eisai
+Joachim Mertens,8091 Zürich,CH,Universitätsspital Zürich Rämistrasse 100,8091,,,,,,750.0,,750.0,hcp,eisai
+Peter Moosmann,5001 Aarau,CH,"Aarau, Kantonsspital Onkologie/Hämatolog ie Tellstrasse",5001,,,,,,750.0,,750.0,hcp,eisai
+Boris Müller-Hübenthal,8005 Zürich,CH,Zentrum für Integrative Onkologie Hardturmstrasse 133 Bergstrasse 16,8005,,,,,,875.0,,875.0,hcp,eisai
+Miklós Pless,8400 Winterthur,CH,"Winterthur, Kantonsspital Medizinische Onkologie Brauerstrasse 15",8400,,,,,,750.0,,750.0,hcp,eisai
+Christoph Reutter,8400 Winterthur,CH,Praxis Brunngasse 6,8400,,,,,,1000.0,,1000.0,hcp,eisai
+Stephan Rüegg,4031 Basel,CH,Universitätsspital Basel Petersgraben 4,4031,,,,,,2250.74,127.83,2378.57,hcp,eisai
 Patricia Vuichard,1470 Estavayer-le- Lac,CH,"Centre de santé La Corbière, La Corbière 6",1470,,,,,,1500.0,,1500.0,hcp,eisai
-Serge Vulliémoz,1211 GENèVE 14,CH,HUG - Hôpitaux Universitaires de Genève Clinique de Neurologie Rue Gabrielle Perret- Gentil 4,1211,,,,,,538.5,,538.5,hcp,eisai
-Tobias Wehrhahn,5001 AARAU,CH,"Aarau, Kantonsspital Tellstrasse 25",5001,,,,,,1000.0,,1000.0,hcp,eisai
-Andreas Wildi,3001 BERN,CH,Wildi Bubenbergplatz 8,3001,,,,,,1250.0,,1250.0,hcp,eisai
+Serge Vulliémoz,1211 Genève 14,CH,HUG - Hôpitaux Universitaires de Genève Clinique de Neurologie Rue Gabrielle Perret- Gentil 4,1211,,,,,,538.5,,538.5,hcp,eisai
+Tobias Wehrhahn,5001 Aarau,CH,"Aarau, Kantonsspital Tellstrasse 25",5001,,,,,,1000.0,,1000.0,hcp,eisai
+Andreas Wildi,3001 Bern,CH,Wildi Bubenbergplatz 8,3001,,,,,,1250.0,,1250.0,hcp,eisai
 2. Zürcher Brustkrebs Symposium 1. 11.2018 Organisator (Zahlungsempfänger) Bv Congress Gmbh Gegenleistung: Ausstellerstand,8625  Gossau,CH,Industriestrasse 37,8625,,,753.9,,,,,753.9,hco,eisai
 "12. Tumortage Winterthur 15.02. – 16.02.2019 Organisator (Zahlungsempfänger) Congrex Schweiz Ag Gegenleistung: Erwähnung Als Sponsor Auf Leerdias, Dokumentationen, Workshops",4002 Basel,CH,Peter Merian-Strasse 80,4002,,,1615.5,,,,,1615.5,hco,eisai
 Adhärenz Bei Oraler Tumortherapie,8451 Kleinandelfingen,CH,Hirstigstrasse,8451,,,500.0,,,,,500.0,hco,eisai
