@@ -74,7 +74,7 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 5850,Schweizerische Gesellschaft für Pädiatrie SGP,Fribourg,CH,Rue de l'Hôpital 15,,,,1200.0,,,,,1200.0,hco,menarini,rue de l'hopital 15,fribourg, pädiatrie sgp,8492
 8009,Schweizerische Gesellschaft für pädiatrische Endokrinologie und Diabetologie SGPED /SSEDP,Baden,CH,Rütistrasse 3a,,,,4000.0,,,,,4000.0,hco,novo,ruetistrasse 3a,baden, pädiatrische endokrinologie und diabetologie sgped /ssedp,8454
 2011,Schweizerische Gesellschaft für Radiologie - Société Suisse de Radiologie (SGR-SSR),Zürich,CH,Bellerivestrasse 11,8008.0,40519970,0.0,50600.0,0.0,0.0,0.0,0.0,50600.0,hco,bayer,bellerivestrasse 11,zuerich, radiologie - société suisse de radiologie (sgr-ssr),10128
-2012,Schweizerische Gesellschaft für Reproduktionsmedizin,Worb,CH,,3076.0,40519974,0.0,1650.0,0.0,0.0,0.0,0.0,1650.0,hco,bayer,nan,worb, reproduktionsmedizin,8495
+2012,Schweizerische Gesellschaft für Reproduktionsmedizin,Worb,CH,,3076.0,40519974,0.0,1650.0,0.0,0.0,0.0,0.0,1650.0,hco,bayer,,worb, reproduktionsmedizin,8495
 8608,Schweizerische Gesellschaft für Rheumatologie,Zürich,CH,Josefstrasse 92,,,0.0,62121.0,0.0,0.0,0.0,0.0,62121.0,hco,pfizer,josefstrasse 92,zuerich, rheumatologie,8496
 7601,Schweizerische Gesellschaft für Rheumatologie,Zürich,CH,Josefstrasse 92,,,0.0,24018.5,0.0,0.0,0.0,0.0,24018.5,hco,novartis,josefstrasse 92,zuerich, rheumatologie,8496
 4807,Schweizerische Gesellschaft für Rheumatologie,Zürich,CH,Josefstrasse 92,,,0.0,1357.03,0.0,0.0,0.0,0.0,1357.03,hco,glaxosmithkline,josefstrasse 92,zuerich, rheumatologie,8496
@@ -382,7 +382,7 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 8469,Breast Care Nurses Schweiz,Birsfelden,CH,Salmenstrasse 17,,,11394.0,0.0,0.0,0.0,0.0,0.0,11394.0,hco,pfizer,salmenstrasse 17,birsfelden,breast care nurses schweiz,8715
 9214,Breitepraxis AG,Unterseen,CH,Breite 2,,,,1135.0,,,,,1135.0,hco,sandoz,breite 2,unterseen,breitepraxis ag,-1
 9215,Brennpunkt Urologie c/o LH Medical Management,Liestal,CH,Postfach 278,,,,500.0,,,,,500.0,hco,sandoz,postfach 278,liestal,brennpunkt urologie ,8747
-9216,Brennpunkt Urologie c/o LH Medical Management GmbH,Liestal,CH,,,,,500.0,,,,,500.0,hco,sandoz,nan,liestal,brennpunkt urologie ,8747
+9216,Brennpunkt Urologie c/o LH Medical Management GmbH,Liestal,CH,,,,,500.0,,,,,500.0,hco,sandoz,,liestal,brennpunkt urologie ,8747
 1611,Brunnenhofpraxis,Chur,CH,Gäuggelistrasse 20,,,0.0,0.0,0.0,0.0,600.0,0.0,600.0,hco,astrazeneca,gaeuggelistrasse 20,chur,brunnenhofpraxis,-1
 4728,Bruno Bloch Stiftung,Zürich,CH,Gloriastrasse 31,,,0.0,4259.55,0.0,0.0,0.0,0.0,4259.55,hco,glaxosmithkline,gloriastrasse 31,zuerich,bruno bloch stiftung,8748
 6144,Bruno Bloch Stiftung c/o UniversitätsSpital Zürich,Zürich,CH,Gloriastrasse 31,,,,525.0,,,,,525.0,hco,merck,gloriastrasse 31,zuerich,bruno bloch stiftung ,8748
@@ -550,7 +550,7 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 7457,CIPRA / IGAPT Madame Kathleen Grant c/o CHUV BH07/363,Lausanne,CH,Rue de Bugnon,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,novartis,rue de bugnon,lausanne,cipra / igapt madame kathleen grant ,8857
 4925,Circolo di qualità PMB,Riva San Vitale,CH,Via alle Pianche 5,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,gruenenthal,via alle pianche 5,riva san vitale,circolo di qualità pmb,9804
 9888,Circolo di Qualità PMB,Riva San Vitale,CH,Via Alle Pianche 5,6826.0,,0.0,700.0,0.0,0.0,0.0,0.0,700.0,hco,takeda,via alle pianche 5,riva san vitale,circolo di qualità pmb,9804
-6048,Circolo die Farmacisti di Locarno e Valle Maggia,Minusio,CH,,6648.0,,,1200.0,,,,,1200.0,hco,mepha,nan,minusio,circolo die farmacisti di locarno e valle maggia,-1
+6048,Circolo die Farmacisti di Locarno e Valle Maggia,Minusio,CH,,6648.0,,,1200.0,,,,,1200.0,hco,mepha,,minusio,circolo die farmacisti di locarno e valle maggia,-1
 1884,Circolo medico del Bellinzonese,Arbedo,CH,Via Orbello 22,6517.0,1051739729,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,bayer,via orbello 22,arbedo,circolo medico del bellinzonese,-1
 9889,Circolo medico del Bellinzonese,Arbedo,CH,Via Orbello 22,6517.0,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,takeda,via orbello 22,arbedo,circolo medico del bellinzonese,-1
 3289,Circolo Medico del Mendrisiotto,Coldrerio,CH,Via Mercole 2B,,,,1000.0,,,,,1000.0,hco,bristol,via mercole 2b,coldrerio,circolo medico del mendrisiotto,8861
@@ -799,12 +799,12 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 7953,Ente Ospedaliero Cantonale EOC,Bellinzona,CH,Via Lugano 4b,,,4357.0,8333.0,,,1500.0,,14190.0,hco,novo,via lugano 4b,bellinzona,ente ospedaliero cantonale eoc,8720
 7472,Ente Ospedaliero Cantonale EOC Direzione Generale,Bellinzona,CH,Viale Officina 3,,,17000.0,27950.0,0.0,0.0,7925.0,0.0,52875.0,hco,novartis,viale officina 3,bellinzona,ente ospedaliero cantonale eoc direzione generale,8720
 6465,Ente Ospedaliero Cantonale EOC Direzione Generale,Bellinzona,CH,Ente Ospedaliero Cantonale - EOC Direzione Generale Viale Officina 3,,,,22700.0,,,,,22700.0,hco,msd,ente ospedaliero cantonale  eoc direzione generale viale officina 3,bellinzona,ente ospedaliero cantonale eoc direzione generale,8720
-5771,"Ente Ospedaliero Cantonale, Ospedale la Carità",Locarno,CH,,,,,3500.0,,,,,3500.0,hco,menarini,nan,locarno,"ente ospedaliero cantonale, ospedale la carità",9001
+5771,"Ente Ospedaliero Cantonale, Ospedale la Carità",Locarno,CH,,,,,3500.0,,,,,3500.0,hco,menarini,,locarno,"ente ospedaliero cantonale, ospedale la carità",9001
 6155,EOC - Instituto Oncologico della Svizzera Italiana,Bellinzona,CH,Ospedale San Giovanni,,,,2500.0,,,,,2500.0,hco,merck,ospedale san giovanni,bellinzona,eoc - instituto oncologico della svizzera italiana,-1
 10722,EOC Ente ospedaliero Cantonale,Bellinzona,CH,C.P.,2645.0,,12000.0,12823.5,,,2100.0,20.0,26943.5,hco,vifor,cape,bellinzona,eoc ente ospedaliero cantonale,8720
 5772,EOC Ente Ospedaliero Cantonale,Bellinzona,CH,Via Lugano 4b,,,,1000.0,,,,,1000.0,hco,menarini,via lugano 4b,bellinzona,eoc ente ospedaliero cantonale,8720
 9443,Eoc Ente Ospedaliero Cantonale - Ospedale Regionale Di Bellinzona,Bellinzona,CH,Ospedale San Giovanni,6500.0,,,22824.11,,926.65,54072.3,,77823.06,hco,sanofi,ospedale san giovanni,bellinzona,eoc ente ospedaliero cantonale - ospedale regionale di bellinzona,8720
-5773,EOC Ospedale Regionale di Bellinzona e Valli,Bellinzona,CH,,,,,1400.0,,,,,1400.0,hco,menarini,nan,bellinzona,eoc ospedale regionale di bellinzona e valli,8720
+5773,EOC Ospedale Regionale di Bellinzona e Valli,Bellinzona,CH,,,,,1400.0,,,,,1400.0,hco,menarini,,bellinzona,eoc ospedale regionale di bellinzona e valli,8720
 5774,EOC Ospedale Regionale di Lugano,Lugano,CH,Via Tesserete 46,,,,1600.0,,,,,1600.0,hco,menarini,via tesserete 46,lugano,eoc ospedale regionale di lugano,9005
 2843,EPFL,Lausanne,CH,Route Cantonale,,,,3990.0,,,,,3990.0,hco,biogen,route cantonale,lausanne,epfl,9009
 7473,EPFL - École polytechnique federale de Lausanne PRES,Lausanne,CH,CE 3 316 (Centre Est) Station 1,,,366000.0,0.0,300.0,117.0,0.0,0.0,366417.0,hco,novartis,ce 3 316 centre estate station 1,lausanne,epfl - école polytechnique federale de lausanne pres,9009
@@ -846,7 +846,7 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 8497,ESRA European Society of Regional Anaesthesia,Genève,CH,Rue Daubin 7,,,46810.0,0.0,0.0,0.0,0.0,0.0,46810.0,hco,pfizer,rue daubin 7,geneve,esra european society of regional anaesthesia,9026
 4158,eSwiss Medical & Surgical Center AG,St. Gallen,CH,Brauerstrasse 97,,,,,,,1000.0,,1000.0,hco,eli,brauerstrasse 97,saint gallen,eswiss medical & surgical center ag,9027
 7954,eSwiss Medical & Surgical Center AG,St. Gallen,CH,Brauerstrasse 97,,,,,,,2553.0,,2553.0,hco,novo,brauerstrasse 97,saint gallen,eswiss medical & surgical center ag,9027
-10944,Etablissement Hospitalier Multisite Cantonal,Neuchâtel,CH,,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,zambon,nan,neuchatel,etablissement hospitalier multisite cantonal,9029
+10944,Etablissement Hospitalier Multisite Cantonal,Neuchâtel,CH,,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,zambon,,neuchatel,etablissement hospitalier multisite cantonal,9029
 9084,ETH Zürich Foundation,Zürich,CH,Auf der Mauer 17,8001.0,,3000.0,0.0,0.0,0.0,5000.0,0.0,8000.0,hco,roche,auf der mauer 17,zuerich,eth zürich foundation,9030
 10724,ETHZ Eidg.Tech.Hochschule,Zürich,CH,Rämistrasse 101,,,,,,,1500.0,,1500.0,hco,vifor,raemistrasse 101,zuerich,ethz eidg.tech.hochschule,-1
 3340,ETOP,Bern,CH,Effingerstrasse 40,,,,23229.0,,,,,23229.0,hco,bristol,effingerstrasse 40,bern,etop,9031
@@ -1039,7 +1039,7 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 10732,Fondation pour le perfectionnement et la recherche en gynécologie et obstétrique,Lausanne,CH,Avenue Pierre Decker 2,,,,6000.0,,,,,6000.0,hco,vifor,avenue pierre decker 2,lausanne,fondation pour le perfectionnement et la recherche en gynécologie et obstétrique,-1
 8512,Fondation pour le progrès en microbiologie medicale et maladies infectieuses / p.a. Fiducaire Maillard S.A.,Lausanne,CH,Pont Charles Bessières 3,,,0.0,10770.0,0.0,0.0,0.0,0.0,10770.0,hco,pfizer,pont charles bessieres 3,lausanne,fondation pour le progrès en microbiologie medicale et maladies infectieuses / p.a. fiducaire maillard s.a.,9064
 4742,Fondation pour le Progrès en MicrobiologieMédicale et Maladies Infectieuses (FAMMID),Lausanne,CH,Pont Bessières 3,,,0.0,10770.0,0.0,0.0,0.0,0.0,10770.0,hco,glaxosmithkline,pont bessieres 3,lausanne,fondation pour le progrès en microbiologiemédicale et maladies infectieuses (fammid),9064
-10733,Fondation privée des HUG Hôpitaux Universitaires de Genève,Genève,CH,,,,,2000.0,,,,,2000.0,hco,vifor,nan,geneve,fondation privée des hug hôpitaux universitaires de genève,8915
+10733,Fondation privée des HUG Hôpitaux Universitaires de Genève,Genève,CH,,,,,2000.0,,,,,2000.0,hco,vifor,,geneve,fondation privée des hug hôpitaux universitaires de genève,8915
 8151,Fondation recherche hypertension,St-Légier,CH,Chemin de Derrey-le-Motty 8,,,,3000.0,,,,,3000.0,hco,otsuka,chemin de derrey-le-motty 8,st-legier,fondation recherche hypertension,9097
 3317,Fondation Rheumasearch,Genève,CH,Rue Du Rhône 57,,,,5000.0,,,,,5000.0,hco,bristol,rue du rhone 57,geneve,fondation rheumasearch,9101
 5455,Fondation Rhumatisme Enfants,Etoy,CH,Route De La Plantay 87 c/o Dr Michael Hofer,,,,2000.0,,,,,2000.0,hco,meda,route de la plantay 87 c/o dr michael hofer,etoy,fondation rhumatisme enfants,9102
@@ -1095,7 +1095,7 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 9679,Fortbildungsgruppe Adler,Steckborn,CH,Storchengasse 2,8266.0,FortbildungsgruppeAdlerSteckborn,,1000.0,,,,,1000.0,hco,servier,storchengasse 2,steckborn,fortbildungsgruppe adler,9126
 7494,Fortbildungsgruppe Adler,Steckborn,CH,Storchengasse 2,,,0.0,1150.08,0.0,0.0,0.0,0.0,1150.0,hco,novartis,storchengasse 2,steckborn,fortbildungsgruppe adler,9126
 4930,Fortbildungsgruppe Adler,Steckborn,CH,Storchengasse 2,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,gruenenthal,storchengasse 2,steckborn,fortbildungsgruppe adler,9126
-9680,Fortbildungsveranstaltung Lenker Woche,Lenk im Simmental,CH,,3775.0,FortbildungsveranstaltungLenkerWocheLenkImSimmental,,2000.0,,,,,2000.0,hco,servier,nan,lenk im simmental,fortbildungsveranstaltung lenker woche,9128
+9680,Fortbildungsveranstaltung Lenker Woche,Lenk im Simmental,CH,,3775.0,FortbildungsveranstaltungLenkerWocheLenkImSimmental,,2000.0,,,,,2000.0,hco,servier,,lenk im simmental,fortbildungsveranstaltung lenker woche,9128
 338,Fortbildungsverein Uroclinic,Wetzikon ZH,CH,Kirchgasse 4,,,,4000.0,,,,,4000.0,hco,abbvie,kirchgasse 4,wetzikon zh,fortbildungsverein uroclinic,9129
 5782,Forte Echo GmbH,Baar,CH,c/o PRV Provides Treuhandgesellschaft AG,,,,20000.0,,,,,20000.0,hco,menarini,centreoeste parvis provides treuhandgesellschaft ag,baar,forte echo gmbh,-1
 7495,Forte Echo GmbH PRV Provides Treuhandgesellschaft AG,Baar,CH,Dorfstrasse 38,,,0.0,80000.0,0.0,0.0,0.0,0.0,80000.0,hco,novartis,dorfstrasse 38,baar,forte echo gmbh prv provides treuhandgesellschaft ag,-1
@@ -1196,7 +1196,7 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 6165,GIOTI c/o Mariuccia Schönholzer,Breganzona,CH,Via Cara 11,,,,500.0,,,,,500.0,hco,merck,via cara 11,breganzona,gioti ,9212
 6490,GKaufmann Gabriela Kaufmann-Hostettler Management u. Kongressorganisa tion,Bern,CH,GKaufmann - Gabriela Kaufmann-Hostettler - Management u. Kongressorganisa tion Wattenwylweg 21,,,,3500.0,,,,,3500.0,hco,msd,gkaufmann  gabriela kaufmann-hostettler  management u kongressorganisa tion wattenwylweg 21,bern,gkaufmann gabriela kaufmann-hostettler management u. kongressorganisa tion,-1
 6491,Global Action Fund for Fungal Infection (GAFFI),Genève,CH,Global Action Fund for Fungal - Infection (GAFFI) Rue de l'Ancien-Port 14,,,14580.36,,,,,,14580.36,hco,msd,global action fund for fungal  infection  gaffi rue de l'ancien-port 14,geneve,global action fund for fungal infection (gaffi),9160
-8740,GMF - Ticino,Giubiasco,CH,,,,,3300.0,,,,,3300.0,hco,pierre,nan,giubiasco,gmf - ticino,-1
+8740,GMF - Ticino,Giubiasco,CH,,,,,3300.0,,,,,3300.0,hco,pierre,,giubiasco,gmf - ticino,-1
 8519,GPMR Gesellschaft für physikalische Medizin Rheumatologie,Bremgarten AG,CH,Zürcherstrasse 8,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,pfizer,zuercherstrasse 8,bremgarten ag,gpmr gesellschaft für physikalische medizin rheumatologie,9216
 8153,GPPV,Montreux,CH,Avenue De La Riviera,,,,1400.0,,,,,1400.0,hco,otsuka,avenue de la riviera,montreux,gppv,-1
 10742,GPPV - Groupement des Psychiatres et Psychothérapeutes Vaudois,Lausanne,CH,Rue du Midi 2,,,,500.0,,,,,500.0,hco,vifor,rue du midi 2,lausanne,gppv - groupement des psychiatres et psychothérapeutes vaudois,9217
@@ -1220,7 +1220,7 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 344,Groupe des dermatologues genevois,Genève,CH,Chemin Malombré 5,,,,1100.0,,,,,1100.0,hco,abbvie,chemin malombre 5,geneve,groupe des dermatologues genevois,9174
 1604,Groupe des Pneumologues Genevois,Carouge GE,CH,Place du Temple 15,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca,place du temple 15,carouge ge,groupe des pneumologues genevois,-1
 490,Groupe des Pneumologues Genevois,Genève,CH,Rue Alfred-Vincent 17,,,,2000.0,,,,,2000.0,hco,actelion,rue alfred-vincent 17,geneve,groupe des pneumologues genevois,9231
-3329,GROUPE DES RHUMATOLOGUES VAUDOIS GRV,Lausanne,CH,,,,,1000.0,,,,,1000.0,hco,bristol,nan,lausanne,groupe des rhumatologues vaudois grv,9235
+3329,GROUPE DES RHUMATOLOGUES VAUDOIS GRV,Lausanne,CH,,,,,1000.0,,,,,1000.0,hco,bristol,,lausanne,groupe des rhumatologues vaudois grv,9235
 4747,Groupe du Nord Vaudois,Yverdon-les-Bains,CH,Orbe 27,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,glaxosmithkline,orbe 27,yverdon-les-bains,groupe du nord vaudois,9236
 5785,"Groupe du Nord Vaudois de la SVM, Fond Scientifique",Yverdon-les-Bains,CH,Yverdon-Entremonts 11,,,,1500.0,,,,,1500.0,hco,menarini,yverdon-entremonts 11,yverdon-les-bains,"groupe du nord vaudois de la svm, fond scientifique",9236
 10744,Groupe du Nord Vaudois S.V.M.,Concise,CH,Ch. des Vergers 1,,,,1500.0,,,,,1500.0,hco,vifor,chemin des vergers 1,concise,groupe du nord vaudois s.v.m.,-1
@@ -1272,7 +1272,7 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 4167,Gruppo Medico Formazione,Roveredo GR,CH,San Fedele,,,,3300.0,,,,,3300.0,hco,eli,san fedele,roveredo guerrero,gruppo medico formazione,-1
 5376,Gruppo Medico Formazione,Giubiasco,CH,Giubiasco,,,,3300.0,,,,,3300.0,hco,lundbeck,giubiasco,giubiasco,gruppo medico formazione,9276
 8522,Gruppo Medico Formazione,Roveredo GR,CH,San Fedele,,,0.0,3300.0,0.0,0.0,0.0,0.0,3300.0,hco,pfizer,san fedele,roveredo guerrero,gruppo medico formazione,-1
-1924,Gruppo Medico Formazione,Giubiasco,CH,,6512.0,40529498,0.0,3300.0,0.0,0.0,0.0,0.0,3300.0,hco,bayer,nan,giubiasco,gruppo medico formazione,9276
+1924,Gruppo Medico Formazione,Giubiasco,CH,,6512.0,40529498,0.0,3300.0,0.0,0.0,0.0,0.0,3300.0,hco,bayer,,giubiasco,gruppo medico formazione,9276
 6167,Gruppo Medico Formazione,Giubiasco,CH,Postfach 823,,,,3300.0,,,,,3300.0,hco,merck,postfach 823,giubiasco,gruppo medico formazione,9276
 10748,Gruppo Medico Formazione,Giubiasco,CH,Casella Postale 823,,,,3300.0,,,,,3300.0,hco,vifor,casella postale 823,giubiasco,gruppo medico formazione,9276
 2737,Gruppo Medico Formazione,Roveredo GR,CH,San Fedele,,,,3300.0,,,,,3300.0,hco,bgp,san fedele,roveredo guerrero,gruppo medico formazione,-1
@@ -1280,37 +1280,37 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 9684,Gruppo Medico Formazione,Giubiasco,CH,Casella postale 823,6512.0,GruppoMedicoFormazioneGiubiasco,,3300.0,,,,,3300.0,hco,servier,casella postale 823,giubiasco,gruppo medico formazione,9276
 6809,Gruppo Medico Formazione,Giubiasco,CH,Giubiasco,,,3300.0,,,,,,3300.0,hco,mundipharma,giubiasco,giubiasco,gruppo medico formazione,9276
 7966,Gruppo Medico Formazione,Giubiasco,CH,Via Ressiga 5,,,,3300.0,,,,,3300.0,hco,novo,via ressiga 5,giubiasco,gruppo medico formazione,9276
-5982,Gruppo Medico Formazione,Giubiasco,CH,,,,,3300.0,,,,,3300.0,hco,mepha,nan,giubiasco,gruppo medico formazione,9276
+5982,Gruppo Medico Formazione,Giubiasco,CH,,,,,3300.0,,,,,3300.0,hco,mepha,,giubiasco,gruppo medico formazione,9276
 9235,Gruppo Medico Formazione,Giubiasco,CH,Casella Postale 823,,,,3300.0,,,,,3300.0,hco,sandoz,casella postale 823,giubiasco,gruppo medico formazione,9276
-6498,Gruppo Medico Formazione,Giubiasco,CH,,,,,6600.0,,,,,6600.0,hco,msd,nan,giubiasco,gruppo medico formazione,9276
+6498,Gruppo Medico Formazione,Giubiasco,CH,,,,,6600.0,,,,,6600.0,hco,msd,,giubiasco,gruppo medico formazione,9276
 4753,Gruppo Medico Formazione,Giubiasco,CH,Casella postale 823,,,0.0,3300.0,0.0,0.0,0.0,0.0,3300.0,hco,glaxosmithkline,casella postale 823,giubiasco,gruppo medico formazione,9276
 3092,Gruppo Medico Formazione,Giubiasco,CH,Gruppo Medico Formazione,6512.0,,,3300.0,,,,,3300.0,hco,boehringer,gruppo medico formazione,giubiasco,gruppo medico formazione,9276
 7507,Gruppo Medico Formazione,Giubiasco,CH,Casella Postale 823,,,0.0,4350.0,0.0,0.0,0.0,0.0,4950.0,hco,novartis,casella postale 823,giubiasco,gruppo medico formazione,9276
 10990,Gruppo Medico Formazione (Corso Aggiornamento Medico di Base),Giubiasco,CH,CP 823,,,0.0,3300.0,0.0,0.0,0.0,0.0,3300.0,hco,zambon,cape 823,giubiasco,gruppo medico formazione (corso aggiornamento medico di base),9276
-5790,Gruppo Medico Formazione (Leer),Giubiasco,CH,,,,,3300.0,,,,,3300.0,hco,menarini,nan,giubiasco,gruppo medico formazione (leer),9276
+5790,Gruppo Medico Formazione (Leer),Giubiasco,CH,,,,,3300.0,,,,,3300.0,hco,menarini,,giubiasco,gruppo medico formazione (leer),9276
 1925,Gruppo Pochi ma buoni (PMB),Lugano,CH,Via delle Scuole 34,6900.0,40529869,0.0,700.0,0.0,0.0,0.0,0.0,700.0,hco,bayer,via delle scuole 34,lugano,gruppo pochi ma buoni (pmb),9277
-2738,GSASA,Bern,CH,,,,,4800.0,,,,,4800.0,hco,bgp,nan,bern,gsasa,8487
-1097,Gsasa,Bern,CH,,,,,13600.0,,,,,13600.0,hco,amgen,nan,bern,gsasa,8487
-5117,GSASA,Bern,CH,,,,0.0,7200.0,0.0,0.0,0.0,0.0,7200.0,hco,janssen,nan,bern,gsasa,8487
+2738,GSASA,Bern,CH,,,,,4800.0,,,,,4800.0,hco,bgp,,bern,gsasa,8487
+1097,Gsasa,Bern,CH,,,,,13600.0,,,,,13600.0,hco,amgen,,bern,gsasa,8487
+5117,GSASA,Bern,CH,,,,0.0,7200.0,0.0,0.0,0.0,0.0,7200.0,hco,janssen,,bern,gsasa,8487
 345,GSASA,Bern,CH,Bern,,,,3000.0,,,,,3000.0,hco,abbvie,bern,bern,gsasa,8487
-3322,GSASA,Bern,CH,,,,,3600.0,,,,,3600.0,hco,bristol,nan,bern,gsasa,8487
-9236,GSASA,BERN,CH,,,,10000.0,20000.0,,,,,30000.0,hco,sandoz,nan,bern,gsasa,8487
+3322,GSASA,Bern,CH,,,,,3600.0,,,,,3600.0,hco,bristol,,bern,gsasa,8487
+9236,GSASA,BERN,CH,,,,10000.0,20000.0,,,,,30000.0,hco,sandoz,,bern,gsasa,8487
 3746,GSASA - Schweizerische Verein der Amts- und Spitalapotheker,Bern,CH,Postfach,,,15000.0,6000.0,,,,,21000.0,hco,csl,postfach,bern,gsasa - schweizerische verein der amts- und spitalapotheker,8487
-9451,GSASA - Schweizerischer Verein der Amts- und Spitalapotheker,Bern,CH,,3000.0,,,10770.0,,,,,10770.0,hco,sanofi,nan,bern,gsasa - schweizerischer verein der amts- und spitalapotheker,8487
+9451,GSASA - Schweizerischer Verein der Amts- und Spitalapotheker,Bern,CH,,3000.0,,,10770.0,,,,,10770.0,hco,sanofi,,bern,gsasa - schweizerischer verein der amts- und spitalapotheker,8487
 6810,GSASA Association Suisse des Pharmaciens Administration & Hôpitaux,Bern,CH,Bern,,,3000.0,,,,,,3000.0,hco,mundipharma,bern,bern,gsasa association suisse des pharmaciens administration & hôpitaux,-1
 10749,GSASA Association suisse des pharmaciens de l'administration et des hôpitaux,Bern,CH,GSASA,,,,3877.2,,,,,3877.2,hco,vifor,gsasa,bern,gsasa association suisse des pharmaciens de l'administration et des hôpitaux,-1
 8154,GSASA Schweiz. Verein der Amts- und Spitalapotheker,Bern,CH,Geschäftsstelle,,,,3000.0,,,,,3000.0,hco,otsuka,geschaeftsstelle,bern,gsasa schweiz. verein der amts- und spitalapotheker,8487
 3093,GSASA Schweiz. Verein der Amts-und Spitalapotheker,Bern,CH,Postfach,3000.0,,,3000.0,,,,,3000.0,hco,boehringer,postfach,bern,gsasa schweiz. verein der amts-und spitalapotheker,8487
-2880,GSASA Schweizer Verein,Bern,CH,,3000.0,,,22000.0,,,,,22000.0,hco,biotest,nan,bern,gsasa schweizer verein,-1
-5414,GSASA Schweizerischer Verein der Amts- und Spitalapotheker,,CH,,,,,3877.0,,,,,3877.0,hco,lundbeck,nan,nan,gsasa schweizerischer verein der amts- und spitalapotheker,-1
+2880,GSASA Schweizer Verein,Bern,CH,,3000.0,,,22000.0,,,,,22000.0,hco,biotest,,bern,gsasa schweizer verein,-1
+5414,GSASA Schweizerischer Verein der Amts- und Spitalapotheker,,CH,,,,,3877.0,,,,,3877.0,hco,lundbeck,,,gsasa schweizerischer verein der amts- und spitalapotheker,-1
 6499,GSASA Schweizerischer Verein der Amts- und Spitalapotheker,Bern,CH,GSASA - Schweizerischer Verein der Amts- und Spitalapotheker Postfach,,,,20463.0,,,,,20463.0,hco,msd,gsasa  schweizerischer verein der amts und spitalapotheker postfach,bern,gsasa schweizerischer verein der amts- und spitalapotheker,8487
 9094,GSASA Schweizerischer Verein der Amts- und Spitalapotheker,Bern,CH,Postfach,3000.0,,0.0,3600.0,0.0,0.0,0.0,0.0,3600.0,hco,roche,postfach,bern,gsasa schweizerischer verein der amts- und spitalapotheker,8487
 7508,GSASA Schweizerischer Verein der Amts- und Spitalapotheker,Bern,CH,Postfach,,,0.0,4800.0,0.0,0.0,0.0,0.0,4800.0,hco,novartis,postfach,bern,gsasa schweizerischer verein der amts- und spitalapotheker,8487
 8523,GSASA Schweizerischer Verein der Amts- und Spitalapotheker,Bern,CH,Postfach,,,0.0,9693.0,0.0,0.0,0.0,0.0,9693.0,hco,pfizer,postfach,bern,gsasa schweizerischer verein der amts- und spitalapotheker,8487
-7967,GSASA Schweizerischer Verein der Amts- und Spitalapotheker,Bern,CH,,,,,6000.0,,,,,6000.0,hco,novo,nan,bern,gsasa schweizerischer verein der amts- und spitalapotheker,8487
+7967,GSASA Schweizerischer Verein der Amts- und Spitalapotheker,Bern,CH,,,,,6000.0,,,,,6000.0,hco,novo,,bern,gsasa schweizerischer verein der amts- und spitalapotheker,8487
 5791,"GSASA, Schweizerischer",Bern,CH,Verein der Amts-und Spitalapotheker,,,,3600.0,,,,,3600.0,hco,menarini,verein der amts-und spitalapotheker,bern,"gsasa, schweizerischer",8487
-4468,"Gsasa, Schweizerischer Verein Der Amts- Und Spitalapotheker",Bern,CH,,,GSASA_3000,,3231.0,,,,,3231.0,hco,galderma,nan,bern,"gsasa, schweizerischer verein der amts- und spitalapotheker",8487
-5979,"GSASA, Schweizerischer Verein der Arms- undSpitalapotheker",Bern,CH,,,,,4800.0,,,,,4800.0,hco,mepha,nan,bern,"gsasa, schweizerischer verein der arms- undspitalapotheker",8487
+4468,"Gsasa, Schweizerischer Verein Der Amts- Und Spitalapotheker",Bern,CH,,,GSASA_3000,,3231.0,,,,,3231.0,hco,galderma,,bern,"gsasa, schweizerischer verein der amts- und spitalapotheker",8487
+5979,"GSASA, Schweizerischer Verein der Arms- undSpitalapotheker",Bern,CH,,,,,4800.0,,,,,4800.0,hco,mepha,,bern,"gsasa, schweizerischer verein der arms- undspitalapotheker",8487
 2844,"GSASA, Schweizerischer Vereinder Amts- und Spitalapotheker",Fribourg,CH,"Chemin des Pensionnats2-6 c/o HFR Fribourg -Hôpital cantonal, Pharmacie",,,,3000.0,,,,,3000.0,hco,biogen,chemin des pensionnats2-6 centreo hfr fribourg hopital cantonal pharmacie,fribourg,"gsasa, schweizerischer vereinder amts- und spitalapotheker",-1
 6811,GSMIN Privatklinik Obach AG,Solothurn,CH,"Solothurn, Leopoldstrasse 1",,,2000.0,,,,,,2000.0,hco,mundipharma,solothurn leopoldstrasse 1,solothurn,gsmin privatklinik obach ag,9872
 10974,GSMN Privatklinik AG,Solothurn,CH,Leopoldstrasse 1,,,0.0,2154.0,0.0,0.0,0.0,0.0,2154.0,hco,zambon,leopoldstrasse 1,solothurn,gsmn privatklinik ag,-1
@@ -1340,7 +1340,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 7509,GZO Spital Wetzikon,Wetzikon ZH,CH,Spitalstrasse 66,,,0.0,0.0,0.0,0.0,6725.0,0.0,6725.0,hco,novartis,spitalstrasse 66,wetzikon zh,gzo spital wetzikon,9285
 7961,Gäuer Ärzte Fortbildungspool,Kestenholz,CH,Bachmattstrasse 1,,,,500.0,,,,,500.0,hco,novo,bachmattstrasse 1,kestenholz,gäuer ärzte fortbildungspool,9286
 8526,H+ Die Spitäler der Schweiz,Bern,CH,Lorrainestrasse 4A,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,pfizer,lorrainestrasse 4a,bern,h+ die spitäler der schweiz,9289
-9899,Haematology Nurses & Healthcare Professionale Group,Winterthur,CH,,8408.0,,0.0,2000.0,0.0,0.0,1000.0,0.0,3000.0,hco,takeda,nan,winterthur,haematology nurses & healthcare professionale group,9291
+9899,Haematology Nurses & Healthcare Professionale Group,Winterthur,CH,,8408.0,,0.0,2000.0,0.0,0.0,1000.0,0.0,3000.0,hco,takeda,,winterthur,haematology nurses & healthcare professionale group,9291
 9095,Haematology Nurses & Healthcare Professionals Group (HNHCP),Winterthur,CH,Espenstrasse 33,8408.0,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,roche,espenstrasse 33,winterthur,haematology nurses & healthcare professionals group (hnhcp),9291
 6502,Haematology Nurses & Healthcare Professionals Group (HNHCP) President Herr Erik Aerts,Winterthur,CH,Haematology Nurses & Healthcare - Professionals Group (HNHCP) - President Herr Erik Aerts Espenstrasse 33,,,,1500.0,,,,,1500.0,hco,msd,haematology nurses & healthcare  professionals group  hnhcp president herr erik aerts espenstrasse 33,winterthur,haematology nurses & healthcare professionals group (hnhcp) president herr erik aerts,9291
 7510,Haematology Nurses & Healthcare Professionals Group (HNHCP) President Herr Erik Aerts,Winterthur,CH,Espenstrasse 33,,,3000.0,0.0,0.0,0.0,600.0,0.0,3600.0,hco,novartis,espenstrasse 33,winterthur,haematology nurses & healthcare professionals group (hnhcp) president herr erik aerts,9291
@@ -1390,7 +1390,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 8531,Herzzentrum Hirslanden Zentralschweiz,Luzern,CH,St. Annastrasse 32,,,0.0,5385.0,0.0,0.0,0.0,0.0,5385.0,hco,pfizer,sankt annastrasse 32,luzern,herzzentrum hirslanden zentralschweiz,-1
 4351,HESAV,Lausanne,CH,Avenue de Beaumont 21,,,,1000.0,,,,,1000.0,hco,ferring,avenue de beaumont 21,lausanne,hesav,9330
 6506,HFR Billens,Billens,CH,Rue de l'Hôpital 1,,,,,,,3000.0,,3000.0,hco,msd,rue de l'hopital 1,billens,hfr billens,-1
-3925,Hfr Fribourg - Hôpital Cantonal,Fribourg,CH,,1708.0,,,1500.0,,,2000.0,,3500.0,hco,eisai,nan,fribourg,hfr fribourg - hôpital cantonal,9288
+3925,Hfr Fribourg - Hôpital Cantonal,Fribourg,CH,,1708.0,,,1500.0,,,2000.0,,3500.0,hco,eisai,,fribourg,hfr fribourg - hôpital cantonal,9288
 7515,HFR Fribourg - Hôpital cantonal,Fribourg,CH,Chemin des Pensionnats 2-6,,,500.0,4500.0,770.0,568.16,900.0,0.0,7238.16,hco,novartis,chemin des pensionnats 2-6,fribourg,hfr fribourg - hôpital cantonal,9288
 6170,HFR Fribourg - Hôpital cantonal,Fribourg,CH,Case postale,,,4000.0,5000.0,543.65,976.6,1500.0,,12020.25,hco,merck,case postale,fribourg,hfr fribourg - hôpital cantonal,9288
 3094,HFR Fribourg - Hôpital cantonal,Fribourg,CH,Chemin des Pensionnats 2-6,1708.0,,,2500.0,,,,,2500.0,hco,boehringer,chemin des pensionnats 2-6,fribourg,hfr fribourg - hôpital cantonal,9288
@@ -1469,7 +1469,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 5804,HUG Hôpitaux Universitaires de Genève,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,3300.0,,,1200.0,,4500.0,hco,menarini,rue gabrielle-perret-gentil 4,geneve,hug hôpitaux universitaires de genève,8915
 10759,HUG Hôpitaux Universitaires de Genève - LANVIE - Laboratoire de Neuroimagerie du Vieillissement,Chêne-Bourg,CH,Chemin du Petit Bel-Air 2,,,,3000.0,,,,,3000.0,hco,vifor,chemin du petit bel-air 2,chene-bourg,hug hôpitaux universitaires de genève - lanvie - laboratoire de neuroimagerie du vieillissement,-1
 10760,HUG Hôpitaux Universitaires de Genève - Service d'addictologie CAAP,Genève,CH,"70 C, Rue du Grand-Pré",,,,4500.0,,,,,4500.0,hco,vifor,70 centre rue du grand-pre,geneve,hug hôpitaux universitaires de genève - service d'addictologie caap,10099
-10765,HUG Hôpitaux Universitaires de Genève - Service d'oncologie,Genève,CH,,,,,3000.0,,,,,3000.0,hco,vifor,nan,geneve,hug hôpitaux universitaires de genève - service d'oncologie,8915
+10765,HUG Hôpitaux Universitaires de Genève - Service d'oncologie,Genève,CH,,,,,3000.0,,,,,3000.0,hco,vifor,,geneve,hug hôpitaux universitaires de genève - service d'oncologie,8915
 10761,HUG Hôpitaux Universitaires de Genève - Service de Gastroentérologie et d'Hépatologie,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,3015.6,,,,,3015.6,hco,vifor,rue gabrielle-perret-gentil 4,geneve,hug hôpitaux universitaires de genève - service de gastroentérologie et d'hépatologie,8915
 10762,HUG Hôpitaux Universitaires de Genève - Service de médecine de premier recours,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,21000.0,,,,,21000.0,hco,vifor,rue gabrielle-perret-gentil 4,geneve,hug hôpitaux universitaires de genève - service de médecine de premier recours,8915
 10763,HUG Hôpitaux Universitaires de Genève - Service de néphrologie,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,,2207.85,,,,,2207.85,hco,vifor,rue gabrielle perret-gentil 4,geneve,hug hôpitaux universitaires de genève - service de néphrologie,8915
@@ -1560,7 +1560,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 10757,Hôpital du Valais - CHVR Centre Hospitalier du Valais Romand,Sion,CH,Avenue du Grand- Champsec 80,,,,2692.5,,,,,2692.5,hco,vifor,avenue du grand champsec 80,sion,hôpital du valais - chvr centre hospitalier du valais romand,8823
 1107,Hôpital Du Valais -Hôpital De Sion,Sion,CH,Avenue Grand-Champsec 80,,,,7500.0,435.25,1362.18,500.0,,9797.43,hco,amgen,avenue grand-champsec 80,sion,hôpital du valais -hôpital de sion,8823
 7520,Hôpital du Valais / Spital Wallis,Sion,CH,Avenue du Grand Champsec 86,,,0.0,3500.0,0.0,0.0,1000.0,0.0,4500.0,hco,novartis,avenue du grand champsec 86,sion,hôpital du valais / spital wallis,8853
-3849,Hôpital du Valais CHCVS,Sion,CH,,1951.0,,,2000.0,,,,,2000.0,hco,daiichi,nan,sion,hôpital du valais chcvs,8853
+3849,Hôpital du Valais CHCVS,Sion,CH,,1951.0,,,2000.0,,,,,2000.0,hco,daiichi,,sion,hôpital du valais chcvs,8853
 6510,Hôpital du Valais Hôpital de Martigny (CHVR),Martigny,CH,Hôpital du Valais - Hôpital de Martigny (CHVR) Avenue de la Fusion 27,,,,,574.75,1661.9,,,2236.65,hco,msd,hopital du valais hopital de martigny  chvr avenue de la fusion 27,martigny,hôpital du valais hôpital de martigny (chvr),-1
 6511,Hôpital du Valais Hôpital de Sierre (CHVR),Sierre,CH,Hôpital du Valais - Hôpital de Sierre (CHVR) Rue St-Charles 14,,,,,,278.06,,,278.06,hco,msd,hopital du valais hopital de sierre  chvr rue st-charles 14,sierre,hôpital du valais hôpital de sierre (chvr),-1
 3667,Hôpital Du Valais Hôpital De Sion,Sion,CH,Av. Grand-Champsec 80,,,,,211.0,1106.0,,,1316.5,hco,celgene,avenue grand-champsec 80,sion,hôpital du valais hôpital de sion,8823
@@ -1572,7 +1572,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 9453,Hôpital Fribourgeois,Fribourg,CH,Case postale,1708.0,,,5000.0,,,1500.0,,6500.0,hco,sanofi,case postale,fribourg,hôpital fribourgeois,9331
 4757,Hôpital Fribourgeois (HFR),Fribourg,CH,Chemin des pensionnats 2-6,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,glaxosmithkline,chemin des pensionnats 2-6,fribourg,hôpital fribourgeois (hfr),9331
 7974,Hôpital Fribourgeois Freiburger Spital,Fribourg,CH,Chemin des Pensionnats 2,,,,,,,2325.0,,2325.0,hco,novo,chemin des pensionnats 2,fribourg,hôpital fribourgeois freiburger spital,9331
-3850,Hôpital Intercantonal de la Broye,Estavayer-le-Lac,CH,,1470.0,,,2000.0,,,,,2000.0,hco,daiichi,nan,estavayer-le-lac,hôpital intercantonal de la broye,9335
+3850,Hôpital Intercantonal de la Broye,Estavayer-le-Lac,CH,,1470.0,,,2000.0,,,,,2000.0,hco,daiichi,,estavayer-le-lac,hôpital intercantonal de la broye,9335
 7975,Hôpital Intercantonal de la Broye,Estavayer-le-Lac,CH,Rue de la Rochette,,,,2000.0,,,,,2000.0,hco,novo,rue de la rochette,estavayer-le-lac,hôpital intercantonal de la broye,9335
 1108,"Hôpital Intercantonal De La Broye, Hib Site De Payerne",Payerne,CH,Avenue De La Colline 3,,,,,567.13,5104.08,,,5671.21,hco,amgen,avenue de la colline 3,payerne,"hôpital intercantonal de la broye, hib site de payerne",9371
 615,Hôpital Jules Gonin,Lausanne,CH,Av. de France 15,1004.0,,,7000.0,,,,,7000.0,hco,allergan,avenue de france 15,lausanne,hôpital jules gonin,9346
@@ -1651,9 +1651,9 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 700,Hôpitaux Universitaires Genève - Service de dermatologie,Genève,CH,Rue Gabrielle-Perret -Gentil 4 Service de dermatologie,,,,,,,1400.0,,1400.0,hco,almirall,rue gabrielle-perret  gentil 4 service de dermatologie,geneve,hôpitaux universitaires genève - service de dermatologie,8915
 5404,Hôpitaux Universitaries de Genève,Genève,CH,Genève,,,,9500.0,,,,,9500.0,hco,lundbeck,geneve,geneve,hôpitaux universitaries de genève,8915
 8542,IABS International Alliance for Biologie Standarization,Genève,CH,Rue de la Vallée 3,,,0.0,4983.0,0.0,0.0,0.0,0.0,4983.0,hco,pfizer,rue de la valee 3,geneve,iabs international alliance for biologie standarization,9434
-9903,IBDnet,Zürich,CH,,8000.0,,0.0,30000.0,0.0,0.0,0.0,0.0,30000.0,hco,takeda,nan,zuerich,ibdnet,9386
-9796,IBDnet,Zürich,CH,,,,,14000.0,,,,,14000.0,hco,shire,nan,zuerich,ibdnet,9386
-5122,IBDnet,Zürich,CH,,,,0.0,26000.0,0.0,0.0,0.0,0.0,26000.0,hco,janssen,nan,zuerich,ibdnet,9386
+9903,IBDnet,Zürich,CH,,8000.0,,0.0,30000.0,0.0,0.0,0.0,0.0,30000.0,hco,takeda,,zuerich,ibdnet,9386
+9796,IBDnet,Zürich,CH,,,,,14000.0,,,,,14000.0,hco,shire,,zuerich,ibdnet,9386
+5122,IBDnet,Zürich,CH,,,,0.0,26000.0,0.0,0.0,0.0,0.0,26000.0,hco,janssen,,zuerich,ibdnet,9386
 8543,IBDnet,Zürich,CH,Postfach,,,0.0,34000.0,0.0,0.0,0.0,0.0,34000.0,hco,pfizer,postfach,zuerich,ibdnet,9386
 356,IBDnet,Zürich,CH,Birmensdorferstrasse 497,,,,96000.0,,,,,96000.0,hco,abbvie,birmensdorferstrasse 497,zuerich,ibdnet,9386
 10767,IBDnet,Zürich,CH,Weinbergstrasse 102,,,,7500.0,,,,,7500.0,hco,vifor,weinbergstrasse 102,zuerich,ibdnet,9386
@@ -1773,7 +1773,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 5807,"Inselspital Bern, Universitätsklinik für Rheumatologie,Immunologie und Allergologie",Bern,CH,Freiburgstrasse 4,,,,6000.0,,,,,6000.0,hco,menarini,freiburgstrasse 4,bern,"inselspital bern, universitätsklinik für rheumatologie,immunologie und allergologie",8441
 9246,Inselspital Stiftung,Bern,CH,Freiburgstrasse 18,,,35000.0,1077.0,,,,,36077.0,hco,sandoz,freiburgstrasse 18,bern,inselspital stiftung,-1
 3852,Inselspital Universitätsspital Bern,Bern,CH,Freiburgstrasse,3010.0,,,6500.0,,,,,6500.0,hco,daiichi,freiburgstrasse,bern,inselspital universitätsspital bern,10425
-5808,"Inselspital, Allergologisch-Immunologische Poliklinik",Bern,CH,,,,,3000.0,,,,,3000.0,hco,menarini,nan,bern,"inselspital, allergologisch-immunologische poliklinik",-1
+5808,"Inselspital, Allergologisch-Immunologische Poliklinik",Bern,CH,,,,,3000.0,,,,,3000.0,hco,menarini,,bern,"inselspital, allergologisch-immunologische poliklinik",-1
 3748,"Inselspital, Universitätsklinik für Frauenheilkunde",Bern,CH,Freiburgstrasse,,,,,,,1130.0,,1130.0,hco,csl,freiburgstrasse,bern,"inselspital, universitätsklinik für frauenheilkunde",-1
 3750,"Inselspital, Universitätsklinik für Neurologie",Bern,CH,Freiburgstrasse,,,,3000.0,,,3200.0,,6200.0,hco,csl,freiburgstrasse,bern,"inselspital, universitätsklinik für neurologie",-1
 3749,"Inselspital, Universitätsklinik für Rheumatologie, Immunologie und Allergologie (RIA)",Bern,CH,Freiburgstrasse,,,,4000.0,,,,,4000.0,hco,csl,freiburgstrasse,bern,"inselspital, universitätsklinik für rheumatologie, immunologie und allergologie (ria)",8441
@@ -1846,7 +1846,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 5126,IPW- Psychiatrie-Zentrum Hard,Embrach,CH,Römerweg 51,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,janssen,roemerw 51,embrach,ipw- psychiatrie-zentrum hard,9449
 5463,ISAP,Pfäffikon SZ,CH,Sonnenpark 26,,,,1500.0,,,,,1500.0,hco,meda,sonnenpark 26,pfaeffikon sz,isap,-1
 9455,ISSUL,Lausanne,CH,"Unicentre, Synathlon",1015.0,,,,,,800.0,,800.0,hco,sanofi,unicentre synathlon,lausanne,issul,-1
-9695,ISTDP,Bern,CH,,3012.0,ISTDPBern,,500.0,,,,,500.0,hco,servier,nan,bern,istdp,8465
+9695,ISTDP,Bern,CH,,3012.0,ISTDPBern,,500.0,,,,,500.0,hco,servier,,bern,istdp,8465
 7533,Istituto cantonale di patologia,Locarno,CH,Via in Selva 24,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis,via in selva 24,locarno,istituto cantonale di patologia,9457
 1620,Istituto Cantonale Di Patologia,Locarno,CH,Via in Selva 24,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca,via in selva 24,locarno,istituto cantonale di patologia,9457
 9457,Istituto Oncologico della Svizzera - Italiana - Oncology Institute,Bellinzona,CH,Ospedale San Giovanni,6500.0,,,,,,1100.0,,1100.0,hco,sanofi,ospedale san giovanni,bellinzona,istituto oncologico della svizzera - italiana - oncology institute,-1
@@ -1943,7 +1943,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 3105,Kantonsspital Baden AG,Baden,CH,Im Ergel 1,5404.0,,,1500.0,,,,,1500.0,hco,boehringer,im ergel 1,baden,kantonsspital baden ag,9475
 4184,Kantonsspital Baden AG,Baden,CH,Im Ergel 1,,,,3500.0,,,,,3500.0,hco,eli,im ergel 1,baden,kantonsspital baden ag,9475
 1520,Kantonsspital Baden AG,Baden,CH,Im Ergel 1,,,0.0,1000.0,0.0,0.0,800.0,0.0,1800.0,hco,astrazeneca,im ergel 1,baden,kantonsspital baden ag,9475
-3929,Kantonsspital Baden Ag,aden,CH,,5404.0,,,1615.5,,,,,1615.5,hco,eisai,nan,aden,kantonsspital baden ag,9475
+3929,Kantonsspital Baden Ag,aden,CH,,5404.0,,,1615.5,,,,,1615.5,hco,eisai,,aden,kantonsspital baden ag,9475
 1949,Kantonsspital Baden AG,Baden,CH,Im Ergel 1,5404.0,40528681,0.0,7000.0,976.5,810.2,0.0,0.0,8786.7,hco,bayer,im ergel 1,baden,kantonsspital baden ag,9475
 9698,Kantonsspital Baden AG,Baden,CH,Im Ergel 1,5404.0,KantonsspitalBaden,,1500.0,,,,,1500.0,hco,servier,im ergel 1,baden,kantonsspital baden ag,9475
 7537,Kantonsspital Baden AG,Baden,CH,Im Ergel 1,,,2160.0,3000.0,399.0,315.0,420.0,0.0,6294.0,hco,novartis,im ergel 1,baden,kantonsspital baden ag,9475
@@ -1973,7 +1973,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 1950,Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 11,4410.0,40522657,0.0,16535.0,0.0,-154.0,700.0,0.0,17081.0,hco,bayer,muehlemattstrasse 11,liestal,kantonsspital baselland,9482
 4621,Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,3000.0,136.0,989.0,2791.0,142.0,7059.0,hco,gilead,rheinstrasse 26,liestal,kantonsspital baselland,9482
 1117,Kantonsspital Baselland Bruderholz,Bruderholz,CH,Batteriestrasse,,,,1500.0,431.5,973.95,,,2905.45,hco,amgen,batteriestrasse,bruderholz,kantonsspital baselland bruderholz,9483
-7538,Kantonsspital Baselland Bruderholz,Bruderholz,CH,,,,4000.0,0.0,0.0,0.0,0.0,0.0,4000.0,hco,novartis,nan,bruderholz,kantonsspital baselland bruderholz,9483
+7538,Kantonsspital Baselland Bruderholz,Bruderholz,CH,,,,4000.0,0.0,0.0,0.0,0.0,0.0,4000.0,hco,novartis,,bruderholz,kantonsspital baselland bruderholz,9483
 3106,Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,4410.0,,,23000.0,1801.75,3060.98,10500.0,,38362.73,hco,boehringer,rheinstrasse 26,liestal,kantonsspital baselland liestal,-1
 9109,Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,4410.0,,0.0,0.0,609.14,631.14,1800.0,0.0,3040.28,hco,roche,rheinstrasse 26,liestal,kantonsspital baselland liestal,-1
 6525,Kantonsspital Baselland Liestal,Liestal,CH,Rheinstrasse 26,,,,9500.0,547.2,1095.15,5900.0,,17042.35,hco,msd,rheinstrasse 26,liestal,kantonsspital baselland liestal,-1
@@ -2234,8 +2234,8 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 4772,Kinderärzte-Vereinigung Zentralschweiz,Altdorf,CH,Dätwylerstrasse 9,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,glaxosmithkline,daetwylerstrasse 9,altdorf,kinderärzte-vereinigung zentralschweiz,-1
 10796,Klinik Barmelweid,Barmelweid,CH,Kardiologie / Geriatrie,,,,2154.0,,,,,2154.0,hco,vifor,kardiologie geriatrie,barmelweid,klinik barmelweid,8712
 8566,Klinik Barmelweid,Barmelweid,CH,Postfach,,,0.0,3231.0,0.0,0.0,0.0,0.0,3231.0,hco,pfizer,postfach,barmelweid,klinik barmelweid,8712
-7993,Klinik Barmelweid AG,Barmelweid,CH,,,,,2000.0,,,,,2000.0,hco,novo,nan,barmelweid,klinik barmelweid ag,8712
-7550,Klinik Barmelweid AG,Barmelweid,CH,,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,novartis,nan,barmelweid,klinik barmelweid ag,8712
+7993,Klinik Barmelweid AG,Barmelweid,CH,,,,,2000.0,,,,,2000.0,hco,novo,,barmelweid,klinik barmelweid ag,8712
+7550,Klinik Barmelweid AG,Barmelweid,CH,,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,novartis,,barmelweid,klinik barmelweid ag,8712
 10126,Klinik Bethesda,Tschugg,CH,Oberdorf,,,,3199.99,,,,,3199.99,hco,ucb,oberdorf,tschugg,klinik bethesda,9512
 10953,Klinik Bethesda,Tschugg,CH,Oberdorf,,,0.0,3000.0,0.0,451.0,0.0,0.0,3451.0,hco,zambon,oberdorf,tschugg,klinik bethesda,9512
 9258,Klinik Bethesda,Tschugg,CH,Oberdorf,,9041501353,,,,,2000.0,,2000.0,hco,sandoz,oberdorf,tschugg,klinik bethesda,9512
@@ -2290,8 +2290,8 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 6033,KMG Kompetenz mentale Gesundheit,Baar,CH,Landhausstrasse 17/19,6340.0,,,1200.0,,,,,1200.0,hco,mepha,landhausstrasse 17 19,baar,kmg kompetenz mentale gesundheit,-1
 8161,KMG – Kompetenz mentale Gesundheit GmbH,Baar,CH,Landhausstrasse 17 / 19,,,,2000.0,,,,,2000.0,hco,otsuka,landhausstrasse 17 19,baar,kmg – kompetenz mentale gesundheit gmbh,-1
 4774,KMS Kongress Management Swiss,Bern,CH,Postfach,7213.0,,0.0,2089.4,0.0,0.0,0.0,0.0,2089.4,hco,glaxosmithkline,postfach,bern,kms kongress management swiss,9527
-2748,KMS KongressManageme ntSwiss,Bern,CH,,,,,2025.0,,,,,2025.0,hco,bgp,nan,bern,kms kongressmanageme ntswiss,9527
-8749,KMS KongressManagementSwiss,Bern,CH,,,,,3965.0,,,,,3965.0,hco,pierre,nan,bern,kms kongressmanagementswiss,9527
+2748,KMS KongressManageme ntSwiss,Bern,CH,,,,,2025.0,,,,,2025.0,hco,bgp,,bern,kms kongressmanageme ntswiss,9527
+8749,KMS KongressManagementSwiss,Bern,CH,,,,,3965.0,,,,,3965.0,hco,pierre,,bern,kms kongressmanagementswiss,9527
 8568,Kollegium Brustkrebs,Zürich,CH,Ringstrasse 70,,,0.0,5385.0,0.0,0.0,0.0,0.0,5385.0,hco,pfizer,ringstrasse 70,zuerich,kollegium brustkrebs,9528
 7552,Kollegium f. Hausarztmedizin (KHM/CMPR) Bénédicte Laville (Admini strati on),Fribourg,CH,Rue de l’Hôpital 15,,,12600.0,12999.95,0.0,0.0,0.0,0.0,25599.95,hco,novartis,rue de l'hopital 15,fribourg,kollegium f. hausarztmedizin (khm/cmpr) bénédicte laville (admini strati on),8898
 6535,Kollegium f. Hausarztmedizin (KHM/CMPR) Bénédicte Laville (Administration),Fribourg,CH,Kollegium f. Hausarztmedizin (KHM/CMPR) - Bénédicte Laville (Administration) Rue de l'Hôpital 15,,,,10260.0,,,,,10260.0,hco,msd,kollegium f hausarztmedizin  khm cmpr  benedicte laville  administration rue de l'hopital 15,fribourg,kollegium f. hausarztmedizin (khm/cmpr) bénédicte laville (administration),8898
@@ -2307,7 +2307,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 5985,Kollegium für Hausarztmedizin KHM / CMPR,Fribourg,CH,Rue de l'Hôpital,,,,10800.0,,,,,10800.0,hco,mepha,rue de l'hopital,fribourg,kollegium für hausarztmedizin khm / cmpr,8898
 5821,Kollegium für Hausarztmedizin KHM/CMPR c/o Medworld AG,Steinhausen,CH,Sennweidstrasse 46,,,,14900.0,,,,,14900.0,hco,menarini,sennweidstrasse 46,steinhausen,kollegium für hausarztmedizin khm/cmpr ,8897
 10985,Kollegium für Hausarztmedizin KHM/CMPR (20.Fortbildungstagun g des KHM),Steinhausen,CH,c/o Medworld AG - Sennweidstrasse 46,,,0.0,4717.0,0.0,0.0,0.0,0.0,4717.0,hco,zambon,cob medworld ag sennweidstrasse 46,steinhausen,kollegium für hausarztmedizin khm/cmpr (20.fortbildungstagun g des khm),8897
-9704,Kongress Herzrhythmus-Störungen Lenzburg,Aarau,CH,,5000.0,KongressHerzrhythmusStörungLenzburgAarau,,3000.0,,,,,3000.0,hco,servier,nan,aarau,kongress herzrhythmus-störungen lenzburg,9533
+9704,Kongress Herzrhythmus-Störungen Lenzburg,Aarau,CH,,5000.0,KongressHerzrhythmusStörungLenzburgAarau,,3000.0,,,,,3000.0,hco,servier,,aarau,kongress herzrhythmus-störungen lenzburg,9533
 9815,Kongressorganisation im Gesundheitswesen,Bern,CH,Wattenwylweg 21,,,,5000.0,,,,,5000.0,hco,shire,wattenwylweg 21,bern,kongressorganisation im gesundheitswesen,-1
 617,KontinenzZentrum Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,8032.0,,,3000.0,,,,,3000.0,hco,allergan,witellikerstrasse 40,zuerich,kontinenzzentrum klinik hirslanden,8997
 7553,Krebsliga Schweiz,Bern,CH,Effingerstrasse 40,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,novartis,effingerstrasse 40,bern,krebsliga schweiz,9540
@@ -2341,13 +2341,13 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 3681,Ligue Jurassienne Contre Le Rhumatisme,Porrentruy,CH,Rue Thurmann 10D,,,,1500.0,,,,,1500.0,hco,celgene,rue thurmann 10d,porrentruy,ligue jurassienne contre le rhumatisme,9567
 3112,Ligue pulmonaire genevoise,Carouge GE,CH,Avenue Cardinal-Mermillod 42-44,1227.0,,,1857.0,,,,,1857.0,hco,boehringer,avenue cardinal-mermillod 42-44,carouge ge,ligue pulmonaire genevoise,9545
 1643,Ligue Pulmonaire Genevoise,Carouge GE,CH,Avenue du Cardinal-Mermillod 42-44,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,astrazeneca,avenue du cardinal-mermillod 42-44,carouge ge,ligue pulmonaire genevoise,9545
-10800,Ligue pulmonaire genevoise,Carouge GE,CH,,,,,1077.0,,,,,1077.0,hco,vifor,nan,carouge ge,ligue pulmonaire genevoise,9545
+10800,Ligue pulmonaire genevoise,Carouge GE,CH,,,,,1077.0,,,,,1077.0,hco,vifor,,carouge ge,ligue pulmonaire genevoise,9545
 7556,Ligue pulmonaire genevoise,Carouge GE,CH,Avenue Cardinal-Mermill od 42-44,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,novartis,avenue cardinal-mermill od 42-44,carouge ge,ligue pulmonaire genevoise,9545
 7557,Ligue Pulmonaire Vaudoise,Lausanne,CH,Avenue de Provence 4,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis,avenue de provence 4,lausanne,ligue pulmonaire vaudoise,-1
 9119,Ligue vaudoise contre le rhumatisme,Lausanne,CH,Avenue de Provence 12,1007.0,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,roche,avenue de provence 12,lausanne,ligue vaudoise contre le rhumatisme,9572
 3682,Ligue Vaudoise Contre Le Rhumatisme,Lausanne,CH,12 Av. De Provence,,,,929.0,,,,,928.51,hco,celgene,12 avenue de provence,lausanne,ligue vaudoise contre le rhumatisme,9572
 8570,Limmat-Apotheke AG,Zürich,CH,Limmattalstrasse 242,,,0.0,0.0,0.0,0.0,1077.0,0.0,1077.0,hco,pfizer,limmattalstrasse 242,zuerich,limmat-apotheke ag,-1
-1960,Lindenhofgruppe,Bern,CH,,3000.0,40691380,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,bayer,nan,bern,lindenhofgruppe,9578
+1960,Lindenhofgruppe,Bern,CH,,3000.0,40691380,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,bayer,,bern,lindenhofgruppe,9578
 6837,Lindenhofgruppe,Bern,CH,"Bern, Buchserstrasse 30",,,2500.0,,,,,,2500.0,hco,mundipharma,bern buchserstrasse 30,bern,lindenhofgruppe,9578
 8113,Lindenhofspital,Bern,CH,Bremgartenstrasse 117,3001.0,,,1000.0,,,,,1000.0,hco,orion,bremgartenstrasse 117,bern,lindenhofspital,9576
 5983,Lindenhofspital,Bern,CH,Bremgartenstrasse117,,,,8000.0,,,,,8000.0,hco,mepha,bremgartenstrasse117,bern,lindenhofspital,8725
@@ -2475,7 +2475,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 7561,MediService AG Grosshandel,Zuchwil,CH,Ausserfeldweg 1,,,0.0,5400.0,0.0,0.0,79070.0,0.0,84470.0,hco,novartis,ausserfeldweg 1,zuchwil,mediservice ag grosshandel,9630
 6845,Medizinisch-soziale Hilfsstelle 1 und 2 (MSH1 + MSH2) Suchthilfe,St. Gallen,CH,"St. Gallen, Rosenbergstrasse 2",,,1337.0,,,,,,1337.0,hco,mundipharma,sankt gallen rosenbergstrasse 2,saint gallen,medizinisch-soziale hilfsstelle 1 und 2 (msh1 + msh2) suchthilfe,-1
 3319,Medizinische Universitätsklinik,Bruderholz,CH,Batteriestrasse,,,,5000.0,,,,,5000.0,hco,bristol,batteriestrasse,bruderholz,medizinische universitätsklinik,-1
-5829,"Medizinische Universitätsklinik, Kantonsspital Baselland",Bmderholz,CH,,,,,4000.0,,,,,4000.0,hco,menarini,nan,bmderholz,"medizinische universitätsklinik, kantonsspital baselland",-1
+5829,"Medizinische Universitätsklinik, Kantonsspital Baselland",Bmderholz,CH,,,,,4000.0,,,,,4000.0,hco,menarini,,bmderholz,"medizinische universitätsklinik, kantonsspital baselland",-1
 6540,Medizinischer Verein Linthgebiet,Schmerikon,CH,Bahnhofstrasse 5,,,,1000.0,,,,,1000.0,hco,msd,bahnhofstrasse 5,schmerikon,medizinischer verein linthgebiet,9636
 3286,Medizinisches Winterquartett,Männedorf,CH,Bahnhofstrasse 20,,,,4000.0,,,,,4000.0,hco,bristol,bahnhofstrasse 20,maennedorf,medizinisches winterquartett,-1
 6541,Medizinisches Winterquartett c/o Dr. med. René Maire,Männedorf,CH,Medizinisches Winterquartett - c/o Dr. med. René Maire Bahnhofstrasse 20,,,,4000.0,,,,,4000.0,hco,msd,medizinisches winterquartett  cob doktor der medizin rene maire bahnhofstrasse 20,maennedorf,medizinisches winterquartett ,-1
@@ -2523,7 +2523,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 2751,Médecins de Famille Fribourg,Farvagny,CH,Impasse du Petit Crêt 3,,,,2000.0,,,,,2000.0,hco,bgp,impasse du petit cret 3,farvagny,médecins de famille fribourg,9669
 4781,Médecins de Famille Fribourg,Farvagny,CH,Impasse du Petit-Crêt 3,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,glaxosmithkline,impasse du petit-cret 3,farvagny,médecins de famille fribourg,9669
 9708,Médecins de Famille GE,Genève,CH,Rue Conseil Général 11,1205.0,MédecinsFamilleGEGenève,,2000.0,,,,,2000.0,hco,servier,rue conseil general 11,geneve,médecins de famille ge,8634
-5827,Médecins de Famille Genève,Genève,CH,,,,,4000.0,,,,,4000.0,hco,menarini,nan,geneve,médecins de famille genève,9241
+5827,Médecins de Famille Genève,Genève,CH,,,,,4000.0,,,,,4000.0,hco,menarini,,geneve,médecins de famille genève,8634
 4782,Médecins de Famille Genève,Genève,CH,Rue du Conseil-Général 11,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,glaxosmithkline,rue du conseil-general 11,geneve,médecins de famille genève,8634
 2752,Médecins de Famille Genève,Genève,CH,Chemin de Beau-Soleil 22 c/o Dr Jean-Louis Gay,,,,2000.0,,,,,2000.0,hco,bgp,chemin de beau-soleil 22 centreo docteur jean-louis gay,geneve,médecins de famille genève,9241
 5470,Médecins de Famille Genève,Genève,CH,Chemin de Beau-Soleil 22 c/o Dr Jean-Louis Gay,,,,2000.0,,,,,2000.0,hco,meda,chemin de beau-soleil 22 centreo docteur jean-louis gay,geneve,médecins de famille genève,9241
@@ -2569,7 +2569,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 3936,Onkologie Bellevue,Zuerich,CH,Stadelhoferstrasse 42,8001.0,,,,,,1000.0,,1000.0,hco,eisai,stadelhoferstrasse 42,zuerich,onkologie bellevue,9706
 4635,Onkologie-Praxis Luzern AG,Luzern,CH,Obergrundstrasse 44,,,,,288.0,879.0,,,1168.0,hco,gilead,obergrundstrasse 44,luzern,onkologie-praxis luzern ag,-1
 9995,Onkologiepflege Schweiz,Kleinandelfingen,CH,Hirstigstrasse 13,,,,3750.0,,,,,3750.0,hco,teva,hirstigstrasse 13,kleinandelfingen,onkologiepflege schweiz,9708
-9262,ONKOLOGIEPFLEGE SCHWEIZ,,CH,HIRSTIGSTRASSE 13,,,,3250.0,,,,,3250.0,hco,sandoz,hirstigstrasse 13,nan,onkologiepflege schweiz,-1
+9262,ONKOLOGIEPFLEGE SCHWEIZ,,CH,HIRSTIGSTRASSE 13,,,,3250.0,,,,,3250.0,hco,sandoz,hirstigstrasse 13,,onkologiepflege schweiz,-1
 1132,Onkologiepflege Schweiz,Kleinandelfi Ngen,CH,Hirstigstrasse 13,,,,10750.0,,,,,10750.0,hco,amgen,hirstigstrasse 13,kleinandelfi ngen,onkologiepflege schweiz,9708
 6196,Onkologiepflege Schweiz,Kleinandelfingen,CH,Hirstigstrasse 13,,,,5250.0,,,,,5250.0,hco,merck,hirstigstrasse 13,kleinandelfingen,onkologiepflege schweiz,9708
 1660,Onkologiepflege Schweiz,Kleinandelfingen,CH,Hirstigstrasse 13,,,0.0,10610.0,0.0,0.0,0.0,0.0,10610.0,hco,astrazeneca,hirstigstrasse 13,kleinandelfingen,onkologiepflege schweiz,9708
@@ -2631,14 +2631,14 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 3687,Ospedale Civico,Lugano,CH,Via Tesserete 46,,,,,168.0,6247.0,,,6415.62,hco,celgene,via tesserete 46,lugano,ospedale civico,-1
 4204,"Ospedale Civico, Diabetologia",Lugano,CH,"Ospedale Civico, Via Tesserete 46",,,,926.0,,,,,926.0,hco,eli,ospedale civico via tesserete 46,lugano,"ospedale civico, diabetologia",-1
 1971,Ospedale Malcantonese,Castelrotto,CH,Nucleo 32,6980.0,40702932,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,bayer,nucleo 32,castelrotto,ospedale malcantonese,-1
-9710,Ospedale Malcantonese - Fondazione Giuseppe Rossi,Castelrotto,CH,,6980.0,OspedaleMalcantoneseFondazioneGiuseppeRossiCastelrotto,,1500.0,,,,,1500.0,hco,servier,nan,castelrotto,ospedale malcantonese - fondazione giuseppe rossi,-1
+9710,Ospedale Malcantonese - Fondazione Giuseppe Rossi,Castelrotto,CH,,6980.0,OspedaleMalcantoneseFondazioneGiuseppeRossiCastelrotto,,1500.0,,,,,1500.0,hco,servier,,castelrotto,ospedale malcantonese - fondazione giuseppe rossi,-1
 4787,Ospedale Malcantonese Fondazione GiuseppeRossi,Castelrotto,CH,(no postal address),,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,glaxosmithkline,no postal address,castelrotto,ospedale malcantonese fondazione giusepperossi,-1
 3118,Ospedale Regionale Beata Vergine Diverse,Mendrisio,CH,Via Alfonso Turconi 23,6850.0,,,278.55,,,,,278.55,hco,boehringer,via alfonso turconi 23,mendrisio,ospedale regionale beata vergine diverse,9006
 1535,Ospedale Regionale Bellinzona,Bellinzona,CH,Via Ospedale,,,0.0,5500.0,0.0,0.0,0.0,0.0,5500.0,hco,astrazeneca,via ospedale,bellinzona,ospedale regionale bellinzona,8720
 1534,Ospedale Regionale Bellinzona,Bellinzona,CH,Via Ospedale,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,astrazeneca,via ospedale,bellinzona,ospedale regionale bellinzona,8720
 6851,Ospedale Regionale Bellinzona e Valli (EOC),Bellinzona,CH,"Bellinzona, Via Ospedale",,,2331.0,,,,,,2331.0,hco,mundipharma,bellinzona via ospedale,bellinzona,ospedale regionale bellinzona e valli (eoc),8720
 9926,Ospedale regionale Bellinzona e Valli EOC - Bellinzona - IOSI Istituto Oncologico della Svizzera Italiana,Bellinzona,CH,Via Ospedale,6500.0,,0.0,7700.0,541.7,3500.38,0.0,0.0,11742.08,hco,takeda,via ospedale,bellinzona,ospedale regionale bellinzona e valli eoc - bellinzona - iosi istituto oncologico della svizzera italiana,8720
-1135,Ospedale Regionale Bellinzona E Valli Eoc -Bellinzona,Bellinzona,CH,,,,,,434.85,1356.96,,,1791.81,hco,amgen,nan,bellinzona,ospedale regionale bellinzona e valli eoc -bellinzona,8720
+1135,Ospedale Regionale Bellinzona E Valli Eoc -Bellinzona,Bellinzona,CH,,,,,,434.85,1356.96,,,1791.81,hco,amgen,,bellinzona,ospedale regionale bellinzona e valli eoc -bellinzona,8720
 9925,Ospedale regionale Bellinzona e Valli EOO - Bellinzona - EOCOD,Bellinzona,CH,Via Ospedale,6500.0,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,takeda,via ospedale,bellinzona,ospedale regionale bellinzona e valli eoo - bellinzona - eocod,8720
 9924,Ospedale regionale Bellinzona e Valli EOO • Bellinzona,Bellinzona,CH,Via Ospedale,6500.0,,0.0,0.0,0.0,0.0,1250.0,0.0,1250.0,hco,takeda,via ospedale,bellinzona,ospedale regionale bellinzona e valli eoo • bellinzona,8720
 6852,Ospedale Regionale della Beata Vergine di Mendrisio,Mendrisio,CH,"Mendrisio, Via Turconi 23",,,600.0,,,,,,600.0,hco,mundipharma,mendrisio via turconi 23,mendrisio,ospedale regionale della beata vergine di mendrisio,9006
@@ -2672,7 +2672,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 4207,"Ospedale San Giovanni, Dermatologia e allergologia",Bellinzona,CH,"Ospedale San Giovanni, Via Ospedale 12",,,,2000.0,,,,,2000.0,hco,eli,ospedale san giovanni via ospedale 12,bellinzona,"ospedale san giovanni, dermatologia e allergologia",8934
 4208,Osteoclub Ticino,Lugano,CH,"Clinica Luganese Moncucco, Soldini,via",,,,1000.0,,,,,1000.0,hco,eli,clinica luganese moncucco soldinivia,lugano,osteoclub ticino,9734
 9927,Osteoporose Plattform,Zürich,CH,Bellariastrasse 38,8038.0,,0.0,5400.0,0.0,0.0,0.0,0.0,5400.0,hco,takeda,bellariastrasse 38,zuerich,osteoporose plattform,9736
-9264,Osteoporose Plattform der SGR,,CH,Bellariastrasse 38,8000.0,,,30000.0,,,,,30000.0,hco,sandoz,bellariastrasse 38,nan,osteoporose plattform der sgr,-1
+9264,Osteoporose Plattform der SGR,,CH,Bellariastrasse 38,8000.0,,,30000.0,,,,,30000.0,hco,sandoz,bellariastrasse 38,,osteoporose plattform der sgr,-1
 9928,Osteoporose Plattform SGR,Zürich,CH,Beilariastrasse 38,8038.0,,0.0,5385.0,0.0,0.0,0.0,0.0,5385.0,hco,takeda,beilariastrasse 38,zuerich,osteoporose plattform sgr,9736
 1137,Osteoporoseplattform Sgr,Zürich,CH,Bellariastrasse 38,,,,24958.8,,,,,24958.8,hco,amgen,bellariastrasse 38,zuerich,osteoporoseplattform sgr,9738
 4209,Osteoporoseplattform SGR,Zürich,CH,Bellariastrasse 38,,,,15000.0,,,,,15000.0,hco,eli,bellariastrasse 38,zuerich,osteoporoseplattform sgr,9738
@@ -2684,7 +2684,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 6854,Ostschweizer Notfallsymposium (Gemeinschaftsprojekt),Diverse,CH,Diverse,,,4000.0,,,,,,4000.0,hco,mundipharma,diverse,diverse,ostschweizer notfallsymposium (gemeinschaftsprojekt),-1
 9474,Ostschweizerische Diabetes Gesellschaft,St. Gallen,CH,Neugasse 55,9000.0,,,,,,538.5,,538.5,hco,sanofi,neugasse 55,saint gallen,ostschweizerische diabetes gesellschaft,9745
 8001,Ostschweizerische Diabetes-Gesellschaft,St. Gallen,CH,Neugasse 55,,,,500.0,,,,,500.0,hco,novo,neugasse 55,saint gallen,ostschweizerische diabetes-gesellschaft,9745
-9711,Ostschweizerische Gesellschaft für Psychiatrie und Kinder- und Jugendpsychiatrie,St. Gallen,CH,,9000.0,OstschweizerischeGesellschaftPsyKinderJugendPsyStGallen,,500.0,,,,,500.0,hco,servier,nan,saint gallen,ostschweizerische gesellschaft für psychiatrie und kinder- und jugendpsychiatrie,9741
+9711,Ostschweizerische Gesellschaft für Psychiatrie und Kinder- und Jugendpsychiatrie,St. Gallen,CH,,9000.0,OstschweizerischeGesellschaftPsyKinderJugendPsyStGallen,,500.0,,,,,500.0,hco,servier,,saint gallen,ostschweizerische gesellschaft für psychiatrie und kinder- und jugendpsychiatrie,9741
 6200,OVA IVF Clinic Zurich,Zürich,CH,Hardturmstrasse 11,,,,3000.0,1112.4,8102.25,,,12214.65,hco,merck,hardturmstrasse 11,zuerich,ova ivf clinic zurich,9746
 10015,OVA IVF Clinic Zürich,Zürich,CH,Hardturmstrasse 11,,,,,,,1200.0,,1200.0,hco,teva,hardturmstrasse 11,zuerich,ova ivf clinic zürich,9746
 4339,OVA IVF Clinic Zürich AG,Zürich,CH,Hardturmstrasse 11,,,,15000.0,,,400.0,,15400.0,hco,ferring,hardturmstrasse 11,zuerich,ova ivf clinic zürich ag,9746
@@ -2713,7 +2713,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 4210,PEZZ Pädiatrisch-Endokrinologisches Zentrum Zürich,Zürich,CH,Möhrlistrasse 69,,,,,,,3600.0,,3600.0,hco,eli,moehrlistrasse 69,zuerich,pezz pädiatrisch-endokrinologisches zentrum zürich,9772
 8117,Pflegeakademie,Liestal,CH,"c/o LH Medical Managemenet GmbH, Postfach 278",4410.0,,,2500.0,,,,,2500.0,hco,orion,calleo lh medical managemenet gmbh postfach 278,liestal,pflegeakademie,9561
 5142,Pflegeakademie c/o LH Medical Management GmbH,Liestal,CH,Postfach 278,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,janssen,postfach 278,liestal,pflegeakademie ,9561
-3864,Pharma Fokus,Romont,CH,,1680.0,,,14000.0,,,,,14000.0,hco,daiichi,nan,romont,pharma fokus,-1
+3864,Pharma Fokus,Romont,CH,,1680.0,,,14000.0,,,,,14000.0,hco,daiichi,,romont,pharma fokus,-1
 6050,Pharma24,Genève,CH,Boulevard de la Cluse 38,1205.0,,,4128.0,,,,,4128.0,hco,mepha,boulevard de la cluse 38,geneve,pharma24,-1
 6060,Pharma24,Genève,CH,Boulevard de la Cluse 38,1205.0,,,8100.0,,,,,8100.0,hco,mepha,boulevard de la cluse 38,geneve,pharma24,-1
 9265,Pharmacie de l'Hôtel de Ville SA,Echallens,CH,Place De Château 3,,,,,,,600.0,,600.0,hco,sandoz,place de chateau 3,echallens,pharmacie de l'hôtel de ville sa,9776
@@ -3143,7 +3143,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,altenbergstrasse 29 postfach 686,b
 1998,"Schweiz. Verband Medizinischer Praxis-Fachpersonen SVA, St. Gallen",Goldach,CH,Appenzellerstrasse 6,9403.0,40527947,0.0,400.0,0.0,0.0,0.0,0.0,400.0,hco,bayer,appenzellerstrasse 6,goldach,"schweiz. verband medizinischer praxis-fachpersonen sva, st. gallen",-1
 1999,"Schweiz. Verband Medizinischer Praxis-Fachpersonen SVA, Thurgau",Aadorf,CH,Bohlstrasse 25,8355.0,1052418172,0.0,1300.0,0.0,0.0,0.0,0.0,1300.0,hco,bayer,bohlstrasse 25,aadorf,"schweiz. verband medizinischer praxis-fachpersonen sva, thurgau",-1
 2000,"Schweiz. Verband Medizinischer Praxis-Fachpersonen SVA, Zentralsekretariat",Bern,CH,Elfenstrasse 19,3006.0,40536724,0.0,3200.0,0.0,0.0,0.0,0.0,3200.0,hco,bayer,elfenstrasse 19,bern,"schweiz. verband medizinischer praxis-fachpersonen sva, zentralsekretariat",10015
-3877,Schweiz. Verein für Amts- und Spitalapotheker,Bern,CH,,3000.0,,,7200.0,,,,,7200.0,hco,daiichi,nan,bern,schweiz. verein für amts- und spitalapotheker,8487
+3877,Schweiz. Verein für Amts- und Spitalapotheker,Bern,CH,,3000.0,,,7200.0,,,,,7200.0,hco,daiichi,,bern,schweiz. verein für amts- und spitalapotheker,8487
 4225,Schweiz. Vereinig. gegen die Osteoporose/Assoc. Suisse contre l'Ostéoporose,Basel,CH,Missionsstrasse 24,,,,203000.0,,,,,203000.0,hco,eli,missionsstrasse 24,basel,schweiz. vereinig. gegen die osteoporose/assoc. suisse contre l'ostéoporose,10016
 9933,Schweiz. Vereinig. gegen die Osteoporose/Assoc. Suisse contre l'Ostéoporose,Basel,CH,Missionsstrasse 24,4055.0,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,takeda,missionsstrasse 24,basel,schweiz. vereinig. gegen die osteoporose/assoc. suisse contre l'ostéoporose,10016
 4953,Schweiz. Vereinigung Morbus,Zürich,CH,Leutschenbachstrasse 45,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,gruenenthal,leutschenbachstrasse 45,zuerich,schweiz. vereinigung morbus,10017
@@ -3244,7 +3244,7 @@ ag",9400
 5846,Schweizerische Ärztegesellschaft für Manuelle Medizin SAMM,St. Gallen,CH,Röschstr. 18,,,,9350.0,,,,,9350.0,hco,menarini,roeschstrasse 18,saint gallen,schweizerische ärztegesellschaft für manuelle medizin samm,8955
 4797,Schweizerische Ärztegesellschaft für ManuelleMedizin (SAMM),St. Gallen,CH,Kolumbanstrasse 2,,,0.0,8055.96,0.0,0.0,0.0,0.0,8055.96,hco,glaxosmithkline,kolumbanstrasse 2,saint gallen,schweizerische ärztegesellschaft für manuellemedizin (samm),8955
 1156,Schweizerischen Akademie Für Psychosomatische Und Psychosoziale Medizin (Sappm),Reiden,CH,Postfach 521,,,,1680.13,,,,,1680.13,hco,amgen,postfach 521,reiden,schweizerischen akademie für psychosomatische und psychosoziale medizin (sappm),-1
-6909,Schweizerischen Gesellschaft für Schlafforschung,,CH,,,,,2000.0,,,,,2000.0,hco,neurim,nan,nan,schweizerischen gesellschaft für schlafforschung,-1
+6909,Schweizerischen Gesellschaft für Schlafforschung,,CH,,,,,2000.0,,,,,2000.0,hco,neurim,,,schweizerischen gesellschaft für schlafforschung,-1
 1842,Schweizerischer Berufsverband Dipl. Fachfrauen/-männer Operationstechnik HF,Sursee,CH,Bahnhofstrasse 7b,,,2400.0,0.0,0.0,0.0,0.0,0.0,2400.0,hco,baxter,bahnhofstrasse 7b,sursee,schweizerischer berufsverband dipl. fachfrauen/-männer operationstechnik hf,-1
 8014,Schweizerischer Fachverband Adipositas im Kindes- und Jugendalter AKJ,Aarau,CH,Herzogstrasse 1,,,8000.0,,,,,,8000.0,hco,novo,herzogstrasse 1,aarau,schweizerischer fachverband adipositas im kindes- und jugendalter akj,8564
 9283,Schweizerischer Verband medizinischer Praxis-Fachperso nen (SVA),Bern,CH,c/o Fürsprecher Bruno Gutknecht Elfenstrasse 19,,,,4569.3,,,,,4569.3,hco,sandoz,cob fuersprecher bruno gutknecht elfenstrasse 19,bern,schweizerischer verband medizinischer praxis-fachperso nen (sva),10015
@@ -3434,7 +3434,7 @@ ag",9400
 4483,Smartaging Swiss Academy Ag,Zürich,CH,Bürglistrasse 11,,Smartaging_Swiss_Ac ademy_AG,,2160.0,,,6200.0,,8360.0,hco,galderma,buerglistrasse 11,zuerich,smartaging swiss academy ag,10147
 2764,SMG - SSM,Lausanne,CH,Rue de la Vigie 5 c/o Dr Dorothea Wunder,,,,2500.0,,,,,2500.0,hco,bgp,rue de la vigie 5 centreo docteur dorothea wunder,lausanne,smg - ssm,-1
 6592,SMOB Swiss Society for the Study of morbid Obesity c/o Dr. Felix Bauknecht,Küsnacht ZH,CH,SMOB Swiss Society for the Study - of morbid Obesity - c/o Dr. Felix Bauknecht Tödistrasse 7,,,,1500.0,,,,,1500.0,hco,msd,smob swiss society for the study of morbid obesity centreoffice doctor felix bauknecht todistrasse 7,kuesnacht zh,smob swiss society for the study of morbid obesity ,-1
-10139,SNaG,Zürich,CH,,,,,1500.0,,,,,1500.0,hco,ucb,nan,zuerich,snag,-1
+10139,SNaG,Zürich,CH,,,,,1500.0,,,,,1500.0,hco,ucb,,zuerich,snag,-1
 2861,SNG c/o IMK,Basel,CH,Münsterberg 1,,,,43000.0,,,62000.0,,105000.0,hco,biogen,muensterberg 1,basel,sng ,8511
 9741,SNM - Société Neuchâteloise de Médecine,Hauterive NE,CH,Les Theyers 2,2068.0,SNMHauteriveNE,,2000.0,,,,,2000.0,hco,servier,les theyers 2,hauterive nord est,snm - société neuchâteloise de médecine,10150
 5857,SNM Société Neuchâteloise de Médecine,La Chaux-de-Fonds,CH,Rue de Chasserai 20,,,,3000.0,,,,,3000.0,hco,menarini,rue de chasserai 20,la chaux-de-fonds,snm société neuchâteloise de médecine,-1
@@ -3455,7 +3455,7 @@ ag",9400
 7610,Società ticinese di dermatologia e venereologia c/o Dr. med. Patrizia Carrozza,Bellinzona,CH,Viale Stazione 16,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,novartis,viale stazione 16,bellinzona,società ticinese di dermatologia e venereologia ,10165
 2024,Società Ticinese di Medicina Geriatrica (STiMeGer),Chiasso,CH,Corso San Gottardo 89,6830.0,1052939242,0.0,600.0,0.0,0.0,0.0,0.0,600.0,hco,bayer,corso san gottardo 89,chiasso,società ticinese di medicina geriatrica (stimeger),10284
 4234,Società Ticinese di Psichiatria e Psicoterapia STPP,Coldrerio,CH,Via Campagnola 112,,,,1500.0,,,,,1500.0,hco,eli,via campagnola 112,coldrerio,società ticinese di psichiatria e psicoterapia stpp,9392
-5360,Società Ticiniese di Psichiatria e Psicoterapia,,CH,,,,,1500.0,,,,,1500.0,hco,lundbeck,nan,nan,società ticiniese di psichiatria e psicoterapia,-1
+5360,Società Ticiniese di Psichiatria e Psicoterapia,,CH,,,,,1500.0,,,,,1500.0,hco,lundbeck,,,società ticiniese di psichiatria e psicoterapia,-1
 6876,Societá Ticinese degli Allergologi ed Immunologi (STAI),Montagnola,CH,"Lugano, Via Tesserete 26",,,350.0,,,,,,350.0,hco,mundipharma,lugano via tesserete 26,montagnola,societá ticinese degli allergologi ed immunologi (stai),10163
 1162,Socièta Svizzera Di Medicina Interna Generale Del Canton Ticino,Paradiso,CH,Via Guisan 10,,,,500.0,,,,,500.0,hco,amgen,via guisan 10,paradiso,socièta svizzera di medicina interna generale del canton ticino,10162
 4819,Société Médicale de Genève,Genève,CH,Av. de la Roseraie 76,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,glaxosmithkline,avenue de la roseraie 76,geneve,société médicale de genève,-1
@@ -3699,7 +3699,7 @@ ag",9400
 9292,St. Gallen Oncology Conferences (SONK),St. Gallen,CH,Rohrschacherstrasse 150,,,,4970.0,,,,,4970.0,hco,sandoz,rohrschacherstrasse 150,saint gallen,st. gallen oncology conferences (sonk),8509
 9942,St. Gallen Oncology Conferences SONK,St. Gallen,CH,Rorschacher Strasse 150,9006.0,,0.0,1615.5,0.0,0.0,0.0,0.0,1615.5,hco,takeda,rorschacher strasse 150,saint gallen,st. gallen oncology conferences sonk,8509
 9747,St. Gallische Kantonale Psychiatrische Dienste - Sektor Nord,Wil SG,CH,Zürcherstrasse 30,9501.0,StGallischePsychiatrischeDiensteSektorNordWilSG,,4500.0,,,,,4500.0,hco,servier,zuercherstrasse 30,wil sargento segundo,st. gallische kantonale psychiatrische dienste - sektor nord,9472
-6054,St. Moritzer Aerztegesellschaft,St. Moritz,CH,,7500.0,,,1500.0,,,,,1500.0,hco,mepha,nan,saint moritz,st. moritzer aerztegesellschaft,10242
+6054,St. Moritzer Aerztegesellschaft,St. Moritz,CH,,7500.0,,,1500.0,,,,,1500.0,hco,mepha,,saint moritz,st. moritzer aerztegesellschaft,10242
 426,St.Gallen Oncology Conferences,St. Gallen,CH,Rorschacher Strasse 150,,,,3700.0,,,,,3700.0,hco,abbvie,rorschacher strasse 150,saint gallen,st.gallen oncology conferences,8509
 1174,St.Gallen Oncology Conferences,St. Gallen,CH,Rorschacher Strasse 150,,,,3935.0,,,,,3935.0,hco,amgen,rorschacher strasse 150,saint gallen,st.gallen oncology conferences,8509
 3311,St.Gallen Oncology Conferences,St. Gallen,CH,Rorschacher Strasse 150,,,,1500.0,,,,,1500.0,hco,bristol,rorschacher strasse 150,saint gallen,st.gallen oncology conferences,8509
@@ -3787,7 +3787,7 @@ ag",9400
 8648,Stiftung meineimpfungen,Gümligen,CH,Mattenstrasse 9,,,30000.0,0.0,0.0,0.0,0.0,0.0,30000.0,hco,pfizer,mattenstrasse 9,guemligen,stiftung meineimpfungen,10265
 9295,Stiftung Prostatakrebsfor schung,Aarau,CH,Postfach,4038.0,,1000.0,,,,,,1000.0,hco,sandoz,postfach,aarau,stiftung prostatakrebsfor schung,10267
 2041,Stiftung Prostatakrebsforschung,Aarau,CH,Postfach,5001.0,40522771,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,bayer,postfach,aarau,stiftung prostatakrebsforschung,10267
-5170,Stiftung Prostatakrebsforschung,Aarau,CH,,,,0.0,23000.0,0.0,0.0,0.0,0.0,23000.0,hco,janssen,nan,aarau,stiftung prostatakrebsforschung,10267
+5170,Stiftung Prostatakrebsforschung,Aarau,CH,,,,0.0,23000.0,0.0,0.0,0.0,0.0,23000.0,hco,janssen,,aarau,stiftung prostatakrebsforschung,10267
 4345,Stiftung Prostatakrebsforschung,Aarau,CH,Postfach,4038.0,,,6000.0,,,,,6000.0,hco,ferring,postfach,aarau,stiftung prostatakrebsforschung,10267
 1846,Stiftung Prostatakrebsforschung,Aarau,CH,Postfach,4038.0,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,baxter,postfach,aarau,stiftung prostatakrebsforschung,10267
 435,Stiftung Prostatakrebsforschung,Aarau,CH,Tellstrasse 25,,,,15000.0,,,,,15000.0,hco,abbvie,tellstrasse 25,aarau,stiftung prostatakrebsforschung,10267
@@ -3847,7 +3847,7 @@ conferences",8509
 5484,SVGO-   Christian Meier,Basel,CH,Missionsstrasse 24,,,,3500.0,,,,,3500.0,hco,meda,missionsstrasse 24,basel,svgo-   christian meier,10308
 10875,SVM Société Vaudoise de Médecine,Lausanne,CH,Chemin de Mornex 38,,,,1938.6,,,,,1938.6,hco,vifor,chemin de mornex 38,lausanne,svm société vaudoise de médecine,10169
 10876,SVTM Schweizerische Vereinigung für Transfusionsmedizin,Bern,CH,Laupenstrasse 37,,,,500.0,,,,,500.0,hco,vifor,laupenstrasse 37,bern,svtm schweizerische vereinigung für transfusionsmedizin,10060
-5174,SwAPP,Bern,CH,,,,0.0,1650.0,0.0,0.0,0.0,0.0,1650.0,hco,janssen,nan,bern,swapp,10310
+5174,SwAPP,Bern,CH,,,,0.0,1650.0,0.0,0.0,0.0,0.0,1650.0,hco,janssen,,bern,swapp,10310
 5369,SwAPP / SGPM c/o Cadeaux Communication,Basel,CH,Basel,,,,1077.0,,,,,1077.0,hco,lundbeck,basel,basel,swapp / sgpm ,10310
 4402,SWIRO,Wettingen,CH,Hardstrasse 40C,,,,588.14,,,,,588.14,hco,future,hardstrasse 40c,wettingen,swiro,-1
 4659,Swiss Academic Foundation,Bern,CH,Friedbühlstrasse 51 c/o Institut für Infektiologie,,,,50000.0,,,,,50000.0,hco,gilead,friedbuehlstrasse 51 cob institut fuer infektiologie,bern,swiss academic foundation,9974
@@ -3995,7 +3995,7 @@ conferences",8509
 9504,Union des sociétés suisses des maladies vasculaires,Aarau,CH,Bahnofstrasse 55,5001.0,,,2150.0,,,,,2150.0,hco,sanofi,bahnofstrasse 55,aarau,union des sociétés suisses des maladies vasculaires,10408
 1271,Union for International Cancer,Genève,CH,"Avenue Giuseppe Motta 31-33, Genève",1202.0,,,226698.17,,,,,226698.17,hco,astellas,avenue giuseppe motta 31-33 geneve,geneve,union for international cancer,9867
 8658,Union for International Cancer,Genève,CH,31-33 Avenue Giuseppe Motta,,,0.0,297629.0,0.0,0.0,19811.0,0.0,317440.0,hco,pfizer,31-33 avenue giuseppe motta,geneve,union for international cancer,9867
-2054,Union Schweizerischer Gesellschaften für Gefässkrankheiten (USGG-UVS),Bruderholz,CH,,4101.0,40523131,0.0,23900.0,0.0,0.0,0.0,0.0,23900.0,hco,bayer,nan,bruderholz,union schweizerischer gesellschaften für gefässkrankheiten (usgg-uvs),10409
+2054,Union Schweizerischer Gesellschaften für Gefässkrankheiten (USGG-UVS),Bruderholz,CH,,4101.0,40523131,0.0,23900.0,0.0,0.0,0.0,0.0,23900.0,hco,bayer,,bruderholz,union schweizerischer gesellschaften für gefässkrankheiten (usgg-uvs),10409
 4249,Unisanté - Centre universitaire de médecine générale et santé publique,Lausanne,CH,Rue Du Bugnon 44,,,,4000.0,,,,,4000.0,hco,eli,rue du bugnon 44,lausanne,unisanté - centre universitaire de médecine générale et santé publique,-1
 6623,Unisanté Centre universitaire de médecine générale et santé publique,Lausanne,CH,Unisanté - Centre universitaire de médecine - générale et santé publique Rue du Bugnon 44,,,,,1055.2,2629.35,,,3684.55,hco,msd,unisante centre universitaire de medecine  generale etage sante publique rue du bugnon 44,lausanne,unisanté centre universitaire de médecine générale et santé publique,-1
 2898,UniSpital ZH Klinik für Viszeral- & Transplantationschirurgie,Zürich,CH,Rämistrasse 100,8091.0,,,3000.0,,,,,3000.0,hco,biotest,raemistrasse 100,zuerich,unispital zh klinik für viszeral- & transplantationschirurgie,-1
@@ -4034,7 +4034,7 @@ conferences",8509
 8660,Universität Bern,Bern,CH,Gesellschaftsstrasse 6,,,0.0,0.0,0.0,0.0,3845.0,0.0,3845.0,hco,pfizer,gesellschaftsstrasse 6,bern,universität bern,8729
 4839,"Universität Bern, Berner Institut fürHausarztmedizin (BIHAM)",Bern,CH,Gesellschaftsstrasse 49,,,0.0,2046.3,0.0,0.0,0.0,0.0,2046.3,hco,glaxosmithkline,gesellschaftsstrasse 49,bern,"universität bern, berner institut fürhausarztmedizin (biham)",8729
 4840,"Universität Bern, Institut für Pharmakologie",Bern,CH,Friedbühlstrasse 49,,,0.0,3231.0,0.0,0.0,0.0,0.0,3231.0,hco,glaxosmithkline,friedbuehlstrasse 49,bern,"universität bern, institut für pharmakologie",8729
-5871,"Universität Bern, Institut für Pharmakologie, Inselspital",Bern,CH,,,,,3000.0,,,,,3000.0,hco,menarini,nan,bern,"universität bern, institut für pharmakologie, inselspital",8729
+5871,"Universität Bern, Institut für Pharmakologie, Inselspital",Bern,CH,,,,,3000.0,,,,,3000.0,hco,menarini,,bern,"universität bern, institut für pharmakologie, inselspital",8729
 7645,Universität St. Gallen,St. Gallen,CH,Dufourstrasse 50,,,4200.0,0.0,0.0,0.0,0.0,0.0,4200.0,hco,novartis,dufourstrasse 50,saint gallen,universität st. gallen,10423
 4844,Universität Zürich,Zürich,CH,(no postal address),,,15300.0,6240.0,0.0,0.0,0.0,0.0,21540.0,hco,glaxosmithkline,no postal address,zuerich,universität zürich,9799
 2868,Universität Zürich,Zürich,CH,Rämistrasse 71,,,,,,,44309.15,,44309.15,hco,biogen,raemistrasse 71,zuerich,universität zürich,9799
@@ -4043,7 +4043,7 @@ conferences",8509
 9753,Universität Zürich,Zürich,CH,Finanzabteilung,8001.0,UniversitätZürichFinanzabteilungZürich,,2000.0,,,,,2000.0,hco,servier,finanzabteilung,zuerich,universität zürich,9799
 7646,Universität Zürich,Zürich,CH,Rämistrasse 71,,,480820.0,3000.0,0.0,0.0,28309.3,910.5,513039.8,hco,novartis,raemistrasse 71,zuerich,universität zürich,9799
 6624,Universität Zürich,Zürich,CH,Rämistrasse 71,,,,48000.0,,,,,48000.0,hco,msd,raemistrasse 71,zuerich,universität zürich,9799
-10947,Universität Zürich,Zürich,CH,,,,0.0,1077.0,0.0,0.0,0.0,0.0,1077.0,hco,zambon,nan,zuerich,universität zürich,9799
+10947,Universität Zürich,Zürich,CH,,,,0.0,1077.0,0.0,0.0,0.0,0.0,1077.0,hco,zambon,,zuerich,universität zürich,9799
 9304,Universität Zürich,Zürich,CH,Rämistrasse 71,,,,1000.0,,,,,1000.0,hco,sandoz,raemistrasse 71,zuerich,universität zürich,9799
 8030,Universität Zürich,Zürich,CH,Rämistrasse 100,,,132500.0,,,,,,132500.0,hco,novo,raemistrasse 100,zuerich,universität zürich,9799
 5361,Universität Zürich,Zürich,CH,Zürich,,,,10808.0,,,1000.0,,11808.0,hco,lundbeck,zuerich,zuerich,universität zürich,9799
@@ -4268,7 +4268,7 @@ conferences",8509
 9313,Université de Genève DSMPFMC,Genève,CH,67 rue de Lausanne,,,,4000.0,,,,,4000.0,hco,sandoz,67 rue de lausanne,geneve,université de genève dsmpfmc,-1
 8035,Université de Genève Faculté de Médecine,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,108324.0,,,,500.0,,108824.0,hco,novo,rue gabrielle-perret-gentil 4,geneve,université de genève faculté de médecine,8906
 10904,"Université de Genève, Faculté de Médecine - Département de pédiatrie, gynécologie et obstétrique",Genève,CH,Avenue de la Roseraie 64,,,,,,,1000.0,,1000.0,hco,vifor,avenue de la roseraie 64,geneve,"université de genève, faculté de médecine - département de pédiatrie, gynécologie et obstétrique",8906
-10905,"Université de Genève, Faculté de Médecine - Département des neurosciences cliniques",Genève,CH,,1211.0,,,,,,1500.0,,1500.0,hco,vifor,nan,geneve,"université de genève, faculté de médecine - département des neurosciences cliniques",8906
+10905,"Université de Genève, Faculté de Médecine - Département des neurosciences cliniques",Genève,CH,,1211.0,,,,,,1500.0,,1500.0,hco,vifor,,geneve,"université de genève, faculté de médecine - département des neurosciences cliniques",8906
 10906,"Université de Genève, Faculté de Médecine - Dépt. universitaire de psychiatrie",Genève,CH,rue de Lausanne 20 bis,,,,,,,1200.0,,1200.0,hco,vifor,rue de lausanne 20 bis,geneve,"université de genève, faculté de médecine - dépt. universitaire de psychiatrie",8906
 3891,"Université de Genève, Faculté de, Dép des Neuros Cliniques",Genève,CH,Rue Michel-Servet 1,1206.0,,,,,,1500.0,,1500.0,hco,daiichi,rue michel-servet 1,geneve,"université de genève, faculté de, dép des neuros cliniques",8906
 4259,Université de Lausanne,Lausanne,CH,"Site de Dorigny, Dorigny",,,,1857.0,,,,,1857.0,hco,eli,site de dorigny dorigny,lausanne,université de lausanne,10429
@@ -4362,7 +4362,7 @@ conferences",8509
 5428,Verein Qualitätszirkel Muttenz,Muttenz,CH,Muttenz,,,,2500.0,,,,,2500.0,hco,lundbeck,muttenz,muttenz,verein qualitätszirkel muttenz,10469
 1721,Verein Qualitätszirkel Muttenz,Muttenz,CH,Hauptstrasse 54,,,0.0,8000.0,0.0,0.0,0.0,0.0,8000.0,hco,astrazeneca,hauptstrasse 54,muttenz,verein qualitätszirkel muttenz,10469
 3893,Verein Quartierärzte 9,Zürich,CH,Altstetterstrasse 159,8048.0,,,1500.0,,,,,1500.0,hco,daiichi,altstetterstrasse 159,zuerich,verein quartierärzte 9,9925
-9764,Verein Quartierärzte Kreis 9,Zürich,CH,,8000.0,VereinQuartierärzteKreis9Zürich,,500.0,,,,,500.0,hco,servier,nan,zuerich,verein quartierärzte kreis 9,9925
+9764,Verein Quartierärzte Kreis 9,Zürich,CH,,8000.0,VereinQuartierärzteKreis9Zürich,,500.0,,,,,500.0,hco,servier,,zuerich,verein quartierärzte kreis 9,9925
 3835,Verein Schweizer Kongress für Notfallmedizin,Bern,CH,Wattenwylweg 21,3006.0,,,3861.0,,,,,3861.0,hco,daiichi,wattenwylweg 21,bern,verein schweizer kongress für notfallmedizin,-1
 6898,Verein Staats 2018 - Humanmedizin Basel,Basel,CH,"Basel, Klingelbergstrasse 61",,,3210.0,,,,,,3210.0,hco,mundipharma,basel klingelbergstrasse 61,basel,verein staats 2018 - humanmedizin basel,-1
 737,Verein Who is who im Kreis 2,Zürich,CH,Grossackerstrass e 98,,,,1500.0,,,,,1500.0,hco,almirall,grossackerstrass e 98,zuerich,verein who is who im kreis 2,10474
@@ -4584,7 +4584,7 @@ conferences",8509
 1870,Ärzteverein Werdenberg-Sarganserland,Bad Ragaz,CH,Hans Albrecht-Strasse 1,7310.0,40534610,0.0,5200.0,0.0,0.0,0.0,0.0,5200.0,hco,bayer,hans albrechtstrasse 1,bad ragaz,ärzteverein werdenberg-sarganserland,10568
 4142,Ärzteverein Werdenberg/Sarg anserland,Bad Ragaz,CH,"Venenzentrum, Hans Albrecht-Strasse 1",,,,2200.0,,,,,2200.0,hco,eli,venenzentrum hans albrechtstrasse 1,bad ragaz,ärzteverein werdenberg/sarg anserland,-1
 8464,Ärzteverein Werdenberg/Sargans,Bad Ragaz,CH,Hans Albrecht-Strasse 1,,,0.0,2369.0,0.0,0.0,0.0,0.0,2369.0,hco,pfizer,hans albrechtstrasse 1,bad ragaz,ärzteverein werdenberg/sargans,10568
-3833,Ärzteverein Werdenberg/Sarganserland_Fent Event,Bad Ragaz,CH,,7310.0,,,2200.0,,,,,2200.0,hco,daiichi,nan,bad ragaz,ärzteverein werdenberg/sarganserland_fent event,-1
+3833,Ärzteverein Werdenberg/Sarganserland_Fent Event,Bad Ragaz,CH,,7310.0,,,2200.0,,,,,2200.0,hco,daiichi,,bad ragaz,ärzteverein werdenberg/sarganserland_fent event,-1
 7432,Ärztezentrum Flums AC,Flums,CH,Marktstrasse 21,,,0.0,0.0,336.0,784.0,0.0,0.0,1120.0,hco,novartis,marktstrasse 21,flums,ärztezentrum flums ac,10584
 7433,Ärztezentrum Praxisl A6,Münsingen,CH,Bahnhofplatz 1,,,0.0,0.0,0.0,0.0,800.0,0.0,800.0,hco,novartis,bahnhofplatz 1,muensingen,ärztezentrum praxisl a6,10587
 5753,Ärztezirkel Kirchberg,Kirchberg,CH,"c/o Michael Hechelhammer, Tulpenstrasse 11",,,,300.0,,,,,300.0,hco,menarini,cob michael hechelhammer tulpenstrasse 11,kirchberg,ärztezirkel kirchberg,-1
