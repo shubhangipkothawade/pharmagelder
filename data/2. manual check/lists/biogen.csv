@@ -66,7 +66,7 @@ CHUV Lausanne,Lausanne,CH,Rue Du Bugnon 44,,,,,,,6975.0,,6975.0,hco,biogen
 Ente Ospedaliero Cantonale,Bellinzona,CH,Viale Officina 3,,,30000.0,13749.35,,,350.0,,44099.35,hco,biogen
 EPFL,Lausanne,CH,Route Cantonale,,,,3990.0,,,,,3990.0,hco,biogen
 "GSASA, Schweizerischer Vereinder Amts- und Spitalapotheker",Fribourg,CH,"Chemin des Pensionnats2-6 c/o HFR Fribourg -Hôpital cantonal, Pharmacie",,,,3000.0,,,,,3000.0,hco,biogen
-Hôpitaux Universitaires deGenève - HUG,Genève,CH,Rue Gabrielle-Perret-Gentil4 Rue Gabrielle-Perret-Gentil 4,,,,4000.0,,,2550.0,627.14,7177.14,hco,biogen
+Hôpitaux Universitaires de Genève - HUG,Genève,CH,Rue Gabrielle-Perret-Gentil4 Rue Gabrielle-Perret-Gentil 4,,,,4000.0,,,2550.0,627.14,7177.14,hco,biogen
 Inselspital Bern,Bern,CH,Freiburgstrasse 10,,,,16588.89,,,10844.71,,27433.6,hco,biogen
 Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,,3000.0,,,,,3000.0,hco,biogen
 Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,,487.44,,637.37,,,1124.81,hco,biogen
@@ -86,7 +86,7 @@ SNG c/o IMK,Basel,CH,Münsterberg 1,,,,43000.0,,,62000.0,,105000.0,hco,biogen
 Spital Thurgau AG,Frauenfeld,CH,Waldeggstrasse 8a,,,,1077.0,,,,,1077.0,hco,biogen
 Spitalzentrum Biel,Biel/Bienne,CH,Vogelsang 84,,,,,233.66,943.91,,,1177.57,hco,biogen
 Stadtspital Triemli Zürich,Zürich,CH,Birmensdorferstrasse 497,,,,1000.0,,,,,1000.0,hco,biogen
-Uni-Kinderspital beider Basel(UKBB),Basel,CH,"Spitalstrasse 33 beiderBasel (UKBB), Poliklinik",,,,,,,4125.0,,4125.0,hco,biogen
+Uni-Kinderspital beider Basel (UKBB),Basel,CH,"Spitalstrasse 33 beiderBasel (UKBB), Poliklinik",,,,,,,4125.0,,4125.0,hco,biogen
 Universitätsspital Basel,Basel,CH,Petersgraben 4,,,,9000.0,,,54329.88,1900.0,65229.88,hco,biogen
 UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,,,,4000.0,,,,,4000.0,hco,biogen
 Universität Zürich,Zürich,CH,Rämistrasse 71,,,,,,,44309.15,,44309.15,hco,biogen
