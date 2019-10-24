@@ -375,8 +375,8 @@ Inselspital Bern,Bern,CH,Freiburgstrasse 18,,,,25000.0,4471.31,19516.63,3450.0,,
 Institut Central Des Hôpitaux (Ich),Sion,CH,Avenue Du Grand-Champsec 86,,,,,435.25,1688.5,,,2123.75,hco,amgen
 Interdigest,Zürich,CH,Toblerstrasse 51,,,,1000.0,,,,,1000.0,hco,amgen
 Int. Osteoporosis Found.,Nyon,CH,Rue Juste-Olivier 9,,,,498042.45,,,,,498042.45,hco,amgen
-Kantonsspital Aarau Ag,Aarau,CH,Tellstrasse 25,,,,8200.0,967.0,2633.79,3600.0,55.7,15456.49,hco,amgen
-Kantonsspital Baden Ag,Baden,CH,M Ergel 1,,,,4000.0,1420.88,2315.16,420.0,,8156.04,hco,amgen
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,,8200.0,967.0,2633.79,3600.0,55.7,15456.49,hco,amgen
+Kantonsspital Baden AG,Baden,CH,M Ergel 1,,,,4000.0,1420.88,2315.16,420.0,,8156.04,hco,amgen
 Kantonsspital Baselland Bruderholz,Bruderholz,CH,Batteriestrasse,,,,1500.0,431.5,973.95,,,2905.45,hco,amgen
 Kantonsspital Frauenfeld,Frauenfeld,CH,Pfaffenholzstrasse 4,,,,,709.09,1314.84,,,2023.93,hco,amgen
 Kantonsspital Glarus,Glarus,CH,Burgstrasse 99,,,,2000.0,,,,,2000.0,hco,amgen
@@ -386,22 +386,22 @@ Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,,24000.0,2532.5,
 Kantonsspital Uri,Altdorf Ur,CH,Spitalstrasse 1,,,,,195.85,569.35,,,765.2,hco,amgen
 Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,,,,4000.0,,,,,4000.0,hco,amgen
 Kliniken Valens Rehazentrum Valens,Valens,CH,Taminaplatz 1,,,,1000.0,,,,,1000.0,hco,amgen
-Klinik Hirslanden Ag,Zürich,CH,Witellikerstrasse 40,,,,,381.74,5517.38,,,5899.12,hco,amgen
+Klinik Hirslanden AG,Zürich,CH,Witellikerstrasse 40,,,,,381.74,5517.38,,,5899.12,hco,amgen
 Kollegium Für Hausarztmedizin,Fribourg,CH,Rue De L'Hôpital 15,,,,3720.75,,,,,3720.75,hco,amgen
-"La Tour Hôpital Privé Sa, Hôpital De La Tour",Meyrin,CH,Avenue Jean-Daniel Maillard 3,,,,,388.34,290.09,,,678.43,hco,amgen
+"La Tour Hôpital Privé SA, Hôpital De La Tour",Meyrin,CH,Avenue Jean-Daniel Maillard 3,,,,,388.34,290.09,,,678.43,hco,amgen
 Luzerner Kantonsspital Luzern,Luzern,CH,Spitalstrasse,,,,10000.0,1356.69,8108.68,6005.0,,25470.37,hco,amgen
 Luzerner Kantonsspital Sursee,Sursee,CH,Spitalstrasse 16A,,,,,275.15,236.04,,,511.19,hco,amgen
 Médecins De Famille Genève,Genève,CH,Rue Conseil Général 11,,,,2000.0,,,,,2000.0,hco,amgen
 Onkologiepflege Schweiz,Kleinandelfi Ngen,CH,Hirstigstrasse 13,,,,10750.0,,,,,10750.0,hco,amgen
 Onkozentrum Hirslanden,Zürich,CH,Witellikerstrasse 40,,,,,154.0,77.0,2400.0,,2631.0,hco,amgen
-Onkozentrum Zürich Ag,Zürich,CH,Seestrasse 259,,,,,154.0,77.0,210.0,,441.0,hco,amgen
+Onkozentrum Zürich AG,Zürich,CH,Seestrasse 259,,,,,154.0,77.0,210.0,,441.0,hco,amgen
 Ospedale Regionale Bellinzona E Valli Eoc -Bellinzona,Bellinzona,CH,,,,,,434.85,1356.96,,,1791.81,hco,amgen
 Ospedale Regionale Di Lugano -Civico,Lugano,CH,Via Tesserete 46,,,,2000.0,,,,,2000.0,hco,amgen
 Osteoporoseplattform Sgr,Zürich,CH,Bellariastrasse 38,,,,24958.8,,,,,24958.8,hco,amgen
-Playtoknow Ag,Kilchberg,CH,Alte Landstrasse 55,,,,,,,5025.0,,5025.0,hco,amgen
-Playtoknow Ag,Kilchberg Zh,CH,Alte Landstrasse 55,,,,,,115.5,588.0,,703.5,hco,amgen
+Playtoknow AG,Kilchberg,CH,Alte Landstrasse 55,,,,,,,5025.0,,5025.0,hco,amgen
+Playtoknow AG,Kilchberg ,CH,Alte Landstrasse 55,,,,,,115.5,588.0,,703.5,hco,amgen
 Praxis Dr. Villiger Lukas,Baden- Dättwil,CH,Mellingerstrasse 207,,,,2988.0,,,,,2988.0,hco,amgen
-Privatklinik Obach Ag,Solothurn,CH,Leopoldstrasse 5,,,,2000.0,,,,,2000.0,hco,amgen
+Privatklinik Obach AG,Solothurn,CH,Leopoldstrasse 5,,,,2000.0,,,,,2000.0,hco,amgen
 Public Health Schweiz,Bern,CH,Effingerstrasse 54,,,,450.0,,,,,450.0,hco,amgen
 Quadrimed,Crans- Montana,CH,Case Postale 299,,,,12019.5,,,,,12019.5,hco,amgen
 Reha Seewis,Seewis Dorf,CH,Parfära 128,,,,2000.0,,,,,2000.0,hco,amgen
@@ -425,13 +425,13 @@ Sgv/Ssmc Schweizerische Gesellschaft Der Vertrauens-Und Versicherungsärzte,Wint
 Socièta Svizzera Di Medicina Interna Generale Del Canton Ticino,Paradiso,CH,Via Guisan 10,,,,500.0,,,,,500.0,hco,amgen
 Societe Neuchateloise De Medecinesnm,La-Chaux-De- Fonds,CH,Rue De Chasseral 20,,,,4000.0,,,,,4000.0,hco,amgen
 Sohc,Zürich,CH,Talackerstrasse 50,,,,30000.0,,,,,30000.0,hco,amgen
-Solothurner Spitäler Ag Soh,Solothurn,CH,Schöngrünstrasse 42,,,,864.0,277.59,371.04,500.0,,2012.63,hco,amgen
-Sonnenhofspital -Lindenhof Ag,Bern,CH,Buchserstrasse 30,,,,,,,800.0,,800.0,hco,amgen
+Solothurner Spitäler AG ,Solothurn,CH,Schöngrünstrasse 42,,,,864.0,277.59,371.04,500.0,,2012.63,hco,amgen
+Sonnenhofspital -Lindenhof AG,Bern,CH,Buchserstrasse 30,,,,,,,800.0,,800.0,hco,amgen
 Spitalregion Fürstenland Toggenburg,Wattwil,CH,Steig,,,,1723.2,,,,,1723.2,hco,amgen
 Spital Schwyz,Schwyz,CH,Waldeggstrasse 10,,,,,277.59,425.64,1000.0,49.0,1752.23,hco,amgen
-Spital Thun -Sts Ag,Thun,CH,Krankenhausstrasse 12,,,,,309.04,971.39,,,1280.43,hco,amgen
-Spital Thurgau Ag -Geschäftsstelle,Frauenfeld,CH,Waldeggstrasse 8A,,,,6500.0,,,,,6500.0,hco,amgen
-Spitalzentrum Biel Ag,Biel/Bienne,CH,Vogelsang 84,,,,,388.34,357.11,,,745.45,hco,amgen
+Spital Thun -Sts AG,Thun,CH,Krankenhausstrasse 12,,,,,309.04,971.39,,,1280.43,hco,amgen
+Spital Thurgau AG -Geschäftsstelle,Frauenfeld,CH,Waldeggstrasse 8A,,,,6500.0,,,,,6500.0,hco,amgen
+Spitalzentrum Biel AG,Biel/Bienne,CH,Vogelsang 84,,,,,388.34,357.11,,,745.45,hco,amgen
 Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 501,,,,8700.0,,,,,8700.0,hco,amgen
 Stadtspital Waid Zürich,Zürich,CH,Tièchestrasse 99,,,,,,,500.0,,500.0,hco,amgen
 St.Gallen Oncology Conferences,St. Gallen,CH,Rorschacher Strasse 150,,,,3935.0,,,,,3935.0,hco,amgen
@@ -450,7 +450,7 @@ Verein Für Hautkrebsforschung,Zürich,CH,"Universtitätsspital Zürich,Gloriast
 Vereinigung Zürcher Internisten,Adliswil,CH,Felsenhofstrasse 36,,,,3800.0,,,,,3800.0,hco,amgen
 World Heart Federation,Geneva,CH,Rue De Malatrex 30,,,79930.0,63250.0,,,,,143180.0,hco,amgen
 World Stroke Organization,Genève,CH,Rue François-Versonnex 7,,,,49940.0,,,,,49940.0,hco,amgen
-Zuger Kantonsspital Ag,Baar,CH,Landhausstrasse 11,,,,,572.85,1165.14,,,1737.99,hco,amgen
+Zuger Kantonsspital AG,Baar,CH,Landhausstrasse 11,,,,,572.85,1165.14,,,1737.99,hco,amgen
 Zürcher Schmerzkonferenz,Zürich,CH,Witellikerstrasse 40,,,,3000.0,,,,,3000.0,hco,amgen
 Zurich Academy Of Internal Medicine,Zürich,CH,Grossmünsterplatz 8,,,,13238.6,,,,,13238.6,hco,amgen
 Zurich Heart House,Zürich,CH,Hottingerstrasse 14,,,,10000.0,,,,,10000.0,hco,amgen
