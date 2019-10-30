@@ -1965,7 +1965,7 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 651,Eva Gütling,Winterthur,CH,Marktgasse 44,,,,,,,2000.0,,2000.0,hcp,almirall,marktgasse 44,winterthur,eva gütling,2649
 7084,Eva Gütling-Vozenilek,Winterthur,CH,"Neuropraxis im Haus zum Walfisch, Marktgasse 44",,,0.0,0.0,0.0,0.0,700.0,0.0,700.0,hcp,novartis,neuropraxis im haus zum walfisch marktgasse 44,winterthur,eva gütling-vozenilek,2649
 167,Eva Littig,Neuchâtel,CH,Ruelle Dublé 3,,,,,288.0,813.0,,,1101.0,hcp,abbvie,ruelle duble 3,neuchatel,eva littig,2656
-7313,Eva Schmid-Scharen,Bülach,CH,"Praxis Eva Schmid-Scharen, Zürichstrasse 5",,,0.0,0.0,450.0,0.0,0.0,0.0,450.0,hcp,novartis,praxis eva schmid-scharen zuerichstrasse 5,buelach,eva schmid-scharen,-1
+7313,Eva Schmid-Scharen,Bülach,CH,"Praxis Eva Schmid-Scharen, Zürichstrasse 5",,,0.0,0.0,450.0,0.0,0.0,0.0,450.0,hcp,novartis,praxis eva schmid-scharen zuerichstrasse 5,buelach,eva schmid-scharen,2420
 602,Eva Voramwald,Unterkulm,CH,Knubelstrasse 36,5726.0,,,,250.0,100.0,,100.0,450.0,hcp,allergan,knubelstrasse 36,unterkulm,eva voramwald,-1
 5291,Eva-Maria Anna Pichler,Windisch,CH,Zürcherstrasse 241,,,,,240.0,1054.0,,,1294.0,hcp,lundbeck,zuercherstrasse 241,windisch,eva-maria anna pichler,-1
 6129,Eva-Maria Voss,Luzern,CH,Haldenstrasse 11,,,,,192.85,578.7,,,771.55,hcp,merck,haldenstrasse 11,luzern,eva-maria voss,2661
@@ -5840,7 +5840,7 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 2575,Theo Signer,Binningen,CH,Hauptstrasse 55,4102.0,40541541,0.0,0.0,0.0,0.0,750.0,0.0,750.0,hcp,bayer,hauptstrasse 55,binningen,theo signer,7750
 9048,Theodor Landis,Lausanne,CH,Avenue Jomini 8,1004.0,,,,754.13,2481.64,0.0,0.0,3235.77,hcp,roche,avenue jomini 8,lausanne,theodor landis,7751
 7178,Theodor Landis,Lausanne,CH,"Cabinet Theodor Landis, Avenue Jomini 8",,,0.0,0.0,0.0,0.0,1700.0,0.0,1700.0,hcp,novartis,cabinet theodor landis avenue jomini 8,lausanne,theodor landis,7751
-3801,Theres Hammel,Zürich,CH,Limmattalstrasse 197,8049.0,,,,146.67,,,,146.67,hcp,daiichi,limmattalstrasse 197,zuerich,theres hammel,-1
+3801,Theres Hammel,Zürich,CH,Limmattalstrasse 197,8049.0,,,,146.67,,,,146.67,hcp,daiichi,limmattalstrasse 197,zuerich,theres hammel,7703
 10645,Therese von Wattenwyl,Stettlen,CH,"Ärztepraxis Gartenstrasse, Gartenstrasse 16",,,,,,,800.0,,800.0,hcp,vifor,aerztepraxis gartenstrasse gartenstrasse 16,stettlen,therese von wattenwyl,-1
 872,Theresia Hardegger,Luzern,CH,Sankt Annastrasse 32,,,,,260.35,1503.25,,,1763.6,hcp,amgen,sankt annastrasse 32,luzern,theresia hardegger,7755
 9621,Thi Nguyen,Lausanne,CH,Avenue de Chailly 25,1012.0,7601000016157,,,,,300.0,,300.0,hcp,servier,avenue de chailly 25,lausanne,thi nguyen,7757
