@@ -4584,10 +4584,10 @@ recipient_id,year,recipient_name,recipient_address,recipient_location,recipient_
 2368,2016,Donata Bardelli,Viale dei Faggi 8,Lugano,hcp,694.0
 2369,2015,Donatelly Ciuffreda,Route de Thonon 42,Vésenaz,hcp,808.0
 2369,2016,Donatelly Ciuffreda,Route de Thonon 42,Vésenaz,hcp,808.0
-2370,2015,Marc Donat,Petersgraben 4,Basel,hcp,26714.85
-2370,2016,Marc Donat,Petersgraben 4,Basel,hcp,51298.649999999994
-2370,2017,Marc Donat,Petersgraben 4,Basel,hcp,41122.520000000004
-2370,2018,Marc Donat,Petersgraben 4,Basel,hcp,7623.37
+2370,2015,Marc Donath,Petersgraben 4,Basel,hcp,26714.85
+2370,2016,Marc Donath,Petersgraben 4,Basel,hcp,51298.649999999994
+2370,2017,Marc Donath,Petersgraben 4,Basel,hcp,41122.520000000004
+2370,2018,Marc Donath,Petersgraben 4,Basel,hcp,7623.37
 2371,2017,Donato Ferrara,Rue Pierre-Fatio 15,Genève,hcp,246.65
 2372,2015,Donato Marangi,Goldbühlstrasse 6,Wetzikon Zh,hcp,370.0
 2373,2015,Donato Tronnolone,Bernstrasse 86,Rothrist,hcp,444.0
@@ -17067,9 +17067,9 @@ recipient_id,year,recipient_name,recipient_address,recipient_location,recipient_
 8976,2017,EADO European Asscociation of Dermato-Oncology,Flughofstrasse 54,Zurich-Glattburg,hco,106600.81999999999
 8976,2018,EADO European Asscociation of Dermato-Oncology,Flughofstrasse 54,Zurich-Glattburg,hco,465483.19
 8977,2015,EADV European Academy of Dermatology and Venereology,Via Serafino Balestra 22b,Lugano,hco,1135977.76
-8977,2016,EADV European Academy of Dermatology and Venereology,Via Serafino Balestra 22b,Lugano,hco,837189.3099999999
-8977,2017,EADV European Academy of Dermatology and Venereology,Via Serafino Balestra 22b,Lugano,hco,1900172.5199999998
-8977,2018,EADV European Academy of Dermatology and Venereology,Via Serafino Balestra 22b,Lugano,hco,2254468.45
+8977,2016,EADV European Academy of Dermatology and Venereology,Via Serafino Balestra 22b,Lugano,hco,961554.3099999999
+8977,2017,EADV European Academy of Dermatology and Venereology,Via Serafino Balestra 22b,Lugano,hco,2176710.52
+8977,2018,EADV European Academy of Dermatology and Venereology,Via Serafino Balestra 22b,Lugano,hco,2542616.45
 8978,2016,EAPS European Academy of Paediatric Societies,c/o Kenes International,Genève 6,hco,52728.0
 8979,2015,EASL European Association for the Study of the Liver,Rue Daubin 7,Genève,hco,1497026.7
 8979,2016,EASL European Association for the Study of the Liver,Rue Daubin 7,Genève,hco,2868655.75
@@ -17215,9 +17215,6 @@ recipient_id,year,recipient_name,recipient_address,recipient_location,recipient_
 9034,2018,EUPATI Switzerland,Petersplatz 13,Basel,hco,8000.0
 9035,2017,Europa Donna,Potfach,Bern,hco,32000.0
 9035,2018,Europa Donna,Potfach,Bern,hco,4000.0
-9036,2016,European Academy Dermatology Venereology,Via delle Scuole 12,Lugano,hco,124365.0
-9036,2017,European Academy Dermatology Venereology,Via delle Scuole 12,Lugano,hco,276538.0
-9036,2018,European Academy Dermatology Venereology,Via delle Scuole 12,Lugano,hco,288148.0
 9037,2015,European Academy of Paediatrics (EAP),Av. Louis-Casai 18,Genève,hco,3240.88
 9038,2017,European College of Gerodontology (ECG),Freiburgstrasse 7,Bern,hco,2834.82
 9039,2015,European Dermatology Forum,Gloriastrasse 31,Zürich,hco,138725.46
@@ -18082,7 +18079,8 @@ recipient_id,year,recipient_name,recipient_address,recipient_location,recipient_
 9442,2017,International Society of Paediatric Oncology (SIOP),Rue François-Versonnex 7,Genève,hco,49263.4
 9442,2018,International Society of Paediatric Oncology (SIOP),Rue François-Versonnex 7,Genève,hco,20026.34
 9443,2016,International Symposium on Pneumococci and Pneumococcal Diseases,Rue François-Versonnex 7,Genève,hco,98767.12
-9443,2018,International Symposium on Pneumococci and Pneumococcal Diseases,Rue François-Versonnex 7,Genève,hco,208622.15
+9443,2017,International Symposium on Pneumococci and Pneumococcal Diseases,Rue François-Versonnex 7,Genève,hco,100250.0
+9443,2018,International Symposium on Pneumococci and Pneumococcal Diseases,Rue François-Versonnex 7,Genève,hco,413923.13
 9444,2016,Interregionale Blutspende SRK AG,Murtenstrasse 133,Bern,hco,5000.0
 9445,2015,Intervisionsgruppe,Niederlenzer Kirchweg 3,Lenzburg,hco,5100.0
 9445,2016,Intervisionsgruppe,Niederlenzer Kirchweg 3,Lenzburg,hco,5100.0
@@ -18109,8 +18107,6 @@ recipient_id,year,recipient_name,recipient_address,recipient_location,recipient_
 9454,2017,ISCP International Society of Cardiovascular Pharmacotherapy,Route de Saint-Dulien 19 7A,Plan-les-Ouates,hco,22804.5
 9454,2018,ISCP International Society of Cardiovascular Pharmacotherapy,Route de Saint-Dulien 19 7A,Plan-les-Ouates,hco,3502.53
 9455,2016,ISFRI,Winterthurerstrasse 190,Zürich,hco,1520.17
-9456,2017,ISPPD,Rue François-Versonnex 7,Genève,hco,100250.0
-9456,2018,ISPPD,Rue François-Versonnex 7,Genève,hco,205300.98
 9457,2015,Istituto cantonale di patologia,Via in Selva 24,Locarno,hco,2000.0
 9457,2016,Istituto cantonale di patologia,Via in Selva 24,Locarno,hco,2011.0
 9457,2017,Istituto cantonale di patologia,Via in Selva 24,Locarno,hco,29890.0

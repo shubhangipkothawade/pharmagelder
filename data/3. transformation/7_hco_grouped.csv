@@ -890,7 +890,7 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 1086,Eupati Switzerland,Basel,CH,Petersplatz 13,,,8000.0,,,,,,8000.0,hco,amgen,9034,-1,
 7954,Eurobesitas Association,Vevey,CH,Quai Perdonnet 14,,,14000.0,,,,,,14000.0,hco,novo,-1,-1,
 8498,Europa Donna Schweiz,Bern,CH,Postfach,,,4000.0,0.0,0.0,0.0,0.0,0.0,4000.0,hco,pfizer,9035,-1,
-5105,European Academy Dermatology Venereology,Lugano,CH,Via delle Scuole 12,,,121993.0,166155.0,0.0,0.0,0.0,0.0,288148.0,hco,janssen,9036,-1,
+5105,European Academy Dermatology Venereology,Lugano,CH,Via delle Scuole 12,,,121993.0,166155.0,0.0,0.0,0.0,0.0,288148.0,hco,janssen,8977,-1,
 1571,European Academy Of Allergy and Clinical Immunology (EAACI),Zürich,CH,Hagenholzstrasse 111,,,0.0,194168.79,0.0,0.0,0.0,0.0,194168.79,hco,astrazeneca,8975,-1,
 7475,European Academy of Allergy and Clinical Immunology (EAACI),Zürich,CH,"Hagenholzstrasse 111, 3rd floor",,,,341699.28,,,,,341699.28,hco,novartis,8975,-1,
 5776,"European Academy of Allergy and Clinical Immunology, EAACI",Zürich,CH,Hagenholzstrasse 111,,,,78039.0,,,,,78039.0,hco,menarini,8975,-1,
@@ -1853,7 +1853,7 @@ Postfach 686",,,,26300.0,,,,,26300.0,hco,teva,-1,11,1.0
 1619,International Society Of Cardiovascular Pharmacotherapy (ISCP),Plan-les- Ouates,CH,Route de Saint-Julien 197A,,,0.0,3502.53,0.0,0.0,0.0,0.0,3502.53,hco,astrazeneca,9454,-1,
 6520,International Society of Geriatric Oncology (SIOG),Châtelaine,CH,Administrative Office Chemin de Balexert 7-9,,,9923.12,56887.35,,,,,66810.47,hco,msd,-1,91,1.0
 1945,International Society of Paediatric Oncology (SIOP),Genève,CH,Rue François-Versonnex 7,1207.0,1052933246,0.0,20026.34,0.0,0.0,0.0,0.0,20026.34,hco,bayer,9442,-1,
-6521,International Symposium on Pneumococci & Pneumococcal Diseases ISPPD,Genève,CH,c/o Kenes Interntional SA Rue François-Versonn ex 7,,,,205300.98,,,,,205300.98,hco,msd,9456,-1,
+6521,International Symposium on Pneumococci & Pneumococcal Diseases ISPPD,Genève,CH,c/o Kenes Interntional SA Rue François-Versonn ex 7,,,,205300.98,,,,,205300.98,hco,msd,9443,-1,
 4762,International Symposium on Pneumococci and Pneumococcal Diseases,Genève,CH,Rue François-Versonnex 7,,,98550.72,110071.43,0.0,0.0,0.0,0.0,208622.15,hco,glaxosmithkline,9443,-1,
 3102,International Task Force for Prevention of Cardiometabolic Diseases,Diessenhofen,CH,Hintergasse 65,8253.0,,,11572.0,,,,,11572.0,hco,boehringer,-1,90,
 7981,International Task Force for Prevention of Cardiometabolic Diseases,Zürich,CH,Brandschenkestrasse 24,,,,10989.0,,,,,10989.0,hco,novo,-1,-1,

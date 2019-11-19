@@ -11442,8 +11442,8 @@ tra_fk_pharma,tra_fk_recipient,tra_year,tra_fk_transaction_category,tra_value,tr
 6,9034,2018,1,8000.0,Eupati Switzerland,Basel,Petersplatz 13
 42,12465,2018,1,14000.0,Eurobesitas Association,Vevey,Quai Perdonnet 14
 45,9035,2018,1,4000.0,Europa Donna Schweiz,Bern,Postfach
-30,9036,2018,1,121993.0,European Academy Dermatology Venereology,Lugano,Via delle Scuole 12
-30,9036,2018,2,166155.0,European Academy Dermatology Venereology,Lugano,Via delle Scuole 12
+30,8977,2018,1,121993.0,European Academy Dermatology Venereology,Lugano,Via delle Scuole 12
+30,8977,2018,2,166155.0,European Academy Dermatology Venereology,Lugano,Via delle Scuole 12
 8,8975,2018,2,194168.79,European Academy Of Allergy and Clinical Immunology (EAACI),Zürich,Hagenholzstrasse 111
 40,8975,2018,2,341699.28,European Academy of Allergy and Clinical Immunology (EAACI),Zürich,"Hagenholzstrasse 111, 3rd floor"
 34,8975,2018,2,78039.0,"European Academy of Allergy and Clinical Immunology, EAACI",Zürich,Hagenholzstrasse 111
@@ -12722,7 +12722,7 @@ Postfach 686"
 37,12839,2018,1,9923.12,International Society of Geriatric Oncology (SIOG),Châtelaine,Administrative Office Chemin de Balexert 7-9
 37,12839,2018,2,56887.35,International Society of Geriatric Oncology (SIOG),Châtelaine,Administrative Office Chemin de Balexert 7-9
 11,9442,2018,2,20026.34,International Society of Paediatric Oncology (SIOP),Genève,Rue François-Versonnex 7
-37,9456,2018,2,205300.98,International Symposium on Pneumococci & Pneumococcal Diseases ISPPD,Genève,c/o Kenes Interntional SA Rue François-Versonn ex 7
+37,9443,2018,2,205300.98,International Symposium on Pneumococci & Pneumococcal Diseases ISPPD,Genève,c/o Kenes Interntional SA Rue François-Versonn ex 7
 27,9443,2018,1,98550.72,International Symposium on Pneumococci and Pneumococcal Diseases,Genève,Rue François-Versonnex 7
 27,9443,2018,2,110071.43,International Symposium on Pneumococci and Pneumococcal Diseases,Genève,Rue François-Versonnex 7
 15,12838,2018,2,11572.0,International Task Force for Prevention of Cardiometabolic Diseases,Diessenhofen,Hintergasse 65
