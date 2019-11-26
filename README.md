@@ -1,4 +1,10 @@
 # Pharmagelder
+This is how we exported money for doctors. The data is available at www.pharmagelder.ch.
+
+## Data
+If you are just looking for the data, have a look at the [current database dump](data/5.%20livedump/pharmagelder.sql)
+
+
 ## Other Important README-Files
 * [data/README.md](data/README.md) for scripting / exporting
 * [data/_docs/PDF_SCREENSHOTS.md](data/_docs/PDF_SCREENSHOTS.md) to find the best template
@@ -42,11 +48,11 @@ If `pip install postal` throws an error, install `pip install nose` first.
 
 ## Procedure
 ### Step 1 - Export data
-In the Folder [data/1. pdfexport/files](data/1.%20pdfexport/files/) you will find a subfolder for each pharmaceutical company. Put the PDFs (if available) there. Each folder needs to files:
+In the Folder [data/1. pdfexport/files](data/1.%20pdfexport/files/) you will find a subfolder for each pharmaceutical company. Put the PDFs (if available) there. Each folder needs two files:
 * 0. Lists.ipynb
 * 1. Accumulations.ipynb
 
-`0. Lists.ipynb` extracts all doctors and organisations. `1. Accumulations.ipynb` extracts the accumulations - all the anonym doctors and organisations.
+`0. Lists.ipynb` extracts all doctors and organisations. `1. Accumulations.ipynb` extracts the accumulations - all the anonym doctors and organisations. Recommendation: If `1. Accumulations.ipynb` doesnt work anymore: Do it by hand.
 
 The exported files will be stored in the folder [data/1. pdfexport/export/](data/1.%20pdfexport/export/). Do never change something directly in this csv-files. Use the python-notebooks or do it later on google spreadsheets.
 
@@ -77,7 +83,7 @@ Now everyone can edit the files, make fixes while your git repository is always 
 
 ### Step 3 - Export live DB
 We take our "old" data from the live database, not old csv files. Take a dump of your live database and import it to your own mysql database.  
-Nor export the data: `3. export livedata/0. export database.ipynb`. This file exports the data to a csv.  
+Now export the data: `3. export livedata/0. export database.ipynb`. This file exports the data to a csv.  
 **Be aware: To not use this data for calculations! The export drops duplicates and merges different tables. The generated files are only for matching purpose later!**
 
 ### Step 4 - Concatenate Files
