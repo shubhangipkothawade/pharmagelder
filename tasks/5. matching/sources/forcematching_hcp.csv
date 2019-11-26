@@ -1,10 +1,23 @@
-left_name,left_location,left_address,right_name,right_location,right_address
-Rolf A. Stahel,Zürich,Häldeliweg 4,Rolf A. Stahel,Zürich,Rämistrasse 100
-Rolf Stahel,Bern,Rämistrasse 100,Rolf A. Stahel,Zürich,Rämistrasse 100
-Christine Maria Thürig,Genève,Rue Gabrielle-Perret-Gentil 4,Christine Maria Thürig,Bern,Monbijoustrasse 10
-Christoph Bernard Matter,Fribourg,Chemin des Pensionnats 2,Christoph Bernard Matter,Bern,"Gastroenterologische Praxis, Bremgartenstrasse 119"
-Claudia Pfeiffer Zehnder,Zürich,Gloriastrasse 25,Claudia Pfeiffer Zehnder,Winterthur,Theaterstrasse 1
-Karl A. Steuer,Allschwil,Brennerstrasse 12,Karl A. Steuer,Dornach,Spitalweg 11
-Laetitia Arja Mauti,St. Gallen,Rorschacher Strasse 95,Laetitia Arja Mauti,Winterthur,Postfach 8
-Nicolas von der Weid,Basel,Spitalstrasse 33,Nicolas von der Weid,Genève,Chemin Beau-Soleil 12
-Matti S. Aapro,Collonge-Bellerive,"Genolier Cancer Centre, 2 Chateau",Matti Aapro,Genolier,Route du Muids 3
+name,address,location,parent
+Ahmad Jalili,Bürgenstock 30,Bürgenstock,74
+Alberto Aldan Moccia,Via Paradiso 7B,Bellinzona,126
+Rolf Stahel,Bergstrasse 107,Herrliberg,6950
+Alessandra Curioni,Rütiholzstrasse 15,Gattikon,138
+Alexander Dieterle,Gellertstrasse 144,Basel,166
+Andreas Gantenbein,"Neurologie, Oberer Hüsliweg 7",Niederweningen,402
+Annette Winkler Vatter,Vogelsang 84,Biel/Bienne,679
+Annette Winkler Vatter,"Onkologie und Hämatologie, Vogelsang 84",Biel/Bienne,679
+Annette Winkler Vatter,"Spitalzentrum Biel AG Medizin Onkologie, Vogelsang 84",Biel/Bienne,679
+Benny Osdowski,Bachstrasse 1,Herisau,1006
+Bernhard Herzog,"HerzClinic Kriens, Stadtplatz 2, Zentrum Pilatus",Kriens,1056
+Edya Fuhrmann,Rue Maunoir 26,Genève,2448
+Edya Fuhrmann,Route De Chêne 110,Chêne-Bougeries,2448
+Giatgen Spinas,"Diabetesberatung, Via Nouva 3",Samedan,3167
+Isabella Schönenberger,Steig,Wattwil,3684
+Johannes von Kempis,Alte Landstrasse 23,Wolfhalden,4024
+Kai M. Rösler,Marktplatz 5,Basel,4229
+Karl A. Steuer,Spitalweg 11,Dornach,4279
+Manuela Diederich,Auf der Schanz 51 Petersgraben 4,Kaiseraugst,4834
+Michael Witschi,Breite 68,Mühledorf,5634
+Ute Kerr,KSP Münsterlingen,Zürich,8105
+Vanessa Chatelain Fontanella,Route Du Muids 3,Genolier,8145

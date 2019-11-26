@@ -1,41 +1,305 @@
-left_name,left_location,left_address,right_name,right_location,right_address
-JHaS,Bern,Effingerstrasse 2 c/o Polsan AG,JHaS Junge Hausärztinnen und -Ärzte Schweiz,Bronschhofen,Mörikonerstrasse 8
-JHaS,Bern,Effingerstrasse 2 c/o Polsan AG,Junge Hausärztinnen und -ärzte Schweiz (JHaS),Flühli LU,Dorfstrasse 27
-Zürcher Dermatologen Gesellschaft,Kloten,Marktgasse 3,Zuercher Dermatologengesellschaft,Uster,Oberlandstrasse 100
-Zürcher Dermatologen Gesellschaft,Kloten,Marktgasse 3,Zürcher Dermatologen Gesellschaft,Zürich,Marktgasse 3
-Zürcher Gesellschaft für Kardiologie (ZGK),Zürich,Birmensdorferstrasse 467,Zürcher Gesellschaft f. Kardiologie ZGK,Zürich,Seestrasse 220
-St. Moritzer Ärztegesellschaft,St. Moritz,,St. Moritzer Ärztegesellschaft,Silvaplana,Via Munterots 8
-Union Schweizerischer Gesellschaften für Gefässkrankheiten,Bruderholz,,USGG - Schweizerischer Gesellschaften für Gefässkrankheiten,St. Gallen,Kolumbanstrasse 2
-Union Schweizerischer Gesellschaften für Gefässkrankheiten,Bruderholz,,USGG - Union Schweiz. Gesellschaften f. Gefässkrankheiten,Bad Ragaz,Venenzentrum
-Union Schweizerischer Gesellschaften für Gefässkrankheiten,Bruderholz,,USGG - Union Schweiz. Gesellschaften f. Gefässkrankheiten,Baagaz,Venenzentrum
-Vereinigung der Zentralschweizer Ärztegesellschaften,Luzern,Schwanenplatz 7,Vereinigung Zentralschweizer Ärztegesellschaften,Cham,Riedstrasse 1
-Vereinigung Zentralschweizer Ärztegesellschaften,Zug,Gubelslrasse 17,Vereinigung Zentralschweizer Ärztegesellschaften,Cham,Riedstrasse 1
-Vereinigung Zentralschweizer Ärztegesellschaften,Zug,Gubelslrasse 17,VZAG Vereinigung ZentralschweizerÄrztegesellschaften,Luzern,Schwanenplatz 7
-Zuercher Dermatologengesellschaft,Uster,Oberlandstrasse 100,Zürcher Dermatologen Gesellschaft,Kloten,Marktgasse 3
-Zürcher Dermatologen Gesellschaft,Zürich,Marktgasse 3,Zürcher Dermatologen Gesellschaft,Kloten,Marktgasse 3
-SNM - Société Neuchâteloise de Médecine,Hauterive NE,Les Theyers 2,"Société Neuchàteloise de Médecine, SNM",La Chaux-de-Fonds,Rue de Chasseral 20
-SNM - Société Neuchâteloise de Médecine,Hauterive NE,Les Theyers 2,Société Neuchâtelois de Médicine SNM,Couvet,"Etude Klauser & Schwab avocats, Grand'rue 36bis"
-Société Neuchâteloise de Pédiatrie,La Chaux-de-Fonds,Rue du Parc 9B,Société Neuchâteloise de Pédiatrie,Le Locle,Côte 2
-Société Neuchâteloise de Pédiatrie,La Chaux-de-Fonds,Rue du Parc 9B,Société Neuchâteloise de Pédiatrie,Marin,Verger-en-Joran 4
-Services psychiatriques Jura bernois - Bienne Seeland,Bellelay,Bellelay,Services psychiatriques Jura Bernois - Bienne-Seeland,Rossenges,L'Abbaye 2
-Hopital du Jura,Delément,Fbg des Capucins 30,Hôpital du Jura,Delémont,Chemin de 1*Hôpital 9
-Hopital du Jura,Delément,Fbg des Capucins 30,Hôpital du Jura,Porrentruy,Service des finances
-Hôpital du Jura Bemois SA,St-imier,Les Fontenayes 17,Hôpital du Jura Bernois,Moutier,Rue de Beausite 49
-Hôpital du Jura Bemois SA,St-imier,Les Fontenayes 17,Hôpital du Jura bernois SA,St-imier,Beausite 49
-Hôpital du Jura Bemois SA,St-imier,Les Fontenayes 17,Hôpital du Jura bernois SA,St-imier,Service comptabilité
-Hôpital du Jura Bemois SA,St-imier,Les Fontenayes 17,Hôpital du Jura Bernois SA,St. Imier,Les Fontenayes 17
-Services psychiatriques Jura bernois - Bienne Seeland,Bellelay,Bellelay,Services psychiatriques Jura Bernois - Bienne-Seeland,Rossenges,L'Abbaye 2
-ADEL Association D'Aesulape En Lavaux,Lutry,Rue Verdaine,ADAEL - Association D'Esculape En Lavaux,Lutry,Grand-Rue 22
-AOCT Associazione Oculisti Canton Ticino,Bellinzona,Piazza del Sole 5,AOCT Associazione Oculisti Canton Ticino,Lugano,Via Canova 18
-APSI - Associazione pediatri della Svizzera Italiana,Paradisio,Via delle Scuole 17,APSI Associazione Pediatri della Svizzera Italiana,Lugano,Via Monte Boglia 5
-APSI - Associazione pediatri della Svizzera Italiana,Paradisio,Via delle Scuole 17,APSI Associazione Pediatri della Svizzera Italiana,Locarno,Via Monte Boglia 5
-APSI - Associazione pediatri della Svizzera Italiana,Paradisio,Via delle Scuole 17,APSI Associazione Pediatri della Svizzera Italiana,Mendrisio,Via Beroldingen 26
-ARAM - Association Romande,Lausanne,,ARAM - Association Romande des Assistantes Médicales,Bretigny Sur Morrens,Le Verger 1
-ARAM - Association Romande,Lausanne,,ARAM - Association Romande des Assistantes Médicales,St.Légier,Chemin du Lussy 18
-ARAM - Association Romande,Lausanne,,"ARAM Association Romande des Assistantes Médicales, Congrès Romand",St-Légier-La-Chiésaz,Ch. du Lussy 18
-Fondation GECOR,Genève,Rue Gabrielle Perret Gentil 4,Fondation GECOR,Genève,Rue Micheli-du-Crest 24
-Forum für medizinische Fortbildung - FomF GmbH,Zug,Ahornstrasse 2,Forum für medizinische Fortbildung FomF GmbH,Zug,Industriestrasse 47
-Schweizerische Ges. der Vertrauensärzte SGV,Winterthur,Wülflingerstrasse 59,Schweiz Gesellschaft der Vertrauens- und Versicherungsärz,Winterthur,Industriestrasse 24
-Schweizerische Gesellschaft fur Vertrauens- und Versicherungsarzte (SGV),Winterthur,Wuelflingerstrasse 59,Schweiz Gesellschaft der Vertrauens- und Versicherungsärz,Winterthur,Industriestrasse 24
-Echo Kurs Luzern,Othmarsingen,Bahnhofstrasse 8,FORTE Echo GmbH,Baar,Dorfstrasse 38
-EULAR - Europäische Rheumaliga,Kilchberg ZH,Seestrasse 240,EULAR - European League Against Rheumatism,Kilchberg,Seestrasse 240
+name,address,location,parent
+Forte Echo GmbH,c/o PRV Provides Treuhandgesellschaft AG,Baar,8984
+Forte Echo GmbH PRV Provides Treuhandgesellschaft AG,Dorfstrasse 38,Baar,8984
+GRIMM Groupement d'Intervention Médicale en Montagne,"Président: Mr. Pierre Métrailler, Chemin de Crestamarie 2",Savièse,9221
+Groupe d'intervention médicale en montagne (GRIMM),Chemin de Crestamarie 2,Savièse,9221
+Association GRIMM,Rue Chanoine Berchtold 26,Sion,9221
+GSASA Association Suisse des Pharmaciens Administration & Hôpitaux,Bern,Bern,8487
+GSASA Schweizerischer Verein der Amts- und Spitalapotheker,Postfach,Bern,8487
+GSASA Schweizerischer Verein der Amts- und Spitalapotheker,,Bern,8487
+GSASA Schweizerischer Verein der Amts- und Spitalapotheker,Geschäftsstelle,Bern,8487
+GSASA Schweizerischer Verein der Amts- und Spitalapotheker,Postfach,Bern,8487
+GSASA - Schweizerischer Verein der Amts- und Spitalapotheker,,Bern,8487
+GSASA,Bern,Bern,8487
+GSASA Association suisse des pharmaciens de l'administration et des hôpitaux,GSASA,Bern,8487
+Schweizerischer Verein der Amts- und Spitalapotheken (GSASA),CH,Bern,8487
+Schweizerischer Verein der Amts- und Spitalapotheker (GSASA),Postfach,Bern,8487
+Schweizerischer Verein der Spital- und Amtsapotheker (GSASA),,Bern,8487
+GSASA Schweizerischer Verein der Amts- und Spitalapotheker,,,8487
+"GSASA, Schweizerischer Vereinder Amts- und Spitalapotheker","Chemin des Pensionnats2-6 c/o HFR Fribourg -Hôpital cantonal, Pharmacie",Fribourg,8487
+GSASA Schweizer Verein,,Bern,8487
+Genolier Swiss Vision,Route du Muids 3,Genolier,9188
+HFR Meyriez-Murten,Ch. du village 24,Meyriez,9332
+HUG - Hôpitaux Universitaires de Genève,Secteur facturation aux tiers - Chemin du Petit-Air 2,Chêne-Bourg,8915
+HUG Hôpitaux Universitaires de Genève - LANVIE - Laboratoire de Neuroimagerie du Vieillissement,Chemin du Petit Bel-Air 2,Chêne-Bourg,8915
+Direction générale HUG,Rue Gabrielle-Perret-Gentil 4,Genève,8915
+HerzGefäss Stiftung Zürich,Seestrasse 220,Zürich,9324
+Inselgruppe,Freiburgstrasse 18,Bern,8938
+InselGruppe,Freiburgstrasse 18,Bern,8938
+Inselgruppe,Freiburgstrasse 18,Bern,8938
+Dermatologische Klinik Inselspital,"Inselspital Bern, Insel Gruppe AG Freiburgstrasse 18",Bern,8938
+INSELGRUPPE AG,FREIBURGSTRASSE 4,BERN,8938
+Inselspital / Institut Für Pharmakologie,Freiburgstrasse 4,Bern,8938
+Inselspital Bern - Klinik für Frauenheilkunde,Friedbühlstrasse 19 Theodor-Kocher-H aus,Bern,8938
+"Inselspital Bern, Universitätsklinik für Frauenheilkunde",Friedbühlstrasse 19,Bern,8938
+Inselspital Bern - Klinik für Neurologie,Freiburgstrasse 18,Bern,8938
+Inselspital Bern - Klinik für Rheumatologie,Freiburgstrasse 18,Bern,8938
+Inselspital Bern - Univ. Klinik für Dermatologie,Freiburgstrasse 18,Bern,8938
+Inselspital Bern Dermatologie,Freiburgstrasse 18,Bern,8938
+Inselspital Bern Hämatologie,Freiburgstrasse 18,Bern,8938
+Inselspital Bern Neurologie,Freiburgstrasse 18,Bern,8938
+Inselspital Bern Viszerale Chirurgie,Freiburgstrasse 18,Bern,8938
+Inselspital Stiftung,Freiburgstrasse 18,Bern,8938
+"Inselspital, Allergologisch-Immunologische Poliklinik",,Bern,8938
+"Inselspital, Universitätsklinik für Frauenheilkunde",Freiburgstrasse,Bern,8938
+"Inselspital, Universitätsklinik für Neurologie",Freiburgstrasse,Bern,8938
+Inselspital-Stiftung Stiftungen und Fonds,Freiburgstrasse 18,Bern,8938
+Stiftung und Fonds Inselspital,Freiburgerstrasse 18,Bern,8938
+Universitätsklinik,Freiburgstrasse 18,Bern,8938
+Universitätsklinik für Neurologie,Freiburgstrasse 18,Bern,8938
+Universitätsklinik für Neurologie,Freiburgstrasse 18,Bern,8938
+Universitätsklinik für Viszerale Chirurgie und Medizin,Freiburgstrasse 18,Bern,8938
+Inselspital Bern,Haus 5,Bern,8938
+Inselspital Bern,Freiburgstrasse 18,Bern,8938
+Inselspital Bern,"Freiburgstrasse 18, Bern",Bern,8938
+Inselspital Bern,Freiburgstrasse 10,Bern,8938
+Inselspital Bern,Freiburgerstrasse 18,Bern,8938
+International Alliance for Biological Standardization,Route des Jeunes 9,Les Acacias,9434
+Junge Hausärztinnen und -ärzte Schweiz (JHaS),Mörikonerstrasse 8,Bronschhofen,9464
+Junge Hausärztinnen und -ärzte Schweiz (JHaS),Dorfstrasse 27,Flühli LU,9464
+Kantonsspital Bruderholz,Batteriestrasse,Bruderholz,9483
+Kantonsspital Graubuenden Finanzen/Patientenad Min,Loeestrasse,Chur,9485
+Kantonsspital Graubünden Chur,Loestrasse 170,Aesch,9485
+Kantonsspital Münsterlingen -Spital Thurgau Ag,Spitalcampus 1,Münsterlingen,9056
+Kantonsspital St. Gallen - DIM Onkologie/Hämatologie,Rorschacher-Strasse 95,St. Gallen Kant.Spital,8750
+Kantonsspital St.Gallen,Rorschacherstrasse 95,St. Gallen Kant.Spital,8750
+Kantonsspital Baselland Liestal,Rheinstrasse 26,Liestal,9482
+Kantonsspital Baselland Standort Liestal,Rheinstrasse 26,Liestal,9482
+Kantonsspital Baselland Verwaltung,Mühlemattstrasse 11,Liestal,9482
+Lenker Woche c/o Spital Tiefenau Prof. Dr. med. Manfred Essig,Tiefenaustrasse 112,Bern,9553
+Lenker Woche,Tiefenaustrasse 112,Bern,9553
+Luzerner Psychiatrie,Schafmattstrasse 1,St. Urban,9525
+Luzerner Psychiatrie,Klinik St. Urban - Schafmattstrasse 1,St. Urban,9525
+Luzerner Psychiatrie St. Urban,Schafmattstrasse 1,St. Urban,9525
+MIAC Corporation c/o UniversityHospital Basel,Marktgasse 8,Basel,9618
+Medizinische Universitätsklinik,Batteriestrasse,Bruderholz,9483
+"Medizinische Universitätsklinik, Kantonsspital Baselland",,Bruderholz,9483
+Oberwalliser Ärztegesellschaft,"Naters, Bahnhofstrasse 21",Naters,9697
+Oberwalliser Ärztegesellschaft (OWAEG),Furkastrasse 25,Fiesch,9697
+Oberwalliser Ärztegesellschaft OWAeG Präsidentin: Dr.med. Cornelia Biner,Furkastrasse 25,Fiesch,9697
+Osteoporose Plattform der SGR,Bellariastrasse 38,Zürich,9738
+RFSM Réseau fribourgeois de santé mentale,Boulevard de Pérolles 30,Fribourg,9550
+SAFE ID Swiss Academic Foundation for Education in Infectious Diseases,Friedbühlstrasse 51,Bern,9974
+SAKK,Effingerstrasse 33,Bern,9451
+SAKK Koordinationszentrum,Effingerstrasse 33,Bern,9451
+SAKK Koordinationszentrum,"Effingerstrasse 33, Bern",Bern,9451
+SAKK Koordinationszentrum - SPOG-GOPS,Effingerstrasse 33,Bern,9451
+SAMO - Geschäftsstelle,Effingerstrasse 40 c/o IBCSG Coordinating Center,Bern,9452
+SAMO - Geschäftsstelle,Effingerstrasse 40,Bern,9452
+SAMO - Geschäftsstelle,Effingerstrasse 40 c/o IBCSG Coordinating,Bern,9452
+SAMO - Geschäftsstelle,"Effingerstrasse 40, Bern",Bern,9452
+"SAMO c/o Klinik für Onkologie, HFR Fribourg-Kantonsspital",Chemin des Pensionnats 2-6,Fribourg,9452
+SAMO - Swiss Academy of Multidisciplinary Oncology,Klinik für Onkologie - HFR Freiburg - Kantonsspital,Fribourg,9452
+Schweizerische Menopause Gesellschaft,Rue de la Vigie 5,Lausanne,10050
+SGAIM,Schweiz.Ges. Allgemeine Innere Medizin,Bern,8442
+SGAIM SSMIG SSGIM,Monbijoustrasse 43,Bern,8442
+Schweizerische Gesellschaft für Arzneimittelsicherheit in der Psychiatrie (SGAMSP),Postfach 100,Aarburg,10125
+Samo - swiss academy,Häldeliweg 4,Zürich,9452
+Schweizerische Diabetes-Gesellschaft,Rütistrasse 3a,Baden,10029
+"Schweizerische Gesellschaft für Herz- und thorakale Gefässchirurgie, SGHC",Rue Gabrielle-Perret-Gentil 4,Genève,8460
+Schweizerische Gesellschaft für Neonatologie,Postfach 100,Cheseaux-sur-Lausanne,8474
+Schweizerischer Verband Medizinischer PraxisAssistentinnen SVA,Dorfstrasse 48,Küttigkofen,10304
+SVA - Schweizerischer Verband Medizinischer PraxisAssistentinnen (sva),"SVA-Zentralsekretariat, Kirchstr. 69/Postfach",Zürich/Glarus,10304
+Spital Menziken,Spitalstrasse 1,Menziken,8628
+Spitalregion Fürstenland,Furstenlandstrasse 32,Wil SG,10219
+Spital Wattwil,Fürstenlandstrasse 32,Wil SG,10219
+Spitalregion Fürstenland Toggenburg,Fürstenlandstrasse 32,Wil SG,10219
+Spitalregion Fürstenland Toggenburg,Fürstenlandstrasse 32,Wattwil,10219
+Spital Wattwil,Steig,Wattwil,10219
+Spitalregion Fürstenland Toggenburg,Steig,Wattwil,10219
+Spitalregion Fürstenland Toggenburg Spital Wattwil medizin,Steig,Wattwil,10219
+Spitalregion Oberaargau AG (SRO AG),St. Urbanstrasse 67,Langenthal,10204
+Spitäler Schaffhausen,"Departement Finanzen, Buchhaltung - Nordstrasse 111",Schaffhausen,9488
+Spitäler Schaffhausen,Geissbergstrasse 81,Schaffhausen,9488
+Spitäler Schaffhausen Psychiatriezentrum Breitenau,Nordstrasse 111,Schaffhausen,9488
+St. Gallische Kantonale Psychiatrische Dienste,Zürcherstrasse 30,Wil,9887
+Stiftung für Parkinsonforschung,c/o Universitätsklinik für Neurologie,Bern,10260
+Swiss Fed. of Clin. Neuro-Soc. (SFCNS),Münsterberg 1,Basel,8508
+Swiss Tumor Institute Pl. Zürich,Seestrasse 259,Zürich,10360
+Swiss Tumor Institute Pl. Zürich,"Seestrasse 259, Zürich",Zürich,10360
+"Swiss Tumor Institute, Platz Zürich",Seestrasse 259,Zürich,10360
+"Swiss Tumor Institute, Platz Zürich c/o OnkoZentrum Zürich",Seestrasse 259,Zürich,10360
+Südhang Kompetenzzentrum,Südhang 1,Kirchlindach,9526
+Triemlispital,Birmensdorferstrasse 497,Zürich,10108
+Trägerverein SOHC,Talackerstrasse 50,Zürich,10341
+Trägerverein SOHC,Talackerstrasse 50 c/o Reichenbach Rechtsanwälte,Zürich,10341
+Sohc,Talackerstrasse 50,Zürich,10341
+UniSpital ZH Klinik für Viszeral- & Transplantationschirurgie,Rämistrasse 100,Zürich,8936
+UniversitätsSpital Zürich - Kantonsapotheke Zürich,Südstrasse 3,Schlieren,8936
+Universitätsklinik Balgrist,Forchstrasse 340,Zürich,9510
+Universitätsklinik Balgrist,"Zürich, Forchstrasse 340",Zürich,9510
+Université de Genève Centre Médical Universitaire CMU,Rue du Général-Dufour 24,Genève,8906
+VGZ Verein Gastroenterologie Zürich,Seestrasse 60,Zürich,10455
+VZAG - Sektion Gäu,Schwanenplatz 7,Luzern,10483
+VZAG - Vereinigung Zentralschweizer Ärztegesellschaften des Kanton Luzern Sektion Gäu,Dr. med. Andreas Bohl Wilemattstrasse 10,Sursee,10483
+VZAG - Vereinigung Zentralschweizer Ärztegesellschaften des Kanton Luzern,Wilemattstrasse 10,Sursee,10483
+Verein Psychiatrie & Psychotherapie Pizol,Bartholoméplatz 3,Bad Ragaz,9747
+Vereiningung Zürcher Internisten,Haldenrain 18,Zwillikon,8998
+Waldhotel Health & Medical Excellence,Bürgerstock 30,Obbürgen,9617
+Zürcher Gesellschaft für Intensivmedizin,Zürich,Zürich,10536
+Zürcher Gesellschaft für Kardiologie,Obere Bahnhofstrasse 46,Rapperswil,9492
+mmconsult volante GmbH,Römergasse 7,Basel,9661
+pharmActuel Basel,Marignanostrasse 24,Basel,9792
+Vereinigung Zürcher Internisten VZI,c/o energy of events- Lindenmatt 34,Rotkreuz,8998
+ASI-ADOC Associazione della Svizzera Italiana per i disturbi d'Ansia,Viale San Salvatore 7,Lugano,8630
+Association des Médecins de Famille Fribourg,Impasse du Petit-Crét 3,Farvagny,8650
+Association par les Médecins pour les Médecins,Sentier de Beau-Site 2,Corsier-sur-Veve y,8650
+Associazione Mendrisio Medical Meeting,"Minusio, Via Cadogno 1",Mendrisio,8687
+Associazione ticinese di reumatologia,"c/o Mauro Lucini, via Zorzi 15a",Bellinzona,8691
+BeBo Verlag & Training GmbH,Haldenstrasse 9,Maur,8717
+CHUV - Centre d'investigation et de recherche sur le sommeil (CIRS),Rue du Bugnon 46,Lausanne,8822
+CHUV - Centre du sein,Avenue Pierre-Decker 2,Lausanne,8822
+CNP - Centre Neuchâtelois de Psychiatrie,Site de Préfargier,Boudry,8900
+Centre Compétence Rhumatologie SA,Place Beaulieu 10,Corin-de-la-Crêt e,8814
+Doxnet,Olympiaweg 1,Ortschwaben,8541
+EPFL SV-ISREC,Station 19,Lausanne,9009
+ETHZ Eidg.Tech.Hochschule,Rämistrasse 101,Zürich,9030
+EULAR - Europäische Rheumaliga,Seestrasse 240,Kilchberg ZH,9033
+FomF GmbH Forum für medizinische Fortbildung,Oberneuhofstrasse 6,Baar,9082
+FomF - Forum für medizinische Fortbildung GmbH,Oberneuhofstrasse 6,Baar,9082
+FomF GmbH Forum für medizinische Fortbildung,Oberneuhofstrasse 6,Baar,9082
+Forum f. Fortbildung,Oberneuhofstrass e 6,Baar,9082
+Forum für Medizinische Fortbildung,"Baar, Oberneuhofstrasse 6",Baar,9082
+Forum für medizinische Fortbildung,Oberneuhofstrasse 6,Baar,9082
+Forum für medizinische Fortbildung (FomF),Oberneuhofstrasse 6,Baar,9082
+Forum für medizinische Fortbildung FomF GmbH,Oberneuhofstrasse 6,Baar,9082
+Forum für medizinische Fortbildung GmbH (FomF),Oberneuhofstrasse 6,Baar,9082
+Forum für medizinische Fortbildung FomF GmbH,Oberneuhofstrass e 6,Baar,9082
+Fond. fribourgeoise p/la recherche et la formation sur le cancer,Hôpital cantonal,Fribourg,9083
+Fondation fribourgeoise pour la recherche et la formation sur le cancer,"c/o Prof. Daniel Betticher, Chemin des Pensionnats 2",Fribourg,9083
+Fondation fribourgeoise pour la recherche et la formation sur le cancer,Chemin des Pensionnats 2,Fribourg,9083
+Fondation fribourgeoise pour la recherche et la formation sur le cancer,HFR Freiburg - Kantonsspital,Fribourg,9083
+GPPV,Avenue De La Riviera,Montreux,9217
+Groupe du Nord Vaudois S.V.M.,Ch. des Vergers 1,Concise,9236
+Groupe du Nord Vaudois S.V.M. c/o Dr. Michael Hottinger,Chemin du Verger 1,Concise,9236
+HAV Gersag,"c/o medkey AG, Schwanenplatz 7",Luzern,9298
+Hausärztlicher Qualitätszirkel Oberthurgau-Ost,Schlossgasse 4,Arbon,9311
+QZ Oberthurgau Ost,Stacherholzstr. 59,Arbon,9311
+Hopitaux Universitaire De Geneve Secteur Facturation Aux Tiers,Chemin du Petit-Bel- Air 2,Chene-Bourg,8915
+Hôpital du Jura Bernois S.A.,Rue Beausite 49,Moutier,9367
+"Hôpital du Jura, Site de Saignelégier",Rue de l'Hôpital 11,Saignelégier,8666
+Hôpital du Valais Hôpital de Sierre (CHVR),Rue St-Charles 14,Sierre,8853
+Inselspital Universitätsspital Bern,Freiburgstrasse,Bern,8938
+Universitätsspital,"Universitätsspital, Freiburgstrasse 18",Bern,8938
+Universitätsspital Bern,Freiburgstrasse 8,Bern,8938
+Institut für Hausarztmedizin & Comm,Schwanenplatz 7,Luzern,9399
+Kantonspital Aarau Institut für Labormedizin,Tellstrasse,Aarau,8519
+Kinderärzte- Vereinigung Zentralschweiz,c/o Dr. med. Doris Auf der Maur - Dätwylerstrasse 9,Altdorf,9504
+Kinderärzte-Vereinigung Zentralschweiz,Dätwylerstrasse 9,Altdorf,9504
+Kinderärzte Vereinigung Zentralschweiz,Flurweg 3,Finstersee,9504
+Klinik für Gastroenterologie,Rämistrasse 100,Zürich,9799
+Klinik für Geriatrie,Rämistrasse 100,Zürich,9799
+Klinik für Infektionskrankheiten,Rämistrasse 100,Zürich,9799
+Klinik für Nephrologie,Rämistrasse 100,Zürich,9799
+Klinik für Kinder- und Jugendpsychiatrie und Psychotherapie,"Universität Zürich, Neumünsterallee 9",Zürich,9513
+Klinik im Hasel AG,"Lenzburg, Niederlenzer Kirchweg 1",Lenzburg,9515
+Luzerner Kantonspital Augenklinik,Spitalstrasse,Luzern,9480
+Luzerner Ärztegesellschaft Sektion Gäu,Spitalstrasse 16a,Sursee,10483
+Kantonale Ärztegesellschaft Sektion Gäu,"Sursee, Spitalstrasse 16a",Sursee,10483
+Mednet Bern AG,"Lenzburg, Bahnhofstrasse 24",Lenzburg,9643
+Novartis Pharma Schweiz AG,Suurstoffi 14,Rotkreuz,10008
+Ordine dei Medici del Canton Ticino,"Stabile Qui, Via Cantonale 8",Mezzovico,9701
+Ordine dei Medici del Canton Ticino,Via Cantonale 8,Mezzovico,9701
+Ordine dei medici del Canton Ticino,Via Cantonale 8 - Stabile Qi,Mezzovico,9701
+Ordine dei medici del Cantone Ticino,Via Cantonale,Mezzovico,9701
+Ordine dei Medici del Cantone Ticino,Via Cantonale 8,Mezzovico,9701
+Ordine del Medici del Canton Ticino,"Via Cantonale, Stabile QI",Mezzovico,9701
+Ordine die Farmacisti del Cantone Ticino,Via Ceresio 43,Pregassona,9699
+PonteNet AG,Im Zentrum 32,Urtenen-Schönbühl,9810
+ProCrea,Via Clemente Maraini 8,Lugano,9876
+Procrea,Via Clemente Maraini 8,Lugano,9876
+ProCrea Swiss Infertility Center,Via Clemente Maraini 8,Lugano,9876
+Procrea Centro Fertilità Lugano SA,Via Clemente Maraini 8,Lugano,9876
+Procrea Centro Fertilità Svizzera Italiana SA c/o ProCrea Lab SA,Via Clemente Mariani 8,Lugano,9876
+ProCrea Lab SA,Via Clemente Maraini 8,Lugano,9876
+SGC/SSC Die Schweizer Chirurginnen und Chirurgen,"Luzern, Mühlemattstrasse 22",Luzern,10112
+SVA - Schweizerischer Verband Medizinischer Praxis-Fachpersonen ZH/GL,"Bäretswil, Kirchstrasse 6a",Bäretswil,10299
+SVA Sektion Solothurn,Bocksteinstrasse 12,Mühledorf SO,10304
+Schweizerische Gesellschaft für Physikalische Medizin und Rehabilitation SGPMR,Sennweidstrasse 46,Steinhausen,10125
+"Schweizerischer Verband Medizinischer Praxis-Fachpersonen SVA, St. Gallen",Appenzellerstrasse 6,Goldach,10026
+"Schweizerischer Verband Medizinischer Praxis-Fachpersonen SVA, Thurgau",Bohlstrasse 25,Aadorf,10072
+SVA Verwaltung,Morgenwies 4b,Oberuzwil,10015
+Schweizerische Gynäkologische Chefärztekonferenz,Altenbergstrasse 29,Bern,10037
+Schweizerische Interessensgruppe für Diabetesfachberatung SIDB,Moosweg 13,Uzwil,10045
+"Schweizerischen Gesellschaft für Schlafforschung, Schlafmedizin und Chronobiologie",,,10064
+Schweizerischer Verband Medizinischer Praxis-Fachpersonen SVA (Sektion Basel),Höhlebachweg 32,Muttenz,10302
+Society for Ophthalmo-Immuno- Infectiology in Europe,Boulevard de la Cluse 67,Genève,10161
+Société Neuchâteloise de Pédiatrie,Rue du Parc 9B,La Chaux-de-Fonds,8507
+Société Suisse d'Endocrinologie et Diabétologie Pédiatriques,Rütistrasse 3a,Baden,10172
+Spital Thurgau AG - Geschäftsstelle,"c/o Spital Thurgau AG, Haus Ermo, Waldeggstrasse 8a",Frauenfeld,9474
+Spital Thurgau AG - Kantonsspital Münsterlingen,Waldeggstrasse 8a,Frauenfeld,9474
+Spital Thurgau AG -Geschäftsstelle,Waldeggstrasse 8A,Frauenfeld,9474
+Spital Thurgau AG Geschäftsstelle,Waldeggstrasse 8a,Frauenfeld,9474
+Spital Thurgau AG STGAG,Spitalcampus 1,Münsterlingen,9474
+Stiftung SONK St. Gallen,Rorschacherstrasse 150,St. Gallen,8509
+Stiftung für Forschung in Parkinson und Bewegungsstörungen,"c/o Neurologische Praxis Luzern - Hirslanden Klinik St. Anna, Lützelmatt 3",Luzern,10255
+Strategiekommission der Urologie Arena,vertreten durch Prof. Dr. med. Stephen Wyler,Basel,10287
+Swiss VitreoRetinal Group (SVRG),"c/o ophta - u.novotny, Mittlere Mühlestrasse 3",Bottighofen,10362
+TOPEC Global LLC,Bruder-Klausen-Weg 3,Sachseln,10392
+Unilabs Lausanne,Rue de la Vigie 5,Lausanne,10406
+Universitäts Spital Zürich,Rämistrasse 100,Zürich,9799
+Université de Genève Centre Médical Universitaire CMU,Rue du Général-Dufour 24,Genève,8906
+Université de Genève DSMPFMC,67 rue de Lausanne,Genève,8906
+Verein PostADA/PostENDOCRINE,"c/o Prof. Peter Diem, Optingenstr. 44",Bern,10468
+Vereinigung Allgem. & Spezialisierter Internist/innen Zürich,VZI Symposium - Haldenrain 18,Zwillikon,8998
+Vereinigung Allgemeiner und Spezialisierter Internistinnen und Internisten Zürich,Haldenrain 18,Zwillikon,8998
+Vereinigung Zürcher Internisten,Haldenrain 18,Zwillikon,8998
+Vereinigung Zürcher Internisten (VZI),Zollikerstrasse 79,Zwillikon,8998
+Vereinigung Zürcher Internisten VZI,c/o energy of events- Lindenmatt 34,Rotkreuz,8998
+Zentralschweizer ORL-Kollegium,c/o Dr. med. Marcel Gärtner - Haldenstrasse 11,Glarus,10525
+Ärztegesellschaft des Kantons Luzern,Schwanenplatz 7,Luzern,8534
+Ärztegesellschaft Gäu,Schwanenplatz 7,Luzern,8534
+Verein Gastroenterologie Zürich,Seestrasse 90,Zürich,10455
+Verein Gastroenterologie Zürich (VGZ),Seestrasse 90,Zürich,10455
+VZI- Vereinigung Allg. und Spez. Internisten Zürich,Birmensdorferstrasse 497,Zürich,8998
+Vereinigung Zürcher Internisten,Birmensdorferstrasse 497,Zürich,8998
+Vereinigung Zürcher Internisten,"Zwillikon, Haldenrain 18",Zürich,8998
+SVA Sektion ZH/GL,Im Grund 11,Embrach,10299
+SVA - Schweizerischer Verband Medizinischer Praxis-Fachpersonen SG/AR/AI,"Oberuzwil, Morgenwies 4b",Oberuzwil,10026
+SGSH,Rorschacher Strasse 95,St. Gallen,8499
+SGTP,Socinstrasse 57,Basel,8500
+STPP,Via Campagnola 112,Coldrerio,10166
+Stift für wiss. Forschung Triemli,Birmensdorferstr asse 497 Stadtspital Triemli,Zürich,10108
+SAMMSU Swiss Association for the medical Management in Substance Users,c/o Dr. Alberto Moriggia,Lugano,9980
+SAMMSU - Swiss Association for the Medical Management in Substance Users,c/o Dr. med. Alberto Moriggia Via Soldino 5,Lugano,9980
+SGAC Schweizerische Gesellschaft Für Ästhetische Chirurgie (Sgac-Ssce),Kräyigenweg 83,Muri,10004
+SGAC Schweizerische Gesellschaft für Ästhetische Chirurgie (Sgac-Ssce),Kräyigenweg 83,Muri,10004
+"SGPGHE - Schweizerische Gesellschaft für Pädiatrische Gastroenterologie,Hepatologie und Ernährung",Claudiusstrasse 6,St. Gallen,10123
+"SGPGHE Schweizerische Gesellschaft für Pädiatrische Gastro-, Hepatologie und Ernährung",Claudiusstrasse 6,St. Gallen,10123
+PEMS Pediatrie Emergency Medicine of Switzerland,Steinwiesstrasse 75,Zürich,9771
+PEMS,Steinwiesstrasse 75,Zürich,9771
+"Stiftung für wissenschaftliche Forschung am Triemli Spital, Fonds Herzchirugie",Birmensdorfer Strasse 497,Zürich,10108
+Stiftung für wissenschaftliche Forschung Triemli,Birmensdorferstrasse 497,Zürich,10108
+Stiftung für wissenschaftliche Forschung Triemli,"Birmensdorferstrasse 497, Zürich",Zürich,10108
+Stiftung für wissenschaftliche Forschung,Birmensdorferstrasse 497,Zürich,10108
+European Society for Medical Oncology,Via Ginevra 4,Lugano,9021
+European Society for Medical Oncology,Via Ginevra 4,Lugano,9021
+European Society for Medical Oncology (ESMO),(ESMO) Via Ginevra 4,Lugano,9021
+European Society for Medical Oncology (ESMO),Via Ginevra 4,Lugano,9021
+CHUV - Chirurgie (DSCA),Rue du Bugnon 21,Lausanne,8822
+CHUV - Chirurgie (DSCA),Rue du Bugnon 21,Lausanne,8822
+CHUV - Départ. femme-mère-enfant DFME,"Champ de l'Air, Bugnong 21",Lausanne,8822
+CHUV - Département d'oncologie,Rue du Bugnon 21,Lausanne,8822
+CHUV - Département Psychiatrie,Rue du Bugnon 21,Lausanne,8822
+"CHUV - Dépt. de médecine, Service de Cardiologie",Rue du Bugnon 46,Lausanne,8822
+CHUV - DNC - Centre de la mémoire,Rue du Bugnon 21,Lausanne,8822
+CHUV - Hôpital de Prangins - Secteur Psychiatrique Ouest,Rue du Bugnon 21,Lausanne,8822
+CHUV - Inst. universitaire formation et recherche en soins - IUFRS,Rue du Bugnon 21,Lausanne,8822
+CHUV - Néphrologie,Rue du Bugnon 21,Lausanne,8822
+CHUV - Pneumologie,Rue du Bugnon 21,Lausanne,8822
+CHUV - Service de Dermatologie,Avenue de Beaumont 29,Lausanne,8822
+CHUV - Service de gastro-entérologie et d'hépatologie,rue du Bugnon 44,Lausanne,8822
+CHUV - Service de gériatrie,ch. de Mont-paisible 16,Lausanne,8822
+CHUV Lausanne,Rue de Bougnon 21,Lausanne,8822
+CHUV Lausanne,Rue Du Bugnon 44,Lausanne,8822
+CHUV Service d'immunologie et allergie,Rue du Bugnon 46,Lausanne,8822
+"CHUV, Service de Neuropsychologie et Neuroréhabilitation",Av. Pierre Decker 5,Lausanne,8822
+Chuv- Hospices Service De Neurologie,Rue du Bugnon,Lausanne,8822
+COALAT / Anesthesiology CHUV,Rue Du Bugnon 46,Lausanne,8822
+COALAT / Anesthesiology CHUV,Rue du Bugnon 46 BH10- 315/Serv.,Lausanne,8822
+Département de Psychiatrie CHUV,Avenue d'Echallens 9,Lausanne,8822
+Le CHUV,Rue du Bugnon 21,Lausanne,8822
+Unité de Médecine de la reproduction du CHUV,Avenue Pierre-Decker 2,Lausanne,8822
+EULAR - Europäische Rheumaliga,Seestrasse 240,Kilchberg,9033
+EULAR - Europäische Rheumaliga,Seestrasse 240,Kilchberg,9033
+Eular -Europäische Rheumaliga,Seestrasse 240,Kilchberg ZH,9033
