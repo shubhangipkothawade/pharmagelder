@@ -118,3 +118,6 @@ To do this, your local mysql database needs to be up to date, so if you have not
 * `Export Recipients 2018 Clean.ipynb` exports all recipients from year 2018
 * `Export Recipients 2018.ipynb` does the same, will give you each address and group, the address is in it. Be patient...
 * `Export all Recipients.ipynb` exports everything
+
+## Questions?
+Ask author: https://github.com/simonhuwiler/
