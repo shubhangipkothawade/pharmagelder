@@ -31,7 +31,7 @@ import git
 
 #%%
 #URL to the connection spreadsheet
-ID_CONNECTION_SHEET = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRx-RzsYDkSG-j-xwea5TrfRc8k2_l-U6DwvbY9apc_dv1DXq4CWpElKIYRulcRtw18tla_P7Br3EoG/pub?gid=0&single=true&output=csv'
+ID_CONNECTION_SHEET = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSLiBEZgbLzI0z0rb__qVc_j8IvjdHLgYxtdaDDWjLLImA_pYDAWv7B_RHE13VaikkhFSc1KjgOyCHH/pub?gid=0&single=true&output=csv'
 EXPORT_FOLDER = '/data/python/pharmagelder/repo/data/2. manual check/%s/'
 GIT_REPOSITORY = '/data/python/pharmagelder//repo'
 GIT_COMMIT_DETECTION = '/data/python/pharmagelder/repo/data/2. manual check/*.csv'
