@@ -1,4 +1,4 @@
- ,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
-hcp_amount,,,,644.92,1760.85,,2405.77,biotest
-hco_amount,0.0,0.0,0.0,0.0,0.0,0.0,0.0,biotest
-rnd,,,,,,,0.0,biotest
+type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
+hcp_amount,,,,,,,0,biotest
+hco_amount,0.0,0.0,0.0,0.0,0.0,0.0,0,biotest
+rnd,,,,,,,39523,biotest

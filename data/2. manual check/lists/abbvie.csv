@@ -1,453 +1,439 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-Peter Ackle,Neuenhof,CH,Bifangstrasse 33,,,,,380.0,472.0,,,852.0,hcp,abbvie
-Abdou El Azizi Ali El Wafa,La Chaux-De-Fonds,CH,Avenue Léopold-Robert 16-18,,,,,943.0,2046.0,,,2989.0,hcp,abbvie
-Michael Andor,Zürich,CH,Walchestrasse 15,,,,,,,200.0,,200.0,hcp,abbvie
-Anca-Teodora Antonino,Genolier,CH,Route Du Muids 3,,,,,560.0,640.0,,,1200.0,hcp,abbvie
-Florian Anzengruber,Zürich,CH,Gloriastrasse 31,,,,,348.0,601.0,500.0,,1449.0,hcp,abbvie
-Berj Armenian,Genève,CH,Rue Giovanni-Gambini 8,,,,,367.0,,,,367.0,hcp,abbvie
-Andreas Arnold,Basel,CH,Blumenrain 20,,,,,,,400.0,,400.0,hcp,abbvie
-Andrea Badaracco,Lugano,CH,Via Soldino 7,,,,,280.0,431.0,,,711.0,hcp,abbvie
-Bruno Markus Balsiger,Bern,CH,Bremgartenstrasse 119,,,,,524.0,567.0,,,1091.0,hcp,abbvie
-Jan Bass,Muri AG,CH,Spitalstrasse 144,,,,,184.0,611.0,,,795.0,hcp,abbvie
-Fleur Yvonne Baumann Benvenuti,Fribourg,CH,Chemin Des Pensionnats 2,,,,,408.0,430.0,,,838.0,hcp,abbvie
-Katrin Baumann Conzett,Luzern,CH,Kapellplatz 10,,,,,,,400.0,,400.0,hcp,abbvie
+Ettore Accolla,Fribourg,CH,Chemin Des Pensionnats 2,,,,,552.0,622.0,,,1174.0,hcp,abbvie
+Peter Ackle,Ehrendingen,CH,Höhtalmatt 3,,,,,380.0,477.0,,,857.0,hcp,abbvie
+Abdou El Azizi Ali El Wafa,La Chaux-De-Fonds,CH,Avenue Léopold-Robert 16-18,,,,,482.0,759.0,1000.0,,2241.0,hcp,abbvie
+Michael Andor,Uster,CH,Uster West 11,,,,,,,800.0,,800.0,hcp,abbvie
+Anca-Teodora Antonino,Genolier,CH,Route Du Muids 3,,,,,304.0,1152.0,,,1456.0,hcp,abbvie
+Edoardo Baglivo,Onex,CH,Avenue Bois-De-La-Chapelle 15,,,,,,,,750.0,750.0,hcp,abbvie
+Diego Bär,Thun,CH,Frutigenstrasse 6,,,,,,,1200.0,,1200.0,hcp,abbvie
+Mariia Bär,Zürich,CH,Kalanderplatz 1,,,,,380.0,540.0,,,920.0,hcp,abbvie
 Christian Baumann,Zürich,CH,Frauenklinikstrasse 26,,,,,,,2450.0,,2450.0,hcp,abbvie
-Josef Beatrice,Zürich,CH,Goethestrasse 16,,,,,710.0,1199.0,,,1909.0,hcp,abbvie
-Björn Becker,Winterthur,CH,Brauerstrasse 15,,,,,,,600.0,,600.0,hcp,abbvie
-Sabine Beeler,Solothurn,CH,Obachstrasse 23,,,,,380.0,432.0,,,812.0,hcp,abbvie
-Caroline Berberat,Solothurn,CH,Zuchwilerstrasse 43,,,,,340.0,505.0,,,845.0,hcp,abbvie
-Raymond Berclaz,Sion,CH,Avenue De La Gare 34,,,,,367.0,953.0,,,1320.0,hcp,abbvie
-Irina Bergamin,St. Gallen,CH,Rorschacher Strasse 95,,,,,,1048.0,,,1048.0,hcp,abbvie
-Laurent Berger,Clarens,CH,Rue Du Grammont 2,,,,,411.0,385.0,,,796.0,hcp,abbvie
-Jürg Bernhard,Solothurn,CH,Hauptbahnhofstrasse 12,,,,,380.0,529.0,,,909.0,hcp,abbvie
-Eric Berrut,Monthey,CH,Avenue Du Crochetan 2,,,,,384.0,949.0,,,1333.0,hcp,abbvie
-David Bertolini,Genève,CH,Avenue De La Roseraie 76 A,,,,,367.0,946.0,,,1313.0,hcp,abbvie
-Giorgio Bianchi,Lugano,CH,Via Nassa 58,,,,,288.0,874.0,,,1162.0,hcp,abbvie
-Luc Biedermann,Zürich,CH,Rämistrasse 100,,,,,340.0,717.0,1000.0,,2057.0,hcp,abbvie
-Daniel Bloesch,Olten,CH,Frohburgstrasse 20,,,,,340.0,521.0,,,861.0,hcp,abbvie
-Laurent Bochatay,Nyon,CH,Chemin Monastier 10,,,,,367.0,653.0,,,1020.0,hcp,abbvie
-Wolf-Henning Boehncke,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,13563.0,1538.0,15101.0,hcp,abbvie
-Lorenz Böhlen,Bern,CH,Kramgasse 82,,,,,,,400.0,,400.0,hcp,abbvie
-Tujana Boldanova,Basel UniSpital,CH,Petersgraben 4,,,,,800.0,1864.0,,,2664.0,hcp,abbvie
-Christoph Boller,Unterseen,CH,Breite 2,,,,,380.0,563.0,,,943.0,hcp,abbvie
-Daniel Boller,Zug,CH,Baarerstrasse 11,,,,,340.0,556.0,,,896.0,hcp,abbvie
-Beat Bornhauser,Zürich,CH,Steinwiesstrasse 75,,,,,1033.0,5911.0,,,6944.0,hcp,abbvie
-Lorenzo Bosia,Locarno,CH,Via Castelrotto 18B,,,,,340.0,862.0,,,1202.0,hcp,abbvie
-Tarek Boussaha,Montreux,CH,Avenue Du Casino 40,,,,,484.0,1170.0,,,1654.0,hcp,abbvie
-Tanja Boxberger,Uznach,CH,Gasterstrasse 25,,,,,,,400.0,,400.0,hcp,abbvie
-Stephan Brand,St. Gallen,CH,Rorschacher Strasse 95,,,,,,170.0,4520.0,189.0,4879.0,hcp,abbvie
-Matthias Breidert,Zürich,CH,Tièchestrasse 99,,,,,380.0,562.0,,,942.0,hcp,abbvie
-Philip Bruggmann,Zürich,CH,Schützengasse 31,,,,,,,8050.0,1220.0,9270.0,hcp,abbvie
-Laure Brulhart,La Chaux-De-Fonds,CH,Rue De Chasseral 20,,,,,,551.0,,,551.0,hcp,abbvie
-Felix Brunner,Solothurn,CH,Schöngrünstrasse 42,,,,,320.0,1388.0,,,1708.0,hcp,abbvie
-Alessandra Bruno,Lugano,CH,Via Tesserete 46,,,,,600.0,607.0,,,1207.0,hcp,abbvie
-Ivo Büchler,St. Gallen,CH,Rorschacher Strasse 150,,,,,340.0,706.0,,,1046.0,hcp,abbvie
-Christian Bull,Jona,CH,Bühlstrasse 13,,,,,,,400.0,,400.0,hcp,abbvie
-Jürg Burgherr,Horw,CH,Gemeindehausplatz 6,,,,,340.0,556.0,,,896.0,hcp,abbvie
-Sophie Buyse,Yverdon-Les-Bains,CH,Rue Du Four 6,,,,,753.0,262.0,1000.0,,2015.0,hcp,abbvie
-Dahlia Thao Cao,Neuchâtel,CH,Rue Des Beaux-Arts 18,,,,,851.0,722.0,,,1573.0,hcp,abbvie
-Erika Castro Batänjer,Lausanne,CH,Place Benjamin-Constant 2,,,,,,520.0,,,520.0,hcp,abbvie
-Anne-Marie Chamot,Morges,CH,Rue Centrale 9,,,,,408.0,568.0,,,976.0,hcp,abbvie
-Vanessa Chatelain Fontanella,Genolier,CH,Route Du Muids 3,,,,,324.0,162.0,,,486.0,hcp,abbvie
-Jean-Philippe Chave,Lausanne,CH,Chemin Porchat 24,,,,,,,750.0,,750.0,hcp,abbvie
-Elmar Christian,Bern,CH,Brunnhofweg 43,,,,,280.0,482.0,,,762.0,hcp,abbvie
-Christian Chuard,Fribourg,CH,Chemin Des Pensionnats 2,,,,,,,750.0,,750.0,hcp,abbvie
-Adrian Ciurea,Zürich,CH,Gloriastrasse 25,,,,,,,2100.0,,2100.0,hcp,abbvie
-Stéphane Cochet,Lausanne,CH,Avenue Alexandre-Vinet 19B,,,,,600.0,1101.0,,,1701.0,hcp,abbvie
-Fernando Colla,Winterthur,CH,Theaterstrasse 1,,,,,340.0,553.0,,,893.0,hcp,abbvie
-Curdin Conrad,Lausanne,CH,Avenue De Beaumont 29,,,,,,,2100.0,1528.0,3628.0,hcp,abbvie
-Marzia Conti Beltraminelli,Pregassona,CH,Via Alle Vigne 7,,,,,324.0,1491.0,,,1815.0,hcp,abbvie
-Julian Cooper,Langenthal,CH,Hasenmattstrasse 37,,,,,340.0,512.0,,,852.0,hcp,abbvie
-Begonia Cortés Sánchez,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,420.0,,,,420.0,hcp,abbvie
-Marisa Crippa-Keller,Zürich,CH,Bederstrasse 51,,,,,380.0,267.0,,,647.0,hcp,abbvie
-Christian De Pree,Genève,CH,Chemin De Beau-Soleil 22,,,,,324.0,984.0,,,1308.0,hcp,abbvie
-Alexander Deckart,Basel,CH,Aeschenvorstadt 52,,,,,710.0,1037.0,,,1747.0,hcp,abbvie
-Nicolas Defabiani,Sion,CH,Rue De Lausanne 39,,,,,733.0,1100.0,,,1833.0,hcp,abbvie
-Erik Deman,Basel UniSpital,CH,Petersgraben 4,,,,,340.0,568.0,,,908.0,hcp,abbvie
-Jeremy Deuel,Zürich,CH,Rämistrasse 100,,,,,322.0,1454.0,,,1776.0,hcp,abbvie
-Caroline Di Benedetto,Lugano,CH,Via Tesserete 46,,,,,600.0,607.0,,,1207.0,hcp,abbvie
-Roberto Di Donato,Bellinzona,CH,Via Ospedale,,,,,800.0,1271.0,,,2071.0,hcp,abbvie
-Katrin Dihr,Lachen SZ,CH,Oberdorfstrasse 41,,,,,488.0,884.0,,,1372.0,hcp,abbvie
+Michael Baumann,St. Gallen,CH,Rorschacher Strasse 95,,,,,440.0,,,,440.0,hcp,abbvie
+Sabine Beeler,Solothurn,CH,Obachstrasse 23,,,,,380.0,384.0,,,764.0,hcp,abbvie
+Vassiliki Bekou,Kreuzlingen,CH,Brückenstrasse 11,,,,,320.0,285.0,,,605.0,hcp,abbvie
+José Bengoa,Genève,CH,Rue Giovanni-Gambini 8,,,,,,976.0,,,976.0,hcp,abbvie
+Daniela Benz,Fribourg,CH,Rue Jacques-Vogt 3,,,,,331.0,500.0,,,831.0,hcp,abbvie
+Raymond Berclaz,Sion,CH,Avenue De La Gare 34,,,,,360.0,1173.0,,,1533.0,hcp,abbvie
+Marco Bernardi,Zürich,CH,Seestrasse 90,,,,,653.0,24.0,,,677.0,hcp,abbvie
+Claudia Bernardini,Zürich,CH,Schützengasse 31,,,,,560.0,1809.0,,,2369.0,hcp,abbvie
+Jürg Bernhard,Solothurn,CH,Leopoldstrasse 1,,,,,331.0,515.0,,,846.0,hcp,abbvie
+David Bertolini,Genève,CH,Avenue De La Roseraie 76 A,,,,,360.0,1167.0,,,1527.0,hcp,abbvie
+Daniel Betticher,Fribourg,CH,Chemin Des Pensionnats 2,,,,,,,1575.0,,1575.0,hcp,abbvie
+Mara Lisa Beuster,Bern,CH,Freiburgstrasse 18,,,,,414.0,622.0,,,1036.0,hcp,abbvie
+Giorgio Bianchi,Lugano,CH,Via Nassa 58,,,,,1038.0,336.0,,,1374.0,hcp,abbvie
+Luc Biedermann,Zürich,CH,Rämistrasse 100,,,,,,,3750.0,1077.0,4827.0,hcp,abbvie
+Wojtek Bielecki,Olten,CH,Amthausquai 31,,,,,380.0,579.0,,,959.0,hcp,abbvie
+Birgit Blöcker,Bülach,CH,Schaffhauserstrasse 53,,,,,293.0,557.0,,,850.0,hcp,abbvie
+Wolf-Henning Boehncke,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,4900.0,192.0,5092.0,hcp,abbvie
+Adrian Borcea,Fribourg,CH,Grand-Places 14,,,,,380.0,263.0,,,643.0,hcp,abbvie
+Stephan Brand,St. Gallen,CH,Rorschacher Strasse 95,,,,,,134.0,,,134.0,hcp,abbvie
+Rolf Brücker,Luzern,CH,Zentralstrasse 1,,,,,331.0,555.0,,,886.0,hcp,abbvie
+Florian Brugger,St. Gallen,CH,Rorschacher Strasse 95,,,,,552.0,808.0,,,1360.0,hcp,abbvie
+Philip Bruggmann,Zürich,CH,Schützengasse 31,,,,,,,1050.0,,1050.0,hcp,abbvie
+Laure Brulhart,La Chaux-De-Fonds,CH,Rue De Chasseral 20,,,,,669.0,1050.0,750.0,,2469.0,hcp,abbvie
+Robert Bründler,Luzern,CH,Hertensteinstrasse 29,,,,,340.0,458.0,,,798.0,hcp,abbvie
+Barbara Brunner,Winterthur,CH,Schickstrasse 11,,,,,331.0,600.0,,,931.0,hcp,abbvie
+Felix Brunner,Solothurn,CH,Schöngrünstrasse 42,,,,,173.0,1038.0,,,1211.0,hcp,abbvie
+Norman Büchel,Sargans,CH,Grossfeldstrasse 79,,,,,340.0,547.0,,,887.0,hcp,abbvie
+Konstantin Burgmann,Bern,CH,Bremgartenstrasse 119,,,,,1033.0,1883.0,,,2916.0,hcp,abbvie
+Sophie Buyse,Yverdon-Les-Bains,CH,Rue Du Four 6,,,,,884.0,26.0,250.0,,1160.0,hcp,abbvie
+Nathan Cantoni,Aarau,CH,Tellstrasse 25,,,,,,,1500.0,,1500.0,hcp,abbvie
+Dahlia Thao Cao,Neuchâtel,CH,Rue Des Beaux-Arts 18,,,,,272.0,1039.0,,,1311.0,hcp,abbvie
+Erika Castro Batänjer,Lausanne,CH,Place Benjamin-Constant 2,,,,,653.0,1179.0,750.0,,2582.0,hcp,abbvie
+Paulo Jorge Castro Soares,Genève,CH,Avenue De La Roseraie 74,,,,,653.0,620.0,,,1273.0,hcp,abbvie
+Adrian Casty,Bern,CH,Bremgartenstrasse 119,,,,,646.0,4604.0,,,5250.0,hcp,abbvie
+Elmar Christian,Bern,CH,Brunnhofweg 43,,,,,340.0,695.0,,,1035.0,hcp,abbvie
+Helena Clayton,Onex,CH,Route De Chancy 98,,,,,579.0,271.0,,,850.0,hcp,abbvie
+Aron Samuel Cohen,Küsnacht ZH,CH,Seestrasse 57A,,,,,2560.0,1229.0,,,3789.0,hcp,abbvie
+Julian Cooper,Langenthal,CH,Hasenmattstrasse 37,,,,,331.0,556.0,,,887.0,hcp,abbvie
+Ovidiu Costin-Weiterschan,Zihlschlacht,CH,Hauptstrasse 2-4,,,,,234.0,444.0,,,678.0,hcp,abbvie
+Antonio Cozzio,St. Gallen,CH,Rorschacher Strasse 95,,,,,,,2100.0,,2100.0,hcp,abbvie
+Sophie Cunningham,Onex,CH,Route De Loëx 3,,,,,360.0,1167.0,,,1527.0,hcp,abbvie
+Basile Darbellay,Orsières,CH,Ruelle De La Laiterie 3,,,,,1083.0,741.0,500.0,,2324.0,hcp,abbvie
+Riad Darsouni,Martigny,CH,Rue Du Léman 18B,,,,,360.0,1053.0,,,1413.0,hcp,abbvie
+Wolfgang Alexander Deglmann,Liestal,CH,Fischmarkt 29,,,,,340.0,263.0,,,603.0,hcp,abbvie
+Brindusa Diaconu,Solothurn,CH,Schöngrünstrasse 42,,,,,380.0,604.0,,,984.0,hcp,abbvie
 Oliver Distler,Zürich,CH,Gloriastrasse 25,,,,,,,1400.0,,1400.0,hcp,abbvie
-Saskia Ditisheim,Neuchâtel,CH,Faubourg De L'hôpital 81,,,,,367.0,49.0,,,416.0,hcp,abbvie
-Mathias Clemens Drach,Zürich,CH,Gloriastrasse 31,,,,,,,600.0,,600.0,hcp,abbvie
-Eva Drescher,Rapperswil SG,CH,Kniestrasse 29,,,,,184.0,683.0,,,867.0,hcp,abbvie
-Beatrice Drexler,Basel UniSpital,CH,Petersgraben 4,,,,,1033.0,2516.0,,,3549.0,hcp,abbvie
-Jean Dudler,Fribourg,CH,Chemin Des Pensionnats 2,,,,,,,1500.0,,1500.0,hcp,abbvie
-Patrizia Edelmann-Weber,Gümligen,CH,Worbstrasse 312,,,,,,,400.0,,400.0,hcp,abbvie
-Hans Ulrich Ehrbar,Rüti ZH,CH,Neuwiesenstrasse 9,,,,,380.0,663.0,,,1043.0,hcp,abbvie
-Véronique Emmenegger,Lausanne,CH,Avenue De La Gare 2,,,,,188.0,651.0,,,839.0,hcp,abbvie
-Héloïse Emond,Genève,CH,Avenue De Champel 24,,,,,256.0,642.0,,,898.0,hcp,abbvie
-Bettina Engel,Lausanne,CH,Avenue Du Théâtre 7,,,,,600.0,161.0,,,761.0,hcp,abbvie
-Bianca-Manuela Erhart,Olten,CH,Baslerstrasse 150,,,,,340.0,525.0,,,865.0,hcp,abbvie
-André Etienne,La Tour-de-Trême,CH,Place Du Centre 2,,,,,947.0,1276.0,,,2223.0,hcp,abbvie
-Pascale Exer,Basel,CH,Missionsstrasse 34,,,,,340.0,517.0,,,857.0,hcp,abbvie
-Farshid Fateri,Fribourg,CH,Grand-Places 16,,,,,1236.0,1124.0,,,2360.0,hcp,abbvie
-Samira Felix,Clarens,CH,Rue Du Lac 142,,,,,382.0,818.0,,,1200.0,hcp,abbvie
-Kristin Feuerlein,Mendrisio,CH,Via Luigi Lavizzari 8,,,,,600.0,1289.0,,,1889.0,hcp,abbvie
-Falk Fiedler,Frauenfeld,CH,Rheinstrasse 23,,,,,340.0,528.0,,,868.0,hcp,abbvie
-Axel Finckh,Genève,CH,Avenue De Beau-Séjour 26,,,,,,,2450.0,,2450.0,hcp,abbvie
-Nicolas Fleury,Fribourg,CH,Boulevard De Pérolles 14,,,,,496.0,1191.0,,,1687.0,hcp,abbvie
-Ruedi Flückiger,Basel,CH,Hirzbrunnenstrasse 58,,,,,,,400.0,,400.0,hcp,abbvie
-Dario Fontanel,Wil SG,CH,Fürstenlandstrasse 32,,,,,380.0,662.0,,,1042.0,hcp,abbvie
-Willi Forster,Solothurn,CH,Dornacherplatz 17,,,,,340.0,489.0,,,829.0,hcp,abbvie
-Mélanie Fracheboud,Estavayer-le-Lac,CH,Rue de la Rochette,,,,,408.0,494.0,,,902.0,hcp,abbvie
-Olivia François,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,488.0,783.0,,,1271.0,hcp,abbvie
-Alberto Fransioli,Bellinzona,CH,Via Parco 3,,,,,367.0,677.0,,,1044.0,hcp,abbvie
-Jürg Frei,Frick,CH,Dammstrasse 5,,,,,340.0,664.0,,,1004.0,hcp,abbvie
-Günter Friedrich Bernhard Frings,Biel/Bienne,CH,Marktgasse 17,,,,,,,400.0,,400.0,hcp,abbvie
-Florian Froehlich,Porrentruy,CH,Rue Achille-Merguin 44,,,,,200.0,757.0,,,957.0,hcp,abbvie
-Patrizia Frösch,Locarno,CH,Via All'ospedale 1,,,,,,,1050.0,,1050.0,hcp,abbvie
-Martin Früh,St. Gallen,CH,Rorschacher Strasse 95,,,,,,,1050.0,136.0,1186.0,hcp,abbvie
-Denis Gadeyne,Conthey,CH,Rue Des Grands Prés 18,,,,,408.0,778.0,,,1186.0,hcp,abbvie
-Philippe Gaillard,Martigny,CH,Avenue De La Gare 19,,,,,922.0,2181.0,,,3103.0,hcp,abbvie
-Steffen Gay,Zürich,CH,Gloriastrasse 25,,,,,,244.0,,,244.0,hcp,abbvie
-Daniel Genné,Biel/Bienne,CH,Vogelsang 84,,,,,340.0,513.0,,,853.0,hcp,abbvie
-Markus Gerber,Bern,CH,Spitalgasse 29,,,,,340.0,520.0,,,860.0,hcp,abbvie
-Martin Geyer,Wettingen,CH,Rosengartenstrasse 2,,,,,380.0,664.0,,,1044.0,hcp,abbvie
-Marc Girardin,Onex,CH,Route De Loëx 3,,,,,576.0,1049.0,,,1625.0,hcp,abbvie
-Jeroen Goede,Winterthur,CH,Brauerstrasse 15,,,,,,,3850.0,116.0,3966.0,hcp,abbvie
-Daniel J. Good,Basel,CH,Aeschenvorstadt 57A,,,,,340.0,528.0,,,868.0,hcp,abbvie
-Julia Graf,Madiswil,CH,Muhleberstrasse 16,,,,,384.0,651.0,,,1035.0,hcp,abbvie
-Tanja Grandinetti,Zürich,CH,Pestalozzistrasse 24,,,,,384.0,620.0,,,1004.0,hcp,abbvie
-Joël Patrick Gregorin,Solothurn,CH,Weissensteinstrasse 2,,,,,152.0,608.0,,,760.0,hcp,abbvie
-Heinrich Gretener,Cham,CH,Rigistrasse 1,,,,,733.0,1998.0,,,2731.0,hcp,abbvie
-Rocco Grignoli,Bellinzona,CH,Via Ripari Tondi 10,,,,,367.0,877.0,,,1244.0,hcp,abbvie
-Urs Grossenbacher,Zürich,CH,Limmattalstrasse 167,,,,,340.0,690.0,,,1030.0,hcp,abbvie
-Marianne Guirgis Vullièmoz,Renens VD,CH,Rue du Simplon 32A,,,,,240.0,548.0,,,788.0,hcp,abbvie
-Beat Gysi,Reinach BL,CH,Hauptstrasse 52,,,,,380.0,528.0,,,908.0,hcp,abbvie
-Ingo Haase,Glattpark(Opfikon),CH,Thurgauerstrasse 105,,,,,,,500.0,,500.0,hcp,abbvie
-Franziska Michèle Häfner,Thalwil,CH,Alte Landstrasse 130,,,,,340.0,543.0,,,883.0,hcp,abbvie
-Andreas Hammer,St. Gallen,CH,Guisanstrasse 55,,,,,380.0,538.0,,,918.0,hcp,abbvie
-Claudia Harder,Luzern,CH,Obergrundstrasse 88,,,,,380.0,501.0,,,881.0,hcp,abbvie
-Loretta Hasler,Biel/Bienne,CH,Hans-Hugi-Strasse 3,,,,,268.0,974.0,,,1242.0,hcp,abbvie
-Hans Hassler,Wil SG,CH,Blumenaustrasse 3,,,,,268.0,307.0,,,575.0,hcp,abbvie
-Johannes Hauser,Genève,CH,Boulevard James-Fazy 3,,,,,396.0,958.0,,,1354.0,hcp,abbvie
-Sonja Hauser,Winterthur,CH,Brauerstrasse 15,,,,,432.0,678.0,,,1110.0,hcp,abbvie
-Marc Heizmann,Aarau,CH,Tellstrasse 25,,,,,,,1050.0,109.0,1159.0,hcp,abbvie
-Beat Helbling,Zürich,CH,Toblerstrasse 51,,,,,340.0,512.0,813.0,,1665.0,hcp,abbvie
-Martin Hempel,Liestal,CH,Rebgasse 5,,,,,,,400.0,,400.0,hcp,abbvie
-Christophe Henny,Lausanne,CH,Avenue Bergières 2,,,,,288.0,817.0,,,1105.0,hcp,abbvie
-Dirk Herkommer,Prilly,CH,Route De Cossonay 6,,,,,408.0,696.0,,,1104.0,hcp,abbvie
-Markus Andrea Herold,Luzern,CH,Maihofstrasse 1,,,,,,,3000.0,,3000.0,hcp,abbvie
-Cyrill Hess,Wetzikon ZH,CH,Spitalstrasse 66,,,,,380.0,474.0,,,854.0,hcp,abbvie
-Jürg Hess,Lausanne,CH,Route De Chavannes 11A,,,,,800.0,1360.0,600.0,,2760.0,hcp,abbvie
-Roxane Hessler,Lausanne,CH,Avenue Louis-Ruchonnet 30,,,,,367.0,918.0,,,1285.0,hcp,abbvie
-Ursula Hesterberg,Bern,CH,Kramgasse 82,,,,,,,400.0,,400.0,hcp,abbvie
-Werner Hochreiter,Aarau,CH,Schänisweg,,,,,733.0,480.0,,,1213.0,hcp,abbvie
-Helge Hoffmann,Hergiswil NW,CH,Sonnenbergstrasse 9,,,,,710.0,1219.0,,,1929.0,hcp,abbvie
-Joé Holtzem,Sion,CH,Rue De Lausanne 20,,,,,408.0,730.0,,,1138.0,hcp,abbvie
-Judit Horvath,Meyrin,CH,Avenue Jacob-Daniel-Maillard 3,,,,,,,1250.0,144.0,1394.0,hcp,abbvie
-Thomas Hundsberger,St. Gallen,CH,Rorschacher Strasse 95,,,,,571.0,1767.0,,,2338.0,hcp,abbvie
-Robert Hunger,Bern,CH,Freiburgstrasse 18,,,,,,,2800.0,,2800.0,hcp,abbvie
-Werner Inauen,Solothurn,CH,Schöngrünstrasse 42,,,,,380.0,259.0,,,639.0,hcp,abbvie
-Marc Isler,Zürich,CH,Selnaustrasse 9,,,,,664.0,622.0,,,1286.0,hcp,abbvie
-Patricia Iwanowski,Lausanne,CH,Chemin Des Croix-Rouges 5,,,,,272.0,756.0,,,1028.0,hcp,abbvie
-Ahmad Jalili,Bürgenstock,CH,Bürgenstock 30,,,,,,,2375.0,,2375.0,hcp,abbvie
-Monika Jermann,Zürich,CH,Toblerstrasse 50,,,,,600.0,834.0,,,1434.0,hcp,abbvie
-Fernando Jermini,Lugano,CH,Via Dufour 4,,,,,152.0,1033.0,,,1185.0,hcp,abbvie
-Gregor Kadner,Frauenfeld,CH,Pfaffenholzstrasse 4,,,,,152.0,683.0,,,835.0,hcp,abbvie
-Jörn Kamradt,Bern,CH,Schänzlistrasse 33,,,,,,497.0,,,497.0,hcp,abbvie
-Alfred Gustav Karpf,Uster,CH,Poststrasse 2,,,,,380.0,514.0,,,894.0,hcp,abbvie
-Nicola Keller,Morbio Inferiore,CH,Via Al Ponte 2,,,,,380.0,849.0,,,1229.0,hcp,abbvie
-Peter Keller,Langenthal,CH,St. Urbanstrasse 67,,,,,268.0,1115.0,,,1383.0,hcp,abbvie
-Karim Kellou,Nyon,CH,Chemin Monastier 15,,,,,1016.0,1118.0,,,2134.0,hcp,abbvie
-Silke Kenngott,Rapperswil SG,CH,Güterstrasse 21/23,,,,,380.0,489.0,,,869.0,hcp,abbvie
-Amalia-Iren Kerl-Skurka,Zürich,CH,Altstetterstrasse 142,,,,,380.0,553.0,,,933.0,hcp,abbvie
-Ilhem Khelifa,Genève,CH,Cours De Rive 2,,,,,1168.0,,,,1168.0,hcp,abbvie
-Arne Kröger,Horgen,CH,Asylstrasse 19,,,,,380.0,489.0,,,869.0,hcp,abbvie
-Hasan Kulaksiz,Zürich,CH,Seestrasse 90,,,,,380.0,563.0,,,943.0,hcp,abbvie
-Ana Maria Kunz,Langenthal,CH,Seilereistrasse 1,,,,,340.0,259.0,,,599.0,hcp,abbvie
-Patric Kurmann,Neuchâtel,CH,Rue Du Seyon 10,,,,,,,1800.0,,1800.0,hcp,abbvie
-Emmanuel Laffitte,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,2450.0,,2450.0,hcp,abbvie
-Anne-Karine Lapointe,Lausanne,CH,Avenue Du Théâtre 7,,,,,327.0,602.0,1625.0,,2554.0,hcp,abbvie
-Severin Läuchli,Zürich,CH,Seefeldstrasse 4,,,,,,1188.0,2500.0,,3688.0,hcp,abbvie
-Yves Lechleitner,Renens VD,CH,Avenue Du Quatorze Avril 12,,,,,,,400.0,,400.0,hcp,abbvie
-Reinhard Lehner,Sarnen,CH,Marktstrasse 7,,,,,340.0,555.0,,,895.0,hcp,abbvie
-Leda Leoncini,Lugano,CH,Via Moncucco 10,,,,,448.0,1104.0,,,1552.0,hcp,abbvie
-Eva Littig,Neuchâtel,CH,Ruelle Dublé 3,,,,,288.0,813.0,,,1101.0,hcp,abbvie
-François Lüthi,Lausanne,CH,Avenue Du Servan 4-6,,,,,268.0,1253.0,,,1521.0,hcp,abbvie
-Michel Maillard,Lausanne,CH,Avenue Jomini 8,,,,,,,875.0,,875.0,hcp,abbvie
-Carlo Mainetti,Bellinzona,CH,Via Parco 3,,,,,400.0,996.0,1125.0,,2521.0,hcp,abbvie
-Sieglinde Major Schumacher,Tafers,CH,Zelgstrasse 25,,,,,380.0,840.0,,,1220.0,hcp,abbvie
-Christine Manser,Frauenfeld,CH,Pfaffenholzstrasse 4,,,,,576.0,1170.0,,,1746.0,hcp,abbvie
-Michael Manz,Basel,CH,Kleinriehenstrasse 30,,,,,,,2000.0,,2000.0,hcp,abbvie
-Natalie Marcoli,Viganello,CH,Via Pietro Capelli 1,,,,,408.0,642.0,,,1050.0,hcp,abbvie
-Numa Masina,Lugano,CH,Viale Castagnola 21A,,,,,280.0,642.0,,,922.0,hcp,abbvie
-Britta Massmann,Aarau,CH,Zelglistrasse 98,,,,,380.0,267.0,,,647.0,hcp,abbvie
-Brunello Mazzola,Locarno,CH,Via All'ospedale 1,,,,,1016.0,1403.0,,,2419.0,hcp,abbvie
-Joachim Mertens,Zürich,CH,Rämistrasse 100,,,,,380.0,12.0,,,392.0,hcp,abbvie
-Monald Meyer,Luzern,CH,Theaterstrasse 7,,,,,380.0,662.0,,,1042.0,hcp,abbvie
-Claudius Möckel,Zürich,CH,Witellikerstrasse 40,,,,,733.0,1100.0,,,1833.0,hcp,abbvie
-Tilmann Möltgen,Aarau,CH,Tellstrasse 25,,,,,152.0,683.0,,,835.0,hcp,abbvie
-David Mondada,Morges,CH,Rue Louis-De-Savoie 56,,,,,385.0,702.0,,,1087.0,hcp,abbvie
-Isabelle Morard,Genève,CH,Avenue De La Roseraie 76 A,,,,,576.0,1110.0,,,1686.0,hcp,abbvie
-Alberto Moriggia,Lugano,CH,Via Soldino 5,,,,,,921.0,,,921.0,hcp,abbvie
-Michael Mühlstädt,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,750.0,90.0,840.0,hcp,abbvie
-Beat Müllhaupt,Zürich,CH,Rämistrasse 100,,,,,,,1050.0,,1050.0,hcp,abbvie
-Pablo Munoz,Zug,CH,Bahnhofstrasse 28,,,,,380.0,523.0,,,903.0,hcp,abbvie
-Peter Myers,Genève,CH,Ruelle Du Couchant 7,,,,,304.0,1111.0,,,1415.0,hcp,abbvie
-Christopher Naegeli,Morges,CH,Chemin De La Brume 2,,,,,288.0,816.0,,,1104.0,hcp,abbvie
-Alexander Navarini,Basel UniSpital,CH,Petersgraben 4,,,,,400.0,929.0,1575.0,,2904.0,hcp,abbvie
-Francesco Negro,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,1925.0,,1925.0,hcp,abbvie
-Julia Esther Neuenschwander,Winterthur,CH,Brauerstrasse 15,,,,,86.0,507.0,,,593.0,hcp,abbvie
-Cristina Nichita,Epalinges,CH,Route De La Corniche 1,,,,,367.0,918.0,,,1285.0,hcp,abbvie
-Thierry Nicolet,Genolier,CH,Route Du Muids 3,,,,,576.0,647.0,,,1223.0,hcp,abbvie
-Jan Hendrik Niess,Basel UniSpital,CH,Petersgraben 4,,,,,376.0,918.0,,,1294.0,hcp,abbvie
-Salvador Nkondjo,La Chaux-De-Fonds,CH,Rue Numa-Droz 187,,,,,411.0,570.0,,,981.0,hcp,abbvie
-Marcello Orlandi,Solothurn,CH,Obachstrasse 23,,,,,200.0,668.0,,,868.0,hcp,abbvie
-Michael Oswald,Hergiswil NW,CH,Sonnenbergstrasse 9,,,,,710.0,984.0,,,1694.0,hcp,abbvie
-Cécile Pancza Blanc,Neuchâtel,CH,Faubourg De L'hôpital 65,,,,,408.0,732.0,,,1140.0,hcp,abbvie
-Irène Papanastasiou,Nyon,CH,Rue De La Morâche 9,,,,,391.0,852.0,,,1243.0,hcp,abbvie
-Laurent Parmentier,Sierre,CH,Rue Saint-Charles 14,,,,,,1221.0,,,1221.0,hcp,abbvie
-Oliver Passera,Lugano,CH,Via Moncucco 10,,,,,733.0,2038.0,,,2771.0,hcp,abbvie
-Pierluigi Pedrazzi,Bellinzona,CH,Via Ospedale,,,,,272.0,894.0,,,1166.0,hcp,abbvie
-Marie-Astride Peeters-Lamy,Onex,CH,Route De Chancy 98,,,,,290.0,952.0,,,1242.0,hcp,abbvie
-Nedzmidin Pelivani,Bern,CH,Bollwerk 19,,,,,,,400.0,,400.0,hcp,abbvie
-Niklas Pelzer,Luzern,CH,Spitalstrasse,,,,,152.0,903.0,,,1055.0,hcp,abbvie
-Maria Pirosa,Bellinzona,CH,Via Ospedale,,,,,1033.0,2516.0,,,3549.0,hcp,abbvie
-Rein Jan Piso,Olten,CH,Baslerstrasse 150,,,,,380.0,371.0,,,751.0,hcp,abbvie
-Tobias Plaza,Uster,CH,Oberlandstrasse 100,,,,,,,200.0,,200.0,hcp,abbvie
-Miklos Pless,Winterthur,CH,Brauerstrasse 15,,,,,,,1050.0,,1050.0,hcp,abbvie
-Marc Porzner,Lachen SZ,CH,Oberdorfstrasse 41,,,,,576.0,1170.0,,,1746.0,hcp,abbvie
-Christina Rammert-Ganter,Winterthur,CH,Brauerstrasse 15,,,,,380.0,576.0,,,956.0,hcp,abbvie
-Andri Rauch,Bern,CH,Freiburgstrasse 18,,,,,800.0,1315.0,,,2115.0,hcp,abbvie
-Matthias Regli,Unterseen,CH,Weissenaustrasse 27,,,,,576.0,1123.0,,,1699.0,hcp,abbvie
-Susanne Reichert,Zürich,CH,Goethestrasse 24,,,,,733.0,1998.0,,,2731.0,hcp,abbvie
-Thomas Reygaerts,Fribourg,CH,Chemin Des Pensionnats 2,,,,,408.0,752.0,,,1160.0,hcp,abbvie
-Malte Rieken,Basel,CH,Centralbahnplatz 6,,,,,152.0,355.0,,,507.0,hcp,abbvie
-Florian Riniker,Aarau,CH,Buchserstrasse 18,,,,,340.0,512.0,,,852.0,hcp,abbvie
-Christa Ritter,Basel,CH,Gellertstrasse 144,,,,,380.0,554.0,,,934.0,hcp,abbvie
-Gerhard Rogler,Zürich,CH,Rämistrasse 100,,,,,,,1750.0,,1750.0,hcp,abbvie
-Peter Rohr,Zürich,CH,Merkurstrasse 20,,,,,380.0,662.0,,,1042.0,hcp,abbvie
-Davide Rossi,Bellinzona,CH,Via Ospedale,,,,,,,5250.0,3493.0,8743.0,hcp,abbvie
-Livio Rossi,Basel,CH,Steinenberg 23,,,,,380.0,476.0,,,856.0,hcp,abbvie
-René Roth,Zürich,CH,Rämistrasse 100,,,,,576.0,1169.0,,,1745.0,hcp,abbvie
-Mathieu Rougemont,Genève,CH,Plateau De Champel 20,,,,,,,750.0,,750.0,hcp,abbvie
-Andrea Rubbert-Roth,St. Gallen,CH,Rorschacher Strasse 95,,,,,,,11623.0,291.0,11914.0,hcp,abbvie
-Django Russo,Zürich,CH,Gloriastrasse 25,,,,,456.0,847.0,,,1303.0,hcp,abbvie
-Ignazio Salani,Lugano,CH,Via Massagno 36,,,,,340.0,936.0,,,1276.0,hcp,abbvie
-Andreas Sauer,Aarau,CH,Tellstrasse 25,,,,,,,1500.0,,1500.0,hcp,abbvie
-Matthias Saur,Frauenfeld,CH,Rheinstrasse 23,,,,,340.0,730.0,,,1070.0,hcp,abbvie
-Thomas Sautter,Rapperswil SG,CH,Kniestrasse 29,,,,,756.0,1998.0,,,2754.0,hcp,abbvie
-Helen Schaufelberger,Lugano,CH,Via Trevano 38,,,,,380.0,756.0,,,1136.0,hcp,abbvie
-Claude Scheidegger,Basel,CH,Birsigstrasse 10,,,,,664.0,671.0,2250.0,224.0,3809.0,hcp,abbvie
-Ajsa Schenkel,Uster,CH,Oberlandstrasse 100,,,,,392.0,731.0,,,1123.0,hcp,abbvie
-Uwe Schiemann,Riaz,CH,Rue De La Roulema 9,,,,,367.0,888.0,,,1255.0,hcp,abbvie
-Pia Schiffer Burkolter,Zofingen,CH,Rathausgasse 9,,,,,340.0,562.0,,,902.0,hcp,abbvie
-Peter Schiller,Liestal,CH,Mühlegasse 3,,,,,,,1375.0,,1375.0,hcp,abbvie
-Peter Schlapbach,Spiez,CH,Thunstrasse 2,,,,,340.0,267.0,,,607.0,hcp,abbvie
-Martin Schmidtpeter,Lenzburg,CH,Promenade 14,,,,,733.0,1739.0,,,2472.0,hcp,abbvie
-Robert Schneider,Thun,CH,Bahnhofstrasse 1,,,,,224.0,683.0,,,907.0,hcp,abbvie
-Josef Schönbächler,Zürich,CH,Bederstrasse 51,,,,,380.0,267.0,,,647.0,hcp,abbvie
-Laurent Schouler,Les Avanchets,CH,Rue Du Grand Bay 15,,,,,367.0,653.0,,,1020.0,hcp,abbvie
-Peter Schudel,Niederuzwil,CH,Marktstrasse 3,,,,,,,800.0,25.0,825.0,hcp,abbvie
-Christian Schuster,St. Gallen,CH,Kugelgasse 8,,,,,,,200.0,,200.0,hcp,abbvie
-Roger Schwab,Biel/Bienne,CH,Unterer Quai 92,,,,,993.0,2000.0,,,2993.0,hcp,abbvie
-Stefan Schwery,Brig,CH,Ueberlandstrasse 14,,,,,340.0,522.0,,,862.0,hcp,abbvie
-Frank Werner Seibold,Bern,CH,Bremgartenstrasse 119,,,,,484.0,584.0,,,1068.0,hcp,abbvie
-Daniel Seiler,Zürich,CH,Witellikerstrasse 40,,,,,1236.0,1249.0,,,2485.0,hcp,abbvie
-Mariam Seirafi,Genève,CH,Avenue Eugène-Pittard 34,,,,,576.0,744.0,,,1320.0,hcp,abbvie
-David Semela,St. Gallen,CH,Rorschacher Strasse 95,,,,,,,1050.0,,1050.0,hcp,abbvie
-Oliver Senn,Zürich,CH,Rämistrasse 34,,,,,,,1400.0,,1400.0,hcp,abbvie
-Johannes Spalinger,Luzern,CH,Spitalstrasse,,,,,548.0,336.0,,,884.0,hcp,abbvie
-Rolf Stahel,Zürich,CH,Rämistrasse 100,,,,,,,1050.0,,1050.0,hcp,abbvie
-Balthasar Stähelin,Basel,CH,Wiesendamm 22,,,,,340.0,464.0,,,804.0,hcp,abbvie
-Ivan Stamenic,Wettingen,CH,Rosengartenstrasse 2,,,,,340.0,474.0,,,814.0,hcp,abbvie
-Anastasios Stathis,Bellinzona,CH,Via Ospedale,,,,,500.0,,,,500.0,hcp,abbvie
-Judit-Maria Steinmann,Basel,CH,Henric Petri-Strasse 19,,,,,,,400.0,,400.0,hcp,abbvie
-Bigna Straumann-Funk,Zürich,CH,Toblerstrasse 51,,,,,380.0,512.0,,,892.0,hcp,abbvie
-Gabriele Strini,Collombey,CH,Chemin Du Pré-Lambert 3,,,,,576.0,1110.0,,,1686.0,hcp,abbvie
-Alexandra Studhalter-Pallini,Zofingen,CH,Rathausgasse 9,,,,,340.0,562.0,,,902.0,hcp,abbvie
-Wolfgang Sturm,Uznach,CH,Gasterstrasse 25,,,,,1016.0,1324.0,,,2340.0,hcp,abbvie
-Omar Sultanie,Bülach,CH,Bahnhofstrasse 22,,,,,380.0,130.0,,,510.0,hcp,abbvie
-Michael Sulz,St. Gallen,CH,Rorschacher Strasse 95,,,,,,,1000.0,,1000.0,hcp,abbvie
-Stefan Suter,Zug,CH,Gubelstrasse 11,,,,,710.0,1182.0,,,1892.0,hcp,abbvie
-Scherwin Talimi,Baden,CH,Cordulaplatz 6,,,,,152.0,683.0,,,835.0,hcp,abbvie
-Giorgio Tamborrini,Basel,CH,Aeschenvorstadt 68,,,,,,,500.0,,500.0,hcp,abbvie
-Timur Taskesen,Zürich,CH,Limmatstrasse 252,,,,,327.0,487.0,1000.0,79.0,1893.0,hcp,abbvie
-Michela Tempia-Caliera,Chêne-Bougeries,CH,Chemin Des Grangettes 7,,,,,367.0,798.0,,,1165.0,hcp,abbvie
-Guido Tenti,Zürich,CH,Toblerstrasse 51,,,,,429.0,2000.0,,,2429.0,hcp,abbvie
-Wolfgang Thies,Bad Ragaz,CH,Hans Albrecht-Strasse,,,,,380.0,506.0,,,886.0,hcp,abbvie
-Anna Thoma,Zürich,CH,Walchestrasse 15,,,,,380.0,537.0,,,917.0,hcp,abbvie
-Peter Tölle,Basel,CH,Weiherweg 54,,,,,380.0,500.0,,,880.0,hcp,abbvie
-Nordwig Tomi,Weinfelden,CH,Marktplatz 3,,,,,,,1250.0,,1250.0,hcp,abbvie
-Nhu-Nam Tran-Thang,Lausanne,CH,Avenue Alexandre-Vinet 19B,,,,,448.0,1013.0,,,1461.0,hcp,abbvie
-Bruno Trossello,Gland,CH,La Lignière 5,,,,,280.0,562.0,,,842.0,hcp,abbvie
-Samuel Truniger,Winterthur,CH,Brauerstrasse 15,,,,,672.0,859.0,,,1531.0,hcp,abbvie
-Emmanuelle Tullen,Genève,CH,Chemin De Beau-Soleil 22,,,,,448.0,1130.0,,,1578.0,hcp,abbvie
-Andreas Uhl,Basel,CH,Wiesendamm 22,,,,,256.0,597.0,,,853.0,hcp,abbvie
-Patric Urfer,Aarau,CH,Schänisweg,,,,,340.0,489.0,,,829.0,hcp,abbvie
-Henning Usadel,Schiers,CH,Tersierstrasse 7,,,,,380.0,259.0,,,639.0,hcp,abbvie
-Simone Vannini,Lugano,CH,Via Trevano 38,,,,,380.0,756.0,,,1136.0,hcp,abbvie
-Maxime Vernez,Epalinges,CH,Route De La Corniche 1,,,,,,,500.0,,500.0,hcp,abbvie
-Pascal Viktorin,Luzern,CH,Spitalstrasse,,,,,879.0,2400.0,,,3279.0,hcp,abbvie
-Sonja Vollenweider Roten,Vevey,CH,Rue De Lausanne 15,,,,,,,400.0,,400.0,hcp,abbvie
-Thomas Wais,Stans,CH,Engelbergstrasse 33,,,,,340.0,283.0,,,623.0,hcp,abbvie
-Gilles Wandeler,Bern,CH,Freiburgstrasse 18,,,,,800.0,1376.0,,,2176.0,hcp,abbvie
-Marcel Weber,Zürich,CH,Birmensdorferstrasse 497,,,,,,,938.0,,938.0,hcp,abbvie
-Michael Weller,Zürich,CH,Frauenklinikstrasse 26,,,,,,,2450.0,,2450.0,hcp,abbvie
-Marc Widmer,Wetzikon ZH,CH,Bahnhofstrasse 137,,,,,380.0,706.0,,,1086.0,hcp,abbvie
-René Wullimann,Lugano,CH,Via Besso 34,,,,,304.0,891.0,,,1195.0,hcp,abbvie
-Nikhil Yawalkar,Wabern,CH,Parkstrasse 14,,,,,,,6825.0,1224.0,8049.0,hcp,abbvie
-Sebastian Z'Brun,Luzern,CH,Zürichstrasse 5,,,,,710.0,1182.0,,,1892.0,hcp,abbvie
-Jonas Zeitz,Zürich,CH,Witellikerstrasse 40,,,,,576.0,1170.0,1000.0,,2746.0,hcp,abbvie
-Thorsten Zenz,Zürich,CH,Rämistrasse 100,,,,,,,1750.0,,1750.0,hcp,abbvie
-Armin Zgraggen,Aarau,CH,Tellstrasse 25,,,,,380.0,553.0,,,933.0,hcp,abbvie
-Maria Ziembrowski,Frauenfeld,CH,Kurzfeldstrasse 1,,,,,733.0,2000.0,,,2733.0,hcp,abbvie
-Matthias Zimmermann,Zürich,CH,Birmensdorferstrasse 497,,,,,733.0,1791.0,1500.0,,4024.0,hcp,abbvie
-Matthias Alexander Zingg,Zürich,CH,Birmensdorferstrasse 497,,,,,456.0,847.0,,,1303.0,hcp,abbvie
-Katja Zirlik,Chur,CH,Masanserstrasse 2,,,,,,2516.0,,,2516.0,hcp,abbvie
-Hans-Rudolf Ziswiler,Bern,CH,Bahnhofplatz 1,,,,,885.0,,1000.0,,1885.0,hcp,abbvie
-Pascal Zufferey,Lausanne,CH,Avenue Pierre-Decker 4,,,,,,551.0,,,551.0,hcp,abbvie
-Markus Zurkirchen,Zug,CH,Baarerstrasse 88,,,,,866.0,1137.0,,,2003.0,hcp,abbvie
-Aesculap Akademie,Sempach,CH,Seesatz 17,,,,2000.0,,,,,2000.0,hco,abbvie
-AMACTI Associazione Medici Anestesisti del Canton Ticino,Lugano,CH,Via Tesserete 48,,,,2500.0,,,,,2500.0,hco,abbvie
-Arud Zentrum für Suchtmedizin,Zürich,CH,Schützengasse 31,,,,4000.0,984.0,1775.0,,,6759.0,hco,abbvie
+Saskia Ditisheim,Neuchâtel,CH,Faubourg De L'hôpital 81,,,,,,,800.0,,800.0,hcp,abbvie
+Jean Dudler,Fribourg,CH,Chemin Des Pensionnats 2,,,,,,,1000.0,,1000.0,hcp,abbvie
+Philippe Duroux,Sion,CH,Avenue Du Midi 9,,,,,634.0,711.0,,,1345.0,hcp,abbvie
+Maike Eberhard,Winterthur,CH,Brauerstrasse 15,,,,,369.0,515.0,,,884.0,hcp,abbvie
+Anna Efthymiou,Fribourg,CH,Chemin Des Pensionnats 2,,,,,308.0,1630.0,,,1938.0,hcp,abbvie
+Hans Ulrich Ehrbar,Rüti ZH,CH,Neuwiesenstrasse 9,,,,,380.0,506.0,,,886.0,hcp,abbvie
+Joseph Eigenmann,Fribourg,CH,Grand-Places 16,,,,,779.0,1540.0,,,2319.0,hcp,abbvie
+Fatima El Saghir,Basel UniSpital,CH,Spitalstrasse 26,,,,,576.0,651.0,,,1227.0,hcp,abbvie
+Yekbun Elmas,Bülach,CH,Schaffhauserstrasse 53,,,,,456.0,648.0,,,1104.0,hcp,abbvie
+Véronique Emmenegger,Lausanne,CH,Avenue De La Gare 2,,,,,1359.0,741.0,,,2100.0,hcp,abbvie
+Héloïse Emond,Genève,CH,Avenue De Champel 24,,,,,1147.0,256.0,,,1403.0,hcp,abbvie
+Bettina Engel,Lausanne,CH,Avenue Du Théâtre 7,,,,,,,600.0,,600.0,hcp,abbvie
+Regina Esser,Zürich,CH,Schützengasse 31,,,,,653.0,829.0,,,1482.0,hcp,abbvie
+André Etienne,La Tour-de-Trême,CH,Place Du Centre 2,,,,,238.0,584.0,,,822.0,hcp,abbvie
+Arpad Farkas,Glattbrugg,CH,Schaffhauserstrasse 99,,,,,380.0,547.0,,,927.0,hcp,abbvie
+Farshid Fateri,Fribourg,CH,Grand-Places 16,,,,,1071.0,958.0,,,2029.0,hcp,abbvie
+Samira Felix,Clarens,CH,Rue Du Lac 142,,,,,346.0,654.0,,,1000.0,hcp,abbvie
+Christian Felley,Lausanne,CH,Avenue Jomini 8,,,,,360.0,1139.0,,,1499.0,hcp,abbvie
+Stefanie Fiechter,Cham,CH,Rigistrasse 1,,,,,165.0,820.0,,,985.0,hcp,abbvie
+Susanna Fistarol-Bohn,Basel,CH,Missionsstrasse 28,,,,,340.0,437.0,,,777.0,hcp,abbvie
+Daniel Fleisch,Zürich,CH,Herman-Greulich-Strasse 70,,,,,1548.0,819.0,,,2367.0,hcp,abbvie
+Erika Fopp,Frauenfeld,CH,Bahnhofstrasse 57,,,,,380.0,540.0,,,920.0,hcp,abbvie
+Adrian Forster,Zürich,CH,Lengghalde 2,,,,,369.0,546.0,,,915.0,hcp,abbvie
+Stephan Frank,Basel,CH,Schönbeinstrasse 40,,,,,,,1050.0,,1050.0,hcp,abbvie
+Pascal Frei,Zürich,CH,Toblerstrasse 51,,,,,,,1000.0,,1000.0,hcp,abbvie
+Matthias Froh,Baden,CH,Im Ergel 1,,,,,320.0,637.0,,,957.0,hcp,abbvie
+Pascal Gache,Genève,CH,Rue Des Deux-Ponts 20,,,,,,,,1244.0,1244.0,hcp,abbvie
+Salvatore Galati,Lugano,CH,Via Tesserete 46,,,,,552.0,832.0,,,1384.0,hcp,abbvie
+Luca Garzoni,Chêne-Bougeries,CH,Chemin Des Grangettes 7,,,,,360.0,937.0,,,1297.0,hcp,abbvie
+Steffen Gay,Zürich,CH,Gloriastrasse 25,,,,,,125.0,,132.0,257.0,hcp,abbvie
+Daniel Genné,Biel/Bienne,CH,Vogelsang 84,,,,,340.0,429.0,,,769.0,hcp,abbvie
+Marc Genty,Montagny-Yverdon,CH,En Chamard 55D,,,,,391.0,480.0,,,871.0,hcp,abbvie
+Markus Gerber,Bern,CH,Bärenplatz 8,,,,,331.0,780.0,,,1111.0,hcp,abbvie
+Martin Geyer,Wettingen,CH,Landstrasse 166,,,,,380.0,637.0,,,1017.0,hcp,abbvie
+Joseph-André Ghika,Sion,CH,Avenue Grand-Champsec 80,,,,,414.0,744.0,,,1158.0,hcp,abbvie
+Nadjibulah Gholami,Zürich,CH,Schützengasse 31,,,,,320.0,565.0,,,885.0,hcp,abbvie
+Jeroen Goede,Winterthur,CH,Brauerstrasse 15,,,,,,,5250.0,59.0,5309.0,hcp,abbvie
+Jean-Philippe Görög,Bern,CH,Schanzenstrasse 1,,,,,,,600.0,,600.0,hcp,abbvie
+Samuel Graber,Bern,CH,Hirschengraben 11,,,,,892.0,714.0,,,1606.0,hcp,abbvie
+Véronique Grobéty,Bern,CH,Viktoriastrasse 72,,,,,369.0,455.0,,,824.0,hcp,abbvie
+Moreno Diego Guidicelli,Biasca,CH,Via A. E M. Pini 30,,,,,380.0,254.0,,,634.0,hcp,abbvie
+Marianne Guirgis Vullièmoz,Lausanne,CH,Avenue Jomini 8,,,,,484.0,758.0,,,1242.0,hcp,abbvie
+Ingo Haase,Glattpark(Opfikon),CH,Thurgauerstrasse 105,,,,,380.0,136.0,2125.0,,2641.0,hcp,abbvie
+Susanne Halbgebauer,Zürich,CH,Lavaterstrasse 40,,,,,360.0,507.0,,,867.0,hcp,abbvie
+Andreas Hammer,St. Gallen,CH,Guisanstrasse 55,,,,,380.0,502.0,,,882.0,hcp,abbvie
+Claudia Harder,Luzern,CH,Obergrundstrasse 88,,,,,331.0,881.0,,,1212.0,hcp,abbvie
+Peter Häusermann,Basel UniSpital,CH,Petersgraben 4,,,,,624.0,1640.0,,,2264.0,hcp,abbvie
+Stefan Hefft,Tschugg,CH,Oberdorf,,,,,621.0,818.0,,,1439.0,hcp,abbvie
+Eva Maria Heilmann,Aarau,CH,Tellstrasse 25,,,,,,,250.0,,250.0,hcp,abbvie
+Marc Heizmann,Aarau,CH,Tellstrasse 25,,,,,,,3150.0,,3150.0,hcp,abbvie
+Beat Helbling,Zürich,CH,Toblerstrasse 51,,,,,,,750.0,,750.0,hcp,abbvie
+Christoph Hemmeler,Langenthal,CH,Hasenmattstrasse 37,,,,,331.0,494.0,,,825.0,hcp,abbvie
+Christophe Henny,Lausanne,CH,Avenue Bergières 2,,,,,931.0,240.0,,,1171.0,hcp,abbvie
+Cyrill Hess,Wetzikon ZH,CH,Spitalstrasse 66,,,,,,,1800.0,,1800.0,hcp,abbvie
+Jürg Hess,Lausanne,CH,Route De Chavannes 11A,,,,,360.0,1144.0,,,1504.0,hcp,abbvie
+Joé Holtzem,Sion,CH,Rue De Lausanne 20,,,,,391.0,1396.0,,,1787.0,hcp,abbvie
+Judit Horvath,Meyrin,CH,Av. Jacob-Daniel Maillard 3,,,,,552.0,601.0,1000.0,,2153.0,hcp,abbvie
+Boris Hübenthal,Zürich,CH,Hardturmstrasse 133,,,,,,,400.0,,400.0,hcp,abbvie
+Michael Huger,Chur,CH,Quaderstrasse 2,,,,,380.0,263.0,,,643.0,hcp,abbvie
+Stefan Johannes Hummler,Luzern,CH,Zentralstrasse 1,,,,,369.0,539.0,,,908.0,hcp,abbvie
+Robert Hunger,Bern,CH,Freiburgstrasse 18,,,,,,,3325.0,60.0,3385.0,hcp,abbvie
+Patricia Iwanowski,Lausanne,CH,Chemin Des Croix-Rouges 5,,,,,998.0,272.0,,,1270.0,hcp,abbvie
+Ahmad Jalili,Bürgenstock,CH,Bürgenstock 30,,,,,1451.0,975.0,6625.0,550.0,9601.0,hcp,abbvie
+Didier Jallut,Lausanne,CH,Avenue Du Théâtre 7,,,,,349.0,1201.0,,,1550.0,hcp,abbvie
+Fabienne Jenni,Zürich,CH,Rämistrasse 100,,,,,384.0,156.0,,,540.0,hcp,abbvie
+Philippe Jornod,Neuchâtel,CH,Rue Du Seyon 6,,,,,360.0,1019.0,,,1379.0,hcp,abbvie
+Christoph Jüngst,Zürich,CH,Rämistrasse 100,,,,,1193.0,1517.0,,,2710.0,hcp,abbvie
+Alfred Gustav Karpf,Uster,CH,Poststrasse 2,,,,,380.0,474.0,,,854.0,hcp,abbvie
+Beat Keller,Wädenswil,CH,Oberdorfstrasse 20,,,,,380.0,453.0,,,833.0,hcp,abbvie
+Martin Keller,Thalwil,CH,Gotthardstrasse 13,,,,,380.0,413.0,,,793.0,hcp,abbvie
+Nicola Keller,Morbio Inferiore,CH,Via Al Ponte 2,,,,,331.0,358.0,,,689.0,hcp,abbvie
+Lena Kelterborn,Basel UniSpital,CH,Petersgraben 4,,,,,456.0,585.0,,,1041.0,hcp,abbvie
+Rainer Klöti,Brugg AG,CH,Fröhlichstrasse 5,,,,,331.0,479.0,,,810.0,hcp,abbvie
+Jürg Knuchel,Aarau,CH,Tellstrasse 25,,,,,380.0,507.0,,,887.0,hcp,abbvie
+Ahmet Kocaoglu,Glarus,CH,Burgstrasse 99,,,,,380.0,582.0,,,962.0,hcp,abbvie
+Martin Koester,Herisau,CH,Spitalstrasse 6,,,,,380.0,579.0,,,959.0,hcp,abbvie
+Henrik Köhler,Aarau,CH,Tellstrasse 25,,,,,,,1000.0,,1000.0,hcp,abbvie
+Eirini Kouroupi,Neuchâtel,CH,Rue De La Maladière 45,,,,,,,600.0,,600.0,hcp,abbvie
+Alexandra Krautheim,Basel,CH,Missionsstrasse 28,,,,,340.0,437.0,,,777.0,hcp,abbvie
+Andreas Walter Krebs,Kloten,CH,Kalchengasse 7,,,,,331.0,491.0,,,822.0,hcp,abbvie
+Arne Kröger,Männedorf,CH,Asylstrasse 10,,,,,1632.0,2986.0,,,4618.0,hcp,abbvie
+Tobias Daniel Kukiolka,Münsterlingen,CH,Spitalcampus 1,,,,,340.0,251.0,,,591.0,hcp,abbvie
+Daniel Külling,Zürich,CH,Seefeldstrasse 214,,,,,340.0,487.0,,,827.0,hcp,abbvie
+Thomas Kündig,Zürich,CH,Gloriastrasse 31,,,,,1423.0,741.0,2100.0,,4264.0,hcp,abbvie
+Stéphane Künzli,Villars-Sur-Glâne,CH,Route De Moncor 12,,,,,1622.0,741.0,400.0,,2763.0,hcp,abbvie
+Emmanuel Laffitte,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,1225.0,,1225.0,hcp,abbvie
+Thomas Langenegger,Baar,CH,Landhausstrasse 11,,,,,369.0,307.0,,,676.0,hcp,abbvie
+Wolf Langewitz,Basel UniSpital,CH,Hebelstrasse 2,,,,,,,1050.0,,1050.0,hcp,abbvie
+Anne-Karine Lapointe Bouyer,Lausanne,CH,Avenue Du Théâtre 7,,,,,,,750.0,,750.0,hcp,abbvie
+Kim Lauper Luong Ba,Genève,CH,Avenue De Beau-Séjour 26,,,,,,,400.0,,400.0,hcp,abbvie
+Yves Lechleitner,Renens VD,CH,Avenue Du Quatorze Avril 12,,,,,,,600.0,,600.0,hcp,abbvie
+En-Ling Leung Ki,Meyrin,CH,Avenue Jacob-Daniel-Maillard 3,,,,,360.0,693.0,,,1053.0,hcp,abbvie
+Angela Lisibach,Baden,CH,Im Ergel 1,,,,,492.0,1243.0,,,1735.0,hcp,abbvie
+Eva Littig,Neuchâtel,CH,Rue De La Maladière 45,,,,,817.0,288.0,,,1105.0,hcp,abbvie
+Konstantinos Loukidis,Schaffhausen,CH,Geissbergstrasse 81,,,,,488.0,1078.0,,,1566.0,hcp,abbvie
+Sara Mach-Pascual,Chêne-Bougeries,CH,Route De Chêne 110,,,,,,,600.0,,600.0,hcp,abbvie
+Lorenzo Magenta,Lugano,CH,Via Soldino 5,,,,,690.0,1521.0,,,2211.0,hcp,abbvie
+Michel Maillard,Lausanne,CH,Avenue Jomini 8,,,,,560.0,811.0,,,1371.0,hcp,abbvie
+Carlo Mainetti,Bellinzona,CH,Via Parco 3,,,,,1548.0,741.0,500.0,,2789.0,hcp,abbvie
+Christoph Mamot,Aarau,CH,Tellstrasse 25,,,,,,,350.0,,350.0,hcp,abbvie
+Tobias Manigold,Basel UniSpital,CH,Petersgraben 4,,,,,369.0,504.0,,,873.0,hcp,abbvie
+Natalie Marcoli,Viganello,CH,Via Pietro Capelli 1,,,,,370.0,666.0,,,1036.0,hcp,abbvie
+Cristina Marcu,Lausanne,CH,Rue De Genève 12,,,,,653.0,1194.0,,,1847.0,hcp,abbvie
+Numa Masina,Lugano,CH,Viale Castagnola 21A,,,,,331.0,267.0,,,598.0,hcp,abbvie
+Gediminas Matulis,Luzern,CH,Sankt Anna-Treppe 32,,,,,331.0,504.0,,,835.0,hcp,abbvie
+Heribert Mauron,Moosseedorf,CH,Moosbühlstrasse 33,,,,,369.0,624.0,,,993.0,hcp,abbvie
+Luzia Meder,Zofingen,CH,Mühlemattstrasse 5,,,,,331.0,267.0,,,598.0,hcp,abbvie
+Ursula Meierhofer,Zürich,CH,Altstetterstrasse 142,,,,,369.0,562.0,,,931.0,hcp,abbvie
+Ramona Merki,Aarau,CH,Tellstrasse 25,,,,,,,1050.0,,1050.0,hcp,abbvie
+Ulrich Mey,Chur,CH,Loëstrasse 170,,,,,,,875.0,,875.0,hcp,abbvie
+Monald Meyer,Luzern,CH,Theaterstrasse 7,,,,,380.0,521.0,,,901.0,hcp,abbvie
+Martin Harald Micheluzzi,Heerbrugg,CH,Marktstrasse 4,,,,,320.0,613.0,,,933.0,hcp,abbvie
+Thomas Mietzsch,Wetzikon ZH,CH,Bahnhofstrasse 137,,,,,,,600.0,,600.0,hcp,abbvie
+Emmanuel Mollet,Genève,CH,Chemin De Beau-Soleil 12,,,,,669.0,1050.0,,,1719.0,hcp,abbvie
+Isabelle Morard,Genève,CH,Avenue De La Roseraie 76 A,,,,,240.0,800.0,,,1040.0,hcp,abbvie
+Alberto Moriggia,Lugano,CH,Via Soldino 5,,,,,,4287.0,,,4287.0,hcp,abbvie
+Christian Mottet,Sion,CH,Route Des Ronquos 35,,,,,,,2000.0,,2000.0,hcp,abbvie
+Stefan Mühlebach,Sursee,CH,Buchenstrasse 4,,,,,369.0,532.0,,,901.0,hcp,abbvie
+Rouven Müller,Zürich,CH,Rämistrasse 100,,,,,1683.0,,1000.0,,2683.0,hcp,abbvie
+Rüdiger Müller,Aarau,CH,Tellstrasse 25,,,,,,,4000.0,,4000.0,hcp,abbvie
+Corina Müller-Rohr,Zürich,CH,Toblerstrasse 51,,,,,576.0,927.0,,,1503.0,hcp,abbvie
+Julia Müllner,Bern,CH,Freiburgstrasse 18,,,,,414.0,810.0,,,1224.0,hcp,abbvie
+Pablo Munoz,Zug,CH,Bahnhofstrasse 28,,,,,340.0,514.0,,,854.0,hcp,abbvie
+Peter Myers,Genève,CH,Ruelle Du Couchant 7,,,,,1179.0,256.0,,,1435.0,hcp,abbvie
+Christopher Naegeli,Morges,CH,Chemin De La Brume 2,,,,,1080.0,304.0,,,1384.0,hcp,abbvie
+Andreas Nagy,Winterthur,CH,Brauerstrasse 15,,,,,660.0,1316.0,,,1976.0,hcp,abbvie
+Francesco Negro,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,,,,1050.0,,1050.0,hcp,abbvie
+Thai Nguyen-Tang,Genève,CH,Avenue De La Roseraie 76 A,,,,,360.0,770.0,,,1130.0,hcp,abbvie
+Cristina Nichita,Epalinges,CH,Route De La Corniche 1,,,,,360.0,1143.0,,,1503.0,hcp,abbvie
+Thierry Nicolet,Genolier,CH,Route Du Muids 3,,,,,360.0,1167.0,,,1527.0,hcp,abbvie
+Michael Nissen,Genève,CH,Avenue De Beau-Séjour 26,,,,,,,1000.0,,1000.0,hcp,abbvie
+Bernd Nürnberg,Feuerthalen,CH,Zürcherstrasse 25,,,,,320.0,540.0,,,860.0,hcp,abbvie
+Martin Oehri,Frauenfeld,CH,Rheinstrasse 23,,,,,331.0,287.0,,,618.0,hcp,abbvie
+Isabelle Pache,Rennaz,CH,Route Du Vieux Séquoia 20,,,,,,,800.0,,800.0,hcp,abbvie
+Ioannis Papadopoulos,Münchenstein,CH,Reinacherstrasse 28,,,,,331.0,479.0,,,810.0,hcp,abbvie
+Laurent Parmentier,Sierre,CH,Rue Saint-Charles 14,,,,,,,600.0,,600.0,hcp,abbvie
+Pierluigi Pedrazzi,Bellinzona,CH,Via Ospedale,,,,,1042.0,240.0,,,1282.0,hcp,abbvie
+Augusto Pedrazzini,Locarno,CH,Via Vincenzo Vela 11,,,,,1433.0,,,,1433.0,hcp,abbvie
+Marie-Astride Peeters-Lamy,Onex,CH,Route De Chancy 98,,,,,356.0,705.0,,,1061.0,hcp,abbvie
+Nedzmidin Pelivani,Bern,CH,Bollwerk 19,,,,,380.0,569.0,,,949.0,hcp,abbvie
+Gianfranco Pesce,Bellinzona,CH,Via Ospedale,,,,,672.0,2777.0,,,3449.0,hcp,abbvie
+Daniel Peternac,Schaffhausen,CH,Geissbergstrasse 81,,,,,516.0,425.0,,,941.0,hcp,abbvie
+Rein Jan Piso,Olten,CH,Baslerstrasse 150,,,,,653.0,1209.0,,,1862.0,hcp,abbvie
+Alexander Pohle,Horgen,CH,Seestrasse 262,,,,,892.0,873.0,,,1765.0,hcp,abbvie
+Luigi Léonardo Polla,Genève,CH,Rue Du Rhône 56,,,,,1666.0,926.0,,,2592.0,hcp,abbvie
+Marc Porzner,Lachen SZ,CH,Oberdorfstrasse 41,,,,,380.0,462.0,,,842.0,hcp,abbvie
+Peter Reber,Baden,CH,Bäderstrasse,,,,,370.0,516.0,,,886.0,hcp,abbvie
+Susanne Reichert,Zürich,CH,Goethestrasse 24,,,,,736.0,849.0,,,1585.0,hcp,abbvie
+Philippe Renard,Sion,CH,Avenue Grand-Champsec 80,,,,,813.0,1288.0,,,2101.0,hcp,abbvie
+Alexandre Restellini,Onex,CH,Route De Loëx 3,,,,,360.0,1042.0,,,1402.0,hcp,abbvie
+Véronique Rigamonti,Bern,CH,Monbijoustrasse 130,,,,,,,400.0,,400.0,hcp,abbvie
+Antonella Robatto,Lugano,CH,Via Soldino 5,,,,,813.0,805.0,,,1618.0,hcp,abbvie
+Saphira Rodenhausen,Luzern,CH,Pilatusstrasse 1,,,,,331.0,528.0,,,859.0,hcp,abbvie
+Alexandra Rohr,Uster,CH,Brunnenstrasse 42,,,,,582.0,1281.0,,,1863.0,hcp,abbvie
+Peter Rohr,Zürich,CH,Merkurstrasse 20,,,,,380.0,521.0,,,901.0,hcp,abbvie
+Philipp Rossbach,Zürich,CH,Gloriastrasse 25,,,,,443.0,663.0,,,1106.0,hcp,abbvie
+Davide Rossi,Bellinzona,CH,Via Ospedale 12,,,,,,,,11834.0,11834.0,hcp,abbvie
+Andrea Rubbert-Roth,St. Gallen,CH,Brandstrasse 2a,,,,,,184.0,8414.0,5059.0,13657.0,hcp,abbvie
+Reinhard Rüesch,St. Gallen,CH,Rorschacher Strasse 95,,,,,,,750.0,,750.0,hcp,abbvie
+Christian Ruis,Thun,CH,Krankenhausstrasse 12,,,,,380.0,318.0,,,698.0,hcp,abbvie
+Django Russo,Zürich,CH,Birmensdorferstrasse 497,,,,,331.0,552.0,,,883.0,hcp,abbvie
+Christina Ryser,Baden,CH,Im Ergel 1,,,,,,,800.0,,800.0,hcp,abbvie
+Marco Salvi,Neuchâtel,CH,Rue Du Musée 9,,,,,669.0,1050.0,,,1719.0,hcp,abbvie
+Ieva Saulite,St. Gallen,CH,Rorschacher Strasse 95,,,,,,,400.0,,400.0,hcp,abbvie
+Thomas Sautter,Rapperswil SG,CH,Kniestrasse 29,,,,,511.0,1229.0,,,1740.0,hcp,abbvie
+Klaus Peter Schalk,Aarau,CH,Rain 34,,,,,,,400.0,,400.0,hcp,abbvie
+Sylvie Jane Scharl,Zürich,CH,Rämistrasse 100,,,,,,,,947.0,947.0,hcp,abbvie
+Katharina Schaub,Zürich,CH,Lengghalde 2,,,,,331.0,562.0,,,893.0,hcp,abbvie
+Claude Scheidegger,Basel,CH,Birsigstrasse 10,,,,,,,1000.0,,1000.0,hcp,abbvie
+Larissa Schenkel,Schaffhausen,CH,Geissbergstrasse 81,,,,,652.0,836.0,,,1488.0,hcp,abbvie
+Uwe Schiemann,St-Imier,CH,Les Fontenayes 17,,,,,,,1000.0,,1000.0,hcp,abbvie
+Christoph Schlapbach,Bern,CH,Freiburgstrasse 18,,,,,,,750.0,,750.0,hcp,abbvie
+Laurent Schouler,Les Avanchets,CH,Rue Du Grand Bay 15,,,,,360.0,873.0,,,1233.0,hcp,abbvie
+Lena Schriever,Weinfelden,CH,Marktplatz 3,,,,,340.0,540.0,,,880.0,hcp,abbvie
+Kai Michael Schubert,Zürich,CH,Frauenklinikstrasse 26,,,,,,874.0,,,874.0,hcp,abbvie
+Stefan Schwery,Brig,CH,Ueberlandstrasse 14,,,,,340.0,521.0,,,861.0,hcp,abbvie
+Daniel Segna,Zürich,CH,Rämistrasse 100,,,,,976.0,688.0,,,1664.0,hcp,abbvie
+Frank Werner Seibold,Bern,CH,Bremgartenstrasse 119,,,,,,,1400.0,,1400.0,hcp,abbvie
+Matthias Seidel,Biel/Bienne,CH,Vogelsang 84,,,,,669.0,1237.0,,,1906.0,hcp,abbvie
+Philipp Spring,Epalinges,CH,Route De La Corniche 1,,,,,,,1750.0,,1750.0,hcp,abbvie
+Claudio Städler,Lugano,CH,Via Tesserete 46,,,,,552.0,622.0,,,1174.0,hcp,abbvie
+Ivan Stamenic,Wettingen,CH,Landstrasse 166,,,,,380.0,436.0,,,816.0,hcp,abbvie
+Christian Steiner,Luzern,CH,Spitalstrasse,,,,,370.0,449.0,,,819.0,hcp,abbvie
+Felix Stickel,Bern,CH,Schänzlihalde 11,,,,,,,750.0,,750.0,hcp,abbvie
+Flavio Stoffel,Bellinzona,CH,Via Ospedale 10,,,,,689.0,1075.0,,,1764.0,hcp,abbvie
+Urs Straumann,Uster,CH,Freiestrasse 1,,,,,1283.0,1734.0,,,3017.0,hcp,abbvie
+Markus Streit,Aarau,CH,Bahnhofplatz 3C,,,,,396.0,366.0,,,762.0,hcp,abbvie
+Gabriele Strini,Collombey,CH,Chemin Du Pré-Lambert 3,,,,,400.0,600.0,,,1000.0,hcp,abbvie
+Omar Sultanie,Bülach,CH,Bahnhofstrasse 22,,,,,380.0,309.0,,,689.0,hcp,abbvie
+Stefan Suter,Zug,CH,Gubelstrasse 11,,,,,1015.0,5467.0,,,6482.0,hcp,abbvie
+Scherwin Talimi,Baden,CH,Cordulaplatz 6,,,,,1015.0,2039.0,,,3054.0,hcp,abbvie
+Timur Taskesen,Lenzburg,CH,Niederlenzer Kirchweg 2A,,,,,2062.0,1185.0,7875.0,,11122.0,hcp,abbvie
+Philippe Temperli,Morges,CH,Chemin Du Crêt 2,,,,,604.0,304.0,,,908.0,hcp,abbvie
+Michela Tempia-Caliera,Chêne-Bougeries,CH,Chemin Des Grangettes 7,,,,,360.0,938.0,,,1298.0,hcp,abbvie
+Stefan Teske,Zürich,CH,Birmensdorferstrasse 1,,,,,,,600.0,,600.0,hcp,abbvie
+Catherine Sylvie Thiel-Kummer,Kloten,CH,Kalchengasse 7,,,,,369.0,502.0,,,871.0,hcp,abbvie
+Clara Thierfelder,Basel,CH,Hammerstrasse 123,,,,,550.0,1341.0,,,1891.0,hcp,abbvie
+Wolfgang Thies,Bad Ragaz,CH,Hans Albrecht-Strasse,,,,,,,,114.0,114.0,hcp,abbvie
+Joël Thorens,Yverdon-Les-Bains,CH,Rue D'orbe 27,,,,,560.0,965.0,,,1525.0,hcp,abbvie
+Maximilian Thormann,Bern,CH,Freiburgstrasse 4,,,,,,625.0,,,625.0,hcp,abbvie
+Yordanka Tirefort,Lausanne,CH,Chemin D'entre-Bois 21,,,,,,,600.0,,600.0,hcp,abbvie
+Peter Tölle,Basel,CH,Weiherweg 54,,,,,369.0,466.0,,,835.0,hcp,abbvie
+Nordwig Tomi,Weinfelden,CH,Marktplatz 3,,,,,360.0,309.0,1875.0,,2544.0,hcp,abbvie
+Jan Triebel,Zürich,CH,Birmensdorferstrasse 497,,,,,669.0,1237.0,,,1906.0,hcp,abbvie
+Bruno Trossello,Gland,CH,La Lignière 5,,,,,268.0,1679.0,,,1947.0,hcp,abbvie
+Samuel Truniger,Winterthur,CH,Brauerstrasse 15,,,,,240.0,924.0,,,1164.0,hcp,abbvie
+Miguel Ulla,Martigny,CH,Rue D'aoste 5B,,,,,552.0,622.0,,,1174.0,hcp,abbvie
+Nurgül Usluoglu,Thun,CH,Krankenhausstrasse 12,,,,,,,350.0,,350.0,hcp,abbvie
+Simone Vannini,Sorengo,CH,Via Sant'anna 7,,,,,380.0,487.0,,,867.0,hcp,abbvie
+Peter Villiger,Bern,CH,Freiburgstrasse 18,,,,,,,1400.0,,1400.0,hcp,abbvie
+Dusica Visnjevski,Glarus,CH,Burgstrasse 99,,,,,582.0,1282.0,,,1864.0,hcp,abbvie
+Johannes Von Kempis,St. Gallen,CH,Rorschacher Strasse 95,,,,,,,1400.0,,1400.0,hcp,abbvie
+Nikolaus Benjamin Wagner,St. Gallen,CH,Rorschacher Strasse 95,,,,,456.0,648.0,,,1104.0,hcp,abbvie
+Julia Walch,St. Gallen,CH,Rorschacher Strasse 95,,,,,552.0,808.0,,,1360.0,hcp,abbvie
+Ulrich Walker,Basel UniSpital,CH,Petersgraben 4,,,,,,650.0,,,650.0,hcp,abbvie
+Marcel Weber,Zurich,CH,Birmensdorferstrasse 497,,,,,,,750.0,,750.0,hcp,abbvie
+Michael Weller,Zürich,CH,Frauenklinikstrasse 26,,,,,,5175.0,700.0,,5875.0,hcp,abbvie
+Felix Wermelinger,Biel/Bienne,CH,Mühlebrücke 8,,,,,370.0,484.0,,,854.0,hcp,abbvie
+Anouk Andrea Widmer,Zürich,CH,Rämistrasse 100,,,,,,1301.0,,,1301.0,hcp,abbvie
+Marc Widmer,Wetzikon ZH,CH,Bahnhofstrasse 137,,,,,331.0,537.0,,,868.0,hcp,abbvie
+Lukas Wildi,Winterthur,CH,Brauerstrasse 15,,,,,669.0,1328.0,,,1997.0,hcp,abbvie
+René Wullimann,Lugano,CH,Via Besso 34,,,,,1044.0,256.0,,,1300.0,hcp,abbvie
+Nikhil Yawalkar,Wabern,CH,Parkstrasse 14,,,,,,765.0,8050.0,938.0,9753.0,hcp,abbvie
+Serge Zeeh,Sion,CH,Rue De Pré-Fleuri 16,,,,,360.0,1061.0,,,1421.0,hcp,abbvie
+Thorsten Zenz,Zürich,CH,Rämistrasse 100,,,,,,,6825.0,,6825.0,hcp,abbvie
+Armin Zgraggen,Aarau,CH,Tellstrasse 25,,,,,,992.0,,,992.0,hcp,abbvie
+Maria Ziembrowski,Frauenfeld,CH,Kurzfeldstrasse 1,,,,,1015.0,2039.0,,,3054.0,hcp,abbvie
+Matthias Zingg,Zürich,CH,Birmensdorferstrasse 497,,,,,420.0,583.0,,,1003.0,hcp,abbvie
+Hans-Rudolf Ziswiler,Bern,CH,Bahnhofplatz 1,,,,,331.0,523.0,500.0,,1354.0,hcp,abbvie
+Daniel Zuder,St. Gallen,CH,Sankt Leonhard-Strasse 20,,,,,360.0,547.0,750.0,,1657.0,hcp,abbvie
+Advisis AG,Bern,CH,Effingerstrasse 55,,,,5000.0,,,,,5000.0,hco,abbvie
+Aerzte Thalwil,Thalwil,CH,Rudishaldenstrasse 1,,,,5000.0,,,,,5000.0,hco,abbvie
+AMACTI Associazione Medici Anestesisti del Canton Ticino,Lugano,CH,Via Tesserete 48,,,,2315.0,,,,,2315.0,hco,abbvie
+Arud Zentrum für Suchtmedizin,Zürich,CH,Schützengasse 31,,,8000.0,166829.0,,,,,174829.0,hco,abbvie
 Ass. des Gastroentérologues valaisans,Muraz (Sierre),CH,Rue De La Vannire 18,,,,4000.0,,,,,4000.0,hco,abbvie
-Association Suisse Romande de Médecine Manuelle,Chêne-Bourg,CH,Rue Peillonnex 28,,,,800.0,,,,,800.0,hco,abbvie
-Bethesda Spital AG,Basel,CH,Gellertstrasse 144,,,,2500.0,340.0,417.0,,,3257.0,hco,abbvie
-Chorel SA,Lugano,CH,Via Coremmo 1,,,,4000.0,,,,,4000.0,hco,abbvie
-Churer Ärzteverein,Chur,CH,Belmontstrasse 1,,,,1000.0,,,,,1000.0,hco,abbvie
-CHUV,Lausanne,CH,Rue Du Bugnon 21,,,27500.0,49300.0,4263.0,22011.0,19225.0,60.0,122359.0,hco,abbvie
-Clinica Luganese Moncucco SA,Lugano,CH,Via Moncucco 10,,,,1000.0,,,,,1000.0,hco,abbvie
-Clinica Santa Chiara SA,Locarno,CH,Via Stefano Franscini 4,,,,1000.0,,,,,1000.0,hco,abbvie
+AVAC Assiociation suisse,Marly,CH,Impasse Du Chemin-Fleuri 2,,,,7500.0,,,,,7500.0,hco,abbvie
+Bethesda Spital AG,Basel,CH,Gellertstrasse 144,,,,3000.0,370.0,267.0,,,3637.0,hco,abbvie
+Cabinet Dr Fleury Nicolas,Fribourg,CH,Boulevard De Pérolles 14,,,,,783.0,491.0,,,1274.0,hco,abbvie
+Cabinet Dr Mondada David,Morges,CH,Rue Louis-De-Savoie 56,,,1200.0,,,,,,1200.0,hco,abbvie
+Cabinet médical POD 16-18,La Chaux-De-Fonds,CH,Avenue Léopold-Robert 16-18,,,12000.0,,,,,,12000.0,hco,abbvie
+Centre Compétence Rhumatologie,Sierre,CH,Place Beaulieu 10,,,,1000.0,,,,,1000.0,hco,abbvie
+CHUV,Lausanne,CH,Rue Du Bugnon 21,,,,28362.0,3929.0,15002.0,23175.0,1647.0,72115.0,hco,abbvie
+Circolo Medico del Mendrisiotto,Stabio,CH,Via Giulia 43,,,,800.0,,,,,800.0,hco,abbvie
+Clinica Luganese Moncucco SA,Lugano,CH,Via Moncucco 10,,,,2000.0,,,,,2000.0,hco,abbvie
 COALAT / Anesthesiology CHUV,Lausanne,CH,Rue Du Bugnon 46,,,,1000.0,,,,,1000.0,hco,abbvie
-CRR SuvaCare,Sion,CH,Avenue Grand-Champsec 90,,,,1500.0,,,,,1500.0,hco,abbvie
-Derma Limmattal AG,Schlieren,CH,Uitikonerstrasse 9,,,,,,,400.0,,400.0,hco,abbvie
+CRR SuvaCare,Sion,CH,Avenue Grand-Champsec 90,,,,1000.0,,,,,1000.0,hco,abbvie
+Ctre. Gastroentérologie Beaulieu,Lausanne,CH,Avenue Jomini 8,,,,,,,1875.0,,1875.0,hco,abbvie
+Derma Limmattal AG,Schlieren,CH,Uitikonerstrasse 9,,,,,,,800.0,,800.0,hco,abbvie
+Derma Point,Vaduz,CH,Landstrasse 117,,,1000.0,,,,,,1000.0,hco,abbvie
 Dermatologische Gesellschaft,St. Gallen,CH,Kugelgasse 8,,,,2000.0,,,,,2000.0,hco,abbvie
-Dermatologische Klinik,Zürich,CH,Gloriastrasse 31,,,,,,,2625.0,170.0,2795.0,hco,abbvie
-Dermatologische Praxis,Basel,CH,Gempenstrasse 2A,,,,,,,500.0,,500.0,hco,abbvie
-Dr. Robert GmbH,Bern,CH,Zieglerstrasse 30,,,,800.0,,,,,800.0,hco,abbvie
-EADV,Lugano,CH,Via Serafino Balestra 22B,,,,325620.0,,,,,325620.0,hco,abbvie
-EASL,Genève,CH,Rue Daubin 7,,,364781.0,239050.0,,,,,603831.0,hco,abbvie
-EASL European Association for the Study of the Liver,Genève,CH,Rue Daubin 7,,,,603355.0,,,,,603355.0,hco,abbvie
-Ente Ospedaliero Cantonale (EOC),Bellinzona,CH,Viale Officina 3,,,,15000.0,,,4935.0,95.0,20030.0,hco,abbvie
-ESMO,Viganello,CH,Via Luigi Taddei 4,,,,155627.0,,,,,155627.0,hco,abbvie
-ESPGHAN,Genève,CH,Rue De-Candolle 16,,,,110637.0,,,,,110637.0,hco,abbvie
-EULAR - European League Against Rheumatism,Kilchberg ZH,CH,Seestrasse 240,,,,1092881.0,,,,,1092881.0,hco,abbvie
-EWRR - European Workshop for Rheumatology Research,Satigny,CH,Rue Du Pré-Bouvier 9,,,,10000.0,,,,,10000.0,hco,abbvie
+DR. MED. PASCAL FREI GASTROENTEROLOGIE FMH,Zürich,CH,Toblerstrasse 51,,,,,,,1000.0,,1000.0,hco,abbvie
+Dr. Robert GmbH,Bern,CH,Zieglerstrasse 30,,,,1600.0,,,,,1600.0,hco,abbvie
+EADV,Lugano,CH,Via Serafino Balestra 22B,,,,498878.0,,,,,498878.0,hco,abbvie
+EASL,Genève,CH,Rue Daubin 7,,,,477609.0,,,,,477609.0,hco,abbvie
+EASL European Association for the Study of the Liver,Genève,CH,Rue Daubin 7,,,302730.0,,,,,,302730.0,hco,abbvie
+Ente Ospedaliero Cantonale (EOC),Bellinzona,CH,Viale Officina 3,,,,22750.0,,434.0,6925.0,,30109.0,hco,abbvie
+EphMRA - European pharmaceutical market research association,Basel,CH,Gartenstrasse 101,,,4900.0,,,,,,4900.0,hco,abbvie
+ESMO,Viganello,CH,Via Luigi Taddei 4,,,,170634.0,,,,,170634.0,hco,abbvie
+ESPGHAN,Genève,CH,Rue De-Candolle 16,,,,1878.0,,,,,1878.0,hco,abbvie
+ESPR Paediatric Research,Satigny,CH,Rue Des Sablières 5,,,,54704.0,,,,,54704.0,hco,abbvie
+Etablissement Hospitaliere Multisite cantonal - EHM,Neuchâtel,CH,domicilier à,,,,,,,1375.0,,1375.0,hco,abbvie
+EULAR - European League Against Rheumatism,Kilchberg ZH,CH,Seestrasse 240,,,,1316018.0,,,,,1316018.0,hco,abbvie
+European Dermatology Forum,Zürich,CH,Gloriastrasse 31,,,27150.0,,,,,,27150.0,hco,abbvie
 F.L.A.VA Fondation Latine des Voies Aériennes,Lausanne,CH,Rue Du Bugnon 46,,,,1000.0,,,,,1000.0,hco,abbvie
-Fondation Asile des Aveugles,Lausanne,CH,Avenue De France 15,,,,,676.0,734.0,,,1410.0,hco,abbvie
+FAMMID Fondation pour le progrès en microbiologie médicale et maladiesinfectieueses,Lausanne,CH,Pont Bessières 3,,,,10000.0,,,,,10000.0,hco,abbvie
 Fondation Centre de Chimiothérapie Anti-Cancéreuse - CCAC,Lausanne,CH,Avenue Alexandre-Vinet 19B,,,,1000.0,,,,,1000.0,hco,abbvie
-Fondation Fribourgeois pour la recherche et la formation sur le cancer,Fribourg,CH,Chemin Des Pensionnats 2-6,,,2300.0,,,,,,2300.0,hco,abbvie
-Fondation Rhumatismes-Enfants-Suisse,Etoy,CH,Route De La Plantay 87,,,,2000.0,,,,,2000.0,hco,abbvie
-Fondazione Epatocentro Ticino,Lugano,CH,Via Soldino 5,,,10000.0,2500.0,,,,,12500.0,hco,abbvie
-Fondazione IOR,Bellinzona,CH,Via Ospedale,,,,,,,13467.0,3468.0,16935.0,hco,abbvie
-FOREUM,Kilchberg ZH,CH,Seestrasse 240,,,286351.0,,,,,,286351.0,hco,abbvie
-Forschungsstiftung Klinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,,,4000.0,,,,,4000.0,hco,abbvie
-Fortbildungsverein Uroclinic,Wetzikon ZH,CH,Kirchgasse 4,,,,4000.0,,,,,4000.0,hco,abbvie
-Foundation SAoO,Berneck,CH,Schüllenstrasse 19,,,,3250.0,,,,,3250.0,hco,abbvie
-Gastroenterologie Oberaargau,Langenthal,CH,Seilereistrasse 1,,,,750.0,,,,,750.0,hco,abbvie
-Gastroenterologische Praxis,Bern,CH,Bremgartenstrasse 119,,,,1800.0,,,1000.0,,2800.0,hco,abbvie
-Gastrozentrum Obach AG,Solothurn,CH,Obachstrasse 23,,,,1600.0,,,,,1600.0,hco,abbvie
+Fondation étude Suisse de cohorte hépatite C,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,20000.0,,,,,,20000.0,hco,abbvie
+Fondation Fribourgeois pour la recherche et la formation sur le cancer,Fribourg,CH,Chemin Des Pensionnats 2-6,,,,2000.0,,,,,2000.0,hco,abbvie
+Fondazione Epatocentro Ticino,Lugano,CH,Via Soldino 5,,,,3000.0,,,,,3000.0,hco,abbvie
+Fondazione IOR,Bellinzona,CH,Via Ospedale 12,,,,1000.0,,,16293.0,766.0,18059.0,hco,abbvie
+FOREUM,Kilchberg ZH,CH,Seestrasse 240,,,281698.0,,,,,,281698.0,hco,abbvie
+Forever Institut,Genève,CH,Rue Du Rhône 56,,,,,,,600.0,65.0,665.0,hco,abbvie
+Forschungsstiftung Klinik Hirslanden,Zürich,CH,Seefeldstrasse 214,,,,3000.0,,,,,3000.0,hco,abbvie
+FOSUMOS,St. Gallen,CH,Metzgergasse 22,,,,2000.0,,,,,2000.0,hco,abbvie
+GAAA Gesellschaft Aargauischer Anästhesieärztinnen und Ärzte,Mühlethal,CH,Sunnehügel 4,,,,1000.0,,,,,1000.0,hco,abbvie
+Gastro Praxis Chur,Chur,CH,Quaderstrasse 2,,,,4000.0,,,,,4000.0,hco,abbvie
+Gastroenterologie Aarau AG,Aarau,CH,Wiesenstrasse 25,,,,,,,800.0,58.0,858.0,hco,abbvie
+Gastroenterology Foundation Zuerich,Zürich,CH,Weinbergstrasse 102,,,33625.0,,,,3500.0,,37125.0,hco,abbvie
 GDNE - Groupe des dermatologues de Neuchâtel et environs,La Chaux-De-Fonds,CH,Rue Jardinière 71,,,,1000.0,,,,,1000.0,hco,abbvie
-Groupe des dermatologues genevois,Genève,CH,Chemin Malombré 5,,,,1100.0,,,,,1100.0,hco,abbvie
-GSASA,Bern,CH,Bern,,,,3000.0,,,,,3000.0,hco,abbvie
-GZO Spital Wetzikon,Wetzikon ZH,CH,Spitalstrasse 66,,,15000.0,,,,,,15000.0,hco,abbvie
-Hepatitis Schweiz,Zürich,CH,Schützengasse 31,,,,225000.0,,,,,225000.0,hco,abbvie
-HFR Fribourg-Hôpital Cantonal,Fribourg,CH,Chemin Des Pensionnats 2,,,,3915.0,763.0,,,,4678.0,hco,abbvie
-"HIB, Site de Payerne",Payerne,CH,Avenue De La Colline 3,,,,1500.0,,,,,1500.0,hco,abbvie
-Hôpital de Nyon - GHOL,Nyon,CH,Chemin Monastier 10,,,,1500.0,,,,,1500.0,hco,abbvie
-Hôpital du Valais,Sion,CH,Avenue Grand-Champsec 80,,,,2760.0,,,,,2760.0,hco,abbvie
-Hôpital La Chaux-de-Fonds,La Chaux-De-Fonds,CH,Rue De Chasseral 20,,,,2500.0,,,,,2500.0,hco,abbvie
-Hôpital neuchâtelois Pourtalès,Neuchâtel,CH,Rue De La Maladière 45,,,,600.0,,,,,600.0,hco,abbvie
-Hôpitaux Universitaires Genève,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,50000.0,25750.0,4239.0,5846.0,8725.0,296.0,94856.0,hco,abbvie
-hpr health professionals in rheumatology switzerland,Regensdorf,CH,Roosstrasse 58,,,,6000.0,,,,,6000.0,hco,abbvie
-IBDnet,Zürich,CH,Birmensdorferstrasse 497,,,,96000.0,,,,,96000.0,hco,abbvie
-IG für Qualität in der Dermatologie IQD,St. Gallen,CH,Kugelgasse 8,,,,500.0,,,,,500.0,hco,abbvie
-IG Swiss-PDNS,Zürich,CH,Rotachstrasse 51,,,1500.0,5000.0,,,,,6500.0,hco,abbvie
-INHSU,Zürich,CH,Konradstrasse 32,,,53808.0,21410.0,,,,,75218.0,hco,abbvie
-Insel Gruppe AG,Bern,CH,Freiburgstrasse 18,,,3500.0,68500.0,,,11637.0,,83637.0,hco,abbvie
-Inselspital Bern,Bern,CH,Freiburgstrasse 18,,,,,380.0,489.0,,,869.0,hco,abbvie
-Institut de Santé au Travail,Epalinges,CH,Route De La Corniche 2,,,,500.0,,,,,500.0,hco,abbvie
-InterDigest,Zürich,CH,Toblerstrasse 51,,,,1000.0,,,,,1000.0,hco,abbvie
-International AIDS Society,Genève,CH,Avenue De France 23,,,,10029.0,,,,,10029.0,hco,abbvie
-Interne Praxen,Zürich,CH,Toblerstrasse 51,,,30000.0,,,,,,30000.0,hco,abbvie
-Junge Hausärztinnen und -ärzte Schweiz,Bern,CH,Effingerstrasse 2,,,,1000.0,,,,,1000.0,hco,abbvie
-Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,1500.0,8900.0,2800.0,10480.0,7825.0,,31505.0,hco,abbvie
-Kantonsspital Baden AG,Baden,CH,Im Ergel 1,,,,1500.0,,,,,1500.0,hco,abbvie
-Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,,600.0,1313.0,,,1913.0,hco,abbvie
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,1000.0,,,2500.0,,3500.0,hco,abbvie
-Kantonsspital Graubünden,Chur,CH,Loëstrasse 170,,,,,1733.0,7011.0,,,8744.0,hco,abbvie
-Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,,43500.0,2092.0,6102.0,1600.0,,53294.0,hco,abbvie
-Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,,,,10400.0,1033.0,5911.0,3000.0,,20344.0,hco,abbvie
-Kinderärzte Schweiz,Zürich,CH,Badenerstrasse 21,,,,1200.0,,,,,1200.0,hco,abbvie
-Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,,,,,500.0,,500.0,hco,abbvie
-Klinik Bethesda,Tschugg,CH,Oberdorf,,,,10000.0,,,,,10000.0,hco,abbvie
-Klinik Hirslanden AG,Zürich,CH,Witellikerstrasse 40,,,,2500.0,,,,,2500.0,hco,abbvie
-Kliniken Valens,Valens,CH,Taminaplatz 1,,,,1500.0,,,,,1500.0,hco,abbvie
-LH Medical Management GmbH,Liestal,CH,Zv Inland/Postfach 350,,,,3000.0,,,,,3000.0,hco,abbvie
-Luzerner Kantonsspital Luzern,Luzern,CH,Spitalstrasse,,,5000.0,26262.0,3206.0,9294.0,10500.0,65.0,54327.0,hco,abbvie
-MCI Suisse SA,Satigny,CH,Rue Du Pré-Bouvier 9,,,,,,,300.0,,300.0,hco,abbvie
-Medical Center im Waldhotel,Bürgenstock,CH,Bürgenstock 30,,,7400.0,,,,,,7400.0,hco,abbvie
-Mediplaza AG,Uster,CH,Oberlandstrasse 100,,,,,,,400.0,,400.0,hco,abbvie
-Neurozentrum Oberaargau,Langenthal,CH,St. Urbanstrasse 22,,,,3704.0,,,,,3704.0,hco,abbvie
-Onkologiepflege Schweiz,Kleinandelfingen,CH,Hirstigstrasse 13,,,,6000.0,,,,,6000.0,hco,abbvie
-Onkozentrum Hirslanden,Zürich,CH,Witellikerstrasse 40,,,,,,,6475.0,90.0,6565.0,hco,abbvie
-op-management.ch,Luzern,CH,Schweizerische Fachgesellschaft für OP-Management,,,,1450.0,,,,,1450.0,hco,abbvie
-Pallas Kliniken AG,Olten,CH,Louis-Giroud-Strasse 20/26,,,7540.0,,,,,,7540.0,hco,abbvie
-Pierre Michetti Academic,Cully,CH,Chemin Des Colombaires 16,,,,,,,1400.0,,1400.0,hco,abbvie
-Praxis Dr. Burckhardt/Dr. Linder,Bern,CH,Mühledorfstrasse 1,,,,,576.0,419.0,,,995.0,hco,abbvie
-PreS Congress - Paediatric Rheumatology European Society,Satigny,CH,Rue Du Pré-Bouvier 9,,,,173746.0,,,,,173746.0,hco,abbvie
-Rheuma Schweiz,Zürich,CH,Aargauerstrasse 250,,,,50000.0,,,,,50000.0,hco,abbvie
+Gemeinschaftspraxis,Zürich,CH,Toblerstrasse 51,,,,,,,250.0,,250.0,hco,abbvie
+GEND SA,Genève,CH,Rue Pierre-Fatio 15,,,,,2144.0,,,,2144.0,hco,abbvie
+Groupe Rhumatologues Vaudois GRV,Lausanne,CH,Avenue De La Gare 10,,,,1000.0,,,,,1000.0,hco,abbvie
+GSMN Suisse SA - Privatklinik B.,Zürich,CH,Toblerstrasse 51,,,,5000.0,,,,,5000.0,hco,abbvie
+Hautpraxis Dr. med. Peter Schill,Liestal,CH,Mühlegasse 3,,,,,,,1000.0,,1000.0,hco,abbvie
+Hepatitis Schweiz,Zürich,CH,Schützengasse 31,,,,155000.0,,,,,155000.0,hco,abbvie
+HFR Fribourg-Hôpital Cantonal,Fribourg,CH,Chemin Des Pensionnats 2,,,,3500.0,576.0,784.0,875.0,,5735.0,hco,abbvie
+Hirslanden Klinik Beau-Site,Bern,CH,Schänzlihalde 11,,,,,36.0,517.0,,,553.0,hco,abbvie
+"HNHCP, Haematology Nurses & Healthcare Professionals Group",Winterthur,CH,Winterthur-Nord,,,,3000.0,,,,,3000.0,hco,abbvie
+Hôpital Beaumont(CHUV),Lausanne,CH,Rue Du Bugnon 21,,,,,356.0,704.0,,,1060.0,hco,abbvie
+Hôpital de Sierre (HVS - CHVR),Sierre,CH,Rue Saint-Charles 14,,,,,741.0,1670.0,,,2411.0,hco,abbvie
+Hôpital du Jura Bernois SA,Moutier,CH,Rue De Beausite 49,,,,2500.0,,,,,2500.0,hco,abbvie
+Hôpital du Valais - Sion,Sion,CH,Avenue Grand-Champsec 80,,,,3000.0,,,696.0,,3696.0,hco,abbvie
+Hôpital neuchâtelois Pourtalès,Neuchâtel,CH,Rue De La Maladière 45,,,,1000.0,308.0,797.0,,,2105.0,hco,abbvie
+Hôpital Ophtalmique Jules Gonin,Lausanne,CH,Avenue De France 15,,,,,,,1400.0,,1400.0,hco,abbvie
+Hôpitaux Universitaires Genève,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,35800.0,3636.0,6109.0,11150.0,2221.0,58916.0,hco,abbvie
+INHSU,Zürich,CH,Schützengasse 31,,,314700.0,133475.0,,,,,448175.0,hco,abbvie
+Innere Medizin,Zürich,CH,Schützengasse 31,,,4000.0,,,,,,4000.0,hco,abbvie
+Insel Gruppe AG,Bern,CH,Freiburgstrasse 18,,,,60500.0,1460.0,9135.0,30525.0,478.0,102098.0,hco,abbvie
+Institut für Pathologie,Bern,CH,Murtenstrasse 11,,,,3000.0,,,250.0,,3250.0,hco,abbvie
+Interdigest,Zürich,CH,Toblerstrasse 51,,,,1000.0,,,,,1000.0,hco,abbvie
+IOR,Bellinzona,CH,Via Vincenzo Vela 6,,,,118470.0,,,,247.0,118717.0,hco,abbvie
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,,5700.0,6247.0,15368.0,11725.0,,39040.0,hco,abbvie
+Kantonsspital Baden AG,Baden,CH,Im Ergel 1,,,,2500.0,,,,,2500.0,hco,abbvie
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,,380.0,442.0,,,822.0,hco,abbvie
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,,,,,1000.0,,1000.0,hco,abbvie
+Kantonsspital Graubünden,Chur,CH,Loëstrasse 170,,,,,1134.0,9544.0,,,10678.0,hco,abbvie
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,10000.0,43200.0,1174.0,1443.0,7900.0,,63717.0,hco,abbvie
+Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,,,,9000.0,349.0,1336.0,,,10685.0,hco,abbvie
+Kinderspital Luzern,Luzern,CH,Spitalstrasse,,,,,560.0,606.0,,,1166.0,hco,abbvie
+Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,,3000.0,,1329.0,,,4329.0,hco,abbvie
+Klinik Bethesda,Tschugg,CH,Oberdorf,,,,3000.0,,,,,3000.0,hco,abbvie
+Klinik für Kinderheilkunde,Bern,CH,Freiburgstrasse 18,,,,1000.0,,,,,1000.0,hco,abbvie
+Klinik Hirslanden AG,Zürich,CH,Witellikerstrasse 40,,,,5000.0,,,,,5000.0,hco,abbvie
+Kliniken Valens,Valens,CH,Taminaplatz 1,,,,2000.0,,,,,2000.0,hco,abbvie
+LH Medical Management GmbH,Liestal,CH,Zv Inland/Postfach 350,,,,5000.0,,,,,5000.0,hco,abbvie
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,,27650.0,4414.0,6067.0,23225.0,179.0,61535.0,hco,abbvie
+Medbase Winterthur Neuwiesen,Winterthur,CH,Gertrudstrasse 1,,,6500.0,,,,,,6500.0,hco,abbvie
+Medical Center im Waldhotel,Bürgenstock,CH,Bürgenstock 30,,,,750.0,,,,,750.0,hco,abbvie
+Mediplaza AG,Uster,CH,Oberlandstrasse 100,,,1500.0,,,,,,1500.0,hco,abbvie
+Neurocentro,Lugano,CH,Via Tesserete 46,,,,4500.0,,,,,4500.0,hco,abbvie
+Onkologiepflege Schweiz,Kleinandelfingen,CH,Hirstigstrasse 13,,,,500.0,,,,,500.0,hco,abbvie
+Onkozentrum Hirslanden,Zürich,CH,Witellikerstrasse 40,,,,,954.0,6266.0,1575.0,,8795.0,hco,abbvie
+Polipraxis Wil AG,Wil SG,CH,Obere Bahnhofstrasse 1,,,,,380.0,748.0,,,1128.0,hco,abbvie
+Praxis Dr. Hasler Loretta AG,Biel/Bienne,CH,Hans-Hugi-Strasse 3,,,,1250.0,,,,,1250.0,hco,abbvie
+Praxis Dr. Schleiffenbaum Boris,Zürich,CH,Bellariastrasse 38,,,,,,,400.0,,400.0,hco,abbvie
+Praxis Dr. Tomi Nordwig,Weinfelden,CH,Marktplatz 3,,,,,900.0,1080.0,,,1980.0,hco,abbvie
+Praxis TUCare AG,Dietikon,CH,Heimstrasse 1,,,,,,,400.0,,400.0,hco,abbvie
+Reha Rheinfelden,Rheinfelden,CH,Salinenstrasse 98,,,,1500.0,,,,,1500.0,hco,abbvie
+Rehaklinik Zihlschlacht,Zihlschlacht,CH,Hauptstrasse 2-4,,,,,,,1375.0,,1375.0,hco,abbvie
+Rheuma Schweiz,Zürich,CH,Aargauerstrasse 250,,,,99700.0,,,,,99700.0,hco,abbvie
 Rheumakränzli Zentralschweiz,Meggen,CH,Mättelistrasse 7,,,,1500.0,,,,,1500.0,hco,abbvie
-RSBJ,Ste-Croix,CH,Rue Des Rosiers 29,,,,500.0,,,,,500.0,hco,abbvie
-S. Grasso Consulting,Lindau,CH,Fischeracherstrasse 17,,,,1500.0,,,,,1500.0,hco,abbvie
+Rheumasearch Foundation,Genève,CH,Rue Du Rhône 57,,,,5000.0,,,,,5000.0,hco,abbvie
+Rundum Onkologie am Bahnhofpark,Sargans,CH,Bahnhofpark 2B,,,,2000.0,,,,,2000.0,hco,abbvie
+S. Grasso Consulting,Lindau,CH,Fischeracherstrasse 17,,,,6500.0,,,,,6500.0,hco,abbvie
 SAFE - ID Swiss Academic Foundation for Education in Infectious Diseases,Bern,CH,Friedbühlstrasse 51,,,,20000.0,,,,,20000.0,hco,abbvie
-SAKK Koordinationszentrum,Bern,CH,Effingerstrasse 33,,,,27800.0,,,,,27800.0,hco,abbvie
-SAMMSU Swiss Association for the medical Management in Substance Users,Lugano,CH,c/o Dr. Alberto Moriggia,,,,20000.0,,,5000.0,,25000.0,hco,abbvie
-SASL,Zürich,CH,Toblerstrasse 51,,,,8550.0,,,,,8550.0,hco,abbvie
-Schweizerische Arbeitsgruppe für Kolo-Rekto-Proktologie,Lausanne,CH,Rue Du Bugnon 46,,,,1800.0,,,,,1800.0,hco,abbvie
-Schweizerische Gesellschaft für Intensivmedizin,Basel,CH,Münsterberg 1,,,,7500.0,,,,,7500.0,hco,abbvie
-Schweizerische Gesellschaft für Viszeralchirurgie SGVC  - SSCV,Aarau,CH,Bahnhofstrasse 55,,,,9371.0,,,,,9371.0,hco,abbvie
-Schweizerisches Tropeninstitut,Basel,CH,Socinstrasse 57,,,,1013.0,,,,,1013.0,hco,abbvie
-SCQM Foundation,Zürich,CH,Aargauerstrasse 250,,,,46537.0,,,,,46537.0,hco,abbvie
-Servizio ticinese di cura dell’alcolismo,Lugano,CH,Via Trevano 6,,,2000.0,,,,,,2000.0,hco,abbvie
-SGAIM,Bern,CH,Monbijoustrasse 43,,,,1700.0,,,,,1700.0,hco,abbvie
-SGAR - SSAR Schweizerische Gesellschaft für Anästhesiologie und Reanimation,Bern,CH,Rabbentalstrasse 83,,,,10040.0,,,,,10040.0,hco,abbvie
-SGDV,Bern,CH,Dalmazirain 11,,,,127500.0,,,,,127500.0,hco,abbvie
-SGG - SSG,Bern,CH,Wattenwylweg 21,,,,39079.0,,,,,39079.0,hco,abbvie
-SGKA/SSAP - Schweizerische Gesellschaft für Kinderanästhesie,Bellinzona,CH,Via Ospedale 12,,,,5000.0,,,,,5000.0,hco,abbvie
-SGN-SSN Schweizerische Gesellschaft für Nephrologie,Worb,CH,Postfach 567,,,,5000.0,,,,,5000.0,hco,abbvie
-"SGPGHE - Schweizerische Gesellschaft für Pädiatrische Gastroenterologie,Hepatologie und Ernährung",St. Gallen,CH,Claudiusstrasse 6,,,,1000.0,,,,,1000.0,hco,abbvie
-SGR-SSR,Zürich,CH,Josefstrasse 92,,,,49242.0,,,,,49242.0,hco,abbvie
-SGSH,St. Gallen,CH,Rorschacher Strasse 95,,,,2025.0,,,,,2025.0,hco,abbvie
-SGTP,Basel,CH,Socinstrasse 57,,,,1013.0,,,,,1013.0,hco,abbvie
-SHSF - Verein,Zürich,CH,Gloriastrasse 31,,,,8000.0,,,,,8000.0,hco,abbvie
-Society for Oll in Europe,Lausanne,CH,Centre For Ophtalmic Specialized Carrière,,,,2000.0,,,,,2000.0,hco,abbvie
-Solothurner Spitäler AG soH,Solothurn,CH,Schöngrünstrasse 42,,,,1000.0,,,,,1000.0,hco,abbvie
+SAKK Koordinationszentrum,Bern,CH,Effingerstrasse 33,,,,6000.0,,,,,6000.0,hco,abbvie
+Santenext,Zürich,CH,Pfingstweidstrasse 16,,,,9285.0,,,,,9285.0,hco,abbvie
+SASL,Zürich,CH,Toblerstrasse 51,,,,15750.0,,,,,15750.0,hco,abbvie
+Schweizerische Gesellschaft für Viszeralchirurgie SGVC  - SSCV,Aarau,CH,Bahnhofstrasse 55,,,,8800.0,,,,,8800.0,hco,abbvie
+SCQM Foundation,Zürich,CH,Aargauerstrasse 250,,,50000.0,8000.0,,,46100.0,,104100.0,hco,abbvie
+SFCNS,Basel,CH,Münsterberg 1,,,,8760.0,,,,,8760.0,hco,abbvie
+SGAIM,Bern,CH,Monbijoustrasse 43,,,,6000.0,,,,,6000.0,hco,abbvie
+SGAR - SSAR Schweizerische Gesellschaft für Anästhesiologie undReanimation,Bern,CH,Rabbentalstrasse 83,,,,7520.0,,,,,7520.0,hco,abbvie
+SGDV,Bern,CH,Dalmazirain 11,,,,124000.0,,,,,124000.0,hco,abbvie
+SGG - SSG,Bern,CH,Wattenwylweg 21,,,,37950.0,,,,,37950.0,hco,abbvie
+SGKA/SSAP - Schweizerische Gesellschaft für Kinderanästhesie,Bellinzona,CH,Via Ospedale 12,,,,3000.0,,,,,3000.0,hco,abbvie
+"SGPGHE - Schweizerische Gesellschaft für Pädiatrische Gastroenterologie,Hepatologie und Ernährung",St. Gallen,CH,Claudiusstrasse 6,,,,500.0,,,,,500.0,hco,abbvie
+SGR-SSR,Zürich,CH,Josefstrasse 92,,,55000.0,44896.0,,,,,99896.0,hco,abbvie
+SGU-SSU,Montreux,CH,Avenue Des Planches 15,,,,5300.0,,,,,5300.0,hco,abbvie
+SGV/SSMC,Winterthur,CH,Rudolf-Diesel-Strasse 5,,,,23075.0,,,,,23075.0,hco,abbvie
+SHSF - Verein,Zürich,CH,Gloriastrasse 31,,,,60000.0,,,,,60000.0,hco,abbvie
+Solothurner Spitäler AG soH,Solothurn,CH,Schöngrünstrasse 42,,,,,,,1500.0,,1500.0,hco,abbvie
 Sonar Gruppe,Bern,CH,Bahnhofplatz 1,,,20000.0,,,,,,20000.0,hco,abbvie
-Spital Lachen AG,Lachen SZ,CH,Oberdorfstrasse 41,,,2000.0,,,,500.0,,2500.0,hco,abbvie
-Spital Wil,Wil SG,CH,Fürstenlandstrasse 32,,,,1000.0,,,,,1000.0,hco,abbvie
-Spital-Pharmazie,Basel UniSpital,CH,Spitalstrasse 26,,,,,488.0,884.0,,,1372.0,hco,abbvie
-Spitalzentrum Biel AG,Biel/Bienne,CH,Vogelsang 84,,,,,448.0,1216.0,,,1664.0,hco,abbvie
-SSH SGH SSE,Zürich,CH,Bahnhofplatz 4,,,,3000.0,,,,,3000.0,hco,abbvie
-SSI Schweizerische Gesellschaft für Infektiologie,Bern,CH,Friedbühlstrasse 51,,,,6075.0,,,,,6075.0,hco,abbvie
-St.Gallen Oncology Conferences,St. Gallen,CH,Rorschacher Strasse 150,,,,3700.0,,,,,3700.0,hco,abbvie
-Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,,1000.0,864.0,929.0,,,2793.0,hco,abbvie
-STDV - Società Ticinese di Dermatologia e Venerologia,Lugano,CH,Via Carlo Frasca 10,,,,1000.0,,,,,1000.0,hco,abbvie
-Stiftung für wissenschaftliche Forschung Triemli,Zürich,CH,Birmensdorferstrasse 497,,,,15500.0,,,,,15500.0,hco,abbvie
-Stiftung Bruno Bloch,Zürich,CH,Gloriastrasse 31,,,,7760.0,,,,,7760.0,hco,abbvie
+Spital Dornach,Dornach,CH,Spitalweg 11,,,,,308.0,797.0,,,1105.0,hco,abbvie
+Spital Lachen AG,Lachen SZ,CH,Oberdorfstrasse 41,,,4000.0,,,,,,4000.0,hco,abbvie
+Spital Thun - STS AG,Thun,CH,Krankenhausstrasse 12,,,,,1735.0,2888.0,,,4623.0,hco,abbvie
+Spital Thurgau AG,Frauenfeld,CH,Waldeggstrasse 8A,,,,,,,500.0,,500.0,hco,abbvie
+Spital Wil,Wil SG,CH,Fürstenlandstrasse 32,,,,,380.0,707.0,,,1087.0,hco,abbvie
+Spitalregion Fürstenland Toggenburg,Wil SG,CH,Fürstenlandstrasse 32,,,,2200.0,,,,,2200.0,hco,abbvie
+Spitalregion Rheintal Werdenberg,Rebstein,CH,Alte Landstrasse 106,,,,2000.0,,,,,2000.0,hco,abbvie
+Spitalzentrum Biel AG,Biel/Bienne,CH,Vogelsang 84,,,,3000.0,,,,,3000.0,hco,abbvie
+SSH SGH SSE / Schweizerische Gesellschaft für Hämatologie,Basel,CH,Reinacherstrasse 131,,,,3000.0,,,,,3000.0,hco,abbvie
+St. Claraspital AG,Basel,CH,Kleinriehenstrasse 30,,,,2500.0,,,,,2500.0,hco,abbvie
+St.Gallen Oncology Conferences,St. Gallen,CH,Rorschacher Strasse 150,,,,4900.0,,,,,4900.0,hco,abbvie
+STÄDTISCHE GESUNDHEITSDIENSTE AMBULATORIUM CROSSLINE/LIFELINE,Zürich,CH,Badenerstrasse 435,,,,,,,1000.0,,1000.0,hco,abbvie
+Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,,,1569.0,2857.0,,,4426.0,hco,abbvie
+Stift für wiss.Forschung Triemli,Zürich,CH,Birmensdorferstrasse 497,,,,15000.0,,,3050.0,,18050.0,hco,abbvie
+Stiftung Bruno Bloch,Zürich,CH,Gloriastrasse 31,,,,9840.0,,,,,9840.0,hco,abbvie
 Stiftung für die Forschung in der Gastroenterologie und Hepatologie,Zürich,CH,Rämistrasse 100,,,,3000.0,,,,,3000.0,hco,abbvie
-Stiftung für Forschung in Parkinson und Bewegungsstörungen,Luzern,CH,"c/o Neurologische Praxis Luzern - Hirslanden Klinik St. Anna, Lützelmatt 3",,,,7500.0,,,,,7500.0,hco,abbvie
-Stiftung für Patientensicherheit in der Anästhesie,Bern,CH,Rabbentalstrasse 83,,,,2500.0,,,,,2500.0,hco,abbvie
-Stiftung Kantonsspital Graubünden,Chur,CH,Loëstrasse 170,,,,1500.0,,,1200.0,,2700.0,hco,abbvie
-Stiftung Prostatakrebsforschung,Aarau,CH,Tellstrasse 25,,,,15000.0,,,,,15000.0,hco,abbvie
-Strategiekommission der Urologie Arena,Basel,CH,vertreten durch Prof. Dr. med. Stephen Wyler,,,,5000.0,,,,,5000.0,hco,abbvie
-SVA Sektion Bern,Hondrich,CH,Schweiz. Verband der med. Praxis-Assistentinnen,,,,600.0,,,,,600.0,hco,abbvie
-SWISS EYE INSTITUTE AG,Rotkreuz,CH,Luzernerstrasse 1,,,,,,,2000.0,,2000.0,hco,abbvie
-Swiss Movement Disorders Society,Lugano,CH,Via Tesserete 46,,,,3000.0,,,,,3000.0,hco,abbvie
-Swiss Society of Neonatology,Cheseaux-Lausanne,CH,Rue Du Pâquis 1,,,,3330.0,,,,,3330.0,hco,abbvie
-SwissPedNet,Bern,CH,Effingerstrasse 35,,,3000.0,,,,,,3000.0,hco,abbvie
-Trägerverein Swiss Oncology & Hematology Congress,Zürich,CH,Zähringerstrasse 50,,,,45900.0,,,,,45900.0,hco,abbvie
-Universität Basel,Basel,CH,Petersplatz 1,,,,6000.0,,,,,6000.0,hco,abbvie
-Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,,32000.0,,,3675.0,,35675.0,hco,abbvie
-Universitäts-Kinderspital Basel,Basel,CH,Spitalstrasse 33,,,,1000.0,,,1250.0,,2250.0,hco,abbvie
-Universitätsspital Basel,Basel UniSpital,CH,Spitalstrasse 21,,,10300.0,22500.0,340.0,392.0,24450.0,60.0,58042.0,hco,abbvie
-UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,,,60000.0,38260.0,764.0,6966.0,7625.0,,113615.0,hco,abbvie
-Urologie Rheinfelden,Rheinfelden,CH,Kaiserstrasse 7,,,,1000.0,,,,,1000.0,hco,abbvie
-Verein Lunge Zurich,Zurich,CH,Pfingstweidstrasse 10,,,,5570.0,,,,,5570.0,hco,abbvie
-VGZ Verein Gastroenterologie Zürich,Zürich,CH,Seestrasse 60,,,,3500.0,,,,,3500.0,hco,abbvie
-Zentralschweizer Dermatologen,Luzern,CH,Löwengraben 14,,,,1000.0,,,,,1000.0,hco,abbvie
-Zürcher Dermatologen Gesellsch.,Uster,CH,Oberlandstrasse 100,,,,1500.0,,,,,1500.0,hco,abbvie
+Stiftung für Forschung in Parkinson und Bewegungsstörungen,Bern,CH,Freiburgstrasse 18,,,,7500.0,,,,,7500.0,hco,abbvie
+Stiftung Kantonsspital Graubünden,Chur,CH,Loëstrasse 170,,,,4500.0,,,2000.0,,6500.0,hco,abbvie
+Strategiekommission der Urologie Arena,Basel,CH,vertreten durch Prof. Dr. med. Stephen Wyler,,,,3000.0,,,,,3000.0,hco,abbvie
+Swiss Association of Obstetric Anästhesia SAOA,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,1500.0,,,,,1500.0,hco,abbvie
+Swiss Foundation for Anesthesia Research,Zürich,CH,Drusbergstrasse 83,,,15000.0,,,,,,15000.0,hco,abbvie
+Swiss Movement Disorders Society,Lugano,CH,Via Tesserete 46,,,,4000.0,,,,,4000.0,hco,abbvie
+Swiss Tumor Institute,Zürich,CH,Seestrasse 259,,,,4100.0,,,,,4100.0,hco,abbvie
+Trägerverein Swiss Oncology & Hematology Congress,Zürich,CH,Zähringerstrasse 50,,,,,,,,45000.0,45000.0,hco,abbvie
+Universität Zürich (UZH),Zürich,CH,Rämistrasse 71,,,12000.0,12000.0,,5175.0,6500.0,74.0,35749.0,hco,abbvie
+Universitätsspital Basel,Basel UniSpital,CH,Spitalstrasse 21,,,,29950.0,582.0,1243.0,24000.0,1769.0,57544.0,hco,abbvie
+UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,,,,48500.0,1593.0,9423.0,3450.0,,62966.0,hco,abbvie
+Uroviva AG,Pfäffikon SZ,CH,Churerstrasse 82,,,,,891.0,1081.0,,,1972.0,hco,abbvie
+VBA Vereinigung Bernischer Anästhesiologen,Bern,CH,c/o Dr. med Rafael Knüsel,,,,1000.0,,,,,1000.0,hco,abbvie
+Verein Kantonal Bernischer Dermatologen (VKBD),Bern,CH,Schanzenstrasse 1,,,,1000.0,,,,,1000.0,hco,abbvie

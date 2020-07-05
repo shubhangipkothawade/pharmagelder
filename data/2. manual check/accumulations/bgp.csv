@@ -1,6 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
-hcp_amount,,,,,,,0.0,bgp
-hco_amount,29900.0,,,,1750.0,,31650.0,bgp
-hcp_count,,,,,,,0.0,bgp
+hcp_amount,,,,,12988.0,,12988.0,bgp
+hco_amount,17500.0,,,,1000.0,,18500.0,bgp
+hcp_count,,,,,3.0,,3.0,bgp
 hco_count,2.0,,,,1.0,,3.0,bgp
 rnd,,,,,,,0.0,bgp

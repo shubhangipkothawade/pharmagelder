@@ -1,105 +1,87 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-Abolghassem Sepehrnia,Luzern,CH,St. Anna-Strasse 32,,,,,0.0,0.0,3000.0,868.0,3868.0,hcp,baxter
-Amale Marzouk Aboutarik,Moutier,CH,Rue Beausite 49,,,,,0.0,101.85,0.0,0.0,101.85,hcp,baxter
-Anne Wolf,Frauenfeld,CH,Waldeggstrasse 8A,,,,,0.0,367.0,0.0,0.0,367.0,hcp,baxter
-Ann-Kathrin Schwarzkopf,Bern,CH,Schänzlistrasse 33,,,,,0.0,599.5,0.0,0.0,599.5,hcp,baxter
-Astrid Pechtel,Altstätten,CH,Rorschacherstrasse 14a,,,,,0.0,691.26,0.0,0.0,691.26,hcp,baxter
-Barbara Luder,Solothurn,CH,Schöngrünstrasse 42,,,,,0.0,192.24,0.0,0.0,192.24,hcp,baxter
-Beat Gloor,Bern,CH,Freiburgstrasse 8,,,,,0.0,0.0,3000.0,926.06,3926.06,hcp,baxter
-Benjamin Wiesler,Liestal,CH,Rheinstrasse 26,,,,,0.0,737.42,0.0,0.0,737.42,hcp,baxter
-Celine Tarton,Genève,CH,Avenue de Champel 42,,,,,0.0,101.85,0.0,0.0,101.85,hcp,baxter
-Christine Brutscher,Frauenfeld,CH,"Waldeggstrasse 8A,",,,,,0.0,343.0,0.0,0.0,343.0,hcp,baxter
-Claire Tournaille,Genève,CH,Avenue de Champel 42,,,,,0.0,101.85,0.0,0.0,101.85,hcp,baxter
-Danielle Müller,St. Gallen,CH,Schuppisstrasse 10,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Davide Giunzioni,Lugano,CH,Via Tesserete 46,,,,,0.0,568.84,0.0,0.0,568.84,hcp,baxter
-Denise Batbayar,Frauenfeld,CH,Pfaffenholzstrasse 4,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Diane Poster,Solothurn,CH,Schöngrünstrasse 42,,,,,0.0,615.54,0.0,0.0,615.54,hcp,baxter
-Donato D'Alonzo,Aarau,CH,Tellstrasse 25,,,,,0.0,680.77,0.0,0.0,680.77,hcp,baxter
-Elisabeth Kellner,Biel,CH,Vogelsang 84,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Elza Memeti,Luzern,CH,Spitalstrasse,,,,,0.0,521.4,0.0,0.0,521.4,hcp,baxter
-Erika Bornschein,Muri,CH,Spitalstrasse 144,,,,,0.0,215.26,0.0,0.0,215.26,hcp,baxter
-Fanny Portenier,Porrentruy,CH,Chemin de l'Hôpital,,,,,0.0,101.85,0.0,0.0,101.85,hcp,baxter
-Felicitas Barnert,Uznach,CH,Gasterstrasse 25,,,,,0.0,672.5,0.0,0.0,672.5,hcp,baxter
-Franziska Vuille,Solothurn,CH,Schöngrünstrasse 42,,,,,0.0,215.26,0.0,0.0,215.26,hcp,baxter
-Gabriela Jakob,Basel,CH,Postfach,,,,,0.0,192.24,0.0,0.0,192.24,hcp,baxter
-Gaby Fuchs,Düsseldorf,CH,Moorenstrasse 5,,,,,0.0,0.0,600.0,0.0,600.0,hcp,baxter
-Gisela Maria Hillmann,Bern,CH,Schänzlihalde 11,,,,,0.0,192.24,0.0,0.0,192.24,hcp,baxter
-Hatem Ksouri,Fribourg,CH,Case Postale,,,,,0.0,0.0,6026.9,692.0,6718.9,hcp,baxter
-Heidi Rio,Bern,CH,Schänzlihalde 11,,,,,0.0,192.24,0.0,0.0,192.24,hcp,baxter
-Henriette Jonas,Lachen,CH,Oberdorfstrasse 41,,,,,0.0,831.63,0.0,0.0,831.63,hcp,baxter
-Hermann Saxenhofer,Bern,CH,Bremgartenstrasse 130,,,,,0.0,611.83,0.0,0.0,611.83,hcp,baxter
-Jorge Norden,Zürich,CH,Steinwiesstrasse 75,,,,,0.0,215.26,0.0,0.0,215.26,hcp,baxter
-Karin Honnegger,Luzern,CH,Kantonsspital 41,,,,,0.0,0.0,500.0,0.0,500.0,hcp,baxter
-Karin Weber,Basel,CH,Petersgraben 4,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Karin Somaini,Solothurn,CH,Schöngrünstrasse 42,,,,,0.0,215.26,0.0,0.0,215.26,hcp,baxter
-Karine Vattaut,Moutier,CH,Rue Beausite 49,,,,,0.0,101.85,0.0,0.0,101.85,hcp,baxter
-Kathrin Roth-Bayer,Aarau,CH,Tellstrasse 25,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Kristin Wanke,Luzern,CH,Spitalstrasse 16,,,,,0.0,0.0,500.0,0.0,500.0,hcp,baxter
-Lealitita Wach,Moutier,CH,Rue Beausite 49,,,,,0.0,101.85,0.0,0.0,101.85,hcp,baxter
-Liane Thenert-Flachs,Muri,CH,Spitalstrasse 144,,,,,0.0,215.26,0.0,0.0,215.26,hcp,baxter
-Lucie Pascalis,Porrentruy,CH,Route de l'Hôpital 9,,,,,0.0,98.0,0.0,0.0,98.0,hcp,baxter
-Maggie Reist,Bern,CH,Schänzlistrasse 39,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Maja Kantuzer,Baden,CH,Im Ergel 1,,,,,0.0,0.0,150.0,0.0,150.0,hcp,baxter
-Marianne Sägesser,Lachen SZ,CH,Oberdorfstrasse 41,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Marie-Caroline Maillet Lugrin,Vevey,CH,Boulevard Paderewski 3,,,,,0.0,0.0,1000.0,0.0,1000.0,hcp,baxter
-Marion Ruillat,Genève,CH,Avenue de Champel 42,,,,,0.0,101.85,0.0,0.0,101.85,hcp,baxter
-Martin Sachs,Aargau,CH,Schänisweg,,,,,0.0,536.52,0.0,0.0,536.52,hcp,baxter
-Martin Grimm,Schaffhausen,CH,Geissbergstrasse 81,,,,,0.0,0.0,500.0,0.0,500.0,hcp,baxter
-Mathias Worni,Bern,CH,Freiburgstrasse 4,,,,,0.0,800.0,0.0,0.0,800.0,hcp,baxter
-Michael Mayr,Basel,CH,Petersgrabe 4,,,,,0.0,0.0,1450.0,0.0,1450.0,hcp,baxter
-Milena Gruber,Bern,CH,Schänzlihalde 11,,,,,0.0,215.26,0.0,0.0,215.26,hcp,baxter
-Mirjam Böhlen,Burgdorf,CH,Oberburgstrasse 54,,,,,0.0,598.38,0.0,0.0,598.38,hcp,baxter
-Mirjam Rathgeb,Solothurn,CH,Schöngrünstrasse 42,,,,,0.0,192.24,0.0,0.0,192.24,hcp,baxter
-Nina Gurtner,Burgdorf,CH,Oberburgstrasse 54,,,,,0.0,565.98,0.0,0.0,565.98,hcp,baxter
-Peter Studer,Bern,CH,Freiburgstrasse 4,,,,,0.0,792.77,0.0,0.0,792.77,hcp,baxter
-Petra Jucker,Lachen SZ,CH,Oberdorfstrasse 41,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Rahel-Sarah Oswald,Zürich,CH,Birmensdorferstrasse 497,,,,,0.0,215.26,0.0,0.0,215.26,hcp,baxter
-Reinhard Wanninger,Braunschweig,CH,Salzdahlumer Strasse 90,,,,,0.0,0.0,1500.0,0.0,1500.0,hcp,baxter
-Ruben Gregorio,Lugano,CH,Via Tesserete 46,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Ruth Aeschbacher,Frauenfeld,CH,Pfaffenholzstrasse 4,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Sabina Marcelloni,Bern,CH,Schänzlihalde 11,,,,,0.0,215.26,0.0,0.0,215.26,hcp,baxter
-Said Bellal,Genève,CH,Avenue de Champel 42,,,,,0.0,101.85,0.0,0.0,101.85,hcp,baxter
-Sarah Valli,Porrentruy,CH,Route de l'Hôpital 9,,,,,0.0,97.0,0.0,0.0,97.0,hcp,baxter
-Sebastian Soppe,Baden,CH,Im Ergel 1,,,,,0.0,235.27,0.0,0.0,235.27,hcp,baxter
-Silke Lauschke,Frauenfeld,CH,Waldeggstrasse 8A,,,,,0.0,328.8,0.0,0.0,328.8,hcp,baxter
-Silvia Kuhner-Kahnau,Liestal,CH,Rheinstrasse 26,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Sophie Ligneau,Genève,CH,Avenue de Champel 42,,,,,0.0,101.85,0.0,0.0,101.85,hcp,baxter
-Stefan Guggemos,Basel,CH,Postfach,,,,,0.0,192.24,0.0,0.0,192.24,hcp,baxter
-Stefanie Diestel,Zürich,CH,Rämistrasse 100,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Stefanie Henkensmeier,Zürich,CH,Witellikerstrasse 40,,,,,0.0,215.26,0.0,0.0,215.26,hcp,baxter
-Stefanie Honegger-Bloch,Burgdorf,CH,Oberburgstrasse 54,,,,,0.0,401.5,0.0,0.0,401.5,hcp,baxter
-Stefanie Seiser,Baden,CH,Im Ergel 1,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Stefanie Steiner,Uznach,CH,Gasterstrasse 25,,,,,0.0,916.5,0.0,0.0,916.5,hcp,baxter
-Stephan Segerer,Aarau,CH,Tellstrasse 25,,,,,0.0,0.0,1500.0,687.63,2187.63,hcp,baxter
-Tonnie Karelse,Zürich,CH,Rämistrasse 100,,,,,0.0,75.0,0.0,0.0,75.0,hcp,baxter
-Associazione medici anestesisti TI,Lugano,CH,Via Tesserete 48,,,2500.0,0.0,0.0,0.0,0.0,0.0,2500.0,hco,baxter
-CHUV - Centre hospitalier universitaire vaudois,Lausanne,CH,Rue du Bugnon 46,,,7000.0,0.0,0.0,1976.75,0.0,0.0,8976.75,hco,baxter
-HFR Fribourg - Hôpital cantonal,Fribourg,CH,Chemin des Pensionnats 2,,,7000.0,0.0,0.0,0.0,0.0,0.0,7000.0,hco,baxter
-Hôpital de Sion,Sion,CH,case postale 736,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,baxter
-Hôpital Riviera Chablais,Vevey,CH,Boulevard Paderewski 3,,,500.0,0.0,0.0,0.0,0.0,0.0,500.0,hco,baxter
-Hôpitaux Universitaires de Genève,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,5500.0,0.0,0.0,1000.0,0.0,0.0,6500.0,hco,baxter
-Hopital du Valais,Sion,CH,Avenue du grand Champsec 80,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,baxter
-HUG - Hôpitaux Universitaires de Genève,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,7000.0,0.0,0.0,5859.9,0.0,0.0,12859.9,hco,baxter
-Hypertension Research Foundation,St. Légier,CH,Derrey le Motty 8,,,11000.0,0.0,0.0,0.0,0.0,0.0,11000.0,hco,baxter
-Inselspital,Bern,CH,Freiburgstrasse 8,,,8000.0,0.0,0.0,1250.0,0.0,0.0,9250.0,hco,baxter
-Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,0.0,0.0,0.0,1400.0,0.0,0.0,1400.0,hco,baxter
-Kantonsspital Luzern,Wolhusen,CH,Spitalstrasse 50,,,2500.0,0.0,0.0,0.0,0.0,0.0,2500.0,hco,baxter
-Kantonsspital Olten,Olten,CH,Baslerstrasse 150,,,750.0,0.0,0.0,0.0,0.0,0.0,750.0,hco,baxter
-Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Str. 97,,,4000.0,0.0,0.0,1599.9,0.0,0.0,5599.9,hco,baxter
-Kantonsspital Winterthur,Winterthur,CH,Postfach 834,,,4000.0,0.0,0.0,0.0,0.0,0.0,4000.0,hco,baxter
-MCI Suisse SA,Satigny-Genève,CH,Rue de Pré - Bouvier 9,,,5000.0,0.0,0.0,0.0,0.0,0.0,5000.0,hco,baxter
-Medinorma GmbH,Rolle,CH,Grand-Rue 34,,,2000.0,0.0,0.0,0.0,0.0,0.0,2000.0,hco,baxter
-Ospedale Regionale di Lugano,Lugano,CH,Via Tesserete 46,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hco,baxter
-Regionalspital Emmental,Burgdorf,CH,Oberburgstrasse 54,,,0.0,0.0,0.0,590.0,0.0,0.0,590.0,hco,baxter
-Schweizerische Gesellschaft für Chirurgie c/o Meister Concept GmbH,Aarau,CH,Bahnhofstrasse 55,,,13300.0,0.0,0.0,0.0,0.0,0.0,13300.0,hco,baxter
-Schweizerische Interessengemeinschaft für Anästhesiepflege (SIGA/FSIA),Sursee,CH,Bahnhofstrasse 7b,,,1200.0,0.0,0.0,0.0,0.0,0.0,1200.0,hco,baxter
-Schweizerischer Berufsverband Dipl. Fachfrauen/-männer Operationstechnik HF,Sursee,CH,Bahnhofstrasse 7b,,,2400.0,0.0,0.0,0.0,0.0,0.0,2400.0,hco,baxter
-SGAIM SSMIG SSGIM,Bern,CH,Monbijoustrasse 43,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hco,baxter
-SIGA/FSIA Interessengemeinschaft,Sursee,CH,Bahnhofstrasse 7b,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,baxter
-Spital Grabs,Grabs,CH,Spitalstrasse 44,,,3471.3,0.0,0.0,0.0,0.0,0.0,3471.3,hco,baxter
-Stiftung Prostatakrebsforschung,Aarau,CH,Postfach 4038,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,baxter
-Swiss Association of Nutrition Industries (SANI),Muri b. Bern,CH,Worbstrasse 52,,,15000.0,0.0,0.0,0.0,0.0,0.0,15000.0,hco,baxter
-Swiss Young Neurosurgeons Society,Bern,CH,Freiburgstrasse 8,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,baxter
-SwissICU Network,Aesch,CH,Brüelweg 33,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hco,baxter
-Universitätsspital Basel,Basel,CH,Petersgraben 4,,,9950.0,0.0,0.0,0.0,0.0,0.0,9950.0,hco,baxter
-Universitättspital Zürich,Zürich,CH,Rämistrasse 100,,,600.0,0.0,0.0,0.0,0.0,0.0,600.0,hco,baxter
+CHUV Centre hospitalier universitaire vaudois,Lausanne,CH,Rue du Bugnon 46,,,21000.0,0.0,0.0,327.78,0.0,272.25,21600.03,hcp,baxter
+EOC Ospedale Regionale di Bellinzona e Valli - San Giovanni Bellinzona,Bellinzona,CH,Via Ospedale 12,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hcp,baxter
+EOC Ospedale Regionale di Lugano - Civico,Lugano,CH,Via Tesserete 46,,,1928.51,543.9,0.0,0.0,0.0,0.0,2472.41,hcp,baxter
+Fondation Nutrition2000Plus,Vevey,CH,Route de Saint-Légier 11,,,2600.0,0.0,0.0,0.0,0.0,0.0,2600.0,hcp,baxter
+Fondation Privée Des Hôpitaux Universitaires De Genève,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,3000.0,0.0,0.0,0.0,0.0,0.0,3000.0,hcp,baxter
+Fondation Reserche en Hypertension,St. Légier,CH,Derrey Le Motty 8,,,10000.0,0.0,0.0,0.0,0.0,0.0,10000.0,hcp,baxter
+Gesellschaft Aargauischer Anästhesieärztinnen Und - Ärzte,Zofingen,CH,Mühlethalstrasse 27,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hcp,baxter
+Gesellschaft für Chirurgie (SGC),Aarau,CH,Bahnhofstrasse 55,,,13500.0,0.0,0.0,0.0,0.0,0.0,13500.0,hcp,baxter
+HFR Fribourg – Hôpital cantonal,Fribourg,CH,Chemin des Pensionnats 2-6,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hcp,baxter
+Hôpital du Valais,Sion,CH,Avenue du Grand-Champsec 86,,,1500.0,500.0,0.0,0.0,0.0,121.5,2121.5,hcp,baxter
+Hôpital Riviera Chablais (HRC) - Permanence médicale du Chablais,Monthey,CH,Route de Morgins 54,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hcp,baxter
+Hôpitaux Universitaires de Genève (HUG),Genève,CH,Rue Gabrielle Perret-Gentil 4,,,3614.21,0.0,0.0,643.16,16483.6,2854.52,23595.49,hcp,baxter
+Ig Nephrologische Krankenpflege Der Deutschen Schweiz,Ittingen,CH,Postfach,,,1500.0,0.0,0.0,0.0,0.0,0.0,1500.0,hcp,baxter
+Ig Nephrologische Krankenpflege Der Deutschen Schweiz,Ittingen,CH,Postfach,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hcp,baxter
+Inselspital Bern,Bern,CH,Freiburgstrasse 18,,,5500.0,0.0,0.0,0.0,0.0,0.0,5500.0,hcp,baxter
+Kantonsspital Aarau,Aarau,CH,Tellstrasse 25,,,500.0,0.0,0.0,0.0,0.0,0.0,500.0,hcp,baxter
+Kantonsspital Baselland,Liestal,CH,Mühlemattstrasse 26,,,0.0,0.0,0.0,583.85,1500.0,0.0,2083.85,hcp,baxter
+Kantonsspital Münsterlingen,Münsterlingen,CH,Spitalcampus 1,,,800.0,0.0,0.0,0.0,0.0,0.0,800.0,hcp,baxter
+Kantonsspital St.Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,1500.0,0.0,0.0,817.98,3000.0,296.47,5614.45,hcp,baxter
+Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,,,4000.0,0.0,0.0,0.0,0.0,0.0,4000.0,hcp,baxter
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,6000.0,0.0,0.0,0.0,0.0,0.0,6000.0,hcp,baxter
+Schweizerische Gesellschaft für Nephrologie,Cheseaux-Sur- Lausanne,CH,Rue Des Paquis 1,,,17160.0,0.0,0.0,0.0,0.0,0.0,17160.0,hcp,baxter
+Schweizerische Gesellschaft für Intensivmedizin SGI,Basel,CH,Münsterberg 1,,,20129.99,0.0,0.0,0.0,0.0,0.0,20129.99,hcp,baxter
+Schweizerische Gesellschaft für spinale Chirurgie,Dübendorf,CH,Auenstrasse 10,,,3500.0,0.0,0.0,0.0,0.0,0.0,3500.0,hcp,baxter
+Schweizerische Interessensgruppe für Operationspfl,Genève,CH,Rue de la Poterie 4,,,2300.0,0.0,0.0,0.0,0.0,0.0,2300.0,hcp,baxter
+Siga/FsiaSchweizerische Interessengemeinschaft Für Anästhesiepflege,Sursee,CH,Bahnhofstrasse 7B,,,2350.0,0.0,0.0,0.0,0.0,0.0,2350.0,hcp,baxter
+Spital Grabs,Grabs,CH,Spitalstrasse 44,,,557.1,0.0,0.0,0.0,0.0,0.0,557.1,hcp,baxter
+Swiss Association Of Nutrition Industries (Sani),Muri bei Bern,CH,Worbstrasse 52,,,15000.0,0.0,0.0,0.0,0.0,0.0,15000.0,hcp,baxter
+Swiss Icu Network,Aesch,CH,Brüelweg 33,,,1000.0,0.0,0.0,0.0,0.0,0.0,1000.0,hcp,baxter
+Universität Kinderspital Zürich,Zürich,CH,Steinwiesstrasse 75,,,1620.01,0.0,0.0,0.0,0.0,0.0,1620.01,hcp,baxter
+"Universitätsklinik für Thoraxchirurgie, Inselspital Bern",Bern,CH,Freiburgstrasse 4,,,250.0,0.0,0.0,0.0,0.0,0.0,250.0,hcp,baxter
+Universitätsspital Basel,Basel,CH,Spitalstrasse 21,,,3819.96,0.0,0.0,0.0,1450.0,0.0,5269.96,hcp,baxter
+Universitätsspital Zürich,Zürich,CH,Frauenklinikstrasse 10,,,20000.0,0.0,0.0,0.0,0.0,0.0,20000.0,hcp,baxter
+University Center Romand Medicine Légale,Lausanne,CH,Ch. de la Vulliette 4,,,500.0,0.0,0.0,0.0,0.0,0.0,500.0,hcp,baxter
+Abolghassem Sepehrnia,Bern,CH,St. Anna-Strasse 32,,,,,,,,33.6,33.6,hco,baxter
+Albert Faasse,Bern,CH,Schänzlihalde 11,,,,,,179.16,,,179.16,hco,baxter
+Andre Patrick Gehrz,Bern,CH,Oberburgstrasse 54,,,,,,,,163.89,163.89,hco,baxter
+Andrea Barbara Haldi-Hofer,Burgdorf,CH,Oberburgstrasse 54,,,,,,600.64,,,600.64,hco,baxter
+Andreas Komorowski,Bern,CH,Schänzlihalde 11,,,,,,179.16,,,179.16,hco,baxter
+Andreas Serra,Zürich,CH,Witellikerstrasse 40,,,,,,505.85,,,505.85,hco,baxter
+Anna-Maria Sauer Durand,Aarau,CH,Tellstrasse 25,,,,,,643.16,,,643.16,hco,baxter
+Astrid Pechtl,Bern,CH,Rorschacherstrasse 14A,,,,,,1412.93,,,1412.93,hco,baxter
+Barbara Terrettaz,Bern,CH,Freiburgstrasse 8,,,,,,600.64,,,600.64,hco,baxter
+Bojan Bicanski,Frauenfeld,CH,Pfaffenholzstrasse 4,,,,,,423.95,,,423.95,hco,baxter
+Caroline Feune Heizmann,Delémont,CH,Fbg. des Capucins 30,,,,,,716.5,,,716.5,hco,baxter
+Caroline Lugrin,Vevey,CH,Boulevard Paderewski 3,,,,,,,4212.42,,4212.42,hco,baxter
+Charlotte Margit Klaus-Koch,Bern,CH,Claudiusstrasse 6,,,,,,1563.89,,,1563.89,hco,baxter
+Dirk Bassler,Bern,CH,Hammerstrasse 28,,,,,,,308.15,,308.15,hco,baxter
+Donato D'Alonzo,Bern,CH,Spitalstrasse 21,,,,,,,2420.0,709.27,3129.27,hco,baxter
+Felix Burkhalter,Bern,CH,Mühlenstrasse 26,,,,,,,380.15,,380.15,hco,baxter
+Flavio Vasella,Zürich,CH,Frauenklinikstrasse 10,,,,,,734.36,,,734.36,hco,baxter
+Gabriel Fridolin Hess,Basel,CH,Postfach,,,,,,630.77,,,630.77,hco,baxter
+Gabriele Dumar,Bern,CH,Bremgartenstrasse 117,,,,,,3163.89,,,3163.89,hco,baxter
+Giuseppe Esposito,Zürich,CH,Frauenklinikstrasse 10,,,,,,,1280.0,1423.5,2703.5,hco,baxter
+Gregor Kocher,Bern,CH,Freiburgstrasse 4,,,,,,,500.0,,500.0,hco,baxter
+Hatem Ksouri,Villars-sur-Glâne,CH,Chemin des Pensionnats 2-6,,,,,,,7170.64,,7170.64,hco,baxter
+Jacqueline Lattmann,Aarau,CH,Tellstrasse 25,,,,,,734.31,,,734.31,hco,baxter
+Janine Abu-Isa,Bern,CH,Freiburgstrasse 18,,,,,,,1400.0,842.98,2242.98,hco,baxter
+Jeannine Maria Margstahler,St. Gallen,CH,Claudiusstrasse 6,,,,,,237.0,,,237.0,hco,baxter
+Jeniffer Scotti Gerber,Lugano,CH,Via Tesserete 46,,,,,,443.57,,,443.57,hco,baxter
+Judith-Anna Borter,Bern,CH,Freiburgstrasse 8,,,,,,807.05,,,807.05,hco,baxter
+Julia Velz,Zürich,CH,Frauenklinikstrasse 10,,,,,,814.46,,,814.46,hco,baxter
+Juliet Naim Kahnt,Aarau,CH,Tellstrasse 25,,,,,,235.86,,,235.86,hco,baxter
+Karen Olianti,Onex,CH,Route de Chancy 126,,,,,,103.5,,,103.5,hco,baxter
+Karin Honegger,Luzern,CH,Kantonsspital 41,,,,,,,3000.0,466.87,3466.87,hco,baxter
+Maja Kantuzer,Baden,CH,Im Ergel 1,,,,,,,350.0,33.6,383.6,hco,baxter
+Marianne Tanner,Bern,CH,Bremgartenstrasse 117,,,,,,807.05,,,807.05,hco,baxter
+Marie-Caroline Lugrin,Monthey,CH,Route de Morgins 54,,,,,,,1000.0,423.95,1423.95,hco,baxter
+Marion Celine Amsler,Lausanne,CH,Avenue Louis-Ruchonnet 53,,,,,,163.89,,,163.89,hco,baxter
+Martina Vargova,Zürich,CH,Rämistrasse 100,,,,,,600.64,,,600.64,hco,baxter
+Michael Lorenz,Zürich,CH,Witellikerstrasse 40,,,,,,327.79,,,327.79,hco,baxter
+Michael Mayr,Basel,CH,Petersgraben 4,,,,,,,671.8,498.5,1170.3,hco,baxter
+Michaela Mayregger,Zürich,CH,Steinwiesstrasse 75,,,,,,807.05,,,807.05,hco,baxter
+Monika Wolters,Basel,CH,Petersgraben 4,,,,,,498.5,,,498.5,hco,baxter
+Monique Braissant,Lausanne,CH,Avenue Louis-Ruchonnet 53,,,,,,163.89,,,163.89,hco,baxter
+Petra Jucker,Lachen SZ,CH,Oberdorfstrasse 41,,,,,,,420.0,25.0,445.0,hco,baxter
+Pierre Scheffler,Zürich,CH,Frauenklinikstrasse 10,,,,,,246.82,,,246.82,hco,baxter
+Reto Stocker,Zürich,CH,Witellikerstrasse 40,,,,,,,546.32,79.15,625.47,hco,baxter
+Robert Mechera,Basel,CH,Spitalstrasse 21,,,,,,,500.0,598.87,1098.87,hco,baxter
+Rudolf Wüthrich,Zürich,CH,Rämistrasse 100,,,,,1000.0,,,400.74,1400.74,hco,baxter
+Samuela Di Natale,Baden,CH,Im Ergel 1,,,,,,598.77,,,598.77,hco,baxter
+Silvia Bundi,Zürich,CH,Witellikerstrasse 40,,,,,,483.6,,,483.6,hco,baxter
+Stefan Farese,Solothurn,CH,Schöngrünstrasse 42,,,,,,,2858.43,,2858.43,hco,baxter
+Stefanie Diestel,Zürich,CH,Rämistrasse 100,,,,,,,280.0,,280.0,hco,baxter
+Tamara Strahm,Burgdorf,CH,Oberburgstrasse 54,,,,,,600.64,,,600.64,hco,baxter
+Vesna Cmager,Zürich,CH,Rämistrasse 100,,,,,,600.64,,,600.64,hco,baxter

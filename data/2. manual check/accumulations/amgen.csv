@@ -1,6 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
-hcp_amount,,,14159.92,59718.17,57824.83,29388.78,161091.7,amgen
-hco_amount,,,1691.81,,79940.06,8075.71,89707.58,amgen
-hcp_count,,,31.0,35.0,28.0,11.0,60.0,amgen
-hco_count,0.0,0.0,1.0,0.0,3.0,3.0,3.0,amgen
-rnd,,,,,,,7531619.56,amgen
+hcp_amount,,,9003.76,37182.87,79923.0,28332.83,154442.46,amgen
+hco_amount,,27791.02,,91.0,96218.64,3288.0,127388.66,amgen
+hcp_count,,,18.0,19.0,35.0,12.0,52.0,amgen
+hco_count,0.0,1.0,0.0,1.0,3.0,3.0,4.0,amgen
+rnd,,,,,,,2289611.01,amgen
