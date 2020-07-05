@@ -7,7 +7,7 @@
 	<key>exportCsvFieldSeparator</key>
 	<string>;</string>
 	<key>exportCsvIgnoreTextOutsideTables</key>
-	<integer>0</integer>
+	<true/>
 	<key>exportCsvInsertPageBreakCharacterAsPageSeparator</key>
 	<false/>
 	<key>exportCsvTextEncoding</key>
