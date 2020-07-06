@@ -1,0 +1,6 @@
+type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
+hcp_amount,,,11956.19,33031.48,48872.5,2846.32,96706.49,celgene
+hco_amount,0.0,0.0,0.0,0.0,0.0,0.0,0.0,celgene
+hcp_count,,,22.0,25.0,24.0,6.0,40.0,celgene
+hco_count,0.0,0.0,0.0,0.0,0.0,0.0,0.0,celgene
+rnd,,,,,,,859381.87,celgene
