@@ -1,0 +1,56 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Gideon Sartorius,Olten,CH,FertiSuisse AG,,,,,627.0,694.0,,,1321,hcp,ferring
+Peter Fehr,Zürich,CH,OVA IVF Clinic Zürich AG,,,,,908.0,5142.0,,,6050,hcp,ferring
+Anna Raggi Nüssli,Olten,CH,FertiSuisse AG,,,,,478.0,694.0,,,1172,hcp,ferring
+Michael Häberle,Zürich,CH,Gyn A.R.T. AG,,,,,1026.0,5680.0,,,6706,hcp,ferring
+Alice Andenmatten Brugger,Zürich,CH,Gyn A.R.T. AG,,,,,627.0,487.0,,,1114,hcp,ferring
+Paola Minikus-Bacilieri,Zürich,CH,Gyn A.R.T. AG,,,,,627.0,487.0,,,1114,hcp,ferring
+Cèlia Targa,Lausanne,CH,"CPMA, Rue de la Vigie 5",,,,,478.0,582.0,,,1060,hcp,ferring
+Peter Fehr,Schaffhausen,CH,Säntisstrasse 10a,,,,,,,1300.0,,1300,hcp,ferring
+Gabriele Strini,Collombey,CH,"Maison Santé Chablais, Ch. du Verger 3",,,,,403.0,968.0,,,1370,hcp,ferring
+Jürgen Weiss,Luzern,CH,Wesemlin-Terrasse 19,,,,,,,1800.0,,1800,hcp,ferring
+Patrizia Grazia Bianchi,Genève,CH,Rue Lombard 15,,,,,478.0,542.0,,,1020,hcp,ferring
+Fides Küng Straumann,Zürich,CH,Universitätstrasse 69,,,,,627.0,741.0,,,1368,hcp,ferring
+Michael Jemec,Lugano,CH,Procrea Centro Fertilità Svizzera Italiana SA,,,,,627.0,487.0,,,1114,hcp,ferring
+Marco Buttarelli,Lavena Ponte Tresa VA,CH,Via Panoramica 8,,,,,,,700.0,,700,hcp,ferring
+Stefanie Sturm,Schaffhausen,CH,Stauffacherstrasse 36,,,,,,,1100.0,,1100,hcp,ferring
+Anna Raggi Nüssli,Basel,CH,Rotbergerstrasse 11,,,,,152.0,,,,152,hcp,ferring
+Sophie Restellini,Genève,CH,"HUG, Service gastro-entérologie et hépatologie",,,,1300.0,,,,,1300,hcp,ferring
+Roxane Hessler,Lausanne,CH,Avenue Louis-Ruchonnet 30,,,,1300.0,,,,,1300,hcp,ferring
+Emanuel Burri,Liestal,CH,Kantonsspital Baselland,,,,1300.0,,,,,1300,hcp,ferring
+En Ling Leung Ki,Meyrin,CH,Hôpital de La Tour,,,,1300.0,,,,,1300,hcp,ferring
+Tereza Damoc,La Chaux-de-Fonds,CH,Hôpital neuchâtelois La Chaux-de-Fonds,,,,,403.0,1095.0,,,1498,hcp,ferring
+Gaëlle Ory,Onex,CH,Groupe médical d'Onex,,,,,403.0,1174.0,,,1577,hcp,ferring
+Nariman Jafou,Genève,CH,Rue Adrien Lachenal 12,,,,,478.0,549.0,,,1026,hcp,ferring
+Olivier Bachelard,Nyon,CH,Rue de la Morâche 19,,,,,478.0,482.0,,,960,hcp,ferring
+David Lauffer,Lausanne,CH,Avenue du Mont d'Or 77,,,,,,,,636.0,636,hcp,ferring
+Ruth Stiller,Zürich,CH,Universitätsspital Zürich,,,,,802.0,4039.0,,,4841,hcp,ferring
+UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,,,,6500.0,,,,,6500,hco,ferring
+Insel Gruppe AG,Bern,CH,Freiburgstrasse,,,,15500.0,744.0,11444.0,6688.0,632.0,35008,hco,ferring
+Universitätsspital Basel,Basel,CH,Spitalstrasse 21,,,,4000.0,,,700.0,,4700,hco,ferring
+Schweiz. Gesellschaft für Reproduktionsmedizin,Worb,CH,Postfach 754,,,3700.0,1580.0,,,,,5280,hco,ferring
+gynécologie suisse SGGG,Bern 8,CH,Altenbergstrasse 29,,,,4900.0,,,,,4900,hco,ferring
+Clinique Générale Beaulieu SA,Genève,CH,Chemin de Beau-Soleil 20,,,,1500.0,,,,,1500,hco,ferring
+Schw. Gesellschaft für Urologie SGU,Montreux,CH,"15, avenue des Planches",,,,4800.0,,,,,4800,hco,ferring
+Schweiz. Gesellschaft für Gastroenterologie SGG,Bern,CH,c/o Gabriela Kaufmann,,,,5000.0,,,,,5000,hco,ferring
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,,2800.0,,,,,2800,hco,ferring
+Hôpitaux Universitaires de Genève,Thônex,CH,Ch. du Petit-Bel-Air 2,,,,7800.0,,,,,7800,hco,ferring
+Repronatal Stiftung,Basel,CH,Riedbergstrasse 12,,,25000.0,,,,,,25000,hco,ferring
+CHUV,Lausanne,CH,Rue du Bugnon 21,,,,3821.0,,,,,3821,hco,ferring
+Groupement  des Gynécologues Vaudois,Lausanne 20,CH,Rue de la Vigie 5,,,,2000.0,,,,,2000,hco,ferring
+Universität Zürich,Zürich,CH,Frauenklinikstrasse 10,,,,3000.0,,,,,3000,hco,ferring
+Stiftung Kantonsspital Graubünden,Chur,CH,Loëstrasse 170,,,,1000.0,,,,,1000,hco,ferring
+OVA IVF Clinic Zürich AG,Zürich,CH,Hardturmstrasse 11,,,,15000.0,,,,,15000,hco,ferring
+Luzerner Kantonsspital,Luzern 16,CH,Spitalstrasse,,,,4000.0,,,500.0,,4500,hco,ferring
+Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,,,,2500.0,,,,,2500,hco,ferring
+Bethesda Spital AG,Basel,CH,Gellertstrasse 144,,,,1000.0,,,,,1000,hco,ferring
+Schweizerische Menopausengesellschaft,Lausanne,CH,"c/o PD Dr. med. Dorothea Wunder, CPMA",,,,1580.0,,,,,1580,hco,ferring
+Unité de Médecine de la reproduction du CHUV,Lausanne,CH,Avenue Pierre-Decker 2,,,,3200.0,,,,,3200,hco,ferring
+CPMA,Lausanne,CH,Rue de la Vigie 5,,,,,,,1100.0,,1100,hco,ferring
+Kinderwunschzentrum Baden AG,Baden-Dättwil,CH,Mellingerstrasse 207,,,,1000.0,,,,,1000,hco,ferring
+Verein Gastroenterologie Zürich (VGZ),Zürich,CH,Seestrasse 90,,,,2000.0,,,,,2000,hco,ferring
+Verein zur Förderung,Zürich,CH,Ruetistrasse 41,,,,2000.0,,,,,2000,hco,ferring
+"GRSSGO, c/o meeting.com Sàrl",Cheseaux-sur-Lausanne,CH,Rue des Pâquis 1,,,,7110.0,,,,,7110,hco,ferring
+Schweiz. Gynäkologische Chefärztekonferenz,Aarau,CH,Tellstrasse 25,,,,1500.0,,,,,1500,hco,ferring
+Verein Ärzte Thalwil,Thalwil,CH,Gotthardstrasse 14,,,1500.0,,,,,,1500,hco,ferring
+Lindenhof AG,Bern,CH,Bremgartenstrasse 117,,,,2000.0,,,,,2000,hco,ferring
