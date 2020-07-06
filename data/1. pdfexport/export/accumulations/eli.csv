@@ -1,0 +1,6 @@
+type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
+hcp_amount,,,6344.0,13749.0,56110.0,12718.0,88921.0,eli
+hco_amount,0.0,38859.0,0.0,0.0,1500.0,0.0,40359.0,eli
+hcp_count,,,20.0,24.0,31.0,17.0,,eli
+hco_count,0.0,19.0,0.0,0.0,1.0,0.0,,eli
+rnd,,,,,,,1011470.0,eli
