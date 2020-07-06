@@ -118,7 +118,10 @@ Kantonsspital Zürich
 ```
 
 Possible to change HCP and HCO 
-`df_export = set_type_by_alphabetical_order(df_export, hcp_before_hco = False)`
+`df_export = set_type_by_alphabetical_order(df_export, hcp_before_hco = False)`  
+
+If ordered by lastname and lastname is at position 2:  
+`df_export = set_type_by_alphabetical_order(df_export, lastname_before_name = False)`  
 
 **add_type_by_index**  
 ```python
