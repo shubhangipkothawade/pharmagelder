@@ -1,0 +1,15 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Gerhard Rogler,Zürich,CH,Kapfstrasse 16,8032,,,,0.0,90.0,2700.0,0.0,2790.0,hcp,norgine
+Christian Schweiger,Wollerau,CH,Rebbergstraße 3,8832,,,,0.0,1250.0,3080.0,0.0,4330.0,hcp,norgine
+Centre hospitalier universitaire vaudois (CHUV),Lausanne,CH,Rue du Bugnon 44,1011,,0.0,3500.0,0.0,0.0,0.0,0.0,3500.0,hco,norgine
+"EndoSwiss Congress GmbH, Klinik Hirslanden",Zürich,CH,Witellikerstraße 40,8008,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,norgine
+Felix Platter-Spital,Basel,CH,Brgfelderstrasse 101,4002,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,norgine
+Hôpital Neuchâtelois - La Chaux-De-Fonds,La Chaux-de-Fonds,CH,Rue de Chasseral 20,2300,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,norgine
+Hôpital du Valais,Sion,CH,Avenue Grand-Champsec 86,1951,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,norgine
+"Insel Gruppe AG, Stiftungen und Fonds",Bern,CH,Freiburgstrasse 18,3010,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,norgine
+Kantonsspital Luzern,Luzern,CH,Luzern 16,6000,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,norgine
+Magen Darm Liga Schweiz,Bern,CH,Postfach 7205,3001,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,norgine
+Magendarm Thalwil AG,Thalwil,CH,Zürcherstrasse 61,8800,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,norgine
+Stiftung für die Forschung in der Gastroenterologie und Hepatologie,Zürich,CH,Limmatquai 58,8001,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,norgine
+UniversitätsSpital Zürich (USZ),8091,CH,"Rämistrasse 100, Zürich",,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,norgine
+Verein Interdigest,Zürich,CH,"Privatklinik Bethanien, Toblerstrasse 51",8044,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,norgine
