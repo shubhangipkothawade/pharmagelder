@@ -198,9 +198,16 @@ df_export['name'] = df_export.name.str.strip()
 
 **Extract PLZ from location**  
 ```python
-#Copy PLZ from HCO Location to PLZ
+#Copy PLZ from Location to PLZ
 df_export['plz'] = df_export.location.str.extract(r' (\d{4})')
 df_export['location'] = df_export.location.str.replace(r' (\d{4})', '')
+```
+
+**Extract PLZ from Address and remove in Address**  
+```python
+#Copy PLZ from Location to PLZ
+df_export['plz'] = df_export.address.str.extract(r' (\d{4})')
+df_export['address'] = df_export.address.str.replace(r'(,\s\d{4}.*)', '')
 ```
 
 
