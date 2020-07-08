@@ -196,6 +196,14 @@ df_export['name'] = df_export.name.str.replace(regex_title, '', regex=True, case
 df_export['name'] = df_export.name.str.strip()
 ```
 
+**Extract PLZ from location**  
+```python
+#Copy PLZ from HCO Location to PLZ
+df_export['plz'] = df_export.location.str.extract(r' (\d{4})')
+df_export['location'] = df_export.location.str.replace(r' (\d{4})', '')
+```
+
+
 ## Examples
 * Duplicated entries: [GlaxoSmithKline](http://localhost:8888/notebooks/data/1.%20pdfexport/files/GlaxoSmithKline/0.%20Lists.ipynb)
 * Beautiful Soup: [Lundbeck](http://localhost:8888/notebooks/data/1.%20pdfexport/files/Lundbeck/0.%20Lists.ipynb)
