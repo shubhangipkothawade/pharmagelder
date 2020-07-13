@@ -1,0 +1,6 @@
+type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
+hcp_amount,,,1339.86,2060.37,30250.0,11441.53,45091.76,roche
+hco_amount,53403.55,131056.73,0.0,0.0,13625.0,0.0,198085.28,roche
+hcp_count,,,4.0,7.0,19.0,5.0,27.0,roche
+hco_count,3.0,6.0,0.0,0.0,3.0,0.0,10.0,roche
+rnd,,,,,,,10999955.45,roche
