@@ -1,0 +1,34 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Angela Neub,Bellmund,CH,Schatzacher 13,,,,,331.09,460.47,,,791.56,hcp,stallergenes
+Oliver Fuchs,Bern,CH,Habsburgstrasse 23,,,,,331.09,520.47,,,851.56,hcp,stallergenes
+Michael Oertzen,Fällanden,CH,Unterdorfstrasse 3,,,,,331.09,435.97,,,767.06,hcp,stallergenes
+Guillaume Buss,Neuchâtel,CH,Faubourg de l'hôpital 65,,,,,253.93,740.47,,,994.4,hcp,stallergenes
+Olfa Karoui,Belmont-Sur-,CH,Route d'Arnier 26,,,,,253.93,668.47,,,922.4,hcp,stallergenes
+Sylvie Maître,Corcelles NE,CH,Rue du Petit-Berne 14,,,,,253.93,689.8,,,943.73,hcp,stallergenes
+Isaac Gebre-Michael,Versoix GE,CH,1-A rampe de la gare,,,,,583.37,1143.06,,,1726.43,hcp,stallergenes
+Gerhard Müllner,Luzern 16,CH,Spitalstrasse,,,,,436.59,0.0,,15000.0,15436.59,hcp,stallergenes
+Tobias Plaza,Uster,CH,Oberlandstr.100,,,,,760.56,948.43,,,1708.99,hcp,stallergenes
+Dagmar Jamiolkowski,Basel,CH,Efringerstrasse 77,,,,,388.41,1451.36,,,1839.77,hcp,stallergenes
+Giuseppina Schmid,Wangen bei,Swit zerland,Bahnhofplazt 5,,,,,0.0,393.66,,,393.66,hcp,stallergenes
+Brigitte Kalbacher,St. Gallen,CH,Vadianstrasse 26,,,,,0.0,352.39,,,352.39,hcp,stallergenes
+Bärbel Greve,Frauenfeld,CH,Bahnhofstr. 57,,,,,0.0,366.63,,,366.63,hcp,stallergenes
+Irmela Heinrichs,Uster,CH,Loren Allee 22,,,,,0.0,456.33,,,456.33,hcp,stallergenes
+Dina Baiao,Küsnacht,CH,Untere Dorfstrasse 2,,,,,0.0,404.99,,,404.99,hcp,stallergenes
+Kaspar Strub,Basel,CH,Theaterstrasse 4,,,,,0.0,416.99,,,416.99,hcp,stallergenes
+Rita von Webern,Tobel,CH,Hauptstrasse 16,,,,,0.0,462.99,,,462.99,hcp,stallergenes
+Orsolya Szöllösy Tomisa,Tobel,CH,Hauptstrasse 16,,,,,0.0,431.66,,,431.66,hcp,stallergenes
+Alice Köhli,Zürich,CH,Steinwiesenstrasse 75,,,,,532.91,793.26,,,1326.17,hcp,stallergenes
+Miriam Hoernes,Zürich,CH,Stockerstrasse 42,,,,,330.49,508.6,,,839.09,hcp,stallergenes
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,,3000.0,,,,,3000.0,hco,stallergenes
+Quadrimed,Crans Monta,CH,Case postale 229,,,,2528.0,,,,,2528.0,hco,stallergenes
+HUG,Genève,CH,"4, rue Gabrielle Perret-Gentil",,,,3000,,,,,3000,hco,stallergenes
+AfA/ Helbling,Bern,CH,Freiburgstrasse 18,,,,3000.0,,,,,3000.0,hco,stallergenes
+Inselgruppe,Bern,CH,Freiburgstrasse 18,,,,1500.0,,,,,1500.0,hco,stallergenes
+AGAIA/ Dominique Jaques,Genève,CH,"11, rue de Emile-Yung",,,,500.0,,,,,500.0,hco,stallergenes
+AIU Grindelwald c/o friedevents,Bern,CH,Scheibenstrasse 20,,,,13500.0,,,,,13500.0,hco,stallergenes
+Verein Lunge Zürich,Zürich,CH,Pfingstweidstrasse 10,,,,5310.0,,,,,5310.0,hco,stallergenes
+CHUV Lausanne,Lausanne,CH,Rue de Bougnon 21,,,,3900.0,,,,,3900.0,hco,stallergenes
+Allergiesymposium Zürich,Zürich,CH,Gloriastrasse 31,,,,3000.0,,,,,3000.0,hco,stallergenes
+SSAI M eet ing /  Peter  Eng,Aarau,CH,Tellstrasse 25,,,,20000.0,,,,1000.0,21000.0,hco,stallergenes
+FomF GmbH,Zug,CH,Industriestrasse 47,,,,4000.0,,,,,4000.0,hco,stallergenes
+Kinderärzte Schweiz,Zürich,CH,Badenerstr. 21,,,,3000.0,,,,,3000.0,hco,stallergenes
