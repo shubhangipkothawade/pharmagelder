@@ -1,10 +1,10 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
 Julia Affentranger,Sursee,CH,Bahnhofstrasse 42,,,0,0,478,824,0,0,1302,hcp,pfizer
 Nisha Arenja,Olten,CH,Baslerstrasse 150,,,0,0,0,0,1400,0,1400,hcp,pfizer
-Lars Asm is,Zürich,CH,Seefeldstrasse 224,,,0,0,0,0,2800,0,2800,hcp,pfizer
+Lars Asmis,Zürich,CH,Seefeldstrasse 224,,,0,0,0,0,2800,0,2800,hcp,pfizer
 Gaudenz Bachmann,St. Gallen,CH,Oberer Graben 32,,,0,0,0,0,1400,0,1400,hcp,pfizer
 Bruno Markus Balsiger,Bern,CH,Bremgartenstrasse 119,,,0,0,127,5015,0,0,5142,hcp,pfizer
-Basil Albert Bättig,Zürich,CH,Stadel hoferstrasse 42,,,0,0,568,745,0,0,1313,hcp,pfizer
+Basil Albert Bättig,Zürich,CH,Stadelhoferstrasse 42,,,0,0,568,745,0,0,1313,hcp,pfizer
 Michael Baumann,Arbon,CH,Werftstrasse 3,,,0,0,0,0,1400,0,1400,hcp,pfizer
 Philipp Baumgartner,Zürich,CH,Rämistrasse 100,,,0,0,549,707,0,0,1256,hcp,pfizer
 Maurice Beghetti,Genève,CH,Rue Willy-Donzé 6,,,0,0,0,0,2600,0,2600,hcp,pfizer
@@ -102,7 +102,7 @@ Francesco Moretti,Genève,CH,Place de Cornavin 7,,,0,0,501,1246,0,0,1747,hcp,pfi
 Martin Moro,Bülach,CH,Rössligasse 11,,,0,0,0,0,1200,0,1200,hcp,pfizer
 Hubertus Mueller,Meyrin,CH,Avenue Jean-Daniel Maillard 3,,,0,0,457,623,0,0,1080,hcp,pfizer
 Lilo Elisabeth Muff,Affoltern am Al bis,CH,Bahnhofplatz 11,,,0,0,224,97,0,0,321,hcp,pfizer
-Jorg Muntwyler,Kloten,CH,Bahnhofstrasse 11,,,0,0,501,1228,0,0,1729,hcp,pfizer
+Jörg Muntwyler,Kloten,CH,Bahnhofstrasse 11,,,0,0,501,1228,0,0,1729,hcp,pfizer
 Michael Mutter,Glarus,CH,Burgstrasse 99,,,0,0,0,0,1400,0,1400,hcp,pfizer
 Mitja Nabergoj,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,0,0,0,0,1000,0,1000,hcp,pfizer
 Dionysios Neofytos,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,0,0,0,0,2436,1319,3756,hcp,pfizer
@@ -111,7 +111,7 @@ David Niederseer,Zürich,CH,Rämistrasse 100,,,0,0,392,1672,0,0,2064,hcp,pfizer
 Georg Noll,Zürich,CH,Witellikerstrasse 40,,,0,0,0,0,2800,0,2800,hcp,pfizer
 Madalina Nussberger,Aarau,CH,Teilstrasse,,,0,0,535,256,0,0,791,hcp,pfizer
 Martin Osranek,Dübendorf,CH,Adlerstrasse 1,,,0,0,501,0,0,0,501,hcp,pfizer
-bannis Papadopoulos,Muttenz,CH,Münchensteinerstrasse 10,,,0,0,0,0,1299,0,1299,hcp,pfizer
+Ioannis Papadopoulos,Muttenz,CH,Münchensteinerstrasse 10,,,0,0,0,0,1299,0,1299,hcp,pfizer
 Ricardo Pereira Mestre,Bellinzona,CH,Via Ospedale,,,0,0,0,0,1400,0,1400,hcp,pfizer
 Daniel Peternac,Schaffhausen,CH,Geissbergstrasse 81,,,0,0,460,947,0,0,1407,hcp,pfizer
 Franziska Phan-Hug,Morges,CH,Chemin du Crêt 2,,,0,0,0,0,1000,0,1000,hcp,pfizer
@@ -312,7 +312,7 @@ Pharmavital AG,Baar,CH,Jöchlerweg 4,,,4362,7539,0,0,0,0,11901,hco,pfizer
 Pierre Michetti Academic,Cully,CH,Chemin des Colombaires 16,,,0,0,0,0,1400,0,1400,hco,pfizer
 pnn pharma nation network ag,Zürich,CH,Kirchgasse 42,,,0,6570,0,0,0,0,6570,hco,pfizer
 Praxis Dr. Steck Peter,Fraubrunnen,CH,Tafelenfeldweg 1,,,0,950,0,0,0,0,950,hco,pfizer
-Praxis Tulpenstrasse AG,Kirchberg SG,CH,T ulpenstrasse 1,,,0,800,0,0,0,0,800,hco,pfizer
+Praxis Tulpenstrasse AG,Kirchberg SG,CH,Tulpenstrasse 1,,,0,800,0,0,0,0,800,hco,pfizer
 Rathaus Apotheke St. Gallen AG,St. Gallen,CH,Poststrasse 30,,,0,0,0,0,1200,0,1200,hco,pfizer
 RCC Net,Zürich,CH,Bahnhofplatz 4,,,0,5900,0,0,0,0,5900,hco,pfizer
 Regionalspital Emmental AG,Langnau im Emmental,CH,Dorfbergstrasse 10,,,0,4000,938,1866,0,0,6804,hco,pfizer
@@ -320,7 +320,7 @@ REHAB Basel AG,Basel,CH,Im Burgfelderhof 40,,,0,0,457,681,0,0,1138,hco,pfizer
 Rehaklinik Zihlschlacht,Zihlschlacht,CH,Hauptstrasse 2-4,,,0,0,915,1197,0,0,2111,hco,pfizer
 Reha Rheinfelden,Rheinfelden,CH,Salinenstrasse 98,,,0,2000,0,0,0,0,2000,hco,pfizer
 Réseau des pédiatres genevois,Vernier,CH,Route de Vernier 205,,,0,2400,0,0,0,0,2400,hco,pfizer
-Rheumakränzli Zentralschweiz,Meggen,CH,Mättel istrasse 7,,,0,1500,0,0,0,0,1500,hco,pfizer
+Rheumakränzli Zentralschweiz,Meggen,CH,Mättelistrasse 7,,,0,1500,0,0,0,0,1500,hco,pfizer
 Rheuma Schweiz,Zürich,CH,Aargauerstrasse 250,,,0,61411,0,0,11309,0,72719,hco,pfizer
 Rheumasearch Foundation,Genève,CH,Rue du Rhone 57,,,0,5000,0,0,0,0,5000,hco,pfizer
 Rheumatologie Bernhard AG,Biel/Bienne,CH,Mühlebrücke 8,,,0,0,224,494,0,0,718,hco,pfizer
