@@ -75,14 +75,14 @@ Timus Taskesen,Lenzburg,CH,Niederlenzer Kirchweg 2a,5600,,,,1980.0,391.0,,,2371,
 Annemay Chollet,Villars-sur-Glâne,CH,Rue du Ctre 8,1752,,,,1540.0,424.0,,,1964,hcp,allergan
 Christoph Bert,Zürich,CH,Seefeldstrasse 75,8005,,,,1540.0,424.0,,,1964,hcp,allergan
 Hyunju Kim,Spiegel b. Bern,CH,Bellevuestrasse 15,3095,,,,1540.0,424.0,,,1964,hcp,allergan
-Jan Eggen,Huobmattstrasse 9,CH,Huobmattstrasse 9,,,,,1540.0,424.0,,,1964,hcp,allergan
+Jan Eggen,Huobmattstrasse 9,CH,Huobmattstrasse 9,6045,,,,1540.0,424.0,,,1964,hcp,allergan
 Liv Kraemer,Zürich,CH,Glockengasse 8,8001,,,,1540.0,424.0,,,1964,hcp,allergan
 Lucas Leu,Zollikon,CH,Dammstrasse 29,8702,,,,1540.0,424.0,,,1964,hcp,allergan
 Nathalie Dietrich,Zürich,CH,Zeltweg 67,8032,,,,1540.0,424.0,,,1964,hcp,allergan
 Olga Juri,Zürich,CH,Bahnhofstrasse 84,8001,,,,1540.0,424.0,,,1964,hcp,allergan
 Véronique Bani,Geneve,CH,56 rue du Rhone,1204,,,,1540.0,226.0,,,1766,hcp,allergan
 Nasser Madi,Genve,CH,Avenue de Beau Séjour 19,1206,,,,1980.0,314.0,,,2294,hcp,allergan
-Daniel Fuchs,Schweiz,CH,"Laternengasse 4, 8001 Zürich",,,,,1980.0,349.0,,,2329,hcp,allergan
+Daniel Fuchs,Schweiz,CH,Laternengasse 4,8001,,,,1980.0,349.0,,,2329,hcp,allergan
 Monika Hess Schmid,Zürich,CH,Dufourstrasse 31,8001,,,,1980.0,356.0,,,2336,hcp,allergan
 Alain Kaelin,Lugano,CH,Via Tesserete 46,6903,,,,806.0,1305.0,,,2111,hcp,allergan
 Sanja Jukopila,Lugano,CH,Via Moncucco 10,6903,,,,821.0,661.0,,,1482,hcp,allergan
@@ -102,7 +102,7 @@ Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher-Strasse 95,9007,,,5627.0,,,,,
 Verbandsmanagement & Kongressorg,Bern,CH,Wattenwylenweg 21,3006,,,1500.0,,,,,1500,hco,allergan
 Augenzentrum Klinik Pallas Olten,Olten,CH,Louis Giroud-Stasse 20,4600,,,3420.0,,,,,3420,hco,allergan
 Rétinelysée Ophtalmologie et imagerie,Lausanne,CH,Avenue d'Ouchy 14,1006,,,2000.0,,,,,2000,hco,allergan
-Kantonspital / Augenklinik,Spitalstrasse. Luzern,CH,Spitalstrasse. Luzern,,,,,,,1500.0,,1500,hco,allergan
+Kantonspital / Augenklinik,Spitalstrasse. Luzern,CH,Spitalstrasse,6004,,,,,,1500.0,,1500,hco,allergan
 Stiftung für wissenschaftliche Forschu,Zürich,CH,Birmensdorferstrasse 497,8063,,,5000.0,,,,,5000,hco,allergan
 Hôpital Ophtalmique Jules-Gonin,Lausanne,CH,Avenue de France 15,1004,,,3500.0,,,2400.0,,5900,hco,allergan
 "Centre Ophtalmologique de Rive, M. D",Genève,CH,Rue Pierre Fatio 15,1204,,,5000.0,,,,,5000,hco,allergan
@@ -113,5 +113,5 @@ Blueye Vision Tech GmbH,Meggen,CH,Huobmattstrasse 9,6045,,,2500.0,,,,,2500,hco,a
 Swiss Glaucoma Research Foundation,Lausanne,CH,Avenue du Servan 38,1006,,,10000.0,,,,,10000,hco,allergan
 Swiss Visio Network,Lausanne,CH,Avenue de Morges 139,1004,,,1500.0,,,1000.0,,2500,hco,allergan
 Le Centre de Recherche Clinique,Genève,CH,Avenue Krieg 44BIS,1208,,,5000.0,,,,,5000,hco,allergan
-Universitätsspital Augenklinik,,CH,Rämistrasse 100 8091 Zürich,,,,,,,1000.0,,1000,hco,allergan
+Universitätsspital Augenklinik,,CH,Rämistrasse 100  ,8091,,,,,,1000.0,,1000,hco,allergan
 SGAC,Muri,CH,Kräyingenweg 83,3074,,,2000.0,,,,,2000,hco,allergan
