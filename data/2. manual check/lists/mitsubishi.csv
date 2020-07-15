@@ -1,0 +1,32 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Adriano Bont,Winterthur,CH,"Neurowinterthur, Brunngasse 6",8400,,,,,,500.0,,500.0,hcp,mitsubishi
+David Czell,Baar,CH,"Zuger Kantonsspital, Landhausstr. 11",6340,,,,,,500.0,,500.0,hcp,mitsubishi
+Hans H. Jung,Zürich,CH,"Universitätsspital Zürich, Frauenklinikstr. 26",8091,,,,,,2500.0,,2500.0,hcp,mitsubishi
+Kai Rösler,Basel,CH,"Neurozentrum Basel, Marktplatz 5",4001,,,,,,800.0,30.0,830.0,hcp,mitsubishi
+Eduard Scherer,Winterthur,CH,"KS Winterthur, Brauerstr. 15",8400,,,,,,500.0,38.5,538.5,hcp,mitsubishi
+Jürgen Schneider,Nottwil,CH,"Paralegiezentrum Nottwil, Guido A. Zäch-Str. 1",6207,,,,,,500.0,53.7,553.7,hcp,mitsubishi
+Simone Sutherland,Basel,CH,"ECPM, Klingelbergstr. 61",4031,,,,,,8850.0,71.8,8921.8,hcp,mitsubishi
+Konrad Scheglmann,Zürich,CH,"Neurozentrum Bellevue, Theaterstr. 8",8001,,,,,,500.0,,500.0,hcp,mitsubishi
+Ansgar Studer,Zürich,CH,"Neurozentrum Hirslanden, Witellikerstr. 40",8032,,,,,,500.0,,500.0,hcp,mitsubishi
+Alexander Tarnutzer,Baden,CH,"KS Baden, Im Ergel 1",5404,,,,,,500.0,58.6,558.6,hcp,mitsubishi
+Reto Tscholl,Winterthur,CH,"Neurologische Gemeinschaftspraxis, Oberer Graben 4",8400,,,,,,500.0,,500.0,hcp,mitsubishi
+Markus Weber,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Str. 95",9007,,,,,,20106.8,220.0,20326.8,hcp,mitsubishi
+Björn Zörner,Zürich,CH,"Universitätsklinik Balgrist, Forchstr. 340",8008,,,,,,500.0,,500.0,hcp,mitsubishi
+Centre Hospitalier Universitaire Vaudois (CHUV),Lausanne,CH,Rue du Bugnon 46,1011,,,,,,2500.0,,2500.0,hco,mitsubishi
+Ente Ospedaliero Cantonale (EOC),Bellizona,CH,Viale Officina 3,6500,,,,,,5500.0,202.0,5702.0,hco,mitsubishi
+Forum für medizinische Fortbildung - FomF GmbH,Zug,CH,Ahornstr. 2,6300,,,12500.0,,,,,12500.0,hco,mitsubishi
+Haemostasis in Critical Care GmbH,St. Gallen,CH,Frohbergstr. 3,9001,,,5500.0,,,,,5500.0,hco,mitsubishi
+HRF Fribourg,Fribourg,CH,Chemin de Pensionnats 2-6,1708,,,,,,500.0,,500.0,hco,mitsubishi
+Hôpitaux universitaires de Genève (HUG),Geneve,CH,Rue Gabrielle-Perret-Gentil 4,1211,,,,,,2500.0,,2500.0,hco,mitsubishi
+Inselspital Bern,Bern,CH,Freiburgstr.,3010,,,,,,5000.0,,5000.0,hco,mitsubishi
+Instituto Oncologico della Swizzera Italiana e Laboratorio di Ematologica,Bellizona,CH,(OEsOpLeAdBa)le San Giovanni,6500,,,1000.0,,,,,1000.0,hco,mitsubishi
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,5001,,,,,,2300.0,,2300.0,hco,mitsubishi
+Luzerner Kantonsspital,Luzern,CH,Sptialstrasse,6000,,,,,,500.0,,500.0,hco,mitsubishi
+Neurozentrum Oberaargau,Langenthal,CH,St. Urbanstrasse 22,4900,,,1500.0,,,,,1500.0,hco,mitsubishi
+Schweizerische Gesellschaft für Intensivmedizin (SGI),Basel,CH,Münsterberg 1,4001,,,5120.0,,,,,5120.0,hco,mitsubishi
+Schweizerische Förderation der Klinischen Neuro-Gesellschaften (SFCNS,Basel,CH,Münsterberg 1,4001,,,35000.0,,,,,35000.0,hco,mitsubishi
+Schweizerische Neurologische Gesellschaft,Basel,CH,Münsterberg 1,4001,,,3000.0,,,,,3000.0,hco,mitsubishi
+Universitätsspital Basel,Basel,CH,Petersgraben 4,4031,,,,,,3300.0,,3300.0,hco,mitsubishi
+Universitäts-Kinderspital beider Basel (UKBB),Basel,CH,Spitalstrasse 33 / Postfach,4031,,,,,,800.0,16.4,816.4,hco,mitsubishi
+Université d’automne d’ENMG,La Chaux-de-fonds,CH,Case postale 1103,2301,,,1000.0,,,,,1000.0,hco,mitsubishi
+Vitasphère Gesundheitszentrum Bützberg AG,Thunstetten,CH,Bernstrasse 37,4922,,,,,,800.0,50.0,850.0,hco,mitsubishi
