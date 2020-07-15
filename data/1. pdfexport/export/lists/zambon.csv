@@ -1,0 +1,96 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Sven Haller,Genève,CH,"21, Rue Chantepoulet",,,,,0.0,0.0,800.0,0.0,800.0,hcp,zambon
+Eva Littig,Neuchâtel,CH,Ruelle Dublé 3,,,,,0.0,344.0,0.0,0.0,344.0,hcp,zambon
+Horst Schwan,Aarau,CH,Rain 34,,,,,228.0,187.0,0.0,0.0,415.0,hcp,zambon
+Jana Wolynski,Dietikon,CH,Bahnhofstrasse 5,,,,,228.0,384.0,0.0,0.0,612.0,hcp,zambon
+Alexander Radziwill,Lausanne,CH,Av. de Rumine 26,,,,,269.0,928.0,0.0,0.0,1197.0,hcp,zambon
+Vincianne Rey Bataillard,Lausanne,CH,Chemin des Sorbiers 10,,,,,238.0,831.0,0.0,0.0,1069.0,hcp,zambon
+Joe Bontadelli,Bellinzona,CH,Viale Officina 7,,,,,552.0,1116.0,0.0,0.0,1668.0,hcp,zambon
+Florian Bihl,Lugano,CH,Via Gemmo 11,,,,,471.0,1065.0,0.0,0.0,1536.0,hcp,zambon
+Dina Baiao Picciati,Küsnacht,CH,Untere Dorfstrasse 2,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Isabelle Bannwart,Villmergen,CH,Alte Bahnhofstrasse 6a,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Reto Barandun,Wattenwil,CH,Schmittenstrasse 5,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Melanie Baumgardt,Zürich,CH,Dialogweg 2,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Judith Cann,Basel,CH,Kornhausgasse 7,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Christian Crott,Kilchberg,CH,Grütstrasse 55,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Andrea Frei Rothenbühler,Schlieren,CH,Zürcherstrasse 4,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+René Geissberger,Frick,CH,Hauptstrasse 77,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Ingrid Hämmerli-Krawzyk,Luzern,CH,Robert-Zünd-Strasse 2,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Peter Ledergerber,Brugg,CH,Fröhlichstrasse 51,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Irène Müller Zimmermann,Therwil,CH,Lehmgrubenweg 12,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Claudia Müller-Wiederkehr,Baden,CH,Bahnhofplatz 4,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Monika Niedermann,Zürich,CH,Bertastrasse 99,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Florian Nowotny,Zollikon,CH,Rotfluhstrasse 8,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Ursula Pfister,Safenwil,CH,Güterstrasse 1c,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Hagen Scheerle,Möhlin,CH,Hauptstrasse 112,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Thomas Schellenberg,Dübendorf,CH,Bahnhofstrasse 36,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Beatrice Schneider,Brugg,CH,Fröhlichstrasse 51,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Claude Sidler,Brugg,CH,Fröhlichstrasse 51,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Janna Sievi,Regensdorf,CH,Zentrum,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Leonie Uebersax,Basel,CH,Sternengasse 21,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Rémy Zimmermann,Zug,CH,Gotthardstrasse 3,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Cordula Zwinggi,Luzern,CH,Landenbergstrasse 3B,,,,,335.0,96.0,0.0,0.0,431.0,hcp,zambon
+Parkinson Schweiz,Egg,CH,Gewerbestrasse 12a,,,500.0,3000.0,0.0,0.0,0.0,0.0,3500.0,hco,zambon
+Solothurner Spitäler AG,Solothurn,CH,Schlössliweg 2-6,,,0.0,650.0,0.0,0.0,0.0,0.0,650.0,hco,zambon
+CHUV - Centre hospitlaier universitaire vaudois,Lausanne,CH,Rue du Bugnon 21,,,0.0,2500.0,722.0,2029.0,0.0,0.0,5251.0,hco,zambon
+Hôpital du Valais,Sion,CH,Av. Grand-Champsec 86,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,zambon
+Kantonsspital St. Gallen,St. Gallen,CH,Rorschacherstrasse 95,,,0.0,5500.0,125.0,1141.0,0.0,0.0,6766.0,hco,zambon
+Universität Zürich,Zürich,CH,Hirschengraben 60,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,zambon
+Hôpitaux Universitaires de Genève HUG,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,0.0,1500.0,648.0,2116.0,800.0,0.0,5064.0,hco,zambon
+Swiss Parkinson's Disease Nursing Specialists,Zürich,CH,c/o Mechthild Uhl - Rotachstrasse 51,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,zambon
+HFR Fribourg - Hôpital Cantonal,Fribourg,CH,Chemin des Pensionnats 2-6,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,zambon
+Etablissement Hospitalier Multisite Cantonal,Neuchâtel,CH,,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,zambon
+Neurocentro della Svizzera italiana NSI,Lugano,CH,Via Tesserete 46,,,0.0,5500.0,223.0,724.0,0.0,0.0,6447.0,hco,zambon
+Gesellschaft für Neurologie und Neurochirurgie der Regio Basiliensis,Basel,CH,c/o Universität Basel - Petersgraben 4,,,0.0,1450.0,0.0,0.0,0.0,0.0,1450.0,hco,zambon
+Klinik Bethesda,Tschugg,CH,Oberdorf,,,0.0,3000.0,228.0,772.0,0.0,0.0,4000.0,hco,zambon
+Swiss Movement Disorders Society,Lugano,CH,c/o Prof. Alain Kaelin - Via Tesserete 36,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,zambon
+Stiftung für wissenschaftliche Forschung sm Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,zambon
+Reha Rheinfelden,Rheinfelden,CH,Salinenstrasse 98,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,zambon
+Neurozentrum Oberaargau,Langenthal,CH,St. Urbanstrasse 22,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,zambon
+Hôpital Riviera-Chablais,Vevey,CH,Boulevard Paderewski 3,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,zambon
+Association des Neurologues Libéraux Romands,Monthey,CH,Av. Crochetan 2,,,0.0,2500.0,0.0,0.0,0.0,0.0,2500.0,hco,zambon
+UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100 / Frauenklinikstrasse 26,,,0.0,0.0,415.0,1587.0,0.0,0.0,2002.0,hco,zambon
+Rehaklinik Zihlschlacht AG,Ziehlschlacht,CH,Hauptstrasse 2-4,,,0.0,0.0,643.0,1622.0,0.0,0.0,2265.0,hco,zambon
+Klinik Lengg AG,Zürich,CH,Bleulerstrasse 60,,,0.0,0.0,228.0,401.0,0.0,0.0,629.0,hco,zambon
+Spitalzentrum Biel AG / Centre hospitalier Bienne,Biel,CH,Vogelsang 84,,,0.0,0.0,552.0,1143.0,0.0,0.0,1695.0,hco,zambon
+Stiftung pro UKBB,Basel,CH,Spitalstrasse 33,,,0.0,14750.0,0.0,0.0,0.0,0.0,14750.0,hco,zambon
+AerzteNetzwerk Grauholz,Ittigen,CH,Worblentalstrasse 99,,,0.0,2800.0,0.0,0.0,0.0,0.0,2800.0,hco,zambon
+DOXnet Ärztenetzwerk Bern Nord / West,Hinterkappelen,CH,"c/o Dr. med. Roland Segginger, Kappelenring 6",,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,zambon
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,0.0,13100.0,0.0,0.0,0.0,0.0,13100.0,hco,zambon
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,0.0,500.0,0.0,0.0,0.0,0.0,500.0,hco,zambon
+Insel Gruppe AG,Bern,CH,Freiburgstrasse 18,,,4000.0,15940.0,1719.0,7997.0,0.0,0.0,29656.0,hco,zambon
+Bethesda Spital AG,Basel,CH,Gellertstrasse 144,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,zambon
+Associazione dei Pediatri della Svizzera Italiana APSI,Lugano,CH,c/o Dr. med. Daniela Joanna Pedrazzini- Vanoni - Via delle Scuole 17 - 6900 Paradiso,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,zambon
+Kinderärzte-Vereinigung Zentralschweiz,Altdorf,CH,c/o Dr. med. Doris Auf der Maur - Dätwylerstrasse 9,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,zambon
+Clinica Luganese Moncucco,Lugano,CH,Via Moncucco 10,,,0.0,2000.0,0.0,0.0,0.0,0.0,2000.0,hco,zambon
+Ordine dei medici del Canton Ticino,Mezzovico,CH,Via Cantonale 8 - Stabile Qi,,,0.0,1600.0,0.0,0.0,0.0,0.0,1600.0,hco,zambon
+Tox Info Suisse,Zürich,CH,Freiestrasse 16,,,1000.0,0.0,0.0,0.0,0.0,8000.0,9000.0,hco,zambon
+Lega Svizzera contro l'Epilessia,Zürch,CH,Seefeldstrasse 84,,,100.0,0.0,0.0,0.0,0.0,0.0,100.0,hco,zambon
+Schweizerische Gesellschaft für Cystische Fibrose (CFCH),Bern,CH,Altenbergstrasse 29,,,50.0,0.0,0.0,0.0,0.0,0.0,50.0,hco,zambon
+Société Suisse Romande de Rhinologie (SSRR),Biel/Bienne,CH,Silbergasse 7,,,0.0,800.0,0.0,0.0,0.0,0.0,800.0,hco,zambon
+Circolo Medico del Bellinzonese,Giubiasco,CH,c/o Dr. med. Jörg Karau - Via Bellinzona 31,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,zambon
+Réseau Santé Balcon du Jura.vd - Hôpital,Sainte-Croix,CH,Rue des Rosiers 29,,,0.0,800.0,0.0,0.0,0.0,0.0,800.0,hco,zambon
+Swiss Rhinology Teaching Center GmbH,Zürich,CH,Streulistrasse 48,,,0.0,1500.0,0.0,0.0,0.0,0.0,1500.0,hco,zambon
+Universitätsspital Basel,Basel,CH,Hebelstrasse 36 / Spitalstrasse 33,,,0.0,1700.0,0.0,0.0,1100.0,0.0,2800.0,hco,zambon
+Pharmaciens sans Frontières,Genève,CH,Rue des Savoises 15,,,3524.0,0.0,0.0,0.0,0.0,0.0,3524.0,hco,zambon
+"European Respiratory Society (ERS International Congress 2018, Paris)",Lausanne,CH,"4, Avenue Sainte-Luce",,,0.0,135948.0,0.0,0.0,0.0,0.0,135948.0,hco,zambon
+VZI - Verein Allgemeiner und Spezialisierter Internistinnen und Internisten,Zwillikon,CH,Haldenrain,,,0.0,3800.0,0.0,0.0,0.0,0.0,3800.0,hco,zambon
+Quadrimed (Congrès Médical du Practicien),Crans-Montana,CH,Case postale 299,,,0.0,3740.0,0.0,0.0,0.0,0.0,3740.0,hco,zambon
+Verein Lunge Zürich (Ärztefortbildungskurs Davos),Zürich,CH,Pfingstweistrasse 10,,,0.0,5950.0,0.0,0.0,0.0,0.0,5950.0,hco,zambon
+JHaS - Junge Hausärztinnen und - ärzte Schweiz,Steinhausen,CH,c/o Medworld AG - Sennweidstrasse 46,,,0.0,2600.0,0.0,0.0,0.0,0.0,2600.0,hco,zambon
+SGAIM - Schweizerische Gesellschaft für Allgemeine Innere Medizin (SGAIM SSMIG SSGIM Frühjahreskongress),Bern,CH,Monbijoustrasse 43,,,0.0,2600.0,0.0,0.0,0.0,0.0,2600.0,hco,zambon
+SGP - Schweizerische Gesellschaft für Pädiatrie (Jahresversammlung SGP),Bern,CH,c/o BBS Congress GmbH - Rabbentalstrasse 83,,,0.0,4250.0,0.0,0.0,0.0,0.0,4250.0,hco,zambon
+medArt basel.19,Basel,CH,c/o Congrex Schweiz AG - Peter Merian Strasse 80,,,0.0,2510.0,0.0,0.0,0.0,0.0,2510.0,hco,zambon
+Schweizerische Gesellschaft für Gynäkologie und Geburtshilfe (Jahreskongress),Gossau,CH,c/o BV Congress Creating GmbH - Industriestrasse 37,,,0.0,4092.0,0.0,0.0,0.0,0.0,4092.0,hco,zambon
+SSORL - Swiss Society of Oto-Rhino-Laryngology (Frühjahrsversammlung),Basel,CH,c/o IMK Institut für Medizin und Kommunikation AG - Münsterberg 1,,,0.0,5200.0,0.0,0.0,0.0,0.0,5200.0,hco,zambon
+KHM - Kollegium für Hausarztmedizin (21. Fortbildungstagung des KHM),Steinhausen,CH,c/o Medworld AG - Sennweidstrasse 46,,,0.0,3580.0,0.0,0.0,0.0,0.0,3580.0,hco,zambon
+ZAIM - Zurich Academy of Internal Medicine (MediDays Zürich),Steinhausen,CH,c/o Medworld AG - Sennweidstrasse 46,,,0.0,2940.0,0.0,0.0,0.0,0.0,2940.0,hco,zambon
+GREPA - Groupement romand de pédiatres (Journée romande de pédiatrie pratique),Nyon,CH,c/o Dr Lahcène Regagba - Ch. du Joran 8b,,,0.0,1000.0,0.0,0.0,0.0,0.0,1000.0,hco,zambon
+kinderärzte.schweiz (Jahrestagung Kinderärzte Schweiz 2019),Zürich,CH,Badenerstrasse 21,,,0.0,3000.0,0.0,0.0,0.0,0.0,3000.0,hco,zambon
+SGG - Schweizerische Gesellschaft für Gastroenterologie (Generalversammlung SGG - SGVC - SASL),Bern,CH,c/o Gkaufmann - Verbandmanagement & Kongressorganisation - Wattenwylweg 21,,,0.0,4000.0,0.0,0.0,0.0,0.0,4000.0,hco,zambon
+Gruppo Medico Formazione (Corso Aggiornamento Medico di Base),Giubiasco,CH,CP 823,,,0.0,3300.0,0.0,0.0,0.0,0.0,3300.0,hco,zambon
+SFCNS - Swiss Federation of Clinical Neuro- Societies (4th SFCNS Congress),Basel,CH,c/o IMK Institut für Medizin und Kommunikation - Münsterberg 1,,,0.0,5840.0,0.0,0.0,0.0,0.0,5840.0,hco,zambon
+Spital Thurgau AG (Frauenfelder Symposium Urogynäkologie),Frauenfeld,CH,c/o Kantonsspital Frauenfeld,,,0.0,2700.0,0.0,0.0,0.0,0.0,2700.0,hco,zambon
+22. Ostschweizer Symposium für praktische Gynäkologie und Geburtshilfe,Bern,CH,c/o KMS KongressManagementSwiss - Postfach 2756,,,0.0,4045.0,0.0,0.0,0.0,0.0,4045.0,hco,zambon
+Groupement Romand de la Société Suisse de Gynécologie et d’Obstétrique GRSSGO (Journée d'Automne),Cheseaux,CH,c/o Meetig.Com Sàrl - Congress Organisation - Rue des Pâquis 1,,,0.0,4820.0,0.0,0.0,0.0,0.0,4820.0,hco,zambon
+22. Ostschweizer Symposium für praktische Gynäkologie und Geburtshilfe,Bern,CH,c/o KMS KongressManagementSwiss - Postfach 2756,,,0.0,4045.0,0.0,0.0,0.0,0.0,4045.0,hco,zambon
