@@ -1,0 +1,721 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Matti Aapro,Genolier,CH,"GSMN Suisse Clinique de Genolier, Route du Muids 3",,,,,,,1500.0,,1500.0,hcp,vifor
+Fabian Aigner,Horgen,CH,"See-Spital Horgen, Asylstrasse 19",,,,,,,800.0,,800.0,hcp,vifor
+Jasna Aljinovic,Bern,CH,"Gemeinschaftspraxis Aljinovic, Laupenstrasse 4",,,,,333.33,166.67,,,500.0,hcp,vifor
+Bernd Altenhofen,Zürich,CH,"ZPT-Zürich, Weinbergstrasse 137",,,,,333.33,166.67,,,500.0,hcp,vifor
+Cyrielle Alves,Genève,CH,"Hôpitaux Universitaires Genève, Rue Gabrielle- Perret-Gentil 4",,,,,345.18,1190.45,1077.0,,2612.63,hcp,vifor
+Michael Ammon,Liestal,CH,"Herzpraxis Liestal, Kasernenstrasse 22a",,,,,575.15,,,,575.15,hcp,vifor
+Jean-Marie Annoni,Fribourg,CH,"HFR Fribourg-Hôpital Cantonal, Chemin des Pensionnats 2",,,,,,,400.0,,400.0,hcp,vifor
+Miriam Antola,Fribourg,CH,"Cabinet Dr Antola Miriam, Rue De Locarno 1",,,,,317.98,847.07,,,1165.05,hcp,vifor
+Daniel Antonioli,Sion,CH,"Cabinet Dr Antonioli Daniel, Rue de la Dixence 21",,,,,317.98,843.05,,,1161.03,hcp,vifor
+Norbert Rudolf Arn,Frauenfeld,CH,"Kantonsspital Frauenfeld, Pfaffenholzstrasse 4",,,,,345.18,832.69,,,1177.87,hcp,vifor
+Nadia Asfoor,Kreuzlingen,CH,"Kantonsspital Münsterlingen, Nationalstrasse 19",,,,,333.33,166.67,,,500.0,hcp,vifor
+Jean-Michel Aubry,Chêne-Bourg,CH,"Hôpitaux Universitaires Genève, Chemin du Petit Bel-Air 2",,,,,,,1000.0,,1000.0,hcp,vifor
+Olga Ballach,Brunnen,CH,"Seeklinik Brunnen, Gersauerstrasse 8",,,,,390.61,872.47,,,1263.08,hcp,vifor
+Bruno Markus Balsiger,Bern,CH,"Gastroenterologische Praxis, Bremgartenstrasse 119",,,,,530.84,790.23,,,1321.07,hcp,vifor
+Christa Banholzer Voutsis,Zürich,CH,"Praxis Dr. Banholzer Christa, Klosbachstrasse 2",,,,,333.33,,,,333.33,hcp,vifor
+Lore Barbier,Lausanne,CH,"Cabinet Dr Barbier Lore, Avenue du Tribunal- Fédéral 2",,,,,317.98,693.43,,,1011.41,hcp,vifor
+Edouard Battegay,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,,,5500.0,,5500.0,hcp,vifor
+Christa Baumann,Bern,CH,"Lindenhofspital, Bremgartenstrasse 117",,,,,72.56,530.26,,,602.82,hcp,vifor
+Stephan Baumeler,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Strasse 95",,,,,525.82,1668.57,,,2194.39,hcp,vifor
+Hans-Ulrich Baur,Vordemwald,CH,"Praxis Dr. Baur Hans-Ulrich, Gländstrasse 6",,,,,333.33,166.67,,,500.0,hcp,vifor
+Tarek Bdeir Ibañez,Lausanne,CH,"Cabinet Dr Bdeir Ibañez Tarek, Place Chauderon 24",,,,,134.0,782.2,,,916.2,hcp,vifor
+Hansjörg Behringer,Rheinfelden,CH,"Praxis Dr. Behringer Hansjörg, Marktgasse 15",,,,,333.33,166.67,,,500.0,hcp,vifor
+Emilia Belemezova,Uster,CH,"Nieren- und Dialysezentrum, Oberlandstrasse 102",,,,,301.25,510.82,,,812.07,hcp,vifor
+Stefano Bellentani,Locarno,CH,"Clinica Santa Chiara SA, Via Stefano Franscini 4",,,,,525.82,1608.6,,,2134.42,hcp,vifor
+Ismail Bennani,Meyrin,CH,"La Tour Centre Médical de Meyrin, Promenade des Artisans 26",,,,,416.41,834.95,,,1251.36,hcp,vifor
+Anke Berg,Wallisellen,CH,"ZPG Berg, Bahnhofplatz 1c",,,,,333.33,,,,333.33,hcp,vifor
+Christoph Tobias Berger,Basel,CH,"Universitätsspital Basel, Petersgraben 4",,,,,,,600.0,130.2,730.2,hcp,vifor
+Marco Bernardi,Zürich,CH,"Hirslanden AG - Klinik im Park, Seestrasse 90",,,,,324.62,299.0,,,623.62,hcp,vifor
+Mihai Bertea,Dietikon,CH,"Clienia Dietikon, Neumattstrasse 7",,,,,333.33,,,,333.33,hcp,vifor
+Grégoire Berthod,Martigny,CH,"HVS - CHVR - Hôpital de Martigny, Avenue de la Fusion 27",,,,,335.79,804.08,,,1139.87,hcp,vifor
+Patrizia Bevilacqua,Bern,CH,"Quartier Bleu, Bremgartenstrasse 117",,,,,531.71,725.34,,,1257.05,hcp,vifor
+Florian Bihl,Lugano,CH,"Studio medico Dr. Bihl Florian, Via Gemmo 11",,,,,,,1500.0,,1500.0,hcp,vifor
+Svenja Bihr,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,435.37,454.86,,,890.23,hcp,vifor
+André Birkenmaier,St. Gallen,CH,"Ostschweizer Kinderspital, Claudiusstrasse 6",,,,,127.57,746.57,,,874.14,hcp,vifor
+Simon Birnstiel,Thun,CH,"Praxis Dr. Birnstiel Simon, Bälliz 12",,,,,333.33,,,,333.33,hcp,vifor
+Heike Bischoff-Ferrari,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,,,1500.0,,1500.0,hcp,vifor
+Luzia Bissig-Baumeler,Liestal,CH,"Kantonsspital Baselland, Rheinstrasse 26",,,,,350.08,639.78,,,989.86,hcp,vifor
+Laurent Bochatay,Nyon,CH,"Hôpital de Nyon - GHOL, Chemin Monastier 10",,,,,530.84,822.35,,,1353.19,hcp,vifor
+Bettina Bogatu,Zürich,CH,"Kinderspital Zürich, Steinwiesstrasse 75",,,,,,,600.0,45.0,645.0,hcp,vifor
+Claudia Bollinger,Bruderholz,CH,"Kantonsspital Bruderholz, Batteriestrasse",,,,,335.79,890.24,,,1226.03,hcp,vifor
+Gernot Bonkat,Basel,CH,"alta uro AG, Centralbahnplatz 6",,,,,,,800.0,139.0,939.0,hcp,vifor
+Aline Borcard,Fribourg,CH,"Clinique Générale - Ste-Anne SA, Rue Hans- Geiler 6",,,,,198.59,681.47,500.0,,1380.06,hcp,vifor
+Jan Borovicka,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Strasse 95",,,,,525.82,1247.47,,,1773.29,hcp,vifor
+Oliver Gero Bosch,Zürich,CH,"Psychiatrische Uniklinik, Lenggstrasse 31",,,,,,,1000.0,,1000.0,hcp,vifor
+Matthias Bossard,Luzern,CH,"Luzerner Kantonsspital, Spitalstrasse",,,,,996.76,755.76,,,1752.52,hcp,vifor
+Nicole Bossart Jacquat,Fribourg,CH,"Clinique Générale - Ste-Anne SA, Rue Hans- Geiler 6",,,,,198.59,692.96,500.0,,1391.55,hcp,vifor
+Stephan Brand,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Strasse 95",,,,,530.84,713.18,,,1244.02,hcp,vifor
+Thomas Braschler,Luzern,CH,"Luzerner Kantonsspital, Spitalstrasse",,,,,,,1000.0,,1000.0,hcp,vifor
+Urs Breitenstein,Zürich,CH,"Brust-Zentrum AG, Seefeldstrasse 214",,,,,636.24,983.25,,,1619.49,hcp,vifor
+Yevheniya Breu-Skarlat,Rorschach,CH,"Psychiatrie St. Gallen Nord, Mariabergstrasse 19",,,,,333.33,,,,333.33,hcp,vifor
+Christian Breymann,Zürich,CH,"GGS Gynäkologie Geburtshilfe, Seefeldstrasse 214",,,,,,,2750.0,,2750.0,hcp,vifor
+Stephanie Bridenbaugh,Basel,CH,"Felix Platter-Spital, Burgfelderstrasse 101",,,,,,,4523.2,120.0,4643.2,hcp,vifor
+Walter Brogiolo,Schaffhausen,CH,"Psychiatriezentrum Breitenau, Nordstrasse 111",,,,,333.33,166.67,,,500.0,hcp,vifor
+Urs Brüderlin,Basel,CH,"Praxis Dr. Brüderlin Urs, Riehenstrasse 24",,,,,333.33,166.67,,,500.0,hcp,vifor
+Jan Brügger,Horgen,CH,"See-Spital Horgen, Asylstrasse 19",,,,,225.12,1192.16,750.0,,2167.28,hcp,vifor
+Annette Brühl,Zürich,CH,"Psychiatrische Uniklinik, Lenggstrasse 31",,,,,,,2000.0,,2000.0,hcp,vifor
+K. Wolfgang Buck,Zürich,CH,"Praxis Dr. Buck K. Wolfgang, Gubelstrasse 28",,,,,333.33,,,,333.33,hcp,vifor
+Saskia Büdenbender,Bern,CH,"Gastroenterologische Praxis, Bremgartenstrasse 119",,,,,462.1,692.61,,,1154.71,hcp,vifor
+Thomas Buder,St. Moritz,CH,"Praxis Dr. Buder Thomas, Via Rosatsch 7",,,,,333.33,166.67,,,500.0,hcp,vifor
+Roberto Bullani,Morges,CH,"Hôpital de Morges (EHC), Chemin du Crêt 2",,,,,301.25,510.75,,,812.0,hcp,vifor
+Jürg Burgherr,Horw,CH,"Praxis Dres. Burgherr, Gemeindehausplatz 6",,,,,350.08,626.72,,,976.8,hcp,vifor
+Michel Burnier,Saint-Légier-La Chiésaz,CH,Derrey le Motty 8,,,,,,,2000.0,,2000.0,hcp,vifor
+Ingo Butzke,Münsingen,CH,"PZM Psychiatriezentrum Münsingen, Hunzigenallee 1",,,,,355.1,1751.76,,,2106.86,hcp,vifor
+Sonja Capek Gubser,Zürich,CH,"Praxis am Stauffacher, Badenerstrasse 21",,,,,333.33,,,,333.33,hcp,vifor
+Mauro Capoferri,Chiasso,CH,"Studio medico di gruppo, Via Giuseppe Motta 12",,,,,,,1500.0,,1500.0,hcp,vifor
+Verónica Castillo-Cruz,Saillon,CH,"Cabinet Dr Castillo Cruz, Route de Saxon 8",,,,,402.0,674.33,,,1076.33,hcp,vifor
+Adrian Casty,Bern,CH,"Lindenhofspital, Bremgartenstrasse 119",,,,,572.85,649.87,,,1222.72,hcp,vifor
+Florence Caudron,Lausanne,CH,"Ctre. Gastroentérologie Beaulieu, Avenue Jomini 8",,,,,187.13,720.58,,,907.71,hcp,vifor
+Corinne Cescato-Wenger,Basel,CH,"St. Claraspital AG, Kleinriehenstrasse 30",,,,,572.85,,,,572.85,hcp,vifor
+Evelyne Chaillon,Gland,CH,"Clinique La Lignière SA, La Lignière 5",,,,,595.76,1323.24,,,1919.0,hcp,vifor
+Florian Charbonnier,Genève,CH,"Centre Médical de la Servette, Avenue de Luserna 17",,,,,,,1600.0,40.0,1640.0,hcp,vifor
+Stéphanie Chassot Berthod,Montreux,CH,"Cabinet Dr Stamm / Dr Chassot, Avenue du Casino 46",,,,,198.59,544.32,500.0,,1242.91,hcp,vifor
+Bernard Chevaux,Yverdon-les-Bains,CH,"Hôpital Yverdon-les-Bains eHnv, Rue de Plaisance 2",,,,,335.79,974.19,,,1309.98,hcp,vifor
+Steffen Christmann,Frutigen,CH,"Arztpraxis Frutigen, Dorfstrasse 13",,,,1000.0,,,,,1000.0,hcp,vifor
+Stefano Ciaroni,Genève,CH,"Cabinet Dr Ciaroni Stefano, Rue du Conseil Général 11",,,,,416.41,834.95,,,1251.36,hcp,vifor
+Pietro Cippà,Lugano,CH,"Ospedale Regionale di Lugano EOC, Via Tesserete 46",,,,,416.27,1100.5,,,1516.77,hcp,vifor
+Christian Clarenbach,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,,,800.0,,800.0,hcp,vifor
+Grégory Clark,La Chaux-de-Fonds,CH,"Centre médico chirurgical Volta, Rue Numa-Droz 187A",,,,,,,500.0,,500.0,hcp,vifor
+Oliver Cloot,Münsingen,CH,"PZM Psychiatriezentrum Münsingen, Hunzigenallee 1",,,,,390.61,984.87,,,1375.48,hcp,vifor
+Stéphane Cochet,Lausanne,CH,"Cabinet Dr Cochet/Dr Tran Thang, Avenue Alexandre Vinet 19b",,,,,335.79,880.68,,,1216.47,hcp,vifor
+Heike Coerper,Zürich,CH,"HEIKECOERPER Fachärztin., Feldeggstrasse 32",,,,,333.33,166.67,,,500.0,hcp,vifor
+Sara Colomer-Lahiguera,Lausanne,CH,"Université de Lausanne, Route de la Corniche 10",,,,,,,500.0,,500.0,hcp,vifor
+Philippe Cordey,Zollikofen,CH,"Praxis Dres. Cordey & Hartmann, Kirchlindachstrasse 7",,,,,,,1000.0,,1000.0,hcp,vifor
+Gabriela Cotarcea,Genève,CH,"Cabinet Dr Sabeti / Dr Cotarcea, Rue de l'Athénée 22",,,,,198.59,626.53,500.0,,1325.12,hcp,vifor
+Denise Cottier,Dietikon,CH,"Praxis Dr. Cottier Denise, Widmenhalde 7",,,,,333.33,,,,333.33,hcp,vifor
+Martial Coutaz,Martigny,CH,"HVS - CHVR - Hôpital de Martigny, Avenue de la Fusion 27",,,,,,,1000.0,84.0,1084.0,hcp,vifor
+Ludmila Creanga,Rorschach,CH,"Praxis Dr. Creanga Ludmilla, St. Gallerstrasse 1",,,,,402.0,812.39,,,1214.39,hcp,vifor
+Dominique Criblez,Luzern,CH,"Hirslanden Klinik St. Anna, Sankt-Anna-Strasse 32",,,,,,,750.0,,750.0,hcp,vifor
+Silvia Cueni,Basel,CH,"Praxis Dr. Cueni Silvia, Clarahofweg 19A",,,,,333.33,166.67,,,500.0,hcp,vifor
+Bertrand Curty,Corcelles NE,CH,"Centre Médical de la Côte SA, Rue du Petit- Berne 14",,,,,466.92,572.02,,,1038.94,hcp,vifor
+Suzan Dahdal,Bern,CH,"Inselspital Bern, Freiburgstrasse 15",,,,,345.18,1273.2,,,1618.38,hcp,vifor
+Andrea De Gottardi,Viganello,CH,"Ospedale Regionale di Lugano, Viale Pietro Capelli 1",,,,,,506.96,1500.0,,2006.96,hcp,vifor
+Olivier de Rougemont,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,416.27,1124.93,,,1541.2,hcp,vifor
+Sophie de Seigneux,Genève,CH,"Hôpitaux Universitaires Genève, Rue Gabrielle- Perret-Gentil 4",,,,,,,1500.0,,1500.0,hcp,vifor
+Lukas Degen,Basel,CH,"Universitätsspital Basel, Petersgraben 4",,,,,,1241.18,1500.0,,2741.18,hcp,vifor
+Cécile Delémont,Chêne-Bougeries,CH,"Clinique des Grangettes SA, Chemin des Grangettes 7",,,,,,,1500.0,,1500.0,hcp,vifor
+Mirco Delpretti,Monthey,CH,"Cabinet Dr Delpretti Mirco, Rue de la Tour 3",,,,,198.59,544.32,500.0,,1242.91,hcp,vifor
+Andrea Denegri,Paradiso,CH,"Cardiocentro Ticino, Via Tesserete 48",,,,,996.76,1030.66,,,2027.42,hcp,vifor
+Annick Denzler,Baden,CH,"Kantonsspital Baden AG, Im Ergel 1",,,,,316.91,850.7,,,1167.61,hcp,vifor
+Eric Descombes,Fribourg,CH,"HFR Fribourg-Hôpital Cantonal, Chemin des Pensionnats 2",,,,,137.79,672.97,,,810.76,hcp,vifor
+Saskia Ditisheim,Neuchâtel,CH,"Hôpital de la Providence, Faubourg De L'hôpital 81",,,,,244.42,885.0,,,1129.42,hcp,vifor
+Zeno Dolezal,Olten,CH,"Dolezal & Zeller Praxis, Vorderer Steinacker 31",,,,,333.33,166.67,,,500.0,hcp,vifor
+Frank Dörwaldt,Rheinfelden,CH,"Praxis Dr. Dörwaldt Frank, Marktgasse 15",,,,,333.33,,,,333.33,hcp,vifor
+Valérie Durand,Genève,CH,"Hôpitaux Universitaires Genève, Rue Gabrielle- Perret-Gentil 4",,,,,531.71,863.12,,,1394.83,hcp,vifor
+Jens Eckert,Glattbrugg,CH,"Integrierte Psychiatrie, Feldeggstrasse 5",,,,,333.33,,,,333.33,hcp,vifor
+Thomas Egger,St. Gallen,CH,"Klinik Gais Ambulatorium, Teufener Strasse 25",,,,,333.33,,,,333.33,hcp,vifor
+Hans Ulrich Ehrbar,Rüti ZH,CH,"Bauchzentrum Rüti, Neuwiesenstrasse 9",,,,,525.82,1460.27,,,1986.09,hcp,vifor
+Philipp Eich,Basel,CH,"Praxis Dr. Eich Philipp, General Guisan-Strasse 46",,,,,,,1600.0,,1600.0,hcp,vifor
+Dominique Eich,Zürich,CH,"Brain Assessment Research Center, Turnerstrasse 26",,,,,,,800.0,,800.0,hcp,vifor
+Manuela Eicher,Lausanne,CH,"Université de Lausanne, Route de la Corniche 10",,,,,565.54,1083.45,,,1648.99,hcp,vifor
+Lucia Eichhorn,Luzern,CH,"Luzerner Kantonsspital, Spitalstrasse",,,,,531.71,725.34,,,1257.05,hcp,vifor
+Julien Elowe,Prangins,CH,"Hôpital de Prangins (SPA-O), chemin Oscar Forel 3",,,,,134.0,827.22,,,961.22,hcp,vifor
+Hanno Elsässer,Basel,CH,"Merian Iselin Spital, Föhrenstrasse 2",,,,,345.18,1042.62,,,1387.8,hcp,vifor
+Uwe Elschner,Hochdorf,CH,"Ärztezentrum Hochdorf GmbH, Hengstweid 6A",,,,,350.08,159.93,,,510.01,hcp,vifor
+Hamid-Reza Eslam,Marin-Epagnier,CH,"Cabinet Dr Eslam / Dr Ghafoori, Rue Paul- Vouga 161",,,,,317.98,875.21,,,1193.19,hcp,vifor
+Patrick Fachinger,Rheinfelden,CH,"Pneumologie Nordwest Rheinfelden, Kaiserstrasse 8",,,,,,,1200.0,,1200.0,hcp,vifor
+Alberto Fasoli,Bellinzona,CH,"Ospedale Bellinzona e Valli EOC, Via Ospedale",,,,,,,1000.0,,1000.0,hcp,vifor
+Nicolette Fauth-Kys,Zug,CH,"Praxis Dr. Fauth-Kys Nicolette, Chamerstrasse 172",,,,,333.33,166.67,,,500.0,hcp,vifor
+Ansgar Felbecker,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Strasse 95",,,,,,,1500.0,,1500.0,hcp,vifor
+Simon Feldhaus,Baar,CH,"Paramed AG, Haldenstrasse 1",,,,,,,2000.0,,2000.0,hcp,vifor
+Jean Marc Fellrath,Neuchâtel,CH,"Hôpital neuchâtelois Pourtalès, Rue de la Maladière 45",,,,,531.71,801.85,800.0,,2133.56,hcp,vifor
+Enrico Riccardo Ferrari,Lugano,CH,"Fondazione Cardiocentro Ticino, Via Tesserete 48",,,,,996.76,912.71,,,1909.47,hcp,vifor
+Claudia Ferrier-Guerra,Lugano,CH,"Clinica Luganese Moncucco SA, Via Moncucco 10",,,,2000.0,,,,,2000.0,hcp,vifor
+Michael Feusier,Carouge GE,CH,"CMEI, Quai du Cheval-Blanc 2",,,,,466.92,572.02,,,1038.94,hcp,vifor
+Peter Fischer,Rheinfelden,CH,"Praxis Dr. Fischer Peter, Marktgasse 25/27",,,,,402.0,781.53,,,1183.53,hcp,vifor
+Susanne Flückiger,Aarau,CH,"Gastroenterologie Aarau AG, Wiesenstrasse 25",,,,,324.62,532.98,,,857.6,hcp,vifor
+Stefan Flury,Frauenfeld,CH,"Kantonsspital Frauenfeld, Pfaffenholzstrasse 4",,,,,146.06,646.15,,,792.21,hcp,vifor
+Karoline Fotinos-Graf,Bern,CH,"Praxis Aromaphyt, Diesbachstrasse 11",,,,,,,8300.0,,8300.0,hcp,vifor
+Emilia Frangos Lordos,Genève,CH,"Clinique de Joli-Mont (EMP), Avenue Trembley 45",,,,,,,1077.0,,1077.0,hcp,vifor
+Jürg Frei,Frick,CH,"magendarm Fricktal AG, Dammstrasse 5",,,,,318.92,574.93,,,893.85,hcp,vifor
+Pascal Frei,Zürich,CH,"GSMN Suisse SA - Privatklinik B., Toblerstrasse 51",,,,,244.42,920.88,1000.0,,2165.3,hcp,vifor
+Niclas Freund,Rheinfelden,CH,"Herzpraxis am Rhein, Habich-Dietschy-Strasse 18",,,,,,,1000.0,,1000.0,hcp,vifor
+Giovanni Frisoni,Thônex,CH,"Hôpital des Trois Chênes, Chemin du Pont- Bochet 3",,,,,,,1938.6,,1938.6,hcp,vifor
+Milja Froesch,Aarau,CH,"Praxis Dr. Froesch Milja, Rathausgasse 9",,,,,333.33,166.67,,,500.0,hcp,vifor
+Adrian Fröhlich,Grenchen,CH,"Praxis im Zentrum, Bielstrasse 2",,,,,333.33,,,,333.33,hcp,vifor
+Oliver Fuchs,Bern,CH,"Inselspital Bern, Freiburgstrasse 18",,,,,,,1200.0,,1200.0,hcp,vifor
+David Fumeaux,Lausanne,CH,"Cabinet Dr Cherpillod/ Dr Fumeax, Avenue Louis Ruchonnet 57",,,,,573.32,554.31,,,1127.63,hcp,vifor
+Sabine Funk,Winterthur,CH,"Kantonsspital Winterthur, Brauerstrasse 15",,,,,362.81,496.68,,,859.49,hcp,vifor
+Philippe Gaillard,Martigny,CH,"Cabinet Dr Gaillard Philippe, Avenue de la Gare 19",,,,,343.71,1311.18,,,1654.89,hcp,vifor
+Valérie Gaist,Sion,CH,"Cabinet Dr Gaist Valérie, Rue de Pré-Fleuri 2c",,,,,466.92,572.02,,,1038.94,hcp,vifor
+Ermira Gasser-Hoti,Crissier,CH,"Policlinique Nord-Sud Sàrl, Rue du Jura 2",,,,,317.98,848.54,,,1166.52,hcp,vifor
+Giacomo Gastaldi,Genève,CH,"Hôpitaux Universitaires Genève, Rue Gabrielle- Perret-Gentil 4",,,,,,,1938.6,,1938.6,hcp,vifor
+Marco Gebbers,Brunnen,CH,"Seeklinik Brunnen, Gersauerstrasse 8",,,,,,,1000.0,,1000.0,hcp,vifor
+Agnes Genewein,Basel,CH,"Universitäts-Kinderspital Basel, Spitalstrasse 33",,,,,127.57,1179.6,,,1307.17,hcp,vifor
+John George,Genève,CH,"Centre Médical de la Servette, Avenue de Luserna 17",,,,,402.0,659.13,,,1061.13,hcp,vifor
+Dan Georgescu,Windisch,CH,"Memory Clinic, Zürcherstrasse 241",,,,,,,800.0,,800.0,hcp,vifor
+Olga Gerasimovic,Urdorf,CH,"B. Braun Medical Care AG, Bahnhofstrasse 104",,,,,146.06,274.03,,,420.09,hcp,vifor
+Peter Jules Gerber,Bern,CH,"Lungenpraxis Bern West, Holenackerstrasse 85",,,,,445.85,1580.66,,,2026.51,hcp,vifor
+Andreas Gerber,Zürich,CH,"Klinik Hirslanden AG, Witellikerstrasse 36",,,,,1321.38,1784.69,,,3106.07,hcp,vifor
+Thomas Gerster,Langenthal,CH,"Praxis Dr. Gerster Thomas, Marktgasse 32",,,,,333.33,,,,333.33,hcp,vifor
+Grégoire Gex,Montana,CH,"Centre Valaisan de Pneumologie, Route de la Moubra 87",,,,,445.85,1291.25,,,1737.1,hcp,vifor
+Martin Geyer,Wettingen,CH,"Gastro. Baden-Wettingen, Landstrasse 166",,,,,525.82,1419.33,,,1945.15,hcp,vifor
+Pietro Cesare Antonio Gianella,Lugano,CH,"Ospedale Regionale di Lugano EOC, Via Tesserete 46",,,,,,,1000.0,,1000.0,hcp,vifor
+Anton Gietl,Zürich,CH,"Klinik für Alterspsychiatrie, Minervastrasse 145",,,,,,,800.0,,800.0,hcp,vifor
+Marc Girardin,Onex,CH,"Groupe Médical d'Onex SA, Route de Loëx 3",,,,,229.14,764.23,,,993.37,hcp,vifor
+Jeroen Goede,Winterthur,CH,"Kantonsspital Winterthur, Brauerstrasse 15",,,,,,,4000.0,,4000.0,hcp,vifor
+Daniel J. Good,Basel,CH,"Praxis Dr. Good Daniel, Aeschenvorstadt 57a",,,,,318.92,490.95,,,809.87,hcp,vifor
+Rossella Graffeo,Lugano,CH,"Ospedale Regionale di Lugano EOC, Via Tesserete 46",,,,,572.85,708.94,,,1281.79,hcp,vifor
+Gunter Grein,Goldach,CH,"Praxis Dr. Grein Gunter, Hauptstrasse 6",,,,,333.33,,,,333.33,hcp,vifor
+Philipp Grob-Blum,Spiez,CH,"Lungenpraxis Spiez AG, Oberlandstrasse 9",,,,,350.08,639.78,,,989.86,hcp,vifor
+Lukasz Filip Grochola,Winterthur,CH,"Kantonsspital Winterthur, Brauerstrasse 15",,,,,,705.68,1000.0,45.2,1750.88,hcp,vifor
+Claudia Gröttrup,Münsterlingen,CH,"Stiftung Mansio, Seeblickstrasse 3",,,,,333.33,166.67,,,500.0,hcp,vifor
+Idris Guessous,Genève,CH,"Hôpitaux Universitaires Genève, Rue Gabrielle- Perret-Gentil 4",,,,,,,1577.0,,1577.0,hcp,vifor
+Stephan Sebastian Gut,Basel,CH,"Universitätsspital Basel, Spitalstrasse 26",,,,,482.0,967.76,,,1449.76,hcp,vifor
+Gabriella Guzzo,Sion,CH,"Hôpital du Valais - Sion, Avenue Grand- Champsec 80",,,,,225.12,1135.17,,,1360.29,hcp,vifor
+Beat Gysi,Reinach BL,CH,"Praxis Dr. Gysi Beat, Hauptstrasse 52",,,,,318.92,451.18,,,770.1,hcp,vifor
+Karine Hadaya,Genève,CH,"Hôpitaux Universitaires Genève, Rue Gabrielle- Perret-Gentil 4",,,,,,,1615.0,,1615.0,hcp,vifor
+Meinrad Hahn,Bern,CH,"Praxis Dr. Hahn Meinrad, Kramgasse 75",,,,,333.33,166.67,,,500.0,hcp,vifor
+Markus Hahn,St. Gallen,CH,"Ostschweizer Kinderspital, Claudiusstrasse 6",,,,,127.57,746.57,,,874.14,hcp,vifor
+Marcel Halama,Zürich,CH,"Ärztehaus Fluntern, Zürichbergstrasse 70",,,,,318.92,546.79,,,865.71,hcp,vifor
+Andreas Haller,Wil SG,CH,"Psychiatrie St.Gallen Nord, Zürcherstrasse 30",,,,,390.61,984.87,,,1375.48,hcp,vifor
+Jürg Hamacher,Bern,CH,"Praxis Dr. Hamacher Jürg, Bremgartenstrasse 119",,,,,532.32,511.71,,,1044.03,hcp,vifor
+Ilinca Hamel-Romoscanu,Lausanne,CH,"Cabinet Dr Hamel Ilinca, Rue Centrale 15",,,,,198.59,692.96,500.0,,1391.55,hcp,vifor
+Robert Hämmig,Bern,CH,"UPD Bern, Zieglerstrasse 30",,,,,,,600.0,,600.0,hcp,vifor
+Christoph Hatz,Basel,CH,"Swiss Tropical and Public Health Institute, Socinstrasse 57",,,,,,,1500.0,,1500.0,hcp,vifor
+Gundula Hebisch,Frauenfeld,CH,"Kantonsspital Frauenfeld, Pfaffenholzstrasse 4",,,,,235.84,806.48,,,1042.32,hcp,vifor
+Serge Hediger,Winterthur,CH,"Magen Darm Praxis Winterthur, Rudolfstrasse 9",,,,,318.92,165.09,,,484.01,hcp,vifor
+Julia Hemmeter,Uttwil,CH,"Praxis Dr. Hemmeter Julia, Seehofstrasse 6",,,,,333.33,,,,333.33,hcp,vifor
+Heinz Hengartner,St. Gallen,CH,"Ostschweizer Kinderspital, Claudiusstrasse 6",,,,,,,1000.0,,1000.0,hcp,vifor
+Michael Henrich,Kreuzlingen,CH,"Praxis Dr. Henrich Michael, Nationalstrasse 17",,,,,333.33,166.67,,,500.0,hcp,vifor
+Matthias Herrmann,Basel,CH,"Universitätsspital Basel, Petersgraben 4",,,,,445.85,1459.52,,,1905.37,hcp,vifor
+Daniel Hertner,Schwyz,CH,"Spital Schwyz, Waldeggstrasse 10",,,,,525.28,1012.74,750.0,,2288.02,hcp,vifor
+Cyrill Hess,Wetzikon ZH,CH,"GZO Spital Wetzikon, Spitalstrasse 66",,,,,229.14,833.78,,,1062.92,hcp,vifor
+Claudia Hirschi,Luzern,CH,"Gastropraxis Luzern, Hirschengraben 33",,,,,324.62,532.98,,,857.6,hcp,vifor
+Andreas Hirth,Luzern,CH,"Praxis Dr. Hirth Andreas, Hirschengraben 33b",,,,,333.33,166.67,,,500.0,hcp,vifor
+Patricia Hirt-Minkowski,Bern,CH,"Lindenhofspital, Bremgartenstrasse 119",,,,,231.92,76.53,,,308.45,hcp,vifor
+Alexandre Hobi,Chernex,CH,"Cabinet Dr Hobi Alexandre, Route de Chaulin 24",,,,,402.0,581.27,,,983.27,hcp,vifor
+Markus Hodel,Luzern,CH,"Luzerner Kantonsspital, Spitalstrasse",,,,,235.84,806.48,,,1042.32,hcp,vifor
+Florian Hofbauer,Aarau,CH,"Kantonsspital Aarau AG, Tellstrasse 25",,,,,996.76,925.61,,,1922.37,hcp,vifor
+Marie Hofer,Neuchâtel,CH,"Hôpital neuchâtelois Pourtalès, Rue de la Maladière 45",,,,,531.71,556.0,,,1087.71,hcp,vifor
+Erik Walter Holy,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,1116.76,965.14,1000.0,,3081.9,hcp,vifor
+Stefanie Honegger-Bloch,Burgdorf,CH,"Spital Emmental AG Burgdorf, Oberburgstrasse 54",,,,,345.18,1194.59,,,1539.77,hcp,vifor
+Thomas Horisberger,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,,,800.0,,800.0,hcp,vifor
+René Hornung,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Strasse 95",,,,,,,1750.0,,1750.0,hcp,vifor
+Ann-Kristin Hörsting,Zürich,CH,"Psychcentral am Central, Weinbergstrasse 26",,,,,221.1,922.59,1300.0,,2443.69,hcp,vifor
+Irene Hösli,Basel,CH,"Universitätsspital Basel, Spitalstrasse 21",,,,,,,3000.0,,3000.0,hcp,vifor
+Wolfgang Hostettler,Zürich,CH,"Gemeinschaftspraxis, Obere Zäune 14",,,,,333.33,,,,333.33,hcp,vifor
+Kerstin Hübel,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,536.77,1744.44,,,2281.21,hcp,vifor
+Melanie Huber,Winterthur,CH,"IPW Integrierte Psychiatrie, Wieshofstrasse 102",,,,,333.33,166.67,,,500.0,hcp,vifor
+Jean-Paul Hüsser,Biel/Bienne,CH,"Cabinet Dr Hüsser Jean-Paul, Hans-Hugi- Strasse 12",,,,,333.33,166.67,,,500.0,hcp,vifor
+Uyen Huynh-Do,Bern,CH,"Inselspital Bern, Freiburgstrasse 15",,,,,203.33,67.1,,,270.43,hcp,vifor
+Liliana Ilic,Muri b. Bern,CH,"Praxis Dr. Ilic Liliana, Egghölzliweg 1",,,,,333.33,166.67,,,500.0,hcp,vifor
+Christian Imboden,Münchenbuchsee,CH,"Privatklinik Wyss AG, Fellenbergstrasse 34",,,,,224.79,788.44,2000.0,,3013.23,hcp,vifor
+Beat Ineichen,Baar,CH,"Praxis Dr. Ineichen Beat, Bahnhof-Park 1",,,,,333.33,166.67,,,500.0,hcp,vifor
+Kathleen Jahn,Basel,CH,"Universitätsspital Basel, Petersgraben 4",,,,,531.71,932.66,500.0,,1964.37,hcp,vifor
+Peter Jaklin,Männedorf,CH,"Spital Männedorf AG, Asylstrasse 10",,,,,525.82,1679.83,,,2205.65,hcp,vifor
+Werner Janz,Münchenstein,CH,"Praxis Dr. Janz Werner, Gartenstadt 5",,,,,333.33,166.67,,,500.0,hcp,vifor
+Pierre-Yves Jayet,Lausanne,CH,"Pneumologie de Grancy SPRL, Boulevard de Grancy 7",,,,,445.85,1325.29,,,1771.14,hcp,vifor
+Ruta Jekentaite,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Strasse 95",,,,,333.33,,,,333.33,hcp,vifor
+Josef Jenewein,Oberwil b. Zug,CH,"Triaplus AG, Widenstrasse 55",,,,,,,2000.0,,2000.0,hcp,vifor
+Brigitte Maria Joos,Frauenfeld,CH,"Praxis Dr.Joos Brigitte Maria, Promenadenstrasse 11a",,,,,333.33,166.67,,,500.0,hcp,vifor
+Peter Jülke,Hochdorf,CH,"Praxis Krebs und Leben Dr. Jülke, Zihlweid 34",,,,,333.33,,,,333.33,hcp,vifor
+Açif Kafexholli,Bern,CH,"Praxis Dr. Kafexholli Açif, Reichenbachstrasse 41",,,,,402.0,812.59,,,1214.59,hcp,vifor
+Gunther Kaindl,Bülach,CH,"Spital Bülach, Spitalstrasse 24",,,,,235.84,759.98,,,995.82,hcp,vifor
+Robert Kalicki,Riaz,CH,"Hôpital Sud Fribourgeois, Riaz, Rue de l' Hôpital 9",,,,,345.18,832.69,,,1177.87,hcp,vifor
+Ellen Karcher,Teufen AR,CH,"Klinik Teufen AG, Landhausstrasse 1b",,,,,333.33,,,,333.33,hcp,vifor
+Kerstin Karus,Chur,CH,"Kantonsspital Graubünden, Loestrasse 170",,,,,482.0,1135.07,,,1617.07,hcp,vifor
+Maki Kashiwagi,Uster,CH,"gynosense AG, Bankstrasse 8",,,,,,,500.0,,500.0,hcp,vifor
+Vitalij Kazin,Schaffhausen,CH,"Praxis Kazin Vitalij, Bachstrasse 40",,,,,333.33,166.67,,,500.0,hcp,vifor
+Urs Keller,Sargans,CH,"PizolCare-Praxis Sargans AG, Bahnhofpark 2a",,,,,350.08,626.72,,,976.8,hcp,vifor
+Pierre-Frédéric Keller,Delémont,CH,"Cabinet Dr Keller Pierre, Rue De La Maltière 10",,,,,996.76,987.25,,,1984.01,hcp,vifor
+Silke Kenngott,Rapperswil SG,CH,"Bauchzentrum Rapperswil, Güterstrasse 21/23",,,,,356.44,468.84,,,825.28,hcp,vifor
+Marta Kerstan,Zuchwil,CH,"DePuy Synthes, Luzernstrasse 21",,,,,531.71,435.27,,,966.98,hcp,vifor
+Vera Kessler Brondolo,Viganello,CH,"Ospedale Regionale di Lugano, Viale Pietro Capelli 1",,,,,525.82,1264.89,3000.0,,4790.71,hcp,vifor
+Andrei Khomenko,Zug,CH,"Klinik Meissenberg AG, Meisenbergstrasse 17",,,,,390.61,899.74,,,1290.35,hcp,vifor
+Tim Klose,Zürich,CH,"Psychiatrische Praxis Klose, Gartenstrasse 36",,,,,333.33,166.67,,,500.0,hcp,vifor
+Eva Knechtle,Bern,CH,"Praxis Dr. Knechtle Eva, Mottastrasse 4",,,,,333.33,166.67,,,500.0,hcp,vifor
+Agnes Kneubühl,Lachen SZ,CH,"Spital Lachen AG, Oberdorfstrasse 41",,,,,301.25,516.72,,,817.97,hcp,vifor
+Christoph Knoblauch,Stans,CH,"Kantonsspital Nidwalden, Ennetmooserstrasse 19",,,,,229.14,,,,229.14,hcp,vifor
+Jürg Knuchel,Aarau,CH,"Kantonsspital Aarau AG, Tellstrasse 25",,,,,525.82,1730.14,,,2255.96,hcp,vifor
+Hardy Koch,Biel/Bienne,CH,"ZFPP-Zentrum, Bahnhofstrasse 19",,,,,221.1,922.59,,,1143.69,hcp,vifor
+Stavros Kosmidis,Jona,CH,"rappjmed AG, Med. Zentrum, Allmeindstrasse 5",,,,,402.0,811.06,,,1213.06,hcp,vifor
+Iwona Koziol,Gunzwil,CH,"Gesundheitszentrum Beromünster, Spielmatte 1",,,,,402.0,742.27,,,1144.27,hcp,vifor
+Reto W. Kressig,Basel,CH,"Felix Platter-Spital, Burgfelderstrasse 101",,,,,,,6392.7,120.0,6512.7,hcp,vifor
+Hasan Kulaksiz,Zürich,CH,"Hirslanden AG - Klinik im Park, Seestrasse 90",,,,,356.44,520.36,,,876.8,hcp,vifor
+Thomas Kuntzen,Aarau,CH,"Kantonsspital Aarau AG, Tellstrasse 25",,,,,318.92,685.52,,,1004.44,hcp,vifor
+Thomas Kurowski,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,531.71,463.66,,,995.37,hcp,vifor
+Jean-Francois Lambert,Nyon,CH,"Hôpital de Nyon - GHOL, Chemin Monastier 10",,,,,,,4500.0,,4500.0,hcp,vifor
+Brigitte Landtwing-Lüscher,Thun,CH,"Spital Thun - STS AG, Krankenhausstrasse 12",,,,,,,1000.0,,1000.0,hcp,vifor
+Olav Lapaire-Mayer,Basel,CH,"Universitätsspital Basel, Spitalstrasse 21",,,,,,,1000.0,,1000.0,hcp,vifor
+Philipp Latzin,Bern,CH,"Inselspital Bern, Freiburgstrasse 18",,,,,,,600.0,,600.0,hcp,vifor
+Sérgio Lenoir,St. Gallen,CH,"Praxis Dr. Lenoir Sérgio, Zürcher Strasse 170",,,,,467.33,754.19,,,1221.52,hcp,vifor
+Thomas Leyhe,Basel,CH,"Universitäre Psych. Kliniken UPK, Wilhelm Klein- Strasse 27",,,,,,,800.0,120.0,920.0,hcp,vifor
+Thomas Limacher,Neuenkirch,CH,"Hausarztpraxis Maiengrüeni, Maiengrüenistrasse 2",,,,,350.08,626.72,,,976.8,hcp,vifor
+Andreas Linde,Windisch,CH,"Psychiatrische Dienste Aargau AG, Zürcherstrasse 241",,,,,333.33,166.67,,,500.0,hcp,vifor
+Renata Linkesch,Zürich,CH,"B. Braun Medical Care AG, Hofwiesenstrasse 350",,,,,146.06,219.09,,,365.15,hcp,vifor
+Enver Lleshi,Montreux,CH,"Cabinet Dr Lleshi Enver, Avenue des Alpes 51",,,,,,,800.0,,800.0,hcp,vifor
+Katharina Lorenz,Frauenfeld,CH,"Kantonsspital Frauenfeld, Pfaffenholzstrasse 4",,,,,636.24,1151.25,,,1787.49,hcp,vifor
+Peter Ludwig,Chur,CH,"Kantonsspital Graubünden, Loestrasse 170",,,,,350.08,639.78,,,989.86,hcp,vifor
+Tim Lüneburg,Rorschach,CH,"Praxis Dres. Lüneburg & Berger, Neugasse 14",,,,,333.33,,,,333.33,hcp,vifor
+Liudmila Lüthi,Frauenfeld,CH,"Kantonsspital Frauenfeld, Pfaffenholzstrasse 4",,,,,301.25,491.04,,,792.29,hcp,vifor
+Karen Maes,Fribourg,CH,"HFR Fribourg-Hôpital Cantonal, Chemin des Pensionnats 2",,,,,482.0,977.51,,,1459.51,hcp,vifor
+Massimo Maffei,Lugano,CH,"Ospedale Regionale di Lugano EOC, Via Tesserete 46",,,,,404.82,1309.2,1000.0,,2714.02,hcp,vifor
+Michel Maillard,Lausanne,CH,"Ctre. Gastroentérologie Beaulieu, Avenue Jomini 8",,,,,,,1500.0,,1500.0,hcp,vifor
+Mauro Manconi,Lugano,CH,"Ospedale Regionale di Lugano EOC, Via Tesserete 46",,,,,,,1500.0,,1500.0,hcp,vifor
+Christine Manser,Frauenfeld,CH,"Kantonsspital Frauenfeld, Pfaffenholzstrasse 4",,,,,525.82,1815.2,,,2341.02,hcp,vifor
+Ramin Mansour,Meilen,CH,"Privatklinik Hohenegg, Hohenegg 1",,,,,333.33,,,,333.33,hcp,vifor
+Samira Marbouh,Renens VD,CH,"Cabinet Dr Marbouh Samira, Rue de Crissier 1",,,,,466.92,572.02,,,1038.94,hcp,vifor
+Miriam Marchon,Laupen BE,CH,"Praxis um Bern, Bahnweg 2c",,,,,350.08,639.78,,,989.86,hcp,vifor
+Cristina Marcu,Lausanne,CH,"Gastro-entérologie Bel-Air, Rue de Genève 12",,,,,404.82,1243.04,,,1647.86,hcp,vifor
+Maria De Los Angeles Martin Zinnenlauf,Zürich,CH,"Hausärzte Zentrum Witikon, Witikonerstrasse 295",,,,,402.0,35.05,,,437.05,hcp,vifor
+Mariola Marx,Lausanne,CH,"CHUV, Rue Du Bugnon 44",,,,,525.82,1710.07,,,2235.89,hcp,vifor
+Susanne Massa,Zürich,CH,"Praxis Dr. Asperger Felder Maria, Mainaustrasse 12",,,,,333.33,,,,333.33,hcp,vifor
+Louise Matray,Neyruz FR,CH,"Cabinet médical de groupe, Impasse des Crosets 1",,,,,466.92,572.02,,,1038.94,hcp,vifor
+Michele Mattia,Paradiso,CH,"Studio Dr. Mattia Michele, Via San Salvatore 7",,,,,,,1500.0,,1500.0,hcp,vifor
+Veneranda Mattiello,Genève,CH,"Hôpitaux Universitaires Genève, Rue Willy- Donzé 6",,,,,,,1000.0,,1000.0,hcp,vifor
+Hugo Maye,Fribourg,CH,"HFR Fribourg-Hôpital Cantonal, Chemin des Pensionnats 2",,,,,483.36,1639.36,,,2122.72,hcp,vifor
+Catherine Mengis Bay,Brig,CH,"Spitalzentrum Oberwallis, Ueberlandstrasse 14",,,,,397.18,522.89,,,920.07,hcp,vifor
+Anja Merhof Felix,Zürich,CH,"Klinik Hirslanden AG, Witellikerstrasse 40",,,,,,,750.0,,750.0,hcp,vifor
+Emanuele Meroni,Lugano,CH,"Gastronassa21 SA, Via Nassa 21",,,,,525.82,1533.73,,,2059.55,hcp,vifor
+Michael Simon Messerli,Baar,CH,"Zuger Kantonsspital AG, Landhausstrasse 11",,,,,309.54,878.84,,,1188.38,hcp,vifor
+Philippe Meyer,Genève,CH,"Hôpitaux Universitaires Genève, Rue Gabrielle- Perret-Gentil 4",,,,,423.91,1212.09,,,1636.0,hcp,vifor
+Marc Miauton,Spiez,CH,"Praxis Gruppe Spiez AG, Oberlandstrasse 6",,,,,,,1000.0,,1000.0,hcp,vifor
+Joëlle Michel,Courtelary,CH,"Cabinet Dr Joëlle Dr Fracheboud, La Forge 9",,,,,466.92,572.02,,,1038.94,hcp,vifor
+Miglena Miteva,Zürich,CH,"Praxis Dr. Miteva Miglena, Rigistrasse 9",,,,,333.33,,,,333.33,hcp,vifor
+Hans-Peter Mitteregger,Buttisholz,CH,"GesundheitsZentrum Buttisholz AG, Arigstrasse 17",,,,,350.08,626.72,,,976.8,hcp,vifor
+Alexander Möller,Zürich,CH,"Kinderspital Zürich, Steinwiesstrasse 75",,,,,,,800.0,,800.0,hcp,vifor
+Jeanette Mollet,Aarau,CH,"Kantonsspital Aarau AG, Tellstrasse 25",,,,,235.84,806.48,,,1042.32,hcp,vifor
+Cécile Monod,Basel,CH,"Universitätsspital Basel, Spitalstrasse 21",,,,,324.28,950.16,,,1274.44,hcp,vifor
+Andreas Monsch,Basel,CH,"Felix Platter-Spital, Burgfelderstrasse 101",,,,,,,1500.0,,1500.0,hcp,vifor
+Sylvia Linda Montalvan Dobmayr,Thun,CH,"PraxisZentrum Familienmedizin, Aarefeldstrasse 19",,,,,331.65,639.78,,,971.43,hcp,vifor
+Céline Montavon Sartorius,Basel,CH,"Universitätsspital Basel, Spitalstrasse 21",,,,,572.85,891.55,,,1464.4,hcp,vifor
+Francesco Moretti,Genève,CH,"Medbase Genève Gare Cornavin, Place de Cornavin 7",,,,,189.88,792.21,,,982.09,hcp,vifor
+Eleni Moschouri,Lausanne,CH,"CHUV, Rue Du Bugnon 44",,,,,525.82,1710.07,,,2235.89,hcp,vifor
+Claudia Mössinger,Schöftland,CH,"Praxisgemeinschaft Suhrental, Aarauerstrasse 12",,,,,333.33,166.67,,,500.0,hcp,vifor
+Christian Mottet,Sion,CH,"Centre Sédunois de Gastro, Route des Ronquos 35",,,,,525.82,1661.27,,,2187.09,hcp,vifor
+André Müller,Küblis,CH,"Gruppenpraxis Küblis, Hauptstrasse 44",,,,,,,800.0,,800.0,hcp,vifor
+Christoph Müller-Pfeiffer,Zürich,CH,"UniversitätsSpital Zürich, Culmannstrasse 8",,,,,,,4500.0,,4500.0,hcp,vifor
+Julia Münst,Frauenfeld,CH,"Kantonsspital Frauenfeld, Pfaffenholzstrasse 4",,,,,,,1200.0,,1200.0,hcp,vifor
+Christian Murer,Luzern,CH,"Luzerner Kantonsspital, Spitalstrasse",,,,,398.78,781.24,,,1180.02,hcp,vifor
+Michel Muscionico,Carouge GE,CH,"Institut Psychiatrie Fontenette, Rue De La Fontenette 23",,,,,,,750.0,,750.0,hcp,vifor
+Kristiana Nesa,Blonay,CH,"Cabinet Dr Nesa Kristiana, Route du Village 10",,,,,466.92,572.02,,,1038.94,hcp,vifor
+Mario Georg Neubrand,Zürich,CH,"Praxis Dr. Neubrand Mario Georg, Freiestrasse 120",,,,,333.33,,,,333.33,hcp,vifor
+Stefan Neuner-Jehle,Zürich,CH,"Universität Zürich (UZH), Pestalozzistrasse 24",,,,,,,2000.0,,2000.0,hcp,vifor
+Anthony Nghiem,Leytron,CH,"Centre médical du Rhône, En Arche 34",,,,,189.88,770.87,,,960.75,hcp,vifor
+Thomas Niederhäuser,Bern,CH,"ElfenauPraxis, Elfenauweg 52",,,,,350.08,626.72,,,976.8,hcp,vifor
+Jan Hendrik Niess,Basel,CH,"Universitätsspital Basel, Petersgraben 4",,,,,244.42,759.61,,,1004.03,hcp,vifor
+Georg Noll,Zürich,CH,"Klinik Hirslanden AG, Witellikerstrasse 40",,,,,,,1500.0,,1500.0,hcp,vifor
+Grigorios Notaridis,Collonge-Bellerive,CH,"Cabinet Dr Notaridis Giorgios, Chemin du Pré d'Orsat 10",,,,,402.0,716.04,1500.0,,2618.04,hcp,vifor
+Albina Nowak,Zürich,CH,"Psychiatrische Uniklinik, Lenggstrasse 31",,,,,,,2500.0,,2500.0,hcp,vifor
+Marcos Oberacher,Dietikon,CH,"Praxis Gastroenterologie Limmat, Ueberlandstrasse 18",,,,,324.62,299.13,,,623.75,hcp,vifor
+Markus Oberhänsli,Meyriez,CH,"HFR Meyriez-Murten, Spitalweg 36",,,,,416.41,904.76,,,1321.17,hcp,vifor
+Michael Otrzonsek,Thalwil,CH,"Praxisgemeinschaft Ludretikon, Ludretikonerstrasse 53",,,,,333.33,,,,333.33,hcp,vifor
+Tobias Öttl,Rheinfelden,CH,"Gesundheitszentrum Fricktal AG, Riburgerstrasse 12",,,,,146.06,470.81,1750.0,,2366.87,hcp,vifor
+Jürgen Pannek,Nottwil,CH,"Schweizer Paraplegiker-Zentrum, Guido A. Zäch Strasse 1",,,,,,,1800.0,210.75,2010.75,hcp,vifor
+Jakob Passweg,Basel,CH,"Universitätsspital Basel, Petersgraben 4",,,,,,,1500.0,,1500.0,hcp,vifor
+Cyril Pellaton,Neuchâtel,CH,"Cabinet Dr Pellaton Cyril, Rue de la Maladière 45",,,,,416.41,790.19,1000.0,,2206.6,hcp,vifor
+Simona Perano,Genève,CH,"Hôpitaux Universitaires Genève, Rue Gabrielle- Perret-Gentil 4",,,,,636.24,1067.91,,,1704.15,hcp,vifor
+Lucien Perey,Morges,CH,"Hôpital de Morges (EHC), Chemin du Crêt 2",,,,,572.85,841.19,,,1414.04,hcp,vifor
+Djordje Petrovic,Hergiswil NW,CH,"Praxis Dr. Petrovic Djordje, Landweg 3",,,,,,,600.0,,600.0,hcp,vifor
+Hans-Albert Pihan,Biel/Bienne,CH,"Spitalzentrum Biel AG, Vogelsang 84",,,,,,,300.0,,300.0,hcp,vifor
+Miklos Pless,Winterthur,CH,"Kantonsspital Winterthur, Brauerstrasse 15",,,,,,,1500.0,,1500.0,hcp,vifor
+Gregory Podilsky,Neuchâtel,CH,"Hôpital neuchâtelois Pourtalès, Rue de la Maladière 45",,,,,642.32,794.51,,,1436.83,hcp,vifor
+Nana Poku,Genève,CH,"Hôpitaux Universitaires Genève, Rue Gabrielle- Perret-Gentil 4",,,,,219.09,907.79,,,1126.88,hcp,vifor
+Marco Pons,Lugano,CH,"Ospedale Regionale di Lugano EOC, Via Tesserete 46",,,,,,,4000.0,,4000.0,hcp,vifor
+Razvan Andrei Popescu,Aarau,CH,"Hirslanden Medical Center, Rain 34",,,,,405.35,5810.84,750.0,,6966.19,hcp,vifor
+Julius Popp,Thônex,CH,"Hôpitaux Universitaires Genève, Chemin du Petit Bel-Air 2",,,,,,,1938.6,587.25,2525.85,hcp,vifor
+Marc Porzner,Lachen SZ,CH,"Spital Lachen AG, Oberdorfstrasse 41",,,,,530.84,833.78,,,1364.62,hcp,vifor
+Agnès Puigrenier,Le Noirmont,CH,"Clinique Le Noirmont, Chemin de Roc-Montès 20",,,,,61.04,871.56,,,932.6,hcp,vifor
+Lorenz Räber,Bern,CH,"Inselspital Bern, Freiburgstrasse 18",,,,,,,1000.0,,1000.0,hcp,vifor
+Anda Radan,Bern,CH,"Inselspital Bern, Friedbühlstrasse 19",,,,,235.84,762.26,,,998.1,hcp,vifor
+Ulrike Gabriele Raff,Urdorf,CH,"B. Braun Medical Care AG, Bahnhofstrasse 104",,,,,345.18,1214.99,750.0,,2310.17,hcp,vifor
+Durisch Ragettli,Flims Dorf,CH,"Arztpraxis Stenna, Via Nova 80",,,,,350.08,626.72,,,976.8,hcp,vifor
+Assimoula Raptis-Mitsis,Fribourg,CH,"Cabinet Co-Naissances, Rue de Lausanne 91",,,,,198.59,678.09,500.0,,1376.68,hcp,vifor
+Oliver Ingo Detlef Rautenberg,Frauenfeld,CH,"Kantonsspital Frauenfeld, Pfaffenholzstrasse 4",,,,,608.03,533.07,,,1141.1,hcp,vifor
+Nicolas Regamey,Luzern,CH,"Luzerner Kantonsspital, Spitalstrasse",,,,,,,2200.0,105.2,2305.2,hcp,vifor
+Johannes Reich,Frauenfeld,CH,"Kantonsspital Frauenfeld, Pfaffenholzstrasse 4",,,,,318.92,456.78,,,775.7,hcp,vifor
+Karl Renggli,Gampelen,CH,"Mediteam Gampelen AG, Insstrasse 9",,,,,350.08,688.36,,,1038.44,hcp,vifor
+Stéphane Reverdin,Lausanne,CH,"Cabinet Dr Reverdin Stéphane, Avenue Jomini 8",,,,,423.91,885.16,,,1309.07,hcp,vifor
+Florian Riniker,Aarau,CH,"Gastroenterologie Aarau AG, Wiesenstrasse 25",,,,,318.92,422.37,,,741.29,hcp,vifor
+Ida Rissling,Romanshorn,CH,"Praxis Dr. Rissling Ida, Friedrichshafnerstrasse 55A",,,,,333.33,166.67,,,500.0,hcp,vifor
+Patrick Rittmann,Baar,CH,"Zuger Kantonsspital AG, Landhausstrasse 11",,,,,257.95,855.4,,,1113.35,hcp,vifor
+Damien Robyr,Pully,CH,"Cabinet Dr Robyr / Dr Croquelois, Chemin des Osches 15",,,,,198.59,743.31,500.0,,1441.9,hcp,vifor
+Gerhard Rogler,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,,,3250.0,140.0,3390.0,hcp,vifor
+Christian Rollini,Lausanne,CH,"Cabinet Dr Rollini Christian, Passage Saint- François 12",,,,,,,1000.0,,1000.0,hcp,vifor
+Slavica Romancuk,Opfikon,CH,"Praxis Dr. Romancuk Slavica, Wright-Strasse 34",,,,,333.33,,,,333.33,hcp,vifor
+Markus Romer,Thalwil,CH,"Praxis Dr. Romer Markus, Bahnhofstrasse 20",,,,,362.81,483.28,,,846.09,hcp,vifor
+Anne-Katrin Rospert,Basel,CH,"Universitätsspital Basel, Petersgraben 4",,,,,324.62,447.89,,,772.51,hcp,vifor
+Angela Röst-Gabele,Zürich,CH,"Kinderspital Zürich, Steinwiesstrasse 75",,,,,121.61,255.13,,,376.74,hcp,vifor
+Thomas Rothe,Chur,CH,"Kantonsspital Graubünden, Loestrasse 170",,,,,,,800.0,200.0,1000.0,hcp,vifor
+Dana Roulin,Lausanne,CH,"Cabinet Dr Roulin Dana, Avenue de Rumine 35",,,,,466.92,572.02,,,1038.94,hcp,vifor
+Nexhat Rrustemi,Bulle,CH,"Cabinet Dr Rustemi Nexhat, Route De Riaz 8",,,,,317.98,819.06,,,1137.04,hcp,vifor
+Gottfried Rudofsky,Olten,CH,"Kantonsspital Olten, Baslerstrasse 150",,,,,,,1200.0,,1200.0,hcp,vifor
+Roseline Ruetsch,Bern,CH,"Gastroenterologische Praxis, Bremgartenstrasse 119",,,,,869.53,2793.64,,,3663.17,hcp,vifor
+Ilka Rüsges-Wolter,Bern,CH,"Lindenhofspital, Bremgartenstrasse 117",,,,,290.88,877.47,,,1168.35,hcp,vifor
+Stéphane Saillant,Marin-Epagnier,CH,"Centre Neuchâtelois Psychiatrie, Site de Préfargier",,,,,,,1500.0,,1500.0,hcp,vifor
+Karin Sarbach,Wallisellen,CH,"ZPW Zentralpraxis Wallisellen, Zentralstrasse 6",,,,,402.0,570.69,,,972.69,hcp,vifor
+Riad Sarraj,Bern,CH,"Inselspital Bern, Freiburgstrasse 18",,,,,530.84,968.75,,,1499.59,hcp,vifor
+Rok Satler,Winterthur,CH,"Kantonsspital Winterthur, Brauerstrasse 15",,,,,572.85,792.72,,,1365.57,hcp,vifor
+Alain Sauty,Neuchâtel,CH,"Hôpital neuchâtelois Pourtalès, Rue de la Maladière 45",,,,,531.71,704.37,500.0,,1736.08,hcp,vifor
+Egemen Savaskan,Zürich,CH,"Klinik für Alterspsychiatrie, Minervastrasse 145",,,,,,,1500.0,,1500.0,hcp,vifor
+Hermann Saxenhofer,Bern,CH,"Lindenhofspital, Bremgartenstrasse 119",,,,,606.15,1124.93,,,1731.08,hcp,vifor
+Jean-Pierre Scalabrin,Herisau,CH,"Medical Training Physiotherapie, Bahnhofstrasse 16",,,,,333.33,,,,333.33,hcp,vifor
+Andrea Scatizza,Lugano,CH,"Centro Medico Lugano Centro, Via Giuseppe Petrini 2",,,,1000.0,,,,,1000.0,hcp,vifor
+Nicolas Schaad,Morges,CH,"Hôpital de Morges (EHC), Chemin du Crêt 2",,,,,,,1000.0,,1000.0,hcp,vifor
+Martin Schadt,Steckborn,CH,"Praxis Dr. Schadt Martin, Kirchgasse 23",,,,,333.33,,,,333.33,hcp,vifor
+Hubert Schefer,Luzern,CH,"Hirslanden Klinik St. Anna, Sankt-Anna-Strasse 32",,,,,397.18,525.17,,,922.35,hcp,vifor
+Kersten Schelch,Heerbrugg,CH,"Praxis Dr. Schelch Kersten, Marktstrasse 4",,,,,333.33,166.67,,,500.0,hcp,vifor
+Christoph Schild,Gümligen,CH,"Praxis Dr. Schild Christoph, Worbstrasse 312",,,,,324.62,503.38,,,828.0,hcp,vifor
+Boris Eugen Schleiffenbaum,Zürich,CH,"Hirslanden AG - Klinik im Park, Bellariastrasse 38",,,,,,,1500.0,,1500.0,hcp,vifor
+Iris Andrea Schmid,Bern,CH,"Quartier Bleu, Bremgartenstrasse 117",,,,,350.08,639.78,,,989.86,hcp,vifor
+Martin Schmitz,Zürich,CH,"Praxisgemeinschaft, Beckenhofstrasse 6",,,,,333.33,,,,333.33,hcp,vifor
+Markus Schmugge Liner,Zürich,CH,"Kinderspital Zürich, Steinwiesstrasse 75",,,,,,,1000.0,,1000.0,hcp,vifor
+Tino Schneider,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Strasse 95",,,,,445.85,,,,445.85,hcp,vifor
+Florian Schoch,Dübendorf,CH,"ACAMED Medizinzentrum Dübendorf, Überland Strasse 212",,,,,390.61,984.87,,,1375.48,hcp,vifor
+Alain Schoepfer,Lausanne,CH,"CHUV, Rue Du Bugnon 44",,,,,,,1000.0,,1000.0,hcp,vifor
+Josef Schöpf,Zürich,CH,"Praxis Dr. Schöpf Josef, Steinwiesstrasse 32",,,,,333.33,,,,333.33,hcp,vifor
+Frank Werner Seibold,Bern,CH,"Gastroenterologische Praxis, Bremgartenstrasse 119",,,,,,644.37,1000.0,,1644.37,hcp,vifor
+Erich Seifritz,Zürich,CH,"Psychiatrische Uniklinik, Lenggstrasse 31",,,,,,,2500.0,726.5,3226.5,hcp,vifor
+Michaela Semmler,Bern,CH,"Inselspital Bern, Freiburgstrasse 18",,,,,531.71,725.34,,,1257.05,hcp,vifor
+Othman Sentissi,Genève,CH,"Belle-Idée - Hôpital de Psych., Rue des Bains 35",,,,,,,1827.0,,1827.0,hcp,vifor
+Christophe Sierro,Sion,CH,"Hôpital du Valais - Sion, Avenue Grand- Champsec 80",,,,,416.41,669.9,,,1086.31,hcp,vifor
+Eléonore Söhnlin,Reinach BL,CH,"Praxis Dr. Söhnlin Eléonore, Hauptstrasse 40",,,,,333.33,,,,333.33,hcp,vifor
+Marc Spielmanns,Wald ZH,CH,"Zürcher RehaZentrum Wald, Faltigbergstrasse 7",,,,,,,1600.0,50.4,1650.4,hcp,vifor
+Renate Spinas,Zürich,CH,"Kinderspital Zürich, Steinwiesstrasse 75",,,,,531.71,835.11,,,1366.82,hcp,vifor
+Angélique Sponholz Schudel,Baden,CH,"Kantonsspital Baden AG, Im Ergel 1",,,,,525.82,1746.99,,,2272.81,hcp,vifor
+Nicolas Stalder,Sion,CH,"Cabinet Dr Stalder Nicolas, Avenue de Tourbillon 40",,,,,416.41,886.67,,,1303.08,hcp,vifor
+Olivier Staneczek,Clarens,CH,"Clinique La Prairie SA, Rue Du Lac 142",,,,,741.76,1385.35,,,2127.11,hcp,vifor
+Katharina Staufer,Bern,CH,"Inselspital Bern, Freiburgstrasse 18",,,,,489.3,1106.87,,,1596.17,hcp,vifor
+Carolin Steinack,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,,,500.0,90.0,590.0,hcp,vifor
+Barbara Steinemann,Solothurn,CH,"Praxis Dornacherplatz, Dornacherplatz 15",,,,,350.08,556.71,,,906.79,hcp,vifor
+Albert Steiner,Schaffhausen,CH,"Praxis Dr. Steiner Albert, Promenadenstrasse 27",,,,,324.62,491.57,,,816.19,hcp,vifor
+Bigna Straumann-Funk,Zürich,CH,"GSMN Suisse SA - Privatklinik B., Toblerstrasse 51",,,,,525.82,1746.19,,,2272.01,hcp,vifor
+Peter Streb,Basel,CH,"Praxisgemeinschaft Engelgasse, Engelgasse 45",,,,,390.61,941.12,,,1331.73,hcp,vifor
+Elfriede Strubel,Valens,CH,"Kliniken Valens, Taminaplatz 1",,,,,333.33,,,,333.33,hcp,vifor
+Georg Stüssi,Bellinzona,CH,"Ospedale Bellinzona e Valli EOC, Via Ospedale 12",,,,,,,1500.0,,1500.0,hcp,vifor
+Petra Stute,Bern,CH,"Inselspital Bern, Friedbühlstrasse 19",,,,,,,1500.0,367.0,1867.0,hcp,vifor
+Sibylle Süss,Zürich,CH,"Gemeinschaftspraxis Suess, Ohmstrasse 14",,,,,333.33,166.67,400.0,,900.0,hcp,vifor
+Walter Suter,Schwyz,CH,"Praxis Dr. Suter Walter, Zeughausstrasse 10",,,,,525.82,1679.83,,,2205.65,hcp,vifor
+Jürg Alex Taeschler,Chur,CH,"Praxis Dr. Taeschler Jürg, Grabenstrasse 9",,,,,350.08,626.72,,,976.8,hcp,vifor
+Kristoffer Tanseco,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,996.76,1275.95,,,2272.71,hcp,vifor
+Christian Templin,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,996.76,852.58,,,1849.34,hcp,vifor
+Ariane Testuz,Genève,CH,"Cabinet médical de groupe, Rue Maurice- Braillard 8",,,,,423.91,1212.09,,,1636.0,hcp,vifor
+Daniel Teta,Sion,CH,"Hôpital du Valais - Sion, Avenue Grand- Champsec 80",,,,,,,750.0,,750.0,hcp,vifor
+Oliver Michel Theusinger,Zürich,CH,"Blutspendezentrum SRK Zürich, Hirschengraben 58",,,,,,,750.0,66.0,816.0,hcp,vifor
+Raphaël Eric Tièche,Grenchen,CH,"Gruppenpraxis Grenchen, Marktplatz 9",,,,,350.08,556.71,,,906.79,hcp,vifor
+Francine Tinguely,Lausanne,CH,"Cabinet Dr Tinguely / Pr Goy, Chemin des Croix Rouges 14",,,,,416.41,782.28,,,1198.69,hcp,vifor
+Andreas Trojan,Zürich,CH,"Hirslanden AG - Klinik im Park, Seestrasse 259",,,,,572.85,848.16,,,1421.01,hcp,vifor
+Werner Tschan,Allschwil,CH,"Praxis Dr. Kast / Dr. Tschan, Baslerstrasse 353",,,,,,,3000.0,271.8,3271.8,hcp,vifor
+Stefan Tschopp,Schlieren,CH,"Spital Limmattal, Urdorferstrasse 100",,,,,538.21,783.53,,,1321.74,hcp,vifor
+Alexander Justus Turk,Horgen,CH,"See-Spital Horgen, Asylstrasse 19",,,,,,,800.0,,800.0,hcp,vifor
+Christophe Uldry,Rolle,CH,"Hôpital de Rolle (GHOL), Route de l'Hôpital 26",,,,,,,800.0,22.8,822.8,hcp,vifor
+Patricia Vajda Girod,Lausanne,CH,"Cabinet Dr Girod-Vajda Patricia, Rue Centrale 15",,,,,198.59,598.5,500.0,,1297.09,hcp,vifor
+Marco Valgimigli,Bern,CH,"Inselspital Bern, Freiburgstrasse 18",,,,,,,1250.0,,1250.0,hcp,vifor
+Cédric Vallet,Lausanne,CH,"CabChirVisc, Avenue Jomini 8",,,,,,,1000.0,,1000.0,hcp,vifor
+Stephan Vavricka,Zürich,CH,"Zentrum für Gastroenterologie, Vulkanplatz 8",,,,,,,3000.0,,3000.0,hcp,vifor
+Gabriele Vetsch,Bern,CH,"Engeriedspital - Lindenhof AG, Riedweg 15",,,,,290.88,862.47,,,1153.35,hcp,vifor
+Yolanda Vieli,Aarau,CH,"Praxis Frau Vieli Yolanda, Konradstrasse 15",,,,,333.33,,,,333.33,hcp,vifor
+Visnica Vincic,Wattwil,CH,"Psychiatrisches Zentrum Wattwil, Hembergerstrasse 22",,,,,390.61,984.87,,,1375.48,hcp,vifor
+Eduard Vlajkovic,Zollikerberg,CH,"Spital Zollikerberg, Trichtenhauser Strasse 20",,,,,272.69,,,,272.69,hcp,vifor
+Jean-Frédéric Vodoz,Montreux,CH,"Cabinet Dr Vodoz Jean-Frédéric, Grand' Rue 62",,,,,,,800.0,19.6,819.6,hcp,vifor
+Laurent Vollenweider,Yverdon-les-Bains,CH,"Cabinet Dr Vollenweider Laurent, Rue des Remparts 11",,,,,,,800.0,,800.0,hcp,vifor
+Nicolas von der Weid,Basel,CH,"Universitäts-Kinderspital Basel, Spitalstrasse 33",,,,,,,1000.0,,1000.0,hcp,vifor
+Roland von Känel,Zürich,CH,"UniversitätsSpital Zürich, Culmannstrasse 8",,,,,,,2500.0,,2500.0,hcp,vifor
+Slavka Vracar,Genève,CH,"Cabinet Dr Vracar Slavka, Avenue Dumas 25",,,,,317.98,843.72,,,1161.7,hcp,vifor
+Michèle Wäber,Zollikofen,CH,"Praxis Dr. Wäber Michèle, Kirchlindachstrasse 7",,,,,333.33,,,,333.33,hcp,vifor
+Catherine Waeber Stephan,Fribourg,CH,"Clinique Générale - Ste-Anne SA, Rue Hans- Geiler 6",,,,,,,500.0,,500.0,hcp,vifor
+Gunhild Waechter,Winterthur,CH,"Gemeinschaftspraxis, Stadthausstrasse 45",,,,,333.33,,,,333.33,hcp,vifor
+Otmar Wäger,Bülach,CH,"Praxis Dr. Wäger Otmar, Kaffeestrasse 8D",,,,,333.33,,,,333.33,hcp,vifor
+Susanne Wagner,Winterthur,CH,"Kantonsspital Winterthur, Brauerstrasse 15",,,,,235.84,806.48,,,1042.32,hcp,vifor
+Anna-Lena Walter,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Strasse 95",,,,,531.71,932.66,,,1464.37,hcp,vifor
+Marc Walter,Basel,CH,"Universitäre Psych. Kliniken UPK, Wilhelm Klein- Strasse 27",,,,,,,750.0,,750.0,hcp,vifor
+Klaus Wehr,Zürich,CH,"GastroPraxis Enge AG, Lavaterstrasse 40",,,,,362.81,532.98,,,895.79,hcp,vifor
+Daniela Weiler,Luzern,CH,"Luzerner Kantonsspital, Spitalstrasse",,,,,397.18,383.25,,,780.43,hcp,vifor
+Annette Weiser,St. Gallen,CH,"Ostschweizer Kinderspital, Claudiusstrasse 6",,,,,127.57,746.57,,,874.14,hcp,vifor
+Christoph Weiss,Scuol,CH,"Praxis Bogn Engiadina, Scuol, Via dals Bogns 323",,,,,350.08,626.32,,,976.4,hcp,vifor
+Baseli Werth,Chur,CH,"Gastro Praxis Chur, Quaderstrasse 2",,,,,324.62,487.15,,,811.77,hcp,vifor
+Jacques Wicki,Porrentruy,CH,"Groupe Médical Ziggurat, Rue du Jura 11",,,,,402.0,689.54,,,1091.54,hcp,vifor
+Paul Wiesel,Epalinges,CH,"Vidy-Croisettes SA, Route de la Corniche 1",,,,,,401.87,1000.0,,1401.87,hcp,vifor
+Stephan Wieser,Zürich,CH,"Stadtspital Waid Zürich, Tièchestrasse 99",,,,,,,800.0,,800.0,hcp,vifor
+Johannes Wildhaber,Fribourg,CH,"HFR Fribourg-Hôpital Cantonal, Chemin des Pensionnats 2",,,,,,,800.0,,800.0,hcp,vifor
+Bettina Wolf,Männedorf,CH,"Praxis Dr. med. Bettina Wolf, Postgasse 6",,,,,333.33,166.67,,,500.0,hcp,vifor
+Dorothea Wunder,Lausanne,CH,"CPMA Lausanne, Rue de la Vigie 5",,,,,,,500.0,,500.0,hcp,vifor
+Nuray Yarol,Gland,CH,"Centre Médical de Gland, Allée du Communet 20",,,,,189.88,747.46,,,937.34,hcp,vifor
+Leonora Zajmi,Wil SG,CH,"Praxis Dr. Zajmi Leonora, Obere Bahnhofstrasse 38",,,,,333.33,,,,333.33,hcp,vifor
+Suzanne Zakher-Spichtig,Solothurn,CH,"Solothurner Spitäler AG soH, Schöngrünstrasse 42",,,,,235.84,850.7,,,1086.54,hcp,vifor
+Silvan Zander,Zürich,CH,"UniversitätsSpital Zürich, Rämistrasse 100",,,,,362.81,379.25,,,742.06,hcp,vifor
+Dina Zekry,Thônex,CH,"Hôpital des Trois Chênes, Chemin du Pont- Bochet 3",,,,,,,1400.0,491.5,1891.5,hcp,vifor
+Frank Zimmerhackl,Gais,CH,"Klinik Gais AG, Gäbrisstrasse 1172",,,,,333.33,,,,333.33,hcp,vifor
+Marius Zimmerli,Basel,CH,"St. Claraspital AG, Kleinriehenstrasse 30",,,,,318.92,440.03,,,758.95,hcp,vifor
+Dorothee Zimmermann,Stans,CH,"Kantonsspital Nidwalden, Ennetmooserstrasse 19",,,,,229.14,,,,229.14,hcp,vifor
+Stefan Zinnenlauf,Zürich,CH,"Hausärzte Zentrum Witikon, Witikonerstrasse 295",,,,,402.0,343.25,,,745.25,hcp,vifor
+Stefan Zschiedrich,Solothurn,CH,"Solothurner Spitäler AG soH, Schöngrünstrasse 42",,,,,,,1500.0,,1500.0,hcp,vifor
+Serge Zumbach,Marsens,CH,"RFSM-Réseau de santé mentale, Route De L'hôpital 140",,,,,,,1000.0,,1000.0,hcp,vifor
+act-Academy GmbH,Kloten,CH,Industriestrasse 30,,,,7431.3,,,,,7431.3,hco,vifor
+ADVISIS AG,Bern,CH,Effingerstrasse 55,,,,50942.1,,,,,50942.1,hco,vifor
+AeVel Ärzteverein Leimental,Binningen,CH,Hauptstrasse 35,,,,500.0,,,,,500.0,hco,vifor
+"AGeMIG, Association genevoise des médecins de famille internistes généralistes",Genève,CH,Ch. de Beau-Soleil 12,,,,2000.0,,,,,2000.0,hco,vifor
+Alliance Rouge,Bern,CH,Aarbergergasse 56,,,,103000.0,,,,,103000.0,hco,vifor
+alta uro AG,Basel,CH,Centralbahnplatz 6,,,,,,,2000.0,5885.9,7885.9,hco,vifor
+APSI Associazione Pediatri Svizzera Italiana,Paradiso,CH,Via delle Scuole 17,,,,2000.0,,,,,2000.0,hco,vifor
+"Ärztegesellschaft des Kantons Luzern, Sektion Gäu",Sursee,CH,Spitalstrasse 16a,,,,1000.0,,,,,1000.0,hco,vifor
+Ärztekongress Arosa,Arosa,CH,Wätterlüggastrasse 9,,,,2520.2,,,,,2520.2,hco,vifor
+Ärztenetz Bantiger,Ittigen,CH,Talgut-Zentrum 34,,,,900.0,,,,,900.0,hco,vifor
+Ärztenetzwerk Doxnet,Hinterkappelen,CH,Kappelenring 6,,,,1000.0,,,,,1000.0,hco,vifor
+Ärztenetzwerk Gesundes Rheintal,Oberriet SG,CH,Ballengasse 9,,,,2000.0,,,,,2000.0,hco,vifor
+Ärztenetzwerk Grauholz,Ittigen,CH,Worblentalstrasse 99,,,,3015.6,,,,,3015.6,hco,vifor
+Ärzteverein Thalwil,Thalwil,CH,Alte Landstrasse 130,,,,2500.0,,,,,2500.0,hco,vifor
+"Association ""Les journées de gériatrie de la TChaux""",La Chaux-de-Fonds,CH,Rue de la Serre 7,,,,5000.0,,,,,5000.0,hco,vifor
+Association Conférences de pneumologie,Martigny,CH,Rue des Morasses 4,,,,2500.0,,,,,2500.0,hco,vifor
+Association journée jurasienne de médecine,Delémont,CH,Rue de la Préfecture 1,,,,1500.0,,,,,1500.0,hco,vifor
+Association médecins de la Côte,Nyon,CH,Rue Neuve 6,,,,750.0,,,,,750.0,hco,vifor
+Bethesda Spital AG,Basel,CH,Gellertstrasse 144,,,,1000.0,,,,,1000.0,hco,vifor
+Brustzentrum Ostschweiz AG,St. Gallen,CH,Schuppisstrasse 10,,,,,137.79,841.64,,,979.43,hco,vifor
+"Bürgerspital Solothurn, Fortbildungskommission Ärzte Region West",Solothurn,CH,Schöngrünstrasse 42,,,,1077.0,,,,,1077.0,hco,vifor
+Centre de Chimiothérapie Anti-Cancéreuse,Lausanne,CH,Avenue d'Ouchy 35,,,,1000.0,,,,,1000.0,hco,vifor
+Centro Pediatrico del Mendrisiotto,Mendrisio,CH,Via Beroldingen 26,,,,1000.0,,,,,1000.0,hco,vifor
+"CHUV, Chirurgie (DSCA)",Lausanne,CH,Rue du Bugnon 21,,,,,265.86,684.77,,,950.63,hco,vifor
+"CHUV, Départ. femme-mère-enfant DFME",Lausanne,CH,"Bâtiment ""Champ de l'Air"", Rue du Bugnon 21",,,,8185.2,,,1000.0,,9185.2,hco,vifor
+"CHUV, Département d'oncologie",Lausanne,CH,Rue du Bugnon 21,,,,14001.0,1572.92,2121.15,2200.0,115.2,20010.27,hco,vifor
+"CHUV, Département Psychiatrie",Lausanne,CH,Rue du Bugnon 21,,,,7215.9,,,4677.0,,11892.9,hco,vifor
+"CHUV, Dépt. de médecine, Service de Cardiologie",Lausanne,CH,Rue du Bugnon 46,,,,,996.76,1134.98,4000.0,,6131.74,hco,vifor
+"CHUV, DNC - Centre de la mémoire",Lausanne,CH,Rue du Bugnon 21,,,,3231.0,,,6146.35,252.5,9629.85,hco,vifor
+"CHUV, Hôpital de Prangins - Secteur Psychiatrique Ouest",Lausanne,CH,Rue du Bugnon 21,,,,,,,2000.0,,2000.0,hco,vifor
+"CHUV, Médecine de la fertilité et endocrinologie gynécologique",Lausanne,CH,Avenue Pierre-Decker 2,,,,23446.4,,,,,23446.4,hco,vifor
+"CHUV, Néphrologie",Lausanne,CH,Rue du Bugnon 21,,,,,,,3000.0,,3000.0,hco,vifor
+"CHUV, Pneumologie",Lausanne,CH,Rue du Bugnon 21,,,,3231.0,1133.68,2998.6,,,7363.28,hco,vifor
+"CHUV, Service d’urologie",Lausanne,CH,Rue du Bugnon 46,,,,,,,800.0,,800.0,hco,vifor
+"CHUV, Service d'Anésthésiologie",Lausanne,CH,Rue du Bugnon 46,,,,,,,3000.0,,3000.0,hco,vifor
+"CHUV, Service de gastro-entérologie et d'hépatologie",Lausanne,CH,Rue du Bugnon 44,,,,4154.0,1056.66,2170.26,1500.0,,8880.92,hco,vifor
+"CHUV, Service de gériatrie",Lausanne,CH,Ch. de Mont-Paisible 16,,,,5800.0,,,3390.0,512.5,9702.5,hco,vifor
+"CHUV, Service de Médecine interne",Lausanne,CH,Rue du Bugnon 21,,,,3231.0,,,2100.0,,5331.0,hco,vifor
+"CHUV, Service de Pharmacie",Lausanne,CH,Rue du Bugnon 46,,,,1077.0,,,,,1077.0,hco,vifor
+"CHUV, Service d'Endocrinologie, diabétologie et métabolisme",Lausanne,CH,Rue du Bugnon 46,,,,,,,2477.1,,2477.1,hco,vifor
+"Clarunis - Universitäres Bauchzentrum Basel, St. Claraspital und Universitätsspital Basel",Basel,CH,Postfach,,,32310.0,,,,,,32310.0,hco,vifor
+Clinica Luganese Moncucco,Lugano,CH,Via Moncucco 10,,,,1077.0,,,,,1077.0,hco,vifor
+CMB Circolo Medico del Bellinzonese,Giubiasco,CH,Via Bellinzona 31,,,,1000.0,,,,,1000.0,hco,vifor
+CML Circolo Medico di Lugano,Gravesano,CH,Via Grumo 16,,,,500.0,,,,,500.0,hco,vifor
+CML Circolo Medico Locarno e Dintorni,Ascona,CH,Via Lido 27,,,,2000.0,,,,,2000.0,hco,vifor
+CNP-Centre neuchâtelois,Neuchâtel,CH,rue de Vieux-Châtel 20,,,,1000.0,,,,,1000.0,hco,vifor
+COALAT / Anesthesiology CHUV,Lausanne,CH,Rue du Bugnon 46,,,,3000.0,,,,,3000.0,hco,vifor
+Comunità Familiare,Muralto,CH,Via Sara Morley 6,,,,500.0,,,,,500.0,hco,vifor
+Consiglio Scientifico Clinica Santa Croce SA,Orselina,CH,Via al Parco 27,,,,1500.0,,,,,1500.0,hco,vifor
+Ctre. Gastroentérologie Beaulieu,Lausanne,CH,Avenue Jomini 8,,,,,,,2000.0,,2000.0,hco,vifor
+"Dexphar GmbH, PO Box 30",Hagendorn,CH,Flurstrasse 1,,,,,,,2800.0,,2800.0,hco,vifor
+"EndoSwiss Congress GmbH, GastroZentrum Hirslanden",Zürich,CH,Witellikerstrasse 40,,,,5385.0,,,,,5385.0,hco,vifor
+Ensemble Hospitalier de la Côte,Morges,CH,Chemin du Crêt 2,,,,1077.0,,,,,1077.0,hco,vifor
+Ente Ospedaliero Cantonale (EOC),Bellinzona,CH,Viale Officina 3,,,,1000.0,,,,,1000.0,hco,vifor
+EOC Ente ospedaliero Cantonale,Bellinzona,CH,C.P. 2645,,,,1615.5,,,,,1615.5,hco,vifor
+EQUAM Stiftung,Bern,CH,Effingerstrasse 25,,,,2154.0,,,,,2154.0,hco,vifor
+"Felix Platter Spital, Universitäre Altersmedizin",Basel,CH,Burgdorfstrasse 101,,,,18693.5,,,2154.0,72.0,20919.5,hco,vifor
+"Fondation de Nant, Secteur psychatrique de l'Est Vaudois",Corsier-sur-Vevey,CH,Route de Nant,,,,2500.0,,,,,2500.0,hco,vifor
+Fondation Gentiana pour la Conaissance des Plantes Médicinales,Ravoire,CH,Chalet Gentianella,,,,3000.0,,,,,3000.0,hco,vifor
+Fondazione Epatocentro Ticino,Lugano,CH,Via Soldino 5,,,,1000.0,,,,,1000.0,hco,vifor
+Forum für medizinische Fortbildung - FomF GmbH,Zug,CH,Ahornstrasse 2,,,,446147.14,,,,,446147.14,hco,vifor
+"Foundation for Cardiovascular Research, Zurich Heart House",Zürich,CH,Hottingerstrasse 14,,,,32310.0,,,,,32310.0,hco,vifor
+Gastro Praxis Chur,Chur,CH,Quaderstrasse 2,,,,2500.0,,,,,2500.0,hco,vifor
+"Gastroenterologische Praxis Balsiger, Seibold & Partner, Crohn-Coilitis-Zentrum, Hochaus Lindenhofspital",Bern,CH,Bremgartenstrasse 119,,,,1938.6,,,,,1938.6,hco,vifor
+Gastroenterology Foundation Zurich,Zürich,CH,Weinbergstrasse 102,,,,17125.0,,,2250.0,,19375.0,hco,vifor
+GastroPraxis Enge,Zürich,CH,Lavaterstrasse 40,,,,1500.0,,,,,1500.0,hco,vifor
+"GECOR, Fondation pour la recherche de Cardiologie Universitaire GE",Genève,CH,Av. Eugène-Pittard 3A,,,,5500.0,,,,,5500.0,hco,vifor
+Genolier Cancer Center,Genolier,CH,Route du Muids 3,,,,5000.0,,,,,5000.0,hco,vifor
+GHOL Groupement Hospitalier de l'Ouest Lemanique SA,Nyon,CH,Monastier 10,,,,1500.0,,,,,1500.0,hco,vifor
+GRIMM Groupe d'intervention en haute montagne,Sion,CH,"26, Av. du Chanoine Berchtold",,,,1000.0,,,,,1000.0,hco,vifor
+Groupe du Nord Vaudois S.V.M.,Concise,CH,Ch. des Vergers 1,,,,1500.0,,,,,1500.0,hco,vifor
+Groupement des médecins du Sud Fribourgeois,La Tour-de-Trême,CH,Route de l'Intyamon 113,,,,1600.0,,,,,1600.0,hco,vifor
+Groupement des pneumologues Genevois,Carouge GE,CH,Place du Temple 15,,,,2000.0,,,,,2000.0,hco,vifor
+Groupement d'Intervision Baumann,Le Landeron,CH,Rue de Soleure 1,,,,800.0,,,,,800.0,hco,vifor
+GRSSGO - Groupement Romand de la société suisse de Gynécologie et obstétrique,Cheseaux-sur- Lausanne,CH,Postfach 100,,,,7345.14,,,,,7345.14,hco,vifor
+GSASA Association suisse des pharmaciens de l'administration et des hôpitaux,Bern,CH,GSASA,,,,3231.0,,,,,3231.0,hco,vifor
+gynécologie suisse SGGG,Bern,CH,"Altenbergstrasse 29, Postfach 686",,,,23859.35,,,,,23859.35,hco,vifor
+GZO Spital Wetzikon,Wetzikon ZH,CH,Spitalstrasse 66,,,5000.0,,,,,,5000.0,hco,vifor
+HerzGefässStiftung Zürich,Zürich,CH,Seestrasse 220,,,,6000.0,,,,,6000.0,hco,vifor
+Herzklinik Hirslanden,Zürich,CH,Witellikerstrasse 40,,,,,519.38,1337.85,,,1857.23,hco,vifor
+"HFR Fribourg - Hôpital cantonal, Clinique de Pédiatrie",Fribourg,CH,Case postale,,,,3000.0,,,,,3000.0,hco,vifor
+"HIB, Site de Payerne",Payerne,CH,Avenue de la Colline 3,,,,2000.0,,,,,2000.0,hco,vifor
+"Hirslanden Klinik St. Anna, Gastroenterologie",Luzern,CH,St. Anna-Strasse 32,,,,2000.0,,,,,2000.0,hco,vifor
+Hôpital de la Providence,Neuchâtel,CH,Faubourg de l'Hôpital 81,,,,2500.0,,,,,2500.0,hco,vifor
+Hôpital de Lavaux,Cully,CH,Chemin de Colombaires 31,,,,2000.0,,,,,2000.0,hco,vifor
+"Hôpital du Jura Bernois SA, Hôpital du Jura Bernois SA",Moutier,CH,Rue de Beausite 49,,,,2692.5,,,,,2692.5,hco,vifor
+"Hôpital du Jura, Site de Delémont",Delémont,CH,Fbg des Capucins 30,,,,1615.5,,,,,1615.5,hco,vifor
+Hôpital du Valais,Sion,CH,Av. Grand-Champsec 80,,,,4200.3,573.32,533.91,1077.0,,6384.53,hco,vifor
+"Hôpital neuchâtelois, Département de Pédiatrie",Neuchâtel,CH,Maladière 45,,,,600.0,,,,,600.0,hco,vifor
+Hôpital Riviera Chablais VD-VS,Vevey,CH,Boulevard Paderewski 3,,,,1077.0,,,,,1077.0,hco,vifor
+HUG Hôpitaux Universitaires de Genève,Thônex,CH,Ch. du Petit-Bel-Air 2,,,,,,,3069.45,,3069.45,hco,vifor
+"HUG Hôpitaux Universitaires de Genève, Service d'addictologie CAAP",Genève,CH,Rue du Grand-Pré 70 C,,,,1615.0,,,600.0,,2215.0,hco,vifor
+"HUG Hôpitaux Universitaires de Genève, Service d'anesthésiologie",Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,2877.0,,,,,2877.0,hco,vifor
+"HUG Hôpitaux Universitaires de Genève, Service de Gastroentérologie et d'Hépatologie",Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,3015.6,,,,,3015.6,hco,vifor
+"HUG Hôpitaux Universitaires de Genève, Service de médecine de premier recours",Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,29885.0,,,,,29885.0,hco,vifor
+"HUG Hôpitaux Universitaires de Genève, Service de néphrologie",Genève,CH,Rue Gabrielle Perret-Gentil 4,,,,2154.0,,,,,2154.0,hco,vifor
+"HUG Hôpitaux Universitaires de Genève, Service de pneumologie",Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,5000.0,,,,,5000.0,hco,vifor
+"HUG Hôpitaux Universitaires de Genève, Service d'oncologie",Genève,CH,Rue Gabrielle-Perret-Gentil 4,,,,3000.0,,,,,3000.0,hco,vifor
+Hypertension Research Foundation,St-Légier,CH,Derrey le Motty 8,,,,5000.0,,,,,5000.0,hco,vifor
+IBDnet,Zürich,CH,Weinbergstrasse 102,,,,34500.0,,,,,34500.0,hco,vifor
+IFPBM - International Foundation for Patient Blood Management,Basel,CH,Dufourstrasse 49,,,61200.0,,,,,,61200.0,hco,vifor
+IG-Nephrologische Krankenpflege der deutschen Schweiz,Ittigen,CH,,,,,500.0,,,,,500.0,hco,vifor
+Igomed,Thun,CH,Höhenweg 26a,,,,2154.0,,,,,2154.0,hco,vifor
+IMK Institute for Medicine and Communication Ltd,Basel,CH,Münsterberg 1,,,,3231.0,,,,,3231.0,hco,vifor
+Impulze GmbH,Zürich,CH,Minervastrasse 25,,,,1817.87,,,,,1817.87,hco,vifor
+iNetz,Zürich,CH,Bahnhofplatz 4,,,,646.2,,,,,646.2,hco,vifor
+"InselGruppe, Stiftungen und Fonds",Bern,CH,Freiburgstrasse 18,,,,68627.35,1321.27,3244.79,8176.3,,81369.71,hco,vifor
+Intensivmedizin,Luzern,CH,Spitalstrasse,,,,807.75,,,,,807.75,hco,vifor
+Interdigest,Zürich,CH,Toblerstrasse 51,,,,1000.0,,,,,1000.0,hco,vifor
+"IOSI - Istituto Oncologico della Svizzera Italiana, EOC Ente Ospedaliero Cantonale",Bellinzona,CH,Via Ospedale,,,,4846.5,,,,,4846.5,hco,vifor
+IPW- Psychiatrie-Zentrum Hard,Embrach,CH,Römerweg 51,,,,1000.0,,,,,1000.0,hco,vifor
+"ISCP, International Society of Cardiovascular Pharmacotherapy",Arbedo,CH,Via Rotondello 16,,,,5385.0,,,,,5385.0,hco,vifor
+Kantonsspital Aarau AG,Aarau,CH,Tellstrasse 25,,,,,519.38,1337.85,,,1857.23,hco,vifor
+"Kantonsspital Aarau AG, Frauenklinik",Aarau,CH,Tellstrasse 25,,,,1077.0,,,,,1077.0,hco,vifor
+"Kantonsspital Baden AG, Departement Innere Medizin",Baden,CH,Im Ergel 1,,,,1615.5,,,,,1615.5,hco,vifor
+"Kantonsspital Baden AG, Tumorzentrum",Baden,CH,Im Ergel 1,,,,1077.0,,,,,1077.0,hco,vifor
+Kantonsspital Baselland,Liestal,CH,Rheinstrasse 26,,,,2000.0,,,800.0,,2800.0,hco,vifor
+"Kantonsspital Graubünden, Onkologie und Hämatologie, Dept. Innere Medizin",Chur,CH,Löestrasse 170,,,,1615.5,,,,,1615.5,hco,vifor
+Kantonsspital Münsterlingen,Münsterlingen,CH,Spitalcampus 1,,,,1077.0,,,,,1077.0,hco,vifor
+Kantonsspital Nidwalden,Stans,CH,Ennetmooserstrasse 19,,,,1500.0,,,,,1500.0,hco,vifor
+Kantonsspital Olten,Olten,CH,Baslerstrasse 150,,,,1100.0,,,,,1100.0,hco,vifor
+"Kantonsspital St. Gallen, Arbeitsgruppe Herzinsuffizienz der SGK, Klinik für Kardiologie",St. Gallen,CH,Rorschacherstrasse 95,,,,2000.0,,,,,2000.0,hco,vifor
+"Kantonsspital St. Gallen, DIM Onkologie/Hämatologie",St. Gallen,CH,Rorschacherstrasse 95,,,,1077.0,,,,,1077.0,hco,vifor
+"Kantonsspital St. Gallen, DIM, Klinik für Gastroenterolgie/Hepatologie",St. Gallen,CH,Rorschacherstrasse 95,,,,7539.0,,,,,7539.0,hco,vifor
+"Kantonsspital St. Gallen, Infektiologie / Spitalhygiene",St. Gallen,CH,Rorschacherstrasse 95,,,,6462.0,,,,,6462.0,hco,vifor
+"Kantonsspital St. Gallen, Klinik für Anästhesiologie, Intensiv-, Rettungs- und Schlafmedizin",St. Gallen,CH,Rorschacherstrasse 95,,,,2154.0,,,,,2154.0,hco,vifor
+"Kantonsspital St. Gallen, Klinik für Kardiologie",St. Gallen,CH,Rorschacherstrasse 95,,,,10000.0,603.4,1885.56,,,12488.96,hco,vifor
+"Kantonsspital St. Gallen, Klinik für Nephrologie und Transplantationsmedizin",St. Gallen,CH,Rorschacherstrasse 95,,,1000.0,2154.0,,,,,3154.0,hco,vifor
+"Kantonsspital St. Gallen, Klinik für Neurologie",St. Gallen,CH,Rorschacherstrasse 95,,,,2154.0,,,,,2154.0,hco,vifor
+"Kantonsspital St. Gallen, Klinik für Rheumatologie",St. Gallen,CH,Rorschacherstrasse 95,,,,,,,,4969.75,4969.75,hco,vifor
+"Kantonsspital St. Gallen, Pneumologie",St. Gallen,CH,Rorschacherstrasse 95,,,,,445.85,1503.34,861.6,,2810.79,hco,vifor
+"Kantonsspital Winterthur, Gastroenterologie",Winterthur,CH,Brauerstrasse 15,,,,1507.8,,,,,1507.8,hco,vifor
+"Kantonsspital Winterthur, Kardiologie",Winterthur,CH,Brauerstrasse 15 / PF 834,,,,2154.0,,,,,2154.0,hco,vifor
+"Kantonsspital Winterthur, Tumorzentrum",Winterthur,CH,Brauerstrasse 15,,,,1615.5,,,,,1615.5,hco,vifor
+Kardiologiepraxis am See AG,Luzern,CH,Alpenstrasse 1,,,,1000.0,,,,,1000.0,hco,vifor
+Klinik Barmelweid,Barmelweid,CH,Dep. Psychosomatische Medizin und Psychotherapie,,,,400.0,,,,,400.0,hco,vifor
+Klinik für Nephrologie,Zürich,CH,Rämistrasse 100,,,,2154.0,,,,,2154.0,hco,vifor
+Klinik für Psychiatrie und Psychotherapie,Liestal,CH,Bienentalstrasse 7,,,,2000.0,,,,,2000.0,hco,vifor
+Klinik für Viszerale Chirurgie,Zürich,CH,Rämistrasse 100,,,,6231.0,,,,,6231.0,hco,vifor
+Klinik Gais AG,Gais,CH,Gäbrisstrasse 1172,,,,,,,1000.0,,1000.0,hco,vifor
+Klinik Meissenberg AG,Zug,CH,Meisenbergstrasse 17,,,,1600.0,,,,,1600.0,hco,vifor
+KMG - Kompetenz mentale Gesundheit GmbH,Baar,CH,Landhausstrasse 17/19,,,,2000.0,,,,,2000.0,hco,vifor
+Kollegium für Hausarztmedizin,Fribourg,CH,"Rue de l'Hôpital 15, Postfach 1552",,,,41356.8,,,,,41356.8,hco,vifor
+Laboratoire Central Hématologie,Lausanne,CH,Rue du Bugnon 46,,,,1500.0,,,,,1500.0,hco,vifor
+Les Ligues de santé du canton de Fribourg,Fribourg,CH,Rte St-Nicolas-de-Flüe 2,,,,2500.0,,,,,2500.0,hco,vifor
+LH Medical Management GmbH,Liestal,CH,Postfach 278,,,,2154.0,,,,,2154.0,hco,vifor
+Ligue pulmonaire genevoise,Genève,CH,Bd de la Tour 6,,,,807.75,,,,,807.75,hco,vifor
+Lindenhofspital,Bern,CH,Bremgartenstrasse 117,,,,500.0,,,,,500.0,hco,vifor
+Lungenliga Schweiz,Bern,CH,Chutzenstrasse 10,,,,6000.0,,,,,6000.0,hco,vifor
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,,,,3000.0,297.88,573.71,2100.0,,5971.59,hco,vifor
+"Luzerner Kantonsspital Sursee, Luzerner Kantonsspital Sursee",Sursee,CH,Spitalstrasse 16a,,,,500.0,,,,,500.0,hco,vifor
+"Luzerner Kantonsspital, Frauenklinik",Luzern,CH,Spitalstrasse,,,,1077.0,,,,,1077.0,hco,vifor
+"Luzerner Kantonsspital, Gastroenterologie",Luzern,CH,Spitalstrasse,,,,4304.0,,,,,4304.0,hco,vifor
+Marcheton CF Fribourg,Farvagny,CH,Case postale 118,,,,2000.0,,,,,2000.0,hco,vifor
+Mediscience GmbH,Küssnacht am Rigi,CH,Bahnhofstrasse 17,,,,4308.0,,,,,4308.0,hco,vifor
+Netzwerk Gesundheitsökonomie Winterthur,Winterthur,CH,Gertrudstrasse 15,,,,1000.0,,,,,1000.0,hco,vifor
+Onkologiepflege Schweiz,Kleinandelfingen,CH,Hirstigstrsasse 13,,,,15250.0,,,,,15250.0,hco,vifor
+Organisation Engadiner Fortbildungstage,Scuol,CH,Bogn Engiadina,,,,7500.0,,,,,7500.0,hco,vifor
+Ospedale Civico,Lugano,CH,Via Tesserete 46,,,,2300.0,,,,,2300.0,hco,vifor
+"Ospedale Regionale di Lugano, Servizio di Ginecologia e Ostetricia",Lugano,CH,Via Tesserete 46,,,,3000.0,,,,,3000.0,hco,vifor
+Ospedale Regionale di Mendrisio,Mendrisio,CH,Via Alfonso Turconi 23,,,,,,,1000.0,,1000.0,hco,vifor
+Ostschweizer Kinderspital,St. Gallen,CH,Claudiusstrasse 6,,,,1615.5,,,,,1615.5,hco,vifor
+P & PP Psychiatrie & Psychotherapie Pizol,Bad Ragaz,CH,Fläschenstrasse 37,,,,1000.0,,,,,1000.0,hco,vifor
+"Palliative Fribourg / Freiburg, Association Fribourgeoise des Institutions pour Personnes Agées",Fribourg,CH,Rte St-Nicolas-de-Flue 2,,,,8000.0,,,,,8000.0,hco,vifor
+"PDAG Psychiatrische Dienste Aargau AG, Amulatorium Aarau",Aarau,CH,Bleichenmattstrasse 16 / PF,,,,1615.5,,,,,1615.5,hco,vifor
+"Permanence Volta, Permanence Volta",La Chaux-de-Fonds,CH,Rue Numa-Droz 187,,,,1000.0,,,,,1000.0,hco,vifor
+Pharmacie HUG,Genève,CH,Rue Gabrielle Perret-Gentil 4,,,30000.0,,,,,,30000.0,hco,vifor
+Pierre Michetti Academic,Cully,CH,Chemin des Colombaires 16,,,,,,,1000.0,,1000.0,hco,vifor
+Pizolcare AG,Mels,CH,Flurstrasse 12,,,,1723.2,,,,,1723.2,hco,vifor
+Policlinique Médicale Universitaire,Lausanne,CH,Rue du Bugnon 44,,,,3231.0,,,,,3231.0,hco,vifor
+Praxis Karli,Lenzburg,CH,Niederlenzer Kirchweg 3,,,,1700.0,,,,,1700.0,hco,vifor
+Praxis Villiger & Diamon AG,Baden-Dättwil,CH,Mellingerstrasse 207,,,,850.0,,,,,850.0,hco,vifor
+Praxisklinik Binningen,Binningen,CH,Hauptstrasse 11,,,,2500.0,,,,,2500.0,hco,vifor
+"Psychiatrie St. Gallen Nord, (COEUR) Center of Education and Research",Wil SG,CH,Zürcherstrasse 30,,,,3500.0,,,,,3500.0,hco,vifor
+Psychiatrische Dienste Aargau AG,Brugg AG,CH,Postfach 432,,,,2154.0,,,,,2154.0,hco,vifor
+Psychiatrische Dienste Solothurn Spitäler AG,Solothurn,CH,Weissensteinstrasse 102,,,,1077.0,,,,,1077.0,hco,vifor
+Psychiatrische Dienste Thurgau,Münsterlingen,CH,Seeblickstrasse 3,,,,1938.6,,,,,1938.6,hco,vifor
+PZM Psychiatriezentrum Münsingen AG,Münsingen,CH,Hunzigenallee 1,,,,1500.0,,,,,1500.0,hco,vifor
+Quadrimed,Crans-Montana,CH,Case postale 299,,,,16575.0,,,,,16575.0,hco,vifor
+Qualitätszirkel Muttenz,Muttenz,CH,Hauptstrasse 54,,,,1550.0,,,,,1550.0,hco,vifor
+Regionalspital Emmental AG,Langnau im Emmental,CH,Dorfbergstrasse 10,,,,1000.0,,,,,1000.0,hco,vifor
+Regionalspital Surselva AG,Ilanz,CH,Spitalstrasse 6,,,,1200.0,,,,,1200.0,hco,vifor
+REMED association genevoise de médecins travaillant en réseau,Genève,CH,Ch. de Beau-Soleil 12,,,,2000.0,,,,,2000.0,hco,vifor
+RestLessLegs,St. Margarethen TG,CH,Sedel 6,,,,1000.0,,,,,1000.0,hco,vifor
+RFSM Réseau fribourgeois de santé mentale,Fribourg,CH,Boulevard de Pérolles 30,,,,3231.0,,,300.0,,3531.0,hco,vifor
+SAKK Koordinationszentrum - Schweizerische Arbeitsgemeinschaft Klinische Krebsforschung,Bern,CH,Effingerstrasse 40,,,,9693.0,,,,,9693.0,hco,vifor
+Sanatorium Kilchberg,Kilchberg ZH,CH,Alte Landstrasse 70,,,,861.6,,,,,861.6,hco,vifor
+SASL Swiss Association for the Study of the Liver,Bern,CH,Wattenwylweg 21,,,,7500.0,,,,,7500.0,hco,vifor
+Schweiz. Gesellschaft für IST-DP Intenisve Dynamische Kurzpsychotherapie,Thun,CH,Bahnhofstrasse 6,,,,,,,1000.0,,1000.0,hco,vifor
+Schweizerische Arbeitsgruppe für Koloproktologie,St. Gallen,CH,Rorschacherstr. 95,,,,1830.0,,,,,1830.0,hco,vifor
+Schweizerische Gesellschaft für Gastroenterologie SGG,Bern,CH,Wattenwylweg 21,,,,50619.0,,,,,50619.0,hco,vifor
+"Schweizerische Gesellschaft für Gerontologie SGG SSG, Haus der Akademien",Liebefeld,CH,Kirchstrasse 24,,,,2620.0,,,,,2620.0,hco,vifor
+Schweizerische Gesellschaft für Kardiologie,Bern,CH,Dufourstrasse 30,,,,37333.4,,,,,37333.4,hco,vifor
+Schweizerische Gesellschaft für Neonatologie,Cheseaux-sur- Lausanne,CH,Postfach 100,,,,6000.0,,,,,6000.0,hco,vifor
+Schweizerische Gesellschaft für Nephrologie,Worb,CH,Postfac 567,,,,64232.28,,,,,64232.28,hco,vifor
+Schweizerische Gesellschaft für Pädiatrie SGP,Fribourg,CH,Rue de l'Hôpital 15,,,,21647.7,,,,,21647.7,hco,vifor
+Schweizerische Gesellschaft für Pneumologie,Basel,CH,Peter Merian-Strasse 80,,,,33171.6,,,,,33171.6,hco,vifor
+Schweizerische Medizinische Gesellschaft für Phytotherapie SMGP,Wädenswil,CH,Postfach 335,,,,3692.5,,,,,3692.5,hco,vifor
+Schweizerische Menopausengesellschaft SMG,Cheseaux-sur- Lausanne,CH,Rue des Pâquis 1,,,,3403.32,,,,,3403.32,hco,vifor
+Schweizerische Vereinigung Eosinophile Osophagitis,Bettlach,CH,Nagelschmiedeweg 10,,,,2000.0,,,,,2000.0,hco,vifor
+Seeklinik Brunnen,Brunnen,CH,Gersauerstrasse 8,,,,807.75,,,,,807.75,hco,vifor
+"See-Spital Standort Horgen, Innere Medizin",Horgen,CH,"Asylstrasse 19, Postfach",,,40000.0,1000.0,,,,,41000.0,hco,vifor
+SGAD Schweizerische Gesellschaft für Angst und Depression,Zürich,CH,Ringstrasse 70,,,,20000.0,,,,,20000.0,hco,vifor
+SGAIM Schweizerische Gesellschaft für Allgemeine Innere Medizin,Bern,CH,Monbijoustrasse 43,,,,52503.75,,,,,52503.75,hco,vifor
+SGAR Schweizerischen Gesellschaft für Anästhesiologie und Reanimation,Bern,CH,Rabbentalstrasse 83,,,,22397.3,,,,,22397.3,hco,vifor
+"SGK - SSC, Schweizerische Gesellschaft für Kardiologie - Société suisse de Cardiologie",Bern,CH,Dufourstrasse 30,,,,2000.0,,,,,2000.0,hco,vifor
+"SGKC-SSCC, Swiss Society of Clinical Chemistry",Genève,CH,Rue Garielle Perret-Gentil 4,,,,5115.75,,,,,5115.75,hco,vifor
+"SGORL Schweizerische Gesellschaft für Oto-Rhino- Laryngologie, Hals- und Gesichtschirurgie",Basel,CH,Münsterberg 1,,,,10360.75,,,,,10360.75,hco,vifor
+"SGPGHE Schweiz. Gesellschaft für Pädiatrische Gastro-, Hepatologie und Ernährung",St. Gallen,CH,Claudiusstrasse 6,,,,1000.0,,,,,1000.0,hco,vifor
+SGPP Schweizerische Gesellschaft für Psychiatrie und Psychotherapie,Bern,CH,Altenbergstrasse 29,,,,49272.75,,,,,49272.75,hco,vifor
+SGZ Schweizerische Gesellschaft für Zwangsstörungen,Zürich,CH,Culmannstrasse 8,,,,2000.0,,,,,2000.0,hco,vifor
+"SHV-FSSF, Schweizerischer Hebammenverband - Fédération suisse des sages-femmes",Bern,CH,Rosenweg 25c,,,,1680.1,,,,,1680.1,hco,vifor
+"SINCT, Swiss Institute for New Concepts and Treatments",Richterswil,CH,Dorfbachstrasse 22,,,,650.0,,,,,650.0,hco,vifor
+SNP Société neuchâteloise de pédiatrie,Neuchâtel,CH,Place du Marché Rue de Flandres 7,,,,1000.0,,,,,1000.0,hco,vifor
+Société Neuchâteloise SNM,Couvet,CH,Grand'Rue 36B,,,,3000.0,,,,,3000.0,hco,vifor
+Société Suisse de Transplantation,Cheseaux-sur- Lausanne,CH,Rue des Pâquis 1,,,,19170.6,,,,,19170.6,hco,vifor
+Société Suisse pour la mucoviscidose (CFCH),Bern,CH,Alterbergstrasse 29,,,,14216.4,,,,,14216.4,hco,vifor
+Spezialärzteverein Zofingen,Zofingen,CH,Strengelbacherstrasse 11,,,,500.0,,,,,500.0,hco,vifor
+Spital Altstätten,Altstätten SG,CH,Marolanistrasse 6,,,,1500.0,,,,,1500.0,hco,vifor
+Spital Lachen AG,Lachen SZ,CH,Oberdorfstrasse 41,,,,1500.0,,,,,1500.0,hco,vifor
+Spital Thurgau AG,Frauenfeld,CH,Waldeggstrasse 8a,,,,2477.1,,,,,2477.1,hco,vifor
+Spital Wallis - Spitalzentrum Oberwallis,Brig,CH,Überlandstrasse 14,,,,538.5,,,,,538.5,hco,vifor
+Spitäler FMI AG,Meiringen,CH,Spitalstrasse 13,,,,1615.5,,,,,1615.5,hco,vifor
+"Spitalregion Fürstenland Toggenburg, Spital Wil, Gastroenterologie/Hepatologie",Wil SG,CH,Fürstenlandstrasse 32,,,,4738.8,,,,,4738.8,hco,vifor
+"Spitalzentrum Biel, Memory Clinic Biel-Seeland",Biel/Bienne,CH,Unionsgasse 14,,,,,235.84,850.7,,,1086.54,hco,vifor
+SSRR Société Suisse Romande de Rhinologie,Biel/Bienne,CH,Rue de l'argent 7,,,,800.0,,,,,800.0,hco,vifor
+St. Claraspital AG,Basel,CH,Kleinriehenstrasse 30,,,,3000.0,1157.76,1790.27,,,5948.03,hco,vifor
+Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,,1000.0,,,,,1000.0,hco,vifor
+Stift. wissenschaftl. Forschung am Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,,,2500.0,,,,,2500.0,hco,vifor
+Stiftung für die Forschung in der Gastroenterologie & Hepatologie,Zürich,CH,Limmatquai 58 / PF,,,,3000.0,,,,,3000.0,hco,vifor
+STPP Società Ticinese di Psichiatria e Psicoterapia,Coldrerio,CH,Via Campagnola 112,,,,1500.0,,,,,1500.0,hco,vifor
+Studio ORL,Lugano,CH,Via Monte Boglia 5,,,,1000.0,,,,,1000.0,hco,vifor
+SVA MPA Sektion SG/AR/AI,Oberuzwil,CH,Morgenwies 4b,,,,400.0,,,,,400.0,hco,vifor
+SVA Schweizerischer Verband Medizinischer Praxis- Fachpersonen,Mühledorf SO,CH,Bocksteinstrasse 12,,,,500.0,,,,,500.0,hco,vifor
+SVA Sektion Graubünden (Schweiz. Verband med. Praxisassistentinnen),Chur,CH,Foralweg 24,,,,400.0,,,,,400.0,hco,vifor
+SVA Zentralsekretariat,Bern,CH,"Monbijoustrasse 35, PF",,,,8939.4,,,,,8939.4,hco,vifor
+SwAPP Swiss Association of Pharmaceutical Professionnals,Bern,CH,Postfach,,,,1500.0,,,,,1500.0,hco,vifor
+Swiss Foundation for Anesthesia Research,Zürich,CH,Drusbergstrasse 83,,,,22000.0,,,,,22000.0,hco,vifor
+Swiss Kidney Stone Cohort (SKSC),Zürich,CH,Winterthuerstrasse 180,,,,1292.4,,,,,1292.4,hco,vifor
+Swiss Society of Neonatology,Cheseaux-sur- Lausanne,CH,Rte des Pâquis 1,,,,3575.64,,,,,3575.64,hco,vifor
+Swiss Society of Sexology,Lausanne,CH,Rue Caroline 3,,,,500.0,,,,,500.0,hco,vifor
+SwissPedDose,Zürich,CH,Steinwiesstrasse 75,,,,,,,1292.4,,1292.4,hco,vifor
+Symposium Diabésité,Zénauva,CH,Ch. des Botchets 24,,,,2154.0,,,,,2154.0,hco,vifor
+Trägerverein Swiss Oncology & Hematology Congress SOHC,Zürich,CH,Talacker 50,,,,21540.0,,,,,21540.0,hco,vifor
+Translational Medicine Academy,Basel,CH,Kanonengasse 28,,,,54000.0,,,,,54000.0,hco,vifor
+Universitäre Psychiatrische Kliniken Basel,Basel,CH,Wilhelm Klein Strasse 27,,,,4308.0,,,5500.0,,9808.0,hco,vifor
+Universitäts-Kinderspital beider Basel UKBB,Basel,CH,Spitalstrasse 33,,,,3077.0,,,,,3077.0,hco,vifor
+Universitätsspital Basel,Basel,CH,Petersgraben 4,,,,5385.0,,,,,5385.0,hco,vifor
+"Universitätsspital Basel, Gastroenterologie",Basel,CH,Petersgraben 4,,,,2154.0,,,,,2154.0,hco,vifor
+"Universitätsspital Basel, Klinik für Innere Medizin",Basel,CH,Petersgraben 4,,,,4523.4,,,,,4523.4,hco,vifor
+"Universitätsspital Basel, Klinik für Kardiologie",Basel,CH,Petersgraben 4,,,,4308.0,,,5645.0,,9953.0,hco,vifor
+"Universitätsspital Basel, Klinik für Pneumologie",Basel,CH,Petersgraben 4,,,,3000.0,,,1200.0,,4200.0,hco,vifor
+"Universitätsspital Basel, Transplantationsimmunologie und Nephrologie",Basel,CH,Petersgraben 4,,,,5120.1,,,,,5120.1,hco,vifor
+"Universitätsspital Basel, Universitätsspital Basel",Basel,CH,Spitalstrasse 21,,,,,,,1250.0,,1250.0,hco,vifor
+"UniversitätsSpital Zürich (USZ), Cancer Center Zürich",Zürich,CH,Rämistrasse 100,,,,4308.0,,,,,4308.0,hco,vifor
+"UniversitätsSpital Zürich (USZ), Klinik für Gastroenterologie und Hepatologie",Zürich,CH,Rämistrasse 100,,,,8077.5,,,,,8077.5,hco,vifor
+"UniversitätsSpital Zürich (USZ), Klinik für Gynäkologie",Zürich,CH,Frauenklinikstrasse 10,,,,1346.25,,,,,1346.25,hco,vifor
+"UniversitätsSpital Zürich (USZ), Klinik für Konsiliarpsychiatrie und Psychosomatik",Zürich,CH,Culmannstrasse 8,,,,4077.0,,,,,4077.0,hco,vifor
+"UniversitätsSpital Zürich (USZ), Klinik und Poliklinik für Innere Medizin",Zürich,CH,Rämistrasse 100,,,,14539.5,,,,,14539.5,hco,vifor
+"UniversitätsSpital Zürich (USZ), Universitäres Herzzentrum - Klinik für Kardiologie",Zürich,CH,Rämistrasse 100,,,16155.0,21540.0,,,1000.0,,38695.0,hco,vifor
+"Université de Genève, Faculté de Médecine, Dépt. universitaire de psychiatrie",Genève,CH,rue de Lausanne 20 bis,,,,2154.0,,,,,2154.0,hco,vifor
+UPD Universitäre Psychiatrische Dienste Bern,Bern,CH,Bolligenstrasse 111,,,,4308.0,,,,,4308.0,hco,vifor
+"UZH Universität Zürich, Psychiatrische Universitätsklinik",Zürich,CH,Lenggstrasse 31,,,,6077.0,,,,,6077.0,hco,vifor
+Verband Nierenpatienten Schweiz,Praz (Vully),CH,Route Principale 116,,,1000.0,5000.0,,,,,6000.0,hco,vifor
+Verein Engadiner Weiterbildungen in Allgemeiner Innerer Medizin,Chur,CH,Loesstrasse 170,,,,1000.0,,,,,1000.0,hco,vifor
+Verein Gastroenterologie Zürich (VGZ),Zürich,CH,Seestrasse 90,,,,2800.0,,,,,2800.0,hco,vifor
+Verein Lunge Zürich,Zürich,CH,Pfingstweidstrasse 10,,,,22121.58,,,,,22121.58,hco,vifor
+Verein Schweizer Kongress für Notfallmedizin,Bern,CH,Wattenwylweg 21,,,,5634.85,,,,,5634.85,hco,vifor
+Verein Stress Management c/o Gesundheitszentrum St. Johann,Basel,CH,Elsässerstrasse 44,,,,500.0,,,,,500.0,hco,vifor
+Verein who is who im Kreis 2,Zürich,CH,Grossackerstrasse 98,,,,1500.0,,,,,1500.0,hco,vifor
+VZI- Vereinigung Allg. und Spez. Internisten Zürich,Zürich,CH,Birmensdorferstrasse 497,,,,4092.6,,,,,4092.6,hco,vifor
+World Heart Federation (WHF),Genève,CH,Rue de Malatrex 32,,,,75000.0,,,,,75000.0,hco,vifor
+"ZAIM, Zurich Academy of Internal Medicine",Zürich,CH,Grossmünsterplatz 8,,,,2154.0,,,,,2154.0,hco,vifor
+Zentralpraxis Wallisellen,Wallisellen,CH,Zentralstrasse 6,,,,1615.5,,,,,1615.5,hco,vifor
+Zentralschweizer Internistenwoche,Stans,CH,Ennetmooserstrasse 19,,,,2000.0,,,,,2000.0,hco,vifor
+Zurich Heart House,Zürich,CH,Moussonstrasse 4,,,25400.0,,,,,,25400.0,hco,vifor
