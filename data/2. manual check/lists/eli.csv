@@ -6,18 +6,18 @@ Roberto Antenna,Muralto,CH,Via della Stazione 10,,,,,,155.0,,,155,hcp,eli
 Sheila Ardigo,Genève,CH,Rue du Nant 4-6,,,,,,,600.0,,600,hcp,eli
 Andreas Arnold,Basel,CH,Blumenrain 20,,,,,,,800.0,,800,hcp,eli
 Neda Barouti,Genève,CH,Rue Pierre-Fatio 15,,,,,,,800.0,,800,hcp,eli
-Andreas Barth,Solothurn,CH,"Haus 7, EG, Schöngrünstrass e 36A",,,,,271.0,465.0,,,736,hcp,eli
+Andreas Barth,Solothurn,CH,Schöngrünstrass e 36A,,,,,271.0,465.0,,,736,hcp,eli
 Esther Bärtschi,Bern,CH,Effingerstrasse 16,,,,,271.0,208.0,,,479,hcp,eli
 Sylvia Baumann Kurer,Winterthur,CH,St. Georgen- Strasse 70,,,,,271.0,394.0,,,665,hcp,eli
 Claudia Bender- Papachristofilou,Basel,CH,Petersgraben 4,,,,,360.0,,,,360,hcp,eli
 Monika Biedermann,Bern,CH,"Inselspital, Freiburgstrasse 41G",,,,,,,430.0,,430,hcp,eli
-Andreas Bieri,Aarau,CH,"Haus 9, Tellstrasse 25",,,,,,,800.0,32.0,832,hcp,eli
-Stefan Bilz,St  Gallen,CH,"Haus 10, 1. Stock, Rorschacher Strasse 95",,,,,,,750.0,,750,hcp,eli
+Andreas Bieri,Aarau,CH,Tellstrasse 25,,,,,,,800.0,32.0,832,hcp,eli
+Stefan Bilz,St  Gallen,CH,Rorschacher Strasse 95,,,,,,,750.0,,750,hcp,eli
 Samuel Blaser,Chêne Bougeries,CH,Route De Chêne 110,,,,,467.0,1169.0,,,1636,hcp,eli
 Alexandre Martin Conrad Bodmer,Genève,CH,Boulevard de la Cluse 30,,,,,467.0,787.0,1500.0,,2754,hcp,eli
-Wolf-Henning Boehncke,Genève,CH,"Service de dermatologie, Rue Gabrielle- Perret-Gentil 4",,,,,,,4950.0,,4950,hcp,eli
+Wolf-Henning Boehncke,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,,,4950.0,,4950,hcp,eli
 Joe Bontadelli,Bellinzona,CH,Viale Officina 7,,,,,,,840.0,,840,hcp,eli
-Michael Brändle,St  Gallen,CH,"Kantonsspital St. Gallen, Rorschacher Strasse 95",,,,,,,3060.0,790.0,3850,hcp,eli
+Michael Brändle,St  Gallen,CH,Rorschacher Strasse 95,,,,,,,3060.0,790.0,3850,hcp,eli
 Urs Breitenstein,Zürich,CH,Seefeldstrasse 214,,,,,467.0,568.0,,,1035,hcp,eli
 Paul Bremi,Winterthur,CH,Schaffhauserstra sse 5,,,,,272.0,346.0,,,618,hcp,eli
 Mara Sara Brizzi,Schaffhausen,CH,Schwertstrasse 9,,,,,324.0,366.0,,,690,hcp,eli
@@ -30,7 +30,7 @@ Barbara Chiesi,Giubiasco,CH,Via Borghetto 1c,,,,,196.0,969.0,,,1165,hcp,eli
 Rosaria Condorelli,Locarno,CH,Via all'Ospedale 1,,,,,,,700.0,,700,hcp,eli
 Marzia Conti Beltraminelli,Pregassona,CH,Via alle Vigne 7,,,,,,,700.0,,700,hcp,eli
 Julian Cooper,Langenthal,CH,Hasenmattstrass e 37,,,,,,,800.0,,800,hcp,eli
-Antonio Cozzio,St  Gallen,CH,"Haus 20, Rorschacher Strasse 95",,,,,,,2790.0,,2790,hcp,eli
+Antonio Cozzio,St  Gallen,CH,Rorschacher Strasse 95,,,,,,,2790.0,,2790,hcp,eli
 Heidi Dazzi,Dietikon,CH,Heimstrasse 1,,,,,271.0,309.0,,,580,hcp,eli
 Konstantin Dedes,Zürich,CH,Frauenklinikstras se 10,,,,,,,1000.0,,1000,hcp,eli
 Rosita Dell' Orto Spadacini,Canobbio,CH,Via San Bernardo 20,,,,,196.0,1007.0,,,1203,hcp,eli
@@ -38,7 +38,7 @@ Jean Dudler,Fribourg,CH,Chemin des Pensionnats 2,,,,,,,1200.0,,1200,hcp,eli
 Marc Egli,Epalinges,CH,Route de la Corniche 1,,,,,196.0,591.0,,,787,hcp,eli
 Jörg Eimers,Gisikon,CH,Wissehrli 1b,,,,,,,800.0,,800,hcp,eli
 Stephan Erni,Bad Zurzach,CH,Quellenstrasse 34,,,,,166.0,625.0,,,791,hcp,eli
-Simone Anna Farese Rimoldi,Solothurn,CH,"Haus 7, EG, Schöngrünstrass e 36A",,,,,271.0,443.0,,,714,hcp,eli
+Simone Anna Farese Rimoldi,Solothurn,CH,Schöngrünstrass e 36A,,,,,271.0,443.0,,,714,hcp,eli
 Arpad Farkas,Glattbrugg,CH,Schaffhauserstra sse 99,,,,,,199.0,,,199,hcp,eli
 Jean-Marc Ferrara,Yverdon les Bains,CH,Rue du Curtil- Maillet 29,,,,,196.0,634.0,,,830,hcp,eli
 "Maria Teresa Ferretti,  rer.",Guntershausen,CH,Pfisterwisstrasse 14,,,,,,,300.0,,300,hcp,eli
@@ -52,7 +52,7 @@ Reto Arthur Frey,Zürich,CH,Albisriederplatz 3,,,,,438.0,899.0,,,1337,hcp,eli
 Patrizia Frösch,Locarno,CH,Via all'Ospedale 1,,,,,264.0,484.0,,,748,hcp,eli
 Cem Gabay,Genève,CH,Avenue de Beau- Séjour 26,,,,,,,3000.0,,3000,hcp,eli
 Ursula Gansser- Kälin,Einsiedeln,CH,Schmiedenstrass e 23,,,,,,245.0,,,245,hcp,eli
-Ute Gick,Thun,CH,"Manor-Haus 3. Stock, Bahnhofstrasse 3",,,,,467.0,367.0,,,834,hcp,eli
+Ute Gick,Thun,CH,Bahnhofstrasse 3,,,,,467.0,367.0,,,834,hcp,eli
 Catherine Goehring,Biasca,CH,Via Stefano Franscini 6,,,,,196.0,1122.0,,,1318,hcp,eli
 Stewart Griscom,Genève,CH,Avenue Wendt 56,,,,,196.0,1031.0,,,1227,hcp,eli
 Andreas Gschwend,Baar,CH,Landhausstrasse 11,,,,,271.0,362.0,,,633,hcp,eli
@@ -74,10 +74,10 @@ Andreas Jakob,Aarau,CH,"Hirslanden Medical Center, Rain 34",,,,,264.0,484.0,,,74
 Gabriel Jaschko,Rümlang,CH,Obermattenstras se 7,,,,,272.0,350.0,,,622,hcp,eli
 Christian Kamm,Luzern,CH,Spitalstrasse,,,,,,586.0,,,586,hcp,eli
 Cornelia Keller,Winterthur,CH,Brauerstrasse 15,,,,,205.0,1258.0,,,1463,hcp,eli
-Andreas Kleinschmidt,Genève,CH,"Bâtiment C, 2e étage, Rue Gabrielle-Perret- Gentil 4",,,,,,361.0,,,361,hcp,eli
+Andreas Kleinschmidt,Genève,CH,Rue Gabrielle-Perret- Gentil 4,,,,,,361.0,,,361,hcp,eli
 Kadir Oktay Kocagöncü,Basel,CH,Aeschenvorstadt 68,,,,,272.0,327.0,,,599,hcp,eli
 Thibaud Koessler,Genève,CH,"Service d'Oncologie, Rue Gabrielle-Perret- Gentil 4",,,,,,,1440.0,,1440,hcp,eli
-Attila Kollàr,Bern,CH,"Lory-Haus, Freiburgstrasse 41G",,,,,,350.0,,,350,hcp,eli
+Attila Kollàr,Bern,CH,Freiburgstrasse 41G,,,,,,350.0,,,350,hcp,eli
 Michail Kouros,Locarno,CH,Via Vincenzo Vela 11,,,,,,,700.0,,700,hcp,eli
 Elena Kralidis,Zürich,CH,Seestrasse 259,,,,,271.0,208.0,,,479,hcp,eli
 Sabina Kraus,Frauenfeld,CH,Pfaffenholzstrass e 4,,,,,,781.0,,,781,hcp,eli
@@ -85,10 +85,10 @@ Beatrice Kuhlmann,Basel,CH,Aeschenvorstadt 57,,,,,,,1200.0,,1200,hcp,eli
 Felix Kühn,Luzern,CH,Weggisgasse 40,,,,,205.0,636.0,,,841,hcp,eli
 Thomas Kündig,Zürich,CH,Gloriastrasse 31,,,,,,,1350.0,,1350,hcp,eli
 Patric Kurmann,Neuchâtel,CH,Rue Du Seyon 10,,,,,,,1000.0,,1000,hcp,eli
-Emmanuel Laffitte,Genève,CH,"Service de dermatologie, Rue Gabrielle- Perret-Gentil 4",,,,,,,,90.0,90,hcp,eli
+Emmanuel Laffitte,Genève,CH,Rue Gabrielle- Perret-Gentil 4,,,,,,,,90.0,90,hcp,eli
 Gunther Landmann,Nottwil,CH,Guido A. Zäch Strasse 1,,,,,,,875.0,37.0,912,hcp,eli
 Anne-Karine Lapointe Bouyer,Lausanne,CH,Avenue du Théâtre 7,,,,,,,800.0,,800,hcp,eli
-Franz Lauener,Abtwil SG,CH,"Säntispark, Wiesenbachstras se 5",,,,,166.0,620.0,,,786,hcp,eli
+Franz Lauener,Abtwil SG,CH,Wiesenbachstrasse 5,,,,,166.0,620.0,,,786,hcp,eli
 Reinhard Lehner,Sarnen,CH,Marktstrasse 7,,,,,272.0,363.0,,,635,hcp,eli
 Catherine Leromain,Yverdon les Bains,CH,Avenue des Bains 22,,,,,,34.0,,,34,hcp,eli
 Jann Lübbe,Nyon,CH,Rue Saint-jean 4,,,,,,,800.0,,800,hcp,eli
@@ -97,7 +97,7 @@ Christian Monnerat,Delémont,CH,Faubourg des Capucins 30,,,,,467.0,617.0,,,1084,
 Raphaël Morales,Fleurier,CH,Avenue de la Gare 1,,,,,196.0,581.0,,,777,hcp,eli
 Sylvie Morales,Fleurier,CH,Avenue de la Gare 1,,,,,234.0,367.0,,,601,hcp,eli
 Cleopatra Guadalupe Morales López,Zürich,CH,Zollikerstrasse 37,,,,,122.0,547.0,,,669,hcp,eli
-Brigitte Moser,Solothurn,CH,"Haus 7, EG, Schöngrünstrass e 36A",,,,,120.0,,,,120,hcp,eli
+Brigitte Moser,Solothurn,CH,Schöngrünstrass e 36A,,,,,120.0,,,,120,hcp,eli
 Andreas Müller,Winterthur,CH,Brauerstrasse 15,,,,,,,1050.0,21.0,1071,hcp,eli
 Peter Myers,Genève,CH,Ruelle du Couchant 7,,,,,,288.0,1500.0,,1788,hcp,eli
 Damjan Nikolic,Genève,CH,Quai Du Seujet 14,,,,,,,800.0,,800,hcp,eli
@@ -125,11 +125,11 @@ Thomas Ruhstaller,St  Gallen,CH,Schuppisstrasse 10,,,,,,,1200.0,,1200,hcp,eli
 Marlene Ruppen,Luzern,CH,Sankt-Anna- Strasse 32,,,,,360.0,,,,360,hcp,eli
 Emanuela Salati,Rennaz,CH,Route du Vieux Séquoia 20,,,,,264.0,,,,264,hcp,eli
 Durdica Schäfer,Münsterlingen,CH,Spitalcampus 1,,,,,245.0,533.0,,,778,hcp,eli
-Christoph Schankin,Bern,CH,"Inselspital Hochhaus Stock M, Freiburgstrasse 18",,,,,,239.0,,1103.0,1342,hcp,eli
+Christoph Schankin,Bern,CH,Freiburgstrasse 18,,,,,,239.0,,1103.0,1342,hcp,eli
 Beat Schmid,Schaffhausen,CH,Geissbergstrasse 81,,,,,205.0,596.0,840.0,,1641,hcp,eli
 Petra Schmid,Rheinfelden,CH,Kaiserstrasse 8,,,,,271.0,370.0,,,641,hcp,eli
 Peter Schmid- Grendelmeier,Zürich,CH,Gloriastrasse 31,,,,,,,1350.0,,1350,hcp,eli
-Katrin Schmutz- Kober,Solothurn,CH,"Haus 7, EG, Schöngrünstrass e 36A",,,,,324.0,465.0,,,789,hcp,eli
+Katrin Schmutz- Kober,Solothurn,CH,Schöngrünstrass e 36A,,,,,324.0,465.0,,,789,hcp,eli
 Marcus Klaus Charles Schories,Basel,CH,Gellertstrasse 142,,,,,,,2800.0,,2800,hcp,eli
 Alexander Schreiber,Aarau,CH,"Haus 40, Tellstrasse 25",,,,,271.0,373.0,,,644,hcp,eli
 Bernd Schultes,St  Gallen,CH,Lerchentalstrass e 21,,,,,,,2000.0,,2000,hcp,eli
@@ -162,7 +162,7 @@ Sonja Vollenweider Roten,Vevey,CH,Rue de Lausanne 15,,,,,,,800.0,,800,hcp,eli
 Cord von Restorff,Männedorf,CH,Asylstrasse 84,,,,,272.0,364.0,,,636,hcp,eli
 Jan Voss,Luzern,CH,Haldenstrasse 11,,,,,,,1700.0,,1700,hcp,eli
 Coralie Vuagniaux,Yverdon les Bains,CH,Rue d'Entremonts 11,,,,,234.0,665.0,,,899,hcp,eli
-Marc Wehrli,Bern,CH,"Lory-Haus, Freiburgstrasse 41G",,,,,271.0,100.0,,,371,hcp,eli
+Marc Wehrli,Bern,CH,Freiburgstrasse 41G,,,,,271.0,100.0,,,371,hcp,eli
 Mathias Wenger,Zürich,CH,Gloriastrasse 25,,,,,272.0,226.0,,,498,hcp,eli
 Simone Wienert- Schmid,Bern,CH,Moserstrasse 15,,,,,,,800.0,,800,hcp,eli
 Peter Wiesli,Frauenfeld,CH,Pfaffenholzstrass e 4,,,,,,,2000.0,,2000,hcp,eli
@@ -183,7 +183,7 @@ Association pharmaGenève,Genève,CH,Rue Du Bois- Melly 2BIS,,,,1500.0,,,,,1500,
 Associazione MMM Mendrisio Medical Meeting,Minusio,CH,"Residenza Cadogno, Via Cadogno 1",,,,3000.0,,,,,3000,hco,eli
 Associazione Ticinese Assistenti di Studio Medico,Pazzallo,CH,Via dei Faggi 2a,,,,1500.0,,,,,1500,hco,eli
 Bethesda Spital AG,Basel,CH,Gellertstrasse 144,,,,2000.0,,,,,2000,hco,eli
-Breast Care Nurses Verband Schweiz,Bern,CH,"Theodor-Kocher- Haus Büro G 106, Friedbühlstrasse 19",,,,2500.0,,,,,2500,hco,eli
+Breast Care Nurses Verband Schweiz,Bern,CH,Friedbühlstrasse 19,,,,2500.0,,,,,2500,hco,eli
 Centre des maladies osseuses,Lausanne,CH,Avenue Pierre- Decker 4,,,,1500.0,,,,,1500,hco,eli
 CHUV Centre Hospitalier Universitaire Vaudois,Lausanne,CH,Rue Du Bugnon 21,,,,36300.0,,,11745.0,,48045,hco,eli
 Circolo medico di Locarno,Ascona,CH,Via al Lido 27,,,,1500.0,,,,,1500,hco,eli
@@ -241,7 +241,7 @@ Ospedale Regionale di Mendrisio Beata Vergine - OBV,Mendrisio,CH,"OBV - Ospedale
 Osteoclub Ticino,Lugano,CH,"Clinica Luganese Moncucco, Soldini,via",,,,1000.0,,,,,1000,hco,eli
 Osteoporoseplattf orm SGR,Zürich,CH,Bellariastrasse 38,,,,25000.0,,,,,25000,hco,eli
 Pharmactuel Ticino,Lugano,CH,"c/o OFCT, Via Al Forte 3",,,,3200.0,,,,,3200,hco,eli
-Quadrimed,Crans Montana,CH,"ATT. Mme Elvire Crettol, Case Postale 299 PO Box: 299",,,,6741.0,,,,,6741,hco,eli
+Quadrimed,Crans Montana,CH,"ATT. Mme Elvire Crettol, Case Postale 299 ",,,,6741.0,,,,,6741,hco,eli
 REMED Association des médecins travaillant en Réseau,Genève,CH,"c/o Dr. Florence Emery, Chemin de Beau-Soleil 22",,,,2000.0,,,,,2000,hco,eli
 Réseau Santé Balcon du Jura vaudois,Ste Croix,CH,Rue des Rosiers 29,,,,2000.0,,,,,2000,hco,eli
 Rheuma Schweiz,Zürich,CH,Aargauerstrasse 250,,,,55520.0,,,,,55520,hco,eli
