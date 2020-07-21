@@ -1,4 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
 hcp_amount,,,1012.0,3875.11,68528.0,15692.0,89107.11,daiichi
+hcp_count,,,2.0,3.0,15.0,2.0,,daiichi
 hco_amount,,8000.0,,,,,8000.0,daiichi
+hco_count,,6.0,,,,,6.0,daiichi
 rnd,,,,,,,352459.0,daiichi
