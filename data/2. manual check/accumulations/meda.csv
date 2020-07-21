@@ -1,4 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
 hcp_amount,,,,,,,,meda
+hcp_count,,,,,,,,meda
 hco_amount,,,,,10520.0,,10520.0,meda
+hco_count,,,,,4.0,,4.0,meda
 rnd,,,,,,,,meda

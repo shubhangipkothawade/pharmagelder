@@ -1,6 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
 hcp_amount,,,2611.06,3605.88,7224.0,292.6,13733.54,otsuka
 hco_amount,0.0,0.0,0.0,0.0,0.0,0.0,0.0,otsuka
-hcp_count,,,5.0,6.0,5.0,2.0,18.0,otsuka
-hco_count,0.0,0.0,0.0,0.0,0.0,0.0,0.0,otsuka
+hcp_count,,,5.0,6.0,5.0,2.0,,otsuka
+hco_count,0.0,0.0,0.0,0.0,0.0,0.0,,otsuka
 rnd,,,,,,,33555.7,otsuka

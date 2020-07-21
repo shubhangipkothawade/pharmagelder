@@ -1,6 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
 hcp_amount,,,212.27,1076.5,,,1288.77,stallergenes
 hco_amount,,,,,,,,stallergenes
-hcp_count,,,2.0,2.0,,,,stallergenes
+hcp_count,,,2.0,2.0,,,2,stallergenes
 hco_count,,,,,,,,stallergenes
 rnd,,,,,,,,stallergenes

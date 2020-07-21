@@ -1,4 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
 hcp_amount,,,0.0,0.0,8000.0,0.0,8000.0,mitsubishi
+hcp_count,,,0.0,0.0,10.0,0.0,10.0,mitsubishi
 hco_amount,,0.0,0.0,0.0,0.0,0.0,0.0,mitsubishi
+hco_count,,0.0,0.0,0.0,0.0,0.0,0.0,mitsubishi
 rnd,,,,,,,0.0,mitsubishi

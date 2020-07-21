@@ -1,4 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
 hcp_amount,,,7807.0,10017.0,10444.0,927.0,29196,gruenenthal
+hcp_count,,,27.0,25.0,6.0,1.0,34,gruenenthal
 hco_amount,,0.0,0.0,0.0,0.0,,0,gruenenthal
+hco_count,,0.0,0.0,0.0,0.0,,0,gruenenthal
 rnd,,,,,,,0,gruenenthal
