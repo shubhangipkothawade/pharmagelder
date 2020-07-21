@@ -1,4 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
 hcp_amount,,,2819.36,5104.05,42078.0,1057.44,51058.85,merck
+hcp_count,,,7.0,7.0,25.0,3.0,32.0,merck
 hco_amount,,,,,,,,merck
+hco_count,,,,,,,,merck
 rnd,,,,,,,295353.0,merck

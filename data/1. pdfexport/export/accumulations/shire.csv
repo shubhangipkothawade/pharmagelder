@@ -1,4 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
 hcp_amount,,,546.95,6215.33,8386.24,271.76,15420.28,shire
+hcp_count,,,1.0,2.0,3.0,2.0,,shire
 hco_amount,,,,,,,,shire
+hco_count,,,,,,,,shire
 rnd,,,,,,,174899.56,shire

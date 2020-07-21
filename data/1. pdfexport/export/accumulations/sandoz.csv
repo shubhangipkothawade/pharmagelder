@@ -1,4 +1,6 @@
 type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
 hcp_amount,,,,,6240.65,32.96,6273.61,sandoz
+hcp_count,,,,,3.0,1.0,,sandoz
 hco_amount,,,,,,,0.0,sandoz
+hco_count,,,,,,,,sandoz
 rnd,,,,,,,0.0,sandoz
