@@ -1,8 +1,8 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-University Hospital Berne,Zürich,CH,Frauenklinikstrasse 26,8091,,,4000,,,,,4000.0,hco,neurim
-University Hospital Berne,Bern,CH,Freiburgstrasse 8,3010,,,3000,,,,,3000.0,hco,neurim
-Société Vaudoise de Médecine,ZüLausanne,CH,"Ch. De Mornex 38, Case Postale 7443",1002,,,800,,,,,800.0,hco,neurim
+Universitätsspital Zürich,Zürich,CH,Frauenklinikstrasse 26,8091,,,4000,,,,,4000.0,hco,neurim
+Universitätsspital Bern,Bern,CH,Freiburgstrasse 8,3010,,,3000,,,,,3000.0,hco,neurim
+Société Vaudoise de Médecine,Lausanne,CH,"Ch. De Mornex 38, Case Postale 7443",1002,,,800,,,,,800.0,hco,neurim
 L’Hôpital du Valais,Sion,CH,av. Grand-Champsec 86,1951,,,1500,,,,,1500.0,hco,neurim
 Ospedale Regionale di Lugano,Lugano,CH,"Neurocentro della Svizzera Italiana, Via Tesserete 46",6903,,,3500,,,,,3500.0,hco,neurim
-Schweizerischen Gesellschaft für Schlafforschung,Basel,CH,"c/o Zentrum für Chronobiologie, Universitäre Psychiatrische Kliniken, Wilhelm-Klein Strasse 27",4002,,,3000,,,,,3000.0,hco,neurim
+"Schweizerischen Gesellschaft für Schlafforschung, Schlafmedizin und Chronobiologie",Basel,CH,"c/o Zentrum für Chronobiologie, Universitäre Psychiatrische Kliniken, Wilhelm-Klein Strasse 27",4002,,,3000,,,,,3000.0,hco,neurim
 CENAS – Centre du Sommeil,Les Acacias,CH,Route des Jeunes 9,1227,,,1500,,,,,1500.0,hco,neurim
