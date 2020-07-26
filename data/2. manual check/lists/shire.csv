@@ -13,7 +13,7 @@ Jan-Dirk Studt,Zürich,CH,Rämistrasse 100,,,,,,,2000.0,,2000.0,hcp,shire
 Maria Trinidad Martinez,Basel,CH,Petersgraben 4,,,,,,,1750.0,,1750.0,hcp,shire
 Marie-Louise Daly,Basel,CH,Petersgraben 4,,,,,,,1500.0,303.0,1803.0,hcp,shire
 Matthias Sturzenegger,Bern,CH,Diesbachstrasse 3,,,,,,,2687.5,51.0,2738.5,hcp,shire
-Max GIGER,Winterthur,CH,Rosenrain,,,,,,,,8.8,8.8,hcp,shire
+Max Giger,Winterthur,CH,Rosenrain,,,,,,,,8.8,8.8,hcp,shire
 Michel R. Magistris,Geneve,CH,Avenue Léon-Gaud 14,,,,,,630.0,3750.0,,4380.0,hcp,shire
 Ralph Fingerhut,Zürich,CH,Steinwiesstrasse 75,,,,,,,,622.35,622.35,hcp,shire
 Ursula Looser,Rotkreuz,CH,Buonaserstrasse 30,,,,,,699.47,,,699.47,hcp,shire
@@ -21,7 +21,7 @@ Wolfgang Korte,St. Gallen,CH,Frohbergstrasse 3,,,,,,,2000.0,55.0,2055.0,hcp,shir
 Centre de Chimiothérapie,Fribourg,CH,Route de Villars 37,,,,2000.0,,,,,2000.0,hco,shire
 CHUV,Lausanne,CH,Rue Du Bugnon 21,,,,15900.0,1195.42,3237.55,1500.0,,21832.97,hco,shire
 COALAT / Anesthesiology CHUV,Lausanne,CH,Rue Du Bugnon 46,,,,3000.0,,,,,3000.0,hco,shire
-(ESID),GENEVA,CH,7 Rue-Francois Versonnex,,,27239.5,,,,,,27239.5,hco,shire
+European Society for Immunodeficiencies (ESID),Genève ,CH,7 Rue-Francois Versonnex,,,27239.5,,,,,,27239.5,hco,shire
 Group (HNHCP),Winterthur,CH,Postfach 98,,,,2000.0,,,,,2000.0,hco,shire
 HFR Fribourg-Hôpital Cantonal,Fribourg,CH,Chemin des Pensionnats 2,,,,1500.0,,,,,1500.0,hco,shire
 HICC,St. Gallen,CH,Frohbergstrasse 3,,,,3300.0,,,,,3300.0,hco,shire
@@ -45,4 +45,4 @@ Immunologie,Bern,CH,Scheibenstrasse 20,,,,41500.0,,,,,41500.0,hco,shire
 Universitäts-Kinderspital Basel,Basel,CH,Spitalstrasse 33,,,,,,478.49,,,478.49,hco,shire
 Universitätsspital Basel,Basel,CH,Spitalstrasse 21,,,,17000.0,,1037.1,750.0,,18787.1,hco,shire
 UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,,,,9000.0,580.06,1299.53,,,10879.59,hco,shire
-Zentrum für Labormedizin:Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,,,300.0,50.7,1000.0,,1350.7,hco,shire
+Zentrum für Labormedizin Kantonsspital St. Gallen,St. Gallen,CH,Rorschacher Strasse 95,,,,,300.0,50.7,1000.0,,1350.7,hco,shire
