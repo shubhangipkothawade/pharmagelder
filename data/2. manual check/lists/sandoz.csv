@@ -1,6 +1,6 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
 Matti Samuli Aapro,Collonge Bellerive,CH,Ch.du Chateau de Bellerive 2,,,,,,,6852.93,191.35,7044.28,hcp,sandoz
-Krol Adam,Entlebuch,CH,Schmittenrain 1,,,,,,,500.0,,500.0,hcp,sandoz
+Adam Krol,Entlebuch,CH,Schmittenrain 1,,,,,,,500.0,,500.0,hcp,sandoz
 Gröflin Beat Urs,Binningn,CH,Hauptstrasse 3,,,,,,,500.0,,500.0,hcp,sandoz
 Sabrina Ben Amara,Lausanne,CH,Place de la Navigation 6,,,,,,,800.0,,800.0,hcp,sandoz
 Pascal Bonnabry,Vessy,CH,Chemin de Chantefleur 101,,,,,,,3977.6,66.4,4044.0,hcp,sandoz
@@ -21,7 +21,7 @@ Antoine Jallut,Crissier,CH,Chemin de Plan Soleil 6,,,,,,,800.0,,800.0,hcp,sandoz
 Eric Jensen,Schwyz,CH,Herrengasse 13,,,,,,,500.0,,500.0,hcp,sandoz
 Oliver Kuonen,Altendorf,CH,Lidwil 8,,,,,,,800.0,,800.0,hcp,sandoz
 Thomas Langenegger,Baar,CH,Landhausstrasse 11,,,,,,,1250.0,,1250.0,hcp,sandoz
-Catherine Leromain-Gaillar d,Yverdon-Les-Bain s,CH,Avenue des Bains 22,,,,,,,800.0,,800.0,hcp,sandoz
+Catherine Leromain-Gaillard,Yverdon-Les-Bain s,CH,Avenue des Bains 22,,,,,,,800.0,,800.0,hcp,sandoz
 Christian Meier,Basel,CH,Aeschenvorstadt 57,,,,,,,1050.0,,1050.0,hcp,sandoz
 Arshan Moini,Rüschlikon,CH,Weingartenstrass e 7,,,,,,,500.0,,500.0,hcp,sandoz
 Tobias Niggli,Zumikon,CH,Grundstrasse 5,,,,,,,500.0,,500.0,hcp,sandoz
@@ -32,8 +32,8 @@ Gerhard Rogler,Zürich,CH,Postfach,,,,,,,3840.0,,3840.0,hcp,sandoz
 Thierry Saba,Brent,CH,Chemin Chantey 6,,,,,,,800.0,,800.0,hcp,sandoz
 Matthias Saur,Wiesendangen,CH,Wasserfuristrass e 72,,,,,,,813.0,,813.0,hcp,sandoz
 Christoph Schmidli,Wetzikon,CH,Bertschickerstra sse 91,,,,,,,500.0,,500.0,hcp,sandoz
-Praxis Jutta Spangenberg,Effretikon,CH,Bahnhofstrasse 13,,,,,,,500.0,,500.0,hcp,sandoz
-Michael Spycher,Zürich,CH,Sternen Apotheke Schaffhauserstra sse 350,,,,,,,2000.0,,2000.0,hcp,sandoz
+Jutta Spangenberg,Effretikon,CH,Bahnhofstrasse 13,,,,,,,500.0,,500.0,hcp,sandoz
+Michael Spycher,Zürich,CH,Sternen Apotheke Schaffhauserstrasse 350,,,,,,,2000.0,,2000.0,hcp,sandoz
 Jacques Stalder,Yverdon,CH,Rue du Four 27,,,,,,,800.0,,800.0,hcp,sandoz
 Neuner-Jehle Stefan,Steinhausen,CH,Eichholzweg 15A,,,,,,,500.0,,500.0,hcp,sandoz
 Tom Stingelin,Zürich,CH,Schaffhauserstra sse 39,,,,,,,500.0,,500.0,hcp,sandoz
