@@ -210,6 +210,11 @@ df_export['plz'] = df_export.address.str.extract(r' (\d{4})')
 df_export['address'] = df_export.address.str.replace(r'(,\s\d{4}.*)', '')
 ```
 
+**Set Columns manually**  
+```python
+columns = [17.8, 165.2, 248.3, 421.9, 480.8, 533.5, 589.2, 643.9, 698.6, 757.6, 773.4]
+df_hcp = tabula.read_pdf("hcp_2019_offenlegung.pdf", pages='all', lattice=False, columns=columns, guess=False, pandas_options={'header': None})
+```
 
 ## Examples
 * Duplicated entries: [GlaxoSmithKline](http://localhost:8888/notebooks/data/1.%20pdfexport/files/GlaxoSmithKline/0.%20Lists.ipynb)
