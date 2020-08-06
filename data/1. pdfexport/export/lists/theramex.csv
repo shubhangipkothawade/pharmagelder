@@ -1,0 +1,27 @@
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Schweizerische Gesellschaft für Reproduktionsmedizin (SGRM),Worb,CH,Postfach 754,3076,,,,0,0.0,10000,,10000,hco,theramex
+Johannes Bitzer,Basel,CH,Schtzenmattstrasse 54,4051,7601000120113,,,0,0.0,2000,,2000,hcp,theramex
+Pharmacists/PhD Vera Ruth Mitter,Bern. 3010,CH,"Universitats-Frauenklinik, Friedbuhlstrasse 19",,7601003154818,,,303,,0,,475,hcp,theramex
+Marco Steiner,Luzern,CH,Muhleplatz 6,6004,7601000220455,,,514,1061.0,0,,1055,hcp,theramex
+Pascal Mock,Geneve,CH,Rond-point de Plainpalais 5,1205,7601000027252,,,787,,0,,891,hcp,theramex
+Gabriel de Candolle,Geneve,CH,Chemin de Beau-Soleil 22,1206,7601000033864,,,393,798.0,0,,798,hcp,theramex
+Didier Chardonnens,Meyrin 1217,CH,"1bis, Avenue Jean-Daniel-Maillard",,7601000028570,,,514,1046.0,0,,1045,hcp,theramex
+Urs Josef Graf,Uznach,CH,Gasterstrasse 25,8730,7601000274359,,,787,780.0,0,,1050,hcp,theramex
+Naomi Ventura,Chur,CH,"Kantonsspital Graubunden, Lurlibadstrasse 118",7000,7601000640482,,,514,703.0,0,,816,hcp,theramex
+Nikola Robert-Fasching,Zurich,CH,"OVA IVF, Hardturmstrasse 11",8005,7601000776822,,,787,1314.0,0,,1407,hcp,theramex
+Michael Haeberle,Zurich,CH,"GYN-ART, Hardturmstrasse 130",8005,7601000161680,,,85,212.0,0,,297,hcp,theramex
+Estilla Maurer,Zurich,CH,"Female Helath Praxis, Emil-Opprecht-Strasse 9",8050,7601000260048,,,85,212.0,0,,297,hcp,theramex
+Monika Fah,Winterthur,CH,BrunnGasse 6,8400,7601000630162,,,209,357.0,0,,379,hcp,theramex
+Susanne Rohner,Bern,CH,Bremgartnerstrasse 117,3012,7601000652270,,,209,307.0,0,,346,hcp,theramex
+Daniela Pfammatter,Zurich,CH,"OVA IVF, Hardturmstrasse 11",8005,7601000890412,,,209,495.0,0,,472,hcp,theramex
+Nina Kiep,Kreuzlingen,CH,Hauptstrasse 54,8280,7601003855487,,,209,130.0,0,,227,hcp,theramex
+Bleichenbacher,Bern,CH,Spitalgasse 34,3012,7601000147677,,,209,323.0,0,,356,hcp,theramex
+Lindenhof AG,Bern,CH,Bremgartnerstrasse 117,3012,7601002025430,,,0,0.0,2000,,2000,hco,theramex
+Michael Jemec,Lugano,CH,"ProCrea, Via Clemente Maraini 8",6900,7601000176226,,,1055,8365.0,0,,6265,hcp,theramex
+Alexandra Kohl Schwartz,Bern,CH,"University hospital Bern, Friedbuhlstrasse 19",3010,7601000529350,,,1320,5989.0,0,,4802,hcp,theramex
+Estilla Maurer,Zurich,CH,"Female Helath Praxis, Emil-Opprecht-Strasse 9",8050,7601000260048,,,675,5110.0,0,,3727,hcp,theramex
+University Hospital Zurich,Zurich,CH,Frauenklinikstrasse 10,8091,7601002013864,,,0,0.0,2000,,2000,hco,theramex
+Michael Jemec,Lugano,CH,"ProCrea, Via Clemente Maraini 8",6900,7601000176226,,,0,1286.0,1500,,2785,hcp,theramex
+Johannes Bitzer,Basel,CH,Schtzenmattstrasse 54,4051,7601000120113,,,0,936.0,1900,,2836,hcp,theramex
+Bleichenbacher,Bern,CH,Spitalgasse 34,3012,7601000147677,,,1300,1047.0,0,,1572,hcp,theramex
+Stefanie Sturm,Schaffhausen,CH,Stafacherstrasse 36,8200,7601000706980,,,333,697.0,0,,741,hcp,theramex
