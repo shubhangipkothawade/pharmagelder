@@ -1,5 +1,5 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-Cezmi Akdis,Davos,CH,Obere Straße 22,,,,,,,3150.0,770.0,3920.0,hcp,merck
+Cezmi Akdis,Davos,CH,Obere Strasse 22,,,,,,,3150.0,770.0,3920.0,hcp,merck
 Marie-Laure Amram-Benamram,Onex,CH,Route de Chancy 98,,,,,,,1250.0,,1250.0,hcp,merck
 Mark David Anliker,Winterthur,CH,Unterer Graben 25,,,,,565.63,1200.32,,,1765.95,hcp,merck
 Barbara Ballmer-Weber,St. Gallen,CH,Rorschacher Strasse 95,,,,,,,1000.0,,1000.0,hcp,merck
@@ -155,7 +155,7 @@ Dermatologische Klinik,Zürich,CH,Gloriastrasse 31,,,,3995.0,,,,,3995.0,hco,merc
 EAACI Headquarters,Zurich,CH,Hagenholzstrasse 111,,,,225823.69,,,,,225823.69,hco,merck
 EOC - Instituto Oncologico della Svizzera Italiana,Bellinzona,CH,Ospedale San Giovanni,,,,1000.0,,,1500.0,,2500.0,hco,merck
 ESGO,Geneva,CH,Rue Francois-Versonnex 7,,,,45256.55,,,,,45256.55,hco,merck
-European Federation for Medicinal Chemistry (EFMC),Bern,CH,Laupenstraße 7,,,,6820.82,,,,,6820.82,hco,merck
+European Federation for Medicinal Chemistry (EFMC),Bern,CH,Laupenstrasse 7,,,,6820.82,,,,,6820.82,hco,merck
 European Health Care Foundation EUHCF,Zürich,CH,Räffelstrasse 26,,,,68190.34,,,,,68190.34,hco,merck
 European Society for Medical Oncology (ESMO),Lugano,CH,Via Ginevra 4,,,,38593.48,,,,,38593.48,hco,merck
 Felix Platter-Spital,Basel,CH,Burgfelderstrasse 101,,,,1000.0,,,,,1000.0,hco,merck
@@ -223,7 +223,7 @@ Swiss Tumor Institute,Zürich,CH,Seefeldstrasse 214,,,,8000.0,,,,,8000.0,hco,mer
 TOPEC Global LLC,Sachseln,CH,Bruder-Klausen-Weg 3,,,1255422.09,,,,,,1255422.09,hco,merck
 Trägerverein Swiss Oncology & Hematology Congress,Zürich,CH,Bahnhofplatz 4,,,,16500.0,,,,,16500.0,hco,merck
 Universitätsspital Basel,Basel,CH,Spitalstrasse 21,,,20000.0,12231.0,,3341.76,9253.77,75.0,44901.53,hco,merck
-UniversitätsSpital Zürich,Zürich,CH,Rämistrasse 100,,,,6250.0,447.33,1128.5,,,7825.83,hco,merck
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,,,,6250.0,447.33,1128.5,,,7825.83,hco,merck
 Université d'été ENMG c/o Dr F. Ochsner,La Chaux-de-Fonds,CH,Rue Numa-Droz 187,,,,1000.0,,,,,1000.0,hco,merck
 USCADE - Fondation pour la santé cardiovasculaire l'enfant et l'adolescent,Pully,CH,Avenue Chantemerle 10,,,,13500.0,,,,,13500.0,hco,merck
 Verein Lunge Zürich,Zürich,CH,Wilfriedstr.7,,,,5900.0,,,,,5900.0,hco,merck
