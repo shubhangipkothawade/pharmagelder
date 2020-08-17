@@ -140,8 +140,8 @@ hcp_count,,,,,,,,meda
 hco_amount,,,,,10520.0,,10520.0,meda
 hco_count,,,,,4.0,,4.0,meda
 rnd,,,,,,,,meda
-hcp_amount,,30.0,0.0,5.0,0.0,1.0,,menarini
-hcp_count,,3889.25,0.0,5835.25,0.0,110.0,9834.5,menarini
+hcp_amount,,3889.25,0.0,5835.25,0.0,110.0,9834.5,menarini
+hcp_count,,30.0,0.0,5.0,0.0,1.0,,menarini
 hco_amount,,158237.75,,,,,158237.75,menarini
 hco_count,,1.0,,,,,1.0,menarini
 rnd,,,,,,,0.0,menarini
@@ -189,7 +189,7 @@ hcp_amount,,,1.0,,2.0,2.0,5.0,novartis
 hcp_count,,,9220.0,,3540.0,2148.04,,novartis
 hco_amount,85000.0,4000.0,569.65,,9686.0,,99255.65,novartis
 hco_count,1.0,2.0,2.0,,3.0,,,novartis
-rnd,,,,,,,0.0,novartis
+rnd,,,,,,,6727195.22,novartis
 hcp_amount,,,5984.0,27373.0,82173.0,16518.0,132048.0,novo
 hco_amount,300000.0,2000.0,,,,,302000.0,novo
 hcp_count,,,12.0,11.0,10.0,3.0,13.0,novo
