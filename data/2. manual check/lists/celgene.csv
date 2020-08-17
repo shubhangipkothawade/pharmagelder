@@ -1,6 +1,320 @@
-type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,source
-hcp_amount,,,11956.19,33031.48,48872.5,2846.32,96706.49,celgene
-hco_amount,0.0,0.0,0.0,0.0,0.0,0.0,0.0,celgene
-hcp_count,,,22.0,25.0,24.0,6.0,40.0,celgene
-hco_count,0.0,0.0,0.0,0.0,0.0,0.0,0.0,celgene
-rnd,,,,,,,859381.87,celgene
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Adrian Casty,Bern,CH,Bremgartenstrasse 119,,WCHM02781480,,,354.95,314.2,,,669.15,hcp,celgene
+Adrian Schmidt,Zürich,CH,Birmensdorferstrasse 497,,WCHM03188926,,,,202.14,,,202.14,hcp,celgene
+Albéric Jean Marie Bressoud,Lausanne,CH,Avenue Du Servan 4-6,,WCHM01592724,,,226.55,802.82,,,1029.37,hcp,celgene
+Albert Von Rohr,Zürich,CH,Witellikerstrasse 40,,WCHM07661191,,,361.45,319.55,,,681.0,hcp,celgene
+Alexander Just,Lenzburg,CH,Niederlenzer Kirchweg 2A,,WCHM00002602,,,,,1020.0,101.5,1121.5,hcp,celgene
+Alexander Martin,Liestal,CH,Rheinstrasse 16,,WCHM04786942,,,301.03,610.49,,,911.52,hcp,celgene
+Alexandre Theocharides,Zürich,CH,Rämistrasse 100,,WCHM00004729,,,,610.63,1147.5,,1758.13,hcp,celgene
+Alicia Rovó,Bern,CH,Freiburgstrasse 18,,WCHM06201620,,,248.48,1101.58,,,1350.06,hcp,celgene
+Almaz Zerai,Bruderholz,CH,Batteriestrasse,,WCHM08295229,,,269.64,1140.15,,,1409.79,hcp,celgene
+Amalia-Iren Kerl-Skurka,Zürich,CH,Altstetterstrasse 142,,WCHM04029275,,,555.4,689.37,,,1244.77,hcp,celgene
+Anca Ungureanu,Brig,CH,Bahnhofstrasse 6,,WCHM00009236,,,258.4,733.57,,,991.97,hcp,celgene
+Andréa Garbéa,Lutry,CH,Grand-Rue 37,,WCHM00001447,,,824.17,1063.39,,,1887.56,hcp,celgene
+Andrea Hradiská,Aarau,CH,Bahnhofstrasse 29,,WCHM00007031,,,301.75,470.46,,,772.21,hcp,celgene
+Andrea Bettina Hysek-Galli,Biel/Bienne,CH,Marktgasse 17,,WCHM02771219,,,302.73,502.39,,,805.12,hcp,celgene
+Andreas Arnold,Basel,CH,Blumenrain 20,,WCHM01187394,,,310.9,461.63,1020.0,,1792.53,hcp,celgene
+Andreas Himmelmann,Luzern,CH,Sankt-Anna-Strasse 32,,WCHM03535678,,,466.71,894.33,,,1361.04,hcp,celgene
+Andreas Holbro,Basel,CH,Hebelstrasse 10,,WCHM05510605,,,10.47,1308.26,,,1318.73,hcp,celgene
+Angela Neub,Biel/Bienne,CH,General-Dufour-Strasse 17,,WCHM00009643,,,296.4,507.03,,,803.43,hcp,celgene
+Anna Efthymiou,Fribourg,CH,Chemin Des Pensionnats 2,,WCHM00008190,,,466.71,894.33,,,1361.04,hcp,celgene
+Anne Cairoli,Lausanne,CH,Rue Du Bugnon 46,,WCHM04029183,,,1361.91,4787.37,,,6149.28,hcp,celgene
+Anne-Claire Mamez,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,WCHM00011689,,,418.4,1032.53,,,1450.93,hcp,celgene
+Annett Härtel,Basel,CH,Beim Goldenen Löwen 13,,WCHM01192010,,,,,1530.0,,1530.0,hcp,celgene
+Antonello Calderoni,Lugano,CH,Via Antonio Fogazzaro 3,,WCHM04071219,,,677.61,1000.67,,,1678.28,hcp,celgene
+Antonio Cozzio,St. Gallen,CH,Rorschacher Strasse 95,,WCHM04238248,,,,,1020.0,,1020.0,hcp,celgene
+Arpad Farkas,Glattbrugg,CH,Schaffhauserstrasse 99,,WCHM02462081,,,,,1020.0,,1020.0,hcp,celgene
+Axel Mischo,Zürich,CH,Rämistrasse 100,,WCHM04868820,,,557.7,1169.6,,,1727.3,hcp,celgene
+Axel Rüfer,Luzern,CH,Spitalstrasse,,WCHM06236811,,,466.71,894.33,,,1361.04,hcp,celgene
+Bahar Shafaeddin Schreve,Genève,CH,Cours De Rive 2,,WCHM00587352,,,928.72,750.69,,,1679.41,hcp,celgene
+Barbara Bolliger,St. Gallen,CH,Rorschacherstrasse 150,,WCHM01548578,,,363.3,310.26,,,673.56,hcp,celgene
+Barbara Gaus,St. Gallen,CH,Kugelgasse 8,,WCHM00006405,,,,,,507.91,507.91,hcp,celgene
+Barbara Schönberg Von Arx,Aarau,CH,Frey-Herosé-Strasse 22,,WCHM03126080,,,,,1020.0,,1020.0,hcp,celgene
+Beat Bühler,Schwyz,CH,Waldeggstrasse 10,,WCHM01659585,,,363.3,310.26,,,673.56,hcp,celgene
+Beat Stucki,Niederhuenigen,CH,Hueningenstrasse 31,,,,,,,375.0,64.0,439.0,hcp,celgene
+Beatrice Drexler,Basel,CH,Petersgraben 4,,WCHM00011661,,,557.2,1344.42,,,1901.62,hcp,celgene
+Beatrice Simona,Muralto,CH,Via Della Stazione 5,,WCHM06455986,,,501.9,706.56,,,1208.46,hcp,celgene
+Béatrice Zimmerli Schwab,Biel/Bienne,CH,Vogelsang 84,,WCHM08374143,,,333.5,436.43,,,769.93,hcp,celgene
+Beda Wyrsch,Wetzikon Zh,CH,Bahnhofstrasse 137,,WCHM07498945,,,292.58,653.12,,,945.7,hcp,celgene
+Bérengère Aubry-Rozier,Lausanne,CH,Avenue Pierre-Decker 4,,WCHM05404386,,,1500.0,,,,1500.0,hcp,celgene
+Carlo Mainetti,Bellinzona,CH,Via Parco 3,,WCHM04719799,,,,,510.0,,510.0,hcp,celgene
+Carole Guillet,Zürich,CH,Gloriastrasse 31,,WCHM00594524,,,363.08,594.89,,,957.97,hcp,celgene
+Carolin Brümmerhoff,Weinfelden,CH,Bahnhofstrasse 22,,WCHM00005430,,,,,,1075.0,1075.0,hcp,celgene
+Caroline Imhof,Brig,CH,Bahnhofstrasse 6,,WCHM03719849,,,291.25,577.9,,,869.15,hcp,celgene
+Caroline Pot Kreis,Lausanne,CH,Rue Du Bugnon 46,,WCHM00004588,,,159.87,1653.75,,,1813.62,hcp,celgene
+Catherine Leromain,Yverdon-Les-Bains,CH,Avenue Des Bains 22,,WCHM00004374,,,578.45,,,,578.45,hcp,celgene
+Christa Bauer,Muri Ag,CH,Singisenstrasse 40,,WCHM01538041,,,292.53,653.07,,,945.6,hcp,celgene
+Christian Bull,Jona,CH,Bühlstrasse 13,,WCHM00002596,,,,,1046.0,,1046.0,hcp,celgene
+Christian De Pree,Genève,CH,Chemin De Beau-Soleil 22,,WCHM01821421,,,285.56,1254.75,,,1540.31,hcp,celgene
+Christian Hasler,Chur,CH,Belmontstrasse 1,,WCHM01202935,,,292.58,653.12,,,945.7,hcp,celgene
+Christian Marx,Zürich,CH,Walchestrasse 15,,WCHM04787585,,,,,2040.0,,2040.0,hcp,celgene
+Christian Taverna,Münsterlingen,CH,Spitalcampus 1,,WCHM06768772,,,814.19,4799.12,,,5613.31,hcp,celgene
+Christian Weisshaupt,St. Gallen,CH,Rorschacher Strasse 95,,WCHM07348150,,,267.69,1113.51,,,1381.2,hcp,celgene
+Christoph Driessen,St. Gallen,CH,Rorschacher Strasse 95,,WCHM01962350,,,989.86,4838.28,,,5828.14,hcp,celgene
+Christoph Gwerder,Bern,CH,Monbijoustrasse 10,,WCHM02965863,,,363.3,310.26,,,673.56,hcp,celgene
+Christoph Haller,St. Gallen,CH,"Rorschacherstrasse 95, Klinik Für Rheumatologie",,,,,557.95,750.07,,,1308.02,hcp,celgene
+Christoph Hemmeler,Langenthal,CH,"Hasenmattstrasse 37, Bahnhofplatz 1",,WCHM00195939,,,,,1020.0,,1020.0,hcp,celgene
+Christoph Schänzle,Olten,CH,Louis Giroud-Strasse 26,,WCHM03080131,,,,,1020.0,16.4,1036.4,hcp,celgene
+Cinthya Salgado,St. Moritz,CH,Via Dal Bagn 16,,WCHM00009460,,,254.08,745.29,,,999.37,hcp,celgene
+Claudia Schmid,Chur,CH,Ottostrasse 6,,WCHM03188842,,,,266.54,,,266.54,hcp,celgene
+Curdin Conrad,Lausanne,CH,"Avenue De Beaumont 29,",,WCHM04350911,,,,,2025.0,261.0,2286.0,hcp,celgene
+Dagmar Simon,Bern,CH,Freiburgstrasse 18,,WCHM06455993,,,,210.2,,,210.2,hcp,celgene
+Dana Védy,Montreux,CH,Grand' Rue 3,,WCHM07344595,,,285.56,1254.75,,,1540.31,hcp,celgene
+Daniel Rauch,Thun,CH,Krankenhausstrasse 12,,WCHM06171730,,,499.05,224.55,,,723.6,hcp,celgene
+Daniel Reding,Baar,CH,Landhausstrasse 11,,WCHM06012196,,,,230.73,,,230.73,hcp,celgene
+Daniela Benz,Fribourg,CH,Rue Jacques-Vogt 3,,WCHM01390398,,,220.9,833.66,,,1054.56,hcp,celgene
+Daniela Rösler-Meier,Bern,CH,Bremgartenstrasse 119,,WCHM06090211,,,,,1020.0,,1020.0,hcp,celgene
+Diana Ditz,Luzern,CH,Spitalstrasse,,WCHM00587555,,,523.67,,,,523.67,hcp,celgene
+Diego De Goycoechea,Lausanne,CH,Rue Du Bugnon 46,,WCHM00588420,,,,136.66,,,136.66,hcp,celgene
+Dilara Akhoundova Sanoyan,Zürich,CH,Rämistrasse 100,,,,,271.34,969.02,,,1240.36,hcp,celgene
+Donat Rudolf Spahn,Zürich,CH,Drusbergstrasse 83,,,,,2040.0,858.4,,,2898.4,hcp,celgene
+Dorothea Friess,Olten,CH,Baslerstrasse 150,,WCHM02603572,,,512.31,794.63,,,1306.94,hcp,celgene
+Eirini Kouroupi,Neuchâtel,CH,Rue De La Maladière 45,,WCHM00005869,,,226.55,745.68,,,972.23,hcp,celgene
+Elisabeth Schmidt-Weiss,Brugg Ag,CH,Fröhlichstrasse 5,,WCHM00002534,,,,202.14,,,202.14,hcp,celgene
+Eliza Peier,Weinfelden,CH,"Operative Tagesklinik, Haut Und Laserzentrum Weinfelden",,,,,,,,573.68,573.68,hcp,celgene
+Elizabeth Gaviria Morales,Bellinzona,CH,Via Ospedale 12,,WCHM00011603,,,841.54,1005.77,,,1847.31,hcp,celgene
+Elsbeth Cunningham,Conches,CH,Chemin Du Vieux-Clos 6A,,WCHM04363825,,,,,1020.0,,1020.0,hcp,celgene
+Emiliana Colutta,Le Lignon,CH,Place Du Lignon 2,,WCHM04216533,,,,,1020.0,,1020.0,hcp,celgene
+Emmanuel Ebengo,Genève,CH,Rue De Lausanne 42,,WCHM00005801,,,,,1020.0,,1020.0,hcp,celgene
+Florian Brunner,Zürich,CH,Forchstrasse 340,,WCHM01624297,,,599.5,615.01,,,1214.51,hcp,celgene
+France Laurencet,Carouge Ge,CH,Rue Jacques-Grosselin 25,,WCHM04559164,,,814.19,5953.63,,,6767.82,hcp,celgene
+Francesca Ghitti,Mendrisio,CH,Via Giuseppe Motta 2,,WCHM00011348,,,125.68,1124.28,,,1249.96,hcp,celgene
+Frank Stenner,Basel,CH,Petersgraben 4,,WCHM06544362,,,551.03,1202.19,,,1753.22,hcp,celgene
+Franz Lauener,Abtwil Sg,CH,Wiesenbachstrasse 5,,WCHM04549640,,,557.95,676.75,,,1234.7,hcp,celgene
+Fritz Egli,Chur,CH,Loestrasse 170,,WCHM00112532,,,264.34,1360.57,,,1624.91,hcp,celgene
+Gabriele Vetsch,Bern,CH,Riedweg 15,,WCHM07371863,,,280.56,1296.36,,,1576.92,hcp,celgene
+Gabrielle Di Virgilio,Vevey,CH,Boulevard Paderewski 3,,WCHM01911312,,,759.9,4656.16,,,5416.06,hcp,celgene
+Gayathri Nair,Zürich,CH,Rämistrasse 100,,WCHM05104666,,,455.74,1499.67,,,1955.41,hcp,celgene
+Geneviève Favre,Liestal,CH,Rheinstrasse 26,,WCHM02466419,,,452.25,421.32,,,873.57,hcp,celgene
+Georg Tscherry,Uster,CH,Brunnenstrasse 42,,WCHM06804185,,,732.73,1276.92,,,2009.65,hcp,celgene
+Georgios Georgiou,Lausanne,CH,Rue De La Vigie 5,,WCHM00007029,,,1361.91,4428.54,,,5790.45,hcp,celgene
+Gion Caliezi,Bern,CH,Viktoriastrasse 72,,WCHM04071357,,,558.7,632.0,3315.0,,4505.7,hcp,celgene
+Giorgio Tamborrini,Basel,CH,Aeschenvorstadt 68,,WCHM06742234,,,,,2550.0,,2550.0,hcp,celgene
+Giulia Spigoni,Genève,CH,Chemin Des Mines 9,,,,,,,,21.25,21.25,hcp,celgene
+Hana Krajcova,Horgen,CH,Zugerstrasse 35,,WCHM00008867,,,92.63,1281.0,,,1373.63,hcp,celgene
+Hanna Barmettler,Langenthal,CH,St. Urbanstrasse 67,,WCHM01423954,,,363.3,310.26,,,673.56,hcp,celgene
+Hannes Michel,Schaffhausen,CH,Rheinstrasse 17,,WCHM04868699,,,506.3,452.3,,,958.6,hcp,celgene
+Hans-Peter Baumli,Glis,CH,Gliserallee 13,,WCHM01554413,,,292.58,653.12,,,945.7,hcp,celgene
+Hans-Rudolf Ziswiler,Bern,CH,Bahnhofplatz 1,,WCHM08382306,,,,,4398.75,,4398.75,hcp,celgene
+Hansruedi Gugg,Rickenbach B. Wil,CH,Toggenburgerstrasse 40,,WCHM02945240,,,,,765.0,,765.0,hcp,celgene
+Hans-Wilhelm Klötgen,Bern,CH,"Schanzenstrasse 1, Fuer Hautkrankheiten Und Lasermedizin Fmch",,WCHM00008249,,,,,1020.0,,1020.0,hcp,celgene
+Heidi Meier,Winterthur,CH,Obergasse 34,,WCHM04694597,,,812.39,1833.72,,,2646.11,hcp,celgene
+Henricus Aerts,Winterthur,CH,Espenstr 33,,,,,,900.2,1000.0,141.56,2041.76,hcp,celgene
+Ieva Saulite,St. Gallen,CH,Rorschacher Strasse 95,,WCHM00590415,,,448.21,388.74,1020.0,,1856.95,hcp,celgene
+Ilka Rüsges-Wolter,Bern,CH,Bremgartenstrasse 117,,WCHM07557627,,,280.56,1296.36,,,1576.92,hcp,celgene
+Ingo Haase,Opfikon,CH,Thurgauerstrasse 105,,WCHM00009455,,,,,1020.0,,1020.0,hcp,celgene
+Irène Papanastasiou,Nyon,CH,Rue De La Combe 19,,WCHM00591418,,,103.43,1163.93,,,1267.36,hcp,celgene
+Irene Räber,Bern,CH,Freiburgstrasse 18,,WCHM00011360,,,,,1020.0,,1020.0,hcp,celgene
+Jan Izakovic,Basel,CH,"Gempenstrasse 2A,",,WCHM03662023,,,394.48,1991.83,1020.0,,3406.31,hcp,celgene
+Jannis Müller,Basel,CH,Spitalstrasse 21,,,,,142.28,1202.28,,,1344.56,hcp,celgene
+Jasmine Nötzli,Lausanne,CH,Avenue De Rumine 35,,WCHM03297555,,,541.7,1247.83,,,1789.53,hcp,celgene
+Javier Torralvo,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,WCHM06860047,,,,332.59,,,332.59,hcp,celgene
+Jean-Jacques Volken,Sierre,CH,Place Beaulieu 10,,WCHM07557518,,,1200.0,,,,1200.0,hcp,celgene
+Jean-Marc Lüthi,Thun,CH,Krankenhausstrasse 12,,WCHM04599855,,,447.53,445.08,,,892.61,hcp,celgene
+Jeroen Goede,Winterthur,CH,Brauerstrasse 15,,WCHM02734742,,,56.5,1402.67,1020.0,,2479.17,hcp,celgene
+Jérôme Voegeli,La Chaux-De-Fonds,CH,Rue Numa-Droz 187,,WCHM07349314,,,989.86,4621.53,,,5611.39,hcp,celgene
+José Ángel Aguilar Sánchez,Aarau,CH,Bahnhofstrasse 29,,WCHM00593493,,,300.9,521.52,,,822.42,hcp,celgene
+Josef Schönbächler,Zürich,CH,Bederstrasse 51,,WCHM03126110,,,343.0,437.0,,,780.0,hcp,celgene
+Josette Stokkermans,Grandson,CH,Place Du Château 2,,WCHM00010944,,,220.0,1178.05,,,1398.05,hcp,celgene
+Julian Cooper,Langenthal,CH,Hasenmattstrasse 37,,WCHM04226446,,,,,1020.0,,1020.0,hcp,celgene
+Julie Kaiser Guignard,Vevey,CH,Avenue De La Prairie 3,,WCHM00002346,,,,231.96,,,231.96,hcp,celgene
+Katharina Belge,Reinach Bl,CH,Im Reinacherhof 53,,WCHM00593443,,,368.48,546.36,,,914.84,hcp,celgene
+Katharina Casauro,Männedorf,CH,Asylstrasse 10,,WCHM00003669,,,444.15,461.99,,,906.14,hcp,celgene
+Katharina Krüger,Uster,CH,Oberlandstrasse 100,,WCHM00009891,,,1144.24,1252.47,,,2396.71,hcp,celgene
+Katja Ivanova,Dietikon,CH,Badenerstrasse 5,,WCHM00003244,,,301.9,506.56,,,808.46,hcp,celgene
+Kristine Heidemeyer,Bern,CH,Freiburgstrasse 18,,WCHM00007570,,,,,1020.0,,1020.0,hcp,celgene
+Lucie Vignot,Fribourg,CH,Chemin Des Pensionnats 2,,WCHM00591057,,,435.06,948.36,,,1383.42,hcp,celgene
+Lutz Achtnichts,Aarau,CH,Tellstrasse 25,,WCHM00004694,,,228.07,1106.07,,,1334.14,hcp,celgene
+Maja Fischer-Wüest,Zofingen,CH,Bärengasse 23,,WCHM00004039,,,310.9,461.63,,,772.53,hcp,celgene
+Manuela Saino,Renens Vd,CH,Avenue Du Censuy 14,,WCHM00006685,,,824.17,1063.39,,,1887.56,hcp,celgene
+Marc Baumgartner,Herzogenbuchsee,CH,"Fabrikstrasse 10, Fabrikstrasse 10",,WCHM01554635,,,,,1020.0,356.89,1376.89,hcp,celgene
+Marc Heizmann,Aarau,CH,Tellstrasse 25,,WCHM01273794,,,,230.73,,,230.73,hcp,celgene
+Marc-André Schürch,Lausanne,CH,Avenue De La Gare 10,,WCHM03280509,,,213.58,616.03,,,829.61,hcp,celgene
+Margaret Mclauchlan,Lausanne,CH,Rue Du Bugnon 21,,,,,205.85,933.71,,,1139.56,hcp,celgene
+Maria Teresa De Zulueta,Baar,CH,Landhausstrasse 11,,WCHM01830045,,,560.38,1156.58,,,1716.96,hcp,celgene
+Marianne Gloor,Bülach,CH,Rössligasse 2A,,WCHM02853879,,,,741.41,,,741.41,hcp,celgene
+Marie-Laure Amram-Benamram,Onex,CH,Route De Chancy 98,,WCHM00002513,,,226.55,576.52,,,803.07,hcp,celgene
+Marina Bissig,Zürich,CH,Rämistrasse 100,,WCHM00587784,,,466.71,894.33,,,1361.04,hcp,celgene
+Marisa Crippa-Keller,Zürich,CH,Bederstrasse 51,,WCHM04258598,,,343.0,437.0,,,780.0,hcp,celgene
+Markus Gerber,Bern,CH,Spitalgasse 29,,WCHM03729755,,,,,1020.0,,1020.0,hcp,celgene
+Martin Andres,Bern,CH,"Freiburgstrasse 18,",,WCHM00454131,,,346.46,1912.51,,,2258.97,hcp,celgene
+Martin Corboz,Payerne,CH,Avenue De La Promenade 4,,WCHM04227768,,,1295.4,4480.12,,,5775.52,hcp,celgene
+Martin Keller,Thalwil,CH,Gotthardstrasse 13,,WCHM00000135,,,,,,188.61,188.61,hcp,celgene
+Martin Widmer,Rorschach,CH,Sankt Gallerstrasse 50,,WCHM07474418,,,301.9,506.56,,,808.46,hcp,celgene
+Martin Ziehmann,Zürich,CH,Schaffhauserstrasse 34,,WCHM08473989,,,560.48,705.24,,,1265.72,hcp,celgene
+Martina Kleber,Basel,CH,Petersgraben 4,,WCHM00010015,,,277.06,1448.81,,,1725.87,hcp,celgene
+Martina Mosimann,St. Gallen,CH,Praxis Christian Schuster,,,,,,,,465.91,465.91,hcp,celgene
+Mathias Schmid,Zürich,CH,Birmensdorferstrasse 497,,WCHM00002074,,,989.86,4468.47,,,5458.33,hcp,celgene
+Matilde Iorizzo,Bellinzona,CH,Viale Stazione 16,,WCHM00001737,,,306.24,1250.45,,,1556.69,hcp,celgene
+Matthew Goodyer,Sion,CH,Avenue Du Grand-Champsec 86,,WCHM00009531,,,285.56,1254.75,,,1540.31,hcp,celgene
+Matthias Saur,Frauenfeld,CH,Rheinstrasse 23,,WCHM06509945,,,529.5,623.5,,,1153.0,hcp,celgene
+Max Solenthaler,Thun,CH,Krankenhausstrasse 12,,WCHM06502548,,,1361.91,4659.22,,,6021.13,hcp,celgene
+Maya Bucher,Lausanne,CH,Avenue De Rumine 8,,WCHM00005360,,,256.73,941.12,,,1197.85,hcp,celgene
+Michael Bernimoulin,Carouge Ge,CH,Avenue Cardinal-Mermillod 1,,WCHM00001294,,,77.7,1407.36,,,1485.06,hcp,celgene
+Michael Geiges,Kloten,CH,Marktgasse 3,,WCHM03714891,,,,,1020.0,,1020.0,hcp,celgene
+Michael Gregor,Luzern,CH,Spitalstrasse,,WCHM02892479,,,864.96,1140.7,,,2005.66,hcp,celgene
+Michael Nissen,Genève,CH,Avenue De Beau-Séjour 26,,WCHM05192939,,,,,1020.0,,1020.0,hcp,celgene
+Michael Radenhausen,Gümligen,CH,Worbstrasse 312,,WCHM06058069,,,,,1020.0,,1020.0,hcp,celgene
+Michel Camenzind,Genève,CH,Quai Du Seujet 14,,WCHM04076494,,,220.0,1114.29,,,1334.29,hcp,celgene
+Michel Starobinski,Onex,CH,Route De Chancy 98,,WCHM06565926,,,166.13,874.13,,,1040.26,hcp,celgene
+Michela Corti-Rezzonico,Zürich,CH,Gartenstrasse 23,,WCHM06033815,,,301.9,506.56,,,808.46,hcp,celgene
+Mitja Nabergoj,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,WCHM00592373,,,438.67,1025.68,,,1464.35,hcp,celgene
+Monia Touati Sarraj,Neuchâtel,CH,Rue J.-J.-Lallemand 11,,WCHM06399412,,,121.23,1326.1,,,1447.33,hcp,celgene
+Monika Ebnöther,Basel,CH,Kleinriehenstrasse 30,,WCHM00059198,,,287.38,759.28,,,1046.66,hcp,celgene
+Natacha Dewarrat,Lausanne,CH,Rue Du Bugnon 46,,WCHM00592262,,,,102.75,,,102.75,hcp,celgene
+Natalie Fischer,Winterthur,CH,Brauerstrasse 15,,WCHM02512696,,,1361.91,4615.87,,,5977.78,hcp,celgene
+Nathalie Irla Vuille,Zug,CH,Gartenstrasse 3,,WCHM03586577,,,288.5,390.9,1020.0,6.8,1706.2,hcp,celgene
+Nazim Reshiti,Diessenhofen,CH,Sankt Katharinental 1,,WCHM00008282,,,292.58,653.12,,,945.7,hcp,celgene
+Nectarios Pavlidis,Monthey,CH,Route De Morgins 54,,WCHM00594711,,,,295.68,,,295.68,hcp,celgene
+Nedzmidin Pelivani,Bern,CH,Bollwerk 19,,WCHM05708866,,,809.84,1107.78,,,1917.62,hcp,celgene
+Nicole Aepli-Schneider,Luzern,CH,Landschaustrasse 2,,WCHM03212475,,,292.53,653.07,,,945.6,hcp,celgene
+Nicole Mutter-Borgognon,Luzern,CH,Sankt-Anna-Strasse 32,,WCHM05005062,,,269.64,1140.15,,,1409.79,hcp,celgene
+Numa Masina,Lugano,CH,"Viale Castagnola 21A, Viale Castagnola 21A",,WCHM04826211,,,,,2040.0,,2040.0,hcp,celgene
+Pasquale Calabrese,Basel,CH,Birmannsgasse 8,,,,,,,1020.0,,1020.0,hcp,celgene
+Patric Kurmann,Neuchâtel,CH,Rue Du Seyon 10,,WCHM04305282,,,301.03,610.49,,,911.52,hcp,celgene
+Patrick Bättig,Luzern,CH,Spitalstrasse,,WCHM00593043,,,,292.34,,,292.34,hcp,celgene
+Patrizia Carrozza,Bellinzona,CH,Viale Stazione 16,,WCHM04085109,,,220.0,1316.67,,,1536.67,hcp,celgene
+Patrizia Edelmann-Weber,Gümligen,CH,Worbstrasse 312,,WCHM07332739,,,,,1020.0,,1020.0,hcp,celgene
+Peter Gancs,Rapperswil Sg,CH,Alte Jonastrasse 24,,WCHM02744532,,,288.3,674.27,,,962.57,hcp,celgene
+Peter Keller,Langenthal,CH,St. Urbanstrasse 67,,WCHM04014940,,,84.09,2317.37,,,2401.46,hcp,celgene
+Peter Myers,Genève,CH,Ruelle Du Couchant 7,,WCHM05019972,,,1044.48,4267.19,,,5311.67,hcp,celgene
+Peter Villiger,Bern,CH,Freiburgstrasse 18,,WCHM07487565,,,,,10500.0,,10500.0,hcp,celgene
+Philipp Cesana,Basel,CH,Blumenrain 20,,WCHM00004028,,,95.0,517.38,,,612.38,hcp,celgene
+Pierre Piletta,Genève,CH,Rond-Point De Plainpalais 5,,WCHM05828198,,,,,1657.5,,1657.5,hcp,celgene
+Pierre Quadri,St-Imier,CH,Rue Du Temple 3,,WCHM04065654,,,572.63,562.16,,,1134.79,hcp,celgene
+Pierre-André Guerne,Genève,CH,Avenue De Beau-Séjour 26,,WCHM02739845,,,574.63,826.52,1020.0,,2421.15,hcp,celgene
+Pierre-Yves Lovey,Sion,CH,Avenue Du Grand-Champsec 86,,WCHM04565034,,,1000.0,,,,1000.0,hcp,celgene
+Raffael À Wengen,Zürich,CH,Tièchestrasse 99,,WCHM00588066,,,305.4,580.44,,,885.84,hcp,celgene
+Rainer Hufnagl,Chur,CH,Quaderstrasse 22,,WCHM00587495,,,515.9,1067.1,,,1583.0,hcp,celgene
+Raphaël Stadelmann,Lausanne,CH,Rue Du Bugnon 46,,WCHM06566224,,,83.95,,,,83.95,hcp,celgene
+Reinhard Lehner,Sarnen,CH,Marktstrasse 7,,WCHM00003674,,,491.5,181.93,,,673.43,hcp,celgene
+Renate Mathieu,Solothurn,CH,Hauptbahnhofstrasse 12,,WCHM04815049,,,555.4,790.39,,,1345.79,hcp,celgene
+Renaud Du Pasquier,Lausanne,CH,Rue Du Bugnon 46,,WCHM01991824,,,759.9,4424.34,,,5184.24,hcp,celgene
+Reto Kühne,Zürich,CH,Tièchestrasse 99,,WCHM04294996,,,363.3,310.26,,,673.56,hcp,celgene
+Reto Widrig,St. Gallen,CH,"Spisergasse 26/28,",,WCHM07474421,,,846.25,1351.01,,,2197.26,hcp,celgene
+Roger Burkhard,Zürich,CH,Witellikerstrasse 40,,WCHM01666706,,,264.34,1360.57,,,1624.91,hcp,celgene
+Roland Martin,Zürich,CH,Frauenklinikstrasse 26,,WCHM00006114,,,,,1400.0,,1400.0,hcp,celgene
+Rolf Stebler,Unterägeri,CH,Höhenweg 71,,WCHM06544059,,,345.2,389.74,,,734.94,hcp,celgene
+Rosaly Neher-Arnold,Altdorf Ur,CH,Spitalstrasse 1,,WCHM00010189,,,,,1020.0,,1020.0,hcp,celgene
+Rouven Müller,Zürich,CH,Rämistrasse 100,,WCHM00001608,,,249.56,1324.36,1071.0,,2644.92,hcp,celgene
+Roxana Mihaela Valcov-Tilie,Delémont,CH,Faubourg Des Capucins 30,,WCHM00001954,,,71.33,884.87,,,956.2,hcp,celgene
+Rüdiger Müller,Aarau,CH,Tellstrasse 25,,WCHM04975835,,,550.33,714.7,,,1265.03,hcp,celgene
+Sabina Kraus,Frauenfeld,CH,Pfaffenholzstrasse 4,,WCHM00591629,,,201.28,619.08,,,820.36,hcp,celgene
+Sabine Gerull,Basel,CH,Petersgraben 4,,WCHM03730015,,,864.96,1140.7,,,2005.66,hcp,celgene
+Sabine Kammerer-Eberl,Feldmeilen,CH,General Wille-Strasse 59,,WCHM04076566,,,301.9,506.56,,,808.46,hcp,celgene
+Sabine Sandra Bühler,Bern,CH,Bremgartenstrasse 117,,WCHM01659601,,,267.69,1127.65,,,1395.34,hcp,celgene
+Salomé Courvoisier Schmid,Uster,CH,Bahnhofstrasse 3,,WCHM04393262,,,301.9,506.56,,,808.46,hcp,celgene
+Salvador Nkondjo,La Chaux-De-Fonds,CH,Rue Numa-Droz 187,,WCHM00011115,,,255.28,1150.91,,,1406.19,hcp,celgene
+Sandro Anchisi,Sion,CH,"Avenue Grand-Champsec 80,",,WCHM00498002,,,315.99,736.84,,,1052.83,hcp,celgene
+Sebastian Tschernitz,St. Gallen,CH,"Rorschacher Strasse 95, Bahnhofsstrasse 2",,WCHM00591612,,,,,,487.51,487.51,hcp,celgene
+Sieglinde Major Schumacher,Tafers,CH,Zelgstrasse 25,,WCHM04779418,,,292.53,653.07,1020.0,,1965.6,hcp,celgene
+Stefan Bützberger,Schinznach Bad,CH,Badstrasse 55,,WCHM01686349,,,292.53,653.07,,,945.6,hcp,celgene
+Stefan Dirnhofer,Basel,CH,Schönbeinstrasse 40,,,,,1361.91,4638.25,,,6000.16,hcp,celgene
+Stefan Greuter,Sargans,CH,Bahnhofpark 2B,,WCHM02909771,,,290.8,648.84,,,939.64,hcp,celgene
+Stefan Johannes Hummler,Luzern,CH,Zentralstrasse 1,,WCHM09039281,,,555.4,762.69,,,1318.09,hcp,celgene
+Stefanie Müller,St. Gallen,CH,Rorschacher Strasse 95,,WCHM04975773,,,228.25,1238.2,,,1466.45,hcp,celgene
+Stefano Pandolfi,Eiken,CH,Rössliweg 11,,WCHM05742871,,,520.8,614.8,,,1135.6,hcp,celgene
+Stéphane Rault,Ste-Croix,CH,Quartier Du Progrès 12,,WCHM00588874,,,463.8,2142.8,,,2606.6,hcp,celgene
+Susanna Crivelli,Bülach,CH,"Bannhaldenstrasse 7,",,WCHM00007274,,,363.3,310.26,,,673.56,hcp,celgene
+Susanne Bürki,Bern,CH,Freiburgstrasse 18,,WCHM00010530,,,432.3,519.95,,,952.25,hcp,celgene
+Tanja Boxberger,Uznach,CH,Gasterstrasse 25,,WCHM00011012,,,,367.73,,,367.73,hcp,celgene
+Thierry Helvadjian,Fribourg,CH,Rue Hans-Geiler 6,,WCHM00590033,,,109.3,329.79,,,439.09,hcp,celgene
+Thomas Daikeler,Basel,CH,Petersgraben 4,,WCHM01809332,,,557.95,750.06,,,1308.01,hcp,celgene
+Thomas Egger,Solothurn,CH,Schöngrünstrasse 38,,WCHM00106438,,,304.68,580.33,,,885.01,hcp,celgene
+Thomas Furrer,Bern,CH,Monbijoustrasse 10,,WCHM02639013,,,,4468.47,,,4468.47,hcp,celgene
+Thomas Lehmann,St. Gallen,CH,Rorschacher Strasse 95,,WCHM04414013,,,683.39,1631.67,,,2315.06,hcp,celgene
+Thomas Matthes,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,WCHM04815045,,,226.55,826.64,,,1053.19,hcp,celgene
+Thomas Pabst,Bern,CH,Freiburgstrasse 41G,,WCHM05759765,,,408.89,1232.35,,,1641.24,hcp,celgene
+Thomas Wais,Stans,CH,Engelbergstrasse 33,,WCHM07330577,,,297.65,627.42,,,925.07,hcp,celgene
+Thomas Winder,Zürich,CH,Witellikerstrasse 40,,WCHM00006983,,,,,1741.19,,1741.19,hcp,celgene
+Timothy Cunningham,Genève,CH,Boulevard Des Tranchées 24,,WCHM04363826,,,,,1020.0,,1020.0,hcp,celgene
+Timur Taskesen,Lenzburg,CH,Niederlenzer Kirchweg 2A,,WCHM00589018,,,,,1020.0,,1020.0,hcp,celgene
+Tina Ernst,Luzern,CH,Spitalstrasse,,WCHM00012884,,,,277.12,,,277.12,hcp,celgene
+Tobias Manigold,Basel,CH,Petersgraben 4,,WCHM04785118,,,496.88,751.02,,,1247.9,hcp,celgene
+Toni Huwyler,Wohlen Ag,CH,Waltenschwilerstrasse 16,,WCHM07267082,,,301.9,506.56,,,808.46,hcp,celgene
+Ueli Christian Studer,Bern,CH,Bahnhofplatz 1,,WCHM00000927,,,268.68,735.21,,,1003.89,hcp,celgene
+Ulrich Mey,Chur,CH,Loestrasse 170,,WCHM04694179,,,989.86,13588.79,1785.0,682.41,17046.06,hcp,celgene
+Umberto Costanzo,Luzern,CH,Klosterstrasse 5,,WCHM04233623,,,,,1020.0,25.0,1045.0,hcp,celgene
+Urs Huber,Zürich,CH,Seestrasse 259,,WCHM07031956,,,267.69,1127.42,,,1395.11,hcp,celgene
+Urs Schanz,Zürich,CH,Rämistrasse 100,,WCHM03077755,,,263.22,1167.69,,,1430.91,hcp,celgene
+Ursula Meierhofer,Zürich,CH,Altstetterstrasse 142,,WCHM04694475,,,563.0,672.89,,,1235.89,hcp,celgene
+Valérie Frossard,Sion,CH,Avenue Du Grand-Champsec 86,,WCHM02612793,,,418.29,1155.73,,,1574.02,hcp,celgene
+Valérie Hauser,Rorschach,CH,St. Gallerstrasse 1,,WCHM00001355,,,707.39,1252.85,,,1960.24,hcp,celgene
+Vanessa Chatelain Fontanella,Genolier,CH,Route Du Muids 3,,WCHM00001809,,,6.78,841.42,,,848.2,hcp,celgene
+Veronika Ballova,Baden,CH,Im Ergel 1,,WCHM00587592,,,1367.91,2290.4,,,3658.31,hcp,celgene
+Vincent Cattin,Neuchâtel,CH,Faubourg De L'Hôpital 65,,WCHM04096903,,,5.35,1262.56,,,1267.91,hcp,celgene
+Volker Kirchner,Genolier,CH,Route Du Muids 3,,WCHM04153252,,,,,1500.0,,1500.0,hcp,celgene
+Walter Mingrone,Olten,CH,Baslerstrasse 150,,WCHM05055626,,,329.05,456.42,,,785.47,hcp,celgene
+Wiebke Gulden-Sala,Locarno,CH,Via All'Ospedale 1,,WCHM00008131,,,282.0,,,,282.0,hcp,celgene
+Wolfgang Alexander Deglmann,Liestal,CH,Fischmarkt 29,,WCHM01807142,,,,,1020.0,,1020.0,hcp,celgene
+Wolf-Henning Boehncke,Genève,CH,Rue Gabrielle-Perret-Gentil 4,,WCHM00004843,,,,,1400.0,51.0,1451.0,hcp,celgene
+Yojena Kurian,Biel/Bienne,CH,Vogelsang 84,,WCHM00014174,,,444.15,461.99,,,906.14,hcp,celgene
+Yves Lechleitner,Renens VD,CH,Avenue Du Quatorze-Avril 12,,WCHM04412615,,,38.4,1190.24,,,1228.64,hcp,celgene
+AarReha Schinznach,Schinznach Bad,CH,Badstrasse 55,,WCHH00453110,,1000.0,,,,,1000.0,hco,celgene
+Aerztenetzwerk Grauholz,Ittigen,CH,Worblentalstrasse 99,,,,2800.0,,,,,2800.0,hco,celgene
+AGEMIG,Genève,CH,Rue Du Conseil-General 11,,,,2000.0,,,,,2000.0,hco,celgene
+Ärztenetzwerk Bern,Zürich,CH,"Bahnhofplatz 4, C/O Pro Medicus Gmbh",,,,3100.0,,,,,3100.0,hco,celgene
+Associazione Dei Reumatologi Della Svizzera Italiana,Bellinzona,CH,Via F. Zorzi 15A,,,1500.0,,,,,,1500.0,hco,celgene
+Bethesda Spital AG,Basel,CH,Gellertstrasse 144,,WCHH02261611,,2000.0,,,,,2000.0,hco,celgene
+Blutspende SRK Schweiz AG,Bern,CH,"Laupenstrasse 37, Postfach 5510",,WCHH00000334,10000.0,3000.0,,,,,13000.0,hco,celgene
+Cabinet Dr Noacco Gérald,Boncourt,CH,"La Ruatte 6,",,WCHE01323981,,,,,765.0,,765.0,hco,celgene
+CHUV,Lausanne,CH,"Rue Du Bugnon 21,",,WCHH07705730,,17200.0,365.0,488.0,8773.0,,26826.0,hco,celgene
+Congres Medical Quadrimed,Crans-Montana 1,CH,Case Postale 299,,,,4213.1,,,,,4213.1,hco,celgene
+Crohn Colitis Schweiz,Lachen,CH,Auhof 11,,,,6000.0,,,,,6000.0,hco,celgene
+CRR SuvaCare,Sion,CH,Avenue Grand-Champsec 90,,WCHH08729033,,1000.0,,,,,1000.0,hco,celgene
+Dermatologische Gesellschaft Ostschweiz Dgo,St. Gallen,CH,Kugelgasse 8,,,,2000.0,,,,,2000.0,hco,celgene
+ENTE Ospedaliero Cantonale Bellinzona,Bellinzona,CH,Ospedale Regionale Di Bellinzona E Valli,,,,3000.0,,,,,3000.0,hco,celgene
+ESDR European Society For Dermatological Research,Genève,CH,"Rue Cingria 7, Dr Thomas Floerstan",,,33034.0,,,,,,33033.74,hco,celgene
+ESDR European Society For Dermatological Research,Genève,CH,"Rue Cingria 7, Dr Thomas Floerstan",,,,43511.87,,,,,43511.87,hco,celgene
+ESMO,Viganello,CH,Via Luigi Taddei 4,,WCHH00004984,138104.0,29601.02,4122.0,,,,171826.64,hco,celgene
+Europa Donna,Bern,CH,Potfach,,,,3500.0,,,,,3500.0,hco,celgene
+European Academy Of Dermatology And Venereology,Lugano,CH,European Academy Of Dermatology And Venereology,,,,8097.06,,,,,8097.06,hco,celgene
+European Dermatology Forum,Zürich,CH,"Gloriastrasse 31, C/O Dermatologische Klinik Usz",,,39244.0,,,,,,39243.99,hco,celgene
+Fondation Centre De Chimiotherapie Anti-Cancereuse,Lausanne,CH,Av. Vinet 19 Bis,,,,1000.0,,,,,1000.0,hco,celgene
+Fondazione Oncologia Lago Maggiore,Locarno,CH,"Via Ciseri 19,",,,,,,,1500.0,,1500.0,hco,celgene
+Groupe Des Dermatologues Genevois,Plan-Les-Ouates,CH,"Route De Saint Julien 176,",,,,600.0,,,,,600.0,hco,celgene
+Haematology Nurses And Allied Healthcare Professionals Group,Winterthur,CH,Postfach 98,,,,1500.0,,,,,1500.0,hco,celgene
+HFR Fribourg-Hôpital Cantonal,Fribourg,CH,Chemin Des Pensionnats 2,,WCHH02537086,,2500.0,,,1000.0,,3500.0,hco,celgene
+"Hôpital du Jura, Porrentruy",Porrentruy,CH,"Chemin De L'Hôpital 9, Chemin De L'Hopital 9",,WCHH04140046,,,,,1020.0,,1020.0,hco,celgene
+Hôpitaux Universitaires Genève,Genève,CH,"Rue Gabrielle-Perret-Gentil 4,",,WCHH03030208,1000.0,6000.0,,,,,7000.0,hco,celgene
+IBDNET,Zürich,CH,Weinbergstrasse 102,,,,6000.0,,,,,6000.0,hco,celgene
+IGOMED,Thun,CH,Höheweg 26A,,WCHH01907148,,2000.0,,,,,2000.0,hco,celgene
+Inselspital Bern,Bern,CH,"Friedbühlstrasse 19, Freiburgstr 18",,WCHH00789680,26000.0,21300.0,,,6349.0,,53648.8,hco,celgene
+Institut Central des Hôpitaux,Sion,CH,Avenue Du Grand-Champsec 86,,WCHH08728682,,1000.0,448.0,1024.0,,,2472.1,hco,celgene
+Institut für Hämatologie und Onkologie,Baden,CH,Im Ergel 1,,,,,,381.0,,,380.7,hco,celgene
+Kantonsspital Aarau AG,Aarau,CH,"Tellstrasse 25,",,WCHH00000121,0.0,5000.0,1010.8,470.1,5892.5,,12373.4,hco,celgene
+Kantonsspital Baden AG,Baden,CH,Im Ergel 1,,WCHH00057599,1500.0,,62.0,1508.0,,,3070.0,hco,celgene
+Kantonsspital Graubünden,Chur,CH,"Loestrasse 170,",,WCHH03314436,,5000.0,,,1275.0,,6275.0,hco,celgene
+Kantonsspital St. Gallen,St. Gallen,CH,"Rorschacher Strasse 95, Rorschacherstrasse 95",,WCHH05207411,,45000.0,,,1500.0,,46500.0,hco,celgene
+Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,,WCHH09462455,1000.0,3000.0,,,,,4000.0,hco,celgene
+Kliniken Valens,Valens,CH,Taminaplatz 1,,WCHH05285405,,2000.0,,,,,2000.0,hco,celgene
+Ligue contre le Rhumatisme,Porrentruy,CH,Rue Du Jura 11,,WCHH04140138,,1000.0,,,,,1000.0,hco,celgene
+Ligue Vaudoise Contre Le Rhumatisme,Lausanne,CH,"12 Av. De Provence,",,,,743.0,,,,,742.8,hco,celgene
+Luzerner Kantonsspital Luzern,Luzern,CH,"Spitalstrasse,",,WCHH04368282,5900.0,3000.0,852.0,707.0,5197.0,,15656.44,hco,celgene
+MKGS Myelom Kontaktgruppe Schweiz,Rorschacherberg,CH,Wiggenrainstrasse 14A,,,,17500.0,,,,,17500.0,hco,celgene
+Onkologiepflege Schweiz,Kleinandelfingen,CH,Hirstigstrasse 13,,WCHH00004055,7500.0,,,,,,7500.0,hco,celgene
+Onkologieverein Bern,Bern,CH,Monbijoustrasse 10,,,2000.0,,,,,,2000.0,hco,celgene
+OnkoZentrum Zürich AG,Zürich,CH,Seefeldstrasse 214,,WCHE00009669,5000.0,,,,4080.0,90.0,9170.0,hco,celgene
+Ospedale Bellinzona e Valli EOC,Bellinzona,CH,Via Vincenzo Vela 6,,WCHH06410201,32000.0,2500.0,,,893.0,,35392.5,hco,celgene
+PizolCare-Praxis Sargans AG,Sargans,CH,Bahnhofpark 2A,,WCHE00003332,,4000.0,,,,,4000.0,hco,celgene
+REMED,Genève,CH,Rue Du Conseil-General 11,,,,2000.0,,,,,2000.0,hco,celgene
+Rheuma Schweiz,Zürich,CH,Aargauerstrasse 250,,,,20000.0,,,,,20000.0,hco,celgene
+Rheumasearch Foundation,Genève,CH,26 Av. Beau-Sejour,,,,5000.0,,,,,5000.0,hco,celgene
+SAKK Koordinationszentrum,Bern,CH,Effingerstrasse 33,,,74500.0,,,,,,74500.0,hco,celgene
+Schweizerische Arbeitsgemeinschaft Fur Klinische Krebsforschung (SAKK),Bern,CH,Effingerstrasse 40,,,,9000.0,,,,,9000.0,hco,celgene
+Schweizerische Gesellschaft Fuer Rheumatologie SGR,Zürich,CH,Josefstrasse 92,,,12500.0,,,,,,12500.0,hco,celgene
+Sgaim Schweizerische Gesellschaft Fuer Allgemeine Innere Medizin,Bern,CH,Monbijoustrasse 43,,,,8700.0,,,,,8700.0,hco,celgene
+SGDV,Bern,CH,Dalmazirain 11,,WCHH00005080,,16500.0,,,,,16500.0,hco,celgene
+SIOG - International Society Of Geriatric Oncology,Chatelaine,CH,"International Environment House 2, Chemin De Balexert 7 9",,,,33033.74,,,,,33033.74,hco,celgene
+Societa Ticinese Di Dermatologia E Venerologia,Locarno,CH,Locarno,,,1000.0,,,,,,1000.0,hco,celgene
+Spital Thurgau AG,Frauenfeld,CH,"Spital Thurgau Ag, Posrfach",,,,,,,1275.0,,1275.0,hco,celgene
+SSDV,Bern,CH,Dalmazirain 11,,,,5200.0,,,,,5200.0,hco,celgene
+Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,,WCHH09507446,,6500.0,163.0,343.0,,,7005.7,hco,celgene
+Swiss Tumor Institut,Zürich,CH,Seefeldstrasse 214,,,5100.0,34500.0,,,,,39600.0,hco,celgene
+Traegerverein Swiss Oncology Und Hematology Congress,Zürich,CH,Talackerstrasse 50,,,,33200.0,25000.0,,,,58200.0,hco,celgene
+Universität Basel,Basel,CH,"Spitalstrasse 26, Ressort Finanzen",,WCHH02263661,,6000.0,,,,,6000.0,hco,celgene
+Universitätsspital Basel,Basel,CH,"Petersgraben 4, Hebelstrasse 36",,WCHH02261648,102689.0,84000.0,,,10395.0,,197084.41,hco,celgene
+UniversitätsSpital Zürich,Schlieren,CH,Südstrasse 3,,WCHH09507515,5000.0,36000.0,,,509.98,,41509.98,hco,celgene
+Verein Lunge Zuerich,Zürich,CH,Pfingstweidstrasse 10,,,,5500.0,,,,,5500.0,hco,celgene
+Zuercher Dermatologengesellschaft,Uster,CH,Oberlandstrasse 100,,,,1500.0,,,,,1500.0,hco,celgene
+Zuger Kantonsspital AG,Baar,CH,Landhausstrasse 11,,WCHH08875819,,,192.0,470.0,,,661.9,hco,celgene
