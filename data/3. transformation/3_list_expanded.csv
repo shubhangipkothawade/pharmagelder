@@ -2779,9 +2779,9 @@ internalid,name,location,country,address,plz,uci,donations_grants,sponsorship,re
 2778,Christoph Wineken,Zürich,CH,Baumackerstrasse 53,8050.0,,,,,,1250.0,,1250.0,hcp,boehringer,baumackerstrasse 53,zuerich,christoph wineken
 2779,Stephan Winnik,Zürich,CH,Rämistrasse 100,8091.0,,,,,932.95,1000.0,,1932.95,hcp,boehringer,raemistrasse 100,zuerich,stephan winnik
 2780,Christoph Wyser,Luzern,CH,Zürichstrasse 12,6004.0,,,,309.03,393.15,750.0,,1452.18,hcp,boehringer,zuerichstrasse 12,luzern,christoph wyser
-2781,Thomas Wyss,Genève,CH,Avenue de Champel 6,1206.0,,,,440.4,933.5,1700.0,,3073.9,hco,boehringer,avenue de champel 6,geneve,thomas wyss
-2782,Daniel Zimmermann,Affoltern am Albis,CH,Zürichstrasse 67,8910.0,,,,440.4,1010.05,,,1450.45,hco,boehringer,zuerichstrasse 67,affoltern am albis,daniel zimmermann
-2783,Elvira Züger,Aarau,CH,Tellstrasse 25,5001.0,,,,501.05,1511.2,,,2012.25,hco,boehringer,tellstrasse 25,aarau,elvira züger
+2781,Thomas Wyss,Genève,CH,Avenue de Champel 6,1206.0,,,,440.4,933.5,1700.0,,3073.9,hcp,boehringer,avenue de champel 6,geneve,thomas wyss
+2782,Daniel Zimmermann,Affoltern am Albis,CH,Zürichstrasse 67,8910.0,,,,440.4,1010.05,,,1450.45,hcp,boehringer,zuerichstrasse 67,affoltern am albis,daniel zimmermann
+2783,Elvira Züger,Aarau,CH,Tellstrasse 25,5001.0,,,,501.05,1511.2,,,2012.25,hcp,boehringer,tellstrasse 25,aarau,elvira züger
 2784,ARAM - Association Romande des Assistantes Médicales,Lausanne,CH,Adresse associative,1003.0,,,1800.0,,,,,1800.0,hco,boehringer,adresse associative,lausanne,aram - association romande des assistantes médicales
 2785,Arbeitsgruppe Adhärenz Orale Tumortherapie (OPS/SGMO),Kleinandelfingen,CH,Hirstigstrasse 13,8451.0,,,500.0,,,,,500.0,hco,boehringer,hirstigstrasse 13,kleinandelfingen,arbeitsgruppe adhärenz orale tumortherapie (ops/sgmo)
 2786,Ärztekongress Arosa Sekretariat,Arosa,CH,Wätterlüggastrasse 9,7050.0,,,2340.0,,,,,2340.0,hco,boehringer,waetterlueggastrasse 9,arosa,ärztekongress arosa sekretariat
