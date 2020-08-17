@@ -1,59 +1,59 @@
-name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source,_export_information
-Michael Albrecht,Basel,CH,"St. Claraspital Basel, Kleinriehenstr.30",4058,,,,221.1,476.71,,,697.81,hcp,orion,
-Dominique Bettex,St. Gallen,CH,"Universitätsspital Zürich, Rämistr.100",8091,,,,309.54,670.54,,,980.08,hcp,orion,
-Thomas Böker-Blum,Schwyz,CH,"Spital Lachen, Oberdorfstrasse 41",8853,,,,221.1,635.96,,,857.06,hcp,orion,
-Alice Bordessoule,Genève,CH,"Hôpitaux Universitaires de Genève,Rue Willy Donzé 6",1211,,,,280.13,407.73,,,687.86,hcp,orion,
-Marco Bosshart,Zürich,CH,"Klinik Hirslanden Zürich,Witellikerstr. 40,Postfach",8032,,,,,,1000.0,,1000.0,hcp,orion,
-Evelyne Bucher,Zürich,CH,"Klinik Hirslanden Zürich,Witellikerstr. 40,Postfach",8032,,,,221.1,670.17,,,891.27,hcp,orion,
-Gabor Erdös,Bern,CH,"Inselspital Bern, Insel Gruppe AG",Freiburgstr.,,,,438.52,531.66,,,970.17,hcp,orion,
-Jörg Feige,Aarau,CH,"Hirslanden Klinik Aarau, Schänisweg",5001,,,,221.1,632.75,,,853.85,hcp,orion,
-Patricia KD. Fodor,Zürich,CH,Kuttelgasse 2,8001,,,,,,1000.0,,1000.0,hcp,orion,"Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Fodor Patricia, KD."
-Raymond Friolet,Sion,CH,"Hôpital du Valais,Avenue du Grand Champsec 80",1950,,,,408.83,404.04,,,812.87,hcp,orion,
-Monika Fürholz,Bern,CH,"Inselspital Bern, Insel Gruppe AG",Freiburgstr.,,,,482.74,857.57,,,1340.3,hcp,orion,
-Christoph Dr Ganter,Zürich,CH,"Universitätsspital Zürich, Rämistr.100",8091,,,,309.54,746.78,,,1056.32,hcp,orion,"Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Ganter Christoph, Dr"
-Raphael Giraud,Genève,CH,"Hôpitaux Universitaires de Genève,Gabrielle-Perret-Gentil 4",1205,,,,408.83,502.73,,,911.57,hcp,orion,
-Matthias Peter Hilty,Zürich,CH,"Universitätsspital Zürich, Rämistr.100",8091,,,,,522.43,,,522.43,hcp,orion,"Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Hilty Matthias Peter,"
-Séverin Jeanneret,Sion,CH,"Centre Hospitalier du Valais,Avenue du Grand-Champsec 80",1950,,,,309.54,720.28,,,1029.82,hcp,orion,
-Alexander Klarer,Aarau,CH,"Kantonsspital Aarau AG,Tellstr.25",5001,,,,309.54,868.99,,,1178.53,hcp,orion,
-Hanswilly Dr Mattes,Zürich,CH,"Klinik Hirslanden Zürich,Witellikerstr. 40,Postfach",8032,,,,309.54,670.54,,,980.08,hcp,orion,"Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Mattes Hanswilly, Dr"
-Andrea Moser,Zürich,CH,"Stadtspital Triemli, Birmensdorferstrasse 497",8063,,,,,,1000.0,,1000.0,hcp,orion,
-Thomas Nestelberger,Basel,CH,"Universitätsspital Basel, Petersgraben 4-6",4031,,,,482.74,875.82,,,1358.56,hcp,orion,
-Deborah Pugin,Genève,CH,"Hôpitaux Universitaires de Genève,Gabrielle-Perret-Gentil 4",1205,,,,408.83,565.48,,,974.31,hcp,orion,
-Marc Ritz,Meyrin/Genève,CH,"Hôpital de la Tour, Avenue J.-D. Maillard 3",1217,,,,408.83,377.24,,,786.07,hcp,orion,
-Tobias Straub,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstr. 95",9007,,,,117.92,542.13,300.0,,960.05,hcp,orion,
-Tanja Stucki,Langenthal,CH,"SRO AG, Spital Langenthal,St. Urbanstrasse 67",4901,,,,,,400.0,,400.0,hcp,orion,
-Jan Wasik,Zürich,CH,"Universitätsspital Zürich, Rämistr.100",8091,,,,221.1,550.27,,,771.37,hcp,orion,
-Zenklusen Regula Zürcher,Neuchâtel,CH,"Hôpital neuchâtelois Pourtalès,Rue de la Maladière 45",2000,,,,308.2,583.28,,,891.48,hcp,orion,Name besteht aus mehr als drei Wörtern. Evt falsch gedrecht. Bitte checken. Original: Zürcher Zenklusen Regula
-Michael Zürrer,St. Gallen,CH,"Hirslanden Klinik Aarau, Schänisweg",5001,,,,309.54,777.45,,,1086.99,hcp,orion,
-AMACTI,Lugano,CH,"c/o Cardiocentro Ticino, Via Tesserete 48",6900,,,2000.0,,,,,2000.0,hco,orion,
-Arbeitsgruppe Herzinsuffizienz Schw. Gesellschaft für Intensivmedizin,St.Gallen,CH,"c/o Kantonsspital St.Gallen, Rorschacherstr.95",9007,,,3000.0,,,,,3000.0,hco,orion,
-BBS Congress GmbH,Bern,CH,Rabbentalstrasse 83,3013,,,5040.0,,,,,5040.0,hco,orion,
-CHUV Lausanne,Lausanne,CH,Rue du Bugnon 46,1011,,,16500.0,1433.47,1407.31,1500.0,,20840.78,hco,orion,
-Clinique de la Source,Lausanne,CH,Avenue Alexandre Vinet 30,1004,,,750.0,,,,,750.0,hco,orion,
-Forschungsstiftung Hirslanden,Zürich,CH,Seefeldstr. 214,8008,,,1000.0,,,,,1000.0,hco,orion,
-Gemeinsame Jahrestagung SGK/SGHC,Basel,CH,Peter Merian-Strasse 80,4002,,,3300.0,,,,,3300.0,hco,orion,
-Hirslanden Klinik Aarau,Aarau,CH,Schänisweg,5001,,,1000.0,,,,,1000.0,hco,orion,
-Hôpital de la Tour Meyrin,Meyrin,CH,Avenue J.D.Maillard 3,1217,,,1000.0,,,,,1000.0,hco,orion,
-Hôpital de Pourtales,Neuchâtel,CH,Rue de la Maladière,2000,,,5000.0,,,,,5000.0,hco,orion,
-Hôpital du Jura,Delémont,CH,Faubourg des Capucins 30,2800,,,700.0,,,,,700.0,hco,orion,
-Hôpital du Valais,Sion,CH,Avenue du Grand-Champsec 80,1950,,,1500.0,,,,,1500.0,hco,orion,
-HUG Hôpitaux Universitaires de Genève,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1211,,,8700.0,,,,,8700.0,hco,orion,
-Insel Gruppe AG Inselspital Bern,Bern,CH,Freiburgstrasse,3010,,,1000.0,,,,,1000.0,hco,orion,
-Kantonsspital Aarau,Aarau,CH,Tellstrasse 25,5001,,,4000.0,,,,,4000.0,hco,orion,
-Kantonsspital Graubünden Chur,Chur,CH,Loëstrasse 170,7000,,,500.0,,,,,500.0,hco,orion,
-Kantonsspital St. Gallen,St.Gallen,CH,Rorschacherstrasse 95,9007,,,2800.0,,,,,2800.0,hco,orion,
-Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,8401,,,1000.0,,,,,1000.0,hco,orion,
-Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,6000,,,750.0,,,,,750.0,hco,orion,
-Patientensimulator der MedInt,Basel,CH,"Universitätsspital Basel, Petersgraben 4",4031,,,5000.0,,,,,5000.0,hco,orion,
-Pflegeakademie,Basel,CH,"c/o LH Medical Managemenet GmbH, Postfach 278",4410,,,2500.0,,,,,2500.0,hco,orion,
-Schweizerische Gesellschaft für Anästhesiepflege,Sursee,CH,Bahnhofstrasse 7b,6210,,,2280.0,,,,,2280.0,hco,orion,
-SGI Schweizerische Gesellschaft für Intensivmedizin,Aesch,CH,"c/o IMK Institut für Medizin und Kommunikation AG, Münsterberg 1",4001,,,35000.0,,,,,35000.0,hco,orion,
-Spital Grabs,Grabs,CH,Spitalstrasse 44,9472,,,1000.0,,,,,1000.0,hco,orion,
-Spital Limmattal,Schlieren,CH,Urdorfstrasse 100,8952,,,450.0,,,,,450.0,hco,orion,
-Spital Schwyz,Zürich,CH,Waldeggstrasse 10,6430,,,3000.0,,,,,3000.0,hco,orion,
-Stiftung für Wissenschaftliche Forschung am Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,8063,,,12500.0,,,,,12500.0,hco,orion,
-SWISS ICU Network,Aesch,CH,Aesch,,,,1500.0,,,,,1500.0,hco,orion,
-Universitätsklinik Balgrist,Zürich,CH,Forchstrasse 340,8008,,,500.0,,,,,500.0,hco,orion,
-Universitätsspital Basel,Basel,CH,Spitalstrasse 21,4031,,,3950.0,,,,,3950.0,hco,orion,
-Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,8091,,,13000.0,,,,,13000.0,hco,orion,
-Zürcher Gesellschaft für Intensivmedizin,Zürich,CH,Zürich,,,,600.0,,,,,600.0,hco,orion,
+name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
+Michael Albrecht,Basel,CH,"St. Claraspital Basel, Kleinriehenstr.30",4058,,,,221.1,476.71,,,697.81,hcp,orion
+Dominique Bettex,St. Gallen,CH,"Universitätsspital Zürich, Rämistr.100",8091,,,,309.54,670.54,,,980.08,hcp,orion
+Thomas Böker-Blum,Schwyz,CH,"Spital Lachen, Oberdorfstrasse 41",8853,,,,221.1,635.96,,,857.06,hcp,orion
+Alice Bordessoule,Genève,CH,"Hôpitaux Universitaires de Genève,Rue Willy Donzé 6",1211,,,,280.13,407.73,,,687.86,hcp,orion
+Marco Bosshart,Zürich,CH,"Klinik Hirslanden Zürich,Witellikerstr. 40,Postfach",8032,,,,,,1000.0,,1000.0,hcp,orion
+Evelyne Bucher,Zürich,CH,"Klinik Hirslanden Zürich,Witellikerstr. 40,Postfach",8032,,,,221.1,670.17,,,891.27,hcp,orion
+Gabor Erdös,Bern,CH,"Inselspital Bern, Insel Gruppe AG",3001,,,,438.52,531.66,,,970.17,hcp,orion
+Jörg Feige,Aarau,CH,"Hirslanden Klinik Aarau, Schänisweg",5001,,,,221.1,632.75,,,853.85,hcp,orion
+Patricia Fodor,Zürich,CH,Kuttelgasse 2,8001,,,,,,1000.0,,1000.0,hcp,orion
+Raymond Friolet,Sion,CH,"Hôpital du Valais,Avenue du Grand Champsec 80",1950,,,,408.83,404.04,,,812.87,hcp,orion
+Monika Fürholz,Bern,CH,"Inselspital Bern, Insel Gruppe AG",3001,,,,482.74,857.57,,,1340.3,hcp,orion
+Christoph Ganter,Zürich,CH,"Universitätsspital Zürich, Rämistr.100",8091,,,,309.54,746.78,,,1056.32,hcp,orion
+Raphael Giraud,Genève,CH,"Hôpitaux Universitaires de Genève,Gabrielle-Perret-Gentil 4",1205,,,,408.83,502.73,,,911.57,hcp,orion
+Matthias Peter Hilty,Zürich,CH,"Universitätsspital Zürich, Rämistr.100",8091,,,,,522.43,,,522.43,hcp,orion
+Séverin Jeanneret,Sion,CH,"Centre Hospitalier du Valais,Avenue du Grand-Champsec 80",1950,,,,309.54,720.28,,,1029.82,hcp,orion
+Alexander Klarer,Aarau,CH,"Kantonsspital Aarau AG,Tellstr.25",5001,,,,309.54,868.99,,,1178.53,hcp,orion
+Hanswilly Mattes,Zürich,CH,"Klinik Hirslanden Zürich,Witellikerstr. 40,Postfach",8032,,,,309.54,670.54,,,980.08,hcp,orion
+Andrea Moser,Zürich,CH,"Stadtspital Triemli, Birmensdorferstrasse 497",8063,,,,,,1000.0,,1000.0,hcp,orion
+Thomas Nestelberger,Basel,CH,"Universitätsspital Basel, Petersgraben 4-6",4031,,,,482.74,875.82,,,1358.56,hcp,orion
+Deborah Pugin,Genève,CH,"Hôpitaux Universitaires de Genève,Gabrielle-Perret-Gentil 4",1205,,,,408.83,565.48,,,974.31,hcp,orion
+Marc Ritz,Meyrin/Genève,CH,"Hôpital de la Tour, Avenue J.-D. Maillard 3",1217,,,,408.83,377.24,,,786.07,hcp,orion
+Tobias Straub,St. Gallen,CH,"Kantonsspital St. Gallen, Rorschacherstr. 95",9007,,,,117.92,542.13,300.0,,960.05,hcp,orion
+Tanja Stucki,Langenthal,CH,"SRO AG, Spital Langenthal,St. Urbanstrasse 67",4901,,,,,,400.0,,400.0,hcp,orion
+Jan Wasik,Zürich,CH,"Universitätsspital Zürich, Rämistr.100",8091,,,,221.1,550.27,,,771.37,hcp,orion
+Regula Zürcher Zenklusen ,Neuchâtel,CH,"Hôpital neuchâtelois Pourtalès,Rue de la Maladière 45",2000,,,,308.2,583.28,,,891.48,hcp,orion
+Michael Zürrer,St. Gallen,CH,"Hirslanden Klinik Aarau, Schänisweg",5001,,,,309.54,777.45,,,1086.99,hcp,orion
+AMACTI,Lugano,CH,"c/o Cardiocentro Ticino, Via Tesserete 48",6900,,,2000.0,,,,,2000.0,hco,orion
+Arbeitsgruppe Herzinsuffizienz Schw. Gesellschaft für Intensivmedizin,St.Gallen,CH,"c/o Kantonsspital St.Gallen, Rorschacherstr.95",9007,,,3000.0,,,,,3000.0,hco,orion
+BBS Congress GmbH,Bern,CH,Rabbentalstrasse 83,3013,,,5040.0,,,,,5040.0,hco,orion
+CHUV Lausanne,Lausanne,CH,Rue du Bugnon 46,1011,,,16500.0,1433.47,1407.31,1500.0,,20840.78,hco,orion
+Clinique de la Source,Lausanne,CH,Avenue Alexandre Vinet 30,1004,,,750.0,,,,,750.0,hco,orion
+Forschungsstiftung Hirslanden,Zürich,CH,Seefeldstr. 214,8008,,,1000.0,,,,,1000.0,hco,orion
+Gemeinsame Jahrestagung SGK/SGHC,Basel,CH,Peter Merian-Strasse 80,4002,,,3300.0,,,,,3300.0,hco,orion
+Hirslanden Klinik Aarau,Aarau,CH,Schänisweg,5001,,,1000.0,,,,,1000.0,hco,orion
+Hôpital de la Tour Meyrin,Meyrin,CH,Avenue J.D.Maillard 3,1217,,,1000.0,,,,,1000.0,hco,orion
+Hôpital de Pourtales,Neuchâtel,CH,Rue de la Maladière,2000,,,5000.0,,,,,5000.0,hco,orion
+Hôpital du Jura,Delémont,CH,Faubourg des Capucins 30,2800,,,700.0,,,,,700.0,hco,orion
+Hôpital du Valais,Sion,CH,Avenue du Grand-Champsec 80,1950,,,1500.0,,,,,1500.0,hco,orion
+HUG Hôpitaux Universitaires de Genève,Genève,CH,Rue Gabrielle-Perret-Gentil 4,1211,,,8700.0,,,,,8700.0,hco,orion
+Insel Gruppe AG Inselspital Bern,Bern,CH,Freiburgstrasse,3010,,,1000.0,,,,,1000.0,hco,orion
+Kantonsspital Aarau,Aarau,CH,Tellstrasse 25,5001,,,4000.0,,,,,4000.0,hco,orion
+Kantonsspital Graubünden Chur,Chur,CH,Loëstrasse 170,7000,,,500.0,,,,,500.0,hco,orion
+Kantonsspital St. Gallen,St.Gallen,CH,Rorschacherstrasse 95,9007,,,2800.0,,,,,2800.0,hco,orion
+Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse 15,8401,,,1000.0,,,,,1000.0,hco,orion
+Luzerner Kantonsspital,Luzern,CH,Spitalstrasse,6000,,,750.0,,,,,750.0,hco,orion
+Patientensimulator der MedInt,Basel,CH,"Universitätsspital Basel, Petersgraben 4",4031,,,5000.0,,,,,5000.0,hco,orion
+Pflegeakademie,Basel,CH,"c/o LH Medical Managemenet GmbH, Postfach 278",4410,,,2500.0,,,,,2500.0,hco,orion
+Schweizerische Gesellschaft für Anästhesiepflege,Sursee,CH,Bahnhofstrasse 7b,6210,,,2280.0,,,,,2280.0,hco,orion
+SGI Schweizerische Gesellschaft für Intensivmedizin,Aesch,CH,"c/o IMK Institut für Medizin und Kommunikation AG, Münsterberg 1",4001,,,35000.0,,,,,35000.0,hco,orion
+Spital Grabs,Grabs,CH,Spitalstrasse 44,9472,,,1000.0,,,,,1000.0,hco,orion
+Spital Limmattal,Schlieren,CH,Urdorfstrasse 100,8952,,,450.0,,,,,450.0,hco,orion
+Spital Schwyz,Zürich,CH,Waldeggstrasse 10,6430,,,3000.0,,,,,3000.0,hco,orion
+Stiftung für Wissenschaftliche Forschung am Stadtspital Triemli,Zürich,CH,Birmensdorferstrasse 497,8063,,,12500.0,,,,,12500.0,hco,orion
+SWISS ICU Network,Aesch,CH,,,,,1500.0,,,,,1500.0,hco,orion
+Universitätsklinik Balgrist,Zürich,CH,Forchstrasse 340,8008,,,500.0,,,,,500.0,hco,orion
+Universitätsspital Basel,Basel,CH,Spitalstrasse 21,4031,,,3950.0,,,,,3950.0,hco,orion
+Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,8091,,,13000.0,,,,,13000.0,hco,orion
+Zürcher Gesellschaft für Intensivmedizin,Zürich,CH,,,,,600.0,,,,,600.0,hco,orion
