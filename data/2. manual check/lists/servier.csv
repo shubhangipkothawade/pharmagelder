@@ -176,9 +176,9 @@ SAMO - Swiss Academy of Multidisciplinary Oncology,1708 Fribourg,CH,Klinik für 
 SAMO - Swiss Academy of Multidisciplinary Oncology,1708 Fribourg,CH,Klinik für Onkologie - HFR Freiburg - Kantonsspital,1708,SwissAcademyMultidisciplinaryBern,,5000.0,,,,,5000,hco,servier
 Seeklinik Brunnen AG,6440 Brunnen,CH,Gersauerstrasse 8,6440,SeeklinikBrunnen,,2000.0,218.0,665.0,,,2883,hco,servier
 SGAD - Schweizerische Gesellschaft für Angst & Depression,8057 Zürich,CH,Geschäftsstelle - Ringstrasse 70,8057,SGADZürich,,20000.0,,,,,20000,hco,servier
-SGPP - Schweiz. Gesellschaft f. Psychiatrie & Psychotherapie,3000 Bern 8,CH,Altenbergstrasse 29,3000,SGPPBern8,,18000.0,,,,,18000,hco,servier
+SGPP - Schweizerische Gesellschaft für Psychiatrie & Psychotherapie,3000 Bern 8,CH,Altenbergstrasse 29,3000,SGPPBern8,,18000.0,,,,,18000,hco,servier
 SGUM,9444 Diepoldsau,CH,santémed Gesundheitszentren AG - Medbase Diepoldsau - Vordere Kirchstrasse 8,9444,SGUMDiepoldsau,,2880.0,,,,,2880,hco,servier
-SHG - Schweiz. Hypertonie Gesellschaft,1011 Lausanne,CH,Hôpital Nestlé 6027,1011,SHGLausanne,6000.0,2869.0,,,,,8869,hco,servier
+SHG - Schweizerische Hypertonie Gesellschaft,1011 Lausanne,CH,Hôpital Nestlé 6027,1011,SHGLausanne,6000.0,2869.0,,,,,8869,hco,servier
 SNM - Société Neuchâteloise de Médecine,2068 Hauterive NE,CH,Les Theyers 2,2068,SNMHauteriveNE,,1000.0,,,,,1000,hco,servier
 Solothurner Spitäler AG (soH),4500 Solothurn,CH,Schlössliweg 2-6,4500,SolothurnerSpitälerSolothurn,,1021.0,,,,,1021,hco,servier
 Spital Thurgau AG,8500 Frauenfeld,CH,Debitorenbuchhaltung,8500,SpitalThurgauFrauenfeld,,500.0,,,,,500,hco,servier
@@ -191,7 +191,7 @@ Universitätsspital Zürich,8091 Zürich,CH,Direktion Finanzen - Rämistrasse 10
 Université de Genève,1211 Genève 4,CH,Faculté de Médecine,1211,UniversitéFacultéMédecineGenève,,2000.0,,21.0,,,2021,hco,servier
 Université de Genève,1211 Genève 4,CH,Faculté de Médecine,1211,UniversitéFacultéMédecineBibliothèqueGenève,,,627.0,918.0,4000.0,,5545,hco,servier
 UPD - Universitäre Psychiatrische Dienste Bern,3000 Bern 60,CH,Bolligenstrasse 111,3000,UPDBern60,,3100.0,,,,,3100,hco,servier
-USGG - Union Schweiz. Gesellschaften f. Gefässkrankheiten,5001 Aarau,CH,Bahnhofstrasse 55,5001,USGGAarau,750.0,,,,,,750,hco,servier
+USGG - Union Schweizerischer Gesellschaften für Gefässkrankheiten,5001 Aarau,CH,Bahnhofstrasse 55,5001,USGGAarau,750.0,,,,,,750,hco,servier
 Verein Lunge Zürich,8005 Zürich,CH,Pfingstweidstrasse 10,8005,VereinLungeZürich,,10620.0,,,,,10620,hco,servier
 Verein Quartierärzte Kreis 9,8000 Zürich,CH,-,8000,VereinQuartierärzteKreis9Zürich,,500.0,,,,,500,hco,servier
 Vereinigung Allgem. & Spezialisierter Internist/innen Zürich,8909 Zwillikon,CH,VZI Symposium - Haldenrain 18,8909,VereinigungZürcherInternistenZollikon,,3800.0,,,,,3800,hco,servier
@@ -232,7 +232,7 @@ Tumorzentrum ZeTuP Rapperswil,8640 Rapperswil SG,CH,Alte Jonastasse 24,8640,Tumo
 UPK Basel,4012 Basel,CH,Wilhelm-Klein-Strasse 27,4012,UPKBasel,,4500.0,391.0,625.0,,,5516,hco,servier
 Zurich Heart House - Foundation for cardiovascular research,8091 Zürich,CH,Hottingerstrasse 14,8091,ZurichHeartHouseZürich,,25204.0,1800.0,,,,27004,hco,servier
 APODRO Apotheke Rüti,8630 Rüti ZH,CH,Bandwiesstrasse 4,8630,APODROApothekeRüti,,2000.0,,,,,2000,hco,servier
-SGAMSP - Schweiz. Gesellschaft für Arzneimittelsicherheit in der Psychiatrie,8006 Zürich,CH,Weinbergstrasse 31,8006,SGAMSPZürich,,1000.0,,,,,1000,hco,servier
+SGAMSP - Schweizerische Gesellschaft für Arzneimittelsicherheit in der Psychiatrie,8006 Zürich,CH,Weinbergstrasse 31,8006,SGAMSPZürich,,1000.0,,,,,1000,hco,servier
 Association médecins de famille Fribourg,1726 Farvagny,CH,Impasse du Petit-Crêt 3,1726,MédecinFamilleFribourgFarvagny,,2000.0,,,,,2000,hco,servier
 ADAEL - Association D'Esculape En Lavaux,1095 Lutry,CH,Rue Verdaine 8a,1095,AssociationD'AesculapeEnLavauxLutry,,2000.0,,,,,2000,hco,servier
 Fondation Centre de Chimiothérapie Anti-Cancéreuse,1004 Lausanne,CH,Avenue Vinet 19bis,1004,FondationCentreChimiothérapieAnti-CancéreuseLausanne,,2000.0,,,,,2000,hco,servier
