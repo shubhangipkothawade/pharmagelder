@@ -10495,7 +10495,7 @@ INSERT INTO transaction (`tra_fk_pharma`, `tra_fk_recipient`, `tra_year`, `tra_f
 ('24', '14802', '2019', '2', '1077.0', 'Die Dermatologen Stieger & Kränzlin', 'St. Gallen', 'Vadianstrasse 31a'), 
 ('6', '8953', '2019', '2', '30000.0', 'Die Herzgefässstiftung', 'Zürich', 'Seestrasse 220'), 
 ('47', '8955', '2019', '2', '2550.0', 'Die Schweizerische Ärztegesellschaft für Manuelle Medizin (SAMM)', 'St. Gallen', 'Kolumbanstrasse 2'), 
-('15', '8955', '2019', '2', '10200.0', 'Die Schweizerische Ärztegesellschaft für ManuelleMedizin (SAMM)', 'St. Gallen', 'Kolumbanstrasse 2'), 
+('15', '8955', '2019', '2', '10200.0', 'Die Schweizerische Ärztegesellschaft für Manuelle Medizin (SAMM)', 'St. Gallen', 'Kolumbanstrasse 2'), 
 ('37', '9523', '2019', '3', '153.5', 'Diessenhofen, Klinik St. Katharinental', 'Diessenhofen', 'St. Katharinental 1'), 
 ('37', '9523', '2019', '4', '502.4', 'Diessenhofen, Klinik St. Katharinental', 'Diessenhofen', 'St. Katharinental 1'), 
 ('35', '8957', '2019', '2', '14000.0', 'Doccare - Hausärzte', 'Fehraltorf', 'Im Baumgarten 1'), 
