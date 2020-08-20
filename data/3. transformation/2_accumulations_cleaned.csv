@@ -27,7 +27,7 @@ rnd,,,,,,,1345.62,astellas
 hcp_amount,0.0,0.0,1118.0,11309.0,21715.0,1562.0,35704.0,astrazeneca
 hco_amount,0.0,0.0,0.0,,0.0,0.0,,astrazeneca
 hcp_count,0.0,0.0,3.0,3.0,3.0,2.0,6.0,astrazeneca
-hco_count,0.0,0.0,0.0,,0.0,0.0,,astrazeneca
+hco_count,0.0,0.0,0.0,,0.0,0.0,0.0,astrazeneca
 rnd,,,,,,,11527512.0,astrazeneca
 hcp_amount,0.0,0.0,0.0,0.0,0.0,0.0,0.0,baxter
 hcp_count,0.0,0.0,0.0,0.0,0.0,0.0,0.0,baxter
@@ -102,8 +102,8 @@ hco_count,0.0,0.0,0.0,0.0,0.0,0.0,,galderma
 rnd,,,,,,,21000.0,galderma
 hcp_amount,,,,,1375.0,,1375.0,gilead
 hco_amount,,,,,,,,gilead
-hcp_count,,,,,1.0,,,gilead
-hco_count,,,,,,,,gilead
+hcp_count,,,,,1.0,,1.0,gilead
+hco_count,,,,,0.0,,0.0,gilead
 rnd,,,,,,,734665.0,gilead
 hcp_amount,,,,,,,0.0,glaxosmithkline
 hcp_count,,,,,,0.0,0.0,glaxosmithkline
