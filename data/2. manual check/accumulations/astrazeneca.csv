@@ -2,5 +2,5 @@ type,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,re
 hcp_amount,0.0,0.0,1118.0,11309.0,21715.0,1562.0,35704.0,astrazeneca
 hco_amount,0.0,0.0,0.0,,0.0,0.0,,astrazeneca
 hcp_count,0.0,0.0,3.0,3.0,3.0,2.0,6,astrazeneca
-hco_count,0.0,0.0,0.0,,0.0,0.0,,astrazeneca
+hco_count,0.0,0.0,0.0,,0.0,0.0,0,astrazeneca
 rnd,,,,,,,11527512,astrazeneca
