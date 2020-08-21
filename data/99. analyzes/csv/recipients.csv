@@ -23379,6 +23379,11 @@ recipient_id,year,recipient_name,recipient_address,recipient_location,recipient_
 10483,2018,Vereinigung Zentralschweizer Ärztegesellschaften,Gubelslrasse 17,Zug,hco,22000.0
 10483,2019,Vereinigung Zentralschweizer Ärztegesellschaften,Gubelslrasse 17,Zug,hco,17374.0
 10484,2015,Vereinigung der Zurcher Aerzte fur Hals-Nasen-Ohrenkrankheiten,Bahnhofstrasse 198,Wetzikon,hco,1500.0
+10485,2015,VZK Vereinigung Zürcher Kinderärzte,Breitingerstrasse 13,Zürich,hco,2500.0
+10485,2016,VZK Vereinigung Zürcher Kinderärzte,Breitingerstrasse 13,Zürich,hco,500.0
+10485,2017,VZK Vereinigung Zürcher Kinderärzte,Breitingerstrasse 13,Zürich,hco,1000.0
+10485,2018,VZK Vereinigung Zürcher Kinderärzte,Breitingerstrasse 13,Zürich,hco,2000.0
+10485,2019,VZK Vereinigung Zürcher Kinderärzte,Breitingerstrasse 13,Zürich,hco,1000.0
 10486,2015,Vereinigung der Ärztinnen und Ärzte beider Frenkentaler,Unterbiet 26,Reigoldswil,hco,1500.0
 10487,2017,Vereinigung Kantonal Bernischer Dermatologen (VKBD),Schanzenstrasse 1,Bern,hco,1500.0
 10487,2018,Vereinigung Kantonal Bernischer Dermatologen (VKBD),Schanzenstrasse 1,Bern,hco,1500.0
@@ -23387,11 +23392,11 @@ recipient_id,year,recipient_name,recipient_address,recipient_location,recipient_
 10488,2016,"VLuHa ""Vereinigung Luzerner Hausärzte”",Schwanenplatz 7,Luzern,hco,1500.0
 10488,2018,"VLuHa ""Vereinigung Luzerner Hausärzte”",Schwanenplatz 7,Luzern,hco,6000.0
 10489,2016,Vereinigung Rettungssanitäter Schweiz (VRS),Bahnhofstrasse 7b,Sursee,hco,500.0
-10490,2015,Vereinigung Zürcher Kinder und Jugendärzte (VZK),Breitingerstrasse 23,Zürich,hco,3700.0
-10490,2016,Vereinigung Zürcher Kinder und Jugendärzte (VZK),Breitingerstrasse 23,Zürich,hco,5700.0
-10490,2017,Vereinigung Zürcher Kinder und Jugendärzte (VZK),Breitingerstrasse 23,Zürich,hco,1500.0
-10490,2018,Vereinigung Zürcher Kinder und Jugendärzte (VZK),Breitingerstrasse 23,Zürich,hco,6200.0
-10490,2019,Vereinigung Zürcher Kinder und Jugendärzte (VZK),Breitingerstrasse 23,Zürich,hco,4000.0
+10490,2015,Vereinigung Zürcher Kinder und Jugendärzte (VZK),Breitingerstrasse 23,Zürich,hco,1200.0
+10490,2016,Vereinigung Zürcher Kinder und Jugendärzte (VZK),Breitingerstrasse 23,Zürich,hco,5200.0
+10490,2017,Vereinigung Zürcher Kinder und Jugendärzte (VZK),Breitingerstrasse 23,Zürich,hco,500.0
+10490,2018,Vereinigung Zürcher Kinder und Jugendärzte (VZK),Breitingerstrasse 23,Zürich,hco,4200.0
+10490,2019,Vereinigung Zürcher Kinder und Jugendärzte (VZK),Breitingerstrasse 23,Zürich,hco,3000.0
 10491,2016,Verlag Gesundheit.Santé,Neustadt 40,Schaffhausen,hco,40517.0
 10491,2017,Verlag Gesundheit.Santé,Neustadt 40,Schaffhausen,hco,7200.0
 10491,2018,Verlag Gesundheit.Santé,Neustadt 40,Schaffhausen,hco,30000.0
@@ -27270,7 +27275,7 @@ Postfach 686",Bern,hco,45975.649999999994
 13567,2019,Karin Hiestand Rolli,Seestrasse 30,Spiez,hcp,965.3
 13568,2019,Karin Sarbach,"ZPW Zentralpraxis Wallisellen, Zentralstrasse 6",Wallisellen,hcp,972.69
 13569,2019,Karl Renggli,"Mediteam Gampelen AG, Insstrasse 9",Gampelen,hcp,1038.44
-13570,2019,Karl Schütz,Zürichstrasse 7,Luzern,hcp,151195.0
+13570,2019,Karl Schütz,Zürichstrasse 7,Luzern,hcp,1511.9499999999998
 13571,2019,Karoline Fotinos-Graf,"Praxis Aromaphyt, Diesbachstrasse 11",Bern,hcp,8300.0
 13572,2019,Kasper-Thalmann Barbara,Mitteldorf 14,Zeiningen,hcp,506.85
 13573,2019,Katalin Rohmeder-Arday,Schützenmattstrasse 52,Basel,hcp,328.0
