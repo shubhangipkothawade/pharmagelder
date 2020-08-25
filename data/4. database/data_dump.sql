@@ -1995,7 +1995,7 @@ INSERT INTO recipient (`rec_id`, `rec_name`, `rec_address`, `rec_location`, `rec
 ('14854', 'pnn pharma nation network ag', 'Kirchgasse 42', 'Zürich', '', '8000,8001,8002,8003,8004,8005,8006,8008,8010,8022,8023,8024,8027,8031,8032,8033,8034,8036,8037,8038,8039,8040,8041,8042,8044,8045,8046,8047,8048,8049,8050,8051,8052,8053,8055,8057,8058,8061,8063,8064,8088,8090,8091,8092,8093,8099,8070,8098,8066,8087,8075,8068,8081,8060,8012,8030', 'CH', 'pnn_8001', '0', '1', 'hco'), 
 ('14855', 'Psychiatrische Dienste Thurgau', 'Postfach 432', 'Brugg AG', '', '5200,5201', 'CH', '', '0', '1', 'hco'), 
 ('14856', 'Psychiatrische Dienste Bern(UPD)', 'Murtenstrasse 46', 'Bern', '3008.0', '3000,3001,3003,3004,3005,3006,3007,3008,3010,3011,3012,3013,3014,3015,3018,3019,3020,3027,3024,3030,3029', 'CH', '', '0', '1', 'hco'), 
-('14857', 'Psychiatrische Universitätsklin ik (PUK) Zürich', 'Lenggstrasse 31', 'Zürich', '8008.0', '8000,8001,8002,8003,8004,8005,8006,8008,8010,8022,8023,8024,8027,8031,8032,8033,8034,8036,8037,8038,8039,8040,8041,8042,8044,8045,8046,8047,8048,8049,8050,8051,8052,8053,8055,8057,8058,8061,8063,8064,8088,8090,8091,8092,8093,8099,8070,8098,8066,8087,8075,8068,8081,8060,8012,8030', 'CH', '', '0', '1', 'hco'), 
+('14857', 'PUK', 'Lenggstrasse 31.', 'Zürich', '8008.0', '8000,8001,8002,8003,8004,8005,8006,8008,8010,8022,8023,8024,8027,8031,8032,8033,8034,8036,8037,8038,8039,8040,8041,8042,8044,8045,8046,8047,8048,8049,8050,8051,8052,8053,8055,8057,8058,8061,8063,8064,8088,8090,8091,8092,8093,8099,8070,8098,8066,8087,8075,8068,8081,8060,8012,8030', 'CH', '', '0', '1', 'hco'), 
 ('14858', 'Reginalspital Emmental AG', 'Dorfbergstrasse 10', 'Langnau', '3550.0', '', 'CH', '', '0', '1', 'hco'), 
 ('14859', 'Rundum Onkologie am Bahnhofpark', 'Bahnhofpark 2B', 'Sargans', '7320.0', '7320', 'CH', 'Not Available', '0', '1', 'hco'), 
 ('14860', 'Schweizerisch Albanischer Ärzteverband (SAAV)', 'Alleestrasse 2a', 'Abtwil SG', '9030.0', '9030', 'CH', '1080887688', '0', '1', 'hco'), 
@@ -15448,9 +15448,9 @@ INSERT INTO transaction (`tra_fk_pharma`, `tra_fk_recipient`, `tra_year`, `tra_f
 ('32', '14855', '2019', '2', '2154.0', 'Psychiatrische Dienste Thurgau', 'Brugg AG', 'Postfach 432'), 
 ('57', '12811', '2019', '2', '1938.6', 'Psychiatrische Dienste Thurgau', 'Münsterlingen', 'Seeblickstrasse 3'), 
 ('44', '9513', '2019', '2', '5000.0', 'Psychiatrische Uniklinik', 'Zürich', 'Lenggstrasse 31'), 
-('48', '14857', '2019', '2', '4000.0', 'Psychiatrische Universitätsklin ik (PUK) Zürich', 'Zürich', 'Lenggstrasse 31'), 
+('48', '9513', '2019', '2', '4000.0', 'Psychiatrische Universitätsklinik (PUK) Zürich', 'Zürich', 'Lenggstrasse 31'), 
 ('38', '9513', '2019', '1', '1846.0', 'Psychiatrische Universitätsklinik Zürich', 'Zürich', 'Selnaustrasse 9'), 
-('35', '9513', '2019', '2', '4000.0', 'Psychiatrische Universitätsklink', 'Zürich', 'Rämistrasse 31'), 
+('35', '9513', '2019', '2', '4000.0', 'Psychiatrische Universitätsklinik', 'Zürich', 'Rämistrasse 31'), 
 ('37', '9902', '2019', '2', '6350.0', 'PUBLIC HEALTH SCHWEIZ', 'BERN', 'EFFINGERSTRASSE 54'), 
 ('6', '9902', '2019', '2', '450.0', 'Public Health Schweiz', 'Bern', 'Effingerstrasse 54'), 
 ('60', '14857', '2019', '2', '2000.0', 'PUK', 'Zürich', 'Lenggstrasse 31.'), 
@@ -17695,8 +17695,7 @@ INSERT INTO accumulation (`acc_fk_pharma`, `acc_year`, `acc_fk_transaction_categ
 ('57.0', '2019', '7', '548960.62', 'rnd');
 COMMIT;
 START TRANSACTION;
-ALTER TABLE pharma DROP IF EXISTS pha_note;
-ALTER TABLE pharma ADD pha_note TEXT NULL;
+ALTER TABLE pharma ADD COLUMN pha_note TEXT NULL;
 UPDATE pharma SET pha_note = '{"de": "Seit 2019 weist Actelion Offenlegungen nicht mehr gesondert aus. Die Daten sind neu in den Veröffentlichungen der Firma Janssen-Cilag enthalten.", "fr": "Depuis 2019, les rapports de transparence d\'Actelion ne sont plus publiés à part. Les données sont désormais intégrées dans les rapports de l\'entreprise Janssen-Cilag."}' WHERE pha_id = 2;
 UPDATE pharma SET pha_note = '{"de": "Seit 2019 weist Alcon Offenlegungen nicht mehr gesondert aus. Die Daten sind neu in den Veröffentlichungen der Firma Novartis enthalten.", "fr": "Depuis 2019, les rapports de transparence d\'Alcon ne sont plus publiés à part. Les données sont désormais intégrées dans les rapports de l\'entreprise Novartis."}' WHERE pha_id = 3;
 UPDATE pharma SET pha_note = '{"de": "Basilea hat den Pharma-Kooperations-Kodex nicht unterzeichnet, Veröffentlichungen geschehen auf freiwilliger Basis. Für 2019 hat das Unternehmen noch keine Zahlen veröffentlicht.", "fr": "Basilea n\'est pas signataire du Code de coopération pharmaceutique, ses publications de rapports se font sur une base volontaires. L\'entreprise n\'a pas communiqué de chiffres pour 2019."}' WHERE pha_id = 25;

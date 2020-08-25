@@ -13413,9 +13413,9 @@ tra_fk_pharma,tra_fk_recipient,tra_year,tra_fk_transaction_category,tra_value,tr
 32,14855,2019,2,2154.0,Psychiatrische Dienste Thurgau,Brugg AG,Postfach 432
 57,12811,2019,2,1938.6,Psychiatrische Dienste Thurgau,Münsterlingen,Seeblickstrasse 3
 44,9513,2019,2,5000.0,Psychiatrische Uniklinik,Zürich,Lenggstrasse 31
-48,14857,2019,2,4000.0,Psychiatrische Universitätsklin ik (PUK) Zürich,Zürich,Lenggstrasse 31
+48,9513,2019,2,4000.0,Psychiatrische Universitätsklinik (PUK) Zürich,Zürich,Lenggstrasse 31
 38,9513,2019,1,1846.0,Psychiatrische Universitätsklinik Zürich,Zürich,Selnaustrasse 9
-35,9513,2019,2,4000.0,Psychiatrische Universitätsklink,Zürich,Rämistrasse 31
+35,9513,2019,2,4000.0,Psychiatrische Universitätsklinik,Zürich,Rämistrasse 31
 37,9902,2019,2,6350.0,PUBLIC HEALTH SCHWEIZ,BERN,EFFINGERSTRASSE 54
 6,9902,2019,2,450.0,Public Health Schweiz,Bern,Effingerstrasse 54
 60,14857,2019,2,2000.0,PUK,Zürich,Lenggstrasse 31.
