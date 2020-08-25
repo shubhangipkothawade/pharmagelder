@@ -11,23 +11,20 @@ UPDATE pharma SET pha_note = '{"de": "Seit 2019 weist Alcon Offenlegungen nicht 
 UPDATE pharma SET pha_note = '{"de": "Basilea hat den Pharma-Kooperations-Kodex nicht unterzeichnet, Veröffentlichungen geschehen auf freiwilliger Basis. Für 2019 hat das Unternehmen noch keine Zahlen veröffentlicht.", "fr": "Basilea n\'est pas signataire du Code de coopération pharmaceutique, ses publications de rapports se font sur une base volontaires. L\'entreprise n\'a pas communiqué de chiffres pour 2019."}' WHERE pha_id = 25;
 UPDATE pharma SET pha_note = '{"de": "Seit 2019 weist Teva Offenlegungen nicht mehr gesondert aus. Die Daten sind neu in den Veröffentlichungen der Firma Mepha enthalten.", "fr": "Depuis 2019, les rapports de transparence de Teva ne sont plus publiés à part. Les données sont désormais intégrées dans les rapports de l\'entreprise Mepha."}' WHERE pha_id = 55;
 UPDATE recipient SET rec_name = 'Novartis Pharma AG (als Empfänger)' WHERE rec_id = 10008;
-UPDATE recipient SET rec_location = 'Estavayer-Le-Lac' WHERE rec_id = 239
-UPDATE recipient SET rec_location = 'Chêne-Bougeries' WHERE rec_id = 496
-UPDATE recipient SET rec_location = 'Carouge' WHERE rec_id = 976
-UPDATE recipient SET rec_location = 'Stans' WHERE rec_id = 1136
-UPDATE recipient SET rec_location = 'La Chaux-de-Fonds' WHERE rec_location = 'La Chaux-de- Fonds'
-UPDATE recipient SET rec_location = 'Baden' WHERE rec_location = 'Baden-Dättwil'
-UPDATE recipient SET rec_location = 'Basel' WHERE rec_location = 'Basel UniSpital'
-UPDATE recipient SET rec_location = 'Zürich' WHERE rec_location = 'Zuerich'
-UPDATE recipient SET rec_location = 'Le Grand-Saconnex' WHERE rec_location = 'Le Grand- Saconnex'
-UPDATE recipient SET rec_name = 'Verbands Stadtzürcher Apotheker', rec_address = 'Rotbuchstrasse 830', rec_location = 'Zürich' WHERE rec_id = 14740;
-UPDATE recipient SET rec_address = 'Rotbuchstrasse 830', rec_location = 'Zürich' WHERE rec_id = 14400;
-UPDATE recipient SET rec_location = 'Zürich' WHERE rec_id = 13222;
-UPDATE recipient SET rec_location = 'Yverdon-Les-Bains' WHERE rec_location = 'Yverdon-Les- Bains'
-UPDATE recipient SET rec_location = 'Estavayer-Le-Lac' WHERE rec_location = 'Estavayer-Ie-Lac'
-UPDATE recipient SET rec_location = 'Frauenfeld' WHERE rec_location = 'Frauenfeid'
-UPDATE recipient SET rec_location = 'Wallisellen' WHERE rec_location = 'Glattzentrum'
-UPDATE recipient SET rec_location = 'Sainte-Croix' WHERE rec_location = 'Sainte Croix'
-UPDATE recipient SET rec_location = 'Neuchâtel' WHERE rec_location = 'Neuchätel'
-UPDATE recipient SET rec_location = 'Olten' WHERE rec_location = 'Oiten'
+UPDATE recipient SET rec_location = 'Estavayer-Le-Lac' WHERE rec_id = 239;
+UPDATE recipient SET rec_location = 'Chêne-Bougeries' WHERE rec_id = 496;
+UPDATE recipient SET rec_location = 'Carouge' WHERE rec_id = 976;
+UPDATE recipient SET rec_location = 'Stans' WHERE rec_id = 1136;
+UPDATE recipient SET rec_location = 'La Chaux-de-Fonds' WHERE rec_location = 'La Chaux-de- Fonds';
+UPDATE recipient SET rec_location = 'Baden' WHERE rec_location = 'Baden-Dättwil';
+UPDATE recipient SET rec_location = 'Basel' WHERE rec_location = 'Basel UniSpital';
+UPDATE recipient SET rec_location = 'Zürich' WHERE rec_location = 'Zuerich';
+UPDATE recipient SET rec_location = 'Le Grand-Saconnex' WHERE rec_location = 'Le Grand- Saconnex';
+UPDATE recipient SET rec_location = 'Yverdon-Les-Bains' WHERE rec_location = 'Yverdon-Les- Bains';
+UPDATE recipient SET rec_location = 'Estavayer-Le-Lac' WHERE rec_location = 'Estavayer-Ie-Lac';
+UPDATE recipient SET rec_location = 'Frauenfeld' WHERE rec_location = 'Frauenfeid';
+UPDATE recipient SET rec_location = 'Wallisellen' WHERE rec_location = 'Glattzentrum';
+UPDATE recipient SET rec_location = 'Sainte-Croix' WHERE rec_location = 'Sainte Croix';
+UPDATE recipient SET rec_location = 'Neuchâtel' WHERE rec_location = 'Neuchätel';
+UPDATE recipient SET rec_location = 'Olten' WHERE rec_location = 'Oiten';
 COMMIT;
