@@ -1,40 +1,49 @@
 name,location,country,address,plz,uci,donations_grants,sponsorship,registration_fees,travel_accommodation,fees,related_expenses,total,type,source
-Alexandre Datta,BASEL,CH,UKBB - Universitäts- Kinderspital beider Basel Neuro- /Entwicklungspädiatri e Neuro- /Entwicklungspädiatri e Spitalstrasse 33 Postfach 4031,4031,,,,,,1133.3,,1133.3,hcp,eisai
-Thomas Grunwald,Zürich,CH,"Schweizerische Epilepsie-Stiftung, Klinik Lengg AG Bleulerstrasse 60",8008,,,,,,2366.64,66.78,2433.42,hcp,eisai
-Henric Jokeit,Zürich,CH,"Schweizeri. Epilepsie- Stiftung, Klinik Lengg AG Bleulerstrasse 60",8008,,,,,,250.0,,250.0,hcp,eisai
-Günter Krämer,Zürich,CH,Neurozentrum Bellevue Neurozentrum Bellevue Theaterstrasse 8 Theaterstrasse 8,8001,,,,,,1333.3,994.99,2328.29,hcp,eisai
-Elisabeth Langenberger,Zürich,CH,Klinik Lengg Bleulerstrasse 60,8000,,,,,,800.0,,800.0,hcp,eisai
-Joachim Mertens,Zürich,CH,Universitätsspital Zürich Rämistrasse 100,8091,,,,,,1000.0,,1000.0,hcp,eisai
-Georgia Ramantani,Zürich,CH,Kinderspital Zürich Steinwiesstrasse 75,8032,,,,638.87,,2333.27,,2972.15,hcp,eisai
-Tamara Rordorf,Zürich,CH,Universitätsspital Zürich Rämistrasse 100,8091,,,,,,750.0,,750.0,hcp,eisai
-David Semela,St. Gallen,CH,Kantonsspital St. Gallen Rorschacherstrasse 95,9007,,,,,,750.0,48.6,798.6,hcp,eisai
-Januz Shala,Zürich,CH,"Schweizeri. Epilepsie- Stiftung, Klinik Lengg AG Bleulerstrasse 60",8008,,,,,,1800.0,,1800.0,hcp,eisai
-Philip Siebel,Frauenfeld,CH,Neurologie am Rosenberg Thundorferstrasse 120,8500,,,,,,800.0,,800.0,hcp,eisai
-Alexander Siebenhüner,Zürich,CH,Universitätsspital Zürich Rämistrasse 100,8091,,,,,,1500.0,,1500.0,hcp,eisai
-4Th SFCNSCongress ,Basel,CH,Münsterberg 1,4001,,,4717.26,,,,,4717.26,hco,eisai
-Hopitaux Universitaire De Geneve Secteur Facturation Aux Tiers,Chene-Bourg,CH,Chemin du Petit-Bel- Air 2,1225,,,1500.0,,,,,1500.0,hco,eisai
-Hospital Du Valais- Chcvs,Sion,CH,av. Grand- Champsec,1951,,,538.5,,,,,538.5,hco,eisai
-Inselspital,Bern,CH,Universitätsspital Bern,3010,,,4615.5,,,1000.0,,5615.5,hco,eisai
-Institution De Lavigny,Lavigny,CH,Route du Vignoble,1175,,,1000.0,,,,,1000.0,hco,eisai
-Kantonsspital Aarau AG,Aarau,CH,Tellstrasse,5001,,,4523.4,,,,,4523.4,hco,eisai
-Kantonsspital Baden AG,Baden,CH,,5404,,,2615.5,,,,,2615.5,hco,eisai
-Kantonsspital Graubünden ,Chur,CH,Loeestrasse,7000,,,1500.0,,,,,1500.0,hco,eisai
-Kantonsspital Münsterlingen,Münsterlingen,CH,Spitalcampus,8596,,,,,,250.0,,250.0,hco,eisai
-Kantonsspital St Gallen,St Gallen,CH,Rorschacher Strasse,9007,,,11039.25,,,1077.0,,12116.25,hco,eisai
-Kantonsspital Winterthur,Winterthur,CH,Brauerstrasse,8401,,,,,,750.0,,750.0,hco,eisai
-Klinik Bethesda,Tschugg,CH,Postfach,3233,,,2000.0,,,,,2000.0,hco,eisai
-Klinik Lengg AG,Zürich,CH,Bleulerstrasse 60,8008,,,6000.0,,,,,6000.0,hco,eisai
-Luzerner Kantonsspital Medizinische Neurologie,Luzern ,CH,"Buchhaltung,",6000,,,1000.0,,,,,1000.0,hco,eisai
-Neurozentrum Oberaargau AG,Langenthal,CH,St. Urbanstrasse,4900,,,500.0,,,,,500.0,hco,eisai
-SAGB,Weinfelden,CH,postfach 59,8570,,,500.0,,,,,500.0,hco,eisai
-SASL Swiss Association For The Study Of Liver,Zürich,CH,Toblerstrasse,8044,,,7500.0,,,,,7500.0,hco,eisai
-Schweizerische Gesellschaft Für Gastroen Terologie SGG ,Bern,CH,Wattenwylerweg,3006,,,3231.0,,,,,3231.0,hco,eisai
-Schweizerische Gesellschaft Für Neuropäd,Oberentfelden,CH,Blumenweg,5036,,,1200.0,,,,,1200.0,hco,eisai
-Schweizerische Liga Gegen Epilepsie,Zürich,CH,Seefeldstrasse,8034,,,3000.0,,,,,3000.0,hco,eisai
-Senoforum Della Svizzera Italiana ,Chiasso,CH,Via Bossi 50,6830,,,3769.5,,,,,3769.5,hco,eisai
-Songe - Centre Du Sein,Genève,CH,Chemin de Beau- Soleil,1206,,,1500.0,,,,,1500.0,hco,eisai
-Stadtspital Triemli Zürich Klinik für Medizinische Onkologie&Haema,Zürich,CH,Birmensdorferstrasse,8063,,,3000.0,,,,,3000.0,hco,eisai
-Swiss Oncology & Hematology ,Zürich,CH,Talackerstrasse 50,8001,,,13462.5,,,,,13462.5,hco,eisai
-Universite D'Ete D'Eeg,Geneve 4,CH,Rue Gabrielle Perret- Gentil,1211,,,2500.0,,,,,2500.0,hco,eisai
-Universitätsspital Zürich,Zürich,CH,Rämistrasse 100,8091,,,4846.5,,,,,4846.5,hco,eisai
-Universitätsspital Basel,Basel,CH,Petersgraben,4031,,,3692.5,,,,,3692.5,hco,eisai
+Alexandre Datta,4031 BASEL,CH,UKBB - Universitäts- Kinderspital beider Basel Neuro- /Entwicklungspädiatri e Neuro- /Entwicklungspädiatri e Spitalstrasse 33 Postfach 4031,4031,,,,,,1133.3,,1133.3,hcp,eisai
+Thomas Grunwald,8008 ZüRICH,CH,"Schweizerische Epilepsie-Stiftung, Klinik Lengg AG Bleulerstrasse 60",8008,,,,,,2366.64,66.78,2433.42,hcp,eisai
+Henric Jokeit,8008 ZüRICH,CH,"Schweizeri. Epilepsie- Stiftung, Klinik Lengg AG Bleulerstrasse 60",8008,,,,,,250,,250,hcp,eisai
+Günter Krämer,8001 ZüRICH,CH,Neurozentrum Bellevue Neurozentrum Bellevue Theaterstrasse 8 Theaterstrasse 8,8001,,,,,,1333.3,994.99,2328.29,hcp,eisai
+Elisabeth Langenberger,8000 ZüRICH,CH,Klinik Lengg Bleulerstrasse 60,8000,,,,,,800,,800,hcp,eisai
+Joachim Mertens,8091 ZüRICH,CH,Universitätsspital Zürich Rämistrasse 100,8091,,,,,,1000,,1000,hcp,eisai
+Georgia Ramantani,8032 ZüRICH,CH,Kinderspital Zürich Steinwiesstrasse 75,8032,,,,638.87,,2333.27,,2972.15,hcp,eisai
+Tamara Rordorf,8091 ZüRICH,CH,UniversitätsSpital Zürich Rämistrasse 100,8091,,,,,,750,,750,hcp,eisai
+David Semela,9007 ST. GALLEN,CH,Kantonsspital St. Gallen Rorschacherstrasse 95,9007,,,,,,750,48.6,798.6,hcp,eisai
+Januz Shala,8008 ZüRICH,CH,"Schweizeri. Epilepsie- Stiftung, Klinik Lengg AG Bleulerstrasse 60",8008,,,,,,1800,,1800,hcp,eisai
+Philip Siebel,8500 FRAUENFELD,CH,Neurologie am Rosenberg Thundorferstrasse 120,8500,,,,,,800,,800,hcp,eisai
+Alexander Siebenhüner,8091 ZüRICH,CH,Universitätsspital Zürich Rämistrasse 100,8091,,,,,,1500,,1500,hcp,eisai
+"4Th Sfcns Congress 23.10.-25.10.2019 Organisator (Zahlungsempfänger) Imk Gegenleistung: Logopräsenz, Teilnahme Kongress",4001 Basel,CH,"Münsterberg 1,",4001,,,4717.26,,,,,4717.26,hco,eisai
+Berner Klinik Montana,3963 Crans-Montana,CH,Imp. Palace Bellevue,3963,,,750,,,,,750,hco,eisai
+Chuv- Hospices Service De Neurologie,1011 Lausanne,CH,Rue du Bugnon,1011,,,4808,,,5416.57,,10224.57,hco,eisai
+Centre De Chimiothérapie Anti- Cancéreuse Ccac Sa,1003 Lausanne,CH,Rue Langallerie,1003,,,1000,,,,,1000,hco,eisai
+Ente Ospedaliero Cantonale Bellinzona,6900 Lugano,CH,Via Tesserete 46,6900,,,2577,,,,,2577,hco,eisai
+European Association For The Study Of The Liver - Easl,1203 Geneva,CH,rue Daubin,1203,,,85508.97,,,,,85508.97,hco,eisai
+European Society For Medical Oncology,6900 Lugano,CH,via Ginevra,6900,,,209550.32,,,,,209550.32,hco,eisai
+Fortbildungsveranstal Tung In Zusammenarbeit Mit Senosuisse 2. Jahreshälfte 2019 Organisator (Zahlungsempfänger) Bv Congress Gmbh Gegenleistung: Erwähnung Als Sponsor,8625 Gossau,CH,Industriestrasse 37,8625,,,1615.5,,,,,1615.5,hco,eisai
+Gastrointestinales Tumorzentrum Zürich,8038 Zuerich,CH,Seestrasse,8038,,,3900,,,,,3900,hco,eisai
+Hfr Fribourg - Hôpital Cantonal,1708 Fribourg,CH,,1708,,,,,,1000,,1000,hco,eisai
+Hopitaux Universitaire De Geneve Secteur Facturation Aux Tiers,1225 Chene-Bourg,CH,Chemin du Petit-Bel- Air 2,1225,,,1500,,,,,1500,hco,eisai
+Hospital Du Valais- Chcvs,1951 Sion,CH,av. Grand- Champsec,1951,,,538.5,,,,,538.5,hco,eisai
+Inselspital,3010 Bern,CH,Universitätsspital Bern,3010,,,4615.5,,,1000,,5615.5,hco,eisai
+Institution De Lavigny,1175 Lavigny,CH,Route du Vignoble,1175,,,1000,,,,,1000,hco,eisai
+Kantonsspital Aarau Ag,5001 Aarau,CH,Tellstrasse,5001,,,4523.4,,,,,4523.4,hco,eisai
+Kantonsspital Baden Ag,5404 aden,CH,,5404,,,2615.5,,,,,2615.5,hco,eisai
+Kantonsspital Graubuenden Finanzen/Patientenad Min,7000 Chur,CH,Loeestrasse,7000,,,1500,,,,,1500,hco,eisai
+Kantonsspital Münsterlingen,8596 Münsterlingen,CH,Spitalcampus,8596,,,,,,250,,250,hco,eisai
+Kantonsspital St Gallen,9007 St Gallen,CH,Rorschacher Strasse,9007,,,11039.25,,,1077,,12116.25,hco,eisai
+Kantonsspital Winterthur,8401 Winterthur,CH,Brauerstrasse,8401,,,,,,750,,750,hco,eisai
+Klinik Bethesda,3233 Tschugg,CH,Postfach,3233,,,2000,,,,,2000,hco,eisai
+Klinik Lengg Ag,8008 Zürich,CH,Bleulerstrasse 60,8008,,,6000,,,,,6000,hco,eisai
+Luzerner Kantonsspital Medizinische Neurologie,6000 Luzern 16,CH,"Buchhaltung,",6000,,,1000,,,,,1000,hco,eisai
+Neurozentrum Oberaargau Ag,4900 Langenthal,CH,St. Urbanstrasse,4900,,,500,,,,,500,hco,eisai
+Sagb,8570 Weinfelden,CH,postfach 59,8570,,,500,,,,,500,hco,eisai
+Sasl Swiss Association For The Study Of Liver,8044 Zürich,CH,Toblerstrasse,8044,,,7500,,,,,7500,hco,eisai
+Schweizerische Gesellschaft Für Gastroen Terologie Sgg/ C/O Gabriela Kaufmann,3006 Bern,CH,Wattenwylerweg,3006,,,3231,,,,,3231,hco,eisai
+Schweizerische Gesellschaft Für Neuropäd,5036 Oberentfelden,CH,Blumenweg,5036,,,1200,,,,,1200,hco,eisai
+Schweizerische Liga Gegen Epilepsie,8034 Zuerich,CH,Seefeldstrasse,8034,,,3000,,,,,3000,hco,eisai
+Senoforum Della Svizzera Italiana 24.10.2019 Organisator (Zahlungsempfänger) Lt3 Suise Sagl Gegenleistung: Ausstellerstand,6830 Chiasso,CH,Via Bossi 50,6830,,,3769.5,,,,,3769.5,hco,eisai
+Songe - Centre Du Sein,1206 Genève,CH,Chemin de Beau- Soleil,1206,,,1500,,,,,1500,hco,eisai
+Stadtspital Triemli Zuerich Klinik Fuer Medizinische Onkologie&Haema,8063 Zuerich,CH,Birmensdorferstrasse,8063,,,3000,,,,,3000,hco,eisai
+"Swiss Oncology & Hematology Congress 26.06.-28.06.19 Organisator (Zahlungsempfänger) Sohc Gegenleistung: Logopräsenz, Teilnahme Kongress",8001 Zürich,CH,Talackerstrasse 50,8001,,,13462.5,,,,,13462.5,hco,eisai
+Universite D'Ete D'Eeg,1211 Geneve 4,CH,Rue Gabrielle Perret- Gentil,1211,,,2500,,,,,2500,hco,eisai
+Universitaetsspital Zuerich,8091 Zuerich,CH,Raemistrasse,8091,,,4846.5,,,,,4846.5,hco,eisai
+Universitaetsspital Basel,4031 Basel,CH,Petersgraben,4031,,,3692.5,,,,,3692.5,hco,eisai
