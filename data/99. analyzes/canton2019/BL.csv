@@ -1,0 +1,121 @@
+id,name,address,location,type,donations_grants,fees,registration_fees,related_expenses,sponsorship,travel_accommodation,total,Canton
+9482,Kantonsspital Basel-Land,Rheinstrasse 26,Liestal,hco,75000.0,29810.72,7071.210000000001,1400.0,145844.5,15565.519999999999,274691.95,BL
+10393,Toppharm AG,Grabenackerstrasse 15,Münchenstein,hco,,33150.0,,,30000.0,,63150.0,BL
+12719,TopPharm Apotheken und Drogerien Genossenschaft,Grabenackerstrasse 15,Münchenstein,hco,,,,,25154.0,,25154.0,BL
+8751,Brustzentrum Regio Basiliensis,Brennerstrasse 12,Allschwil,hco,9500.0,,,,11500.0,,21000.0,BL
+9560,LH Medical Management GmbH,Sonnenweg 27,Liestal,hco,,,,,17539.0,,17539.0,BL
+9693,Notfallkreis Sissach-Gelterkinden,Hirzenfeldweg 4,Läufelfingen,hco,,,,,17500.0,,17500.0,BL
+12557,Lerchengarten-Apotheke,Baslerstrasse 254,Allschwil,hco,,16000.0,,,,,16000.0,BL
+10025,Schweizer PH-Verein (für Menschen mit pulmonaler Hypertonie) Frau Therese Oesch,Am Stausee 14,Birsfelden,hco,,,,,11000.0,,11000.0,BL
+6461,Philipp Eich,"Klinik für Psychiatrie u, Psychotherapie, Bienentalstrasse 7",Liestal,hcp,,9000.0,496.0,43.0,,1031.0,10570.0,BL
+9861,Praxisklinik Binningen,Hauptstrasse 11,Binningen,hco,,,,,10000.0,,10000.0,BL
+9885,Psychiatrie Baselland,Bienentalstrasse 7,Liestal,hco,,1500.0,,,8100.0,,9600.0,BL
+10469,Verein Qualitätszirkel Muttenz,Hauptstrasse 54,Muttenz,hco,,,,,9550.0,,9550.0,BL
+2820,Florian Weisskopf,Hauptstrasse 55,Binningen,hcp,,1000.0,822.0,,,7581.3,9403.3,BL
+4339,Katja Birgit Hatz,"Vista Klinik Ophthalmologische Klinik, Hauptstrasse 55",Binningen,hcp,,1638.0,476.0,135.84,,5279.35,7529.1900000000005,BL
+2529,Emanuel Burri,Kantonsspital Baselland Rheinstrasse 26,Liestal,hcp,,6200.0,,,1300.0,,7500.0,BL
+3265,Urs Beat Gröflin,Hauptstrasse 3,Binningen,hcp,,5900.0,,,,364.0,6264.0,BL
+9191,Ges. für Neurologie und Neurochirurgie Regio Basilensis c/o   Matthias Stallmach,Emil Frey-Str. 85,Münchenstein,hco,,,,,5800.0,,5800.0,BL
+3335,Hakan Sarikaya,Langenhagweg 12,Reinach BL,hcp,,4250.0,,,,1500.0,5750.0,BL
+10853,Caroline Purek-Pfau,Christoph Merian-Ring 11,Reinach BL,hcp,,4500.0,,,,,4500.0,BL
+1389,Cengiz Türksever,Hauptstrasse 55,Binningen,hcp,,2225.0,468.8,,,1482.4,4176.200000000001,BL
+10495,"Vista Klinik AG Binningen, Ophthalmologische Tagesklinik",Hauptstrasse 55,Binningen,hco,3500.0,500.0,,,,,4000.0,BL
+1962,Dagmar Charlotte Schött,Hauptstrasse 7,Binningen,hcp,,3075.0,183.35,,,642.25,3900.6,BL
+10946,Cyrille Fleischlin,Bahnhofstrasse 4,Liestal,hcp,,750.0,921.35,,,2106.0,3777.35,BL
+1637,Christoph Gut,Hauptstrasse 45,Reinach BL,hcp,,,1369.6,,,2249.3100000000004,3618.9100000000003,BL
+3354,Hans-Dieter Hüllstrung,Weierweg 7,Liestal,hcp,,1800.0,590.76,,,1053.48,3444.2400000000002,BL
+14248,Werner Tschan,"Praxis Dr. Kast / Dr. Tschan, Baslerstrasse 353",Allschwil,hcp,,3000.0,,271.8,,,3271.8,BL
+14749,Verein Lymphome.Ch Ho/Noho Schweizerische Patientenorganisation Für Lymphombetroffene,Weidenweg 39,Aesch Bl,hco,,,,,3000.0,,3000.0,BL
+2584,Erich Köhler,Rheinstrasse 26,Liestal,hcp,,,1078.9,,,1910.77,2989.67,BL
+9552,Leimapharm AG,Erlenstrasse 29,Therwil,hco,,,,,2900.0,,2900.0,BL
+14579,Migraine Action,Oberwilerstrasse 48,Bottmingen,hco,,,,,2893.0,,2893.0,BL
+9301,Hausärzte Qualitätszirkel Liestal,Kesselweg 40,Liestal,hco,,,,,2700.0,,2700.0,BL
+3077,Geneviève Favre Schmuziger,"Kantonsspital Baselland Liestal Medizin Onkologie, Rheinstrasse 26",Liestal,hcp,,1725.0,452.25,,,421.32,2598.57,BL
+12392,Yasmin Ruiz,Hauptstrasse 55,Binningen,hcp,,,534.0,,,2051.35,2585.35,BL
+12263,Birsen Arici,Rathausstrasse 24,Liestal,hcp,,,889.0,,,1660.0,2549.0,BL
+10282,Stiftung zur Förderung Medizinischer und biologischer Forschung c/o Prof. Dr. Christoph Beglinger,Bruggweg 28,Arlesheim,hco,,2500.0,,,,,2500.0,BL
+12505,Gynäkologenkongress Basel c/o Praxisklinik Binningen,Hauptstrasse 11,Binningen,hco,,,,,2500.0,,2500.0,BL
+6083,Oliver Philip Kreyden,"Praxis Methininserhof, Baselstrasse 9",Muttenz,hcp,,,1980.0,,,461.0,2441.0,BL
+184,Alexander Martin,Rheinstrasse 16,Liestal,hcp,,1500.0,301.03,,,610.49,2411.52,BL
+11358,Johannes Rischewski,Mitteldorfstrasse 6,Reinach,hcp,,1500.0,324.78,,,513.18,2337.96,BL
+6392,Peter Schiller,Mühlegasse 3,Liestal,hcp,,2173.08,,,,,2173.08,BL
+171,Walo Alexander Iseli,Weierweg 7,Liestal,hcp,,,1254.0,,,912.0,2166.0,BL
+7170,Sandrine Meyer-Monard,"Praxis Sandrine Meyer-Monard, Baslerstrasse 35",Allschwil,hcp,,850.0,296.0,,,1001.0,2147.0,BL
+14129,Stephan Imper,Oberemattstrasse 33,Pratteln,hcp,,,150.0,,,1903.35,2053.35,BL
+14549,Klinik für Psychiatrie und Psychotherapie,Bienentalstrasse 7,Liestal,hco,,,,,2000.0,,2000.0,BL
+6087,Oliver Tanneberger,"Praxis Oliver Tanneberger, Bahnhofstrasse 19",Oberwil BL,hcp,,1557.75,84.85,,,292.05,1934.6499999999999,BL
+14271,Andreas Lohri,Hauptstrasse 70,Birsfelden,hcp,,875.0,670.0,,,371.0,1916.0,BL
+9561,Pflegeakademie,"c/o LH Medical Managemenet GmbH, Postfach 278",Liestal,hco,,,,,1900.0,,1900.0,BL
+13928,Peter Voss,Lochbruggstrasse 39,Laufen,hcp,,,470.8,,,1330.2,1801.0,BL
+13720,Mark Fox,Pfeffingerweg 1,Arlesheim,hcp,,1750.0,,,,,1750.0,BL
+7161,Sandra Michel,Birseckstrasse 99,Arlesheim,hcp,,,565.63,,,1140.03,1705.6599999999999,BL
+12881,Agnieszka Starnawska,Bruggstrasse 12A,Reinach BL,hcp,,,355.35,,,1295.3,1650.65,BL
+13012,Annina Althaus,Ob. Rebbergweg 20,Reinach BL,hcp,,,710.0,,,940.0,1650.0,BL
+2215,Wolfgang Alexander Deglmann,Wasserturmplatz 2,Liestal,hcp,,1020.0,340.0,,,263.0,1623.0,BL
+7750,Theo Signer,"Vista Klinik, Hauptstrasse 55",Binningen,hcp,,,360.0,,,1200.0,1560.0,BL
+10973,Daniel Weber,Hauptstrasse 90,Binningen,hcp,,,437.0,,,1099.9,1536.9,BL
+4279,Karl A. Steuer,Brennerstrasse 12,Allschwil,hcp,,850.0,271.0,,,393.0,1514.0,BL
+3640,Ioannis Papadopoulos,Reinacherstrasse 28,Münchenstein,hcp,,700.0,331.0,,,479.0,1510.0,BL
+10571,Ärzteverein Leimental,"Spezialarzt FMH Endokrinologie, Diabetologie & klinische Ernährung - Hauptstrasse 35",Binningen,hco,,,,,1500.0,,1500.0,BL
+5429,Matthias Stallmach,"Neurologie am Schaulager, Emil Frey-Strasse 85",Münchenstein,hcp,,1500.0,,,,,1500.0,BL
+4865,Marc Gutmann,Rheinstrasse 26,Liestal,hcp,,1500.0,,,,,1500.0,BL
+9798,Pharmazeutische Gesellschaft BS,Sodackerweg 2,Blauen,hco,,,,,1500.0,,1500.0,BL
+14791,Kantonsspital Baselland Liestal,Mühlemattstrasse 26,Liestal,hco,,,,,1500.0,,1500.0,BL
+6472,Philipp Martin,Baslerstrasse 96,Allschwil,hcp,,,782.25,,,711.75,1494.0,BL
+12976,Angelo Montesanto,Reinacherstrasse 28,Münchenstein,hcp,,,442.0,,,1013.35,1455.35,BL
+10703,Angela Wolf,Hauptstrasse 70,Birsfelden,hcp,,,639.73,,,790.32,1430.0500000000002,BL
+911,Beat Urs Althaus,Angensteinerstrasse 5,Reinach,hcp,,,591.0,,,775.0,1366.0,BL
+4642,loannis Papadopoulos,Münchensteinerstrasse 10,Muttenz,hcp,,1299.0,,,,,1299.0,BL
+7151,Sandor Balint,Hauptstrasse 129,Binningen,hcp,,500.0,453.6,,,344.4,1298.0,BL
+1755,Claude Henri Diesch,Rheinstrasse 16,Liestal,hcp,,,558.3,,,709.36,1267.6599999999999,BL
+6862,Robert Katamay,Hauptstrasse 55,Binningen,hcp,,,472.65,,,781.55,1254.1999999999998,BL
+8949,Diagene Gmbh,Kägenstrasse 17,Reinach Bl,hco,,1100.0,,140.56,,,1240.56,BL
+14013,Sabri Hanna,Hauptstrasse 1,Binningen,hcp,,1200.0,,,,,1200.0,BL
+14666,Schweizerische Verband medizinischer Praxis-Fachpersonen (SVA),Schützenstrasse 24,Birsfelden,hco,,,,,1200.0,,1200.0,BL
+12896,Alexander Skall,Seltisbergerstrasse 54,Liestal,hcp,,,458.43,,,732.73,1191.16,BL
+13887,Olivier Friesewinkel,"Herzpraxis Birseck, Birseckstrasse 85",Arlesheim,hcp,,800.0,299.97,,,81.83,1181.8,BL
+13857,Nicole Monique Wyss Raeber,Viehmarktgasse 37,Laufen,hcp,,,396.0,,,748.0,1144.0,BL
+14194,Tilo Blechschmidt,Hauptstrasse 1,Binningen,hcp,,,357.35,,,778.65,1136.0,BL
+13956,Pirmin Häuptle,Mühlenmatt 13,Liestal,hcp,,,61.87,,,1069.6,1131.4699999999998,BL
+3217,Giuseppe Spatola,Hauptstrasse 56,Birsfelden,hcp,,200.0,305.68,,,583.62,1089.3,BL
+2970,Urs René Freiburghaus,"FMH Allgemeine Innere Medizin, Bahnhofstrasse 31",Therwil,hcp,,,307.7,,,746.35,1054.05,BL
+14002,Rosetta Meier,Oristalstrasse 25,Liestal,hcp,,,168.65,,,862.7,1031.3500000000001,BL
+14251,Wolfgang Sanwald,Rheinstrasse 53,Liestal,hcp,,,452.0,,,557.35,1009.35,BL
+14187,Thomas Michael Müller,"Vista Klinik Ophthalmologische Klinik, Hauptstrasse 55",Binningen,hcp,,1000.0,,,,,1000.0,BL
+9313,Hautpraxis,Mühlegasse 3,Liestal,hco,,1000.0,,,,,1000.0,BL
+11499,Luzia Baumeler,Rheinstrasse 26,Liestal,hcp,,,350.08,,,639.78,989.8599999999999,BL
+4700,Lucien Csizy-Botond,Rheinstrasse 16,Liestal,hcp,,,396.0,,,561.3,957.3,BL
+13319,Estlinbaum Toni,Nonnenmattstrasse 2,Ettingen,hcp,,,321.7,,,596.9,918.5999999999999,BL
+13579,Katharina Belge,Im Reinacherhof 53,Reinach Bl,hcp,,,368.48,,,546.36,914.84,BL
+14128,Stephan Galli,Frenkenstrasse 19,Hölstein,hcp,,,325.42,,,543.92,869.3399999999999,BL
+13725,Markus Gallati,Feldstrasse 43,Allschwil,hcp,,807.75,,,,,807.75,BL
+13190,Claudia Rischewski,Mitteldorfstrass e 6,Reinach BL,hcp,,,324.78,,,482.61,807.39,BL
+4905,Marcel Furrer-Suter,"Praxis Marcel Furrer-Suter, Birseckstrasse 85",Arlesheim,hcp,,800.0,,,,,800.0,BL
+11004,Dieter Johann Müller,Bahnhofstrasse 27,Pratteln,hcp,,,319.57,,,479.77,799.3399999999999,BL
+13593,Katrin Ochsner-Bruderer,Rottmannsboden strasse 5,Binningen,hcp,,,396.0,,,403.3,799.3,BL
+921,Beat Gysi,Hauptstrasse 52,Reinach BL,hcp,,,318.92,,,451.18,770.1,BL
+7522,Stephan Bürgin,Reinacherstrasse 28,Münchenstein,hcp,,700.0,,,,,700.0,BL
+13133,Christian Burkhardt,"NeuroPraxis Birseck, Langenhagweg 12",Reinach BL,hcp,,700.0,,,,,700.0,BL
+7028,Rudolf Argay,Mittlerer Kreis 2,Therwil,hcp,,,252.0,,,421.0,673.0,BL
+4805,Maja-Bettina Brenner,Im Reinacherhof 53,Reinach Bl,hcp,,,313.1,,,293.1,606.2,BL
+13211,Cyrill Meuwly,Rheinstrasse 26,Liestal,hcp,,600.0,,,,,600.0,BL
+4204,Jürg Spiess,Hauptstrasse 46 A,Sissach,hcp,,,272.0,,,320.0,592.0,BL
+5529,Michael Ammon,"Praxis Michael Ammon, Kasernenstrasse 22a",Liestal,hcp,,,575.15,,,,575.15,BL
+5562,Michael Hertsch,Hauptstrasse 129,Binningen,hcp,,,,,,566.5,566.5,BL
+13767,Meyer-Bertheau Jeannine,Barcelona-Strasse 15,Münchenstein,hcp,,,372.5,,,134.35,506.85,BL
+8552,AG Kardiovaskuläre Pflege,Keltenweg 22,Pfeffingen,hco,,,,,500.0,,500.0,BL
+13284,Egli Regula Steinlin,Wilhelm Denz-Strasse 63,Binningen,hcp,,500.0,,,,,500.0,BL
+14247,Werner Janz,"Praxis Dr. Janz Werner, Gartenstadt 5",Münchenstein,hcp,,,333.33,,,166.67,500.0,BL
+14243,Wandeler-Meyer Katja,Güterstrasse 9,Pratteln,hcp,,500.0,,,,,500.0,BL
+13467,Irène Müller Zimmermann,Lehmgrubenweg 12,Therwil,hcp,,,335.0,,,96.0,431.0,BL
+1101,Bettina Maria Seifert Weinbacher,"Kantonsspital Baselland Liestal Medizin Onkologie, Rheinstrasse 26",Liestal,hcp,,400.0,,,,,400.0,BL
+1339,Caroline Otth,Hauptstrasse 41,Diegten,hcp,,,,,,364.0,364.0,BL
+7005,Roschanak Yazdanfar-Thiele,Hauptstrasse 41,Diegten,hcp,,,,,,364.0,364.0,BL
+10811,Besnik Abazi,Rufsteinweg 1,Liestal,hcp,,,,,,336.0,336.0,BL
+2528,Eléonore Söhnlin,"Praxis Dr. Söhnlin Eléonore, Hauptstrasse 40",Reinach BL,hcp,,,333.33,,,,333.33,BL
+14624,Praxisklinik Methininserhof,Baselstrasse 9,Muttenz,hco,,,,,300.0,,300.0,BL
+3212,Giuliana Piccoli,"Praxis Giuliana Piccoli, Dorfstrasse 29/31",Zwingen,hcp,,,225.0,,,57.8,282.8,BL
+472,Andreas Unger,Lochbruggstrasse 39,Laufen,hcp,,,191.0,,,,191.0,BL
+13879,Olga Magdalena Filipowicz Sinnreich,Rheinstrasse 26,Liestal,hcp,,165.0,,,,,165.0,BL
+13855,Nicole Hochuli-Bugmann,Rheinstrasse 26,Liestal,hcp,,,88.0,,,,88.0,BL
+10675,Andreas Frei,"Psychiatrie Baselland, Bienentalstrasse 7",Liestal,hcp,,,,,,82.6,82.6,BL

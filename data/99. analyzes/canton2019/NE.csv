@@ -1,0 +1,120 @@
+id,name,address,location,type,donations_grants,fees,registration_fees,related_expenses,sponsorship,travel_accommodation,total,Canton
+12835,Hôpital neuchâtelois Pourtalès,Rue De La Maladière 45,Neuchâtel,hco,5900.0,9200.0,2833.9,,23600.0,3649.55,45183.450000000004,NE
+10430,Université de Neuchâtel,Av. du 1er-Mars 26,Neuchâtel,hco,40000.0,,,,,,40000.0,NE
+14396,Association des Cardiologues indépendants Neuchâtelois (ACINE),Rue du Trésor 9,La Chaux-de-Fonds,hco,,,,,30000.0,,30000.0,NE
+8659,Association Journées de Gériatrie de la T'Chaux c/o Dr. Mauro Walter Gusmini,Rue de la Serre 7,La Chaux-de-Fonds,hco,,,,,26000.0,,26000.0,NE
+10150,Société Neuchâteloise de Médecine SNM,Grand'rue 36bis,Couvet,hco,,,,,19000.0,,19000.0,NE
+3951,Jérôme Voegeli,Rue De La Montagne 2,La Chaux-de-Fonds,hcp,,,2481.61,,,11084.33,13565.94,NE
+14830,RHNe - Réseau hospitalier neuch. La Chaux-de-Fonds,Rue de la Serre 63,La Chaux-de-Fonds,hco,,5000.0,,,7100.0,,12100.0,NE
+14423,Cabinet médical POD 16-18,Avenue Léopold-Robert 16-18,La Chaux-De-Fonds,hco,12000.0,,,,,,12000.0,NE
+62,Agnès Auteri,Rue de Chasseral 20,La Chaux-de-Fonds,hcp,,,2130.04,,,6739.81,8869.85,NE
+8837,"Centre Neuchâtelois de Psychiatrie, Site de Préfargier",Rue de l’Ecluse 67,Marin,hco,,,,,7500.0,,7500.0,NE
+8835,Centre Neuchâtelois d'Ophtalmologie SA,Rue des Poteaux 8,Neuchâtel,hco,,,,,6500.0,,6500.0,NE
+6193,Patric Kurmann,Rue Du Seyon 10,Neuchâtel,hcp,,3450.0,963.03,,,1687.64,6100.67,NE
+14518,Hôpital de Pourtales,Rue de la Maladière,Neuchâtel,hco,,,,,5000.0,,5000.0,NE
+9361,Hôpital La Chaux-de-Fonds,Rue de Chasseral 20,La Chaux-de-Fonds,hco,,,621.6,,3000.0,1245.81,4867.41,NE
+2355,Dominique Piguet,Ruelle du Peyrou 2,Neuchâtel,hcp,,,522.05,,,4320.43,4842.4800000000005,NE
+6247,Patrick Monnier,Cabinet médical FMH cardiologie Avenue Léopold-Robert 12,La Chaux-de-Fonds,hcp,,1550.0,925.9,,,1797.07,4272.97,NE
+15,Abdou El Azizi Ali El Wafa,Avenue Léopold-Robert 16-18,La Chaux-de-Fonds,hcp,,1000.0,872.6,,,2151.45,4024.0499999999997,NE
+9175,GDNE (groupe des dermatologues de Neuchâtel et environs),Dr Ghislain Faivre,La Chaux-de-Fonds,hco,,,,,4000.0,,4000.0,NE
+3242,Gregory Clark,Rue Numa-Droz 187 A,La Chaux-de-Fonds,hcp,,500.0,783.26,,,2580.85,3864.1099999999997,NE
+3820,Jean-Marc Fellrath,Rue de la Maladière 45,Neuchâtel,hcp,,2000.0,531.71,,,1202.85,3734.56,NE
+1150,Laure Brulhart Bletsas,Rue de Chasseral 20,La Chaux-de-Fonds,hcp,,2000.0,669.0,,,1050.0,3719.0,NE
+14857,Permanence Volta SA,Rue Numa-Droz 187,La Chaux-de-Fonds,hco,,,,,3500.0,,3500.0,NE
+1924,Cyril Pellaton,Rue de la Maladière 45,Neuchâtel,hcp,,2200.0,416.41,,,790.19,3406.6,NE
+9029,Etablissement Hospitaliere Multisite cantonal - EHM,domicilier à,Neuchâtel,hco,,1375.0,,,2000.0,,3375.0,NE
+6515,Philippe Lê,Avenue des Portes Rouges 141,Neuchâtel,hcp,,,1016.0,,,2038.0,3054.0,NE
+9656,MFE Médecins de famille et de l’enfance Neuchâtel President Dr. med. Vladimir Mayor,Rue du Verger 9,Colombier NE,hco,1000.0,,,,2000.0,,3000.0,NE
+1088,Bertrand Pilly,"Cabinet Bertrand Pilly, Rue des Poteaux 8",Neuchâtel,hcp,,500.0,725.35,,,1751.65,2977.0,NE
+10952,Dahlia Thao Cao,Rue Des Beaux-Arts 18,Neuchâtel,hcp,,,684.0,,,2148.0,2832.0,NE
+8900,CNP-Centre neuchâtelois,Rue de Vieux-Châtel 20,Neuchâtel,hco,,,,,2750.0,,2750.0,NE
+9383,Hôpitalde La Providence,Faubourg De L'Hôpital81,Neuchâtel,hco,,,,,2500.0,,2500.0,NE
+2656,Eva Marie Irene Littig,Ruelle Dublé 3 / Rue du Seyon 8,Neuchâtel,hcp,,,1029.67,,,1458.77,2488.44,NE
+7135,Salvador Nkondjo,Groupe médical NEUMED Avenue Léopold-Robert 60,La Chaux-de-Fonds,hcp,,,255.28,,,2171.92,2427.2000000000003,NE
+3545,Hinde Benchaa,Rue Dechasseral 20,La Chaux-de-Fonds,hcp,,,796.65,,,1497.35,2294.0,NE
+3567,Michel Hunkeler,Route de Landeyeux,Fontaines NE,hcp,,,586.43,,,1495.48,2081.91,NE
+14439,Clinique Volta,Rue Numa-Droz 185,La Chaux-de-Fonds,hco,,,,,2000.0,,2000.0,NE
+14430,Centre neuchâtelois de psychiatrie,Site de Préfargier,Boudry,hco,,,,,2000.0,,2000.0,NE
+9720,Ordre Neuchâtelois Des Pharmaciens,Rue De La Serre 4,Neuchâtel,hco,,,,,2000.0,,2000.0,NE
+12678,SNM Société Neuchâteloise de Médecine,Rue de Chasserai 20,La Chaux-de-Fonds,hco,,,,,2000.0,,2000.0,NE
+12367,Saskia Ditisheim,Faubourg De L'hôpital 81,Neuchâtel,hcp,,800.0,244.42,,,885.0,1929.42,NE
+13645,Ludovic Allard,Rue de la Maladière 45,Neuchâtel,hcp,,,629.3,,,1262.23,1891.53,NE
+14036,Sanjeev Vamadevan,Rue du Château 25,Peseux,hcp,,,680.0,,,1172.0,1852.0,NE
+2152,Daphné Du Pasquier,"Spital Neuenburg, Maladière 45",Neuchâtel,hcp,,,444.1,,,1357.9,1802.0,NE
+10609,Alain Sauty,Rue de la Maladière 45,Neuchâtel,hcp,,500.0,531.71,,,704.37,1736.08,NE
+4964,Marco Salvi,Rue du Musée 9,Neuchâtel,hcp,,,669.0,,,1050.0,1719.0,NE
+14596,Oncologie et Hématologie,Rue De La Maladière 45,Neuchâtel,hco,,,621.0,,,1055.98,1676.98,NE
+9570,Ligue pulmonaire neuchâteloise,Rue de la Gare 4,Peseux,hco,,,,,1671.31,,1671.31,NE
+8973,HNE - Hopital Neuchatelois,Rue de la Maladière 45,Neuchâtel,hco,,,,,1616.0,,1616.0,NE
+14269,Alexandre Guinand,Avenue Léopold-Robert 13,La Chaux-de-Fonds,hcp,,1600.0,,,,,1600.0,NE
+2457,Eirini Kouroupi,Rue De La Maladière 45,Neuchâtel,hcp,,600.0,226.55,,,745.68,1572.23,NE
+6666,Ralf Kiel,"Cabinet Ralf Kiel, Rue des Poteaux 8",Neuchâtel,hcp,,,365.35,,,1194.7,1560.0500000000002,NE
+13717,Maritza Calame De Bernardini,Rue des Poteaux 8,Neuchâtel,hcp,,,398.0,,,1102.7,1500.7,NE
+14494,Group de psychiatres de La Chaux-de-Fonds,Rue du Grenier 22,La Chaux-de-Fonds,hco,,,,,1500.0,,1500.0,NE
+9087,Fondation ADMed PATHOLOGIE AD,Landeyeux,Boudevilliers,hco,,1500.0,,,,,1500.0,NE
+14138,Stéphane Saillant,Maladière 45,Neuchâtel,hcp,,1500.0,,,,,1500.0,NE
+14137,Stéphane Saillant,"Centre Neuchâtelois Psychiatrie, Site de Préfargier",Marin-Epagnier,hcp,,1500.0,,,,,1500.0,NE
+14175,Tereza Damoc,Hôpital neuchâtelois La Chaux-de-Fonds,La Chaux-de-Fonds,hcp,,,403.0,,,1095.0,1498.0,NE
+5760,Monia Touati Sarraj,Rue J.-J.-Lallemand 11,Neuchâtel,hcp,,,121.23,,,1326.1,1447.33,NE
+13407,Gregory Podilsky,"Hôpital neuchâtelois Pourtalès, Rue de la Maladière 45",Neuchâtel,hcp,,,642.32,,,794.51,1436.83,NE
+14344,Raphaël Morales,Avenue de la Gare 1,Fleurier,hcp,,,196.0,,,1194.0,1390.0,NE
+1840,Olivier Clerc,Rue de la Maladière 45,Neuchâtel,hcp,,1375.0,,,,-2.0,1373.0,NE
+707,Antoine Wildhaber,Ruelle Dupeyrou 2,Neuchâtel,hcp,,,554.93,,,794.61,1349.54,NE
+5138,Marius Dragos,Rue de la Serre 5,Neuchâtel,hcp,,,656.0,,,647.0,1303.0,NE
+632,Anne Pelet,"Drop-In, Rue des Fausses-Brayes 5",Neuchâtel,hcp,,,278.0,,,996.0,1274.0,NE
+8205,Vincent Cattin,Faubourg de l'Hôpital 65,Neuchâtel,hcp,,,5.35,,,1262.56,1267.9099999999999,NE
+3882,Jean-Paul Ketterer,Avenue Léopold-Robert 11,La Chaux-de-Fonds,hcp,,,226.11,,,1038.93,1265.04,NE
+13022,Antonio Tumminello,,La Tène,hcp,,,487.75,,,770.99,1258.74,NE
+7345,Simon Vonmoos,Rue Saint-Maurice 12,Neuchâtel,hcp,,,226.11,,,1004.86,1230.97,NE
+1561,Christiane Zenklusen,Faubourg de l'Hôpital 65,Neuchâtel,hcp,,1200.0,,,,,1200.0,NE
+6911,Roger Gubser,Rue Champréveyres 4,Neuchâtel,hcp,,1200.0,,,,,1200.0,NE
+3340,Hamid-Reza Eslam,Rue Bellevue 7,Marin-Epagnier,hcp,,,317.98,,,875.21,1193.19,NE
+12917,Amira Kasri,Rue des Poteaux 8,Neuchâtel,hcp,,,,,,1180.7,1180.7,NE
+14135,Stéphane Gloor,Rue de Chasseral 20,La Chaux-de-Fonds,hcp,,,478.0,,,690.0,1168.0,NE
+2645,Eva Daiana Pusca,Rue de la Serre 5,Neuchâtel,hcp,,,496.0,,,647.0,1143.0,NE
+13068,Benoit Morel,Rue Pury 4,Neuchâtel,hcp,,,326.65,,,796.65,1123.3,NE
+11563,Marie Hofer,Rue de la Maladière 45 Hôpital Pourtalès,Neuchâtel,hcp,,,531.71,,,556.0,1087.71,NE
+12028,Sophie Stoppa-Vaucher,Rue de la Maladière 45,Neuchâtel,hcp,,,330.0,,,743.0,1073.0,NE
+9345,Hopital Neuchatelois,Formation Continue,La Chaux-De-Fonds,hco,,,,,1063.0,,1063.0,NE
+6309,Pavel Nanu,Avenue Léopold-Robert 12,La Chaux-de-Fonds,hcp,,,190.0,,,868.8,1058.8,NE
+13077,Bertrand Curty,"Centre Médical de la Côte SA, Rue du Petit- Berne 14",Corcelles NE,hcp,,,466.92,,,572.02,1038.94,NE
+14689,SNP Société neuchâteloise de pédiatrie,Place du Marché Rue de Flandres 7,Neuchâtel,hco,,,,,1000.0,,1000.0,NE
+10417,Universite d'été ENMG,Avenue Leopold-Robert 86,La Chaux-de-Fonds,hco,,,,,1000.0,,1000.0,NE
+12429,Cabinet Dr Faivre Ghislain,Rue Jardinière 71,La Chaux-de-Fonds,hco,,,,,1000.0,,1000.0,NE
+12721,Université d’automne Ochsner,Rue Numa-Droz 187,La Chaux-de-Fonds,hco,,,,,1000.0,,1000.0,NE
+13413,Guillaume Buss,Faubourg de l'hôpital 65,Neuchâtel,hcp,,,253.93,,,740.47,994.4000000000001,NE
+14166,Sylvie Maître,Rue du Petit-Berne 14,Corcelles NE,hcp,,,253.93,,,689.8,943.73,NE
+8362,Yann Martinet,"Drop-In, Rue des Fausses-Brayes 5",Neuchâtel,hcp,,,278.0,,,654.0,932.0,NE
+8248,Vlronique Negrel,"Cabinet Vlronique Negrel, Faubourg de l'Hôpital 81",Neuchâtel,hcp,,400.0,,21.0,,478.0,899.0,NE
+4141,Jérôme Cluzeau,"Centre Prévention Traitement des Addictions, Hôtel-de-Ville 27",La Chaux-de-Fonds,hcp,,,278.0,,,614.0,892.0,NE
+8430,Zürcher Zenklusen Régula,Rue de la Maladière 45,Neuchâtel,hcp,,,308.2,,,583.28,891.48,NE
+14033,Sandra Van Den Broecke,"Hôpital neuchâtelois, Rue de la Maladière 45",Neuchâtel,hcp,,,156.0,,,726.0,882.0,NE
+10799,Benjamin Guyon,Rue Pury 4,Neuchâtel,hcp,,,374.0,,,491.35,865.35,NE
+4496,Mustapha Labacci,Rue Des Billodes27,Le Locle,hcp,,850.0,,,,,850.0,NE
+13800,Mihai Stefan Tugui,Avenue Léopold-Robert 66,La Chaux-de-Fonds,hcp,,,271.8,,,564.4,836.2,NE
+5087,Marie-Claude Blaser,"Centre Prévention Traitement des Addictions, Hôtel-de-Ville 27",La Chaux-de-Fonds,hcp,,,278.0,,,548.0,826.0,NE
+13099,Bruno Cayatte,Faubourg du Lac 7,Neuchâtel,hcp,,800.0,,,,,800.0,NE
+14497,Groupement d'Intervision Baumann,Rue de Soleure 1,Le Landeron,hco,,,,,800.0,,800.0,NE
+13021,Antonio Carlos Rosa,Rue du Trésor 9,Neuchâtel,hcp,,800.0,,,,,800.0,NE
+14498,Groupement GIB,rue de Soleure 1,Le Landeron,hco,,,,,800.0,,800.0,NE
+2750,Felix Gueissaz,"Cabinet Felix Gueissaz, Avenue du Premier-Mars 33",Neuchâtel,hcp,,800.0,,,,,800.0,NE
+8507,Société Neuchâteloise de Pédiatrie,Côte 2,Le Locle,hco,,,,,750.0,,750.0,NE
+11777,Oana Diringer,CNP - Centre neuchâtelois de psychiatrie - Site de Préfargier,Marin-Epagnier,hcp,,,348.5,,,392.3,740.8,NE
+758,Marielle Bily,Rue de Chasseral 20,La Chaux-de-Fonds,hcp,,,160.0,,,552.0,712.0,NE
+10755,Atanas Patourov,Ruelle Dublé 6,Neuchâtel,hcp,,,,,,692.0,692.0,NE
+3895,Jean-Pierre Caretti,Rue du Grenier 11,Fleurier,hcp,,,,,,613.0,613.0,NE
+12241,Amara Pieren Salazar,Rue de Chasseral 20,La Chaux-de-Fonds,hcp,,,604.0,,,,604.0,NE
+14167,Sylvie Morales,Avenue de la Gare 1,Fleurier,hcp,,,234.0,,,367.0,601.0,NE
+14829,"Hôpital neuchâtelois, Département de Pédiatrie",Maladière 45,Neuchâtel,hco,,,,,600.0,,600.0,NE
+908,Baya-Laure Pégard,"Cabinet Dr Pégard Baya-Laure, Avenue du 1 er Mars 24",Neuchâtel,hcp,,,,,,507.0,507.0,NE
+14496,Groupe Des Dermatologues Genevois,Jardiniere 71,La Chaux-de-Fonds,hco,,,,,500.0,,500.0,NE
+13088,Blaser Jérémie,Rue du Temple 4,Bevaix,hcp,,,370.4,,,103.35,473.75,NE
+13553,Jénin Nathalie,Rue du Concert 2,Neuchâtel,hcp,,,370.4,,,103.35,473.75,NE
+5827,Myrvete Kryeziu,Rue du Temple 4,Bevaix,hcp,,,370.4,,,103.35,473.75,NE
+13600,Kiel-Delachaux Anne Geneviève,Rue du Basisn 6,Neuchâtel,hcp,,,370.4,,,103.35,473.75,NE
+8206,Vincent Freiburghaus,Cabinet de I'Entre-deux-Lacs Rue Du Centre 2,Le Landeron,hcp,,,,,,431.0,431.0,NE
+12024,Sophie Guinand,Rue du Centre 2,Le Landeron,hcp,,,,,,431.0,431.0,NE
+14700,Sponsor du groupe d'intervision GIB,24 Ave du 1er Mars,Neuchâtel,hco,,,,,400.0,,400.0,NE
+11799,Pascal Talla,Rue De La Maladière 45,Neuchâtel,hcp,,,302.0,,,,302.0,NE
+10641,Alexis Berginc,Site de Préfargier,Marin-Epagnier,hcp,,,,,,155.0,155.0,NE
+11549,Maria Gallardo Guillen,Site de Préfargier,Marin-Epagnier,hcp,,,,,,75.0,75.0,NE

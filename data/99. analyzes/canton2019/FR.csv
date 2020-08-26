@@ -1,0 +1,140 @@
+id,name,address,location,type,donations_grants,fees,registration_fees,related_expenses,sponsorship,travel_accommodation,total,Canton
+8898,Kollegium für Hausarztmedizin,Rue de l'Hôpital 15,Fribourg,hco,,,,,278701.18999999994,,278701.18999999994,FR
+8492,Société Suisse de Pédiatrie - Schweizerische Gesellschaft für Pädiatrie,Rue de l'Hôpital 15,Fribourg,hco,,,,,108547.5,,108547.5,FR
+8550,Affidea Cimed,Rue de Romont 24,Fribourg,hco,,,,,65500.0,,65500.0,FR
+9093,Fondation fribourgeoise pour la recherche et la formation sur le cancer,Rue Max von Sachsen 4,Bourguillon,hco,22500.0,,,,19500.0,,42000.0,FR
+9331,Hopital Fribourgeois,Chemin Des Pensionnats,Fribourg,hco,,2250.0,,,20500.0,,22750.0,FR
+9550,RFSM - Réseau Fribourgeois de santé mentale,l'Hôpital 140 Case postale 90,Marsens,hco,,300.0,,,21462.0,,21762.0,FR
+9782,Pharmacies BENU SA,Avenue du Centre 6,Villars-sur-Glâne,hco,,,,,15375.0,,15375.0,FR
+9201,Gesundes Rheintal,Ballengasse 9,Oberriet,hco,,,,,12000.0,,12000.0,FR
+12302,Gregor Hasler,Chemin du Cardinal Journet 3,Villars-sur-Glâne,hcp,,11700.0,,,,,11700.0,FR
+14867,"SAMO c/o Klinik für Onkologie, HFR Fribourg-Kantonsspital",Chemin des Pensionnats 2 6,Fribourg,hco,,,,,11000.0,,11000.0,FR
+12823,Groupement des medecins du sud fribourgeois,Route de l'Intyamon 113,La Tour-de-Trême,hco,,,,,9600.0,,9600.0,FR
+9013,Equipage-UTC,chemin des Botchets 24,Zénauva,hco,2000.0,,,,7000.0,,9000.0,FR
+1090,Daniel Betticher,Chemin des Pensionnats 2,Fribourg,hcp,,7375.0,670.0,,,484.0,8529.0,FR
+9083,Fond. frib. recherche sur cancer,Rue Max von Sachsen 4 c/o Prof. Daniel Betticher,Bourguillon,hco,,,,,8500.0,,8500.0,FR
+2205,Jean Dudler,Chemin des Pensionnats 2,Fribourg,hcp,,7910.0,,583.0,,,8493.0,FR
+9760,Palliative-Fribourg/Freiburg,"Association- fribourgeoise de medicine et de soins palliatifs c/o AFIPA, Rte St-Nicolas-de-Flüe 2",Fribourg,hco,,,,,8000.0,,8000.0,FR
+12245,Andrea Orecchio,Rue de la Rochette,Estavayer-le-Lac,hcp,,1400.0,555.0,,,5871.0,7826.0,FR
+14407,AVAC Assiociation suisse,Impasse Du Chemin-Fleuri 2,Marly,hco,,,,,7500.0,,7500.0,FR
+13429,Hatem Ksouri,Chemin des Pensionnats 2-6,Villars-sur-Glâne,hcp,,7170.64,,,,,7170.64,FR
+2552,Emmanuel Levrat,Chemin Despensionnats 2,Fribourg,hcp,,1000.0,894.24,,,4333.09,6227.33,FR
+14744,Verband Nierenpatienten Schweiz,Route Principale 116,Praz (Vully),hco,1000.0,,,,5000.0,,6000.0,FR
+7592,Stéphane Künzli,Route De Moncor 12,Villars-sur-Glâne,hcp,,400.0,3602.0,,,1132.0,5134.0,FR
+1762,Claude Schoenenweid,Place de la Gare 15,Fribourg,hcp,,,1047.0,,,3801.75,4848.75,FR
+4783,Magali Dumont-Berset,Rue du Centre 8,Villars-sur-Glâne,hcp,,2300.0,1980.0,,,349.0,4629.0,FR
+10097,Sensler Ärzteverein,Zelgstrasse 25,Tafers,hco,3000.0,,,,1500.0,,4500.0,FR
+1406,Charly Bulliard,Rue de la Rochette,Estavayer-le-Lac,hcp,,,409.0,,,3975.67,4384.67,FR
+14482,"Gastroenterologische Praxis Balsiger, Seibold & Partner - Standort Freiburg",Chemin des Pensionnats 1,Fribourg,hco,,,1399.2,,,2797.7,4196.9,FR
+3157,Gianfranco Masdea,Case postale 90,Marsens,hcp,,2500.0,631.24,77.0,,957.71,4165.95,FR
+12389,Vérène Dougoud-Chauvin,Chemin Des Pensionnats 2,Fribourg,hcp,,1200.0,1042.55,,,1872.75,4115.3,FR
+1944,Cédric Lehner,Rue De Locarno 1,Fribourg,hcp,,800.0,987.83,190.1,,2049.2,4027.1299999999997,FR
+2944,François Grognuz,Route du Pâqui 5,Corminboeuf,hcp,,,1707.1,,,2015.3600000000001,3722.46,FR
+6649,Rahel Odermatt,Chemin des Pensionnats 2,Fribourg,hcp,,800.0,954.35,63.0,,1825.65,3643.0,FR
+2114,Daniela Benz,Rue Jacques-Vogt 3,Fribourg,hcp,,,1213.9,,,2408.96,3622.86,FR
+14501,"GSASA, Schweizerischer Verein der Amts- und Spitalapotheker","HFR Fribourg - Hôpital cantonal, PharmacieChemin des Pensionnats 2-6",Fribourg,hco,,,,,3600.0,,3600.0,FR
+6646,Rafik Bouzegaou,Réseau fribourgeois de santé mentale - c/o Centre de soins hospitaliers - L'Hôpital 140,Marsens,hcp,,1000.0,909.24,,,1690.21,3599.45,FR
+14849,Les Ligues de santé du canton de Fribourg,Rte St-Nicolas-de-Flüe 2,Fribourg,hco,,,,,3500.0,,3500.0,FR
+14875,Société pharmaciens fribourgeois,Rue de l'Hôpital 15,Fribourg,hco,,,,,3500.0,,3500.0,FR
+168,Alexander Frumkin,"Praxiszentrum Düdingen, Bahnhofplatz 2A",Düdingen,hcp,,2100.0,515.2,12.0,,861.65,3488.85,FR
+588,Anna Efthymiou,Chemin des Pensionnats 2,Fribourg,hcp,,,774.71,,,2524.33,3299.04,FR
+1450,Christian Chuard,Chemin des Pensionnats 2,Fribourg,hcp,,1375.0,403.0,,,1339.0,3117.0,FR
+9789,pharmActuel Vaud,Chemin du Palatinat 11,Fribourg,hco,,,,,3000.0,,3000.0,FR
+4562,Laurent Rosset,Route De Villars37,Fribourg,hcp,,,1531.0,,,1376.35,2907.35,FR
+5907,Nexhat Rrustemi,Route de Riaz 8,Bulle,hcp,,,973.98,,,1838.06,2812.04,FR
+13374,Frédéric Villard,Chemin des Pensionnats 2-6,Fribourg,hcp,,,494.4,,,2284.0,2778.4,FR
+13527,Josette Ngo,Chemin des Pensionnats 2-6,Fribourg,hcp,,1000.0,656.0,,,1019.0,2675.0,FR
+239,Alexandre Meiltz,Avenue De Lagare 111,Estavayer-Le-Lac,hcp,,1500.0,422.0,,,619.35,2541.35,FR
+4872,Marc Küng,Chemin Despensionnats 2,Fribourg,hcp,,1500.0,552.65,,,424.57,2477.2200000000003,FR
+13209,Cornelia Koller,Route De L'hôpital 140,Marsens,hcp,,,597.0,,,1799.0,2396.0,FR
+4055,Joseph Eigenmann,Grand-Places 16,Fribourg,hcp,,,779.0,,,1540.0,2319.0,FR
+14648,RFSM FNGP,"BCF, Fribourg",Fribourg,hco,2301.67,,,,,,2301.67,FR
+12713,Symposium Diabésité 2018,Ch. des Botchets 24,Zénauva,hco,,,,,2154.0,,2154.0,FR
+13448,Hugo Maye,"HFR Fribourg-Hôpital Cantonal, Chemin des Pensionnats 2",Fribourg,hcp,,,483.36,,,1639.36,2122.72,FR
+13639,Luca Rampa,Chemin du Cardinal Journet 3,Villars-sur-Glâne,hcp,,,597.0,,,1434.0,2031.0,FR
+2725,Farshid Fateri,Grand-Places 16,Fribourg,hcp,,,1071.0,,,958.0,2029.0,FR
+9603,Marchethon CF Fribourg,Case postale 118,Farvagny,hco,,,,,2000.0,,2000.0,FR
+9084,Fond. Fribourgeois recherche sur cancer,Chemin des Pensionnats 2,Fribourg,hco,,,,,2000.0,,2000.0,FR
+8816,Centre de Chimiothérapie,Route de Villars 37,Fribourg,hco,,,,,2000.0,,2000.0,FR
+9335,Hôpital Intercantonal de la Broye,Rue de la Rochette,Estavayer-le-Lac,hco,,,,,2000.0,,2000.0,FR
+9669,Médecin Famille Fribourg (MFF),Impasse du Petit-Crêt 3,Farvagny,hco,,,,,2000.0,,2000.0,FR
+14788,Association médecins de famille Fribourg,Impasse du Petit-Crêt 3,Farvagny,hco,,,,,2000.0,,2000.0,FR
+2566,Enzo Fontana,Chemin des Pensionnats 2,Fribourg,hcp,,,600.4,,,1368.8,1969.1999999999998,FR
+4807,Sieglinde Major Schumacher,Zelgstrasse 25,Tafers,hcp,,1020.0,292.53,,,653.07,1965.6,FR
+13005,Annemay Chollet,Rue du Ctre 8,Villars-sur-Glâne,hcp,,,1540.0,,,424.0,1964.0,FR
+14263,Zacharenia Kallinikou,Chemin des Pensionnats 2-6,Fribourg,hcp,,,746.65,,,1162.53,1909.1799999999998,FR
+8656,Association fribourgeoise du diabète Freiburger Diabetes-Gesellschaft,Rte Saint-Nicolas-de-Flüe 2,Fribourg,hco,,,,,1900.0,,1900.0,FR
+14349,Sarah M'Rabet Bensalah,Chemin Despensionnats 2,Fribourg,hcp,,,1007.9100000000001,,,879.16,1887.0700000000002,FR
+3749,Jacques Koerfer,"Cabinet Jacques Koerfer, Rue de Gruyöres 35",Bulle,hcp,,500.0,498.65,,,764.0,1762.65,FR
+59,Adrienne Bettini,Chemin des Pensionnats 2,Fribourg,hcp,,,96.0,,,1458.32,1554.32,FR
+6839,Rigobert Hervais Kamdem,Boulevard de Pérolles 30,Fribourg,hcp,,,597.0,,,939.0,1536.0,FR
+14283,Chryssovalandou Stelios,Chemin des Préalpes 16,Bulle,hcp,,800.0,75.9,,,652.35,1528.25,FR
+12875,Adrian Attinger,Chemin des Pensionnats 2-6,Fribourg,hcp,,,570.0,,,933.2,1503.2,FR
+3648,Irene Dingeldein,Längmatt 32,Murten,hcp,,1500.0,,,,,1500.0,FR
+14400,Association Fribourgeoise d'Ophtalmologie,Rue de Morat 8,Fribourg,hco,,,,,1500.0,,1500.0,FR
+8671,Association suisse Apprendre à vivre avec le cancer,Impasse du Chemin Fleuri,Marly,hco,,,,,1500.0,,1500.0,FR
+13566,Karen Maes,"HFR Fribourg-Hôpital Cantonal, Chemin des Pensionnats 2",Fribourg,hcp,,,482.0,,,977.51,1459.51,FR
+14094,Sophie Lang,Chemin des Pensionnats 2-6,Fribourg,hcp,,,613.08,,,810.6,1423.68,FR
+10640,Alexandre Maret,Rte des Arsenaux 28,Fribourg,hcp,,,330.0,,,1085.3,1415.3,FR
+1029,Bernard Paul Vaudaux,Chemin Plantaz 29,Ecublens,hcp,,1400.0,,,,,1400.0,FR
+3822,Jean-Marie Annoni,Chemins des Pensionnats 2,Fribourg,hcp,,1400.0,,,,,1400.0,FR
+13854,Nicole Bossart Jacquat,"Clinique Générale - Ste-Anne SA, Rue Hans- Geiler 6",Fribourg,hcp,,500.0,198.59,,,692.96,1391.5500000000002,FR
+12326,Lucie Vignot,Chemin Des Pensionnats 2,Fribourg,hcp,,,435.06,,,948.36,1383.42,FR
+12907,Aline Borcard,"Clinique Générale - Ste-Anne SA, Rue Hans- Geiler 6",Fribourg,hcp,,500.0,198.59,,,681.47,1380.06,FR
+13033,Assimoula Raptis-Mitsis,"Cabinet Co-Naissances, Rue de Lausanne 91",Fribourg,hcp,,500.0,198.59,,,678.09,1376.68,FR
+4772,Markus Oberhänsli,Spitalweg 36,Meyriez,hcp,,,416.41,,,904.76,1321.17,FR
+8259,Véronique Erard,Chemin des Pensionnats 2,Fribourg,hcp,,,552.0,,,765.0,1317.0,FR
+3308,Gérard Baeriswyl,Boulevard de Pérolles 4,Fribourg,hcp,,,498.65,,,807.35,1306.0,FR
+14418,Cabinet Dr Fleury Nicolas,Boulevard De Pérolles 14,Fribourg,hco,,,783.0,,,491.0,1274.0,FR
+4119,Julien Ducry,"Hôpital Cantonal Fribourg, Chemin des Pensionnats 2",Fribourg,hcp,,,237.2,,,1010.1,1247.3,FR
+13285,Ehsan M. Houssaini,"Centre cantonal d'addictologie, Rue du Morat 8",Fribourg,hcp,,,278.0,,,956.0,1234.0,FR
+5841,Nadine Gutierres-Demierre,Chemin Despensionnats 2,Fribourg,hcp,,,568.0,,,638.0,1206.0,FR
+13984,Robert Kalicki,"Hôpital Sud Fribourgeois, Riaz, Rue de l' Hôpital 9",Riaz,hcp,,,345.18,,,832.69,1177.8700000000001,FR
+2634,Ettore Accolla,Chemin des Pensionnats 2,Fribourg,hcp,,,552.0,,,622.0,1174.0,FR
+13807,Miriam Antola,"Cabinet Dr Antola Miriam, Rue De Locarno 1",Fribourg,hcp,,,317.98,,,847.07,1165.0500000000002,FR
+8376,Yves Allemann,Chemin de Pré-Vert 42,Bulle,hcp,,,422.0,,,716.65,1138.65,FR
+7571,Stéphanie Petitpierre,Route Louis Favre 6a,Ecublens,hcp,,,253.44,,,883.63,1137.07,FR
+13547,Julien Sagez,Route de l'Intyamon 113,La Tour-de-Trême,hcp,,,324.8,,,807.0,1131.8,FR
+593,Anna Lauber-Biason,Chemin du Musée 5-9,Fribourg,hcp,,,330.0,,,790.0,1120.0,FR
+14193,Tibor Huwyler,Chemin des Pensionnats 2-6,Fribourg,hcp,,,365.6,,,753.85,1119.45,FR
+13304,Emmanuel Calfayan,Chemin des Pensionnats 2,Fribourg,hcp,,,370.0,,,743.0,1113.0,FR
+13635,Louise Matray,"Cabinet médical de groupe, Impasse des Crosets 1",Neyruz FR,hcp,,,466.92,,,572.02,1038.94,FR
+9381,"Hôpital Sud Fribourgeois, Riaz",Rue De L'Hôpital9,Riaz,hco,,,261.34,,,748.75,1010.0899999999999,FR
+7268,Serge Zumbach,"RFSM-Réseau de santé mentale, Route de l'Hôpital 140",Marsens,hcp,,1000.0,,,,,1000.0,FR
+13312,Eric Paul Gobin,Chemin du Village 24,Meyriez,hcp,,1000.0,,,,,1000.0,FR
+6263,Patrick Stehle,Chemin de Bouleyres 14,Bulle,hcp,,1000.0,,,,,1000.0,FR
+10615,Aleksandre Chanachev,Rue de la Lécheretta 1,Bulle,hcp,,1000.0,,,,,1000.0,FR
+14134,Stojan Todorov,Avenue Jean-Paul II 5,Villars-sur-Glâne,hcp,,,270.0,,,688.1,958.1,FR
+60,Manfred Aebischer,Raffort 2,Muntelier,hcp,,,,,,943.31,943.31,FR
+14513,HFR Meyriez-Murten,Chemin du Village 24,Meyriez,hco,,,301.3,,,584.88,886.1800000000001,FR
+13030,Arnaud Toussaint,Rue de la Rochette 3,Estavayer-le-Lac,hcp,,,271.8,,,564.4,836.2,FR
+13906,Patricia Simina Francesca Sandru,Rue de l'Hôpital 9,Riaz,hcp,,,271.8,,,564.4,836.2,FR
+495,André Etienne,Place du Centre 2,La Tour-de-Trême,hcp,,,238.0,,,584.0,822.0,FR
+13310,Eric Descombes,"HFR Fribourg-Hôpital Cantonal, Chemin des Pensionnats 2",Fribourg,hcp,,,137.79,,,672.97,810.76,FR
+13989,Roberto Llano,Gurt 23,Liebistorf,hcp,,807.75,,,,,807.75,FR
+7857,Thomas Reygaerts,Chemin des Pensionnats 2,Fribourg,hcp,,800.0,,,,,800.0,FR
+4025,Johannes Wildhaber,"HFR Fribourg - Hôpital cantonal Kinderklinik, Chemin des Pensionnats 2-6",Fribourg,hcp,,800.0,,,,,800.0,FR
+13671,Marc Thiémard,Salesianum 1,Fribourg,hcp,,800.0,,,,,800.0,FR
+13486,Jacques-Olivier Maillard,Rte Ste-Thérèse 2d,Fribourg,hcp,,,312.0,,,485.0,797.0,FR
+13329,Fabian Huber,Chemin des Pensionnats 2-6,Fribourg,hcp,,,312.9,,,455.26,768.16,FR
+13896,Pablo Mondragon,Chemin des Pensionna,Fribourg,hcp,,,716.0,,,,716.0,FR
+6643,Raffaella Craighero,"Cabinet Dr Craighero Raffaella, Rue de l'Europe 12",Bulle,hcp,,700.0,,,,,700.0,FR
+6956,Rolf Engelberger,Chemin des Pensionnats 2,Fribourg,hcp,,700.0,,,,,700.0,FR
+3571,Hélène Moret,Rue du Marché 11,Bulle,hcp,,,435.47,,,259.36,694.83,FR
+4942,Marco Eschenmoser,HFR Fribourg-Hôpital Cantonal Chemin des Pensionnats 2,Fribourg,hcp,,,301.5,,,361.2,662.7,FR
+5887,Nathalie Pugnale-Verillotte,Rue Saint-Pierre 1,Fribourg,hcp,,,160.0,,,483.0,643.0,FR
+27,Adrian Borcea,Grand-Places 14,Fribourg,hcp,,,380.0,,,263.0,643.0,FR
+13815,Mladen Pavlovic,Chemin des Pensionnats 2,Fribourg,hcp,,,,,,611.0,611.0,FR
+4839,Manuela Pinto- Ventura,Stadtberg 1,Fribourg,hcp,,600.0,,,,,600.0,FR
+14040,Sara Schukraft,Chemin des Pensionnats 2-6,Fribourg,hcp,,,224.2,,,299.79,523.99,FR
+1376,Catherine Waeber Stephan,Rue Hans-Geiler 6,Fribourg,hcp,,500.0,,,,,500.0,FR
+14515,HRF Fribourg,Chemin de Pensionnats 2-6,Fribourg,hco,,500.0,,,,,500.0,FR
+13939,Philippe De Gottrau,"HFR Fribourg - Hôpital cantonal Ophthalmologisch e Poliklinik, Chemin des Pensionnats 2-6",Fribourg,hcp,,500.0,,,,,500.0,FR
+14245,Weisse Harald,Murtenstrasse 15,Kerzers,hcp,,500.0,,,,,500.0,FR
+13249,de la Tour Benjamin,Chemin de la Croix-Blanche 41,Le Mouret,hcp,,,370.4,,,103.35,473.75,FR
+12378,Thierry Helvadjian,"Cabinet Thierry Helvadjian, Rue Hans-Geiler 6",Fribourg,hcp,,,109.3,,,329.79,439.09000000000003,FR
+6623,Puricel,Chemin des Pensionnats 2,Fribourg,hcp,,,,,,434.22,434.22,FR
+13160,Christoforos Astaras,Service d'oncologie - HFR Fribourg - Hôpital cantonal - Chemin des Pensionnats 2-6,Fribourg,hcp,,400.0,,,,,400.0,FR
+14106,Stefan Haupt,Maggenberg 1,Tafers,hcp,,,191.0,,,,191.0,FR
+12979,Anja Maria Dürrschnabel,Maggenberg 1,Tafers,hcp,,,191.0,,,,191.0,FR
+13020,Anton Merkle,"Praxiszentrum Düdingen, Bahnhofplatz 2A",Düdingen,hcp,,,100.0,,,25.0,125.0,FR

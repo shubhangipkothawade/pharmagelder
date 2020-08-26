@@ -1,0 +1,378 @@
+id,name,address,location,type,donations_grants,fees,registration_fees,related_expenses,sponsorship,travel_accommodation,total,Canton
+9021,European Society for Medical Oncology - ESMO,via Luigi Taddei 4,Viganello,hco,3582185.11,10056.67,313444.65,,9678170.320000002,12087.1,13595943.850000001,TI
+8977,EADV European Academy of Dermatology and Venereology,Via Serafino Balestra 22b,Lugano,hco,98171.0,,,,2655126.5,,2753297.5,TI
+8720,Ente Ospedaliero Cantonale,Viale Officina 3,Bellinzona,hco,347700.0,50391.61,2457.0,202.0,329343.78,4149.0,734243.39,TI
+12816,Fondazione IOR,Via Ospedale,Bellinzona,hco,3500.0,20038.0,,1013.0,638281.8200000001,,662832.8200000001,TI
+14810,European Society For Medical Oncology,via Ginevra,Lugano,hco,,,,,646765.22,,646765.22,TI
+9043,European School for Advanced Studies in Ophthalmology,Viale Stefano Franscini 9,Lugano,hco,48800.0,,,,400126.54000000004,,448926.54000000004,TI
+9390,IELSG - International Extranodal Lymphoma Study Group,Ospedale San Giovanni,Bellinzona,hco,5000.0,,,,279211.0,,284211.0,TI
+12845,Ospedale Civico,Via Tesserete 46,Lugano,hco,120000.0,20072.84,359.33,373.5,139813.05,849.83,281468.55,TI
+9008,Fondazione Epatocentro Ticino,Via Soldino 5,Lugano,hco,1500.0,,985.0,,81731.0,,84216.0,TI
+12466,European Sleep Foundation,Viale Stefano Franscini 9,Lugano,hco,,,,,61205.880000000005,,61205.880000000005,TI
+12535,International Society of Cardiovascular Pharmacotherapy (ISCP),Ospedale San Giovanni,Bellinzona,hco,,,,,55830.0,,55830.0,TI
+9005,Neurocentro della Svizzera Italiana NSI,Ospedale Regionale di Lugano,Lugano,hco,6628.51,3400.0,223.0,,41947.31,724.0,52922.82,TI
+14839,IOR Institute of Oncoloy Research,Via Vincenzo Vela 6,Bellinzona,hco,,,,,48465.0,,48465.0,TI
+9276,Gruppo Medico Formazione,Casella Postale 823,Giubiasco,hco,,,,,47850.0,,47850.0,TI
+14531,International Society of Cardiovascular Pharmacotherapy ISCP,Palazzo die Congressi,Lugano,hco,,,,,30000.0,,30000.0,TI
+8862,Circolo medico di Locarno,Via al Lido 27,Ascona,hco,1000.0,,,,27200.0,,28200.0,TI
+14155,Suzanne Suggs,"BeCHANGE Research Group, Institute of Public Communication (ICP) Via Giuseppe Buffi 13",Lugano,hcp,,17650.0,537.98,4034.25,,4132.24,26354.47,TI
+9701,Ordine dei Medici del Canton Ticino (OMCT),Via Cantonale,Mezzovico,hco,1600.0,,,,20810.0,,22410.0,TI
+8874,Clinica Luganese Moncucco SA,Via Moncucco 10,Lugano,hco,2000.0,500.0,,,18607.510000000002,449.0,21556.510000000002,TI
+14567,Lymphoma & Genomics Group Institute of,Via Vincenzo Vela 6,Bellinzona,hco,,,,,17500.0,,17500.0,TI
+12784,Ass. Mendrisio Medical Meeting,Via Cadogno 1,Minusio,hco,,,,,17250.0,,17250.0,TI
+8684,Associazione Medical Meeting,Associazione Medical Meeting,Minusio,hco,3000.0,,,,11250.0,,14250.0,TI
+11668,Michael Jemec,Procrea Centro Fertilità Svizzera Italiana SA,Lugano,hcp,,1500.0,1682.0,,,10138.0,13320.0,TI
+8794,Fondazione Cardiocentro Ticino,Via Tesserete 48,Lugano,hco,,,,,13150.0,,13150.0,TI
+2202,Davide Rossi,Via Ospedale,Bellinzona,hcp,,,,11834.0,,,11834.0,TI
+7179,Sara De Dosso,Via Ospedale,Bellinzona,hcp,,8632.0,517.0,232.0,,940.0,10321.0,TI
+1823,Claudio Gobbi,Via Tesserete 46,Lugano,hcp,,2117.45,1439.4099999999999,,,6627.62,10184.48,TI
+14841,ISCP International Society of Cardiovascular Pharmacotherapy,Via Rotondello 16,Arbedo,hco,4739.0,,,,5385.0,,10124.0,TI
+12861,Swiss Movement Disorders Society,Via Tesserete 46,Lugano,hco,,,,,10000.0,,10000.0,TI
+12493,GMF - Ticino,,Giubiasco,hco,,,,,9900.0,,9900.0,TI
+12806,EOC - Instituto Oncologico della Svizzera Italiana,Ospedale San Giovanni,Bellinzona,hco,,1500.0,,,8346.5,,9846.5,TI
+14346,Ricardo Pereira Mestre,Via Ospedale,Bellinzona,hcp,,4900.0,1543.94,153.0,,3174.92,9771.86,TI
+8879,Clinica Santa Croce SA,Via al Parco 27,Orselina,hco,,,,,9500.0,,9500.0,TI
+1415,Chiara Zecca,Via Tesserete 46,Lugano,hcp,,,1686.91,,,7803.62,9490.53,TI
+9699,Ordine del Farmacisti del Canton Ticino,Via al Forte 3,Lugano,hco,,700.0,,,8200.0,,8900.0,TI
+850,Beatrice Neuffer-Bajetta,Piazza Indipendenza 4,Chiasso,hcp,,1600.0,2394.75,207.27,,4646.29,8848.310000000001,TI
+9112,OLM Fondazione Oncologia,via Ciseri 19 c/o Centro Triangolo,Locarno,hco,,1500.0,,,6800.0,,8300.0,TI
+1294,Carlo Mainetti,Via Parco 3,Bellinzona,hcp,,4410.0,1548.0,1438.0,,741.0,8137.0,TI
+6880,Roberta Riganti,Osp. S. Giovanni,Bellinzona,hcp,,7840.0,,,,,7840.0,TI
+9784,Pharmactuel c/o OFCT,Casella Postale,Lugano,hco,,,,,7700.0,,7700.0,TI
+8696,Atd Associazione Ticinese - Per I Diabetici,Via Al ticino 30,Sementina,hco,,,,,7500.0,,7500.0,TI
+10661,Andrea Consigli,Viale Pietro Capelli 1,Viganello,hcp,,,633.35,,,6510.7,7144.05,TI
+3201,Giovanni Ferrari,"Studio medico, Corso Pestalozzi 11",Lugano,hcp,,4000.0,1154.27,,,1985.39,7139.660000000001,TI
+231,Alexandre Christinat,Oncologia Lugano Via Fogazzaro 3,Lugano,hcp,,600.0,479.0,,,6045.0,7124.0,TI
+9551,Lega Polmonare Ticinese,Via alla Campagna 9,Lugano,hco,6960.0,,,,,,6960.0,TI
+6547,Piero Balice,Viale Portone 1,Bellinzona,hcp,,750.0,1447.0,,,4500.0,6697.0,TI
+14500,Gruppo Medica Formazione,Segretariato Medico,Bellinzona,hco,,,,,6600.0,,6600.0,TI
+7242,Sebastiano Franscella,Via Pietro Capelli 9,Viganello,hcp,,1500.0,1163.0,,,3715.0,6378.0,TI
+8160,Vera Kessler Brondolo,"Ospedale Regionale di Lugano, Viale Pietro Capelli 1",Viganello,hcp,,4500.0,525.82,,,1264.89,6290.71,TI
+9272,Gruppo di qualità di Viganello,"c/o Dr Roberto Di Stefano, Via alle Vigne 7",Pregassona,hco,,,,,6000.0,,6000.0,TI
+12789,Associazione Dei Reumatologi Della Svizzera Italiana,Via F. Zorzi 15A,Bellinzona,hco,1500.0,,,,4500.0,,6000.0,TI
+9006,Ospedale Regionale di Mendrisio,Via Alfonso Turconi 23,Mendrisio,hco,600.0,1000.0,,,4314.1,,5914.1,TI
+8232,Vittoria Espeli,Via Ospedale,Bellinzona,hcp,,3235.0,683.0,,,1902.0,5820.0,TI
+12291,Flavio Acquistapace,"Sanacare studio medico, Via Ferruccio Pelli 7",Lugano,hcp,,3850.0,418.0,,,1326.0,5594.0,TI
+2995,Patrizia Frösch,Via all'Ospedale 1,Locarno,hcp,,2900.0,824.0,,,1831.0,5555.0,TI
+8875,Clinica Psichiatrica Cantonale,Via Agostino Maspoli 8,Mendrisio,hco,,5400.0,,,,,5400.0,TI
+881,Barbara Lucchini,Via all'Ospedale 1,Locarno,hcp,,1600.0,1823.0,,,1896.0,5319.0,TI
+8571,AMACTI - Assoc. Medici Anestesisti Ticino,Via Tesserete 48,Lugano,hco,,,,,5315.0,,5315.0,TI
+12797,Circolo Medico Tre Valli,"Presidente: Dr. med. Moreno Guidicelli, Via Pini 4",Biasca,hco,,,,,5300.0,,5300.0,TI
+9876,Procrea,Via Giovanni Nizzola 1,Bellinzona,hco,,,1073.43,,,4219.4,5292.83,TI
+12792,Associazione Pediatri Svizzera Italiana / Centro Pediatrico Del Mendrisiotto,Via Beroldingen 26,Mendrisio,hco,,,,,5250.0,,5250.0,TI
+118,Alberto Moriggia,Via Soldino 5,Lugano,hcp,,,,,,5141.0,5141.0,TI
+823,Augusto Pedrazzini,Via Vincenzo Vela 11,Locarno,hcp,,1000.0,2231.16,,,1867.1,5098.26,TI
+14789,Associazione Medico In Pratica,Via Ferruccio Pelli 7,Lugano,hco,,,,,5050.0,,5050.0,TI
+2714,Marco Facchini,Piazza Stazione 9,Muralto,hcp,,1500.0,1156.6,,,2368.3599999999997,5024.959999999999,TI
+4696,Luciano De Nicola Wannesson,"Ospedale Regionale di Bellinzona e Valli Medizin Onkologie, Via Ospedale",Bellinzona,hcp,,4800.0,,220.0,,,5020.0,TI
+1,Safwan Elisabetta Andreani,Viale Stazione 30,Bellinzona,hcp,,3976.0,367.0,,,665.0,5008.0,TI
+10162,Società Svizzera di Medicina Interna Generale del Canton Ticino (SSMIG - TI),Via General Guisan 10,Paradiso,hco,,,,,5000.0,,5000.0,TI
+8582,Associazione degli oftalmologi del canton Ticino (AOCT),Via Canova 18,Lugano,hco,,,,,5000.0,,5000.0,TI
+13505,Jean-Philippe Theurillat,"Ospedale Bellinzona e Valli EOC, ViaVincenzo Vela 6",Bellinzona,hcp,,4750.0,,63.0,,,4813.0,TI
+4960,Marco Pons,Via Tesserete 46,Lugano,hcp,,4000.0,309.03,,,441.3,4750.33,TI
+8680,Associazione dei Reumatologi della Svizzera Italiana,Viale Castagnola 21a,Lugano,hco,,,,,4700.0,,4700.0,TI
+14840,IOSI,Via Ospedale 12,Bellinzona,hco,,,543.96,,2500.0,1636.52,4680.48,TI
+5359,Massimo Vignanelli,Via Trevano 38,Lugano,hcp,,,382.65,,,4254.0,4636.65,TI
+1466,Christian Garzoni,Riva Antonio Caccia 1b,Lugano,hcp,,4400.0,,198.0,,,4598.0,TI
+3140,Michele Ghielmini,Via Ospedale,Bellinzona,hcp,,3337.0,,1158.0,,,4495.0,TI
+2399,Rafael Traber,Via Luganetto 5,Viganello,hcp,,2900.0,256.0,,,1037.0,4193.0,TI
+4697,Luciano Wannesson,Via Alfonso Turconi 23,Mendrisio,hcp,,4050.0,,127.0,,,4177.0,TI
+11620,Marzia Borojevic,Via Trevano 6,Lugano,hcp,,,526.0,,,3646.0,4172.0,TI
+735,Valenti Antonio,Via Tesserete 46,Lugano,hcp,,600.0,893.1,,,2675.1,4168.2,TI
+11821,Paul Bernhard Henrich,Via Senago 42,Pazzallo,hcp,,,1972.0,,,2150.0,4122.0,TI
+8678,Associazione dei Pediatri della Svizzera Italiana APSI,c/o Dr. med. Daniela Joanna Pedrazzini-Vanoni - Via delle Scuole 17,Lugano,hco,,,,,4000.0,,4000.0,TI
+8600,APSI Associazione Pediatri della Svizzera Italiana,Via Monte Boglia 5,Locarno,hco,,,,,4000.0,,4000.0,TI
+12846,Ospedale Malcantonese,Nucleo 32,Castelrotto,hco,,,,,4000.0,,4000.0,TI
+9723,Repubblica e Cantone Ticino Organizzazione sociopsichiatrica cantonale,Via Agostino Maspoli 8,Mendrisio,hco,1852.14,,,,2000.0,,3852.1400000000003,TI
+5802,Oreste Mora,Via Luigi Lavizzari 8,Mendrisio,hcp,,,1719.65,,,2098.1,3817.75,TI
+6544,Pierluigi Brazzola,"Ospedale Regionale di Bellinzona e Valli Kinderklinik, Via Ospedale",Bellinzona,hcp,,3800.0,,,,,3800.0,TI
+9457,Istituto cantonale di patologia,Via in Selva 24,Locarno,hco,,2300.0,,,1500.0,,3800.0,TI
+10095,Senoforum,Via Bossi 50,Chiasso,hco,,,,,3769.5,,3769.5,TI
+126,Alden Moccia,Via all'Ospedale 1,Locarno,hcp,,3750.0,,,,,3750.0,TI
+3198,Giovanni Battista Pedrazzini,Via Tesserete 48,Lugano,hcp,,2781.0,,,,968.74,3749.74,TI
+721,Antonello Calderoni,Via Fogazzaro 3,Lugano,hcp,,1050.0,1677.6100000000001,,,1000.67,3728.28,TI
+6044,Numa Masina,Viale Castagnola 21a,Lugano,hcp,,2040.0,540.1,,,1134.9,3715.0,TI
+6827,Riccardo Pin,Via Moncucco 10,Lugano,hcp,,,1074.7,,,2574.5,3649.2,TI
+358,Andrea Menafoglio,medico caposervizio medicina - cardiologia,Bellinzona,hcp,,2500.0,433.35,,,696.65,3630.0,TI
+12501,Gruppo dei Cardiologi Ticinesi,"c/o Marco Facchini, Piazza Stazione 9",Locarno,hco,,,,,3500.0,,3500.0,TI
+3158,Gianfranco Pesce,Via Ospedale,Bellinzona,hcp,,,672.0,,,2777.0,3449.0,TI
+14315,Joe Bontadelli,Viale Officina 7,Bellinzona,hcp,,840.0,818.0,,,1752.25,3410.25,TI
+2400,Tatjana Zafirovaska,Via delle Scuole 1,Lugano,hcp,,1161.0,826.0,,,1408.0,3395.0,TI
+6685,Rames Mayer,Via Sergiomordasini 12,Bellinzona,hcp,,3125.0,233.0,,,,3358.0,TI
+3188,Giorgio Bianchi,Via Nassa 58,Lugano,hcp,,1000.0,1402.4,,,788.75,3191.15,TI
+3098,Georg Stüssi,Via Ospedale,Bellinzona,hcp,,3000.0,,178.0,,,3178.0,TI
+11314,Jacopo Pisaturo,Via al Parco 27,Orselina,hcp,,,1228.0,,,1917.0,3145.0,TI
+5463,Mauro Capoferri,"Studio medico di gruppo, Via Giuseppe Motta 12",Chiasso,hcp,,2142.0,600.0,,,400.0,3142.0,TI
+11977,Sanja Jukopila,Vialle Castagnolo 25A,Lugano,hcp,,,1451.4,,,1679.04,3130.44,TI
+5643,Michail Kouros,Via Vincenzo Vela 11,Locarno,hcp,,1450.0,526.0,,,1099.0,3075.0,TI
+2802,Florian Bihl,Via Gemmo 11,Lugano,hcp,,1500.0,471.0,,,1065.0,3036.0,TI
+9085,Fondazione Di Ricerca Psicooncologica,Via Fogazzaro 3,Lugano,hco,,,,,3000.0,,3000.0,TI
+10121,SGKA/SSAP - Schweizerische Gesellschaft für Kinderanästhesie,c/o Anesthesia Pediatrica Ospedale S. Giovanni,Bellinzona,hco,,,,,3000.0,,3000.0,TI
+8690,Associazione Ticinese Assistenti di Studio Medico,Via Provo 9,Pazzallo,hco,,,,,3000.0,,3000.0,TI
+8681,Associazione Discorsi Relazionali DiRe,Lugano,Lugano,hco,,,,,3000.0,,3000.0,TI
+12796,Circolo medico del Bellinzonese,Via Orbello 22,Arbedo,hco,,,,,3000.0,,3000.0,TI
+10166,STPP - Sociétà Ticinese di Psichiatria e Psicoterapia,STPP,Lugano,hco,,,,,3000.0,,3000.0,TI
+14403,Associazione Mendrisio Medical Meeting,Via Ronco di Santa Croce 1,Riva San Vitale,hco,,,,,3000.0,,3000.0,TI
+4970,Marco Varini,Via Antonio Fogazzaro 3,Lugano,hcp,,500.0,656.53,,,1804.28,2960.81,TI
+6893,Robin Chanda,Viale Stazione 30,Bellinzona,hcp,,,807.0,,,2082.0,2889.0,TI
+991,Benedetta Terziroli Beretta-Piccoli,Via Soldino 5,Lugano,hcp,,,226.0,,,2657.0,2883.0,TI
+12452,CMB Circolo Medico del Bellinzonese,Via Bellinzona 31,Giubiasco,hco,,,,,2850.0,,2850.0,TI
+8861,Circolo Medico del Mendrisiotto (CMM),Via Mercole 2b,Coldrerio,hco,800.0,,,,2000.0,,2800.0,TI
+114,Alberto Fransioli,Via Parco 3,Bellinzona,hcp,,1000.0,390.6,,,1340.0,2730.6,TI
+5357,Massimo Maffei,Via Tesserete 46,Lugano,hcp,,1000.0,404.82,,,1309.2,2714.02,TI
+8679,Associazione dei proprietari dir farmacie del Cantone TI (APFCT),c/o Dott. Mario Tanzi Farmacia S. Luca,LUGANO,hco,,,,,2700.0,,2700.0,TI
+5467,Mauro Lucini,Via Franco Zorzi 15A,Bellinzona,hcp,,1500.0,324.3,,,867.9,2692.2,TI
+2997,Frédéric Dominé,Via Stetano Franscini 6,Biasca,hcp,,675.0,417.6,,,1563.0,2655.6,TI
+14122,Stefano Regazzoni,Via Beltramina 7A,Lugano,hcp,,,913.0,,,1715.0,2628.0,TI
+2092,Daniel Sürder,Studio medico. Via Stazione 23,Caslano,hcp,,1000.0,610.95,,,1015.3,2626.25,TI
+822,Augusto Franco Gallino,Via Ospedale,Bellinzona,hcp,,2600.0,,,,,2600.0,TI
+12449,Circolo Medico del Mendrisiotto Presidente: Dr. med.Silvio Crestani,Via Giulia 43,Stabio,hco,,,,,2600.0,,2600.0,TI
+9002,Ente Ospedaliero Cantonale Bellinzona,Via Tesserete 46,Lugano,hco,,,,,2577.0,,2577.0,TI
+12376,Stefano Bellentani,Via Stefano Franscini 4,Locarno,hcp,,,525.82,,,2044.6,2570.42,TI
+11926,Roberto Antenna,Via della Stazione 10,Muralto,hcp,,,1980.0,,,586.0,2566.0,TI
+596,Anna Llado,Ospedale Regionale di Lugano Viale Pietro Capelli 1,Viganello,hcp,,,619.94,,,1928.7,2548.6400000000003,TI
+8578,AMITI,Via Guisan 10,Paradiso,hco,,,,,2500.0,,2500.0,TI
+8630,ASI-ADOC,"Viale San Salvatore 7, Casella Postale 501",Paradiso,hco,,,,,2500.0,,2500.0,TI
+12855,Società Ticinese di Psichiatria e Psicoterapia STPP,Via Campagnola 112,Coldrerio,hco,,,,,2500.0,,2500.0,TI
+14434,Circolo Medico Di Bellinzona Presidente: Dr. Ezio Montedoro,Via Orbello 22,Arbedo,hco,,,,,2500.0,,2500.0,TI
+5669,Michel Oberson,"Piazza Centrale Contrada Cav, Pellanda 1",Biasca,hcp,,,629.0,,,1850.0,2479.0,TI
+6626,Quinto Censi,Via Luigi Lavizzari 15,Mendrisio,hcp,,,488.8,,,1936.45,2425.25,TI
+14436,Clinica Psichiatria cantonale Mendrisio,Via Agostino Maspoli 6,Mendrisio,hco,,,,,2400.0,,2400.0,TI
+8858,Circolo di Qualità,Via Mercole 2B,Coldrerio,hco,1200.0,,,,1200.0,,2400.0,TI
+2702,Fabio Cattaneo,Via Soldino 7,Lugano,hcp,,,476.0,,,1904.0,2380.0,TI
+4662,Lorenzo Magenta,Via Soldino 5,Lugano,hcp,,165.0,690.0,,,1521.0,2376.0,TI
+11055,Elisa Biacchi,Via Ospedale 12,Bellinzona,hcp,,1000.0,433.0,,,911.0,2344.0,TI
+3011,Fulvio Bomio,Studio medico. Via Cabione la /via Madonna della Salute,Massagno,hcp,,1000.0,417.6,,,920.25,2337.85,TI
+7002,Rosaria Condorelli,Via Ospedale 1,Locarno,hcp,,1100.0,568.0,,,667.0,2335.0,TI
+4419,Konstandinja Proin,Via Serafino Balestra 6,Locarno,hcp,,,826.0,,,1502.0,2328.0,TI
+1154,Bobocel Rustea,Piazza Collegiata 7,Bellinzona,hcp,,,826.0,,,1502.0,2328.0,TI
+6884,Roberto Carando,Via San Gottardo 56,Minusio,hcp,,,267.0,,,2000.0,2267.0,TI
+1381,Mario Cavallini,Piazza Molino Nuovo 8,Lugano,hcp,,,450.8,,,1769.45,2220.25,TI
+5457,Maurizio Bernasconi,Via Ospedale,Bellinzona,hcp,,500.0,501.05,,,1190.15,2191.2,TI
+5501,Mehran Faeli,Via Alessandro Volta 1,Lugano,hcp,,,450.8,,,1715.65,2166.4500000000003,TI
+2397,Matteo Prencipe,In Gerascia da Sora 3,Osogna,hcp,,,450.8,,,1713.45,2164.25,TI
+1976,Damiano Venturelli,Via Vallemaggia 5,Locarno,hcp,,,338.0,,,1820.0,2158.0,TI
+94,Alain Kaelin,"Ospedale Regionale di Lugano, Neurocentro, Via Tesserete 46",Lugano,hcp,,,806.0,,,1305.0,2111.0,TI
+7404,Vito Spataro,Viale Stazione 23,Bellinzona,hcp,,1000.0,467.0,,,635.0,2102.0,TI
+7004,Rosario Valenti,Via Canton Uri 2,Faido,hcp,,,272.65,,,1826.65,2099.3,TI
+1358,Catherine Goehring,Via Stetano Franscini 6,Biasca,hcp,,,271.9,,,1815.1,2087.0,TI
+5447,Mattia Michele,Via San Salvatore 7,Paradiso,hcp,,1500.0,,,,566.0,2066.0,TI
+14285,Claudio Städler,Via Tesserete 46,Lugano,hcp,,,1054.65,,,1011.13,2065.78,TI
+13302,Emanuele Meroni,"Gastronassa21 SA, Via Nassa 21",Lugano,hcp,,,525.82,,,1533.73,2059.55,TI
+12932,Andrea Denegri,"Cardiocentro Ticino, Via Tesserete 48",Paradiso,hcp,,,996.76,,,1030.66,2027.42,TI
+12931,Andrea De Gottardi,"Ospedale Regionale di Lugano, Viale Pietro Capelli 1",Viganello,hcp,,1500.0,,,,506.96,2006.96,TI
+10165,Società ticinese di dermatologia e venereologia c/o Dr. med. Patrizia Carrozza,Viale Stazione 16,Bellinzona,hco,,,,,2000.0,,2000.0,TI
+14467,Farmacia Grassi (Apfct),Via Pian della Croce 9,Faido,hco,,,,,2000.0,,2000.0,TI
+8878,Clinica Santa Chiara SA,Via Stefano Franscini 4,Locarno,hco,1000.0,,,,1000.0,,2000.0,TI
+14478,"Franscella Sebastiano, FMH endocrinologia-",Viale Pietro Capelli 9,Viganello,hco,,,,,2000.0,,2000.0,TI
+5143,Mark Emmenegger,Via Lugano 16,Agno,hcp,,2000.0,,,,,2000.0,TI
+13187,Claudia Ferrier-Guerra,"Clinica Luganese Moncucco SA, Via Moncucco 10",Lugano,hcp,,,,,2000.0,,2000.0,TI
+9704,Oncologia Varini Calderoni Christinat,Via Fogazzaro 3,Lugano,hco,,,,,2000.0,,2000.0,TI
+5378,Matilde Iorizzo,Viale Stazione 16,Bellinzona,hcp,,400.0,306.24,,,1250.45,1956.69,TI
+11486,Luca Mario De Peri,Via Agostino Maspoli 6,Mendrisio,hcp,,,1104.0,,,840.0,1944.0,TI
+2706,Fabio Ramelli,Via Pioda 15,Locarno,hcp,,,440.0,,,1473.0,1913.0,TI
+13307,Enrico Riccardo Ferrari,"Fondazione Cardiocentro Ticino, Via Tesserete 48",Lugano,hcp,,,996.76,,,912.71,1909.47,TI
+2455,Guido Domenighetti,Via all'Ospedale 14,Locarno,hcp,,,499.59,,,1404.13,1903.72,TI
+2600,Erika Lerch,Via Ospedale,Bellinzona,hcp,,1890.0,,,,,1890.0,TI
+12909,Alireza Moor,Via Agostino Maspoli 6,Mendrisio,hcp,,,656.0,,,1218.0,1874.0,TI
+739,Antonios Petalotis,Vallemaggia 81,Locarno,hcp,,,656.0,,,1218.0,1874.0,TI
+5382,Matteo Preve,Clinica psichiatrica cantonale Via Agostino Maspoli 6,Mendrisio,hcp,,,656.0,,,1218.0,1874.0,TI
+1296,Carlo Mandelli,Via Ceresio 34b,Pregassona,hcp,,,656.0,,,1218.0,1874.0,TI
+9114,Fondazione Per La Soliderietà Della Clinica Luganese,Via Soldiniclinica Luganese,Lugano,hco,,,,,1857.01,,1857.01,TI
+2516,Elizabeth Gaviria Morales,Via Ospedale,Bellinzona,hcp,,,841.54,,,1005.77,1847.31,TI
+4683,Luca Giovanella,Ospedale Regionale Bellinzona e Valli Ospedale San Giovanni EOC Radiologische Klinik Via Ospedale,Bellinzona,hcp,,1700.0,,134.82,,,1834.82,TI
+6772,René Wullimann,Via Besso 34,Lugano,hcp,,500.0,1044.0,,,256.0,1800.0,TI
+2782,Fiorenzo Acquati,Via Giuseppe Motta 35,Mendrisio,hcp,,1800.0,,,,,1800.0,TI
+3150,Gian Paolo Ramelli,"Ospedale Regionale Bellinzona e Valli Kinderklinik, Via Ospedale",Bellinzona,hcp,,1350.0,,205.25,,233.27,1788.52,TI
+5914,Nicholas Righetti,Viale Pietro Capelli 1,Viganello,hcp,,,676.0,,,1106.65,1782.65,TI
+9731,Ospedale Regionale La Carità,Via all'Ospedale 1,Locarno,hco,,,,,1000.0,778.39,1778.3899999999999,TI
+5927,Nicola Keller,Via al Ponte 2,Morbio Inferiore,hcp,,,540.1,,,1225.9,1766.0,TI
+14347,Rosita Dell'Orto-Spadacini,Via San Bernardo 20,Canobbio,hcp,,,196.0,,,1568.0,1764.0,TI
+2791,Flavio Stoffel,Via Ospedale,Bellinzona,hcp,,,689.0,,,1075.0,1764.0,TI
+11707,Monica Raimondi,Via Moncucco 10,Lugano,hcp,,,554.4,,,1126.27,1680.67,TI
+2776,Filippo Simona,Via della Stazione 9,Muralto,hcp,,,269.35,,,1393.35,1662.6999999999998,TI
+12131,Tiziano Moccetti,Via Tesserete 48,Lugano,hcp,,,,,,1632.18,1632.18,TI
+719,Antonella Robatto,Via Soldino 5,Lugano,hcp,,,813.0,,,805.0,1618.0,TI
+10621,Alessandro Del Bufalo,"Praxis Alessandro Del Bufalo, Via Giuseppe Motta 35",Mendrisio,hcp,,,610.95,,,981.95,1592.9,TI
+13163,Christoph Czarnetzki,Via Tesserete 46,Lugano,hcp,,1500.0,,90.0,,,1590.0,TI
+8439,Luigia Elzi,Via G. Nizzola 8,Bellinzona,hcp,,,392.2,,,1195.62,1587.82,TI
+1909,Cristina Mangas,Via Ospedale,Bellinzona,hcp,,1500.0,,59.0,,,1559.0,TI
+13676,Marcolongo Alberto,Via Domenico Galli 20,Locarno,hcp,,,417.6,,,1135.3,1552.9,TI
+5800,Monya Bondio-Pozzi,Via Maqqio 13,Lugano,hcp,,,417.6,,,1135.3,1552.9,TI
+5123,Nicola Ferrari,"Praxis Nicola Ferrari, Via Stefano Franscini 14B",Locarno,hcp,,,417.6,,,1135.3,1552.9,TI
+6280,Patrizia Carrozza,Viale Stazione 16,Bellinzona,hcp,,,220.0,,,1316.67,1536.67,TI
+10837,Camelia Voinea,Via Ospedale,Bellinzona,hcp,,,226.11,,,1299.23,1525.3400000000001,TI
+13953,Pietro Cippà,"Ospedale Regionale di Lugano EOC, Via Tesserete 46",Lugano,hcp,,,416.27,,,1100.5,1516.77,TI
+1380,Franco Cavalli,Via Vincenzo Vela 6 Ospedale San Giovanni,Bellinzona,hcp,,1510.76,,,,,1510.76,TI
+5468,Mauro Manconi,Via Tesserete 46,Lugano,hcp,,1500.0,,,,,1500.0,TI
+6283,Patrizia Frösch,Via Camelia 1,Muralto,hcp,,1500.0,,,,,1500.0,TI
+6887,Roberto Di Stefano,,Pregassona,hcp,,1500.0,,,,,1500.0,TI
+13403,Gladys Martinetti Lucchini,Via Athos Gallino,Bellinzona,hcp,,1500.0,,,,,1500.0,TI
+6091,Olivia Pagani-Santoro,Viale Pietro Capelli 1,Viganello,hcp,,1500.0,,,,,1500.0,TI
+14004,Rossella Sarro,Via in Selva 24,Locarno,hcp,,1500.0,,,,,1500.0,TI
+14381,Antenna Icaro-centro di Competenza,,Lugano,hco,1500.0,,,,,,1500.0,TI
+9003,Ente Ospedaliero Cantonale,Ospedale Regionale Di Lugano Servizio di medicina,Lugano,hco,500.0,700.0,,300.0,,,1500.0,TI
+14405,AssociazioneTicinese assistenti di farmacia – ATAF,Via Campione 38,Bissone,hco,,,,,1500.0,,1500.0,TI
+1291,Carlo Calanchini,Via Giacomo Luvini 7,Lugano,hcp,,1500.0,,,,,1500.0,TI
+14536,Istituti sociali comunali Città di Lugano,Via Marco da Carona 10,Lugano,hco,,,,,1500.0,,1500.0,TI
+14443,Comunità familiare Antenna Icaro,"Via F, Zorzi 15",Lugano,hco,,,,,1500.0,,1500.0,TI
+2951,François Regoli,Via Tesserete 48,Lugano,hcp,,1200.0,,,,293.35,1493.35,TI
+12890,Aleksandra Nobile,Via Carlo Battaglini 1,Tesserete,hcp,,,420.0,,,1033.0,1453.0,TI
+2771,Fernando Jermini,Studio Dr. Jermini Fernando Via Dufour 4,Lugano,hcp,,,550.42,,,872.23,1422.65,TI
+4695,Lucia Marelli,Via Moncucco 10,Lugano,hcp,,,406.93,,,1014.44,1421.3700000000001,TI
+14566,Luzerner Kantonsspital,Spitalstrasse,Lugano,hco,,,,,1400.0,,1400.0,TI
+9804,PMB (Pochi Ma Buoni),Via alle Pianche 5,Riva San Vitale,hco,,,,,1400.0,,1400.0,TI
+9274,Gruppo DI.RE,"Via Trevano 62, Lugano",Lugano,hco,,,,,1400.0,,1400.0,TI
+7137,Salvatore Galati,Via Tesserete 46,Lugano,hcp,,,552.0,,,832.0,1384.0,TI
+10164,Società Ticinese degli Allergologi ed Immunologi del Canton Ticino (STAI),Via alle vigne 7,Pregassona,hco,,350.0,,,1000.0,,1350.0,TI
+1903,Silvio Crestani,Via Giulia 43,Stabio,hcp,,,269.0,,,1065.0,1334.0,TI
+11049,Elena Bianchi Papina,Via Ospedale,Bellinzona,hcp,,,427.0,,,898.0,1325.0,TI
+13696,Mariam Stepanyan,Via Sant'Anna 1,Sorengo,hcp,,,462.93,,,836.6,1299.53,TI
+14342,Pietro Gianella,"Medicina interna, Viale Pietro Capelli 1",Viganello,hcp,,,310.0,,,980.0,1290.0,TI
+13802,Milko Pedrotti,Via Canova 18,Lugano,hcp,,,464.0,,,820.5,1284.5,TI
+6545,Pierluigi Pedrazzi,Via Ospedale,Bellinzona,hcp,,,1042.0,,,240.0,1282.0,TI
+7014,Rossella Graffeo,Via Tesserete 46,Lugano,hcp,,,572.85,,,708.94,1281.79,TI
+14222,Valter Micieli,Via Bartolomeo Varenna 2,Locarno,hcp,,,572.0,,,699.0,1271.0,TI
+14382,Antenna lcaro-Centro di Competenza,Via Zorzi 15,Bellinzona,hco,,,,,1250.0,,1250.0,TI
+13351,Francesca Ghitti,Via Giuseppe Motta 2,Mendrisio,hcp,,,125.68,,,1124.28,1249.96,TI
+2704,Fabio Nessi,"Praxis Fabio Nessi, Piazza del Sole 5",Bellinzona,hcp,,,266.65,,,980.0,1246.65,TI
+974,Beatrice Simona,Via Stazione 5,Muralto,hcp,,,501.9,,,706.56,1208.46,TI
+12401,"Agg, Medico G15",Zona Pianca,Lugaggia,hco,,,,,1200.0,,1200.0,TI
+12502,Gruppo di qualità della Campagna Adorna,"c/o Lorenzo E. Binaghi, Via Mercole 2b",Coldrerio,hco,,,,,1200.0,,1200.0,TI
+5353,Marzia Conti Beltraminelli,Via alle Vigne 7,Pregassona,hcp,,1200.0,,,,,1200.0,TI
+3236,Gregor Goldinger,Via Agostino Maspoli 37,Mendrisio,hcp,,,324.5,,,874.3,1198.8,TI
+3974,Joanna Capoferri,Via Giuseppe Motta 12,Chiasso,hcp,,,532.0,,,661.3,1193.3,TI
+8393,Yvette Attinger Andreoli,Via Stazione 29,Caslano,hcp,,,256.0,,,923.0,1179.0,TI
+14325,Marco De Pieri,Via Agostino Maspoli 6,Mendrisio,hcp,,,332.0,,,844.0,1176.0,TI
+13048,Barbara Chiesi,Via Borghetto 1c,Giubiasco,hcp,,,196.0,,,969.0,1165.0,TI
+11918,Riccardo Bruni,"Studio medico, Via Maggio 13",Lugano,hcp,,,,,,1159.42,1159.42,TI
+6164,Paolo Servida,Viale Pietro Capelli 1,Viganello,hcp,,,296.0,,,857.0,1153.0,TI
+11200,Giovanna Padlina,Via Tesserete 46,Lugano,hcp,,,348.5,,,802.15,1150.65,TI
+3061,Gaetano Paone,Via Ospedale,Bellinzona,hcp,,1150.0,,,,,1150.0,TI
+12195,Vincente Espinosa,"Ospedale San Giovanni, Via Ospedale 12",Bellinzona,hcp,,,156.0,,,980.0,1136.0,TI
+334,Andrea Azzola,Via Tesserete 46,Lugano,hcp,,,156.0,,,980.0,1136.0,TI
+13891,Oscar José Ormachea Salazar,Via Pocobelli 16,Melide,hcp,,,440.0,,,688.0,1128.0,TI
+2454,Pietro Gerber,Via Massagno 20,Lugano,hcp,,,440.0,,,688.0,1128.0,TI
+5460,Maurizio Rollero,Via Moncucco,Lavorgo,hcp,,,440.0,,,676.0,1116.0,TI
+3145,Giampaolo Di Carlo,Via San Gottardo 99,Bellinzona,hcp,,,440.0,,,675.0,1115.0,TI
+2635,Ettore Battaglia,Viale Stefano Franscini 1,Lugano,hcp,,,440.0,,,666.0,1106.0,TI
+13847,Nestor Blandon,Via Trevano 7,Lugano,hcp,,,440.0,,,665.0,1105.0,TI
+767,Tiziana Laura Armani,Via Salici 6,Caslano,hcp,,,440.0,,,660.0,1100.0,TI
+13385,Gayer René,Via San Gottardo 25,Muralto,hcp,,,219.8,,,871.45,1091.25,TI
+14229,Viale Andrea,Viale Portone 1,Bellinzona,hcp,,,219.8,,,871.45,1091.25,TI
+13832,Märki Marzio,Via San Gottardo 25,Muralto,hcp,,,219.8,,,871.45,1091.25,TI
+13396,Giardi Clara,Corso San Gottardo 89,Chiasso,hcp,,,219.8,,,871.45,1091.25,TI
+13916,Perlodi Wiliam,Corso San Gottardo 89,Chiasso,hcp,,,219.8,,,871.45,1091.25,TI
+3583,Ignazio Salani,Via Massagno 36,Lugano,hcp,,,209.1,,,867.9,1077.0,TI
+3190,Giorgio Ferrario,Via Mons.Sesti 22,Riva San Vitale,hcp,,,440.0,,,632.0,1072.0,TI
+1125,Binaghi Lorenzo,Via Mercole 2B,Coldrerio,hcp,,,440.0,,,632.0,1072.0,TI
+6543,Piercarlo Saletti,IOSI Istituto Oncologico Ospedale Regionale di Lugano,Viganello,hcp,,,508.2,,,538.51,1046.71,TI
+5874,Natalie Marcoli,Via Pietro Capelli,Viganello,hcp,,,370.0,,,666.0,1036.0,TI
+7152,Sandor Györik,"Ospedale San Giovanni, Via Ospedale 12",Bellinzona,hcp,,,312.0,,,705.0,1017.0,TI
+3288,Guiseppe Colucci,"Clinica Luganese, Via Moncucco",Lugano,hcp,,625.0,392.0,,,,1017.0,TI
+2775,Filippo Scacchi,Via Antonio Ciseri 13,Locarno,hcp,,,373.71,,,641.55,1015.26,TI
+14690,Societa Svizzera Di Medicina,Via G.Guisan 10,Paradiso,hco,,,,,1000.0,,1000.0,TI
+7917,Tiziano Cassina,"Cardiocentro Ticino, Via Tesserete 48",Lugano,hcp,,1000.0,,,,,1000.0,TI
+14691,Societa Ticinese Di Dermatologia E Venerologia,Locarno,Locarno,hco,1000.0,,,,,,1000.0,TI
+14710,Studio ORL,Via Monte Boglia 5,Lugano,hco,,,,,1000.0,,1000.0,TI
+14404,Associazione Ticinese Assistenti di Studio Medico (ATAM),Via Povrò 9,Massagno,hco,,,,,1000.0,,1000.0,TI
+14401,Associazione Comunità familiare,Servizio per le dipendenze da sostanze Via Trevano 13,Lugano,hco,,,,,1000.0,,1000.0,TI
+14708,Studio  Pedrazzini Kouros,Via Vincenzo Vela 11,Locarno,hco,,,,,1000.0,,1000.0,TI
+14063,Sergio Luban,Via S. Franscini 12,Locarno,hcp,,1000.0,,,,,1000.0,TI
+6596,Pietro Gianella,Via Tesserete 46,Lugano,hcp,,1000.0,,,,,1000.0,TI
+14121,Stefano Gilardi,"Studio medico, Via alla Ramogna 16",Locarno,hcp,,1000.0,,,,,1000.0,TI
+9945,Repubblica e Cantone Ticino,Piazza Governo 7,Bellinzona,hco,,,,,1000.0,,1000.0,TI
+14123,Stefanos Demertzis,"Cardiochirurgia, Via Tesserete 48",Lugano,hcp,,1000.0,,,,,1000.0,TI
+14638,"QZ Pardomed c/o Dr, Daniel Loustalot",Via Pioda 15,Locarno,hco,,,,,1000.0,,1000.0,TI
+10284,STiMeGer,Corso San Gottardo 89,Chiasso,hco,,,,,1000.0,,1000.0,TI
+10295,Studio medico di gruppo,Via Bellinzona 31,Giubiasco,hco,,,,,1000.0,,1000.0,TI
+9734,Osteoclub Ticino,"Clinica Luganese Moncucco, Soldini,via",Lugano,hco,,,,,1000.0,,1000.0,TI
+8860,Circolo Medico del Bellinzonese,Via Caminnata 6,Bellinzona,hco,,,,,1000.0,,1000.0,TI
+11194,Giorgia Melli,Via Tesserete 46,Lugano,hcp,,1000.0,,,,,1000.0,TI
+8793,Cardiocentro Lugano,Via Tesserete 48,Lugano,hco,,,,,1000.0,,1000.0,TI
+11474,Lidia Bernasconi,Via Besso 41,Lugano,hcp,,1000.0,,,,,1000.0,TI
+8689,Associazione Reumatologi della Svizzera Italiana c/o Segretario Dr. Mauro Lucini,Roggiana 32,Vacallo,hco,,,,,1000.0,,1000.0,TI
+8636,STDV - Società Ticinese di Dermatologia e Venerologia,Via Carlo Frasca 10,Lugano,hco,,,,,1000.0,,1000.0,TI
+11065,Emanuela Dyrmishi,Via al Parco 27,Orselina,hcp,,1000.0,,,,,1000.0,TI
+14787,"ASI-ADOC (Associazione della Svizzera Italiana per i Disturbi d'Ansia, Depressivi e Ossessivo-Compul sivi)",Via San Salvatore 7,Lugano,hco,,,,,1000.0,,1000.0,TI
+8899,"CMTC ""Circolo medico tre Valli""",Via Lucomagno 50,Dongio,hco,,,,,1000.0,,1000.0,TI
+364,Andrea Scatizza,Via Pretorio,Lugano,hcp,,,,,1000.0,,1000.0,TI
+6896,Rocco Grignoli,Via Ripari Tondi 10,Bellinzona,hcp,,,443.65,,,542.75,986.4,TI
+2561,Enrico Roggero,Studio medico Bellinzona Viale Portone 5,Bellinzona,hcp,,,412.0,,,553.0,965.0,TI
+129,Aldo Klainguti,"Via F, Meneghelli",Tesserete,hcp,,964.0,,,,,964.0,TI
+6129,Ottavio Bernasconi,Piazza del Sole 5,Bellinzona,hcp,,,322.0,,,606.0,928.0,TI
+20,Adalgisa Condoluci,Via Ospedale,Bellinzona,hcp,,,147.2,,,773.4,920.5999999999999,TI
+13227,Daniel Hagara,Via Soldino 5,Lugano,hcp,,,421.4,,,479.31,900.71,TI
+12938,Andrea Griffa,Via Soldino 5,Lugano,hcp,,,417.85,,,479.31,897.1600000000001,TI
+1189,Brenno Balestra,Via Alfonso Turconi 23,Mendrisio,hcp,,,285.25,,,609.78,895.03,TI
+11191,Gianluigi Marini,Via Sant'Anna 1,Sorengo,hcp,,,416.0,,,462.46,878.46,TI
+4663,Lorenzo Rossi,Via Ospedale,Bellinzona,hcp,,875.0,,,,,875.0,TI
+14088,Simone Vannini,Via Sant'anna 7,Sorengo,hcp,,,380.0,,,487.0,867.0,TI
+13395,Gianni Balza,Via Moncucco 10,Lugano,hcp,,,367.0,,,487.0,854.0,TI
+8173,Veronica Finessi,Via Soldino 5,Lugano,hcp,,,551.0,,,287.0,838.0,TI
+13352,Francesco Maulucci,Via Tesserete 46,Lugano,hcp,,,440.8,,,389.13,829.9300000000001,TI
+5452,Maura Nessi,Viale Castagnola 21 a,Lugano,hcp,,,252.0,,,564.0,816.0,TI
+12873,Adam Ogna,Via all'Ospedale 1,Locarno,hcp,,,309.03,,,492.66,801.69,TI
+13613,Käppeli Frederico,Via Bellinzona 4,Giubiasco,hcp,,,219.8,,,571.6,791.4000000000001,TI
+14003,Rosseli Käppeli Monica,Via Bellinzona 4,Giubiasco,hcp,,,219.8,,,571.6,791.4000000000001,TI
+13194,Claudio Tettamanti,Via Cantonale 38,Manno,hcp,,,160.0,,,627.0,787.0,TI
+8151,Vanina Gurtner,Via Muraccio 22,Caslano,hcp,,,160.0,,,627.0,787.0,TI
+13692,Maria Francesca Podda,Via Cantonale 38,Manno,hcp,,,160.0,,,627.0,787.0,TI
+10993,Deborah Moccetti Bernasconi,Via Serafino Balestra 27,Lugano,hcp,,,160.0,,,627.0,787.0,TI
+7188,Sara Naef,Via Vela 11,Locarno,hcp,,,,,,765.35,765.35,TI
+5127,Mario Uhr,Via Moncucco 10,Lugano,hcp,,,228.0,,,528.0,756.0,TI
+1292,Carlo Cereda,Via Tesserete 46,Lugano,hcp,,,363.45,,,389.13,752.5799999999999,TI
+3160,Gianluca Calderari,Corso Pestalozzi 11,Lugano,hcp,,,309.03,,,441.3,750.3299999999999,TI
+14815,Fondazione per l'Istituto Oncologico di Ricerca,Via Vincenzo Vela 6,Bellinzona,hco,,750.0,,,,,750.0,TI
+14573,Medicalvillage,Via Cantonale 38,Manno,hco,,,,,750.0,,750.0,TI
+8202,Vilma Ratti,Via Turconi 23,Mendrisio,hcp,,700.0,,,,,700.0,TI
+9277,Gruppo Pochi ma buoni (PMB),Via delle Scuole 34,Lugano,hco,,,,,700.0,,700.0,TI
+14709,Studio Dr. med. Molto Alberto,Via Delle Scuole 34,Lugano,hco,,,,,700.0,,700.0,TI
+5355,Masseod Bazeghy,Via Giovanni Nizzola 11,Bellinzona,hcp,,700.0,,,,,700.0,TI
+13343,Filippo Maria Navarra,Via Agostino Maspoli 6,Mendrisio,hcp,,,,,,644.0,644.0,TI
+5804,Moreno Guidicelli,Via A+M Pini 4,Biasca,hcp,,,380.0,,,254.0,634.0,TI
+2865,Franco de Micheli,Corso San Gottardo 54B,Chiasso,hcp,,,,,,632.0,632.0,TI
+6158,Paolo Cottone,Via al Parco 27,Orselina,hcp,,600.0,,,,,600.0,TI
+11746,Nicola Cresto,Via Municipio 8,Losone,hcp,,,,,,561.0,561.0,TI
+696,Ante Bielic,Studio Dr. Bielic Ante Via Pollini 16,Mendrisio,hcp,,,,,,549.0,549.0,TI
+8233,Vittoria Espeli,"Ospedale Regionale di Mendrisio - Beata Vergine - Oncologia medica, Via Alfonso Turconi 23",Mendrisio,hcp,,500.0,,,,,500.0,TI
+14402,Associazione ginecologia ed ostetricia del cantone Ticino,Viale S. Franscini 4,Bellinzona,hco,,,,,500.0,,500.0,TI
+14442,Comunità Familiare,Via Sara Morley 6,Muralto,hco,,,,,500.0,,500.0,TI
+9212,GIOTI,Via Carà 11,Breganzona,hco,,,,,500.0,,500.0,TI
+14440,CML Circolo Medico di Lugano,Via Grumo 16,Gravesano,hco,,,,,500.0,,500.0,TI
+7367,Simonetta Mauri,Studio medico. Via San Gottardo 60,Massagno,hcp,,500.0,,,,,500.0,TI
+12682,Società Di Ultrasonologia Medica Della Svizzera Italiana (SUMSI),Via Piraree 6,Mezzovico,hco,,,,,500.0,,500.0,TI
+13248,Davide Donghi,"centromedico Bellinzona, Viale Officina 7",Bellinzona,hcp,,500.0,,,,,500.0,TI
+11544,Maria Del Grande,"IOSI Istituto Oncologico della Svizzera, Via Ospedale",Bellinzona,hcp,,500.0,,,,,500.0,TI
+1036,Enos Bernasconi,Via Tesserete 46,Lugano,hcp,,,485.43,,,,485.43,TI
+11353,Joe Bontadelli,Via Tesserete 46,Lugano,hcp,,,,,,468.15,468.15,TI
+13393,Giada Cattaneo,Via delle Scuole 1,Lugano,hcp,,,170.0,,,284.0,454.0,TI
+1563,Christina Bornivelli,Via delle Scuole 1,Lugano,hcp,,,170.0,,,284.0,454.0,TI
+14078,Silvia Zoppi,Via Luganetto 5,Viganello,hcp,,,170.0,,,284.0,454.0,TI
+13394,Giancarlo Maddalena,Via al Parco 27,Orselina,hcp,,,170.0,,,284.0,454.0,TI
+13464,Ioannis Romanos,Via Bossi 3,Chiasso,hcp,,,170.0,,,284.0,454.0,TI
+6644,Raffaella Pozzi,Corso Enrico Pestalozzi 4A,Lugano,hcp,,,170.0,,,284.0,454.0,TI
+12990,Anna Saito,Via al Parco 27,Orselina,hcp,,,170.0,,,284.0,454.0,TI
+3079,Lucia Isoldi Magnani,Corso San Gottardo 89,Chiasso,hcp,,,170.0,,,284.0,454.0,TI
+14085,Simone Livoti,Via al Parco 27,Orselina,hcp,,,170.0,,,284.0,454.0,TI
+5913,Niccolò Morandotti,Clinica Viarnetto Via Ceresio 34b,Pregassona,hcp,,,170.0,,,284.0,454.0,TI
+13330,Fabiana Leone,Via Bossi 3,Chiasso,hcp,,,170.0,,,284.0,454.0,TI
+7364,Simonetta Colmegna,Clinica Psichiatrica di Giorno Via Lugano 1,Agno,hcp,,,170.0,,,284.0,454.0,TI
+13512,Jeniffer Scotti Gerber,Via Tesserete 46,Lugano,hcp,,,,,,443.57,443.57,TI
+13945,Piercarlo Saletti,Ambulatorio di oncologia - Clinica Luganese Moncucco SA - Via Moncucco 10,Lugano,hcp,,400.0,,,,,400.0,TI
+5475,Max Henzen,Via Giuseppe Motta 17B,Bellinzona,hcp,,400.0,,,,,400.0,TI
+5047,Mariagrazia Rossi,Via Tesserete 48,Lugano,hcp,,400.0,,,,,400.0,TI
+13690,Maria Celeste Palmarocchi,IOSI - Ospedale San Giovanni EOC - Ospedale Regionale di Bellinzona e Valli - Via Athos Gallino,Bellinzona,hcp,,400.0,,,,,400.0,TI
+10619,Alessandra Stasia,Via Ospedale,Bellinzona,hcp,,,,,,399.0,399.0,TI
+14064,Shairin Sihabdeen,Via Tesserete 46,Lugano,hcp,,,,,,389.13,389.13,TI
+13818,Moira Galli,Via Moncucco 10,Lugano,hcp,,360.0,,,,,360.0,TI
+10163,Società Ticinese Allergologi e Immunologi del Canton Ticino,,Montagnola,hco,350.0,,,,,,350.0,TI
+7015,Rossella Graffeo Galbiati,Viale Pietro Capelli 1,Viganello,hcp,,315.0,,,,,315.0,TI
+3209,Giulia Bedino,Via Tesserete 46,Lugano,hcp,,,,312.0,,,312.0,TI
+13686,Margret Riboch-Römer,Via alla Campagna 9,Lugano,hcp,,,,,,300.3,300.3,TI
+13884,Oliver Rudolf Krämer,Viale Bartolomeo Papio 1,Ascona,hcp,,,283.1,,,,283.1,TI
+12212,Wiebke Gulden-Sala,Via all'Ospedale 1,Locarno,hcp,,,282.0,,,,282.0,TI
+11024,Donatella Santollino,Via Pollini 16,Mendrisio,hcp,,,,,,251.0,251.0,TI
+11682,Michele Ghielmini,Via alla Campagna 6,Sorengo,hcp,,250.94,,,,,250.94,TI
+6881,Roberto Antenna,Via Borghese 11,Locarno,hcp,,,,,,200.49,200.49,TI
+12261,Barbara Schläpfer,Via Carlo Frasca 8,Lugano,hcp,,,,,,198.0,198.0,TI

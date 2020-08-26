@@ -1,0 +1,55 @@
+id,name,address,location,type,donations_grants,fees,registration_fees,related_expenses,sponsorship,travel_accommodation,total,Canton
+9629,Mediscience GmbH,Bahnhofstrasse 17,Küssnacht am Rigi,hco,,,,,33347.5,,33347.5,SZ
+10194,Spital Schwyz,Waldeggstrasse 10,Schwyz,hco,3000.0,1100.0,,,18962.0,,23062.0,SZ
+9548,Spital Lachen AG,Oberdorfstrasse 41,Lachen SZ,hco,4000.0,,,,18008.760000000002,,22008.760000000002,SZ
+8960,Doctrina AG,Herrengasse 20,Schwyz,hco,,,,,19783.26,,19783.26,SZ
+12659,Seeklinik Brunnen AG,Gersauerstrasse 8,Brunnen,hco,,,218.0,,9307.75,665.0,10190.75,SZ
+9764,Parkinson Schweiz,Gewerbestrasse 12a,Egg,hco,500.0,,,,6000.0,,6500.0,SZ
+14446,Crohn Colitis Schweiz,Auhof 11,Lachen,hco,,,,,6000.0,,6000.0,SZ
+2495,Elisabeth Huberle,Maria Hilf-Str. 9,Schwyz,hcp,,4038.0,183.35,,,344.3,4565.650000000001,SZ
+13143,Christian Schweiger,Rebbergstrasse 3,Wollerau,hcp,,3080.0,,,,1250.0,4330.0,SZ
+4070,Joubin Gandjour,Oberdorfstrasse 41,Lachen,hcp,,,1197.5500000000002,,,2858.98,4056.53,SZ
+6338,Peter Dür,Innere Medizin Waldeggstrasse 10,Schwyz,hcp,,2300.0,312.0,,,1159.45,3771.45,SZ
+6367,Peter Jäggi,Bahnhofstrasse 13,Pfäffikon SZ,hcp,,1200.0,839.7,,,1729.87,3769.5699999999997,SZ
+961,Beate Theresia Maria Gleissner,Seestrasse 164,Bäch SZ,hcp,,1600.0,470.0,,,1105.0,3175.0,SZ
+265,Alfredo Meniconi,Postplatz 6,Schwyz,hcp,,3000.0,,,,103.23,3103.23,SZ
+9537,Krankenhausgesellschaft Schwyz,Waldeggstrasse 10,Schwyz,hco,,,,,3000.0,,3000.0,SZ
+7644,Walter Suter,Zeughausstrasse 10,Schwyz,hcp,,,842.82,,,2082.83,2925.65,SZ
+8103,Uta Kliesch,Maria-Hilf-Strasse 9,Schwyz,hcp,,2175.0,266.0,,,475.6,2916.6,SZ
+8084,Ursula Gansser,Schmiedenstrasse 23,Einsiedeln,hcp,,,1980.0,,,629.0,2609.0,SZ
+913,Beat Bühler,Waldeggstr. 10,Schwyz,hcp,,300.0,696.1800000000001,,,1538.3799999999999,2534.56,SZ
+10056,Schweizerische Parkinsonvereinigung,Gewerbestrasse 12a,Egg,hco,2000.0,,,,500.0,,2500.0,SZ
+14774,Ärztezentren Deutschschweiz AG,Wolleraustrasse 15n,Freienbach,hco,,,,,2500.0,,2500.0,SZ
+2045,Daniel Hertner,Waldeggstrasse10,Schwyz,hcp,,750.0,525.28,,,1012.74,2288.02,SZ
+11532,Marc Porzner,Oberdorfstrasse 41,Lachen SZ,hcp,,,910.84,,,1295.78,2206.62,SZ
+14556,Kompetenznetzwerk,Hungerstrasse 47,Wilen b. Wollerau,hco,,,,,2000.0,,2000.0,SZ
+14741,Uroviva AG,Churerstrasse 82,Pfäffikon SZ,hco,,,891.0,,,1081.0,1972.0,SZ
+5604,Michael Richter,Bahnhofstrasse 13,Pfäffikon SZ,hcp,,775.0,321.7,,,595.3,1692.0,SZ
+1265,Christian Steffen,Oberdorfstrasse 41,Lachen SZ,hcp,,,688.25,,,924.0,1612.25,SZ
+838,Axel Mischo,Oberdorfstrasse 41,Lachen,hcp,,750.0,324.48,,,342.2,1416.68,SZ
+6013,Nils Kucher,Untere Paulistrasse 16,Schindellegi,hcp,,1400.0,,,,,1400.0,SZ
+10607,Alain Mayer,Waldeggstrasse 14,Schwyz,hcp,,,326.65,,,969.35,1296.0,SZ
+13877,Olga Ballach,"Seeklinik Brunnen, Gersauerstrasse 8",Brunnen,hcp,,,390.61,,,872.47,1263.08,SZ
+11430,Katrin Dihr,Oberdorfstrasse 41,Lachen SZ,hcp,,,478.0,,,765.0,1243.0,SZ
+5029,Maria Teresa Neuhäusler,Sonnenpark 26,Pfäffikon SZ,hcp,,1200.0,,,,,1200.0,SZ
+13118,Carsten Meyer,Sagirain 2,Küssnacht am Rigi,hcp,,1000.0,,200.0,,,1200.0,SZ
+13063,Beeler Christian,Parkstrasse 19,Goldau,hcp,,1200.0,,,,,1200.0,SZ
+6729,Regina Streuli,Oberdorfstrasse 41,Lachen SZ,hcp,,,361.0,,,714.0,1075.0,SZ
+14545,Kinderärzte Zentralschweiz,Parkstrasse 1a Familienpraxis Goldau,Goldau,hco,,,,,1000.0,,1000.0,SZ
+4945,Marco Gebbers,Freiestrasse 71,Brunnen,hcp,,1000.0,,,,,1000.0,SZ
+13237,Daniela Kiepke,Rigiweg 12,Arth,hcp,,,146.0,,,746.0,892.0,SZ
+14179,Thomas Böker-Blum,"Spital Lachen, Oberdorfstrasse 41",Schwyz,hcp,,,221.1,,,635.96,857.0600000000001,SZ
+10602,Agnes Kneubühl,"Spital Lachen AG, Oberdorfstrasse 41",Lachen SZ,hcp,,,301.25,,,516.72,817.97,SZ
+11781,Oliver Kuonen,Lidwil 8,Altendorf,hcp,,800.0,,,,,800.0,SZ
+5599,Michael Pohly,Seestrasse 164,Bäch SZ,hcp,,800.0,,,,,800.0,SZ
+4284,Karl Peter Bolliger,"PraxisZentrum Altendorf AG, Dorfplatz 2",Altendorf,hcp,,,309.03,,,456.13,765.16,SZ
+3380,Hans Steiner,"Praxiszentrum Altendorf AG, Dorfplatz 2",Altendorf,hcp,,,309.03,,,456.13,765.16,SZ
+13961,Rainer Schramedei,Oberdorfstrasse 41,Lachen SZ,hcp,,,,,,756.37,756.37,SZ
+14291,Eric Jensen,Herrengasse 13,Schwyz,hcp,,700.0,,,,,700.0,SZ
+14367,Abdomed,Churerstrasse 54,Pfäffikon SZ,hco,,,313.23,,,364.07,677.3,SZ
+13217,Dai Do Do,Zentrum Staldenbach 5/7,Pfäffikon SZ,hcp,,666.7,,,,,666.7,SZ
+7909,Tim Dörflinger,"Praxis Tim Dörflinger, Wiesenstrasse 9a",Freienbach,hcp,,,168.0,,,392.0,560.0,SZ
+13132,Christen Karin,Herrengasse 8,Steinen,hcp,,500.0,,,,,500.0,SZ
+6427,Petra Jucker,Oberdorfstr. 41,Lachen,hcp,,420.0,,25.0,,,445.0,SZ
+14220,Uwe De Groot,Seestrasse 51,Gersau,hcp,,250.0,,,,,250.0,SZ
+13029,Armin Ulrich Becker,Spitalstrasse 30,Einsiedeln,hcp,,200.0,,,,,200.0,SZ
