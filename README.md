@@ -1,8 +1,15 @@
 # Pharmagelder
-This is how we exported money for doctors. The data is available at www.pharmagelder.ch.
+In this repository we will provide all our code and data. The result is available here: www.pharmagelder.ch  
+If you are looking for the data, see next chapter.
 
-## Data
-If you are just looking for the data, have a look at the [current database dump](data/5.%20livedump/pharmagelder.sql)
+## Where do I find the Data
+We provide the data in many different formats.
+* searchable database: www.pharmagelder.ch
+* [Different statistics on companies and addresses (tops, etc.)](data/99.%20analyzes/excel)
+* [CSV-Sheets for each canton and newest (2019) data](data/99.%20analyzes/canton2019)
+* [All matched addresses for 2019](data/99.%20analyzes/csv)
+* The raw export 2019 without matching: [The addresses](data/3.%20transformation/3_list_expanded.csv) and the [accumulated data](data/3.%20transformation/2_accumulations_cleaned.csv)
+* database dump of the current version (2020.08.31): [pharmagelder.sql](data/5.%20livedump/pharmagelder.sql)
 
 
 ## Other Important README-Files
